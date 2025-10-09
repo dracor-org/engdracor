@@ -229,7 +229,12 @@
     <xsl:attribute name="xml:id" select="d:re-prefix(.)"/>
   </xsl:template>
 
-  <xsl:template match="tei:sp[@xml:id]">
+  <!--
+    Handle speeches: this adds @who attributes if there is a JSON files with
+    speaker attributions. Speeches containing only <stage> (and <pb>) element
+    are handled below.
+  -->
+  <xsl:template match="tei:sp[@xml:id and count(*) &gt; count(tei:stage|tei:pb)]">
     <xsl:copy>
       <xsl:choose>
         <xsl:when test="$speakersjson">
@@ -247,6 +252,11 @@
       </xsl:choose>
       <xsl:apply-templates />
     </xsl:copy>
+  </xsl:template>
+
+  <!-- strip tei:sp wrapping only tei:stage (and tei:pb) keeping the children -->
+  <xsl:template match="tei:sp[tei:stage and count(*) eq count(tei:stage|tei:pb)]">
+    <xsl:apply-templates select="tei:stage|tei:pb"/>
   </xsl:template>
 
   <!-- fix @who references -->
