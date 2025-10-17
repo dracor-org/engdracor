@@ -155,7 +155,7 @@
   </xsl:template>
 
   <xsl:template
-    match="tei:*[tei:w or tei:pc]"
+    match="tei:*[(tei:w or tei:pc) and local-name() ne ('fw')]"
   >
     <xsl:copy>
       <xsl:apply-templates select="@*|*"/>
@@ -269,9 +269,10 @@
 
   <!-- strip machine generated castlist -->
   <xsl:template match="tei:div[@type='machine-generated_castlist']" />
-
   <!-- strip textual notes -->
   <xsl:template match="tei:div[@type='textual_notes']" />
+  <!-- strip forme work (fw) -->
+  <xsl:template match="tei:fw" />
 
   <xsl:template name="titles">
     <xsl:variable name="ep-title" select="//tei:xenoData/ep:epHeader/ep:title[1]"/>
