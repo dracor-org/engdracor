@@ -352,10 +352,7 @@
       <publisher xml:id="dracor">DraCor</publisher>
       <idno type="URL">https://dracor.org/</idno>
       <availability>
-        <licence>
-          <ab>CC0 1.0</ab>
-          <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-        </licence>
+        <licence target="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</licence>
       </availability>
       <idno type="wikidata" xml:base="http://www.wikidata.org/entity/"></idno>
     </publicationStmt>
