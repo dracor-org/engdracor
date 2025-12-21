@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000230" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -159,9 +160,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000230"
-                   passive="http://www.wikidata.org/entity/Q7776732"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000230" passive="http://www.wikidata.org/entity/Q7776732"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2468,8 +2467,7 @@
             <speaker>Vi. </speaker>
             <p>My name's Vittori. </p>
           </sp>
-          <sp who="#eng000230-horatio #eng000230-king-of-sicily"
-                   xml:id="eng000230-e114670">
+          <sp who="#eng000230-horatio #eng000230-king-of-sicily" xml:id="eng000230-e114670">
             <speaker>Ki. Hor. </speaker>
             <p>The Admirall of Naples? </p>
           </sp>
@@ -3398,8 +3396,7 @@
             <speaker>Vi. </speaker>
             <p>Vittori is our generall. </p>
           </sp>
-          <sp who="#eng000230-prince #eng000230-king-of-naples"
-                   xml:id="eng000230-e120400">
+          <sp who="#eng000230-prince #eng000230-king-of-naples" xml:id="eng000230-e120400">
             <speaker>Ki. Pr. </speaker>
             <p>Vittori? dares that traitour. </p>
           </sp>
@@ -6481,8 +6478,7 @@
               <l>Of that religious treasure, as y'are kings— </l>
             </lg>
           </sp>
-          <sp who="#eng000230-king-of-sicily #eng000230-king-of-naples"
-                   xml:id="eng000230-e139040">
+          <sp who="#eng000230-king-of-sicily #eng000230-king-of-naples" xml:id="eng000230-e139040">
             <speaker>Both Kings. </speaker>
             <p>A chaine of hands and hearts. </p>
           </sp>
@@ -6515,8 +6511,7 @@
               <l>Alphonso and Cassandra. </l>
             </lg>
           </sp>
-          <sp who="#eng000230-vittori #eng000230-alphonso #eng000230-cassandra"
-                   xml:id="eng000230-e139210">
+          <sp who="#eng000230-vittori #eng000230-alphonso #eng000230-cassandra" xml:id="eng000230-e139210">
             <speaker>Vit. Alp. Cas. </speaker>
             <p>All your creatures. </p>
             <stage xml:id="eng000230-e139230">Enter Mauritio, Fabio. </stage>
@@ -6599,6 +6594,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

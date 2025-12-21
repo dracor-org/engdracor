@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000447" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -117,9 +118,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000447"
-                   passive="http://www.wikidata.org/entity/Q7731937"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000447" passive="http://www.wikidata.org/entity/Q7731937"/>
     </listRelation>
   </standOff>
   <text>
@@ -3032,8 +3031,7 @@
               <l>Hold Gentlemen,— do not worry me. </l>
               <l>Which of you wou'd speak with me? </l>
             </sp>
-            <sp who="#eng000447-harlequin #eng000447-scaramouch"
-                      xml:id="eng000447-e26800">
+            <sp who="#eng000447-harlequin #eng000447-scaramouch" xml:id="eng000447-e26800">
               <speaker>Both. </speaker>
               <l>I, I, I, Madam— </l>
             </sp>
@@ -3041,8 +3039,7 @@
               <speaker>Mop. </speaker>
               <l>Both of you? </l>
             </sp>
-            <sp who="#eng000447-harlequin #eng000447-scaramouch"
-                      xml:id="eng000447-e26860">
+            <sp who="#eng000447-harlequin #eng000447-scaramouch" xml:id="eng000447-e26860">
               <speaker>Both. </speaker>
               <l>No, Madam, I, I. </l>
             </sp>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000384" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -158,9 +159,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000384"
-                   passive="http://www.wikidata.org/entity/Q7758395"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000384" passive="http://www.wikidata.org/entity/Q7758395"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -981,8 +980,7 @@
             <speaker>Gillip. </speaker>
             <p>THis is no time to talk now; they have begirt the Town, and will instantly attempt to storm it, the immediate danger calls for resistance, not counsel; Dion, go you to the gate that's next the harbour; and, Cremnofield, take you the charge of the Princess's persons; I'll to that Port against which the Kings Standard is advanc'd; if we must fall, let us not go out faintly. </p>
           </sp>
-          <sp who="#eng000384-eucratia #eng000384-leucanthe"
-                   xml:id="eng000384-e106490">
+          <sp who="#eng000384-eucratia #eng000384-leucanthe" xml:id="eng000384-e106490">
             <speaker>Eucratia and Leucanthe. </speaker>
             <p>The gods protect us. </p>
           </sp>
@@ -2212,6 +2210,6 @@
         <pb xml:id="eng000384-325-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

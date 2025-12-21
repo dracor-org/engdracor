@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000433" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -145,9 +146,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000433"
-                   passive="http://www.wikidata.org/entity/Q7770291"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000433" passive="http://www.wikidata.org/entity/Q7770291"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -1115,8 +1114,7 @@
             <speaker>Tay. </speaker>
             <p>Nay, now I am in, I will see a dance, though my shop-windowes be shut vp for't, tell us?— hum? dee heare? doo not they laugh at us? what were wee best to doe, the Masquers will doe no feates as long <pb n="21" xml:id="eng000433-017-b"/>we are here, be rul'd by me, harke euery one, 'tis our best course to dance a figary our selues, and then they'l thinke it a peece of the Plot, and we may goe off agen with the more credite, we may else kisse the Porters-lodge for't, let's put a tricke vpon 'em in reuenge, 'twill seeme a new device too. </p>
           </sp>
-          <sp who="#eng000433-carpenter #eng000433-blackguard #eng000433-painter #eng000433-tailor #eng000433-tailor-s-wife #eng000433-embroderer-s-wife #eng000433-feather-maker-s-wife #eng000433-property-man-s-wife"
-                   xml:id="eng000433-e106410">
+          <sp who="#eng000433-carpenter #eng000433-blackguard #eng000433-painter #eng000433-tailor #eng000433-tailor-s-wife #eng000433-embroderer-s-wife #eng000433-feather-maker-s-wife #eng000433-property-man-s-wife" xml:id="eng000433-e106410">
             <speaker>Om. </speaker>
             <p>Content. </p>
           </sp>
@@ -1216,6 +1214,6 @@
         </div>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

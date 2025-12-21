@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000004" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -155,9 +156,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000004"
-                   passive="http://www.wikidata.org/entity/Q16931157"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000004" passive="http://www.wikidata.org/entity/Q16931157"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -1042,8 +1041,7 @@
               </l>
             </sp>
             <pb xml:id="eng000004-009-b"/>
-            <sp who="#eng000004-cridous #eng000004-britael #eng000004-guerthed #eng000004-nennius #eng000004-belinus #eng000004-eulinus #eng000004-volusenus"
-                      xml:id="eng000004-e106650">
+            <sp who="#eng000004-cridous #eng000004-britael #eng000004-guerthed #eng000004-nennius #eng000004-belinus #eng000004-eulinus #eng000004-volusenus" xml:id="eng000004-e106650">
               <speaker>All. </speaker>
               <l>The gods blesse Britaine, and Cassibelane. </l>
             </sp>
@@ -1432,8 +1430,7 @@
               <l>Our Princes to rebell, to learne our strength. </l>
               <l>Lay hands on him: A Spy. </l>
             </sp>
-            <sp who="#eng000004-cridous #eng000004-britael #eng000004-guerthed #eng000004-nennius #eng000004-belinus #eng000004-eulinus #eng000004-volusenus"
-                      xml:id="eng000004-e109480">
+            <sp who="#eng000004-cridous #eng000004-britael #eng000004-guerthed #eng000004-nennius #eng000004-belinus #eng000004-eulinus #eng000004-volusenus" xml:id="eng000004-e109480">
               <speaker>All. </speaker>
               <l>A Spy, a spie, a traytour, and a spie. <stage xml:id="eng000004-e109500">they chaine him. </stage>
               </l>
@@ -4088,6 +4085,6 @@
         <pb xml:id="eng000004-036-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

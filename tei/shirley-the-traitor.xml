@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000227" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -157,9 +158,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000227"
-                   passive="http://www.wikidata.org/entity/Q7769917"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000227" passive="http://www.wikidata.org/entity/Q7769917"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -865,8 +864,7 @@
             <speaker>Du. </speaker>
             <p>Ha! </p>
           </sp>
-          <sp who="#eng000227-alonzo #eng000227-lorenzo #eng000227-depazzi"
-                   xml:id="eng000227-e104630">
+          <sp who="#eng000227-alonzo #eng000227-lorenzo #eng000227-depazzi" xml:id="eng000227-e104630">
             <speaker>All. </speaker>
             <p>The Duke is coole. </p>
           </sp>
@@ -877,8 +875,7 @@
               <l>Lorenzo what you say. </l>
             </lg>
           </sp>
-          <sp who="#eng000227-alonzo #eng000227-lorenzo #eng000227-depazzi"
-                   xml:id="eng000227-e104690">
+          <sp who="#eng000227-alonzo #eng000227-lorenzo #eng000227-depazzi" xml:id="eng000227-e104690">
             <speaker>All. </speaker>
             <lg>
               <l>I say my Lord? </l>
@@ -3962,8 +3959,7 @@
               <l>But must not so dishonour you. </l>
             </lg>
           </sp>
-          <sp who="#eng000227-gentleman-1 #eng000227-gentleman-2 #eng000227-gentleman-3 #eng000227-gentleman-4 #eng000227-gentleman-5"
-                   xml:id="eng000227-e124290">
+          <sp who="#eng000227-gentleman-1 #eng000227-gentleman-2 #eng000227-gentleman-3 #eng000227-gentleman-4 #eng000227-gentleman-5" xml:id="eng000227-e124290">
             <speaker>All gentl. </speaker>
             <p>We obey. </p>
             <stage xml:id="eng000227-e124310">Exeunt Gentlemen. </stage>
@@ -6603,6 +6599,6 @@
         <pb xml:id="eng000227-041-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

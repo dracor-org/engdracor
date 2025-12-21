@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000144" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -175,9 +176,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000144"
-                   passive="http://www.wikidata.org/entity/Q7749625"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000144" passive="http://www.wikidata.org/entity/Q7749625"/>
     </listRelation>
   </standOff>
   <text>
@@ -3497,8 +3496,7 @@
             <l>For words, that have in fact deserv'd so well. </l>
             <l>Let the one excuse the other. </l>
           </sp>
-          <sp who="#eng000144-roderigo #eng000144-jacomo #eng000144-piero #eng000144-gonzaga #eng000144-astutio"
-                   xml:id="eng000144-e123290">
+          <sp who="#eng000144-roderigo #eng000144-jacomo #eng000144-piero #eng000144-gonzaga #eng000144-astutio" xml:id="eng000144-e123290">
             <speaker>All. </speaker>
             <l>Excellent Princesse! </l>
           </sp>
@@ -5379,8 +5377,7 @@
             <l>Thus as a principal ornament to the Church </l>
             <l>I sease her. </l>
           </sp>
-          <sp who="#eng000144-roderigo #eng000144-jacomo #eng000144-piero #eng000144-gonzaga #eng000144-astutio"
-                   xml:id="eng000144-e136550">
+          <sp who="#eng000144-roderigo #eng000144-jacomo #eng000144-piero #eng000144-gonzaga #eng000144-astutio" xml:id="eng000144-e136550">
             <speaker>All. </speaker>
             <l>How. </l>
           </sp>
@@ -5508,6 +5505,6 @@
         <trailer>The END </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

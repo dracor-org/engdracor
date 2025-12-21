@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000149" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -163,9 +164,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000149"
-                   passive="http://www.wikidata.org/entity/Q7771672"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000149" passive="http://www.wikidata.org/entity/Q7771672"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -4269,8 +4268,7 @@
               <l>The forfeit of your lives to execute </l>
               <l>What I commanded. </l>
             </sp>
-            <sp who="#eng000149-malefort-sr #eng000149-montrevile"
-                      xml:id="eng000149-e129500">
+            <sp who="#eng000149-malefort-sr #eng000149-montrevile" xml:id="eng000149-e129500">
               <speaker>Mal. Montrevile, </speaker>
               <l>how is't friend? </l>
             </sp>
@@ -4747,8 +4745,7 @@
               <l>A caper or two in the ayre, and I will doe it, </l>
               <l>Rather then blow my nailes here. </l>
             </sp>
-            <sp who="#eng000149-soldier-1 #eng000149-soldier-2 #eng000149-soldier-3"
-                      xml:id="eng000149-e133160">
+            <sp who="#eng000149-soldier-1 #eng000149-soldier-2 #eng000149-soldier-3" xml:id="eng000149-e133160">
               <speaker>Sold. </speaker>
               <l>O brave Captaine! </l>
             </sp>
@@ -4824,6 +4821,6 @@
         <pb xml:id="eng000149-041-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000224" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -151,9 +152,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000224"
-                   passive="http://www.wikidata.org/entity/Q7761707"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000224" passive="http://www.wikidata.org/entity/Q7761707"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -5529,8 +5528,7 @@
             <l>Expect the censure of our lawes you gentlemen; </l>
             <l>We onely banish from the court. </l>
           </sp>
-          <sp who="#eng000224-guido #eng000224-aloisio #eng000224-alexio"
-                   xml:id="eng000224-e136210">
+          <sp who="#eng000224-guido #eng000224-aloisio #eng000224-alexio" xml:id="eng000224-e136210">
             <speaker>Gui. Aloi. Alex. </speaker>
             <l>You are mercifull. </l>
           </sp>

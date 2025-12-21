@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000240" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -189,9 +190,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000240"
-                   passive="http://www.wikidata.org/entity/Q7760512"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000240" passive="http://www.wikidata.org/entity/Q7760512"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -3840,8 +3839,7 @@
           <speaker>Luss. </speaker>
           <l>Now my Lords. </l>
         </sp>
-        <sp who="#eng000240-supervacuo #eng000240-ambitioso"
-                xml:id="eng000240-e123770">
+        <sp who="#eng000240-supervacuo #eng000240-ambitioso" xml:id="eng000240-e123770">
           <speaker>Both. </speaker>
           <l>Oh!— </l>
         </sp>
@@ -6355,6 +6353,6 @@
         <pb xml:id="eng000240-037-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

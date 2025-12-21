@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000012" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -160,9 +161,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000012"
-                   passive="http://www.wikidata.org/entity/Q7720251"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000012" passive="http://www.wikidata.org/entity/Q7720251"/>
     </listRelation>
   </standOff>
   <text>
@@ -3725,8 +3724,7 @@
               <gap extent="1" n="25-b-3330" unit="paragraphs"/>
             </stage>
             <pb xml:id="eng000012-026-a"/>
-            <sp who="#eng000012-christalla #eng000012-philema"
-                      xml:id="eng000012-e124470">
+            <sp who="#eng000012-christalla #eng000012-philema" xml:id="eng000012-e124470">
               <speaker>Both. </speaker>
               <l>Madam, here. </l>
             </sp>
@@ -4814,8 +4812,7 @@
               <l>Vnto my bed-chamber: none on his forehead </l>
               <l>Were a distempered looke. </l>
             </sp>
-            <sp who="#eng000012-ithocles #eng000012-calantha #eng000012-prophilus #eng000012-orgilus #eng000012-euphrania #eng000012-hemophil #eng000012-groneas"
-                      xml:id="eng000012-e131970">
+            <sp who="#eng000012-ithocles #eng000012-calantha #eng000012-prophilus #eng000012-orgilus #eng000012-euphrania #eng000012-hemophil #eng000012-groneas" xml:id="eng000012-e131970">
               <speaker>Omnes. </speaker>
               <l>The gods preserue'ee'ee. </l>
             </sp>
@@ -5397,8 +5394,7 @@
               <speaker>Near. </speaker>
               <l>Long liue Calantha, Sparta's Soueraigne Queene. </l>
             </sp>
-            <sp who="#eng000012-groneas #eng000012-hemophil #eng000012-euphrania #eng000012-christalla #eng000012-philema #eng000012-prophilus #eng000012-nearchus #eng000012-crotolon #eng000012-amelus #eng000012-armostes #eng000012-bassanes #eng000012-orgilus"
-                      xml:id="eng000012-e135900">
+            <sp who="#eng000012-groneas #eng000012-hemophil #eng000012-euphrania #eng000012-christalla #eng000012-philema #eng000012-prophilus #eng000012-nearchus #eng000012-crotolon #eng000012-amelus #eng000012-armostes #eng000012-bassanes #eng000012-orgilus" xml:id="eng000012-e135900">
               <speaker>Omnes. </speaker>
               <l>Long liue the Queene. </l>
             </sp>
@@ -5839,8 +5835,7 @@
                 <div type="song" xml:id="eng000012-e139000">
                   <pb xml:id="eng000012-040-b"/>
                   <head>A Song. </head>
-                  <sp who="#eng000012-singer-1 #eng000012-singer-2 #eng000012-singer-3"
-                               xml:id="eng000012-040-b-0011">
+                  <sp who="#eng000012-singer-1 #eng000012-singer-2 #eng000012-singer-3" xml:id="eng000012-040-b-0011">
                     <speaker>All .</speaker>
                     <l>Glories, pleasures, pomps, delights, and ease, </l>
                     <l>Can but please </l>
@@ -5862,8 +5857,7 @@
                     <l>Earthly honors flow and wast, </l>
                     <l>Time alone doth change and last. </l>
                   </sp>
-                  <sp who="#eng000012-singer-1 #eng000012-singer-2 #eng000012-singer-3"
-                               xml:id="eng000012-e139141">
+                  <sp who="#eng000012-singer-1 #eng000012-singer-2 #eng000012-singer-3" xml:id="eng000012-e139141">
                     <speaker>All .</speaker>
                     <l>Sorrowes mingled with contents, prepare </l>
                     <l>Rest for care; </l>
@@ -5897,8 +5891,7 @@
               <speaker>Near. </speaker>
               <l>I am your King. </l>
             </sp>
-            <sp who="#eng000012-groneas #eng000012-hemophil #eng000012-euphrania #eng000012-christalla #eng000012-philema #eng000012-prophilus #eng000012-nearchus #eng000012-crotolon #eng000012-amelus #eng000012-armostes #eng000012-bassanes"
-                      xml:id="eng000012-e139350">
+            <sp who="#eng000012-groneas #eng000012-hemophil #eng000012-euphrania #eng000012-christalla #eng000012-philema #eng000012-prophilus #eng000012-nearchus #eng000012-crotolon #eng000012-amelus #eng000012-armostes #eng000012-bassanes" xml:id="eng000012-e139350">
               <speaker>Omnes. </speaker>
               <l>Long liue </l>
               <l>Nearchus King of Sparta. </l>
@@ -5916,6 +5909,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

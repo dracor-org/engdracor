@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000174" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -166,9 +167,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000174"
-                   passive="http://www.wikidata.org/entity/Q5649187"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000174" passive="http://www.wikidata.org/entity/Q5649187"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -312,7 +311,7 @@
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">A Lady. </cell>
-              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"/>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Hannibal. </cell>
@@ -320,7 +319,7 @@
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">2. other Ladies. </cell>
-              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"/>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Nuntius. </cell>
@@ -340,11 +339,11 @@
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Crates. </cell>
-              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"/>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Messenger. </cell>
-              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"/>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Scipio. </cell>
@@ -376,18 +375,18 @@
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Lucius. </cell>
-              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"/>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">A young Lady. </cell>
-              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"/>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Prusias. </cell>
               <cell cols="1" role="data" rows="1">By William Shurlock. </cell>
             </row>
             <row role="data">
-              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"/>
               <cell cols="1" role="data" rows="1">Mutes. </cell>
             </row>
             <row role="data">
@@ -4009,6 +4008,6 @@
         <pb xml:id="eng000174-040-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

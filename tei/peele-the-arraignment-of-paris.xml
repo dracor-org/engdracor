@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000183" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -2639,8 +2640,7 @@
                 <speaker>Atr. </speaker>
                 <l>Atropos occat. </l>
               </sp>
-              <sp who="#eng000183-clotho #eng000183-lachesis #eng000183-atropos"
-                         xml:id="eng000183-e116880">
+              <sp who="#eng000183-clotho #eng000183-lachesis #eng000183-atropos" xml:id="eng000183-e116880">
                 <speaker>Tres simul. </speaker>
                 <l>Viue diu foelix votis hominúmque deûmque: </l>
                 <l>Corpore, mente, libro, doctissima, candida, casta. </l>
@@ -2723,10 +2723,7 @@
           <l>So Pallas yeeldes the prayse hereof to thee▪ </l>
           <l>For wisedome, princely state, and peerelesse beautie. </l>
         </sp>
-        <div cert="high"
-                 type="epilogue"
-                 xml:id="eng000183-e117430"
-                 xml:lang="lat">
+        <div cert="high" type="epilogue" xml:id="eng000183-e117430" xml:lang="lat">
           <head>EPILOGVS. </head>
           <stage xml:id="eng000183-e117440">Omnes simul. </stage>
           <l>Viue diu foelix votis hominúmque Deûmque. </l>
@@ -2737,6 +2734,6 @@
         </div>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

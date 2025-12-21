@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000223" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -161,9 +162,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000223"
-                   passive="http://www.wikidata.org/entity/Q7714150"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000223" passive="http://www.wikidata.org/entity/Q7714150"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2052,8 +2051,7 @@
             <speaker>Cap. </speaker>
             <p>Shall I speake for you </p>
           </sp>
-          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4"
-                   xml:id="eng000223-e111720">
+          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4" xml:id="eng000223-e111720">
             <speaker>Omnes. </speaker>
             <p>I I agreed you shall be Captaine </p>
           </sp>
@@ -3919,8 +3917,7 @@
             <l>Talke of confining me? we are mercifull </l>
             <l>To let you keepe your proud heade on. </l>
           </sp>
-          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4"
-                   xml:id="eng000223-e123400">
+          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4" xml:id="eng000223-e123400">
             <speaker>Reb. </speaker>
             <l>What will be come of us? </l>
           </sp>
@@ -3967,8 +3964,7 @@
             <l>Protect them, but if guilty let them dye </l>
             <l>Like slaves unpittied. </l>
           </sp>
-          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4"
-                   xml:id="eng000223-e123780">
+          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4" xml:id="eng000223-e123780">
             <speaker>Reb. </speaker>
             <l>A Philonax, a Philonax </l>
           </sp>
@@ -4017,8 +4013,7 @@
             <speaker>Dam. </speaker>
             <l>Away away </l>
           </sp>
-          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4"
-                   xml:id="eng000223-e124070">
+          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4" xml:id="eng000223-e124070">
             <speaker>Reb. </speaker>
             <l>So you must sir </l>
           </sp>
@@ -4026,8 +4021,7 @@
             <speaker>Dam. </speaker>
             <p>Would I might never see my wife and children in my right wits, if I be a traytor that's enough my Lord, the'il carry me away too. </p>
           </sp>
-          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4"
-                   xml:id="eng000223-e124110">
+          <sp who="#eng000223-rebel-1 #eng000223-rebel-2 #eng000223-rebel-3 #eng000223-rebel-4" xml:id="eng000223-e124110">
             <speaker>Reb. </speaker>
             <l>De'e remember a cleane halter? come on sir. </l>
             <stage xml:id="eng000223-e124130">Exit </stage>
@@ -5022,6 +5016,6 @@
         <pb xml:id="eng000223-034-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000042" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -163,9 +164,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000042"
-                   passive="http://www.wikidata.org/entity/Q5378708"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000042" passive="http://www.wikidata.org/entity/Q5378708"/>
     </listRelation>
   </standOff>
   <text>
@@ -2448,8 +2447,7 @@
           <l>That when your fathers in his soundest sleepe, </l>
           <l>You ope the Dore and runne away with them, </l>
         </sp>
-        <sp who="#eng000042-marina #eng000042-laurentia #eng000042-mathea"
-                xml:id="eng000042-e115280">
+        <sp who="#eng000042-marina #eng000042-laurentia #eng000042-mathea" xml:id="eng000042-e115280">
           <speaker>All sisters. </speaker>
           <p>So wee will rather then misse of them. </p>
         </sp>
@@ -3988,8 +3986,7 @@
           <l>And anger him I feare, ere I haue done. </l>
         </sp>
         <stage xml:id="eng000042-e124590">Enter Anthony. </stage>
-        <sp who="#eng000042-marina #eng000042-mathea #eng000042-laurentia"
-                xml:id="eng000042-e124600">
+        <sp who="#eng000042-marina #eng000042-mathea #eng000042-laurentia" xml:id="eng000042-e124600">
           <speaker>All. </speaker>
           <l>Whom Anthony our friend, our Schoole-maister? </l>
           <l>Now helpe vs Gentle Anthony, or neuer. </l>
@@ -4061,8 +4058,7 @@
           <l>For sooner may one day the Sea lie still, </l>
           <l>Then once restraine a Woman of her will. </l>
         </sp>
-        <sp who="#eng000042-marina #eng000042-mathea #eng000042-laurentia"
-                xml:id="eng000042-e125070">
+        <sp who="#eng000042-marina #eng000042-mathea #eng000042-laurentia" xml:id="eng000042-e125070">
           <speaker>All. </speaker>
           <p>Sweete Anthony, how shall we quit thy hire? </p>
         </sp>
@@ -4826,6 +4822,6 @@
         <pb xml:id="eng000042-042-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

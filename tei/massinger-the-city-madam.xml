@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000386" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -181,9 +182,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000386"
-                   passive="http://www.wikidata.org/entity/Q7723179"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000386" passive="http://www.wikidata.org/entity/Q7723179"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -4143,8 +4142,7 @@
               <l>For me? and this choice modest beauty wrought </l>
               <l>To feed my appetite. </l>
             </sp>
-            <sp who="#eng000386-goldwire-junior #eng000386-tradewell-junior #eng000386-shave-em #eng000386-secret #eng000386-gettall #eng000386-ding-em"
-                      xml:id="eng000386-e126530">
+            <sp who="#eng000386-goldwire-junior #eng000386-tradewell-junior #eng000386-shave-em #eng000386-secret #eng000386-gettall #eng000386-ding-em" xml:id="eng000386-e126530">
               <speaker>All. </speaker>
               <l>We are all your creatures. </l>
             </sp>
@@ -4298,8 +4296,7 @@
               <l>In your penitent tears, and quite forget </l>
               <l>Powders, and bitter almonds. </l>
             </sp>
-            <sp who="#eng000386-shave-em #eng000386-secret #eng000386-ding-em"
-                      xml:id="eng000386-e127530">
+            <sp who="#eng000386-shave-em #eng000386-secret #eng000386-ding-em" xml:id="eng000386-e127530">
               <speaker>Shavem, Secret, Dingem. </speaker>
               <l>Will you shew no mercy? </l>
             </sp>
@@ -5909,8 +5906,7 @@
               <speaker>Goldwire. </speaker>
               <l>Mercv. </l>
             </sp>
-            <sp who="#eng000386-tradewell-junior #eng000386-goldwire-senior #eng000386-tradewell-senior #eng000386-fortune #eng000386-hoyst #eng000386-penury #eng000386-shave-em #eng000386-secret #eng000386-ding-em #eng000386-stargaze #eng000386-milliscent"
-                      xml:id="eng000386-e138440">
+            <sp who="#eng000386-tradewell-junior #eng000386-goldwire-senior #eng000386-tradewell-senior #eng000386-fortune #eng000386-hoyst #eng000386-penury #eng000386-shave-em #eng000386-secret #eng000386-ding-em #eng000386-stargaze #eng000386-milliscent" xml:id="eng000386-e138440">
               <speaker>Tradewell and the rest. </speaker>
               <l>Good Sir mercy. </l>
             </sp>
@@ -5967,6 +5963,6 @@
         <pb xml:id="eng000386-043-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

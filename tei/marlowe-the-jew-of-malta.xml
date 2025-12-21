@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000123" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -210,9 +211,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000123"
-                   passive="http://www.wikidata.org/entity/Q649741"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000123" passive="http://www.wikidata.org/entity/Q649741"/>
     </listRelation>
   </standOff>
   <text>
@@ -842,8 +841,7 @@
           <speaker>Read. </speaker>
           <l>Lastly, he that denies this, shall absolutely lose al he has. </l>
         </sp>
-        <sp who="#eng000123-jew-1 #eng000123-jew-2 #eng000123-jew-3"
-                xml:id="eng000123-e104530">
+        <sp who="#eng000123-jew-1 #eng000123-jew-2 #eng000123-jew-3" xml:id="eng000123-e104530">
           <speaker>All 3 Iewes. </speaker>
           <l>Oh my Lord we will giue halfe. </l>
         </sp>
@@ -1909,8 +1907,7 @@
           <l>Come then, here's the marketplace; whats the price </l>
           <l>Of this slaue, 200 Crowns? Do the Turke weigh so much? </l>
         </sp>
-        <sp who="#eng000123-officer-1 #eng000123-officer-2"
-                xml:id="eng000123-e111890">
+        <sp who="#eng000123-officer-1 #eng000123-officer-2" xml:id="eng000123-e111890">
           <speaker>Off. </speaker>
           <l>Sir, that's his price. </l>
         </sp>
@@ -1936,8 +1933,7 @@
           <speaker>Bar. </speaker>
           <l>Why should this Turke be dearer then that Moore? </l>
         </sp>
-        <sp who="#eng000123-officer-1 #eng000123-officer-2"
-                xml:id="eng000123-e112050">
+        <sp who="#eng000123-officer-1 #eng000123-officer-2" xml:id="eng000123-e112050">
           <speaker>Off. </speaker>
           <l>Because he is young and has more qualities. </l>
         </sp>
@@ -2080,8 +2076,7 @@
           <speaker>Bar. </speaker>
           <l>Marry will I, Sir. </l>
         </sp>
-        <sp who="#eng000123-officer-1 #eng000123-officer-2"
-                xml:id="eng000123-e112880">
+        <sp who="#eng000123-officer-1 #eng000123-officer-2" xml:id="eng000123-e112880">
           <speaker>Off. </speaker>
           <l>Come, I haue made a reasonable market, let's away. </l>
         </sp>
@@ -5447,6 +5442,6 @@
         <pb xml:id="eng000123-038-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

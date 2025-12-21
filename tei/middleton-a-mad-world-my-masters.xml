@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000162" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -174,9 +175,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000162"
-                   passive="http://www.wikidata.org/entity/Q4658017"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000162" passive="http://www.wikidata.org/entity/Q4658017"/>
     </listRelation>
   </standOff>
   <text>
@@ -736,8 +735,7 @@
             <speaker>Sir Boun. </speaker>
             <p>Oh not so, good Knights, not so, you know my humour; most welcome good Sir Andro Pelcut, Sir Aquitaino Colewort, most welcome. </p>
           </sp>
-          <sp who="#eng000162-knight-1 #eng000162-knight-2"
-                   xml:id="eng000162-e103410">
+          <sp who="#eng000162-knight-1 #eng000162-knight-2" xml:id="eng000162-e103410">
             <speaker>Both. </speaker>
             <p>Thankes good Sir Bounteous. </p>
             <stage xml:id="eng000162-e103430">Exeunt at one doore </stage>
@@ -2279,8 +2277,7 @@
             <p>Subtilly brought about, yet 't will not doe, the'le sticke by't; a word with you gentlemen. </p>
           </sp>
           <pb xml:id="eng000162-018-b"/>
-          <sp who="#eng000162-knight-1 #eng000162-knight-2"
-                   xml:id="eng000162-e111580">
+          <sp who="#eng000162-knight-1 #eng000162-knight-2" xml:id="eng000162-e111580">
             <speaker>Both. </speaker>
             <p>What saies M. Doctor? </p>
           </sp>
@@ -2624,8 +2621,7 @@
             <speaker>Anti. </speaker>
             <p>Why master Folly-wit? </p>
           </sp>
-          <sp who="#eng000162-lieutenant #eng000162-ancient-hoboy #eng000162-follywit-s-cohorts"
-                   xml:id="eng000162-e113420">
+          <sp who="#eng000162-lieutenant #eng000162-ancient-hoboy #eng000162-follywit-s-cohorts" xml:id="eng000162-e113420">
             <speaker>All. </speaker>
             <p>Captaine? </p>
           </sp>
@@ -4660,6 +4656,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

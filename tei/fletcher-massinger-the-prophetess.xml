@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000346" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -222,9 +223,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000346"
-                   passive="http://www.wikidata.org/entity/Q7758590"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000346" passive="http://www.wikidata.org/entity/Q7758590"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -1848,8 +1847,7 @@
               <speaker>Dio. </speaker>
               <l>Ha? in the Air? </l>
             </sp>
-            <sp who="#eng000346-delphia #eng000346-drusilla #eng000346-maximinian #eng000346-guard #eng000346-aper #eng000346-senator-1 #eng000346-senator-2 #eng000346-geta #eng000346-officers"
-                      xml:id="eng000346-e111150">
+            <sp who="#eng000346-delphia #eng000346-drusilla #eng000346-maximinian #eng000346-guard #eng000346-aper #eng000346-senator-1 #eng000346-senator-2 #eng000346-geta #eng000346-officers" xml:id="eng000346-e111150">
               <speaker>All. </speaker>
               <l>Miraculous. </l>
             </sp>
@@ -3504,8 +3502,7 @@
               <l>Remove to night: </l>
               <l>five dayes shall bring me to you. </l>
             </sp>
-            <sp who="#eng000346-niger #eng000346-senator-1 #eng000346-senator-2 #eng000346-guard-1 #eng000346-guard-2 #eng000346-guard-3"
-                      xml:id="eng000346-e122710">
+            <sp who="#eng000346-niger #eng000346-senator-1 #eng000346-senator-2 #eng000346-guard-1 #eng000346-guard-2 #eng000346-guard-3" xml:id="eng000346-e122710">
               <speaker>All. </speaker>
               <l>Happinesse </l>
               <l>to Cesar, and glorious victorie. <stage xml:id="eng000346-e122740">Exeunt. </stage>
@@ -3964,8 +3961,7 @@
               <l>the day, and all is ours. <stage xml:id="eng000346-e126150">Retreat. </stage>
               </l>
             </sp>
-            <sp who="#eng000346-geta #eng000346-guard-1 #eng000346-guard-2 #eng000346-guard-3 #eng000346-soldiers"
-                      xml:id="eng000346-e126160">
+            <sp who="#eng000346-geta #eng000346-guard-1 #eng000346-guard-2 #eng000346-guard-3 #eng000346-soldiers" xml:id="eng000346-e126160">
               <speaker>All. </speaker>
               <l>Victory, Victory. <stage xml:id="eng000346-e126180">Exeunt. </stage>
               </l>
@@ -4963,6 +4959,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

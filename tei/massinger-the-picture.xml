@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000146" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -139,9 +140,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000146"
-                   passive="http://www.wikidata.org/entity/Q7757053"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000146" passive="http://www.wikidata.org/entity/Q7757053"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -5918,8 +5917,7 @@
               <l>O deere Madam </l>
               <l>Wrong not your greatnesse so. </l>
             </sp>
-            <sp who="#eng000146-ubaldo #eng000146-ricardo #eng000146-mathias #eng000146-baptista #eng000146-ladislaus #eng000146-ferdinand #eng000146-eubulus #eng000146-hilario"
-                      xml:id="eng000146-e141300">
+            <sp who="#eng000146-ubaldo #eng000146-ricardo #eng000146-mathias #eng000146-baptista #eng000146-ladislaus #eng000146-ferdinand #eng000146-eubulus #eng000146-hilario" xml:id="eng000146-e141300">
               <speaker>Omnes. </speaker>
               <l>We all are sutors. </l>
             </sp>
@@ -5992,6 +5990,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

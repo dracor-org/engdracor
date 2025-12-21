@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000374" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -195,9 +196,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000374"
-                   passive="http://www.wikidata.org/entity/Q7756172"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000374" passive="http://www.wikidata.org/entity/Q7756172"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2659,8 +2658,7 @@
             <l>Halfe cleft with thunder, to this grove </l>
             <l>We banish them. </l>
           </sp>
-          <sp who="#eng000374-vespa #eng000374-hornet #eng000374-humble-bee #eng000374-fucus"
-                   xml:id="eng000374-e117950">
+          <sp who="#eng000374-vespa #eng000374-hornet #eng000374-humble-bee #eng000374-fucus" xml:id="eng000374-e117950">
             <speaker>All. </speaker>
             <l>Some mercie, Iove. </l>
           </sp>
@@ -2678,8 +2676,7 @@
             <l>In stead of giving poore Bees food, </l>
             <l>You eat their flesh and drunk their blood. </l>
           </sp>
-          <sp who="#eng000374-vespa #eng000374-hornet #eng000374-humble-bee #eng000374-fucus"
-                   xml:id="eng000374-e118090">
+          <sp who="#eng000374-vespa #eng000374-hornet #eng000374-humble-bee #eng000374-fucus" xml:id="eng000374-e118090">
             <speaker>All. </speaker>
             <l>Be this our warning. </l>
           </sp>
@@ -2737,6 +2734,6 @@
         </div>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

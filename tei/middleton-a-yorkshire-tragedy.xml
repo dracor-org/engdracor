@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000206" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -145,9 +146,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000206"
-                   passive="http://www.wikidata.org/entity/Q4383498"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000206" passive="http://www.wikidata.org/entity/Q4383498"/>
     </listRelation>
   </standOff>
   <text>
@@ -1181,8 +1180,7 @@
           <l>And spoile his saruants. </l>
         </sp>
         <stage xml:id="eng000206-e106700">Enters two seruants. </stage>
-        <sp who="#eng000206-servant #eng000206-servant-1"
-                xml:id="eng000206-e106710">
+        <sp who="#eng000206-servant #eng000206-servant-1" xml:id="eng000206-e106710">
           <speaker>Ambo sir, </speaker>
           <l>Please you leaue this most accursed place, a surgeon waites within. </l>
         </sp>
@@ -1226,8 +1224,7 @@
         </sp>
         <stage xml:id="eng000206-e107000">Enter M. of the Colledge, 3. Gentlemen, and others with Holberds. </stage>
         <stage xml:id="eng000206-e107010">Finde him. </stage>
-        <sp who="#eng000206-gentleman-1 #eng000206-gentleman-2 #eng000206-gentleman-3"
-                xml:id="eng000206-e107020">
+        <sp who="#eng000206-gentleman-1 #eng000206-gentleman-2 #eng000206-gentleman-3" xml:id="eng000206-e107020">
           <speaker>All. </speaker>
           <l>Heere, heere, yonder, yonder. </l>
         </sp>
@@ -1508,6 +1505,6 @@
         <pb xml:id="eng000206-016-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

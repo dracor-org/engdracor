@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000329" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -188,9 +189,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000329"
-                   passive="http://www.wikidata.org/entity/Q16386830"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000329" passive="http://www.wikidata.org/entity/Q16386830"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -6365,8 +6364,7 @@
               <l>How now, what's this? more drops to th'Ocean? </l>
               <l>Whose body's this? </l>
             </sp>
-            <sp who="#eng000329-captain-1 #eng000329-captain-2"
-                      xml:id="eng000329-e139040">
+            <sp who="#eng000329-captain-1 #eng000329-captain-2" xml:id="eng000329-e139040">
               <speaker>Capt. </speaker>
               <l>The noble Polidor, </l>
               <l>This speakes his death. </l>

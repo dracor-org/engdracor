@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000017" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -135,9 +136,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000017"
-                   passive="http://www.wikidata.org/entity/Q6690010"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000017" passive="http://www.wikidata.org/entity/Q6690010"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -227,7 +226,7 @@
               <cell cols="1" role="data" rows="1">Servant to Maurucio. </cell>
             </row>
             <row role="data">
-              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"/>
               <cell cols="1" role="data" rows="1">Attendants. </cell>
             </row>
           </table>
@@ -4762,8 +4761,7 @@
             <l>Reigne in the triumph of thy martyrdome, </l>
             <l>Earth was vnworthy of thee. </l>
           </sp>
-          <sp who="#eng000017-nibrassa #eng000017-petruchio"
-                   xml:id="eng000017-e130170">
+          <sp who="#eng000017-nibrassa #eng000017-petruchio" xml:id="eng000017-e130170">
             <speaker>Nib. et Petr. </speaker>
             <l>Now on our liues we both beleeue him. </l>
           </sp>
@@ -5078,8 +5076,7 @@
             <stage xml:id="eng000017-e132500">hee ioynes their hands. </stage>
             <l>Each to each others comfort and content. </l>
           </sp>
-          <sp who="#eng000017-d-avolos #eng000017-fiormonda #eng000017-fernando #eng000017-colona #eng000017-julia #eng000017-petruchio #eng000017-nibrassa"
-                   xml:id="eng000017-e132520">
+          <sp who="#eng000017-d-avolos #eng000017-fiormonda #eng000017-fernando #eng000017-colona #eng000017-julia #eng000017-petruchio #eng000017-nibrassa" xml:id="eng000017-e132520">
             <speaker>Omnes. </speaker>
             <l>Long liue Roseilli. </l>
           </sp>
@@ -5159,6 +5156,6 @@
         <pb xml:id="eng000017-043-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

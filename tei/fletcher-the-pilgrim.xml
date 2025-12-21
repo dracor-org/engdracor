@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000350" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -224,9 +225,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000350"
-                   passive="http://www.wikidata.org/entity/Q7757113"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000350" passive="http://www.wikidata.org/entity/Q7757113"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -793,8 +792,7 @@
               <l>Ye dull Knave, </l>
               <l>Are not these wretches served yet? </l>
             </sp>
-            <sp who="#eng000350-beggar-1 #eng000350-beggar-2 #eng000350-beggar-3 #eng000350-beggar-4"
-                      xml:id="eng000350-e103830">
+            <sp who="#eng000350-beggar-1 #eng000350-beggar-2 #eng000350-beggar-3 #eng000350-beggar-4" xml:id="eng000350-e103830">
               <speaker>Beg. </speaker>
               <l>'Blesse my Mistris. </l>
             </sp>
@@ -814,8 +812,7 @@
               <l>Or I'le serve you out next: even out o' dores, sirah; </l>
               <l>And serve 'em quickly too. </l>
             </sp>
-            <sp who="#eng000350-beggar-1 #eng000350-beggar-2 #eng000350-beggar-3 #eng000350-beggar-4"
-                      xml:id="eng000350-e103950">
+            <sp who="#eng000350-beggar-1 #eng000350-beggar-2 #eng000350-beggar-3 #eng000350-beggar-4" xml:id="eng000350-e103950">
               <speaker>Beg. </speaker>
               <l>Heaven blesse the Lady. </l>
             </sp>
@@ -1684,8 +1681,7 @@
               <l>Is your tongue found? go off, and let me talk with him; </l>
               <l>An keepe your watches round. </l>
             </sp>
-            <sp who="#eng000350-outlaw-1 #eng000350-outlaw-2 #eng000350-outlaw-3 #eng000350-outlaw-4"
-                      xml:id="eng000350-e109590">
+            <sp who="#eng000350-outlaw-1 #eng000350-outlaw-2 #eng000350-outlaw-3 #eng000350-outlaw-4" xml:id="eng000350-e109590">
               <speaker>All. </speaker>
               <l>We are ready Captaine. </l>
             </sp>
@@ -4327,8 +4323,7 @@
               <speaker>Rod. </speaker>
               <l>Oh me! </l>
             </sp>
-            <sp who="#eng000350-peasant-1 #eng000350-peasant-2 #eng000350-peasant-3 #eng000350-peasant-4"
-                      xml:id="eng000350-e126620">
+            <sp who="#eng000350-peasant-1 #eng000350-peasant-2 #eng000350-peasant-3 #eng000350-peasant-4" xml:id="eng000350-e126620">
               <speaker>All. </speaker>
               <l>He comes: he comes. </l>
             </sp>
@@ -4413,8 +4408,7 @@
               <l>Take up that sword, and stand: stay ye base rascals, </l>
               <l>Ye cut-throate rogues. </l>
             </sp>
-            <sp who="#eng000350-peasant-1 #eng000350-peasant-2 #eng000350-peasant-3 #eng000350-peasant-4"
-                      xml:id="eng000350-e127140">
+            <sp who="#eng000350-peasant-1 #eng000350-peasant-2 #eng000350-peasant-3 #eng000350-peasant-4" xml:id="eng000350-e127140">
               <speaker>All. </speaker>
               <l>Away, away. <stage xml:id="eng000350-e127160">Exeunt Pes. </stage>
               </l>
@@ -5184,8 +5178,7 @@
               <l>Thy Master has let loose the boy I lookt for </l>
               <l>Basely convaid him hence. </l>
             </sp>
-            <sp who="#eng000350-keeper-1 #eng000350-keeper-2"
-                      xml:id="eng000350-e132020">
+            <sp who="#eng000350-keeper-1 #eng000350-keeper-2" xml:id="eng000350-e132020">
               <speaker>Keep. </speaker>
               <l>Will ye go out sir? </l>
             </sp>
@@ -5214,8 +5207,7 @@
               <l>Pray will ye make lesse stir, and see your chamber, </l>
               <l>Call in more help; and make the closset ready. </l>
             </sp>
-            <sp who="#eng000350-keeper-1 #eng000350-keeper-2"
-                      xml:id="eng000350-e132190">
+            <sp who="#eng000350-keeper-1 #eng000350-keeper-2" xml:id="eng000350-e132190">
               <speaker>Keep. </speaker>
               <l>I thought he was mad: Ile have one long lash at ye. </l>
             </sp>
@@ -5760,8 +5752,7 @@
               <l>Come, to this preparation; when that's done, </l>
               <l>The Outlaws expedition is begun. </l>
             </sp>
-            <sp who="#eng000350-citizen-1 #eng000350-citizen-2 #eng000350-citizen-3"
-                      xml:id="eng000350-e135740">
+            <sp who="#eng000350-citizen-1 #eng000350-citizen-2 #eng000350-citizen-3" xml:id="eng000350-e135740">
               <speaker>Cit. </speaker>
               <l>We'l contribute all to that, and help our selves too. </l>
             </sp>
@@ -6503,6 +6494,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

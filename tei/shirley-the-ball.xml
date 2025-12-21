@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000285" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -154,9 +155,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000285"
-                   passive="http://www.wikidata.org/entity/Q7715386"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000285" passive="http://www.wikidata.org/entity/Q7715386"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -3013,8 +3012,7 @@
             <speaker>Co. </speaker>
             <p>If they consent. </p>
           </sp>
-          <sp who="#eng000285-marmaduke #eng000285-ambrose"
-                   xml:id="eng000285-e117550">
+          <sp who="#eng000285-marmaduke #eng000285-ambrose" xml:id="eng000285-e117550">
             <speaker>Mar. Am. </speaker>
             <p>With all our hearts. </p>
           </sp>
@@ -6174,8 +6172,7 @@
             <l>Does he not become the beast, </l>
             <l>The Lords allow you pension. </l>
           </sp>
-          <sp who="#eng000285-barker #eng000285-rainbow #eng000285-bostocke #eng000285-lucina #eng000285-colonel #eng000285-honoria"
-                   xml:id="eng000285-e137630">
+          <sp who="#eng000285-barker #eng000285-rainbow #eng000285-bostocke #eng000285-lucina #eng000285-colonel #eng000285-honoria" xml:id="eng000285-e137630">
             <speaker>Omnes, </speaker>
             <p>Ha, ha, ha. </p>
           </sp>
@@ -6309,6 +6306,6 @@
         <pb xml:id="eng000285-037-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

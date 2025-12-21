@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000181" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -312,9 +313,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000181"
-                   passive="http://www.wikidata.org/entity/Q2412524"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000181" passive="http://www.wikidata.org/entity/Q2412524"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -4400,8 +4399,7 @@
           <l>Are ye become thus traitors to your king? </l>
           <l>And France must haue the spoile of Harries life? </l>
         </sp>
-        <sp who="#eng000181-cambridge #eng000181-scroop #eng000181-gray"
-                xml:id="eng000181-e125560">
+        <sp who="#eng000181-cambridge #eng000181-scroop #eng000181-gray" xml:id="eng000181-e125560">
           <speaker>All. </speaker>
           <p>Oh pardon vs dread lord. <stage xml:id="eng000181-e125580">all kneeling. </stage>
           </p>
@@ -5418,6 +5416,6 @@
         <pb xml:id="eng000181-041-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

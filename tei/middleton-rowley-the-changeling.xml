@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000392" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -162,9 +163,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000392"
-                   passive="http://www.wikidata.org/entity/Q7722086"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000392" passive="http://www.wikidata.org/entity/Q7722086"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -203,7 +202,7 @@
           <item>The Counterfeit Madman. </item>
           <label>Deflores, </label>
           <item>Servant to Vermandero. </item>
-          <label></label>
+          <label/>
           <item>
             <list>
               <item>Madmen, </item>

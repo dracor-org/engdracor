@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000247" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -186,9 +187,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000247"
-                   passive="http://www.wikidata.org/entity/Q3408612"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000247" passive="http://www.wikidata.org/entity/Q3408612"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -545,8 +544,7 @@
             <speaker>Sil. </speaker>
             <l>True (my Lord) he reeles from the Tilt-often. </l>
           </sp>
-          <sp who="#eng000247-roderigo #eng000247-grisolan"
-                   xml:id="eng000247-e102450">
+          <sp who="#eng000247-roderigo #eng000247-grisolan" xml:id="eng000247-e102450">
             <speaker>Rod. Gris. </speaker>
             <l>Ha, ha, ha. </l>
           </sp>
@@ -7306,6 +7304,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

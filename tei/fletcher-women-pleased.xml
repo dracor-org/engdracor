@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000356" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -194,9 +195,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000356"
-                   passive="http://www.wikidata.org/entity/Q17039661"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000356" passive="http://www.wikidata.org/entity/Q17039661"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -6128,6 +6127,6 @@
         <trailer>Here endeth Women pleas'd. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

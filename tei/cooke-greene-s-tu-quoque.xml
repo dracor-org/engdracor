@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000289" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -201,9 +202,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000289"
-                   passive="http://www.wikidata.org/entity/Q5603826"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000289" passive="http://www.wikidata.org/entity/Q5603826"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2298,8 +2297,7 @@
           <speaker>Spend. </speaker>
           <p>For me, six. </p>
         </sp>
-        <sp who="#eng000289-longfield #eng000289-rash #eng000289-scattergood #eng000289-bubble"
-                xml:id="eng000289-e111520">
+        <sp who="#eng000289-longfield #eng000289-rash #eng000289-scattergood #eng000289-bubble" xml:id="eng000289-e111520">
           <speaker>Omnes. </speaker>
           <p>And six that. </p>
         </sp>
@@ -3854,8 +3852,7 @@
           <l>Will you but walke with me vnto that house, </l>
           <l>And there you shall receaue it. </l>
         </sp>
-        <sp who="#eng000289-sergeant-1 #eng000289-sergeant-2"
-                xml:id="eng000289-e120360">
+        <sp who="#eng000289-sergeant-1 #eng000289-sergeant-2" xml:id="eng000289-e120360">
           <speaker>Sar. </speaker>
           <l>What, where the women are? </l>
         </sp>
@@ -3894,8 +3891,7 @@
           <l>Or do I know you? what acquaintance pray, </l>
           <l>Hath euer past betwixt your selfe and mee? </l>
         </sp>
-        <sp who="#eng000289-sergeant-1 #eng000289-sergeant-2"
-                xml:id="eng000289-e120600">
+        <sp who="#eng000289-sergeant-1 #eng000289-sergeant-2" xml:id="eng000289-e120600">
           <speaker>Sar. </speaker>
           <l>Zounds do you mocke vs, to bring vs to these women that do not know you? </l>
         </sp>
@@ -3922,8 +3918,7 @@
           <speaker>Sweat. </speaker>
           <l>Is he your Prisoner, Gentlemen? </l>
         </sp>
-        <sp who="#eng000289-sergeant-1 #eng000289-sergeant-2"
-                xml:id="eng000289-e120770">
+        <sp who="#eng000289-sergeant-1 #eng000289-sergeant-2" xml:id="eng000289-e120770">
           <speaker>Sar. </speaker>
           <l>Yes marry is hee. </l>
         </sp>
@@ -3944,8 +3939,7 @@
           <p>Furies breake loose in mee: Sargeants, let me goe, Ile giue you all I haue, to purchase freedome but for a lightning while, to teare yond Whore. Baud, Pander; and in them, the Diuell: for there's his Hell, his habitation; nor has hee any other locall place. <stage xml:id="eng000289-e120890">Takes Spendals Cloake. </stage>
           </p>
         </sp>
-        <sp who="#eng000289-sergeant-1 #eng000289-sergeant-2"
-                xml:id="eng000289-e120900">
+        <sp who="#eng000289-sergeant-1 #eng000289-sergeant-2" xml:id="eng000289-e120900">
           <speaker>Sar. </speaker>
           <p>No sir, weele take no Bribes. </p>
         </sp>
@@ -6273,6 +6267,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

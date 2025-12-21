@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000417" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -163,9 +164,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000417"
-                   passive="http://www.wikidata.org/entity/Q7526354"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000417" passive="http://www.wikidata.org/entity/Q7526354"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -739,8 +738,7 @@
           <l>Well Clamydes, I am content, sith thou my sonne doest craue him. </l>
           <l>Receiue him therefore at my hands. My Lords come lets depart. </l>
         </sp>
-        <sp who="#eng000417-lord-1 #eng000417-lord-2 #eng000417-clamydes #eng000417-shift"
-                xml:id="eng000417-e104170">
+        <sp who="#eng000417-lord-1 #eng000417-lord-2 #eng000417-clamydes #eng000417-shift" xml:id="eng000417-e104170">
           <speaker>All. </speaker>
           <l>We ready are to waite on you O King, with willing hart. </l>
         </sp>
@@ -843,8 +841,7 @@
           <l>The same, <seg type="tba">a gratulation, sufficient</seg>from vs sent: </l>
           <l>Come <seg type="tba">therefore let vs homewards march</seg>, to accomplish our intent. </l>
         </sp>
-        <sp who="#eng000417-lord-1 #eng000417-lord-2 #eng000417-clamydes #eng000417-shift"
-                xml:id="eng000417-e105020">
+        <sp who="#eng000417-lord-1 #eng000417-lord-2 #eng000417-clamydes #eng000417-shift" xml:id="eng000417-e105020">
           <speaker>Omnes. </speaker>
           <l>We <seg type="tba">readie are most famous</seg>King, to follow thee with victorie. </l>
         </sp>
@@ -1795,8 +1792,7 @@
           <pb xml:id="eng000417-016-a"/>
           <l>What was the cause of this my let, let him perstand I pray. </l>
         </sp>
-        <sp who="#eng000417-lord-1 #eng000417-lord-2 #eng000417-clamydes #eng000417-shift"
-                xml:id="eng000417-e111680">
+        <sp who="#eng000417-lord-1 #eng000417-lord-2 #eng000417-clamydes #eng000417-shift" xml:id="eng000417-e111680">
           <speaker>Omnes. </speaker>
           <l>We shall not misse ô noble Knight, to accomplish this your will. </l>
         </sp>
@@ -4009,8 +4005,7 @@
           <l>Come therefore to our Court, that we the same may soone prepare. </l>
           <l>For we are prest throughout our land, for all our Peeres to send: </l>
         </sp>
-        <sp who="#eng000417-lord-1 #eng000417-lord-2 #eng000417-clamydes #eng000417-shift"
-                xml:id="eng000417-e127260">
+        <sp who="#eng000417-lord-1 #eng000417-lord-2 #eng000417-clamydes #eng000417-shift" xml:id="eng000417-e127260">
           <speaker>Omnes. </speaker>
           <l>Thy pleasure most renowned King, thy seruants shall attend. </l>
         </sp>
@@ -4018,6 +4013,6 @@
         <pb xml:id="eng000417-033-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

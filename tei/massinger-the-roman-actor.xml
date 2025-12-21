@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000148" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -166,9 +167,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000148"
-                   passive="http://www.wikidata.org/entity/Q7761392"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000148" passive="http://www.wikidata.org/entity/Q7761392"/>
     </listRelation>
   </standOff>
   <text>
@@ -818,8 +817,7 @@
             <l>Fathers conscript may this our meeting be </l>
             <l>Happie to Caesar and the common wealth. </l>
           </sp>
-          <sp who="#eng000148-lictor-1 #eng000148-lictor-2"
-                   xml:id="eng000148-e104960">
+          <sp who="#eng000148-lictor-1 #eng000148-lictor-2" xml:id="eng000148-e104960">
             <speaker>Lict. </speaker>
             <l>Silence. </l>
           </sp>
@@ -1061,8 +1059,7 @@
             <l>Breake vp the Court, we will reserue to him </l>
             <l>The Censure of this cause </l>
           </sp>
-          <sp who="#eng000148-parthenius #eng000148-aretinus #eng000148-fulcinius #eng000148-latinus #eng000148-aesopus #eng000148-rusticus #eng000148-sura #eng000148-paris #eng000148-lictor-1 #eng000148-lictor-2"
-                   xml:id="eng000148-e106850">
+          <sp who="#eng000148-parthenius #eng000148-aretinus #eng000148-fulcinius #eng000148-latinus #eng000148-aesopus #eng000148-rusticus #eng000148-sura #eng000148-paris #eng000148-lictor-1 #eng000148-lictor-2" xml:id="eng000148-e106850">
             <speaker>All. </speaker>
             <l>Long life to Caesar. <stage xml:id="eng000148-e106870">Exeunt omnes. </stage>
             </l>
@@ -1264,8 +1261,7 @@
             <speaker>Domit. </speaker>
             <l>Still your seruant, </l>
           </sp>
-          <sp who="#eng000148-parthenius #eng000148-aretinus #eng000148-fulcinius #eng000148-latinus #eng000148-aesopus #eng000148-rusticus #eng000148-sura #eng000148-paris #eng000148-lictor-1 #eng000148-lictor-2"
-                   xml:id="eng000148-e108180">
+          <sp who="#eng000148-parthenius #eng000148-aretinus #eng000148-fulcinius #eng000148-latinus #eng000148-aesopus #eng000148-rusticus #eng000148-sura #eng000148-paris #eng000148-lictor-1 #eng000148-lictor-2" xml:id="eng000148-e108180">
             <speaker>All. </speaker>
             <l>Long liue Augusta great Domitians Empresse. </l>
           </sp>
@@ -4631,6 +4627,6 @@
         <pb xml:id="eng000148-043-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000198" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -159,9 +160,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000198"
-                   passive="http://www.wikidata.org/entity/Q4658551"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000198" passive="http://www.wikidata.org/entity/Q4658551"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -1629,8 +1628,7 @@
           <speaker>Host. </speaker>
           <p>Nay sweete Sir, no bloodshed in my house; I am lord Of misrule, pray you put up, Sir. </p>
         </sp>
-        <sp who="#eng000198-jack #eng000198-robert #eng000198-hugh #eng000198-stephen #eng000198-dick"
-                xml:id="eng000198-e109320">
+        <sp who="#eng000198-jack #eng000198-robert #eng000198-hugh #eng000198-stephen #eng000198-dick" xml:id="eng000198-e109320">
           <speaker>Om. </speaker>
           <l>S'foote mine Host, where are our cloakes? </l>
         </sp>
@@ -6252,6 +6250,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

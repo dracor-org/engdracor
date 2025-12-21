@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000219" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -133,9 +134,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000219"
-                   passive="http://www.wikidata.org/entity/Q7745187"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000219" passive="http://www.wikidata.org/entity/Q7745187"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -646,8 +645,7 @@
           </sp>
           <stage xml:id="eng000219-e103500">
             <pb n="eebo_img-7" xml:id="eng000219-017"/>Enter Alexander and Littleworth. </stage>
-          <sp who="#eng000219-alexander #eng000219-littleworth"
-                   xml:id="eng000219-e103510">
+          <sp who="#eng000219-alexander #eng000219-littleworth" xml:id="eng000219-e103510">
             <speaker>Al. Lit. </speaker>
             <l>Save you Sir Thomas. </l>
           </sp>
@@ -3028,8 +3026,7 @@
             <l>Why doe you thinke your selves competent Judges. </l>
             <l>Of beauty gentlemen? </l>
           </sp>
-          <sp who="#eng000219-sentlove #eng000219-alexander"
-                   xml:id="eng000219-e119110">
+          <sp who="#eng000219-sentlove #eng000219-alexander" xml:id="eng000219-e119110">
             <speaker>Both. </speaker>
             <l>What should hinder us? </l>
           </sp>
@@ -3299,8 +3296,7 @@
             <l>
               <pb n="eebo_img-21" xml:id="eng000219-045"/>To employ your wit and secrecie. </l>
           </sp>
-          <sp who="#eng000219-sentlove #eng000219-alexander"
-                   xml:id="eng000219-e120800">
+          <sp who="#eng000219-sentlove #eng000219-alexander" xml:id="eng000219-e120800">
             <speaker>Both. </speaker>
             <l>You'le honour us. </l>
           </sp>
@@ -6386,6 +6382,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

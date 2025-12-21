@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000102" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -183,9 +184,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000102"
-                   passive="http://www.wikidata.org/entity/Q5194491"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000102" passive="http://www.wikidata.org/entity/Q5194491"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -5650,8 +5649,7 @@
               <l>For my sake to your houses. </l>
             </lg>
           </sp>
-          <sp who="#eng000102-1-citizen #eng000102-2-citizen #eng000102-citizen-3 #eng000102-citizen-4"
-                   xml:id="eng000102-e133410">
+          <sp who="#eng000102-1-citizen #eng000102-2-citizen #eng000102-citizen-3 #eng000102-citizen-4" xml:id="eng000102-e133410">
             <speaker>All within. </speaker>
             <lg>
               <l>Gods preserue you. </l>
@@ -6801,6 +6799,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

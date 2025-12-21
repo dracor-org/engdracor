@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000061" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -165,9 +166,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000061"
-                   passive="http://www.wikidata.org/entity/Q3549497"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000061" passive="http://www.wikidata.org/entity/Q3549497"/>
     </listRelation>
   </standOff>
   <text>
@@ -498,8 +497,7 @@
           <speaker>Ienk </speaker>
           <l>Euery man agree to haue it as Nick saies. </l>
         </sp>
-        <sp who="#eng000061-jack-slime #eng000061-nicholas #eng000061-jenkin #eng000061-roger #eng000061-sisly"
-                xml:id="eng000061-e102200">
+        <sp who="#eng000061-jack-slime #eng000061-nicholas #eng000061-jenkin #eng000061-roger #eng000061-sisly" xml:id="eng000061-e102200">
           <speaker>All </speaker>
           <l>Content. </l>
         </sp>
@@ -519,8 +517,7 @@
           <speaker>Ienk. </speaker>
           <l>So the dance wil come cleanly off, come for Gods sake agree of something, if you like not that put it to the Musitians or Let me speake for al, and weele haue Sellengers round. </l>
         </sp>
-        <sp who="#eng000061-jack-slime #eng000061-nicholas #eng000061-jenkin #eng000061-roger #eng000061-sisly"
-                xml:id="eng000061-e102300">
+        <sp who="#eng000061-jack-slime #eng000061-nicholas #eng000061-jenkin #eng000061-roger #eng000061-sisly" xml:id="eng000061-e102300">
           <speaker>All </speaker>
           <l>That: that: that. </l>
         </sp>
@@ -3073,8 +3070,7 @@
           <l>Your sins like mine will on your conscience lye. </l>
         </sp>
         <stage xml:id="eng000061-e119670">Enter Sissily, Spiggot, all the Seruingmen, and Ienkin as newly come out of bed. </stage>
-        <sp who="#eng000061-serving-man #eng000061-sisly #eng000061-jenkin #eng000061-spigot"
-                xml:id="eng000061-e119680">
+        <sp who="#eng000061-serving-man #eng000061-sisly #eng000061-jenkin #eng000061-spigot" xml:id="eng000061-e119680">
           <speaker>All. </speaker>
           <l>Oh mistris, mistris, what haue you done mistris? </l>
         </sp>
@@ -3887,8 +3883,7 @@
           <l>Pray with thee, and in meere pitty </l>
           <l>Of thy weake state, Ile wish to die with thee. </l>
         </sp>
-        <sp who="#eng000061-malby #eng000061-charles-mountford #eng000061-jenkin #eng000061-susan #eng000061-francis-acton #eng000061-sisly #eng000061-cranwell #eng000061-wendoll #eng000061-nicholas"
-                xml:id="eng000061-e125510">
+        <sp who="#eng000061-malby #eng000061-charles-mountford #eng000061-jenkin #eng000061-susan #eng000061-francis-acton #eng000061-sisly #eng000061-cranwell #eng000061-wendoll #eng000061-nicholas" xml:id="eng000061-e125510">
           <speaker>All. </speaker>
           <l>So do we all. </l>
         </sp>
@@ -3982,6 +3977,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

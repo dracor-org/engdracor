@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000218" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -136,9 +137,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000218"
-                   passive="http://www.wikidata.org/entity/Q7740925"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000218" passive="http://www.wikidata.org/entity/Q7740925"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -4860,8 +4859,7 @@
             <l>And who should be the villaine thinke you, but </l>
             <l>Giotto. </l>
           </sp>
-          <sp who="#eng000218-carintha #eng000218-laura #eng000218-duchess"
-                   xml:id="eng000218-e130430">
+          <sp who="#eng000218-carintha #eng000218-laura #eng000218-duchess" xml:id="eng000218-e130430">
             <speaker>
               <pb n="eebo_img-32" xml:id="eng000218-032-b"/>All. </speaker>
             <l>Giotto. </l>
@@ -5480,8 +5478,7 @@
             <l>Madam, you are truely noble: you have </l>
             <l>Merited our best assistance. </l>
           </sp>
-          <sp who="#eng000218-attendants #eng000218-laura #eng000218-comachio #eng000218-depazzi #eng000218-crispino #eng000218-volterre"
-                   xml:id="eng000218-e134360">
+          <sp who="#eng000218-attendants #eng000218-laura #eng000218-comachio #eng000218-depazzi #eng000218-crispino #eng000218-volterre" xml:id="eng000218-e134360">
             <speaker>All. </speaker>
             <l>Long Foscari, Duke of Mantua, and Parma. </l>
             <stage xml:id="eng000218-e134380">
@@ -5523,6 +5520,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

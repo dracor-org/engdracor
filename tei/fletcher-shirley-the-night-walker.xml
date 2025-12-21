@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000008" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -1321,8 +1322,7 @@
               <speaker>Iu. </speaker>
               <l>Give me a Torch. </l>
             </sp>
-            <sp who="#eng000008-gentlewoman-1 #eng000008-gentlewoman-2"
-                      xml:id="eng000008-e107480">
+            <sp who="#eng000008-gentlewoman-1 #eng000008-gentlewoman-2" xml:id="eng000008-e107480">
               <speaker>1 and G. </speaker>
               <l>Be not too hastie sir. </l>
             </sp>
@@ -4830,8 +4830,7 @@
             <speaker>Iu. </speaker>
             <l>Oh misery of miseries! </l>
           </sp>
-          <sp who="#eng000008-recorder-1 #eng000008-recorder-2"
-                   xml:id="eng000008-e129450">
+          <sp who="#eng000008-recorder-1 #eng000008-recorder-2" xml:id="eng000008-e129450">
             <speaker>Recorders 1 and 2 </speaker>
             <l>Teare his accursed limbs, to hell with him, ha. </l>
             <l>A mischiefe on that innocent face, away. </l>
@@ -6236,6 +6235,6 @@
         <pb xml:id="eng000008-039-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

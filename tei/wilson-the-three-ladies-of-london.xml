@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000254" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -166,9 +167,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000254"
-                   passive="http://www.wikidata.org/entity/Q7769016"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000254" passive="http://www.wikidata.org/entity/Q7769016"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -788,8 +787,7 @@
             <l>And though we appoint sundrie offices where now ye are in, </l>
             <l>yet ioyntly we meane to vse you together ofttimes in one thing. </l>
           </sp>
-          <sp who="#eng000254-simplicity #eng000254-dissimulation #eng000254-fraud"
-                   xml:id="eng000254-e104260">
+          <sp who="#eng000254-simplicity #eng000254-dissimulation #eng000254-fraud" xml:id="eng000254-e104260">
             <speaker>All. </speaker>
             <l>Ladie we rest at your commaund in ought we can or may. </l>
           </sp>
@@ -3518,6 +3516,6 @@
         </div>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

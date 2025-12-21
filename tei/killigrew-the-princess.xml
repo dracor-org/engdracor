@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000381" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -161,9 +162,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000381"
-                   passive="http://www.wikidata.org/entity/Q7758282"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000381" passive="http://www.wikidata.org/entity/Q7758282"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -983,8 +982,7 @@
             <speaker>3. Sould. </speaker>
             <p>Then quit your thoughts of this dainty bit, and lets away with her, and the rest, to Naples, and sell 'em, This fine <stage xml:id="eng000381-e104400">Points to Cicilia .</stage>thing shall yield Money, that will buy Wine, and Wenches, that bring no fears along with 'em; This gay thing, should we touch her forbidden fruit, we were damn'd; and we are sure, our Lieutenant will pursue us with fire and sword. </p>
           </sp>
-          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                   xml:id="eng000381-e104410">
+          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e104410">
             <speaker>All. </speaker>
             <p>Agreed, Agreed. </p>
           </sp>
@@ -4065,8 +4063,7 @@
             <speaker>Lieut. </speaker>
             <p>WHat, are you all resolv'd? </p>
           </sp>
-          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                   xml:id="eng000381-e120540">
+          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e120540">
             <speaker>All. </speaker>
             <p>Yes, Sir, release us and we'll do it. </p>
           </sp>
@@ -4074,8 +4071,7 @@
             <speaker>Lieut. </speaker>
             <p>Or must I make an Oration to perswade you to this Geer? </p>
           </sp>
-          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                   xml:id="eng000381-e120580">
+          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e120580">
             <speaker>All. </speaker>
             <p>No, Sir, we need no perswasions. </p>
           </sp>
@@ -4092,8 +4088,7 @@
             <speaker>Lieu. </speaker>
             <p>By this good day I am real, and you shall all be loose and arm'd; and when he comes aboard, put off speedily, and then discover your selves; if he resists, kill him, if not, only bind him; by these hilts, I have order to hang you every man, and mine own safety tells me I were best to do it. </p>
           </sp>
-          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                   xml:id="eng000381-e120660">
+          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e120660">
             <speaker>All. </speaker>
             <p>Oh! Lieutenant, noble Lieutenant, you know we have been honest Rogues to you always. </p>
           </sp>
@@ -4114,8 +4109,7 @@
             <body>
               <div type="song" xml:id="eng000381-e120770">
                 <head>The Catch in three Parts. </head>
-                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                            xml:id="eng000381-e120780">
+                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e120780">
                   <speaker>All </speaker>
                   <lg n="1">
                     <head>I. </head>
@@ -4145,8 +4139,7 @@
                     <l>Lo I appear, lo I appear. </l>
                   </lg>
                 </sp>
-                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                            xml:id="eng000381-e121010">
+                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e121010">
                   <speaker>All </speaker>
                   <lg n="2">
                     <head>II. </head>
@@ -4170,8 +4163,7 @@
                       <milestone n="2" unit="unspec"/>And the pleasures of her bed. </l>
                   </lg>
                 </sp>
-                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                            xml:id="eng000381-e121210">
+                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e121210">
                   <speaker>All </speaker>
                   <lg>
                     <l>
@@ -4187,8 +4179,7 @@
                   </lg>
                 </sp>
                 <pb n="55" xml:id="eng000381-030-b"/>
-                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                            xml:id="eng000381-e121300">
+                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e121300">
                   <speaker>All </speaker>
                   <lg n="3">
                     <head>III. </head>
@@ -4220,8 +4211,7 @@
                       <milestone n="3" unit="unspec"/>Lo I appear, one kind bottle more and I will dwell here. </l>
                   </lg>
                 </sp>
-                <sp who="#eng000381-bacchus #eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                            xml:id="eng000381-e121550">
+                <sp who="#eng000381-bacchus #eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e121550">
                   <speaker>All </speaker>
                   <lg n="4">
                     <head>IV. </head>
@@ -4248,16 +4238,14 @@
                       <milestone n="3" unit="unspec"/>Appear, appear, appear </l>
                   </lg>
                 </sp>
-                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                            xml:id="eng000381-e121780">
+                <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e121780">
                   <speaker>All </speaker>
                   <lg>
                     <l>
                       <milestone n="3" unit="unspec"/>Kind God in bottles here. </l>
                   </lg>
                 </sp>
-                <sp who="#eng000381-bacchus #eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                            xml:id="eng000381-e121820">
+                <sp who="#eng000381-bacchus #eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e121820">
                   <speaker>Bacchus, All </speaker>
                   <lg>
                     <l>
@@ -4324,8 +4312,7 @@
             <speaker>Cil. </speaker>
             <p>Haste then to the Galley, I'll stay the Captain and his company till you are aboard; and honest friends when this is done, command your own and my power to serve you. </p>
           </sp>
-          <sp who="#eng000381-lieutenant #eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                   xml:id="eng000381-e122180">
+          <sp who="#eng000381-lieutenant #eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e122180">
             <speaker>All. </speaker>
             <p>Long live Cilius, long live Cilius. </p>
           </sp>
@@ -4351,8 +4338,7 @@
             <speaker>Tull. </speaker>
             <p>Gentlemen, and my fellow Souldiers, I have an humble suit to you. </p>
           </sp>
-          <sp who="#eng000381-lieutenant #eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                   xml:id="eng000381-e122320">
+          <sp who="#eng000381-lieutenant #eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e122320">
             <speaker>All. </speaker>
             <p>What is't, what is't? </p>
           </sp>
@@ -4360,8 +4346,7 @@
             <speaker>Tull. </speaker>
             <p>That I may have leave to live. </p>
           </sp>
-          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3"
-                   xml:id="eng000381-e122360">
+          <sp who="#eng000381-soldier-1 #eng000381-soldier-2 #eng000381-soldier-3" xml:id="eng000381-e122360">
             <speaker>All. </speaker>
             <p>Live? why not? </p>
           </sp>
@@ -5305,6 +5290,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000202" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -170,9 +171,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000202"
-                   passive="http://www.wikidata.org/entity/Q6131536"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000202" passive="http://www.wikidata.org/entity/Q6131536"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -485,8 +484,7 @@
             <speaker>Corp. </speaker>
             <p>Why how now? we three? Puritanicall Scrape-shoes, Flesh a good Fridayes? a hand. </p>
           </sp>
-          <sp who="#eng000202-nicholas #eng000202-simon #eng000202-frailty"
-                   xml:id="eng000202-e101720">
+          <sp who="#eng000202-nicholas #eng000202-simon #eng000202-frailty" xml:id="eng000202-e101720">
             <speaker>All. </speaker>
             <p>Oh. </p>
           </sp>
@@ -688,8 +686,7 @@
             <p>How now more Visitants?— what Corporall Oth? </p>
           </sp>
           <pb xml:id="eng000202-008-a"/>
-          <sp who="#eng000202-pie-boord #eng000202-skirmish"
-                   xml:id="eng000202-e102790">
+          <sp who="#eng000202-pie-boord #eng000202-skirmish" xml:id="eng000202-e102790">
             <speaker>Pie. Skir. </speaker>
             <p>Corporal? </p>
           </sp>
@@ -1174,8 +1171,7 @@
             <l>Nay pray be patient Lady, </l>
             <l>We come in way of honorable loue. </l>
           </sp>
-          <sp who="#eng000202-tipstaff #eng000202-pennydub"
-                   xml:id="eng000202-e105390">
+          <sp who="#eng000202-tipstaff #eng000202-pennydub" xml:id="eng000202-e105390">
             <speaker>Tipst. Penny. </speaker>
             <p>Wee doe. </p>
           </sp>
@@ -1183,8 +1179,7 @@
             <speaker>Muck. </speaker>
             <p>To you. </p>
           </sp>
-          <sp who="#eng000202-tipstaff #eng000202-pennydub"
-                   xml:id="eng000202-e105430">
+          <sp who="#eng000202-tipstaff #eng000202-pennydub" xml:id="eng000202-e105430">
             <speaker>Tipst. Penny. </speaker>
             <p>And to your Daughters? </p>
           </sp>
@@ -3023,8 +3018,7 @@
             <speaker>Wid. </speaker>
             <p>What dos he meane to coniure here the? how shall I do to <pb xml:id="eng000202-025-b"/>bee rid of these Knights,— please you Gentlemen to walke a while ith Garden, go gather a pinck, or a Iilly-flower. </p>
           </sp>
-          <sp who="#eng000202-muckhill #eng000202-tipstaff"
-                   xml:id="eng000202-e115260">
+          <sp who="#eng000202-muckhill #eng000202-tipstaff" xml:id="eng000202-e115260">
             <speaker>Both. </speaker>
             <p>With all our hearts Lady, and count vs fauourd? </p>
             <stage xml:id="eng000202-e115280">Exit. </stage>
@@ -3946,6 +3940,6 @@
         </div>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000657" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -61,9 +62,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000657"
-                   passive="http://www.wikidata.org/entity/Q108003981"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000657" passive="http://www.wikidata.org/entity/Q108003981"/>
     </listRelation>
   </standOff>
   <text>
@@ -144,7 +143,7 @@
             </row>
             <row>
               <cell>Rutland a Child, the youngest Son. </cell>
-              <cell></cell>
+              <cell/>
             </row>
             <row>
               <cell>The Great Earl of Warwick, </cell>

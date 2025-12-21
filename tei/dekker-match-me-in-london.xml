@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000317" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -157,9 +158,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000317"
-                   passive="http://www.wikidata.org/entity/Q6786219"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000317" passive="http://www.wikidata.org/entity/Q6786219"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -921,8 +920,7 @@
             <speaker>King. </speaker>
             <l>I call'd for helpe; these enter'd, found mee dead with feare! </l>
           </sp>
-          <sp who="#eng000317-valasco #eng000317-martines #eng000317-alphonso"
-                   xml:id="eng000317-e104420">
+          <sp who="#eng000317-valasco #eng000317-martines #eng000317-alphonso" xml:id="eng000317-e104420">
             <speaker>Omn. </speaker>
             <l>'Tis right Sir. </l>
           </sp>
@@ -2527,8 +2525,7 @@
             <speaker>Cord. </speaker>
             <l>Welcome Gentlemen. </l>
           </sp>
-          <sp who="#eng000317-gentleman-1 #eng000317-gentleman-2"
-                   xml:id="eng000317-e113590">
+          <sp who="#eng000317-gentleman-1 #eng000317-gentleman-2" xml:id="eng000317-e113590">
             <speaker>Omn. </speaker>
             <l>Thanks. </l>
           </sp>
@@ -2581,8 +2578,7 @@
             <speaker>Torm. </speaker>
             <l>Farewell. </l>
           </sp>
-          <sp who="#eng000317-gentleman-1 #eng000317-gentleman-2"
-                   xml:id="eng000317-e113860">
+          <sp who="#eng000317-gentleman-1 #eng000317-gentleman-2" xml:id="eng000317-e113860">
             <speaker>Omn. </speaker>
             <l>To Coach, away. </l>
           </sp>
@@ -3610,8 +3606,7 @@
             <speaker>King. </speaker>
             <l>Search him. </l>
           </sp>
-          <sp who="#eng000317-iago #eng000317-alphonso #eng000317-fuentes"
-                   xml:id="eng000317-e119640">
+          <sp who="#eng000317-iago #eng000317-alphonso #eng000317-fuentes" xml:id="eng000317-e119640">
             <speaker>Omn. </speaker>
             <l>He has nothing. </l>
           </sp>
@@ -5952,8 +5947,7 @@
             <speaker>Val. </speaker>
             <l>Ha! </l>
           </sp>
-          <sp who="#eng000317-malevento #eng000317-alphonso #eng000317-gazetto"
-                   xml:id="eng000317-e133370">
+          <sp who="#eng000317-malevento #eng000317-alphonso #eng000317-gazetto" xml:id="eng000317-e133370">
             <speaker>Omn. </speaker>
             <l>The Queene dead! </l>
           </sp>
@@ -6028,8 +6022,7 @@
             <speaker>King. </speaker>
             <l>Ha! the Queene! was she not at my elbow? </l>
           </sp>
-          <sp who="#eng000317-malevento #eng000317-alphonso #eng000317-iago"
-                   xml:id="eng000317-e133830">
+          <sp who="#eng000317-malevento #eng000317-alphonso #eng000317-iago" xml:id="eng000317-e133830">
             <speaker>Omn. </speaker>
             <l>Here was nothing. </l>
           </sp>
@@ -6622,6 +6615,6 @@
         <pb xml:id="eng000317-041-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

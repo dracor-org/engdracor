@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000363" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -163,9 +164,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000363"
-                   passive="http://www.wikidata.org/entity/Q7774866"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000363" passive="http://www.wikidata.org/entity/Q7774866"/>
     </listRelation>
   </standOff>
   <text>
@@ -4611,8 +4610,7 @@
               <speaker>Ros. </speaker>
               <l>Farewel then. </l>
             </sp>
-            <sp who="#eng000363-woman-1 #eng000363-woman-2 #eng000363-woman-3 #eng000363-woman-4"
-                      xml:id="eng000363-e130360">
+            <sp who="#eng000363-woman-1 #eng000363-woman-2 #eng000363-woman-3 #eng000363-woman-4" xml:id="eng000363-e130360">
               <speaker>Wo. </speaker>
               <l>And when ye come to woo next bring more mercy. <stage xml:id="eng000363-e130380">Exeunt. </stage>
               </l>
@@ -4664,8 +4662,7 @@
               <l>Now laugh aloud, and scorn me; so good buy'ye; </l>
               <l>And ever when ye meet me laugh. </l>
             </sp>
-            <sp who="#eng000363-gentleman-1 #eng000363-gentleman-2"
-                      xml:id="eng000363-e130690">
+            <sp who="#eng000363-gentleman-1 #eng000363-gentleman-2" xml:id="eng000363-e130690">
               <speaker>Gen. </speaker>
               <l>We will, sir. </l>
             </sp>
@@ -6360,8 +6357,7 @@
               <l>By all that's good <stage xml:id="eng000363-e141230">Enter la. Gastre Nauntoler, Lugier, &amp; de-Gard. </stage>
               </l>
             </sp>
-            <sp who="#eng000363-la-castre #eng000363-nantolet #eng000363-lugier #eng000363-de-gard"
-                      xml:id="eng000363-e141240">
+            <sp who="#eng000363-la-castre #eng000363-nantolet #eng000363-lugier #eng000363-de-gard" xml:id="eng000363-e141240">
               <speaker>All. </speaker>
               <l>And we'll make up the rest, Lady. </l>
             </sp>
@@ -6512,6 +6508,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

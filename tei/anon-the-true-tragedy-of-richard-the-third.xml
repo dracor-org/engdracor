@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000193" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -3201,8 +3202,7 @@
           <speaker>Oxf. </speaker>
           <p>Henry the seuenth, by the grace of God, King of England, France, and Lord of Ireland, God saue the King. </p>
         </sp>
-        <sp who="#eng000193-richmond #eng000193-oxford #eng000193-stanley #eng000193-queen"
-                xml:id="eng000193-e118030">
+        <sp who="#eng000193-richmond #eng000193-oxford #eng000193-stanley #eng000193-queen" xml:id="eng000193-e118030">
           <speaker>All. </speaker>
           <p>Long liue Henry the seuenth, King of England. </p>
         </sp>
@@ -3325,6 +3325,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

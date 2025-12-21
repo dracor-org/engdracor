@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000201" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -174,9 +175,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000201"
-                   passive="http://www.wikidata.org/entity/Q6131445"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000201" passive="http://www.wikidata.org/entity/Q6131445"/>
     </listRelation>
   </standOff>
   <text>
@@ -851,8 +850,7 @@
             <speaker>Trum. </speaker>
             <l>We Coblers lead a merie life, </l>
           </sp>
-          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart"
-                   xml:id="eng000201-e105390">
+          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart" xml:id="eng000201-e105390">
             <speaker>All. </speaker>
             <l>Dan, dan, dan, dan: </l>
           </sp>
@@ -860,8 +858,7 @@
             <speaker>Strum. </speaker>
             <l>Void of all enuie and of strife: </l>
           </sp>
-          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart"
-                   xml:id="eng000201-e105430">
+          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart" xml:id="eng000201-e105430">
             <speaker>All. </speaker>
             <l>Dan diddle dan. </l>
           </sp>
@@ -869,8 +866,7 @@
             <speaker>Dor. </speaker>
             <l>Our ease is great, our labour small: </l>
           </sp>
-          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart"
-                   xml:id="eng000201-e105470">
+          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart" xml:id="eng000201-e105470">
             <speaker>All. </speaker>
             <l>Dan, dan, dan, dan. </l>
           </sp>
@@ -878,8 +874,7 @@
             <speaker>Strum. </speaker>
             <l>And yet our gaines be much withall: </l>
           </sp>
-          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart"
-                   xml:id="eng000201-e105510">
+          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart" xml:id="eng000201-e105510">
             <speaker>All. </speaker>
             <l>Dan diddle dan. </l>
           </sp>
@@ -887,8 +882,7 @@
             <speaker>Dor. </speaker>
             <l>With this art so fine and faire: </l>
           </sp>
-          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart"
-                   xml:id="eng000201-e105550">
+          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart" xml:id="eng000201-e105550">
             <speaker>All. </speaker>
             <l>Dan, dan, dan, dan. </l>
           </sp>
@@ -896,8 +890,7 @@
             <speaker>Trum. </speaker>
             <l>No occupation may compare </l>
           </sp>
-          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart"
-                   xml:id="eng000201-e105590">
+          <sp who="#eng000201-strumbo #eng000201-dorothy #eng000201-trompart" xml:id="eng000201-e105590">
             <speaker>All. </speaker>
             <l>Dan diddle dan: </l>
           </sp>
@@ -3193,6 +3186,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

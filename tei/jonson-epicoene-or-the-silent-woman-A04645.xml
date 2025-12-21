@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000085" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -136,9 +137,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000085"
-                   passive="http://www.wikidata.org/entity/Q549927"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000085" passive="http://www.wikidata.org/entity/Q549927"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -5242,8 +5241,7 @@
               <speaker>Mor. </speaker>
               <p>I am no man, Ladies. </p>
             </sp>
-            <sp who="#eng000085-trusty #eng000085-mrs-mavis #eng000085-haughty #eng000085-mrs-otter #eng000085-epicoene #eng000085-centaur #eng000085-dauphine"
-                      xml:id="eng000085-e126080">
+            <sp who="#eng000085-trusty #eng000085-mrs-mavis #eng000085-haughty #eng000085-mrs-otter #eng000085-epicoene #eng000085-centaur #eng000085-dauphine" xml:id="eng000085-e126080">
               <speaker>All. </speaker>
               <p>How! </p>
             </sp>
@@ -5621,6 +5619,6 @@
         <trailer>THE END </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

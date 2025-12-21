@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000281" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -156,9 +157,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000281"
-                   passive="http://www.wikidata.org/entity/Q7760507"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000281" passive="http://www.wikidata.org/entity/Q7760507"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2473,8 +2472,7 @@
           <speaker>Chal. </speaker>
           <l>Yet here are crownes beside. </l>
         </sp>
-        <sp who="#eng000281-soldier-1 #eng000281-soldier-2"
-                xml:id="eng000281-e116620">
+        <sp who="#eng000281-soldier-1 #eng000281-soldier-2" xml:id="eng000281-e116620">
           <speaker>Ambo. </speaker>
           <l>We thanke you Captaine. </l>
         </sp>
@@ -3476,8 +3474,7 @@
           <speaker>Hen. </speaker>
           <l>Showes he to others thus? </l>
         </sp>
-        <sp who="#eng000281-guise #eng000281-baligny #eng000281-espernon #eng000281-soisson #eng000281-pericot"
-                xml:id="eng000281-e123950">
+        <sp who="#eng000281-guise #eng000281-baligny #eng000281-espernon #eng000281-soisson #eng000281-pericot" xml:id="eng000281-e123950">
           <speaker>Omnes. </speaker>
           <l>To all that know him. </l>
         </sp>
@@ -3498,8 +3495,7 @@
           <speaker>Hen. </speaker>
           <l>Goe, take my Letters for him, and release him. </l>
         </sp>
-        <sp who="#eng000281-guise #eng000281-baligny #eng000281-espernon #eng000281-soisson #eng000281-pericot"
-                xml:id="eng000281-e124080">
+        <sp who="#eng000281-guise #eng000281-baligny #eng000281-espernon #eng000281-soisson #eng000281-pericot" xml:id="eng000281-e124080">
           <speaker>Om. </speaker>
           <l>Thankes to your Highnesse, euer liue your Highnesse. </l>
         </sp>
@@ -4137,8 +4133,7 @@
           <l>Which if you free vs of, our safetie shall </l>
           <l>You not our Subiects, but our Patrons call. </l>
         </sp>
-        <sp who="#eng000281-guise #eng000281-baligny #eng000281-espernon #eng000281-soisson #eng000281-pericot"
-                xml:id="eng000281-e128670">
+        <sp who="#eng000281-guise #eng000281-baligny #eng000281-espernon #eng000281-soisson #eng000281-pericot" xml:id="eng000281-e128670">
           <speaker>Omnes. </speaker>
           <l>Our duties binde vs, hee is now but dead. </l>
         </sp>
@@ -4923,6 +4918,6 @@
         <pb xml:id="eng000281-041-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000336" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -183,9 +184,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000336"
-                   passive="http://www.wikidata.org/entity/Q7727914"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000336" passive="http://www.wikidata.org/entity/Q7727914"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -1422,8 +1421,7 @@
               <speaker>Ped. </speaker>
               <l>Th' others the wrong. </l>
             </sp>
-            <sp who="#eng000336-pedro #eng000336-silvio #eng000336-uberto #eng000336-richardo #eng000336-drawer"
-                      xml:id="eng000336-e107210">
+            <sp who="#eng000336-pedro #eng000336-silvio #eng000336-uberto #eng000336-richardo #eng000336-drawer" xml:id="eng000336-e107210">
               <speaker>All. </speaker>
               <l>Thou art over long at the pott tom, tom. </l>
             </sp>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000106" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -1668,8 +1669,7 @@
         </sp>
         <stage xml:id="eng000106-e110310">A company of rascall Soldiers came heere pursuing the Ladie, he fightes and beares her away from them all. </stage>
         <stage xml:id="eng000106-e110320">After a triumphant shout within, enter Alua, Danila, Romero, Verdugo, Van End, with their Rapiers drawne, crying. </stage>
-        <sp who="#eng000106-alva #eng000106-danila #eng000106-romero #eng000106-verdugo #eng000106-van-end"
-                xml:id="eng000106-e110330">
+        <sp who="#eng000106-alva #eng000106-danila #eng000106-romero #eng000106-verdugo #eng000106-van-end" xml:id="eng000106-e110330">
           <speaker>All. </speaker>
           <l>Victorie, victorie, Antwerpe and victorie. </l>
         </sp>
@@ -3313,6 +3313,6 @@
         <trailer>FINIS </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

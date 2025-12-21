@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000229" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -160,9 +161,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000229"
-                   passive="http://www.wikidata.org/entity/Q7775343"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000229" passive="http://www.wikidata.org/entity/Q7775343"/>
     </listRelation>
   </standOff>
   <text>
@@ -4984,8 +4983,7 @@
               <speaker>Wor. </speaker>
               <p>My blessings multiply. </p>
             </sp>
-            <sp who="#eng000229-friend-1 #eng000229-friend-2"
-                      xml:id="eng000229-e137440">
+            <sp who="#eng000229-friend-1 #eng000229-friend-2" xml:id="eng000229-e137440">
               <speaker>Gent. </speaker>
               <p>We congratulate this euent. </p>
             </sp>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000114" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -154,9 +155,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000114"
-                   passive="http://www.wikidata.org/entity/Q5376698"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000114" passive="http://www.wikidata.org/entity/Q5376698"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2123,8 +2122,7 @@
             <speaker>Ma. Const. </speaker>
             <p>You know neighbors tis an an old said saw, children and fooles speake true. </p>
           </sp>
-          <sp who="#eng000114-dares #eng000114-epiton #eng000114-samias #eng000114-1 #eng000114-2"
-                   xml:id="eng000114-e109950">
+          <sp who="#eng000114-dares #eng000114-epiton #eng000114-samias #eng000114-1 #eng000114-2" xml:id="eng000114-e109950">
             <speaker>All say. </speaker>
             <p>True. </p>
           </sp>

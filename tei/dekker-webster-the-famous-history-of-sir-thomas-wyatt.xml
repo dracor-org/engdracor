@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000319" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -205,9 +206,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000319"
-                   passive="http://www.wikidata.org/entity/Q27956346"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000319" passive="http://www.wikidata.org/entity/Q27956346"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2655,8 +2654,7 @@
           <l>Although the crime of your offence be greate, </l>
           <l>Shee is onely pleased that you shall— </l>
         </sp>
-        <sp who="#eng000319-arundel #eng000319-guildford"
-                xml:id="eng000319-e116460">
+        <sp who="#eng000319-arundel #eng000319-guildford" xml:id="eng000319-e116460">
           <speaker>Both </speaker>
           <p>Will shee pardon vs? </p>
         </sp>
@@ -3115,6 +3113,6 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

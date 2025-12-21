@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000215" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -142,9 +143,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000215"
-                   passive="http://www.wikidata.org/entity/Q7732739"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000215" passive="http://www.wikidata.org/entity/Q7732739"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2308,8 +2307,7 @@
             <l>In your affections, beshrew mee, if </l>
             <l>I choose the lightest. </l>
           </sp>
-          <sp who="#eng000215-pumicestone #eng000215-confident"
-                   xml:id="eng000215-e114850">
+          <sp who="#eng000215-pumicestone #eng000215-confident" xml:id="eng000215-e114850">
             <speaker>Both. </speaker>
             <l>How's this? </l>
           </sp>
@@ -4043,8 +4041,7 @@
             <l>And on my knees I begge it, I am undone else, </l>
             <l>For ever with his Lordship. </l>
           </sp>
-          <sp who="#eng000215-peregrine #eng000215-captain"
-                   xml:id="eng000215-e126370">
+          <sp who="#eng000215-peregrine #eng000215-captain" xml:id="eng000215-e126370">
             <speaker>Sir. Cap. </speaker>
             <l>Lord Fitzavarice? </l>
           </sp>
@@ -5235,8 +5232,7 @@
                   <l>The House shall ring, </l>
                   <l>And the World shall see. </l>
                 </sp>
-                <sp who="#eng000215-pumicestone #eng000215-confident"
-                            xml:id="eng000215-e134160">
+                <sp who="#eng000215-pumicestone #eng000215-confident" xml:id="eng000215-e134160">
                   <speaker>Both. </speaker>
                   <l>What a merry couple. </l>
                   <l>Merry couple. </l>
@@ -5360,6 +5356,6 @@
         <l>Hee prayes that mildly, you pronounce his doome. </l>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

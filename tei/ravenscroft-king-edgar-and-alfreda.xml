@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000750" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -57,9 +58,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000750"
-                   passive="http://www.wikidata.org/entity/Q108003883"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000750" passive="http://www.wikidata.org/entity/Q108003883"/>
     </listRelation>
   </standOff>
   <text>
@@ -158,7 +157,7 @@
           <label>Durzo. A Blunt Sea Captain. </label>
           <item>By Mr. Griffin. </item>
           <label>Courtiers and Guards. </label>
-          <item></item>
+          <item/>
         </list>
         <list>
           <head>WOMEN. </head>
@@ -173,7 +172,7 @@
           <label>Alicia Confident to the Princess </label>
           <item>By Mrs. Rutter. </item>
           <label>Court Ladies and Attendants. </label>
-          <item></item>
+          <item/>
         </list>
         <stage xml:id="eng000750-e2120">The SCENE, Mercia, or Middle England, </stage>
       </div>

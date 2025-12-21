@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000086" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -206,9 +207,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000086"
-                   passive="http://www.wikidata.org/entity/Q690716"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000086" passive="http://www.wikidata.org/entity/Q690716"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -4311,8 +4310,7 @@
               <speaker>Rust. 5 </speaker>
               <p>Yes beleeue mee; like maister Vicars bowles vpon the greene, for all the world. </p>
             </sp>
-            <sp who="#eng000086-fourth-rusticus #eng000086-third-rusticus"
-                      xml:id="eng000086-e123550">
+            <sp who="#eng000086-fourth-rusticus #eng000086-third-rusticus" xml:id="eng000086-e123550">
               <speaker>3 or 4 </speaker>
               <p>O neighbour, god's blessing your heart neighbour, 'twas a good gratefull deed. </p>
             </sp>
@@ -7668,6 +7666,6 @@
         <quote>Non ego ventosoe plebis suffragia venor. </quote>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

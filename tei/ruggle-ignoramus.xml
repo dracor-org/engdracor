@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000537" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -60,9 +61,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000537"
-                   passive="http://www.wikidata.org/entity/Q5993016"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000537" passive="http://www.wikidata.org/entity/Q5993016"/>
     </listRelation>
   </standOff>
   <text>
@@ -115,11 +114,11 @@
           <item>Servant to Theodorus. </item>
           <label>Pyropus. </label>
           <item>A Salesman. </item>
-          <label></label>
+          <label/>
           <item>Fidlers. </item>
-          <label></label>
+          <label/>
           <item>A Seaman. </item>
-          <label></label>
+          <label/>
           <item>A Victualler. </item>
         </list>
         <list>
@@ -145,10 +144,7 @@
         <p>If the Latine tongue were ever the Language of the Beast, it is in the Mouths of these persons. In the English Translation we have all along inserted the Latine Barbarismes, not only to render these Soloecismes to be the more abandoned and ridiculous, but withall to satisfie the method of Ingenuity, which is to give Light as well as Delight unto her Readers. </p>
         <trailer>Vale. </trailer>
       </div>
-      <div cert="high"
-              type="encomium"
-              xml:id="eng000537-e1030"
-              xml:lang="lat">
+      <div cert="high" type="encomium" xml:id="eng000537-e1030" xml:lang="lat">
         <pb xml:id="eng000537-003-a"/>
         <head>DULMAN In Laudem IGNORAMI. </head>
         <l>Non inter Plaios gallantos &amp; bene gaios, </l>

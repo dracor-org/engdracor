@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000168" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -180,9 +181,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000168"
-                   passive="http://www.wikidata.org/entity/Q4656633"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000168" passive="http://www.wikidata.org/entity/Q4656633"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -867,8 +866,7 @@
             <speaker>Colo. </speaker>
             <l>Lets set on him all at once. </l>
           </sp>
-          <sp who="#eng000168-colonel #eng000168-colonel-friend-1 #eng000168-captain #eng000168-captain-friend-1 #eng000168-ager #eng000168-fitzallen"
-                   xml:id="eng000168-e104330">
+          <sp who="#eng000168-colonel #eng000168-colonel-friend-1 #eng000168-captain #eng000168-captain-friend-1 #eng000168-ager #eng000168-fitzallen" xml:id="eng000168-e104330">
             <speaker>Omnes, </speaker>
             <l>Sir, we haue a sute to you. </l>
           </sp>
@@ -876,8 +874,7 @@
             <speaker>Russ. </speaker>
             <l>What! all at once. </l>
           </sp>
-          <sp who="#eng000168-colonel #eng000168-colonel-friend-1 #eng000168-captain #eng000168-captain-friend-1 #eng000168-ager #eng000168-fitzallen"
-                   xml:id="eng000168-e104370">
+          <sp who="#eng000168-colonel #eng000168-colonel-friend-1 #eng000168-captain #eng000168-captain-friend-1 #eng000168-ager #eng000168-fitzallen" xml:id="eng000168-e104370">
             <speaker>Omnes. </speaker>
             <l>All, all, i faith, sir. </l>
           </sp>
@@ -6438,6 +6435,6 @@
         </div>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

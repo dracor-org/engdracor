@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000124" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -234,9 +235,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000124"
-                   passive="http://www.wikidata.org/entity/Q1239178"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000124" passive="http://www.wikidata.org/entity/Q1239178"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2096,8 +2095,7 @@
           <l>For anon the Guise will come. </l>
         </sp>
         <pb xml:id="eng000124-022-b"/>
-        <sp who="#eng000124-murderer1 #eng000124-murderer2 #eng000124-murderer3"
-                xml:id="eng000124-e113000">
+        <sp who="#eng000124-murderer1 #eng000124-murderer2 #eng000124-murderer3" xml:id="eng000124-e113000">
           <speaker>All. </speaker>
           <l>You will giue vs our money. </l>
         </sp>
@@ -2232,8 +2230,7 @@
           <speaker>Guise. </speaker>
           <p>As pale as ashes, nay then tis time to look about. </p>
         </sp>
-        <sp who="#eng000124-murderer1 #eng000124-murderer2 #eng000124-murderer3"
-                xml:id="eng000124-e113850">
+        <sp who="#eng000124-murderer1 #eng000124-murderer2 #eng000124-murderer3" xml:id="eng000124-e113850">
           <speaker>All. </speaker>
           <l>Downe with him, downe with him. </l>
         </sp>
@@ -2715,6 +2712,6 @@
         <pb xml:id="eng000124-030-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

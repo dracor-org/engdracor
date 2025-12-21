@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000141" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -166,9 +167,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000141"
-                   passive="http://www.wikidata.org/entity/Q7731187"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000141" passive="http://www.wikidata.org/entity/Q7731187"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -5310,8 +5309,7 @@
               <speaker>Franc. </speaker>
               <l>Spare thy labor foole, Francisco. </l>
             </sp>
-            <sp who="#eng000141-graccho #eng000141-sforza #eng000141-tiberio #eng000141-pescara"
-                      xml:id="eng000141-e137500">
+            <sp who="#eng000141-graccho #eng000141-sforza #eng000141-tiberio #eng000141-pescara" xml:id="eng000141-e137500">
               <speaker>All. </speaker>
               <l>Monster of Men. </l>
             </sp>
@@ -5452,6 +5450,6 @@
         <pb xml:id="eng000141-060-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

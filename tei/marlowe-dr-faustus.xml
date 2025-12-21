@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000126" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -193,9 +194,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000126"
-                   passive="http://www.wikidata.org/entity/Q50919"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000126" passive="http://www.wikidata.org/entity/Q50919"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -2662,6 +2661,6 @@
         <closer>Terminat hora diem, Terminat Author opus. </closer>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

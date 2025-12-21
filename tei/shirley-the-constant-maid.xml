@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000212" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -178,9 +179,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000212"
-                   passive="http://www.wikidata.org/entity/Q7727420"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000212" passive="http://www.wikidata.org/entity/Q7727420"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -419,8 +418,7 @@
             <l>Follow him still, and if there be occasion, </l>
             <l>I shall enquire for you; you will be faithfull. </l>
           </sp>
-          <sp who="#eng000212-servant-1 #eng000212-servant-2 #eng000212-servant-3"
-                   xml:id="eng000212-e101580">
+          <sp who="#eng000212-servant-1 #eng000212-servant-2 #eng000212-servant-3" xml:id="eng000212-e101580">
             <speaker>Ser. omnes. </speaker>
             <p>Doubt not, M. Playfaire. </p>
           </sp>
@@ -2442,8 +2440,7 @@
             <l>This fellowes insolence must be corrected; </l>
             <l>Dispose him in what prison you think fit. </l>
           </sp>
-          <sp who="#eng000212-lord-1 #eng000212-lord-2 #eng000212-lord-3"
-                   xml:id="eng000212-e115100">
+          <sp who="#eng000212-lord-1 #eng000212-lord-2 #eng000212-lord-3" xml:id="eng000212-e115100">
             <speaker>Lo. </speaker>
             <p>He's mad, I thinke. </p>
           </sp>
@@ -2567,8 +2564,7 @@
             <speaker>Horn. </speaker>
             <p>But am I Knighted? </p>
           </sp>
-          <sp who="#eng000212-lord-1 #eng000212-lord-2 #eng000212-lord-3"
-                   xml:id="eng000212-e115820">
+          <sp who="#eng000212-lord-1 #eng000212-lord-2 #eng000212-lord-3" xml:id="eng000212-e115820">
             <speaker>Lords. </speaker>
             <p>We congratulate your honour. </p>
           </sp>
@@ -4728,8 +4724,7 @@
             <l>The hang-man, starv'd or smother'd him in a ditch, </l>
             <l>I ha' made faire worke. </l>
           </sp>
-          <sp who="#eng000212-countryman #eng000212-justice #eng000212-frances #eng000212-bellamie"
-                   xml:id="eng000212-e129980">
+          <sp who="#eng000212-countryman #eng000212-justice #eng000212-frances #eng000212-bellamie" xml:id="eng000212-e129980">
             <speaker>Omnes. </speaker>
             <p>This were a welcome truth. </p>
           </sp>
@@ -5106,6 +5101,6 @@
         <pb xml:id="eng000212-036-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

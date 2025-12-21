@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000441" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -143,9 +144,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000441"
-                   passive="http://www.wikidata.org/entity/Q1233645"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000441" passive="http://www.wikidata.org/entity/Q1233645"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -175,10 +174,7 @@
       </div>
       <div type="encomia" xml:id="eng000441-e100190" xml:lang="lat-hi">
         <pb xml:id="eng000441-002-b"/>
-        <div cert="high"
-                 type="poem"
-                 xml:id="eng000441-e100200"
-                 xml:lang="lat">
+        <div cert="high" type="poem" xml:id="eng000441-e100200" xml:lang="lat">
           <head>In M. Kyffini Andriam. </head>
           <l>CAutè sectatus quondam, sapiensque Menandrum, </l>
           <l>Aeternum nomen Publius est meritus. </l>
@@ -192,10 +188,7 @@
             <signed>W. Morgan. </signed>
           </closer>
         </div>
-        <div cert="high"
-                 type="poem"
-                 xml:id="eng000441-e100310"
-                 xml:lang="lat">
+        <div cert="high" type="poem" xml:id="eng000441-e100310" xml:lang="lat">
           <head>In Andriam a M. Kyffino Angl. donatam. </head>
           <l>ARte laborata prodit vetus Andria, veste </l>
           <l>Cultior: &amp; nostris nunc magis apta scholis. </l>
@@ -205,28 +198,19 @@
             <signed>Th. Lloid. </signed>
           </closer>
         </div>
-        <div cert="high"
-                 type="poem"
-                 xml:id="eng000441-e100380"
-                 xml:lang="lat">
+        <div cert="high" type="poem" xml:id="eng000441-e100380" xml:lang="lat">
           <head>Eiusdem in Zoylum. </head>
           <l>INuide quid turges? quid non laudabile cernis? </l>
           <l>Dic, si displiceat, quis meliora dedit? </l>
         </div>
-        <div cert="high"
-                 type="poem"
-                 xml:id="eng000441-e100410"
-                 xml:lang="lat">
+        <div cert="high" type="poem" xml:id="eng000441-e100410" xml:lang="lat">
           <head>In Andriam Anglicè a M. Kyffino conuersam. G. Camdeni Tetrastichon. </head>
           <l>DVm laudes cumulare tuas Kyffine parabam, </l>
           <l>Andria quòd studiis facta sit Angla tuis: </l>
           <l>Adstitit en statim, ridensque Terentius inquit, </l>
           <l>Quid vis? quid laudas? carpere nemo potest. </l>
         </div>
-        <div cert="high"
-                 type="poem"
-                 xml:id="eng000441-e100460"
-                 xml:lang="lat">
+        <div cert="high" type="poem" xml:id="eng000441-e100460" xml:lang="lat">
           <pb xml:id="eng000441-003-a"/>
           <head>In amiciss, sui, M. Kyffini Andriam, Petri Bizari Carmen. </head>
           <lg>
@@ -4059,6 +4043,6 @@
         <pb xml:id="eng000441-045-b"/>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

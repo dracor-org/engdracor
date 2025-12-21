@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000681" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -61,9 +62,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000681"
-                   passive="http://www.wikidata.org/entity/Q108044083"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000681" passive="http://www.wikidata.org/entity/Q108044083"/>
     </listRelation>
   </standOff>
   <text>
@@ -4840,7 +4839,7 @@
             </row>
             <row>
               <cell>Ismenes, <hi>Page to </hi>Ziphares. </cell>
-              <cell></cell>
+              <cell/>
             </row>
             <row>
               <cell>Monima, <hi>Contracted to </hi>Mithridates. </cell>
@@ -4859,7 +4858,7 @@
                   </row>
                 </table>
               </cell>
-              <cell></cell>
+              <cell/>
             </row>
           </table>
         </p>

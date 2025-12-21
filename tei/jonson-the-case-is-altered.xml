@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000082" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -166,9 +167,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000082"
-                   passive="http://www.wikidata.org/entity/Q7721496"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000082" passive="http://www.wikidata.org/entity/Q7721496"/>
     </listRelation>
   </standOff>
   <text xml:lang="eng">
@@ -191,8 +190,7 @@
           <div n="1" type="scene" xml:id="eng000082-e100100">
             <head>Scaena prima. </head>
             <stage xml:id="eng000082-e100110">Sound? after a flourish: Iuniper a Cobler is discouered, sitting at worke in his shoppe and singing. </stage>
-            <sp who="#eng000082-juniper #eng000082-onion #eng000082-antonio"
-                      xml:id="eng000082-e100120">
+            <sp who="#eng000082-juniper #eng000082-onion #eng000082-antonio" xml:id="eng000082-e100120">
               <speaker>Iuniper, Onion, Antony Baladino. </speaker>
               <l>YOV wofull wights giue eare a while, </l>
               <l>And marke the tenor of my stile, </l>
@@ -2140,8 +2138,7 @@
               <speaker>Valen. </speaker>
               <p>Marry? one is the rude barbarous crue, a people that haue no braines, and yet grounded iudgements, these will hisse <pb xml:id="eng000082-016-b"/>any thing that mounts aboue their grounded capacities. But the other are worth the obseruation, I faith. </p>
             </sp>
-            <sp who="#eng000082-onion #eng000082-juniper #eng000082-sebastian #eng000082-balthazar"
-                      xml:id="eng000082-e111840">
+            <sp who="#eng000082-onion #eng000082-juniper #eng000082-sebastian #eng000082-balthazar" xml:id="eng000082-e111840">
               <speaker>Omnes. </speaker>
               <p>What be they? what be they? </p>
             </sp>
@@ -2233,8 +2230,7 @@
               <speaker>Oni. </speaker>
               <p>Caprichious? not I, I scorn to be caprichious for a scrach, Martino must haue another bout, come. </p>
             </sp>
-            <sp who="#eng000082-valentine #eng000082-sebastian #eng000082-balthazar"
-                      xml:id="eng000082-e112310">
+            <sp who="#eng000082-valentine #eng000082-sebastian #eng000082-balthazar" xml:id="eng000082-e112310">
               <speaker>Val. Seb. Balth. </speaker>
               <p>No, no, play no more, play no more. </p>
             </sp>
@@ -2255,8 +2251,7 @@
               <speaker>Iunip. </speaker>
               <p>Not a bout, not a stroke. </p>
             </sp>
-            <sp who="#eng000082-onion #eng000082-juniper #eng000082-sebastian #eng000082-balthazar"
-                      xml:id="eng000082-e112420">
+            <sp who="#eng000082-onion #eng000082-juniper #eng000082-sebastian #eng000082-balthazar" xml:id="eng000082-e112420">
               <speaker>Omnes. </speaker>
               <p>No more, no more. </p>
             </sp>
@@ -5173,6 +5168,6 @@
         </div>
       </div>
     </body>
-    <back></back>
+    <back/>
   </text>
 </TEI>

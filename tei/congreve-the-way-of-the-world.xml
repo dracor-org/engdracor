@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000463" xml:lang="eng">
   <teiHeader>
     <fileDesc>
@@ -58,9 +59,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000463"
-                   passive="http://www.wikidata.org/entity/Q723947"/>
+      <relation name="wikidata" active="https://dracor.org/entity/eng000463" passive="http://www.wikidata.org/entity/Q723947"/>
     </listRelation>
   </standOff>
   <text>
@@ -165,7 +164,7 @@
           <table>
             <row>
               <cell>MEN. </cell>
-              <cell></cell>
+              <cell/>
               <cell>BY </cell>
             </row>
             <row>
@@ -195,8 +194,8 @@
             </row>
             <row>
               <cell>WOMEN. </cell>
-              <cell></cell>
-              <cell></cell>
+              <cell/>
+              <cell/>
             </row>
             <row>
               <cell>Lady Wishfort, </cell>
