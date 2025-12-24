@@ -10,7 +10,7 @@
   exclude-result-prefixes="ep d tei fn map"
   version="3.0">
 
-  <xsl:output method="xml" encoding="utf-8" omit-xml-declaration="yes" indent="yes"/>
+  <xsl:output method="xml" encoding="utf-8" omit-xml-declaration="no" indent="yes"/>
 
   <xsl:param name="authors" select="document('authors.xml')"/>
   <xsl:param name="index" select="document('index.xml')"/>
