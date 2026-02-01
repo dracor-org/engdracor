@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000052" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000052" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -212,7 +212,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000052" passive="http://www.wikidata.org/entity/Q5990937"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000052"
+                   passive="http://www.wikidata.org/entity/Q5990937"/>
     </listRelation>
   </standOff>
   <text>
@@ -439,7 +441,8 @@
           <l>Shees next Successiue, should your maiesty </l>
           <l>Dye yssules, which heauen defend. </l>
         </sp>
-        <sp who="#eng000052-sentlow #eng000052-gage #eng000052-attendant #eng000052-winchester #eng000052-sussex #eng000052-tame #eng000052-howard" xml:id="eng000052-e101440">
+        <sp who="#eng000052-sentlow #eng000052-gage #eng000052-attendant #eng000052-winchester #eng000052-sussex #eng000052-tame #eng000052-howard"
+                xml:id="eng000052-e101440">
           <speaker>Omnes. </speaker>
           <l>Which heauen defend. </l>
         </sp>
@@ -781,7 +784,8 @@
             </floatingText>
           </stage>
         </sp>
-        <sp who="#eng000052-sentlow #eng000052-gage #eng000052-attendant #eng000052-winchester #eng000052-sussex #eng000052-tame #eng000052-howard" xml:id="eng000052-e103640">
+        <sp who="#eng000052-sentlow #eng000052-gage #eng000052-attendant #eng000052-winchester #eng000052-sussex #eng000052-tame #eng000052-howard"
+                xml:id="eng000052-e103640">
           <speaker>Omnes. </speaker>
           <l>Long liue the King and Queene. <stage xml:id="eng000052-e103660">Florish. </stage>
           </l>
@@ -1919,7 +1923,8 @@
           <l>a nosegay for her Grace, here she comes. </l>
         </sp>
         <stage xml:id="eng000052-e111180">Enter Elizabeth, Beningfeild, Gage and Tame. </stage>
-        <sp who="#eng000052-poor-men #eng000052-cook #eng000052-pantler" xml:id="eng000052-e111190">
+        <sp who="#eng000052-poor-men #eng000052-cook #eng000052-pantler"
+                xml:id="eng000052-e111190">
           <speaker>Omnes: </speaker>
           <l>The Lord preserue thy sweete Grace. </l>
         </sp>
@@ -1940,7 +1945,8 @@
           <speaker>Bening: </speaker>
           <l>what traytor knaues are gather'd here to make a tumult? </l>
         </sp>
-        <sp who="#eng000052-poor-men #eng000052-cook #eng000052-pantler" xml:id="eng000052-e111300">
+        <sp who="#eng000052-poor-men #eng000052-cook #eng000052-pantler"
+                xml:id="eng000052-e111300">
           <speaker>Omnes: </speaker>
           <l>Now the Lord blesse thy sweete Grace. </l>
         </sp>
@@ -3334,7 +3340,8 @@
           </l>
         </sp>
         <stage xml:id="eng000052-e120280">A Sennet. Enter 4. Trumpetors, after them Sargeant Trumpetor with a Mace, after him Purse-bearer, Sussex with the Crown, Howard the scepter, Constable with the Cap of mayntenance, Shandoyse with the Sword, Tame with the Coller and a George, foure Gentlemen bearing the Canapy ouer the Queene, two Gentle-women bearing vp her trayne, six gentle-men Pensioners, the Queene takes state. </stage>
-        <sp who="#eng000052-poor-men #eng000052-cook #eng000052-pantler" xml:id="eng000052-e120290">
+        <sp who="#eng000052-poor-men #eng000052-cook #eng000052-pantler"
+                xml:id="eng000052-e120290">
           <speaker>Omnes: </speaker>
           <l>Long liue, long raigne our Soueraigne. </l>
         </sp>
@@ -3491,6 +3498,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000644" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000644" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000644" passive="http://www.wikidata.org/entity/Q108044096"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000644"
+                   passive="http://www.wikidata.org/entity/Q108044096"/>
     </listRelation>
   </standOff>
   <text>
@@ -73,7 +75,7 @@
         <lg>
           <l>Fortunam Priami cantabo &amp; Nobile Bellum. </l>
           <l>
-            <foreign xml:lang="lat">Quid dignum tanto feret hic Promissor hiatu? </foreign>
+            <foreign xml:lang="la">Quid dignum tanto feret hic Promissor hiatu? </foreign>
           </l>
         </lg>
         <p>Hor. de Art Poet. </p>
@@ -208,7 +210,7 @@
             </row>
             <row>
               <cell>Captains, Soldiers, Trojans, Priests, Guards. </cell>
-              <cell/>
+              <cell></cell>
             </row>
           </table>
         </p>

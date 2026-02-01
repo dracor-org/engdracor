@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000382" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000382" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -153,10 +153,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000382" passive="http://www.wikidata.org/entity/Q7756182"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000382"
+                   passive="http://www.wikidata.org/entity/Q7756182"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000382-e100030">
         <pb type="blank" xml:id="eng000382-037-a"/>
@@ -2000,7 +2002,8 @@
             <speaker>Joll. </speaker>
             <p>These, which? </p>
           </sp>
-          <sp who="#eng000382-wild #eng000382-careless #eng000382-captain" xml:id="eng000382-e109500">
+          <sp who="#eng000382-wild #eng000382-careless #eng000382-captain"
+                   xml:id="eng000382-e109500">
             <speaker>Omnes. </speaker>
             <p>Which? </p>
           </sp>
@@ -2091,7 +2094,8 @@
             <speaker>Joll. </speaker>
             <p>And as we go I'le tell you all the story, and after Dinner, be free from all Engagements, as we promis'd thee; and follow but your directions, I'le warrant you mirth and a prety Wench. </p>
           </sp>
-          <sp who="#eng000382-wild #eng000382-careless #eng000382-captain" xml:id="eng000382-e109960">
+          <sp who="#eng000382-wild #eng000382-careless #eng000382-captain"
+                   xml:id="eng000382-e109960">
             <speaker>Omnes. </speaker>
             <p>Agreed, any thing that breeds mirth is welcome. </p>
           </sp>
@@ -2971,7 +2975,8 @@
             <speaker>Capt. </speaker>
             <p>But this for Supper; Capt. No more of this now; This afternoon, as you are true to the Pettycoat, observe your Instructions, and meet at Neds house in the Evening. </p>
           </sp>
-          <sp who="#eng000382-wild #eng000382-careless #eng000382-widow #eng000382-sadd #eng000382-jolly #eng000382-pleasant #eng000382-constant #eng000382-secret" xml:id="eng000382-e114460">
+          <sp who="#eng000382-wild #eng000382-careless #eng000382-widow #eng000382-sadd #eng000382-jolly #eng000382-pleasant #eng000382-constant #eng000382-secret"
+                   xml:id="eng000382-e114460">
             <speaker>Omnes. </speaker>
             <p>We will not fail. </p>
           </sp>
@@ -3092,7 +3097,8 @@
             <speaker>Capt. </speaker>
             <p>Well, I must go write, therefore resolve of somewhat; shall I propose an indifferent place where 'tis probable we shall all meet. </p>
           </sp>
-          <sp who="#eng000382-wild #eng000382-careless #eng000382-jolly" xml:id="eng000382-e115060">
+          <sp who="#eng000382-wild #eng000382-careless #eng000382-jolly"
+                   xml:id="eng000382-e115060">
             <speaker>Omnes. </speaker>
             <p>Yes. </p>
           </sp>
@@ -3121,7 +3127,8 @@
             <speaker>Capt. </speaker>
             <p>Farewell, you will be sure to meet. </p>
           </sp>
-          <sp who="#eng000382-wild #eng000382-careless #eng000382-jolly" xml:id="eng000382-e115200">
+          <sp who="#eng000382-wild #eng000382-careless #eng000382-jolly"
+                   xml:id="eng000382-e115200">
             <speaker>Omnes. </speaker>
             <p>Yes, yes. </p>
           </sp>
@@ -6571,7 +6578,8 @@
             <speaker>Wild. </speaker>
             <p>No, let's home, and with all diligence get our dinner, to defend us; and let the Porter dispute it at the wicket, till she signs Articles of peace. </p>
           </sp>
-          <sp who="#eng000382-captain #eng000382-constant #eng000382-widow #eng000382-careless #eng000382-wanton #eng000382-pleasant #eng000382-jolly" xml:id="eng000382-e132910">
+          <sp who="#eng000382-captain #eng000382-constant #eng000382-widow #eng000382-careless #eng000382-wanton #eng000382-pleasant #eng000382-jolly"
+                   xml:id="eng000382-e132910">
             <speaker>Omnes. </speaker>
             <p>Agreed.— </p>
           </sp>
@@ -6721,6 +6729,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

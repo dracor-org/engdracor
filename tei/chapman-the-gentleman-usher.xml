@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000277" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000277" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -154,10 +154,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000277" passive="http://www.wikidata.org/entity/Q7736134"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000277"
+                   passive="http://www.wikidata.org/entity/Q7736134"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000277-e100030">
         <pb type="blank" xml:id="eng000277-001-a"/>
@@ -843,7 +845,8 @@
           </lg>
           <stage xml:id="eng000277-e104060">Exeunt. </stage>
         </sp>
-        <sp who="#eng000277-strozza #eng000277-vincentio" xml:id="eng000277-e104070">
+        <sp who="#eng000277-strozza #eng000277-vincentio"
+                xml:id="eng000277-e104070">
           <speaker>Stro. Vin. </speaker>
           <p>Which as we can, weele cast to ouerthrow. </p>
           <stage xml:id="eng000277-e104090">Enter Lasso, Corteza, Margaret, Bassiolo, Sarpego, two Pages, Bassiolo bare before. </stage>
@@ -3133,7 +3136,8 @@
             <l>Come, to our hunting; now tis time I thinke. </l>
           </lg>
         </sp>
-        <sp who="#eng000277-cynanche #eng000277-bassiolo #eng000277-women-attendants #eng000277-huntsmen" xml:id="eng000277-e118070">
+        <sp who="#eng000277-cynanche #eng000277-bassiolo #eng000277-women-attendants #eng000277-huntsmen"
+                xml:id="eng000277-e118070">
           <speaker>Omn </speaker>
           <lg>
             <l>The verie best time of the day, my Lord. </l>
@@ -6828,6 +6832,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

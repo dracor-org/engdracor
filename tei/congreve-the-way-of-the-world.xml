@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000463" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000463" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000463" passive="http://www.wikidata.org/entity/Q723947"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000463"
+                   passive="http://www.wikidata.org/entity/Q723947"/>
     </listRelation>
   </standOff>
   <text>
@@ -164,7 +166,7 @@
           <table>
             <row>
               <cell>MEN. </cell>
-              <cell/>
+              <cell></cell>
               <cell>BY </cell>
             </row>
             <row>
@@ -194,8 +196,8 @@
             </row>
             <row>
               <cell>WOMEN. </cell>
-              <cell/>
-              <cell/>
+              <cell></cell>
+              <cell></cell>
             </row>
             <row>
               <cell>Lady Wishfort, </cell>
@@ -1022,7 +1024,7 @@
             </sp>
             <sp xml:id="eng000463-e8830">
               <speaker>Pet. </speaker>
-              <l>Ay <foreign xml:lang="lat">teste a teste</foreign>; But not in publick, because I make </l>
+              <l>Ay <foreign xml:lang="la">teste a teste</foreign>; But not in publick, because I make </l>
               <l>Remarks. </l>
             </sp>
             <sp xml:id="eng000463-e8880">
@@ -3256,7 +3258,7 @@
             <sp xml:id="eng000463-e31230">
               <pb n="61" xml:id="eng000463-037-b"/>
               <speaker>Wit. </speaker>
-              <p>Left 'em? I cou'd stay no longer— I have laugh'd like ten Christnings— I am tipsy with laughing— If I had staid any longer I shou'd have burst,— I must have been let out and piec'd in the sides like an unsiz'd Camlet,— Yes, yes the fray is compos'd; my Lady came in like a <foreign xml:lang="lat">Noli prosequi </foreign>and stop't their proceedings. </p>
+              <p>Left 'em? I cou'd stay no longer— I have laugh'd like ten Christnings— I am tipsy with laughing— If I had staid any longer I shou'd have burst,— I must have been let out and piec'd in the sides like an unsiz'd Camlet,— Yes, yes the fray is compos'd; my Lady came in like a <foreign xml:lang="la">Noli prosequi </foreign>and stop't their proceedings. </p>
             </sp>
             <sp xml:id="eng000463-e31270">
               <speaker>Mill. </speaker>
@@ -3274,7 +3276,7 @@
             </sp>
             <sp xml:id="eng000463-e31410">
               <speaker>Wit. </speaker>
-              <p>Thou hast utter'd <hi>Volumes, Folio's</hi>, in less than <foreign xml:lang="lat">Decimo Sexto</foreign>, my Dear Lacedemonian, Sirrah Petulant, thou art an Epitomizer of words. </p>
+              <p>Thou hast utter'd <hi>Volumes, Folio's</hi>, in less than <foreign xml:lang="la">Decimo Sexto</foreign>, my Dear Lacedemonian, Sirrah Petulant, thou art an Epitomizer of words. </p>
             </sp>
             <sp xml:id="eng000463-e31480">
               <speaker>Pet. </speaker>
@@ -3381,7 +3383,7 @@
             <sp xml:id="eng000463-e32460">
               <speaker>Sir Wil. </speaker>
               <p>
-                <foreign xml:lang="lat">In vino veritas </foreign>Aunt,— If I drunk your Health to day Cosen— I am a Borachio. But if you have a mind to be Marry'd, say the Word, and send for the Piper, Wilfull will do't. If not, dust it away, and let's have tother round— Tony, Ods heart where's <hi>Tony— Tony's </hi>an honest fellow, but he spits after a Bumper, and that's a Fault. </p>
+                <foreign xml:lang="la">In vino veritas </foreign>Aunt,— If I drunk your Health to day Cosen— I am a Borachio. But if you have a mind to be Marry'd, say the Word, and send for the Piper, Wilfull will do't. If not, dust it away, and let's have tother round— Tony, Ods heart where's <hi>Tony— Tony's </hi>an honest fellow, but he spits after a Bumper, and that's a Fault. </p>
               <p>Sings, <q>
                   <l>We'll drink and we'll never ha'done Boys </l>
                   <l>Put the glass then aroundwith the Sun Boys </l>
@@ -3926,7 +3928,7 @@
             </sp>
             <sp xml:id="eng000463-e39200">
               <speaker>Lady. </speaker>
-              <p>My Nephew was <foreign xml:lang="lat">non Compos</foreign>; and cou'd not make his Addresses. </p>
+              <p>My Nephew was <foreign xml:lang="la">non Compos</foreign>; and cou'd not make his Addresses. </p>
             </sp>
             <sp xml:id="eng000463-e39240">
               <speaker>Fain. </speaker>
@@ -4321,6 +4323,5 @@
         </div>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

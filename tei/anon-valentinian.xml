@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000669" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000669" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000669" passive="http://www.wikidata.org/entity/Q7911046"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000669"
+                   passive="http://www.wikidata.org/entity/Q7911046"/>
     </listRelation>
   </standOff>
   <text>
@@ -3836,7 +3838,7 @@
           <div n="1" type="scene" xml:id="eng000669-e35760">
             <head>ACT V. SCENE I. </head>
             <stage xml:id="eng000669-e35780">
-              <foreign xml:lang="lat">AEcius Solus</foreign>. A Letter. </stage>
+              <foreign xml:lang="la">AEcius Solus</foreign>. A Letter. </stage>
             <sp xml:id="eng000669-e35800">
               <speaker>AEcius. </speaker>
               <l>LOOK down, ye equal Gods, and guide my heart, </l>
@@ -5339,6 +5341,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000494" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000494" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000494" passive="http://www.wikidata.org/entity/Q107608633"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000494"
+                   passive="http://www.wikidata.org/entity/Q107608633"/>
     </listRelation>
   </standOff>
   <text>
@@ -4690,7 +4692,7 @@
               <l>Boads a sad event: For though there be no great </l>
               <l>Vessel dissected, yet I have cause to fear </l>
               <l>That the Parenchyma of the right lobe of the lungs, </l>
-              <l>Neer some large branch of the <foreign xml:lang="lat">Aspera arteria</foreign>, </l>
+              <l>Neer some large branch of the <foreign xml:lang="la">Aspera arteria</foreign>, </l>
               <l>Is perforated. </l>
             </sp>
             <sp xml:id="eng000494-e42500">
@@ -6423,6 +6425,5 @@
         <pb xml:id="eng000494-051-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

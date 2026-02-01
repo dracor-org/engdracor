@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000107" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000107" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -179,7 +179,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000107" passive="http://www.wikidata.org/entity/Q7749612"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000107"
+                   passive="http://www.wikidata.org/entity/Q7749612"/>
     </listRelation>
   </standOff>
   <text>
@@ -1321,7 +1323,8 @@
             <p>Alas I pittie thee. <stage xml:id="eng000107-e107570">Exit Euadne. </stage>
             </p>
           </sp>
-          <sp who="#eng000107-ladies #eng000107-dula #eng000107-aspatia" xml:id="eng000107-e107580">
+          <sp who="#eng000107-ladies #eng000107-dula #eng000107-aspatia"
+                   xml:id="eng000107-e107580">
             <speaker>OMNES. </speaker>
             <p>Madame good night. </p>
           </sp>
@@ -4617,7 +4620,8 @@
             <l>When he has vsd me thus a month, I am mad </l>
             <l>Am I not still? </l>
           </sp>
-          <sp who="#eng000107-melantius #eng000107-king #eng000107-amintor #eng000107-evadne #eng000107-diphilus #eng000107-lysippus #eng000107-cleon #eng000107-strato" xml:id="eng000107-e129070">
+          <sp who="#eng000107-melantius #eng000107-king #eng000107-amintor #eng000107-evadne #eng000107-diphilus #eng000107-lysippus #eng000107-cleon #eng000107-strato"
+                   xml:id="eng000107-e129070">
             <speaker>Omnes. </speaker>
             <p>Ha ha ha. </p>
           </sp>
@@ -4630,7 +4634,8 @@
             <l>And hees an Asse, and I am a very foole </l>
             <l>Both with him, and without him, as you vse me. </l>
           </sp>
-          <sp who="#eng000107-melantius #eng000107-king #eng000107-amintor #eng000107-evadne #eng000107-diphilus #eng000107-lysippus #eng000107-cleon #eng000107-strato" xml:id="eng000107-e129160">
+          <sp who="#eng000107-melantius #eng000107-king #eng000107-amintor #eng000107-evadne #eng000107-diphilus #eng000107-lysippus #eng000107-cleon #eng000107-strato"
+                   xml:id="eng000107-e129160">
             <speaker>Omnes. </speaker>
             <p>Ha ha ha. </p>
           </sp>
@@ -6033,6 +6038,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

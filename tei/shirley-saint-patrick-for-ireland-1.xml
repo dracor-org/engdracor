@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000225" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000225" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -170,7 +170,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000225-e100030">
         <pb xml:id="eng000225-001-a"/>
@@ -615,7 +615,8 @@
           <speaker>3. </speaker>
           <p>Away. </p>
         </sp>
-        <sp who="#eng000225-spirit-1 #eng000225-spirit-2 #eng000225-spirit-3" xml:id="eng000225-e103110">
+        <sp who="#eng000225-spirit-1 #eng000225-spirit-2 #eng000225-spirit-3"
+                xml:id="eng000225-e103110">
           <speaker>Omnes. </speaker>
           <p>We cannot, dare not stay. </p>
           <stage xml:id="eng000225-e103130">Exeunt. </stage>
@@ -4455,7 +4456,8 @@
             <l>But glide away in peace. </l>
           </lg>
         </sp>
-        <sp who="#eng000225-endarius #eng000225-ferochus" xml:id="eng000225-e127240">
+        <sp who="#eng000225-endarius #eng000225-ferochus"
+                xml:id="eng000225-e127240">
           <speaker>End. Fer. </speaker>
           <lg>
             <l>We do obey </l>
@@ -5430,11 +5432,13 @@
             <l>I'th' mean time be secure. </l>
           </lg>
         </sp>
-        <sp who="#eng000225-endarius #eng000225-ferochus" xml:id="eng000225-e133670">
+        <sp who="#eng000225-endarius #eng000225-ferochus"
+                xml:id="eng000225-e133670">
           <speaker>End. Fer. </speaker>
           <p>We are your creatures. </p>
         </sp>
-        <sp who="#eng000225-endarius #eng000225-ferochus #eng000225-leogarius #eng000225-leogarius" xml:id="eng000225-e133690">
+        <sp who="#eng000225-endarius #eng000225-ferochus #eng000225-leogarius #eng000225-leogarius"
+                xml:id="eng000225-e133690">
           <speaker>Omnes. </speaker>
           <p>Our prayers and duty. </p>
         </sp>
@@ -5469,6 +5473,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

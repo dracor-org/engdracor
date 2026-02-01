@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000203" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000203" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -211,10 +211,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000203" passive="http://www.wikidata.org/entity/Q4383488"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000203"
+                   passive="http://www.wikidata.org/entity/Q4383488"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000203-e100030">
         <pb type="blank" xml:id="eng000203-001-a"/>
@@ -2931,7 +2933,8 @@
             <l>To venture both your liues to do me good. </l>
           </lg>
         </sp>
-        <sp who="#eng000203-2-witness #eng000203-1-witness" xml:id="eng000203-e121400">
+        <sp who="#eng000203-2-witness #eng000203-1-witness"
+                xml:id="eng000203-e121400">
           <speaker>Both wit. </speaker>
           <p>We swore no more, then that we will performe. </p>
         </sp>
@@ -3912,6 +3915,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

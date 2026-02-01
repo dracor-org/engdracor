@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000430" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000430" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -172,10 +172,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000430" passive="http://www.wikidata.org/entity/Q7721343"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000430"
+                   passive="http://www.wikidata.org/entity/Q7721343"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000430-e100030">
         <pb xml:id="eng000430-001-a"/>
@@ -1158,7 +1160,8 @@
             <l>The Generall has found out employment for me, </l>
             <l>He is writing Letters back. </l>
           </sp>
-          <sp who="#eng000430-captain-2 #eng000430-captain-1" xml:id="eng000430-e106730">
+          <sp who="#eng000430-captain-2 #eng000430-captain-1"
+                   xml:id="eng000430-e106730">
             <speaker>Al Cap. </speaker>
             <l>To his Mistress. </l>
           </sp>
@@ -1169,7 +1172,8 @@
             <l>Not draw my sword, and use it, when cause </l>
             <l>With honour calls to action? </l>
           </sp>
-          <sp who="#eng000430-colonel-1 #eng000430-colonel-2" xml:id="eng000430-e106800">
+          <sp who="#eng000430-colonel-1 #eng000430-colonel-2"
+                   xml:id="eng000430-e106800">
             <speaker>Al. Colo. </speaker>
             <l>With the most valiant man alive. </l>
           </sp>
@@ -1418,7 +1422,8 @@
             <l>Your diligence, when I visit all your </l>
             <l>Severall commands. </l>
           </sp>
-          <sp who="#eng000430-captain-2 #eng000430-captain-1 #eng000430-colonel-1 #eng000430-colonel-2" xml:id="eng000430-e108400">
+          <sp who="#eng000430-captain-2 #eng000430-captain-1 #eng000430-colonel-1 #eng000430-colonel-2"
+                   xml:id="eng000430-e108400">
             <speaker>Omnes. </speaker>
             <l>We shall expect, </l>
           </sp>
@@ -1692,7 +1697,8 @@
             <speaker>Dut. </speaker>
             <l>Eternall blessings Crown you. </l>
           </sp>
-          <sp who="#eng000430-captain-2 #eng000430-captain-1 #eng000430-colonel-1 #eng000430-colonel-2" xml:id="eng000430-e110300">
+          <sp who="#eng000430-captain-2 #eng000430-captain-1 #eng000430-colonel-1 #eng000430-colonel-2"
+                   xml:id="eng000430-e110300">
             <speaker>Omnes. </speaker>
             <l>And every joy your Mariage </l>
           </sp>

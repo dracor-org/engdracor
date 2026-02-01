@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000210" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000210" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -164,10 +164,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000210" passive="http://www.wikidata.org/entity/Q7718068"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000210"
+                   passive="http://www.wikidata.org/entity/Q7718068"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000210-e100030">
         <pb xml:id="eng000210-001-a"/>
@@ -1662,7 +1664,8 @@
               <speaker>Roll. </speaker>
               <p>Coxecombs. </p>
             </sp>
-            <sp who="#eng000210-grutti #eng000210-dondolo #eng000210-morello" xml:id="eng000210-e108770">
+            <sp who="#eng000210-grutti #eng000210-dondolo #eng000210-morello"
+                      xml:id="eng000210-e108770">
               <speaker>All 3. </speaker>
               <p>How? </p>
             </sp>
@@ -2669,7 +2672,8 @@
               <speaker>Mor. </speaker>
               <p>I shall be undone— d'yee heare Noble friends 'tis but a folly to dissemble, I am no such thing, I am no Hermaphrodite, I am a friend of yours. </p>
             </sp>
-            <sp who="#eng000210-guard-1 #eng000210-guard-2 #eng000210-guard-3" xml:id="eng000210-e114170">
+            <sp who="#eng000210-guard-1 #eng000210-guard-2 #eng000210-guard-3"
+                      xml:id="eng000210-e114170">
               <speaker>All. </speaker>
               <p>Of ours. </p>
             </sp>
@@ -2706,7 +2710,8 @@
               <speaker>Mo. </speaker>
               <p>Nay d'yee heare Gentlemen. </p>
             </sp>
-            <sp who="#eng000210-guard-1 #eng000210-guard-2 #eng000210-guard-3" xml:id="eng000210-e114350">
+            <sp who="#eng000210-guard-1 #eng000210-guard-2 #eng000210-guard-3"
+                      xml:id="eng000210-e114350">
               <speaker>All. </speaker>
               <p>It must be so Sir, come sweet effeminate Signior. </p>
             </sp>
@@ -2910,7 +2915,8 @@
               <speaker>Ser. </speaker>
               <p>I Sir, 'tis his owne hand I can assure you. </p>
             </sp>
-            <sp who="#eng000210-dondolo #eng000210-rolliardo #eng000210-ambassador #eng000210-grutti #eng000210-fulvio #eng000210-perenetto" xml:id="eng000210-e115460">
+            <sp who="#eng000210-dondolo #eng000210-rolliardo #eng000210-ambassador #eng000210-grutti #eng000210-fulvio #eng000210-perenetto"
+                      xml:id="eng000210-e115460">
               <speaker>Omnes. </speaker>
               <p>Ha, ha, ha. </p>
             </sp>
@@ -3158,7 +3164,8 @@
                 <l>To square with our number— d'yee allow it. </l>
               </lg>
             </sp>
-            <sp who="#eng000210-guard-1 #eng000210-guard-2 #eng000210-guard-3" xml:id="eng000210-e116790">
+            <sp who="#eng000210-guard-1 #eng000210-guard-2 #eng000210-guard-3"
+                      xml:id="eng000210-e116790">
               <speaker>All. </speaker>
               <p>Willingly. </p>
             </sp>
@@ -4021,7 +4028,8 @@
               <speaker>Don. </speaker>
               <p>You must be Ladies whom the King leaves to keepe her Company, entertaine what humor you please. </p>
             </sp>
-            <sp who="#eng000210-cassiana #eng000210-katherina" xml:id="eng000210-e121610">
+            <sp who="#eng000210-cassiana #eng000210-katherina"
+                      xml:id="eng000210-e121610">
               <speaker>Cass. Kat. </speaker>
               <p>This is our owne parts indeed. </p>
             </sp>
@@ -5231,7 +5239,8 @@
                 <l>See that Philenzo kneele. </l>
               </lg>
             </sp>
-            <sp who="#eng000210-dondolo #eng000210-rolliardo #eng000210-ambassador #eng000210-grutti #eng000210-fulvio #eng000210-perenetto" xml:id="eng000210-e129390">
+            <sp who="#eng000210-dondolo #eng000210-rolliardo #eng000210-ambassador #eng000210-grutti #eng000210-fulvio #eng000210-perenetto"
+                      xml:id="eng000210-e129390">
               <speaker>Omnes. </speaker>
               <p>Lord Philenzo. </p>
             </sp>

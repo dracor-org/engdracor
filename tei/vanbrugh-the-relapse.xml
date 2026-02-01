@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000569" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000569" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000569" passive="http://www.wikidata.org/entity/Q3058431"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000569"
+                   passive="http://www.wikidata.org/entity/Q3058431"/>
     </listRelation>
   </standOff>
   <text>
@@ -6344,7 +6346,7 @@
         <l>THese People have regal'd you here to day </l>
         <l>(In my Opinion) with a saucy Play; </l>
         <l>In which the Author does presume to shew, </l>
-        <l>That Coxcomb, <foreign xml:lang="lat">ab Origine</foreign>— was Beau. </l>
+        <l>That Coxcomb, <foreign xml:lang="la">ab Origine</foreign>— was Beau. </l>
         <l>Truly I think the thing of so much weight, </l>
         <l>Thus if some smart Chastisement ben't his Fate, </l>
         <l>Gods Curse it may in time destroy the State. </l>

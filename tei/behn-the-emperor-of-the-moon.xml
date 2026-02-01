@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000447" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000447" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -118,7 +118,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000447" passive="http://www.wikidata.org/entity/Q7731937"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000447"
+                   passive="http://www.wikidata.org/entity/Q7731937"/>
     </listRelation>
   </standOff>
   <text>
@@ -1533,7 +1535,7 @@
             <sp who="#eng000447-scaramouch" xml:id="eng000447-e13420">
               <speaker>Scar. </speaker>
               <l>
-                <foreign xml:lang="lat">Deceptio visus</foreign>, Sir; the Error of the Eyes. </l>
+                <foreign xml:lang="la">Deceptio visus</foreign>, Sir; the Error of the Eyes. </l>
             </sp>
             <sp who="#eng000447-cinthio" xml:id="eng000447-e13460">
               <speaker>Cin. </speaker>
@@ -2831,7 +2833,7 @@
             </sp>
             <sp who="#eng000447-scaramouch" xml:id="eng000447-e24850">
               <speaker>Scar. </speaker>
-              <p>Not in <foreign xml:lang="lat">Propria Persona, Seignior</foreign>, but by speculation, I have, and made most considerable Remarques on <pb n="46" xml:id="eng000447-028-a"/>that incomparable <hi>Terra Firma</hi>, of which I have the compleatest Map in Christendom— and which Gonzales himself omitted in his Cosmographia of the <hi>Lunar Mundus</hi>. </p>
+              <p>Not in <foreign xml:lang="la">Propria Persona, Seignior</foreign>, but by speculation, I have, and made most considerable Remarques on <pb n="46" xml:id="eng000447-028-a"/>that incomparable <hi>Terra Firma</hi>, of which I have the compleatest Map in Christendom— and which Gonzales himself omitted in his Cosmographia of the <hi>Lunar Mundus</hi>. </p>
             </sp>
             <sp who="#eng000447-doctor" xml:id="eng000447-e24930">
               <speaker>Doct. </speaker>
@@ -2839,7 +2841,7 @@
             </sp>
             <sp who="#eng000447-scaramouch" xml:id="eng000447-e24970">
               <speaker>Scar. </speaker>
-              <p>You shall, Sir, together with a Map of <foreign xml:lang="lat">Terra Incognita</foreign>, a great Rarety, indeed, Sir. </p>
+              <p>You shall, Sir, together with a Map of <foreign xml:lang="la">Terra Incognita</foreign>, a great Rarety, indeed, Sir. </p>
               <stage xml:id="eng000447-e25010">Enter Bellemante. </stage>
             </sp>
             <sp who="#eng000447-doctor" xml:id="eng000447-e25030">
@@ -2892,7 +2894,7 @@
             </sp>
             <sp who="#eng000447-scaramouch" xml:id="eng000447-e25480">
               <speaker>Scar. </speaker>
-              <p>Now, Sir, be pleas'd to observe the three Regions, if they be bright, without doubt Mars is powerful; if the middle Region or Camera be palled, <foreign xml:lang="lat">Filia Solis </foreign>is breeding. </p>
+              <p>Now, Sir, be pleas'd to observe the three Regions, if they be bright, without doubt Mars is powerful; if the middle Region or Camera be palled, <foreign xml:lang="la">Filia Solis </foreign>is breeding. </p>
             </sp>
             <sp who="#eng000447-doctor" xml:id="eng000447-e25530">
               <speaker>Doct. </speaker>
@@ -2963,7 +2965,7 @@
             </sp>
             <sp who="#eng000447-scaramouch" xml:id="eng000447-e26150">
               <speaker>Scar. </speaker>
-              <p>For, Sir, conceive me how he grew Rich, since he drank those Waters he never buys any Iron, but hammers it out of <foreign xml:lang="lat">Stercus Proprius</foreign>. </p>
+              <p>For, Sir, conceive me how he grew Rich, since he drank those Waters he never buys any Iron, but hammers it out of <foreign xml:lang="la">Stercus Proprius</foreign>. </p>
               <stage xml:id="eng000447-e26190">Enter Bellemante with a Billet. </stage>
             </sp>
             <sp who="#eng000447-bellemante" xml:id="eng000447-e26210">
@@ -2977,7 +2979,7 @@
             </sp>
             <sp who="#eng000447-scaramouch" xml:id="eng000447-e26290">
               <speaker>Scar. </speaker>
-              <p>Ay, Sir, and if at any time Nature be too infirm, and he prove Costive, he has no more to do, but to apply a Load-stone <foreign xml:lang="lat">ad Anum</foreign>. </p>
+              <p>Ay, Sir, and if at any time Nature be too infirm, and he prove Costive, he has no more to do, but to apply a Load-stone <foreign xml:lang="la">ad Anum</foreign>. </p>
             </sp>
             <sp who="#eng000447-doctor" xml:id="eng000447-e26330">
               <speaker>Doct. </speaker>
@@ -2985,7 +2987,7 @@
             </sp>
             <sp who="#eng000447-scaramouch" xml:id="eng000447-e26360">
               <speaker>Scar. </speaker>
-              <p>Most true, Sir, and that facilitates the Journey <foreign xml:lang="lat">per Visera.</foreign>— But I detain you, Sir, another time— Sir,— I will now only beg the Honour of a Word or two with the Governante, before I go.—. </p>
+              <p>Most true, Sir, and that facilitates the Journey <foreign xml:lang="la">per Visera.</foreign>— But I detain you, Sir, another time— Sir,— I will now only beg the Honour of a Word or two with the Governante, before I go.—. </p>
             </sp>
             <sp who="#eng000447-doctor" xml:id="eng000447-e26400">
               <speaker>Doct. </speaker>
@@ -3031,7 +3033,8 @@
               <l>Hold Gentlemen,— do not worry me. </l>
               <l>Which of you wou'd speak with me? </l>
             </sp>
-            <sp who="#eng000447-harlequin #eng000447-scaramouch" xml:id="eng000447-e26800">
+            <sp who="#eng000447-harlequin #eng000447-scaramouch"
+                      xml:id="eng000447-e26800">
               <speaker>Both. </speaker>
               <l>I, I, I, Madam— </l>
             </sp>
@@ -3039,7 +3042,8 @@
               <speaker>Mop. </speaker>
               <l>Both of you? </l>
             </sp>
-            <sp who="#eng000447-harlequin #eng000447-scaramouch" xml:id="eng000447-e26860">
+            <sp who="#eng000447-harlequin #eng000447-scaramouch"
+                      xml:id="eng000447-e26860">
               <speaker>Both. </speaker>
               <l>No, Madam, I, I. </l>
             </sp>

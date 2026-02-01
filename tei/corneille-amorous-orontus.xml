@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000584" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000584" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -953,7 +953,10 @@
               <l>The 〈…〉 seem'd engros'd by you alone; </l>
               <l>A 〈…〉 all are gone! </l>
               <l>
-                <gap extent="1" reason="illegible: blotted" resp="#APEX" unit="lines"/>
+                <gap extent="1"
+                             reason="illegible: blotted"
+                             resp="#APEX"
+                             unit="lines"/>
               </l>
             </sp>
             <sp xml:id="eng000584-e7590">
@@ -3204,7 +3207,7 @@
             <sp xml:id="eng000584-e26920">
               <speaker>Cliton. </speaker>
               <l>If towards you, some Fickleness they show, </l>
-              <l>They but return you back, a <foreign xml:lang="lat">quid pro quo</foreign>. </l>
+              <l>They but return you back, a <foreign xml:lang="la">quid pro quo</foreign>. </l>
               <l>For Mistriss, waiting-Maid, Fair, Black, Red, Brown </l>
               <l>You fear no colours, but storm every Town! </l>
               <l>Your eager Appetite with all makes bold, </l>
@@ -5487,6 +5490,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

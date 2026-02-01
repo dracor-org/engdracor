@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000753" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000753" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000753" passive="http://www.wikidata.org/entity/Q107919941"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000753"
+                   passive="http://www.wikidata.org/entity/Q107919941"/>
     </listRelation>
   </standOff>
   <text>
@@ -1614,7 +1616,7 @@
           <speaker>Ser. </speaker>
           <l>Look you there Sirrha, </l>
           <l>
-            <foreign xml:lang="lat">Barbara de pictis veni Bascauda Britannis: </foreign>
+            <foreign xml:lang="la">Barbara de pictis veni Bascauda Britannis: </foreign>
           </l>
           <l>That British Bascaud would sell well at Rome. </l>
         </sp>

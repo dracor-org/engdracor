@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000109" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000109" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -140,10 +140,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000109" passive="http://www.wikidata.org/entity/Q7762614"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000109"
+                   passive="http://www.wikidata.org/entity/Q7762614"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000109-e100030">
         <pb type="blank" xml:id="eng000109-001-a"/>
@@ -3558,7 +3560,8 @@
               <speaker>El. lo. </speaker>
               <p>How doe ye, reach a chaire there: I confesse my fault not pardonable, in pursuing thus vpon such tendernesse my wilful errour: but had I knowne it would haue rought thus with yee, thus strangely; not the world had wonne me to it, and let not (my best Lady) any word spoke to my end disturbe your quiet peace: for sooner shall you know a generall ruine, then my faith broken. Doe not doubt this Mistres: for by my life I cannot liue without you. Come come, you shall not greeue, rather be angry, and heape infliction on me: I wil suffer. O I could curse my selfe, praye smile vpon me. Vpon my faith it was but a tricke to trie you, knowing you lou'd me dearly, and yet strangely that you would neuer shew it, though my meanes was all humilitie. </p>
             </sp>
-            <sp who="#eng000109-lady #eng000109-martha #eng000109-abigal" xml:id="eng000109-e118050">
+            <sp who="#eng000109-lady #eng000109-martha #eng000109-abigal"
+                      xml:id="eng000109-e118050">
               <speaker>All. </speaker>
               <p>Ha, ha. </p>
             </sp>
@@ -3574,7 +3577,8 @@
               <speaker>Mar. </speaker>
               <p>Take heede sir, she may chance to swoune againe? </p>
             </sp>
-            <sp who="#eng000109-lady #eng000109-martha #eng000109-abigal" xml:id="eng000109-e118130">
+            <sp who="#eng000109-lady #eng000109-martha #eng000109-abigal"
+                      xml:id="eng000109-e118130">
               <speaker>All. </speaker>
               <p>Ha, ha, ha. </p>
             </sp>
@@ -3599,7 +3603,8 @@
                 <l>Ile haue a stronger noose to hold the woodcock. </l>
               </lg>
             </sp>
-            <sp who="#eng000109-lady #eng000109-martha #eng000109-abigal" xml:id="eng000109-e118270">
+            <sp who="#eng000109-lady #eng000109-martha #eng000109-abigal"
+                      xml:id="eng000109-e118270">
               <speaker>All. </speaker>
               <p>Ha, ha, ha. </p>
             </sp>
@@ -5320,6 +5325,5 @@
         <pb xml:id="eng000109-036-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

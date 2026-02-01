@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000329" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000329" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -189,10 +189,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000329" passive="http://www.wikidata.org/entity/Q16386830"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000329"
+                   passive="http://www.wikidata.org/entity/Q16386830"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000329-e100030">
         <pb n="eebo_img-27" xml:id="eng000329-062"/>
@@ -4368,7 +4370,7 @@
               <stage xml:id="eng000329-e126260">Enter Stremon like Orpheus. </stage>
               <l>There must be love, there is love? what art thou. </l>
             </sp>
-            <floatingText type="song" xml:lang="eng">
+            <floatingText type="song" xml:lang="en">
               <body>
                 <head>SONG. </head>
                 <sp who="#eng000329-stremon" xml:id="eng000329-e126300">
@@ -4411,7 +4413,7 @@
               <speaker>Eumon. </speaker>
               <l>This Song </l>
               <l>Was rarely formed to fit him. </l>
-              <floatingText type="song" xml:lang="eng">
+              <floatingText type="song" xml:lang="en">
                 <body>
                   <head>SONG. </head>
                   <sp who="#eng000329-orpheus" xml:id="eng000329-e126610">
@@ -6364,7 +6366,8 @@
               <l>How now, what's this? more drops to th'Ocean? </l>
               <l>Whose body's this? </l>
             </sp>
-            <sp who="#eng000329-captain-1 #eng000329-captain-2" xml:id="eng000329-e139040">
+            <sp who="#eng000329-captain-1 #eng000329-captain-2"
+                      xml:id="eng000329-e139040">
               <speaker>Capt. </speaker>
               <l>The noble Polidor, </l>
               <l>This speakes his death. </l>

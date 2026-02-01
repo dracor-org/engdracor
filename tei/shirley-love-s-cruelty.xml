@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000220" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000220" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -144,10 +144,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000220" passive="http://www.wikidata.org/entity/Q16931390"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000220"
+                   passive="http://www.wikidata.org/entity/Q16931390"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000220-e100030">
         <pb type="blank" xml:id="eng000220-001-a"/>
@@ -802,7 +804,8 @@
             <speaker>2. </speaker>
             <l>Lord? What does the Duke meane? </l>
           </sp>
-          <sp who="#eng000220-courtier #eng000220-courtier-3" xml:id="eng000220-e104080">
+          <sp who="#eng000220-courtier #eng000220-courtier-3"
+                   xml:id="eng000220-e104080">
             <speaker>1.3. </speaker>
             <l>No harme to the Gentlewoman. </l>
           </sp>
@@ -4812,6 +4815,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

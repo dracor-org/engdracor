@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000252" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000252" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -119,7 +119,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000252-e100030">
         <pb xml:id="eng000252-001-a"/>
@@ -1847,7 +1847,8 @@
             <speaker>Ped. </speaker>
             <p>Will you haue one word for all? </p>
           </sp>
-          <sp who="#eng000252-artificer #eng000252-traveller #eng000252-mariner" xml:id="eng000252-e112390">
+          <sp who="#eng000252-artificer #eng000252-traveller #eng000252-mariner"
+                   xml:id="eng000252-e112390">
             <speaker>All. </speaker>
             <lg>
               <l>What is that? </l>
@@ -3134,6 +3135,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

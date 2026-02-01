@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000294" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000294" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -215,10 +215,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000294" passive="http://www.wikidata.org/entity/Q4655891"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000294"
+                   passive="http://www.wikidata.org/entity/Q4655891"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000294-e100030">
         <pb type="blank" xml:id="eng000294-001-a"/>
@@ -968,7 +970,8 @@
               <speaker>Sis. </speaker>
               <l>Rare gull! we are all firme and secret, </l>
             </sp>
-            <sp who="#eng000294-gismund #eng000294-gallop #eng000294-ward" xml:id="eng000294-e104920">
+            <sp who="#eng000294-gismund #eng000294-gallop #eng000294-ward"
+                      xml:id="eng000294-e104920">
               <speaker>Omnes. </speaker>
               <l>All. </l>
             </sp>
@@ -1201,7 +1204,8 @@
               <l>We hence forth for the state of France imploy </l>
               <l>Our liues and seruice. </l>
             </sp>
-            <sp who="#eng000294-lieutenant #eng000294-crew_dansiker" xml:id="eng000294-e106360">
+            <sp who="#eng000294-lieutenant #eng000294-crew_dansiker"
+                      xml:id="eng000294-e106360">
               <speaker>Omn. </speaker>
               <l>Long liue King Henry of France. </l>
             </sp>
@@ -1228,7 +1232,8 @@
               <l>Weel or accomplish it, or with our liues </l>
               <l>Seale the attempt. </l>
             </sp>
-            <sp who="#eng000294-lieutenant #eng000294-crew_dansiker" xml:id="eng000294-e106570">
+            <sp who="#eng000294-lieutenant #eng000294-crew_dansiker"
+                      xml:id="eng000294-e106570">
               <speaker>Omn. </speaker>
               <l>Braue Captaine, through death wee'le follow thee, </l>
             </sp>
@@ -4717,7 +4722,8 @@
               <l>Hast guiven vp, Dansiker into the hands </l>
               <l>Of these damn'd miscreants. </l>
             </sp>
-            <sp who="#eng000294-governor #eng000294-jew #eng000294-sare #eng000294-mufti" xml:id="eng000294-e127770">
+            <sp who="#eng000294-governor #eng000294-jew #eng000294-sare #eng000294-mufti"
+                      xml:id="eng000294-e127770">
               <speaker>Omn, </speaker>
               <l>Dansiker? </l>
             </sp>
@@ -4921,7 +4927,8 @@
               <l>Hold murderous villaine, all tortures man ere knew, </l>
               <l>Shall be inflicted on thee. </l>
             </sp>
-            <sp who="#eng000294-governor #eng000294-mufti #eng000294-turk" xml:id="eng000294-e129050">
+            <sp who="#eng000294-governor #eng000294-mufti #eng000294-turk"
+                      xml:id="eng000294-e129050">
               <speaker>Omn. </speaker>
               <l>Inhumane dog. </l>
             </sp>
@@ -4950,7 +4957,8 @@
               <l>Beating a path out to Ierusalem, </l>
               <l>Ouer the bleeding breasts of you and yours. </l>
             </sp>
-            <sp who="#eng000294-governor #eng000294-mufti #eng000294-turk" xml:id="eng000294-e129300">
+            <sp who="#eng000294-governor #eng000294-mufti #eng000294-turk"
+                      xml:id="eng000294-e129300">
               <speaker>Omn. </speaker>
               <l>Vnheard of monster. </l>
             </sp>
@@ -4965,7 +4973,8 @@
               <l>Let dying Ward tell you that heauen is iust, </l>
               <l>And that dispaire attends on bloud and lust: </l>
             </sp>
-            <sp who="#eng000294-governor #eng000294-mufti #eng000294-turk" xml:id="eng000294-e129400">
+            <sp who="#eng000294-governor #eng000294-mufti #eng000294-turk"
+                      xml:id="eng000294-e129400">
               <speaker>Omn. </speaker>
               <l>Downe with the villaine. </l>
             </sp>
@@ -4999,6 +5008,5 @@
         <pb xml:id="eng000294-038-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

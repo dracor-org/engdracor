@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000007" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000007" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -134,7 +134,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000007" passive="http://www.wikidata.org/entity/Q16385674"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000007"
+                   passive="http://www.wikidata.org/entity/Q16385674"/>
     </listRelation>
   </standOff>
   <text>
@@ -4253,7 +4255,8 @@
             <l>Thus holy Priest, I wish to thee and these, </l>
             <l>All the best goods and comforts that may please, </l>
           </sp>
-          <sp who="#eng000007-perigot #eng000007-amoret #eng000007-amarillis #eng000007-old-shepherd #eng000007-alexis #eng000007-cloe #eng000007-clorin" xml:id="eng000007-e133190">
+          <sp who="#eng000007-perigot #eng000007-amoret #eng000007-amarillis #eng000007-old-shepherd #eng000007-alexis #eng000007-cloe #eng000007-clorin"
+                   xml:id="eng000007-e133190">
             <speaker>All. </speaker>
             <l>And all those blessings Heauen did euer giue, </l>
             <l>Wee praye vpon this Bower may euer liue. </l>
@@ -4370,6 +4373,5 @@
         <pb xml:id="eng000007-043-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

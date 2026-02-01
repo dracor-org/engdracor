@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000096" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000096" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -143,7 +143,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000096-e100030">
         <pb type="blank" xml:id="eng000096-001-a"/>
@@ -258,7 +258,10 @@
         </lg>
         <signed>IOHN MINGAY. </signed>
       </div>
-      <div cert="high" type="encomium" xml:id="eng000096-e100880" xml:lang="lat">
+      <div cert="high"
+              type="encomium"
+              xml:id="eng000096-e100880"
+              xml:lang="la">
         <pb xml:id="eng000096-007-a"/>
         <head>In Librum. </head>
         <lg>
@@ -3190,7 +3193,8 @@
             <l>Confine them to perpetuall prison in the scabbard, </l>
             <l>That they may nere come forth to manage civill broiles. </l>
           </sp>
-          <sp who="#eng000096-iris #eng000096-eglantine #eng000096-panace #eng000096-martagon #eng000096-rhodon #eng000096-acanthus" xml:id="eng000096-e122930">
+          <sp who="#eng000096-iris #eng000096-eglantine #eng000096-panace #eng000096-martagon #eng000096-rhodon #eng000096-acanthus"
+                   xml:id="eng000096-e122930">
             <speaker>All. </speaker>
             <l>We must obey, and will, Oh awfull goddesse. </l>
           </sp>

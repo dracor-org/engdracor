@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000596" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000596" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000596" passive="http://www.wikidata.org/entity/Q108003923"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000596"
+                   passive="http://www.wikidata.org/entity/Q108003923"/>
     </listRelation>
   </standOff>
   <text>
@@ -1473,7 +1475,7 @@
         </sp>
         <sp xml:id="eng000596-e12900">
           <speaker>Nonsuch. </speaker>
-          <p>I confess, Lady, that there may be (formally taken) a juggling of Interest and Pleasure together in some, whereby they may seem a <foreign xml:lang="lat">deceptio visus </foreign>to the Publick; a very ordinary Stateintrigue, I take it. </p>
+          <p>I confess, Lady, that there may be (formally taken) a juggling of Interest and Pleasure together in some, whereby they may seem a <foreign xml:lang="la">deceptio visus </foreign>to the Publick; a very ordinary Stateintrigue, I take it. </p>
         </sp>
         <sp xml:id="eng000596-e12940">
           <speaker>Pass. </speaker>
@@ -5468,6 +5470,5 @@
         <pb xml:id="eng000596-039-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

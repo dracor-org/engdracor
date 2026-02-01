@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000691" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000691" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000691" passive="http://www.wikidata.org/entity/Q60750353"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000691"
+                   passive="http://www.wikidata.org/entity/Q60750353"/>
     </listRelation>
   </standOff>
   <text>
@@ -196,28 +198,28 @@
             </row>
             <row>
               <cell>Ancharius a Senatour. </cell>
-              <cell/>
+              <cell></cell>
             </row>
             <row>
               <cell>Priest. </cell>
-              <cell/>
+              <cell></cell>
             </row>
             <row>
               <cell>Apothecary. </cell>
-              <cell/>
+              <cell></cell>
             </row>
             <row>
               <cell>Q. Pompeius <hi>'s Son.</hi>
               </cell>
-              <cell/>
+              <cell></cell>
             </row>
             <row>
               <cell>Guards, Lictors, </cell>
-              <cell/>
+              <cell></cell>
             </row>
             <row>
               <cell>Ruffians, &amp;c. </cell>
-              <cell/>
+              <cell></cell>
             </row>
           </table>
         </p>
@@ -4216,7 +4218,7 @@
               <l>Nay, I must wake you. Lady! Lady! Lady! </l>
               <l>Alas! alas! help, help, my Lady's dead. </l>
               <l>Ah! welladay that ever I was born! </l>
-              <l>Some <foreign xml:lang="lat">Aqua vitae</foreign>. Hoa! my Lord .... my Lady .... </l>
+              <l>Some <foreign xml:lang="la">Aqua vitae</foreign>. Hoa! my Lord .... my Lady .... </l>
             </sp>
             <stage xml:id="eng000691-e41000">Enter Metellus. </stage>
             <sp xml:id="eng000691-e41020">

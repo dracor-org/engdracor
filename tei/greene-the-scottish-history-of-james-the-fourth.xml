@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000037" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000037" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -189,7 +189,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000037-e100030">
         <pb type="blank" xml:id="eng000037-001-a"/>
@@ -392,7 +392,8 @@
             <l>And Trumpets sound, that Heralds may proclaime, </l>
             <l>Faire Dorithea peerlesse Queene of Scots. </l>
           </sp>
-          <sp who="#eng000037-slipper #eng000037-oberon #eng000037-bohan" xml:id="eng000037-e101200">
+          <sp who="#eng000037-slipper #eng000037-oberon #eng000037-bohan"
+                   xml:id="eng000037-e101200">
             <speaker>All. </speaker>
             <l>Long liue and prosper our faire Q. of Scots. </l>
           </sp>
@@ -404,7 +405,8 @@
             <l>Thanks to my Lord and husband for this honor, </l>
             <l>And thanks to all that loue their King and me. </l>
           </sp>
-          <sp who="#eng000037-slipper #eng000037-oberon #eng000037-bohan" xml:id="eng000037-e101280">
+          <sp who="#eng000037-slipper #eng000037-oberon #eng000037-bohan"
+                   xml:id="eng000037-e101280">
             <speaker>All. </speaker>
             <l>Long liue faire Dorithea our true Queene. </l>
           </sp>
@@ -4726,6 +4728,5 @@
         </div>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

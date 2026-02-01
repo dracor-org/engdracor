@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000072" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000072" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -155,7 +155,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000072" passive="http://www.wikidata.org/entity/Q5417547"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000072"
+                   passive="http://www.wikidata.org/entity/Q5417547"/>
     </listRelation>
   </standOff>
   <text>
@@ -2844,7 +2846,8 @@
             <speaker>COB. </speaker>
             <p>By gods mee, I marle, what pleasure, or felicitie they haue in taking this roguish tabacco! it's good for nothing, but to choke a man, and fill him full of smoke, and embers: there were foure dyed out of one <pb n="41" xml:id="eng000072-029-b"/>house, last weeke, with taking of it, and two more the bell went for, yester-night; one of them (they say) will ne're scape it: he voided a bushell of soot yester-day, vpward, and downeward. By the stocks, an' there were no wiser men then I, I'ld haue it present whipping, man, or woman, that should but deale with a tabacco-pipe; why, it will stifle them all in the end, as many as vse it; it's little better then rats bane, or rosaker. </p>
           </sp>
-          <sp who="#eng000072-well-bred #eng000072-ed-knowell #eng000072-brainworm #eng000072-bobadill #eng000072-matthew #eng000072-stephen #eng000072-thomas #eng000072-cob" xml:id="eng000072-e116120">
+          <sp who="#eng000072-well-bred #eng000072-ed-knowell #eng000072-brainworm #eng000072-bobadill #eng000072-matthew #eng000072-stephen #eng000072-thomas #eng000072-cob"
+                   xml:id="eng000072-e116120">
             <speaker>ALL. </speaker>
             <p>Oh, <stage place="margin" xml:id="eng000072-e116140">Bobadil beates him with a cudgell. </stage>good Captayne, hold, hold. </p>
           </sp>

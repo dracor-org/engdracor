@@ -220,6 +220,24 @@
     </standOff>
   </xsl:template>
 
+  <!-- fix xml:lang -->
+  <xsl:template match="@xml:lang[. eq 'eng']">
+    <xsl:attribute name="xml:lang" select="'en'" />
+  </xsl:template>
+  <xsl:template match="@xml:lang[. eq 'ger']">
+    <xsl:attribute name="xml:lang" select="'de'" />
+  </xsl:template>
+  <xsl:template match="@xml:lang[. eq 'gre']">
+    <!-- the passages occurring are ancient Greek  -->
+    <xsl:attribute name="xml:lang" select="'grc'" />
+  </xsl:template>
+  <xsl:template match="@xml:lang[. eq 'fro']">
+    <xsl:attribute name="xml:lang" select="'fr'" />
+  </xsl:template>
+  <xsl:template match="@xml:lang[. eq 'lat']">
+    <xsl:attribute name="xml:lang" select="'la'" />
+  </xsl:template>
+
   <!-- strip facsimile information -->
   <xsl:template match="tei:facsimile|@facs" />
 
@@ -271,6 +289,12 @@
   <xsl:template match="tei:div[@type='machine-generated_castlist']" />
   <!-- strip textual notes -->
   <xsl:template match="tei:div[@type='textual_notes']" />
+  <!-- strip empty back elements -->
+  <xsl:template match="tei:back[empty(* except (
+    tei:div[@type='machine-generated_castlist'],
+    tei:div[@type='textual_notes']
+  ))]"/>
+
   <!-- strip forme work (fw) -->
   <xsl:template match="tei:fw" />
 

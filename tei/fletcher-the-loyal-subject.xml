@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000339" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000339" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -186,10 +186,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000339" passive="http://www.wikidata.org/entity/Q7749125"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000339"
+                   passive="http://www.wikidata.org/entity/Q7749125"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000339-e100030">
         <pb n="eebo_img-148" type="blank" xml:id="eng000339-304"/>
@@ -4223,7 +4225,7 @@
           <div n="5" type="scene" xml:id="eng000339-e126950">
             <head>Scaene 5. </head>
             <stage xml:id="eng000339-e126960">Enter Ancient, crying Broomes, and after him severally, foure Souldiers, crying other things. Boroskie and Gent. over the Stage observing them. </stage>
-            <floatingText n="1" type="song" xml:lang="eng">
+            <floatingText n="1" type="song" xml:lang="en">
               <body>
                 <head>1. Song. </head>
                 <sp who="#eng000339-ancient" xml:id="eng000339-e126990">
@@ -4242,7 +4244,7 @@
                 </sp>
               </body>
             </floatingText>
-            <floatingText n="2" type="song" xml:lang="eng">
+            <floatingText n="2" type="song" xml:lang="en">
               <body>
                 <head>2. Song. </head>
                 <sp who="#eng000339-soldier-1" xml:id="eng000339-e127130">
@@ -4264,7 +4266,7 @@
                 </sp>
               </body>
             </floatingText>
-            <floatingText n="3" type="song" xml:lang="eng">
+            <floatingText n="3" type="song" xml:lang="en">
               <body>
                 <head>3. Song. </head>
                 <sp who="#eng000339-soldier-3" xml:id="eng000339-e127280">
@@ -4282,7 +4284,7 @@
                 </sp>
               </body>
             </floatingText>
-            <floatingText n="4" type="song" xml:lang="eng">
+            <floatingText n="4" type="song" xml:lang="en">
               <body>
                 <head>4. Song. </head>
                 <sp who="#eng000339-soldier-4" xml:id="eng000339-e127410">
@@ -4336,7 +4338,7 @@
               <l>Fill your honour full of most noble itches, </l>
               <l>And make Jack dance in your Lordships breeches. </l>
             </sp>
-            <floatingText type="song" xml:lang="eng">
+            <floatingText type="song" xml:lang="en">
               <body>
                 <sp who="#eng000339-soldier-1" xml:id="eng000339-e127730">
                   <speaker>1 Sol. </speaker>
@@ -6902,7 +6904,8 @@
               <l>A little weake, but anger shall supply that; </l>
               <l>You will all stand bravely to it? </l>
             </sp>
-            <sp who="#eng000339-gentlemen #eng000339-soldiers" xml:id="eng000339-e144740">
+            <sp who="#eng000339-gentlemen #eng000339-soldiers"
+                      xml:id="eng000339-e144740">
               <speaker>All. </speaker>
               <l>Whilst we have lives sir. </l>
             </sp>
@@ -7029,7 +7032,8 @@
               <l>Good Generall forgive us, or use your sword, </l>
               <l>Your words are double death. </l>
             </sp>
-            <sp who="#eng000339-gentlemen #eng000339-soldiers" xml:id="eng000339-e145560">
+            <sp who="#eng000339-gentlemen #eng000339-soldiers"
+                      xml:id="eng000339-e145560">
               <speaker>All. </speaker>
               <l>Good noble Generall. </l>
             </sp>

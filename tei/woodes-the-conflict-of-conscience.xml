@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000415" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000415" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -144,7 +144,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000415-e100030">
         <pb type="blank" xml:id="eng000415-001-a"/>
@@ -156,19 +156,19 @@
           <table>
             <row role="data">
               <cell cols="1" role="data" rows="1">Prologue. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
               <cell cols="1" role="data" rows="1">Sathan. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
               <cell cols="1" role="data" rows="1">Auarice. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Mathetes. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
               <cell cols="1" role="data" rows="1">Tyrranye. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
               <cell cols="1" role="data" rows="1">Suggestion. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Conscience. </cell>
@@ -180,27 +180,27 @@
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Paphinitius. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
               <cell cols="1" role="data" rows="1">Horror. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
               <cell cols="1" role="data" rows="1">Nuntius. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
             </row>
             <row role="data">
-              <cell cols="1" role="data" rows="1"/>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"></cell>
               <cell cols="1" role="data" rows="1">Eusebius. </cell>
-              <cell cols="1" role="data" rows="1"/>
-              <cell cols="1" role="data" rows="1"/>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"></cell>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Hypocrisie. </cell>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
               <cell cols="1" role="data" rows="1">Cardinal. </cell>
-              <cell cols="1" role="data" rows="1"/>
-              <cell cols="1" role="data" rows="1"/>
-              <cell cols="1" role="data" rows="1"/>
+              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"></cell>
+              <cell cols="1" role="data" rows="1"></cell>
             </row>
             <row role="data">
               <cell cols="1" role="data" rows="1">Theologus. </cell>
@@ -4445,7 +4445,8 @@
                 <l>But see he haue good company, let him not be alone: </l>
               </lg>
             </sp>
-            <sp who="#eng000415-gisbertus #eng000415-paphinitius" xml:id="eng000415-e129980">
+            <sp who="#eng000415-gisbertus #eng000415-paphinitius"
+                      xml:id="eng000415-e129980">
               <speaker>Ambo. </speaker>
               <lg>
                 <l>We shall so doo, God vs assist, with his most holy grace. </l>
@@ -4464,7 +4465,8 @@
                 <l>Oh that I had a sworde a while, I should soone eased bee. </l>
               </lg>
             </sp>
-            <sp who="#eng000415-gisbertus #eng000415-paphinitius" xml:id="eng000415-e130080">
+            <sp who="#eng000415-gisbertus #eng000415-paphinitius"
+                      xml:id="eng000415-e130080">
               <speaker>Ambo. </speaker>
               <lg>
                 <l>Alas deare father, what do you? Euseb. His wil we may now sée </l>
@@ -4544,6 +4546,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

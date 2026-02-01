@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000462" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000462" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000462" passive="http://www.wikidata.org/entity/Q3222939"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000462"
+                   passive="http://www.wikidata.org/entity/Q3222939"/>
     </listRelation>
   </standOff>
   <text>
@@ -2368,7 +2370,7 @@
             </sp>
             <sp xml:id="eng000462-e22620">
               <speaker>Mell. </speaker>
-              <p>This very next ensuing hour of Eight a Clock, is the last Minute of her Reign, unless the Devil assist her in <foreign xml:lang="lat">propria persona</foreign>. </p>
+              <p>This very next ensuing hour of Eight a Clock, is the last Minute of her Reign, unless the Devil assist her in <foreign xml:lang="la">propria persona</foreign>. </p>
             </sp>
             <sp xml:id="eng000462-e22660">
               <speaker>Cyn. </speaker>

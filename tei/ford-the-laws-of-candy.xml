@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000340" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000340" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -159,10 +159,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000340" passive="http://www.wikidata.org/entity/Q7746448"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000340"
+                   passive="http://www.wikidata.org/entity/Q7746448"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000340-e100030">
         <pb n="eebo_img-162" xml:id="eng000340-332"/>
@@ -930,7 +932,8 @@
               <l>Great Cassilanes, Patron of Candy's Peace, </l>
               <l>Perpetuall Triumpher. </l>
             </sp>
-            <sp who="#eng000340-porphico #eng000340-possenne" xml:id="eng000340-e105620">
+            <sp who="#eng000340-porphico #eng000340-possenne"
+                      xml:id="eng000340-e105620">
               <speaker>Por. Pos. </speaker>
               <l>It is granted. What more? </l>
             </sp>
@@ -989,7 +992,8 @@
               <speaker>Cas. </speaker>
               <l>I have a sute too, Lords. </l>
             </sp>
-            <sp who="#eng000340-porphico #eng000340-possenne" xml:id="eng000340-e105990">
+            <sp who="#eng000340-porphico #eng000340-possenne"
+                      xml:id="eng000340-e105990">
               <speaker>Porp. Pos. </speaker>
               <l>Propose it, 'tis yours, if fit and just. </l>
             </sp>
@@ -4886,6 +4890,5 @@
       </div>
       <trailer>FINIS. </trailer>
     </body>
-    <back/>
   </text>
 </TEI>

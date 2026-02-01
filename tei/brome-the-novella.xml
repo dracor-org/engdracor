@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000419" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000419" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -153,10 +153,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000419" passive="http://www.wikidata.org/entity/Q7754451"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000419"
+                   passive="http://www.wikidata.org/entity/Q7754451"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000419-e100030">
         <pb type="blank" xml:id="eng000419-058-a"/>
@@ -4308,7 +4310,8 @@
               <speaker>Gua. </speaker>
               <p>Devills are in this plot. </p>
             </sp>
-            <sp who="#eng000419-checquino #eng000419-prospero" xml:id="eng000419-e126390">
+            <sp who="#eng000419-checquino #eng000419-prospero"
+                      xml:id="eng000419-e126390">
               <speaker>Chec. Pros. </speaker>
               <p>Thinke you of Devills? </p>
             </sp>
@@ -6108,7 +6111,8 @@
               <speaker>Pau. </speaker>
               <p>May I say boldly you are man and wife? </p>
             </sp>
-            <sp who="#eng000419-fabritio #eng000419-victoria" xml:id="eng000419-e137270">
+            <sp who="#eng000419-fabritio #eng000419-victoria"
+                      xml:id="eng000419-e137270">
               <speaker>Fab. Vic. </speaker>
               <lg>
                 <l>We are most faithfully till death; </l>
@@ -6139,7 +6143,8 @@
               <speaker>Pant. </speaker>
               <p>Good! vertuous Lady! Let mee joyne your Friendships. </p>
             </sp>
-            <sp who="#eng000419-pedro #eng000419-swatzenburgh" xml:id="eng000419-e137440">
+            <sp who="#eng000419-pedro #eng000419-swatzenburgh"
+                      xml:id="eng000419-e137440">
               <speaker>Ped. Swa. </speaker>
               <p>You have done it sir. </p>
             </sp>
@@ -6238,7 +6243,8 @@
                 <l>With your so vertuous Lady, and her husband. </l>
               </lg>
             </sp>
-            <sp who="#eng000419-horatio #eng000419-piso #eng000419-francisco" xml:id="eng000419-e138030">
+            <sp who="#eng000419-horatio #eng000419-piso #eng000419-francisco"
+                      xml:id="eng000419-e138030">
               <speaker>Hor. Pi. &amp;c. </speaker>
               <p>Fabritio! </p>
             </sp>
@@ -6389,7 +6395,8 @@
                 <l>To speake the worst they found in the Novella. </l>
               </lg>
             </sp>
-            <sp who="#eng000419-fabritio #eng000419-francisco #eng000419-flava #eng000419-astutta #eng000419-piso #eng000419-horatio #eng000419-guadagni #eng000419-pantaloni #eng000419-nicolo #eng000419-jacomo #eng000419-paulo #eng000419-swatzenburgh #eng000419-pedro #eng000419-checquino #eng000419-prospero #eng000419-zaffi" xml:id="eng000419-e138980">
+            <sp who="#eng000419-fabritio #eng000419-francisco #eng000419-flava #eng000419-astutta #eng000419-piso #eng000419-horatio #eng000419-guadagni #eng000419-pantaloni #eng000419-nicolo #eng000419-jacomo #eng000419-paulo #eng000419-swatzenburgh #eng000419-pedro #eng000419-checquino #eng000419-prospero #eng000419-zaffi"
+                      xml:id="eng000419-e138980">
               <speaker>Omnes. </speaker>
               <p>Wee all conclude y'are noble. </p>
             </sp>
@@ -6417,6 +6424,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000031" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000031" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -137,10 +137,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000031" passive="http://www.wikidata.org/entity/Q7526980"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000031"
+                   passive="http://www.wikidata.org/entity/Q7526980"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000031-e100030">
         <pb type="blank" xml:id="eng000031-001-a"/>
@@ -716,7 +718,8 @@
             <speaker>Will </speaker>
             <p>The other two Ladies commend them no lesse kindly to you two knights too; &amp; desire your worships wood meete them at Barnet ith morning with the Captaine. </p>
           </sp>
-          <sp who="#eng000031-foulweather #eng000031-goosecap #eng000031-rudesby" xml:id="eng000031-e102980">
+          <sp who="#eng000031-foulweather #eng000031-goosecap #eng000031-rudesby"
+                   xml:id="eng000031-e102980">
             <speaker>Foul. Goos. Rud. </speaker>
             <p>O. good Sir. </p>
           </sp>
@@ -1892,7 +1895,8 @@
             <speaker>Will </speaker>
             <p>Yes indeed Sir, but we left our fellowes to wait for once, and cood not chuse in pure loue to your worships, but we must needs come and meet you, before you mett our Ladies, to tell you a secret. </p>
           </sp>
-          <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather" xml:id="eng000031-e109200">
+          <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather"
+                   xml:id="eng000031-e109200">
             <speaker>Omnes </speaker>
             <p>A secrett, what secret I pray thee? </p>
           </sp>
@@ -1900,7 +1904,8 @@
             <speaker>Ia. </speaker>
             <p>If euer your worships say any thing, we are vndone for euer. </p>
           </sp>
-          <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather" xml:id="eng000031-e109240">
+          <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather"
+                   xml:id="eng000031-e109240">
             <speaker>Omnes </speaker>
             <p>Not for a world beleue it. </p>
           </sp>
@@ -1912,7 +1917,8 @@
             <speaker>Ia. </speaker>
             <p>And some said you, Sir Gyles, another you Sir and the third you Captaine, </p>
           </sp>
-          <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather" xml:id="eng000031-e109300">
+          <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather"
+                   xml:id="eng000031-e109300">
             <speaker>Om. </speaker>
             <p>This was excellent. </p>
           </sp>
@@ -2547,7 +2553,8 @@
           <speaker>Mom. </speaker>
           <p>I haue brought her a little Greeke, to helpe me out withal, and shees so coy of her learning for sooth she makes it strange: Lords, and Ladies, I inuite you al to supper to night, and you shal not denie me. </p>
         </sp>
-        <sp who="#eng000031-eugenia #eng000031-hippolyta #eng000031-penelope #eng000031-tales #eng000031-kingcob" xml:id="eng000031-e113020">
+        <sp who="#eng000031-eugenia #eng000031-hippolyta #eng000031-penelope #eng000031-tales #eng000031-kingcob"
+                xml:id="eng000031-e113020">
           <speaker>Ad. </speaker>
           <p>We will attend your Lordshippe. </p>
         </sp>
@@ -2863,7 +2870,8 @@
           <speaker>Fur. </speaker>
           <p>Nay my gallants I will tell you more. </p>
         </sp>
-        <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather #eng000031-bullaker" xml:id="eng000031-e114730">
+        <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather #eng000031-bullaker"
+                xml:id="eng000031-e114730">
           <speaker>All. </speaker>
           <p>Forth good my Lord. </p>
         </sp>
@@ -2882,7 +2890,8 @@
             <l>On my behauiours talking with the king: </l>
           </lg>
         </sp>
-        <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather #eng000031-bullaker" xml:id="eng000031-e114860">
+        <sp who="#eng000031-rudesby #eng000031-goosecap #eng000031-foulweather #eng000031-bullaker"
+                xml:id="eng000031-e114860">
           <speaker>All </speaker>
           <p>True my good Lord. </p>
         </sp>
@@ -4737,6 +4746,5 @@
       </div>
       <trailer>FINIS. </trailer>
     </body>
-    <back/>
   </text>
 </TEI>

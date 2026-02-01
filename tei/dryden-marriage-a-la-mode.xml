@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000476" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000476" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000476" passive="http://www.wikidata.org/entity/Q906510"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000476"
+                   passive="http://www.wikidata.org/entity/Q906510"/>
     </listRelation>
   </standOff>
   <text>
@@ -1268,7 +1270,7 @@
             </sp>
             <sp xml:id="eng000476-e11540">
               <speaker>Pala. </speaker>
-              <p>There 'tis. <stage xml:id="eng000476-e11570">Showing Doralice. </stage>I may tell you, as my friend, <foreign xml:lang="lat">sub sigillo</foreign>, &amp;c. this is that very numerical Lady, with whom I am in love. </p>
+              <p>There 'tis. <stage xml:id="eng000476-e11570">Showing Doralice. </stage>I may tell you, as my friend, <foreign xml:lang="la">sub sigillo</foreign>, &amp;c. this is that very numerical Lady, with whom I am in love. </p>
             </sp>
             <sp xml:id="eng000476-e11600">
               <speaker>Rho. </speaker>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000229" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000229" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -161,7 +161,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000229" passive="http://www.wikidata.org/entity/Q7775343"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000229"
+                   passive="http://www.wikidata.org/entity/Q7775343"/>
     </listRelation>
   </standOff>
   <text>
@@ -172,7 +174,7 @@
         <p>THE WITTIE FAIRE ONE. A Comedie. </p>
         <p>As it was presented at the Private House in DRVRY Lane. By her Maiesties Servants. </p>
         <p>By IAMES SHIRLEY. </p>
-        <quote xml:lang="lat">
+        <quote xml:lang="la">
           <bibl>HOR. SERM. lib. 1. </bibl>
           <l>Men' moveat cimex Pantiluis? aut crucier, quod </l>
           <l>Vellicet absentem Demetriùs? </l>
@@ -4983,7 +4985,8 @@
               <speaker>Wor. </speaker>
               <p>My blessings multiply. </p>
             </sp>
-            <sp who="#eng000229-friend-1 #eng000229-friend-2" xml:id="eng000229-e137440">
+            <sp who="#eng000229-friend-1 #eng000229-friend-2"
+                      xml:id="eng000229-e137440">
               <speaker>Gent. </speaker>
               <p>We congratulate this euent. </p>
             </sp>

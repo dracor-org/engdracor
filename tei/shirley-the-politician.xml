@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000404" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000404" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -157,10 +157,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000404" passive="http://www.wikidata.org/entity/Q7757674"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000404"
+                   passive="http://www.wikidata.org/entity/Q7757674"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000404-e100030">
         <pb xml:id="eng000404-001-a"/>
@@ -5164,7 +5166,8 @@
             <l>And yet he's in my nostrill, he has perfum'd </l>
             <l>His box already. </l>
           </sp>
-          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4" xml:id="eng000404-e132510">
+          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4"
+                   xml:id="eng000404-e132510">
             <speaker>Om. Reb. </speaker>
             <l>'Tis he, 'tis he, the Prince alive! hey. </l>
           </sp>
@@ -5174,7 +5177,8 @@
             <l>What would he give but for a knife to cut </l>
             <l>His own throat now? </l>
           </sp>
-          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4" xml:id="eng000404-e132570">
+          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4"
+                   xml:id="eng000404-e132570">
             <speaker>Om. Rebel. </speaker>
             <l>Our noble Prince alive? </l>
           </sp>
@@ -5217,7 +5221,8 @@
             <speaker>1. Reb. </speaker>
             <l>'Tis a man, ha Gotharus, the thing we whet our teeth for. </l>
           </sp>
-          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4" xml:id="eng000404-e132810">
+          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4"
+                   xml:id="eng000404-e132810">
             <speaker>Om. Reb. </speaker>
             <l>Out with the traytor, and with the murderer, hey, drag him. </l>
           </sp>
@@ -5237,7 +5242,8 @@
             <speaker>Ol. </speaker>
             <l>And they'l devour him. </l>
           </sp>
-          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4" xml:id="eng000404-e132930">
+          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4"
+                   xml:id="eng000404-e132930">
             <speaker>Om. </speaker>
             <l>We beseech your highness. </l>
           </sp>
@@ -5444,7 +5450,8 @@
             <speaker>R. </speaker>
             <l>We'l shew our selves good subjects. </l>
           </sp>
-          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4" xml:id="eng000404-e134160">
+          <sp who="#eng000404-rebel #eng000404-rebel1 #eng000404-rebel2 #eng000404-rebel3 #eng000404-rebel4"
+                   xml:id="eng000404-e134160">
             <speaker>Om. </speaker>
             <l>Heaven bless the King and Prince, and the good Duke. <stage xml:id="eng000404-e134180">Exeunt. </stage>
             </l>
@@ -5937,6 +5944,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

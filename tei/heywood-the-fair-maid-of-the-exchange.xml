@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000047" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000047" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -164,7 +164,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000047" passive="http://www.wikidata.org/entity/Q7733097"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000047"
+                   passive="http://www.wikidata.org/entity/Q7733097"/>
     </listRelation>
   </standOff>
   <text>
@@ -4247,7 +4249,8 @@
           <stage xml:id="eng000047-e126680">Giue them the letters and they stampe and storme. </stage>
           <l>Know you that letter? sir, what say you to this? </l>
         </sp>
-        <sp who="#eng000047-anthony #eng000047-ferdinand" xml:id="eng000047-e126700">
+        <sp who="#eng000047-anthony #eng000047-ferdinand"
+                xml:id="eng000047-e126700">
           <speaker>Both. </speaker>
           <l>How came they to your hands? </l>
         </sp>
@@ -5515,6 +5518,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

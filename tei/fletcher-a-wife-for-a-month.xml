@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000357" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000357" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -192,10 +192,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000357" passive="http://www.wikidata.org/entity/Q17026288"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000357"
+                   passive="http://www.wikidata.org/entity/Q17026288"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000357-e100030">
         <pb n="eebo_img-366" xml:id="eng000357-740"/>
@@ -966,7 +968,7 @@
               <l>Reade them out Sorano. </l>
             </sp>
             <sp xml:id="eng000357-e105030">
-              <q type="poem" xml:lang="eng">
+              <q type="poem" xml:lang="en">
                 <l>To the blest Evanthe, </l>
                 <l>LEt those complaine, that feeles Loves cruelty, </l>
                 <l>And in sad Legents write their woes, </l>
@@ -2023,7 +2025,7 @@
             </sp>
             <stage xml:id="eng000357-e112290">A Curtaine drawne. </stage>
             <stage xml:id="eng000357-e112300">The King, Queene, Valerio, Evanthe, Ladies, Attendants, Camillo, Cleanthes, Sorano, Menallo. </stage>
-            <q type="masque" xml:lang="eng">
+            <q type="masque" xml:lang="en">
               <label>A Maske. </label>
               <stage xml:id="eng000357-e112330">Cupid descends, the Graces sitting by him, Cupid being bound the Graces unbinde him, he speakes. </stage>
               <sp who="#eng000357-cupid" xml:id="eng000357-e112340">
@@ -4997,7 +4999,8 @@
               <l>I cannot pick his Purse, no, Ile no dying, </l>
               <l>Though I steale Linnen, Ile not steale my shrowde yet. </l>
             </sp>
-            <sp who="#eng000357-lawyer #eng000357-cutpurse #eng000357-captain" xml:id="eng000357-e133100">
+            <sp who="#eng000357-lawyer #eng000357-cutpurse #eng000357-captain"
+                      xml:id="eng000357-e133100">
               <speaker>All. </speaker>
               <l>Send ye a happy match. <stage xml:id="eng000357-e133120">Exeunt. </stage>
               </l>
@@ -5223,7 +5226,8 @@
               <speaker>Men. </speaker>
               <p>It rings your knell; Alphonso, King Alphonso. </p>
             </sp>
-            <sp who="#eng000357-menallo #eng000357-camillo #eng000357-evanthe #eng000357-valerio" xml:id="eng000357-e134670">
+            <sp who="#eng000357-menallo #eng000357-camillo #eng000357-evanthe #eng000357-valerio"
+                      xml:id="eng000357-e134670">
               <speaker>All. </speaker>
               <l>Alphonso, King Alphonso. </l>
             </sp>
@@ -5359,7 +5363,8 @@
               <speaker>Val. </speaker>
               <l>Save Alphonso. </l>
             </sp>
-            <sp who="#eng000357-alphonso #eng000357-rugio #eng000357-marco #eng000357-castruchio #eng000357-queen #eng000357-menallo #eng000357-camillo #eng000357-evanthe #eng000357-valerio" xml:id="eng000357-e135620">
+            <sp who="#eng000357-alphonso #eng000357-rugio #eng000357-marco #eng000357-castruchio #eng000357-queen #eng000357-menallo #eng000357-camillo #eng000357-evanthe #eng000357-valerio"
+                      xml:id="eng000357-e135620">
               <speaker>Omn. </speaker>
               <p>Long live Alphonso, King of us, and Naples. </p>
             </sp>

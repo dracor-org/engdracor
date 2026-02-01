@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000488" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000488" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000488" passive="http://www.wikidata.org/entity/Q107568620"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000488"
+                   passive="http://www.wikidata.org/entity/Q107568620"/>
     </listRelation>
   </standOff>
   <text>
@@ -410,7 +412,7 @@
             </sp>
             <sp xml:id="eng000488-e3710">
               <speaker>Amor. </speaker>
-              <p>Not at all; no damn him, a Cully is a dull senseless Rogue bubled and trick'd out of his Estate by subtlety. I can own my self an Extravagant, but no Cully; what she has I gave her as a <foreign xml:lang="lat">quantum meruit </foreign>for her Love, &amp; not through imposition on her part; she did endear my generous Faculty, but cheated me of nothing; and there is as much difference between Timon of Athens Generosity, and Sir <hi>Timothy Bashsops </hi>lavish Folly, as between the Courage of a brave Officer bred in a Camp and a sneaking Captain of a Country Militia. </p>
+              <p>Not at all; no damn him, a Cully is a dull senseless Rogue bubled and trick'd out of his Estate by subtlety. I can own my self an Extravagant, but no Cully; what she has I gave her as a <foreign xml:lang="la">quantum meruit </foreign>for her Love, &amp; not through imposition on her part; she did endear my generous Faculty, but cheated me of nothing; and there is as much difference between Timon of Athens Generosity, and Sir <hi>Timothy Bashsops </hi>lavish Folly, as between the Courage of a brave Officer bred in a Camp and a sneaking Captain of a Country Militia. </p>
             </sp>
             <sp xml:id="eng000488-e3780">
               <speaker>Merr. </speaker>
@@ -4999,6 +5001,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

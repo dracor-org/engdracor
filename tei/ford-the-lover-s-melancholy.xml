@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000016" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000016" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -156,10 +156,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000016" passive="http://www.wikidata.org/entity/Q7749034"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000016"
+                   passive="http://www.wikidata.org/entity/Q7749034"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000016-e100030">
         <pb type="blank" xml:id="eng000016-001-a"/>
@@ -3364,7 +3366,8 @@
             <l>And let vs conclude our delights in a Dance. </l>
           </sp>
           <pb n="53" xml:id="eng000016-031-b"/>
-          <sp who="#eng000016-nymph #eng000016-cuculus #eng000016-corax #eng000016-prince #eng000016-grilla #eng000016-philosopher #eng000016-rhetias #eng000016-pelias #eng000016-amethus #eng000016-menaphon #eng000016-thamasta #eng000016-eroclea" xml:id="eng000016-e120860">
+          <sp who="#eng000016-nymph #eng000016-cuculus #eng000016-corax #eng000016-prince #eng000016-grilla #eng000016-philosopher #eng000016-rhetias #eng000016-pelias #eng000016-amethus #eng000016-menaphon #eng000016-thamasta #eng000016-eroclea"
+                   xml:id="eng000016-e120860">
             <speaker>All. </speaker>
             <p>A Dance, a Dance, a Dance. </p>
           </sp>

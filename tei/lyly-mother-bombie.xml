@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000118" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000118" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -170,10 +170,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000118" passive="http://www.wikidata.org/entity/Q6917306"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000118"
+                   passive="http://www.wikidata.org/entity/Q6917306"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000118-e100030">
         <pb type="blank" xml:id="eng000118-001-a"/>
@@ -1026,7 +1028,8 @@
               <div type="song" xml:id="eng000118-e104270">
                 <pb xml:id="eng000118-013-b"/>
                 <head>Song. </head>
-                <sp who="#eng000118-lucio #eng000118-halfpenny #eng000118-riscio #eng000118-dromio" xml:id="eng000118-e104280">
+                <sp who="#eng000118-lucio #eng000118-halfpenny #eng000118-riscio #eng000118-dromio"
+                            xml:id="eng000118-e104280">
                   <speaker>Omnes. </speaker>
                   <l>IO Bacchus! To thy Table. </l>
                   <l>Thou call'st euery drunken </l>
@@ -1072,7 +1075,8 @@
                   <speaker>Luc. </speaker>
                   <l>Now flinging Hats ith' fire, </l>
                 </sp>
-                <sp who="#eng000118-lucio #eng000118-halfpenny #eng000118-riscio #eng000118-dromio" xml:id="eng000118-e104560">
+                <sp who="#eng000118-lucio #eng000118-halfpenny #eng000118-riscio #eng000118-dromio"
+                            xml:id="eng000118-e104560">
                   <speaker>Omnes. </speaker>
                   <l>Iô Bacchus! at thy Table, </l>
                   <l>Make vs of thy Reeling Rabble. </l>
@@ -3141,7 +3145,8 @@
             <body>
               <div type="song" xml:id="eng000118-e115130">
                 <head>Song. </head>
-                <sp who="#eng000118-nasutus #eng000118-beduneus #eng000118-synis" xml:id="eng000118-e115140">
+                <sp who="#eng000118-nasutus #eng000118-beduneus #eng000118-synis"
+                            xml:id="eng000118-e115140">
                   <speaker>All 3. </speaker>
                   <l>THe Bride this Night can catch no cold, </l>
                   <l>No cold, the Bridegroome's yong, not old, </l>
@@ -3159,7 +3164,8 @@
                   <speaker>3. </speaker>
                   <l>And flips her too. </l>
                 </sp>
-                <sp who="#eng000118-nasutus #eng000118-beduneus #eng000118-synis" xml:id="eng000118-e115240">
+                <sp who="#eng000118-nasutus #eng000118-beduneus #eng000118-synis"
+                            xml:id="eng000118-e115240">
                   <speaker>All 3. </speaker>
                   <l>Then let them alone, They know what they doe. </l>
                 </sp>
@@ -3187,7 +3193,8 @@
                   <speaker>3. </speaker>
                   <l>It still holds too. </l>
                 </sp>
-                <sp who="#eng000118-nasutus #eng000118-beduneus #eng000118-synis" xml:id="eng000118-e115380">
+                <sp who="#eng000118-nasutus #eng000118-beduneus #eng000118-synis"
+                            xml:id="eng000118-e115380">
                   <speaker>All 3. </speaker>
                   <l>Then let them alone, They know what they doe, </l>
                   <l>This Night, </l>
@@ -3902,6 +3909,5 @@
         </div>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

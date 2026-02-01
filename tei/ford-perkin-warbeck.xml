@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000013" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000013" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -177,7 +177,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000013" passive="http://www.wikidata.org/entity/Q7169013"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000013"
+                   passive="http://www.wikidata.org/entity/Q7169013"/>
     </listRelation>
   </standOff>
   <text>
@@ -4506,7 +4508,8 @@
               <speaker>K: H: </speaker>
               <l>Wee trifle time with follyes. </l>
             </sp>
-            <sp who="#eng000013-dawbney #eng000013-warbeck #eng000013-heron #eng000013-astley #eng000013-sketon #eng000013-surrey #eng000013-urswick #eng000013-soldiers" xml:id="eng000013-e131530">
+            <sp who="#eng000013-dawbney #eng000013-warbeck #eng000013-heron #eng000013-astley #eng000013-sketon #eng000013-surrey #eng000013-urswick #eng000013-soldiers"
+                      xml:id="eng000013-e131530">
               <speaker>Omnes. </speaker>
               <l>Mercie, mercie. </l>
             </sp>

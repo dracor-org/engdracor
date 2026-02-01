@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000361" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000361" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -208,10 +208,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000361" passive="http://www.wikidata.org/entity/Q6690009"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000361"
+                   passive="http://www.wikidata.org/entity/Q6690009"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000361-e100030">
         <pb n="eebo_img-415" xml:id="eng000361-838"/>

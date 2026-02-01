@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000629" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000629" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title type="main">Thebais</title>
         <author>
-          <persName xml:lang="eng">Seneca</persName>
+          <persName xml:lang="en">Seneca</persName>
           <persName>
             <forename>Lucius</forename>
             <surname>Annaeus</surname>
@@ -104,7 +104,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000629" passive="http://www.wikidata.org/entity/Q15427808"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000629"
+                   passive="http://www.wikidata.org/entity/Q15427808"/>
     </listRelation>
   </standOff>
   <text>
@@ -1300,6 +1302,5 @@
         </div>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

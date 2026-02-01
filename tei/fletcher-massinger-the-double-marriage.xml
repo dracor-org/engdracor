@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000349" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000349" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -202,10 +202,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000349" passive="http://www.wikidata.org/entity/Q7730744"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000349"
+                   passive="http://www.wikidata.org/entity/Q7730744"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000349-e100030">
         <pb n="eebo_img-267" type="blank" xml:id="eng000349-542"/>
@@ -1981,7 +1983,8 @@
               <l>I must be ruld, no leaning, </l>
               <l>My deepest wounds scorn Crutches. </l>
             </sp>
-            <sp who="#eng000349-martia #eng000349-master #eng000349-boatswain #eng000349-gunner" xml:id="eng000349-e112270">
+            <sp who="#eng000349-martia #eng000349-master #eng000349-boatswain #eng000349-gunner"
+                      xml:id="eng000349-e112270">
               <speaker>All. </speaker>
               <l>A brave Generall. <stage xml:id="eng000349-e112290">Flor. Trumpets, Cornets. </stage>
               </l>
@@ -2700,7 +2703,8 @@
               <l>For I shall never sleep, nor know what peace is, </l>
               <l>Till I have pluckt her heart out; </l>
             </sp>
-            <sp who="#eng000349-master #eng000349-boatswain #eng000349-gunner #eng000349-sailor-1 #eng000349-sailor-2" xml:id="eng000349-e116920">
+            <sp who="#eng000349-master #eng000349-boatswain #eng000349-gunner #eng000349-sailor-1 #eng000349-sailor-2"
+                      xml:id="eng000349-e116920">
               <speaker>All within. </speaker>
               <l>O maine there. <stage xml:id="eng000349-e116940">Exeunt. </stage>
               </l>
@@ -5940,7 +5944,8 @@
               <l>Let 'em come all. </l>
               <l>Honour and liberty. </l>
             </sp>
-            <sp who="#eng000349-boatswain #eng000349-castruchio #eng000349-gunner" xml:id="eng000349-e138740">
+            <sp who="#eng000349-boatswain #eng000349-castruchio #eng000349-gunner"
+                      xml:id="eng000349-e138740">
               <speaker>All. </speaker>
               <l>Honour and liberty. <stage xml:id="eng000349-e138760">Exeunt. </stage>
               </l>
@@ -6240,7 +6245,8 @@
               <l>Keep the Ports strongly mand, and let none enter, </l>
               <l>But such as are known Patriots. </l>
             </sp>
-            <sp who="#eng000349-boatswain #eng000349-master #eng000349-gunner #eng000349-citizens #eng000349-soldiers" xml:id="eng000349-e141020">
+            <sp who="#eng000349-boatswain #eng000349-master #eng000349-gunner #eng000349-citizens #eng000349-soldiers"
+                      xml:id="eng000349-e141020">
               <speaker>All. </speaker>
               <l>Liberty, liberty. </l>
             </sp>
@@ -6557,7 +6563,8 @@
               <speaker>Ses. </speaker>
               <l>Tis well. </l>
             </sp>
-            <sp who="#eng000349-citizens #eng000349-master #eng000349-boatswain #eng000349-gunner #eng000349-soldiers" xml:id="eng000349-e143280">
+            <sp who="#eng000349-citizens #eng000349-master #eng000349-boatswain #eng000349-gunner #eng000349-soldiers"
+                      xml:id="eng000349-e143280">
               <speaker>All. </speaker>
               <l>Thanks to the Duke of Sesse. </l>
             </sp>
@@ -6705,6 +6712,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

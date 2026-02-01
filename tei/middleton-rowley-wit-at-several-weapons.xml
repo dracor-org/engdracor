@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000358" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000358" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -157,10 +157,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000358" passive="http://www.wikidata.org/entity/Q8027793"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000358"
+                   passive="http://www.wikidata.org/entity/Q8027793"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000358-e100030">
         <pb n="eebo_img-377" xml:id="eng000358-762"/>
@@ -6013,7 +6015,8 @@
               <l>Something will be in my present power, the future more, </l>
               <l>You shall share with me. </l>
             </sp>
-            <sp who="#eng000358-lady-ruinous #eng000358-ruinous" xml:id="eng000358-e136890">
+            <sp who="#eng000358-lady-ruinous #eng000358-ruinous"
+                      xml:id="eng000358-e136890">
               <speaker>Ruin. and Wife. </speaker>
               <l>Thankes worthy Gentlemen. </l>
             </sp>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000736" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000736" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +61,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000736" passive="http://www.wikidata.org/entity/Q65053555"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000736"
+                   passive="http://www.wikidata.org/entity/Q65053555"/>
     </listRelation>
   </standOff>
   <text>
@@ -587,7 +589,7 @@
           </sp>
           <sp xml:id="eng000736-e5680">
             <speaker>Tim. </speaker>
-            <p>Adz zoors if I knew who 'twas said so, I'd sue him for <foreign xml:lang="lat">Scandalum Magnatum</foreign>. </p>
+            <p>Adz zoors if I knew who 'twas said so, I'd sue him for <foreign xml:lang="la">Scandalum Magnatum</foreign>. </p>
           </sp>
           <sp xml:id="eng000736-e5720">
             <speaker>Dull. </speaker>
@@ -2500,7 +2502,7 @@
           </sp>
           <sp xml:id="eng000736-e23010">
             <speaker>Clar. </speaker>
-            <p>The Petition of Captain <hi>Thomas Whiff </hi>Sheweth, whereas <hi>Gilbert. Grubb</hi>, calls his Worships Wife <hi>Ann Grabb </hi>Whore, and said he would prove it; your Petitioner desires the Worshipful Bench to take it into Consideration, and your Petitioner shall pray, &amp;c.— Here's two witnesses have made Affidavit <foreign xml:lang="lat">Vive voce</foreign>, an't like your Worships. </p>
+            <p>The Petition of Captain <hi>Thomas Whiff </hi>Sheweth, whereas <hi>Gilbert. Grubb</hi>, calls his Worships Wife <hi>Ann Grabb </hi>Whore, and said he would prove it; your Petitioner desires the Worshipful Bench to take it into Consideration, and your Petitioner shall pray, &amp;c.— Here's two witnesses have made Affidavit <foreign xml:lang="la">Vive voce</foreign>, an't like your Worships. </p>
           </sp>
           <sp xml:id="eng000736-e23090">
             <speaker>
@@ -2565,7 +2567,7 @@
           </sp>
           <sp xml:id="eng000736-e23620">
             <speaker>Dull. </speaker>
-            <p>Let there be an order of Court to Sue him, for <foreign xml:lang="lat">Scandalum Magnatum</foreign>. </p>
+            <p>Let there be an order of Court to Sue him, for <foreign xml:lang="la">Scandalum Magnatum</foreign>. </p>
           </sp>
           <sp xml:id="eng000736-e23660">
             <speaker>Tim. </speaker>
@@ -2608,7 +2610,7 @@
           </sp>
           <sp xml:id="eng000736-e24060">
             <speaker>Haz. </speaker>
-            <p>If I did, it was <foreign xml:lang="lat">se defendendo</foreign>. </p>
+            <p>If I did, it was <foreign xml:lang="la">se defendendo</foreign>. </p>
           </sp>
           <sp xml:id="eng000736-e24100">
             <speaker>Tim. </speaker>
@@ -4996,6 +4998,5 @@
         <pb xml:id="eng000736-033-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

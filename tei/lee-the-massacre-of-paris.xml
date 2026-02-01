@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000680" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000680" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000680" passive="http://www.wikidata.org/entity/Q108030227"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000680"
+                   passive="http://www.wikidata.org/entity/Q108030227"/>
     </listRelation>
   </standOff>
   <text>
@@ -3648,7 +3650,7 @@
         <l>Hush'd and Imprison'd close, as in the Tow'r, </l>
         <l>Half prest to Death by a Dispensing Pow'r; </l>
         <l>To take a lawful Tryal for each Fact, </l>
-        <l>Is just come out by th' <foreign xml:lang="lat">Habeas Corpus </foreign>Act. </l>
+        <l>Is just come out by th' <foreign xml:lang="la">Habeas Corpus </foreign>Act. </l>
         <l>Rome's Friends, no doubt, suppos'd there might be shown </l>
         <l>Iust such an Entertainment of their own, </l>
         <l>The Plot, the Protestants, the Stage, the Town. </l>

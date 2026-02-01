@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000360" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000360" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -219,10 +219,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000360" passive="http://www.wikidata.org/entity/Q7733121"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000360"
+                   passive="http://www.wikidata.org/entity/Q7733121"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000360-e100030">
         <pb n="eebo_img-403" xml:id="eng000360-814"/>
@@ -4453,7 +4455,8 @@
               <speaker>Cesar. </speaker>
               <p>Hence, or sirra I shall spoile your figure flinging, and all their radicall questions. </p>
             </sp>
-            <sp who="#eng000360-dancer #eng000360-taylor #eng000360-muleteer #eng000360-pedant #eng000360-forobosco #eng000360-clown" xml:id="eng000360-e128030">
+            <sp who="#eng000360-dancer #eng000360-taylor #eng000360-muleteer #eng000360-pedant #eng000360-forobosco #eng000360-clown"
+                      xml:id="eng000360-e128030">
               <speaker>Omnes </speaker>
               <p>Sir we vanish. <stage xml:id="eng000360-e128050">— Exeunt. Manet Host. &amp; Caesar. </stage>
               </p>

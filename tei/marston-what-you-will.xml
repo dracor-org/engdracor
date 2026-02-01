@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000137" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000137" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -179,10 +179,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000137" passive="http://www.wikidata.org/entity/Q7991502"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000137"
+                   passive="http://www.wikidata.org/entity/Q7991502"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000137-e100030">
         <pb type="blank" xml:id="eng000137-001-a"/>
@@ -2475,7 +2477,7 @@
               <l>The disaduantage of all honest hearts </l>
               <l>Is quick credulity, perfect state pollecy </l>
               <l>Can crosse-bite euen sence, the worlds turn'd Iuggler, </l>
-              <l>Castes mystes before our eyes Haygh <seg rend="hi" xml:lang="fro">passe re passe </seg>
+              <l>Castes mystes before our eyes Haygh <seg rend="hi" xml:lang="fr">passe re passe </seg>
               </l>
               <l>Ile credit nothing. </l>
             </sp>
@@ -4013,6 +4015,5 @@
         <pb xml:id="eng000137-032-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

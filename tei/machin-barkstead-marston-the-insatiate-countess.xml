@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000134" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000134" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -203,10 +203,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000134" passive="http://www.wikidata.org/entity/Q7742135"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000134"
+                   passive="http://www.wikidata.org/entity/Q7742135"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000134-e100030">
         <pb type="blank" xml:id="eng000134-001-a"/>
@@ -326,7 +328,8 @@
             <l>As in a sacred Synod. My Lords, I must intreate </l>
             <l>A while your wisht forbearance. </l>
           </sp>
-          <sp who="#eng000134-guido #eng000134-mizaldus #eng000134-roberto" xml:id="eng000134-e100880">
+          <sp who="#eng000134-guido #eng000134-mizaldus #eng000134-roberto"
+                   xml:id="eng000134-e100880">
             <speaker>Omnes. </speaker>
             <p>We obey you Lady. <stage xml:id="eng000134-e100900">Exit Guido and Mizald. Ma. Rob. </stage>
             </p>
@@ -663,7 +666,8 @@
             <l>As one that knowes inforced marriage </l>
             <l>To be the Furies sister. Thinke of me. </l>
           </sp>
-          <sp who="#eng000134-lady-lentulus #eng000134-abigail" xml:id="eng000134-e103040">
+          <sp who="#eng000134-lady-lentulus #eng000134-abigail"
+                   xml:id="eng000134-e103040">
             <speaker>Amb. </speaker>
             <p>Ha, ha, ha. </p>
           </sp>
@@ -956,7 +960,8 @@
             <speaker>Arsen. </speaker>
             <p>Gentlemen, your answere to the Masque. </p>
           </sp>
-          <sp who="#eng000134-guido #eng000134-mizaldus #eng000134-roberto" xml:id="eng000134-e105000">
+          <sp who="#eng000134-guido #eng000134-mizaldus #eng000134-roberto"
+                   xml:id="eng000134-e105000">
             <speaker>Omnes. </speaker>
             <p>Your Honour leades, wee'll follow. </p>
           </sp>
@@ -2243,7 +2248,8 @@
             <speaker>Cap. </speaker>
             <p>Murther of the Dukes kinsman, Signior Mendosa. </p>
           </sp>
-          <sp who="#eng000134-lady-lentulus #eng000134-abigail" xml:id="eng000134-e113520">
+          <sp who="#eng000134-lady-lentulus #eng000134-abigail"
+                   xml:id="eng000134-e113520">
             <speaker>Amb. </speaker>
             <p>Nothing else? we did it, we did it, we did it. </p>
           </sp>
@@ -4900,6 +4906,5 @@
         <pb xml:id="eng000134-045-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

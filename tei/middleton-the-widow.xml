@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000380" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000380" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -145,10 +145,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000380" passive="http://www.wikidata.org/entity/Q7774773"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000380"
+                   passive="http://www.wikidata.org/entity/Q7774773"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000380-e100030">
         <pb type="blank" xml:id="eng000380-001-a"/>
@@ -1014,7 +1016,8 @@
             <l>But to assist a subtle trick I ha' thought on, </l>
             <l>And the rich Widows mine within these three hours. </l>
           </sp>
-          <sp who="#eng000380-attilio #eng000380-francisco" xml:id="eng000380-e105050">
+          <sp who="#eng000380-attilio #eng000380-francisco"
+                   xml:id="eng000380-e105050">
             <speaker>Att. Fra. </speaker>
             <l>We should be proud of that Sir. </l>
           </sp>
@@ -1494,7 +1497,8 @@
             <l>Nay, ther's no starting now, I have you fast Widow, </l>
             <l>You'r witness Gentlemen. </l>
           </sp>
-          <sp who="#eng000380-francisco #eng000380-attilio" xml:id="eng000380-e107880">
+          <sp who="#eng000380-francisco #eng000380-attilio"
+                   xml:id="eng000380-e107880">
             <speaker>Fra. Att. </speaker>
             <l>Wee'l be depos'd on't. </l>
           </sp>
@@ -1617,7 +1621,8 @@
             <l>Oh kind Gentlemen, </l>
             <l>I am so abus'd here. </l>
           </sp>
-          <sp who="#eng000380-suitor-1 #eng000380-suitor-2" xml:id="eng000380-e108600">
+          <sp who="#eng000380-suitor-1 #eng000380-suitor-2"
+                   xml:id="eng000380-e108600">
             <speaker>Ambo. </speaker>
             <l>Abus'd? </l>
           </sp>
@@ -6096,6 +6101,5 @@
         <pb xml:id="eng000380-036-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

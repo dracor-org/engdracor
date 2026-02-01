@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000331" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000331" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -184,10 +184,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000331" passive="http://www.wikidata.org/entity/Q7747596"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000331"
+                   passive="http://www.wikidata.org/entity/Q7747596"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000331-e100030">
         <pb n="eebo_img-52" xml:id="eng000331-112"/>
@@ -3126,7 +3128,8 @@
               <l>The Gentlemans, a noble Gentleman. </l>
               <l>I shall doe what I can, and then— </l>
             </sp>
-            <sp who="#eng000331-client-1 #eng000331-client-2 #eng000331-client-3" xml:id="eng000331-e119470">
+            <sp who="#eng000331-client-1 #eng000331-client-2 #eng000331-client-3"
+                      xml:id="eng000331-e119470">
               <speaker>Cli. </speaker>
               <l>We thanke you Sir, <stage xml:id="eng000331-e119490">Exit Sam. and Clients. </stage>
               </l>

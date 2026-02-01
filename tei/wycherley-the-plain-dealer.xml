@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000576" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000576" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -59,7 +59,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000576" passive="http://www.wikidata.org/entity/Q3203701"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000576"
+                   passive="http://www.wikidata.org/entity/Q3203701"/>
     </listRelation>
   </standOff>
   <text>
@@ -3555,7 +3557,7 @@
         </sp>
         <sp xml:id="eng000576-e30770">
           <speaker>Wid. </speaker>
-          <p>No, I know him too well, he'll ne'r be <foreign xml:lang="lat">Felo de se </foreign>that way, but he may go and choose a Guardian of his own head, and so be <hi>Felo de ses beins</hi>: for he has not yet chosen one. </p>
+          <p>No, I know him too well, he'll ne'r be <foreign xml:lang="la">Felo de se </foreign>that way, but he may go and choose a Guardian of his own head, and so be <hi>Felo de ses beins</hi>: for he has not yet chosen one. </p>
         </sp>
         <sp xml:id="eng000576-e30820">
           <speaker>Free. </speaker>
@@ -3843,7 +3845,7 @@
         </sp>
         <sp xml:id="eng000576-e33160">
           <speaker>Man. </speaker>
-          <p>Faith, 'tis for a poor Orphan of a Sea-Officer of mine, that has no Money; but if it cou'd be follow'd <foreign xml:lang="lat">in Forma Pauperis</foreign>; and when the Legacy's recover'd— </p>
+          <p>Faith, 'tis for a poor Orphan of a Sea-Officer of mine, that has no Money; but if it cou'd be follow'd <foreign xml:lang="la">in Forma Pauperis</foreign>; and when the Legacy's recover'd— </p>
         </sp>
         <sp xml:id="eng000576-e33200">
           <speaker>Law. </speaker>
@@ -3860,7 +3862,7 @@
         </sp>
         <sp xml:id="eng000576-e33330">
           <speaker>Man. </speaker>
-          <p>Which is not <foreign xml:lang="lat">in Forma Pauperis</foreign>. </p>
+          <p>Which is not <foreign xml:lang="la">in Forma Pauperis</foreign>. </p>
         </sp>
         <stage xml:id="eng000576-e33370">[Exit Lawyer. </stage>
         <sp xml:id="eng000576-e33380">
@@ -6681,7 +6683,7 @@
         </sp>
         <sp xml:id="eng000576-e56230">
           <speaker>Wid. </speaker>
-          <p>How, Sir, how! that were but to sue out an <foreign xml:lang="lat">Habeas Corpus</foreign>, for a removal from one Prison to another. Matrimony! </p>
+          <p>How, Sir, how! that were but to sue out an <foreign xml:lang="la">Habeas Corpus</foreign>, for a removal from one Prison to another. Matrimony! </p>
         </sp>
         <sp xml:id="eng000576-e56270">
           <speaker>Free. </speaker>
@@ -6689,7 +6691,7 @@
         </sp>
         <sp xml:id="eng000576-e56300">
           <speaker>Wid. </speaker>
-          <p>O stay, Sir, can you be so cruel as to bring me under Covert Baron again? and put it out of my power to sue in my own name. Matrimony, to a Woman, worse than Excommunication, in depriving her of the benefit of the Law: and I wou'd rather be depriv'd of life. But hark you, Sir, I am contented you shou'd hold and enjoy my person by Lease or Patent; but not by the spiritual Patent, call'd a Licence; that <pb n="92" xml:id="eng000576-054-a"/>is, to have the priviledges of a Husband without the dominion; that is, <foreign xml:lang="lat">Durante beneplacito</foreign>: in confideration of which, I will, out of my Jointure, secure you an Annuity of Three hundred pounds a Year, and pay your debts; and that's all you younger Brothers desire to marry a Widow for, I'm sure. </p>
+          <p>O stay, Sir, can you be so cruel as to bring me under Covert Baron again? and put it out of my power to sue in my own name. Matrimony, to a Woman, worse than Excommunication, in depriving her of the benefit of the Law: and I wou'd rather be depriv'd of life. But hark you, Sir, I am contented you shou'd hold and enjoy my person by Lease or Patent; but not by the spiritual Patent, call'd a Licence; that <pb n="92" xml:id="eng000576-054-a"/>is, to have the priviledges of a Husband without the dominion; that is, <foreign xml:lang="la">Durante beneplacito</foreign>: in confideration of which, I will, out of my Jointure, secure you an Annuity of Three hundred pounds a Year, and pay your debts; and that's all you younger Brothers desire to marry a Widow for, I'm sure. </p>
         </sp>
         <sp xml:id="eng000576-e56340">
           <speaker>Free. </speaker>
@@ -6934,6 +6936,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000454" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000454" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +61,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000454" passive="http://www.wikidata.org/entity/Q107568415"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000454"
+                   passive="http://www.wikidata.org/entity/Q107568415"/>
     </listRelation>
   </standOff>
   <text>
@@ -343,7 +345,7 @@
           </sp>
           <sp xml:id="eng000454-e2880">
             <speaker>Trick. </speaker>
-            <p>No, by the Lord, Aunt, Restitution is Catholick; and you know Oracles are ceas'd. <foreign xml:lang="lat">Tempus praeteritum</foreign>.— Dost hear, my necessary Evil?— Thou ungodly Fire that burnt Diana's Temple, dost hear? make Corina civil, or by the Lord, Bawd— </p>
+            <p>No, by the Lord, Aunt, Restitution is Catholick; and you know Oracles are ceas'd. <foreign xml:lang="la">Tempus praeteritum</foreign>.— Dost hear, my necessary Evil?— Thou ungodly Fire that burnt Diana's Temple, dost hear? make Corina civil, or by the Lord, Bawd— </p>
           </sp>
           <sp xml:id="eng000454-e2940">
             <speaker>Dun. </speaker>
@@ -4368,6 +4370,5 @@
         <pb xml:id="eng000454-037-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

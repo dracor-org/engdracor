@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000413" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000413" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -192,7 +192,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000413-e100030">
         <pb type="blank" xml:id="eng000413-001-a"/>
@@ -274,7 +274,10 @@
           <signed>Robert Davenport. </signed>
         </closer>
       </div>
-      <div cert="high" type="encomium" xml:id="eng000413-e100610" xml:lang="lat">
+      <div cert="high"
+              type="encomium"
+              xml:id="eng000413-e100610"
+              xml:lang="la">
         <pb xml:id="eng000413-006-b"/>
         <head>Carissimo amico Auctori in eximiam Messallinae Tragediam. </head>
         <l>RIdentem venerem veteres pinxere, sed ecce </l>
@@ -1305,7 +1308,8 @@
               <l>In contempt of death, at deaths base strife, </l>
               <l>To die for vertue is a glorious life. </l>
             </sp>
-            <sp who="#eng000413-roman-dame-1 #eng000413-roman-dame-2 #eng000413-roman-dame-3" xml:id="eng000413-e108190">
+            <sp who="#eng000413-roman-dame-1 #eng000413-roman-dame-2 #eng000413-roman-dame-3"
+                      xml:id="eng000413-e108190">
               <speaker>All. </speaker>
               <p>O blest encouragement. </p>
             </sp>
@@ -3748,7 +3752,8 @@
               <l>The height of dalliance, each sacrifice a kisse, </l>
               <l>To all th'inchantments of loves luscious blisse. </l>
             </sp>
-            <sp who="#eng000413-valens #eng000413-proculus #eng000413-menester #eng000413-curtisans #eng000413-narcissus" xml:id="eng000413-e126160">
+            <sp who="#eng000413-valens #eng000413-proculus #eng000413-menester #eng000413-curtisans #eng000413-narcissus"
+                      xml:id="eng000413-e126160">
               <speaker>All. </speaker>
               <p>O liquid life of live. <stage xml:id="eng000413-e126180">All kisse. </stage>
               </p>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000194" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000194" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -160,10 +160,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000194" passive="http://www.wikidata.org/entity/Q7754258"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000194"
+                   passive="http://www.wikidata.org/entity/Q7754258"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000194-e100030">
         <pb type="blank" xml:id="eng000194-001-a"/>
@@ -1088,7 +1090,8 @@
               <speaker>Kin. </speaker>
               <l>What womans voyce is that? </l>
             </sp>
-            <sp who="#eng000194-alanzo #eng000194-carlo #eng000194-cockadillio #eng000194-baltazar" xml:id="eng000194-e105850">
+            <sp who="#eng000194-alanzo #eng000194-carlo #eng000194-cockadillio #eng000194-baltazar"
+                      xml:id="eng000194-e105850">
               <speaker>Omnes. </speaker>
               <l>Medina's Neece. </l>
             </sp>
@@ -1267,7 +1270,8 @@
               <l>Grandoes and Lords of Spaine be witnesse all </l>
               <l>What here I cancell; read, doe you know this bond? </l>
             </sp>
-            <sp who="#eng000194-roderigo #eng000194-alba #eng000194-daenia #eng000194-valasco" xml:id="eng000194-e106900">
+            <sp who="#eng000194-roderigo #eng000194-alba #eng000194-daenia #eng000194-valasco"
+                      xml:id="eng000194-e106900">
               <speaker>Omnes. </speaker>
               <l>Our hands are too't. </l>
             </sp>
@@ -2125,7 +2129,8 @@
               <speaker>Onae. </speaker>
               <l>I, I, that's well; pray sweare. </l>
             </sp>
-            <sp who="#eng000194-medina #eng000194-alanzo #eng000194-carlo #eng000194-alba #eng000194-sebastian #eng000194-daenia" xml:id="eng000194-e112360">
+            <sp who="#eng000194-medina #eng000194-alanzo #eng000194-carlo #eng000194-alba #eng000194-sebastian #eng000194-daenia"
+                      xml:id="eng000194-e112360">
               <speaker>Omnes. </speaker>
               <l>To this we sweare. </l>
             </sp>
@@ -2691,7 +2696,8 @@
               <l>Leape desperately, and drowne himselfe i'th Seas, </l>
               <l>What were so brave a fellow? </l>
             </sp>
-            <sp who="#eng000194-medina #eng000194-alba #eng000194-carlo #eng000194-daenia" xml:id="eng000194-e115710">
+            <sp who="#eng000194-medina #eng000194-alba #eng000194-carlo #eng000194-daenia"
+                      xml:id="eng000194-e115710">
               <speaker>Omnes. </speaker>
               <l>A brave blacke villaine. </l>
             </sp>
@@ -2823,7 +2829,8 @@
               <l>Mantled in darknesse, forthwith be conveyed </l>
               <l>To the Monastery of Saint Paul. </l>
             </sp>
-            <sp who="#eng000194-medina #eng000194-alba #eng000194-carlo #eng000194-daenia" xml:id="eng000194-e116610">
+            <sp who="#eng000194-medina #eng000194-alba #eng000194-carlo #eng000194-daenia"
+                      xml:id="eng000194-e116610">
               <speaker>Omnes. </speaker>
               <l>Good. </l>
             </sp>
@@ -3853,7 +3860,8 @@
               <l>To arme our selves against we come to Court, </l>
               <l>Because the guard is doubled. </l>
             </sp>
-            <sp who="#eng000194-alba #eng000194-carlo #eng000194-daenia" xml:id="eng000194-e122790">
+            <sp who="#eng000194-alba #eng000194-carlo #eng000194-daenia"
+                      xml:id="eng000194-e122790">
               <speaker>Omnes. </speaker>
               <l>Tush, we care not. </l>
             </sp>
@@ -4177,7 +4185,8 @@
               <speaker>Kin. </speaker>
               <l>Poyson'd? </l>
             </sp>
-            <sp who="#eng000194-medina #eng000194-alba #eng000194-carlo #eng000194-daenia" xml:id="eng000194-e124810">
+            <sp who="#eng000194-medina #eng000194-alba #eng000194-carlo #eng000194-daenia"
+                      xml:id="eng000194-e124810">
               <speaker>Omnes. </speaker>
               <l>Descend blacke speckled soule to hell. </l>
             </sp>
@@ -4341,7 +4350,8 @@
               <l>See how I seale it with this Marriage; </l>
               <l>My blessing and Spaines kingdome both be thine. </l>
             </sp>
-            <sp who="#eng000194-medina #eng000194-alba #eng000194-carlo #eng000194-daenia #eng000194-baltazar" xml:id="eng000194-e125790">
+            <sp who="#eng000194-medina #eng000194-alba #eng000194-carlo #eng000194-daenia #eng000194-baltazar"
+                      xml:id="eng000194-e125790">
               <speaker>Omnes. </speaker>
               <l>Long live Sebastian. </l>
             </sp>
@@ -4415,6 +4425,5 @@
         </div>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

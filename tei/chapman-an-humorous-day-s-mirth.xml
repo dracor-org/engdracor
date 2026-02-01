@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000280" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000280" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -168,10 +168,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000280" passive="http://www.wikidata.org/entity/Q4750027"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000280"
+                   passive="http://www.wikidata.org/entity/Q4750027"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000280-e100030">
         <pb type="blank" xml:id="eng000280-001-a"/>
@@ -2331,7 +2333,8 @@
           <speaker>Be. </speaker>
           <p>Faith and troth I did not, and I hope sirs you take it not so. </p>
         </sp>
-        <sp who="#eng000280-foyes #eng000280-catalian #eng000280-boy #eng000280-lemot" xml:id="eng000280-e110960">
+        <sp who="#eng000280-foyes #eng000280-catalian #eng000280-boy #eng000280-lemot"
+                xml:id="eng000280-e110960">
           <speaker>All. </speaker>
           <p>No matter for me, twas very vnkindly sayd, I must needs say so. </p>
         </sp>
@@ -2453,7 +2456,7 @@
           <p>O what else! </p>
         </sp>
         <sp who="#eng000280-lemot" xml:id="eng000280-e111560">
-          <speaker/>
+          <speaker></speaker>
           <p>L●…▪ God saue sweete Monsieur Rowls, what loose or win, loose or win? </p>
         </sp>
         <sp who="#eng000280-rowle" xml:id="eng000280-e111580">
@@ -2727,7 +2730,8 @@
           <speaker>Ue. </speaker>
           <p>Gentlemen, your dinner is ready. </p>
         </sp>
-        <sp who="#eng000280-foyes #eng000280-catalian #eng000280-boy #eng000280-lemot" xml:id="eng000280-e112970">
+        <sp who="#eng000280-foyes #eng000280-catalian #eng000280-boy #eng000280-lemot"
+                xml:id="eng000280-e112970">
           <speaker>All. </speaker>
           <p>And we are ready for it. </p>
         </sp>
@@ -3423,7 +3427,8 @@
           <speaker>Le. </speaker>
           <p>Will you all trust me with the making of them? </p>
         </sp>
-        <sp who="#eng000280-foyes #eng000280-catalian #eng000280-boy #eng000280-lemot" xml:id="eng000280-e116540">
+        <sp who="#eng000280-foyes #eng000280-catalian #eng000280-boy #eng000280-lemot"
+                xml:id="eng000280-e116540">
           <speaker>All. </speaker>
           <p>With all our hearts. </p>
         </sp>

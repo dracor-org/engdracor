@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000542" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000542" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000542" passive="http://www.wikidata.org/entity/Q107556934"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000542"
+                   passive="http://www.wikidata.org/entity/Q107556934"/>
     </listRelation>
   </standOff>
   <text>
@@ -3226,7 +3228,7 @@
         <sp xml:id="eng000542-e29790">
           <speaker>San. </speaker>
           <p>
-            <hi>Don Gusman </hi>all the way we came mutter'd the Devils <foreign xml:lang="lat">Pater noster </foreign>to himself. </p>
+            <hi>Don Gusman </hi>all the way we came mutter'd the Devils <foreign xml:lang="la">Pater noster </foreign>to himself. </p>
         </sp>
         <sp xml:id="eng000542-e29840">
           <speaker>Ordg. </speaker>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000383" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000383" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -138,10 +138,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000383" passive="http://www.wikidata.org/entity/Q5126946"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000383"
+                   passive="http://www.wikidata.org/entity/Q5126946"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000383-e100030">
         <pb xml:id="eng000383-287-a"/>
@@ -2366,7 +2368,8 @@
             <speaker>Man. </speaker>
             <p>Are you ready? </p>
           </sp>
-          <sp who="#eng000383-melintus #eng000383-seleucus #eng000383-philemon #eng000383-ravack" xml:id="eng000383-e117250">
+          <sp who="#eng000383-melintus #eng000383-seleucus #eng000383-philemon #eng000383-ravack"
+                   xml:id="eng000383-e117250">
             <speaker>Omnes, </speaker>
             <p>Yes, yes. </p>
           </sp>
@@ -2716,6 +2719,5 @@
         </div>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

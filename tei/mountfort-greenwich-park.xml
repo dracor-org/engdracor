@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000520" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000520" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000520" passive="http://www.wikidata.org/entity/Q104860333"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000520"
+                   passive="http://www.wikidata.org/entity/Q104860333"/>
     </listRelation>
   </standOff>
   <text>
@@ -1141,7 +1143,7 @@
           </sp>
           <sp xml:id="eng000520-e11220">
             <speaker>Rais. </speaker>
-            <p>Pray do, my Lord, and we four will sing a Whim <foreign xml:lang="lat">ex tempore</foreign>. Eat an Oyster before Dinner, and take a whet. </p>
+            <p>Pray do, my Lord, and we four will sing a Whim <foreign xml:lang="la">ex tempore</foreign>. Eat an Oyster before Dinner, and take a whet. </p>
           </sp>
           <sp xml:id="eng000520-e11260">
             <speaker>L. Wor. </speaker>
@@ -1607,7 +1609,7 @@
           </sp>
           <sp xml:id="eng000520-e15470">
             <speaker>Y. Rev. </speaker>
-            <p>Why, you must know, my old man has made Love to the Mother this six Months; she has 1200 l. a Year for her life, which her Husband gave her, not as a Jointure, but generously, when he dy'd; which with my Father's two thousand pound <foreign xml:lang="lat">per annum</foreign>, will put 'em into a condition of living without being oblig'd to Relations. But indeed Mrs. Raison was the person who first presented me to the Family, for she Boards in the same House with 'em. </p>
+            <p>Why, you must know, my old man has made Love to the Mother this six Months; she has 1200 l. a Year for her life, which her Husband gave her, not as a Jointure, but generously, when he dy'd; which with my Father's two thousand pound <foreign xml:lang="la">per annum</foreign>, will put 'em into a condition of living without being oblig'd to Relations. But indeed Mrs. Raison was the person who first presented me to the Family, for she Boards in the same House with 'em. </p>
           </sp>
           <sp xml:id="eng000520-e15530">
             <speaker>L. Wor. </speaker>
@@ -3117,7 +3119,7 @@
           </sp>
           <sp xml:id="eng000520-e29740">
             <speaker>Viol. </speaker>
-            <p>Or you'd be allow'd no spunger, is he your <foreign xml:lang="lat">Probatum est</foreign>, bound to flatter a Fool or dine with the Servants. </p>
+            <p>Or you'd be allow'd no spunger, is he your <foreign xml:lang="la">Probatum est</foreign>, bound to flatter a Fool or dine with the Servants. </p>
           </sp>
           <sp xml:id="eng000520-e29780">
             <speaker>Sr. Will. </speaker>
@@ -5456,6 +5458,5 @@
         </div>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

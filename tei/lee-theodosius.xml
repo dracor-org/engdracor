@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000683" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000683" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -61,7 +61,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000683" passive="http://www.wikidata.org/entity/Q110998666"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000683"
+                   passive="http://www.wikidata.org/entity/Q110998666"/>
     </listRelation>
   </standOff>
   <text>
@@ -117,7 +119,7 @@
             </row>
             <row>
               <cell>Chorus. </cell>
-              <cell/>
+              <cell></cell>
             </row>
           </table>
         </p>
@@ -133,15 +135,15 @@
             </row>
             <row>
               <cell>Julia. </cell>
-              <cell/>
+              <cell></cell>
             </row>
             <row>
               <cell>Delia. </cell>
-              <cell/>
+              <cell></cell>
             </row>
             <row>
               <cell>Attendants, Singers. </cell>
-              <cell/>
+              <cell></cell>
             </row>
           </table>
         </p>
@@ -237,7 +239,7 @@
         <div n="1" type="act" xml:id="eng000683-e1770">
           <div n="1" type="scene" xml:id="eng000683-e1780">
             <head>ACT I. SCENE I. </head>
-            <stage xml:id="eng000683-e1800">A stately Temple, which represents the Christian Religion, as in its first Magnificence: Being but lately establisht at Rome and Constantinople. The Side Scenes shew the horrid Tortures, with which the Roman Tyrants persecuted the Church, and the Flat Scene, which is the Limit of the Prospect, discovers an Altar richly adorn'd, before it Constantine, suppos'd kneels, with Commanders about him, gazing at a bloody Cross in the Air, which being incompass'd with many Angels, offers it self to view, with these words distinctly written, <foreign xml:lang="lat">(In hoc signo vinces!) </foreign>Instruments are heard, and many Attendants: The Ministers at Divine Service, walk busily up and down, till Atticus, the Chief of all the Priests, and Successor of St. Chrysostom, in rich Robes, comes forward with the Philosopher Leontine: The Waiters in Ranks bowing all the way before him. </stage>
+            <stage xml:id="eng000683-e1800">A stately Temple, which represents the Christian Religion, as in its first Magnificence: Being but lately establisht at Rome and Constantinople. The Side Scenes shew the horrid Tortures, with which the Roman Tyrants persecuted the Church, and the Flat Scene, which is the Limit of the Prospect, discovers an Altar richly adorn'd, before it Constantine, suppos'd kneels, with Commanders about him, gazing at a bloody Cross in the Air, which being incompass'd with many Angels, offers it self to view, with these words distinctly written, <foreign xml:lang="la">(In hoc signo vinces!) </foreign>Instruments are heard, and many Attendants: The Ministers at Divine Service, walk busily up and down, till Atticus, the Chief of all the Priests, and Successor of St. Chrysostom, in rich Robes, comes forward with the Philosopher Leontine: The Waiters in Ranks bowing all the way before him. </stage>
             <stage xml:id="eng000683-e1890">A Chorus heard at distance. </stage>
             <sp xml:id="eng000683-e1900">
               <l>Prepare, prepare! the Rites begin, </l>

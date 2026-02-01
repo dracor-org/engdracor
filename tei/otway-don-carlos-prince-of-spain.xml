@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000690" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000690" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -62,7 +62,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000690" passive="http://www.wikidata.org/entity/Q107536211"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000690"
+                   passive="http://www.wikidata.org/entity/Q107536211"/>
     </listRelation>
   </standOff>
   <text>
@@ -1407,7 +1409,7 @@
           <l>All but Rui-Gomez I must have withdrawn, </l>
           <l>I've something to discourse with him alone. </l>
           <stage xml:id="eng000690-e12760">
-            <foreign xml:lang="lat">Ex. omnes praeter K. &amp; </foreign>Gomez. </stage>
+            <foreign xml:lang="la">Ex. omnes praeter K. &amp; </foreign>Gomez. </stage>
           <l>Now Gomez on thy truth depends thy fate, </l>
           <l>Thou'st wrought my sence of Wrong to such a height: </l>
           <l>Within my breast it will no longer stay, </l>

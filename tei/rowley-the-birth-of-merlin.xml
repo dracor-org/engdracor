@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000401" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000401" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -206,10 +206,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000401" passive="http://www.wikidata.org/entity/Q6131433"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000401"
+                   passive="http://www.wikidata.org/entity/Q6131433"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000401-e100030">
         <pb type="blank" xml:id="eng000401-001-a"/>
@@ -1184,7 +1186,8 @@
           <speaker>Cador. </speaker>
           <p>See where he comes, my Lord. </p>
         </sp>
-        <sp who="#eng000401-donobert #eng000401-gloster #eng000401-edwin #eng000401-cador" xml:id="eng000401-e105360">
+        <sp who="#eng000401-donobert #eng000401-gloster #eng000401-edwin #eng000401-cador"
+                xml:id="eng000401-e105360">
           <speaker>Omnes. </speaker>
           <p>Welcome to Court, brave Earl. </p>
         </sp>
@@ -2318,7 +2321,8 @@
           <speaker>Const. </speaker>
           <p>Pray trouble me no further. </p>
         </sp>
-        <sp who="#eng000401-bishop-1 #eng000401-bishop-2 #eng000401-donobert #eng000401-gloster #eng000401-oswold #eng000401-toclio" xml:id="eng000401-e111570">
+        <sp who="#eng000401-bishop-1 #eng000401-bishop-2 #eng000401-donobert #eng000401-gloster #eng000401-oswold #eng000401-toclio"
+                xml:id="eng000401-e111570">
           <speaker>Omnes. </speaker>
           <p>Strange alteration! </p>
         </sp>
@@ -4010,6 +4014,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

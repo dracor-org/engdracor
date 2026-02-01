@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000158" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000158" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -217,7 +217,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000158" passive="http://www.wikidata.org/entity/Q4655831"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000158"
+                   passive="http://www.wikidata.org/entity/Q4655831"/>
     </listRelation>
   </standOff>
   <text>
@@ -2659,7 +2661,8 @@
             <speaker>S. Walt. </speaker>
             <p>Sit you all merry Ladyes. </p>
           </sp>
-          <sp who="#eng000158-gossip_3 #eng000158-gossip_4 #eng000158-gossip_5" xml:id="eng000158-e114520">
+          <sp who="#eng000158-gossip_3 #eng000158-gossip_4 #eng000158-gossip_5"
+                   xml:id="eng000158-e114520">
             <speaker>All Goss. </speaker>
             <p>Thanke your Worship Sir. </p>
           </sp>
@@ -2964,7 +2967,8 @@
             <l>That some of them had need of other Vessels, </l>
             <l>Yonder's the brauest Shew. </l>
           </sp>
-          <sp who="#eng000158-gossip_1 #eng000158-gossip_2 #eng000158-gossip_3 #eng000158-gossip_4 #eng000158-gossip_5" xml:id="eng000158-e116240">
+          <sp who="#eng000158-gossip_1 #eng000158-gossip_2 #eng000158-gossip_3 #eng000158-gossip_4 #eng000158-gossip_5"
+                   xml:id="eng000158-e116240">
             <speaker>All Goss. </speaker>
             <p>Where? Where Sir? </p>
           </sp>
@@ -2973,7 +2977,8 @@
             <l>Come along presently by the Pissing-conduit, </l>
             <l>With two braue Drums and a Standert-bearer. </l>
           </sp>
-          <sp who="#eng000158-gossip_1 #eng000158-gossip_2 #eng000158-gossip_3 #eng000158-gossip_4 #eng000158-gossip_5" xml:id="eng000158-e116290">
+          <sp who="#eng000158-gossip_1 #eng000158-gossip_2 #eng000158-gossip_3 #eng000158-gossip_4 #eng000158-gossip_5"
+                   xml:id="eng000158-e116290">
             <speaker>All Goss. </speaker>
             <p>O Braue. </p>
           </sp>
@@ -2983,7 +2988,8 @@
             <p>Come Tutor. </p>
             <stage xml:id="eng000158-e116330">Exit </stage>
           </sp>
-          <sp who="#eng000158-gossip_1 #eng000158-gossip_2 #eng000158-gossip_3 #eng000158-gossip_4 #eng000158-gossip_5" xml:id="eng000158-e116340">
+          <sp who="#eng000158-gossip_1 #eng000158-gossip_2 #eng000158-gossip_3 #eng000158-gossip_4 #eng000158-gossip_5"
+                   xml:id="eng000158-e116340">
             <speaker>All Goss. </speaker>
             <p>Farwell sweet Gossip. </p>
             <stage xml:id="eng000158-e116360">Exit </stage>
@@ -5683,6 +5689,5 @@
         </div>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

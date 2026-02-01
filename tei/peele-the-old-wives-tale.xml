@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000187" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000187" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -181,7 +181,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000187" passive="http://www.wikidata.org/entity/Q7754938"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000187"
+                   passive="http://www.wikidata.org/entity/Q7754938"/>
     </listRelation>
   </standOff>
   <text>
@@ -251,7 +253,8 @@
           <speaker>Smith. </speaker>
           <p>Well Masters it seemes to mee you haue lost your waie in the wood: in consideration whereof, if you will goe with Clunch to his Cottage, you shall haue house roome, and a good fire to sit by, althogh we haue no bedding to put you in. </p>
         </sp>
-        <sp who="#eng000187-frolic #eng000187-antic #eng000187-fantastic" xml:id="eng000187-e100380">
+        <sp who="#eng000187-frolic #eng000187-antic #eng000187-fantastic"
+                xml:id="eng000187-e100380">
           <speaker>All. </speaker>
           <p>O blessed Smith, O bountifull Clunch. </p>
         </sp>
@@ -1717,7 +1720,8 @@
           <l>Erestus and thy deare Venelia: </l>
           <l>We will to Thessalie with ioyfull hearts. </l>
         </sp>
-        <sp who="#eng000187-1 #eng000187-2 #eng000187-venelia" xml:id="eng000187-e109170">
+        <sp who="#eng000187-1 #eng000187-2 #eng000187-venelia"
+                xml:id="eng000187-e109170">
           <speaker>All: </speaker>
           <l>Agreed, we follow thee and Delya. </l>
         </sp>

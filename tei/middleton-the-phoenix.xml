@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000164" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000164" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -221,7 +221,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000164" passive="http://www.wikidata.org/entity/Q7756959"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000164"
+                   passive="http://www.wikidata.org/entity/Q7756959"/>
     </listRelation>
   </standOff>
   <text>
@@ -5004,7 +5006,8 @@
           <speaker>Prod. </speaker>
           <l>An infernall to my spirit. </l>
         </sp>
-        <sp who="#eng000164-falso #eng000164-niece #eng000164-lussurioso #eng000164-fidelio" xml:id="eng000164-e126230">
+        <sp who="#eng000164-falso #eng000164-niece #eng000164-lussurioso #eng000164-fidelio"
+                xml:id="eng000164-e126230">
           <speaker>All. </speaker>
           <l>My Lord the Prince: </l>
         </sp>
@@ -5052,7 +5055,8 @@
           <l>I know thee wise can'st both obey and raigne, </l>
           <l>The rest of life we dedicate to heauen. </l>
         </sp>
-        <sp who="#eng000164-falso #eng000164-niece #eng000164-lussurioso #eng000164-fidelio" xml:id="eng000164-e126540">
+        <sp who="#eng000164-falso #eng000164-niece #eng000164-lussurioso #eng000164-fidelio"
+                xml:id="eng000164-e126540">
           <speaker>All. </speaker>
           <l>A happy and safe raigne to our new Duke. </l>
         </sp>
@@ -5114,7 +5118,8 @@
           <speaker>Phoen. </speaker>
           <p>Away, thy curse is idle, the rest are vnder reformation, and therefore vnder pardon. </p>
         </sp>
-        <sp who="#eng000164-falso #eng000164-niece #eng000164-lussurioso #eng000164-fidelio" xml:id="eng000164-e126900">
+        <sp who="#eng000164-falso #eng000164-niece #eng000164-lussurioso #eng000164-fidelio"
+                xml:id="eng000164-e126900">
           <speaker>All. </speaker>
           <p>Our duties shall turne edge vpon our crimes. </p>
         </sp>

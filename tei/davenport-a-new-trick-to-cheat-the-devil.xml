@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000305" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000305" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -143,7 +143,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000305" passive="http://www.wikidata.org/entity/Q4658545"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000305"
+                   passive="http://www.wikidata.org/entity/Q4658545"/>
     </listRelation>
   </standOff>
   <text>
@@ -6420,7 +6422,8 @@
               <speaker>Sl. </speaker>
               <p>Sir I doe not; and all I hope are pleas'd. </p>
             </sp>
-            <sp who="#eng000305-wife #eng000305-skales #eng000305-treatwell #eng000305-gefrey #eng000305-changeable #eng000305-roger #eng000305-anne #eng000305-bernard #eng000305-john" xml:id="eng000305-e140090">
+            <sp who="#eng000305-wife #eng000305-skales #eng000305-treatwell #eng000305-gefrey #eng000305-changeable #eng000305-roger #eng000305-anne #eng000305-bernard #eng000305-john"
+                      xml:id="eng000305-e140090">
               <speaker>All. </speaker>
               <p>Wee are. </p>
             </sp>
@@ -6439,6 +6442,5 @@
         <pb xml:id="eng000305-039-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

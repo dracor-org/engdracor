@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000347" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000347" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -180,10 +180,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000347" passive="http://www.wikidata.org/entity/Q4941450"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000347"
+                   passive="http://www.wikidata.org/entity/Q4941450"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000347-e100030">
         <pb n="eebo_img-244" xml:id="eng000347-496"/>
@@ -3681,7 +3683,7 @@
           <div n="1" type="scene" xml:id="eng000347-e123310">
             <head>Scaena Prima. </head>
             <stage xml:id="eng000347-e123320">Enter Petillius, Junius, Decius, Demetrius singing. </stage>
-            <floatingText type="song" xml:lang="eng">
+            <floatingText type="song" xml:lang="en">
               <body>
                 <sp who="#eng000347-petillius" xml:id="eng000347-e123350">
                   <speaker>Petill. </speaker>
@@ -6492,6 +6494,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

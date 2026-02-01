@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000653" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000653" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000653" passive="http://www.wikidata.org/entity/Q7752503"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000653"
+                   passive="http://www.wikidata.org/entity/Q7752503"/>
     </listRelation>
   </standOff>
   <text>
@@ -3892,7 +3894,7 @@
         <head>EPILOGUE, </head>
         <stage xml:id="eng000653-e36750">Spoken by M rs Bracegirdle. </stage>
         <l>THE Tragedy thus done, I am, you know, </l>
-        <l>No more a Princess, but in <foreign xml:lang="lat">statu quo</foreign>: </l>
+        <l>No more a Princess, but in <foreign xml:lang="la">statu quo</foreign>: </l>
         <l>And now as unconcern'd this Mourning wear, </l>
         <l>As if indeed a Widow, or an Heir. </l>
         <l>I've leisure, now, to mark your sev'ral Faces, </l>

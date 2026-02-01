@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000140" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000140" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -140,7 +140,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000140" passive="http://www.wikidata.org/entity/Q7719099"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000140"
+                   passive="http://www.wikidata.org/entity/Q7719099"/>
     </listRelation>
   </standOff>
   <text>
@@ -796,12 +798,14 @@
             <l>Not Circumscrib'd or bound in, shall by you </l>
             <l>Be willingly obey'd. </l>
           </sp>
-          <sp who="#eng000140-archidamus #eng000140-diphilus #eng000140-cleon" xml:id="eng000140-e104710">
+          <sp who="#eng000140-archidamus #eng000140-diphilus #eng000140-cleon"
+                   xml:id="eng000140-e104710">
             <speaker>Archid. Dip. Cleon. </speaker>
             <l>So may we prosper, </l>
             <l>As we obey in all things. </l>
           </sp>
-          <sp who="#eng000140-timagoras #eng000140-leosthenes #eng000140-asotus" xml:id="eng000140-e104740">
+          <sp who="#eng000140-timagoras #eng000140-leosthenes #eng000140-asotus"
+                   xml:id="eng000140-e104740">
             <speaker>Timag. Leost. Aso. </speaker>
             <l>And obserue </l>
             <l>All your commands as Oracles. </l>
@@ -2397,7 +2401,8 @@
             <l>You haue beene barr'd from, with one voyce cry with me, </l>
             <l>Libertie, Libertie. </l>
           </sp>
-          <sp who="#eng000140-pisander #eng000140-poliphron #eng000140-cimbrio #eng000140-gracculo" xml:id="eng000140-e116000">
+          <sp who="#eng000140-pisander #eng000140-poliphron #eng000140-cimbrio #eng000140-gracculo"
+                   xml:id="eng000140-e116000">
             <speaker>All. </speaker>
             <l>Libertie, Libertie. </l>
           </sp>
@@ -3079,7 +3084,8 @@
             <l>Most miserable, and rest assur'd you are so. </l>
             <l>Our Masters are victorious: </l>
           </sp>
-          <sp who="#eng000140-pisander #eng000140-poliphron #eng000140-cimbrio #eng000140-gracculo" xml:id="eng000140-e120930">
+          <sp who="#eng000140-pisander #eng000140-poliphron #eng000140-cimbrio #eng000140-gracculo"
+                   xml:id="eng000140-e120930">
             <speaker>All. </speaker>
             <l>How? </l>
           </sp>
@@ -5512,6 +5518,5 @@
         <pb xml:id="eng000140-045-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

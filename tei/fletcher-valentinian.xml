@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000359" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000359" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -186,10 +186,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000359" passive="http://www.wikidata.org/entity/Q7911046"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000359"
+                   passive="http://www.wikidata.org/entity/Q7911046"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000359-e100030">
         <pb n="eebo_img-389" xml:id="eng000359-786"/>
@@ -6128,7 +6130,8 @@
               <l>When he is sweld and high crackt, and farwell. </l>
             </sp>
             <stage xml:id="eng000359-e141350">Enter Maximus, Eudoxa, Senat. and Souldiers. </stage>
-            <sp who="#eng000359-senator-1 #eng000359-senator-2 #eng000359-senator-3" xml:id="eng000359-e141360">
+            <sp who="#eng000359-senator-1 #eng000359-senator-2 #eng000359-senator-3"
+                      xml:id="eng000359-e141360">
               <speaker>Sen. </speaker>
               <l>Roome for the Emperor. </l>
             </sp>
@@ -6158,7 +6161,8 @@
               <l>See it effected; <stage xml:id="eng000359-e141570">— Flourish. </stage>
               </l>
             </sp>
-            <sp who="#eng000359-senator-1 #eng000359-senator-2 #eng000359-senator-3" xml:id="eng000359-e141580">
+            <sp who="#eng000359-senator-1 #eng000359-senator-2 #eng000359-senator-3"
+                      xml:id="eng000359-e141580">
               <speaker>Sen. </speaker>
               <l>Honour wait on Cesar. </l>
             </sp>
@@ -6563,7 +6567,8 @@
               <l>Noble fathers to his browes, </l>
               <l>Bind this wreath with thousand vows. </l>
             </lg>
-            <sp who="#eng000359-maximus #eng000359-eudoxia #eng000359-senator-1 #eng000359-senator-2 #eng000359-senator-3 #eng000359-soldiers" xml:id="eng000359-e144220">
+            <sp who="#eng000359-maximus #eng000359-eudoxia #eng000359-senator-1 #eng000359-senator-2 #eng000359-senator-3 #eng000359-soldiers"
+                      xml:id="eng000359-e144220">
               <speaker>All. </speaker>
               <l>Stand to eternity: </l>
             </sp>

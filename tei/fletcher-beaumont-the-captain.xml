@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000334" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000334" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -172,10 +172,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000334" passive="http://www.wikidata.org/entity/Q7721282"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000334"
+                   passive="http://www.wikidata.org/entity/Q7721282"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000334-e100030">
         <pb n="eebo_img-88" xml:id="eng000334-184"/>
@@ -2136,7 +2138,8 @@
                 <l>'Tis an arrow, 'tis a fire, </l>
                 <l>'Tis a boy they call Desire. </l>
               </sp>
-              <sp who="#eng000334-singer-1 #eng000334-singer-2" xml:id="eng000334-e114000">
+              <sp who="#eng000334-singer-1 #eng000334-singer-2"
+                         xml:id="eng000334-e114000">
                 <speaker>Both. </speaker>
                 <l>'Tis a grave, </l>
                 <l>Gapes to have </l>
@@ -2152,7 +2155,8 @@
                 <l>Some are willing, some are strange, </l>
                 <l>Since you men first taught to change. </l>
               </sp>
-              <sp who="#eng000334-singer-1 #eng000334-singer-2" xml:id="eng000334-e114100">
+              <sp who="#eng000334-singer-1 #eng000334-singer-2"
+                         xml:id="eng000334-e114100">
                 <speaker>Both. </speaker>
                 <l>And till troth </l>
                 <l>Be in both, </l>
@@ -2168,7 +2172,8 @@
                 <l>And be wise, and delay, </l>
                 <l>When you men are as wise as they. </l>
               </sp>
-              <sp who="#eng000334-singer-1 #eng000334-singer-2" xml:id="eng000334-e114200">
+              <sp who="#eng000334-singer-1 #eng000334-singer-2"
+                         xml:id="eng000334-e114200">
                 <speaker>Both. </speaker>
                 <l>Then I see </l>
                 <l>Faith will be, </l>
@@ -4848,7 +4853,8 @@
               <speaker>Clor. </speaker>
               <l>O God my sides. </l>
             </sp>
-            <sp who="#eng000334-clora #eng000334-frederick #eng000334-frank" xml:id="eng000334-e131080">
+            <sp who="#eng000334-clora #eng000334-frederick #eng000334-frank"
+                      xml:id="eng000334-e131080">
               <speaker>All. </speaker>
               <l>Ha, ha, ha, ha. </l>
             </sp>

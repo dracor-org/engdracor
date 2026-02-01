@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000165" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000165" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -204,7 +204,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000165" passive="http://www.wikidata.org/entity/Q4660336"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000165"
+                   passive="http://www.wikidata.org/entity/Q4660336"/>
     </listRelation>
   </standOff>
   <text>
@@ -1586,7 +1588,8 @@
           <speaker>Wit. </speaker>
           <p>I, why there it was, I knew twas so, but since you are so wel resolude of my faith toward you, let me be so much fauor'd of you, I beseech you all— </p>
         </sp>
-        <sp who="#eng000165-creditor-2 #eng000165-creditor-1 #eng000165-creditor-3" xml:id="eng000165-e107150">
+        <sp who="#eng000165-creditor-2 #eng000165-creditor-1 #eng000165-creditor-3"
+                xml:id="eng000165-e107150">
           <speaker>All. </speaker>
           <p>Oh, it shall not need ifaith sir,— </p>
         </sp>
@@ -1594,7 +1597,8 @@
           <speaker>Wit. </speaker>
           <p>As to lie still a while, and bury my debts in silence, till I be fully possest of the widdow, for the truth is, I may tell you as my friends— </p>
         </sp>
-        <sp who="#eng000165-creditor-2 #eng000165-creditor-1 #eng000165-creditor-3" xml:id="eng000165-e107190">
+        <sp who="#eng000165-creditor-2 #eng000165-creditor-1 #eng000165-creditor-3"
+                xml:id="eng000165-e107190">
           <speaker>All. </speaker>
           <p>Oh— o— o— </p>
         </sp>
@@ -3766,7 +3770,8 @@
           <speaker>Hoo. </speaker>
           <p>Why well sayd, a good conscience makes a fine showe now a daies, come my Maisters you shall all— tast of my wine ere you depart. </p>
         </sp>
-        <sp who="#eng000165-creditor-2 #eng000165-creditor-1 #eng000165-creditor-3" xml:id="eng000165-e118960">
+        <sp who="#eng000165-creditor-2 #eng000165-creditor-1 #eng000165-creditor-3"
+                xml:id="eng000165-e118960">
           <speaker>All. </speaker>
           <p>We follow you sir? </p>
         </sp>
@@ -4706,6 +4711,5 @@
         <pb xml:id="eng000165-032-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

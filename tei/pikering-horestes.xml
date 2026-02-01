@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000188" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000188" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -165,10 +165,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000188" passive="http://www.wikidata.org/entity/Q16386094"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000188"
+                   passive="http://www.wikidata.org/entity/Q16386094"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000188-e100030">
         <pb type="blank" xml:id="eng000188-001-a"/>
@@ -2165,7 +2167,7 @@
       </div>
     </body>
     <back>
-      <div type="illustration" xml:id="eng000188-e115260" xml:lang="lat">
+      <div type="illustration" xml:id="eng000188-e115260" xml:lang="la">
         <p>
           <figure>
             <head>SAPIENS DOMINABITVR ASTRIS. </head>

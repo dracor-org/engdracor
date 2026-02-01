@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000018" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000018" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -144,10 +144,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000018" passive="http://www.wikidata.org/entity/Q602623"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000018"
+                   passive="http://www.wikidata.org/entity/Q602623"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000018-e100030">
         <pb type="blank" xml:id="eng000018-001-a"/>
@@ -3604,7 +3606,8 @@
             <speaker>Hip. </speaker>
             <l>Villaine. </l>
           </sp>
-          <sp who="#eng000018-vasques #eng000018-soranzo #eng000018-florio #eng000018-annabella #eng000018-giovanni #eng000018-philotis #eng000018-putana #eng000018-friar #eng000018-donado #eng000018-richardetto" xml:id="eng000018-e121710">
+          <sp who="#eng000018-vasques #eng000018-soranzo #eng000018-florio #eng000018-annabella #eng000018-giovanni #eng000018-philotis #eng000018-putana #eng000018-friar #eng000018-donado #eng000018-richardetto"
+                   xml:id="eng000018-e121710">
             <speaker>Omnes. </speaker>
             <l>What's the matter? </l>
           </sp>
@@ -3621,7 +3624,8 @@
             <p>Dye in charity for shame, </p>
             <p>This thing of malice, this woman had priuately corrupted mee with promise of malice, vnder this politique reconciliation to to poyson my Lord, whiles shee might laugh at his Confusion oh his marriage-day; I promis'd her faire, but I knew what my reward should haue beene, and would willingly haue spar'd her life, but that I was acquainted with the danger of her disposition, and now haue fitted her a iust payment in her owne coyne, there shee is, shee hath yet— and end thy dayes in peace vild woman, as for life there's no hope, thinke not on't. </p>
           </sp>
-          <sp who="#eng000018-vasques #eng000018-soranzo #eng000018-florio #eng000018-annabella #eng000018-giovanni #eng000018-philotis #eng000018-putana #eng000018-friar #eng000018-donado #eng000018-richardetto" xml:id="eng000018-e121800">
+          <sp who="#eng000018-vasques #eng000018-soranzo #eng000018-florio #eng000018-annabella #eng000018-giovanni #eng000018-philotis #eng000018-putana #eng000018-friar #eng000018-donado #eng000018-richardetto"
+                   xml:id="eng000018-e121800">
             <speaker>Omnes. </speaker>
             <l>Wonderfull Iustice! </l>
           </sp>
@@ -4568,7 +4572,8 @@
             <p>Here's gold, here's more; want nothing, what you do is noble, and an act of braue reuenge. </p>
             <p>I'le make yee rich Bandetti and all Free. </p>
           </sp>
-          <sp who="#eng000018-vasques #eng000018-soranzo #eng000018-florio #eng000018-annabella #eng000018-giovanni #eng000018-philotis #eng000018-putana #eng000018-friar #eng000018-donado #eng000018-richardetto" xml:id="eng000018-e128020">
+          <sp who="#eng000018-vasques #eng000018-soranzo #eng000018-florio #eng000018-annabella #eng000018-giovanni #eng000018-philotis #eng000018-putana #eng000018-friar #eng000018-donado #eng000018-richardetto"
+                   xml:id="eng000018-e128020">
             <speaker>Omnes. </speaker>
             <p>Liberty, liberty. </p>
           </sp>
@@ -4576,7 +4581,8 @@
             <speaker>Vas. </speaker>
             <l>Hold, take euery man a Vizard; when yee are with drawne, keepe as much silence as you can possibly: you know the watch-word, till which be spoken moue not, but when you heare that, rush in like a stormy-flood; I neede not instruct yee in your owne profession. </l>
           </sp>
-          <sp who="#eng000018-vasques #eng000018-soranzo #eng000018-florio #eng000018-annabella #eng000018-giovanni #eng000018-philotis #eng000018-putana #eng000018-friar #eng000018-donado #eng000018-richardetto" xml:id="eng000018-e128060">
+          <sp who="#eng000018-vasques #eng000018-soranzo #eng000018-florio #eng000018-annabella #eng000018-giovanni #eng000018-philotis #eng000018-putana #eng000018-friar #eng000018-donado #eng000018-richardetto"
+                   xml:id="eng000018-e128060">
             <speaker>Omnes. </speaker>
             <l>No, no, no. </l>
           </sp>
@@ -5290,6 +5296,5 @@
         <p>The generall Commendation deserued by the Actors, in their Presentment of this Tragedy, may easily excuse such few faults, as are escaped in the Printing: A common charity may allow him the ability of spelling, whom a secure confidence assures that hee cannot ignorantly erre in the Application of Sence. </p>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000366" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000366" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -137,7 +137,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000366" passive="http://www.wikidata.org/entity/Q7727849"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000366"
+                   passive="http://www.wikidata.org/entity/Q7727849"/>
     </listRelation>
   </standOff>
   <text>
@@ -562,7 +564,8 @@
               <l>That money can buy Land; or great Estates </l>
               <l>In Lands and Mannor-houses be call'd Lordships. </l>
             </sp>
-            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3" xml:id="eng000366-e103010">
+            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3"
+                      xml:id="eng000366-e103010">
               <speaker>1.2.3. </speaker>
               <p>Or wealth joynd with desert attaine to honor </p>
             </sp>
@@ -3349,7 +3352,8 @@
               <p>Help, help, a rape, a rape, murder, help! <stage xml:id="eng000366-e119400">Draw all </stage>
               </p>
             </sp>
-            <sp who="#eng000366-swainwit #eng000366-courtwit" xml:id="eng000366-e119410">
+            <sp who="#eng000366-swainwit #eng000366-courtwit"
+                      xml:id="eng000366-e119410">
               <speaker>Sw. Cou. </speaker>
               <p>Tis time to fly then. </p>
             </sp>
@@ -5011,7 +5015,8 @@
               <speaker>Dai. </speaker>
               <p>Hold sir I pray; Gentlemen so you will grant me pardon, and forbeare the Law i'le answer you. </p>
             </sp>
-            <sp who="#eng000366-courtwit #eng000366-swainwit" xml:id="eng000366-e129120">
+            <sp who="#eng000366-courtwit #eng000366-swainwit"
+                      xml:id="eng000366-e129120">
               <speaker>Cou. Sw. </speaker>
               <p>Agreed, agreed. </p>
             </sp>
@@ -5227,7 +5232,8 @@
               <speaker>Str. </speaker>
               <p>What's the meaning? </p>
             </sp>
-            <sp who="#eng000366-courtwit #eng000366-swainwit" xml:id="eng000366-e130430">
+            <sp who="#eng000366-courtwit #eng000366-swainwit"
+                      xml:id="eng000366-e130430">
               <speaker>Cou. Sw. </speaker>
               <p>Wee'l tell you Madam. </p>
             </sp>
@@ -5823,7 +5829,8 @@
               <l>In right of Love to give the Nuptialls Grace. </l>
             </sp>
             <stage xml:id="eng000366-e133890">After they have Danc'd a while, Enter Projectors, breakes 'em off. </stage>
-            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3" xml:id="eng000366-e133900">
+            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3"
+                      xml:id="eng000366-e133900">
               <speaker>Pro. </speaker>
               <l>Lay by your Jolity, forbeare your Sport, </l>
               <l>And heare a story shall inforce your pitty. </l>
@@ -5840,7 +5847,8 @@
               <speaker>Ga. </speaker>
               <p>One of my Masters Minions, a Projector. </p>
             </sp>
-            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3" xml:id="eng000366-e133990">
+            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3"
+                      xml:id="eng000366-e133990">
               <speaker>Pro. </speaker>
               <l>You had a Master: But to all I speake. </l>
               <l>Your practises have sunk him from the Comforts </l>
@@ -5853,7 +5861,8 @@
               <speaker>Fer. </speaker>
               <p>Hee's mad; is he? </p>
             </sp>
-            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3" xml:id="eng000366-e134070">
+            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3"
+                      xml:id="eng000366-e134070">
               <speaker>Pro. </speaker>
               <p>Mad, and has hang'd himselfe— </p>
             </sp>
@@ -5865,7 +5874,8 @@
               <speaker>La. </speaker>
               <p>How! hang'd himselfe? </p>
             </sp>
-            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3" xml:id="eng000366-e134130">
+            <sp who="#eng000366-projector-1 #eng000366-projector-2 #eng000366-projector-3"
+                      xml:id="eng000366-e134130">
               <speaker>Pro. </speaker>
               <l>All over sir, with draughts of Projects, Suits, </l>
               <l>Petitions, Grants, and Pattents, such as were </l>
@@ -6082,6 +6092,5 @@
         <pb xml:id="eng000366-053-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

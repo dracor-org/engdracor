@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000408" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000408" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -199,10 +199,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000408" passive="http://www.wikidata.org/entity/Q7768913"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000408"
+                   passive="http://www.wikidata.org/entity/Q7768913"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000408-e100030">
         <pb type="blank" xml:id="eng000408-001-a"/>
@@ -1025,7 +1027,8 @@
             <l>And now in stead of Winter, </l>
             <l>behold a youthful May. </l>
           </sp>
-          <sp who="#eng000408-antimon #eng000408-radagon #eng000408-shepherd-1 #eng000408-shepherd-2 #eng000408-clown #eng000408-serena" xml:id="eng000408-e105260">
+          <sp who="#eng000408-antimon #eng000408-radagon #eng000408-shepherd-1 #eng000408-shepherd-2 #eng000408-clown #eng000408-serena"
+                   xml:id="eng000408-e105260">
             <speaker>Omnes. </speaker>
             <l>Titterus? Welcome. </l>
             <stage xml:id="eng000408-e105280">Enter Pallemon. </stage>
@@ -1546,7 +1549,8 @@
               <speaker>Scicil. </speaker>
               <p>This to us is a full satisfaction, and my Lords, we know how to require your gratitude, the Regency by him assigned to us we in our bounty reassign to you, be your own Lords, excepting still the fealty due to your Sovereign at his back return, in whose forc'd absence should you use our aid, we shall be your Protector. </p>
             </sp>
-            <sp who="#eng000408-thracian-lord-1 #eng000408-thracian-lord-2 #eng000408-thracian-lord-3" xml:id="eng000408-e108500">
+            <sp who="#eng000408-thracian-lord-1 #eng000408-thracian-lord-2 #eng000408-thracian-lord-3"
+                      xml:id="eng000408-e108500">
               <speaker>Thr. Lords. </speaker>
               <l>Noble in all his Arts is Scicilly. </l>
             </sp>
@@ -2564,7 +2568,8 @@
             <speaker>Phe. </speaker>
             <l>Which is the General? </l>
           </sp>
-          <sp who="#eng000408-shepherd-1 #eng000408-shepherd-2 #eng000408-radagon #eng000408-eusanius #eng000408-tityrus #eng000408-palaemon #eng000408-clown #eng000408-antimon" xml:id="eng000408-e114360">
+          <sp who="#eng000408-shepherd-1 #eng000408-shepherd-2 #eng000408-radagon #eng000408-eusanius #eng000408-tityrus #eng000408-palaemon #eng000408-clown #eng000408-antimon"
+                   xml:id="eng000408-e114360">
             <speaker>Omnes. </speaker>
             <l>This. </l>
           </sp>
@@ -2650,7 +2655,8 @@
             <speaker>Tit. </speaker>
             <l>And I. </l>
           </sp>
-          <sp who="#eng000408-shepherd-1 #eng000408-shepherd-2 #eng000408-radagon #eng000408-palaemon #eng000408-clown #eng000408-antimon" xml:id="eng000408-e114900">
+          <sp who="#eng000408-shepherd-1 #eng000408-shepherd-2 #eng000408-radagon #eng000408-palaemon #eng000408-clown #eng000408-antimon"
+                   xml:id="eng000408-e114900">
             <speaker>Omnes. </speaker>
             <l>So do we all. </l>
           </sp>

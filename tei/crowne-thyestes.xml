@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000658" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000658" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,7 +60,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000658" passive="http://www.wikidata.org/entity/Q108130951"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000658"
+                   passive="http://www.wikidata.org/entity/Q108130951"/>
     </listRelation>
   </standOff>
   <text>
@@ -70,7 +72,7 @@
         <pb xml:id="eng000658-001-b"/>
         <p>THYESTES A TRAGEDY. Acted at the Theatre-Royal, By their MAJESTIES SERVANTS </p>
         <p>Written by Mr. CROWN. </p>
-        <p>LONDON, <hi>Printed for </hi>R. Bently and M. Magnes, in Russel-street, in Covent-Garden <hi>near the </hi>Piazza's, <foreign xml:lang="lat">Anno Domini, MDCLXXX </foreign>
+        <p>LONDON, <hi>Printed for </hi>R. Bently and M. Magnes, in Russel-street, in Covent-Garden <hi>near the </hi>Piazza's, <foreign xml:lang="la">Anno Domini, MDCLXXX </foreign>
         </p>
       </div>
       <div type="song" xml:id="eng000658-e120">

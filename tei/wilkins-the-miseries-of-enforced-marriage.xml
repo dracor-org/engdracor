@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000249" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000249" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -165,10 +165,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000249" passive="http://www.wikidata.org/entity/Q7751706"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000249"
+                   passive="http://www.wikidata.org/entity/Q7751706"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000249-e100030">
         <pb type="blank" xml:id="eng000249-001-a"/>
@@ -3286,7 +3288,8 @@
           <speaker>But. </speaker>
           <p>Let your wiues agree of that after, will you first be richly married? </p>
         </sp>
-        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley" xml:id="eng000249-e118870">
+        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley"
+                xml:id="eng000249-e118870">
           <speaker>All. </speaker>
           <p>How Butler: richly married? </p>
         </sp>
@@ -3347,7 +3350,8 @@
           <speaker>But. </speaker>
           <p>You were best play the partes of right fooles, and most desperate whore-maysters, and go together by the eares for them ere ye see them. But they are the moste rare featurd, well faced, excellent spoke, rare qualited, vertuous, and worthy to be admired gentlewoman, </p>
         </sp>
-        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley" xml:id="eng000249-e119170">
+        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley"
+                xml:id="eng000249-e119170">
           <speaker>All. </speaker>
           <p>And rich Butler? </p>
         </sp>
@@ -3355,7 +3359,8 @@
           <speaker>But. </speaker>
           <p>(I that must be one, tho they want all the rest) And rich Gallants, as are from the vtmost parts of Asya, to these present confines of Europe. </p>
         </sp>
-        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley" xml:id="eng000249-e119210">
+        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley"
+                xml:id="eng000249-e119210">
           <speaker>All </speaker>
           <p>And wilt thou helpe vs to them Butler? </p>
         </sp>
@@ -3363,7 +3368,8 @@
           <speaker>But. </speaker>
           <p>Faith, tis to be doubted, for pretious pearle will hardly be bought without pretious stones, and I think theres scarse one indifferent one to be found, betwixt you three: yet since there is some hope ye may proue honest, as by the death of your fathers. <pb xml:id="eng000249-025-b"/>Fathers you are proued rich, walke seuerally, for I knowing you all three to be couetous Tug-muttons will not trust you with the sight of each others beawty but will seuerally, talke with you, and since you haue deignd in this needfull portion of wedlocke to bee ruld by mee Butler, will most bountifully prouide wiues for you generally. </p>
         </sp>
-        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley" xml:id="eng000249-e119250">
+        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley"
+                xml:id="eng000249-e119250">
           <speaker>All. </speaker>
           <p>Why that honestly said. </p>
         </sp>
@@ -5724,7 +5730,8 @@
           <stage xml:id="eng000249-e133390">bow and kneele. </stage>
           <l>And all are pleas'd. </l>
         </sp>
-        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley" xml:id="eng000249-e133410">
+        <sp who="#eng000249-wentloe #eng000249-ilford #eng000249-bartley"
+                xml:id="eng000249-e133410">
           <speaker>All. </speaker>
           <l>We are. </l>
         </sp>
@@ -5739,6 +5746,5 @@
         <pb xml:id="eng000249-040-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

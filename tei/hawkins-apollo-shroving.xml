@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000043" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000043" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -166,7 +166,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000043-e100030">
         <pb type="blank" xml:id="eng000043-001-a"/>
@@ -1843,7 +1843,8 @@
               <speaker>Imp. </speaker>
               <p>Errant? An errant asse he is, that angers you. I'le lay my cap against my dinner (that's oddes against a cheese paring) some Knight has taken the wall of you, <pb n="41" xml:id="eng000043-024-b"/>and has challenged you into the field. And now mee thinke, your anger makes you tremble. </p>
             </sp>
-            <sp who="#eng000043-complement #eng000043-implement" xml:id="eng000043-e109360">
+            <sp who="#eng000043-complement #eng000043-implement"
+                      xml:id="eng000043-e109360">
               <speaker>Comp. Imp. </speaker>
               <p>learne this of me, no feare, but anger, makes men of valour tremble. For anger is the whetstone of fortitude, as sometime said Sir Harry Tottle, my fellow Knight and Philosopher. </p>
             </sp>
@@ -4022,7 +4023,8 @@
               <speaker>Phil. </speaker>
               <p>O iust doome, that pleasure shall bee alwaies fetter'd to paine. Which also this false Siren prooues. first, a face seeming faire to meet with: but if you further goe, turpem desinit in piscem mulus formosa superne. </p>
             </sp>
-            <sp who="#eng000043-lauriger #eng000043-drudo #eng000043-praeco #eng000043-philoponus" xml:id="eng000043-e121190">
+            <sp who="#eng000043-lauriger #eng000043-drudo #eng000043-praeco #eng000043-philoponus"
+                      xml:id="eng000043-e121190">
               <speaker>Laur. Drudo. Praco. Philop Omnes. </speaker>
               <p>Out with her. </p>
             </sp>
@@ -4328,7 +4330,8 @@
               <l>But now I ioy: our schoole is swept., </l>
             </sp>
             <stage xml:id="eng000043-e122750">Regnet Apollo. </stage>
-            <sp who="#eng000043-musaeus #eng000043-euterpe #eng000043-clio #eng000043-praeco #eng000043-retro #eng000043-geron #eng000043-novice #eng000043-slugge #eng000043-philoponus #eng000043-drudo" xml:id="eng000043-e122760">
+            <sp who="#eng000043-musaeus #eng000043-euterpe #eng000043-clio #eng000043-praeco #eng000043-retro #eng000043-geron #eng000043-novice #eng000043-slugge #eng000043-philoponus #eng000043-drudo"
+                      xml:id="eng000043-e122760">
               <speaker>Omnes. </speaker>
               <p>Vincat Apollo, Regnet Apollo. </p>
             </sp>
@@ -4357,6 +4360,5 @@
         <pb xml:id="eng000043-052-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

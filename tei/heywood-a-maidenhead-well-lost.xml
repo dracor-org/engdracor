@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000437" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000437" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -62,7 +62,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000437" passive="http://www.wikidata.org/entity/Q4658031"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000437"
+                   passive="http://www.wikidata.org/entity/Q4658031"/>
     </listRelation>
   </standOff>
   <text>
@@ -74,7 +76,7 @@
         <p>
           <hi>Written by </hi>THOMAS HEYWOOD. </p>
         <p>
-          <foreign xml:lang="lat">Aut predessesolent, aut delectare</foreign>. </p>
+          <foreign xml:lang="la">Aut predessesolent, aut delectare</foreign>. </p>
         <figure/>
         <p>LONDON, Printed by <hi>Nicholas Okes </hi>for <hi>Iohn Iackson </hi>and <hi>Francis Church</hi>, and are to be sold at the <hi>Kings Armes </hi>in Cheape-side. 1634. </p>
       </div>
@@ -1998,7 +2000,7 @@
           <stage xml:id="eng000437-e16760">Enter Clowne <hi>gallant, and the </hi>Huntiman. </stage>
           <sp xml:id="eng000437-e16790">
             <speaker>Clow. </speaker>
-            <p>Nay, nay, the case is alter'd with mee since you saw me last: I was neuer in any hope to purchase any other suite then that I wore yesterday; but now I can say <foreign xml:lang="lat">Ecce signum</foreign>, the case is alter'd. Now euery begger comes vpon me with <hi>good Gentleman, good Gentleman</hi>: when yesterday Gentlemen would haue shun'd the way for feare I should haue begg'd of them. Then comes another vpon mee with <hi>good your Worship, good your Worship, </hi>then doe I double my fyles, and cast him a single two pence. </p>
+            <p>Nay, nay, the case is alter'd with mee since you saw me last: I was neuer in any hope to purchase any other suite then that I wore yesterday; but now I can say <foreign xml:lang="la">Ecce signum</foreign>, the case is alter'd. Now euery begger comes vpon me with <hi>good Gentleman, good Gentleman</hi>: when yesterday Gentlemen would haue shun'd the way for feare I should haue begg'd of them. Then comes another vpon mee with <hi>good your Worship, good your Worship, </hi>then doe I double my fyles, and cast him a single two pence. </p>
           </sp>
           <sp xml:id="eng000437-e16850">
             <speaker>Hunt. </speaker>
@@ -2521,7 +2523,7 @@
           <stage xml:id="eng000437-e21290">Exit Lord. </stage>
           <sp xml:id="eng000437-e21310">
             <speaker>Parm. </speaker>
-            <l>To bee married, <foreign xml:lang="lat">Ruimus in vestitum semper</foreign>, </l>
+            <l>To bee married, <foreign xml:lang="la">Ruimus in vestitum semper</foreign>, </l>
             <l>I did neglect her, but being deni'd, </l>
             <l>I doate vpon her beautie: Methinkes 'tis fit, </l>
             <l>If I begot the Child? I wed the Mother: </l>

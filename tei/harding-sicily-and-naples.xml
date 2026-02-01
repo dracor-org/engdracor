@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000041" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000041" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -164,7 +164,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000041-e100030">
         <pb xml:id="eng000041-001-a"/>
@@ -5271,7 +5271,8 @@
               <l>All the better; she's skilfull at her weapon, </l>
               <l>We'le but exchange a thrust in sport. </l>
             </sp>
-            <sp who="#eng000041-galeotto #eng000041-gonzales" xml:id="eng000041-e133780">
+            <sp who="#eng000041-galeotto #eng000041-gonzales"
+                      xml:id="eng000041-e133780">
               <speaker>Gal. &amp; Gon. </speaker>
               <p>Ha! what meanes this flight? </p>
             </sp>
@@ -5299,7 +5300,8 @@
               <speaker>Cal. </speaker>
               <p>No, I'me your Prince's murthresse. </p>
             </sp>
-            <sp who="#eng000041-galeotto #eng000041-valenzo #eng000041-contareno #eng000041-gonzales" xml:id="eng000041-e133940">
+            <sp who="#eng000041-galeotto #eng000041-valenzo #eng000041-contareno #eng000041-gonzales"
+                      xml:id="eng000041-e133940">
               <speaker>Omnes. </speaker>
               <p>How? </p>
             </sp>
@@ -6064,7 +6066,8 @@
               <speaker>Val. </speaker>
               <p>Yes, and Felicia too. </p>
             </sp>
-            <sp who="#eng000041-galeotto #eng000041-valenzo #eng000041-contareno #eng000041-gonzales" xml:id="eng000041-e138770">
+            <sp who="#eng000041-galeotto #eng000041-valenzo #eng000041-contareno #eng000041-gonzales"
+                      xml:id="eng000041-e138770">
               <speaker>Omnes. </speaker>
               <p>All slaine; by what dire hand? </p>
             </sp>
@@ -6107,6 +6110,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

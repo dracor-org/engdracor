@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000275" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000275" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -180,7 +180,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000275" passive="http://www.wikidata.org/entity/Q7727415"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000275"
+                   passive="http://www.wikidata.org/entity/Q7727415"/>
     </listRelation>
   </standOff>
   <text>
@@ -532,7 +534,8 @@
             <speaker>Hen: </speaker>
             <l>Are not his treasons haynous? </l>
           </sp>
-          <sp who="#eng000275-chancelor #eng000275-laffin #eng000275-d-escures #eng000275-janin" xml:id="eng000275-e102960">
+          <sp who="#eng000275-chancelor #eng000275-laffin #eng000275-d-escures #eng000275-janin"
+                   xml:id="eng000275-e102960">
             <speaker>All: </speaker>
             <l>— Most abhord; </l>
           </sp>
@@ -3057,7 +3060,8 @@
             <l>Then his owne subiects, in his royall guarde: </l>
             <l>What then conclude your censures? </l>
           </sp>
-          <sp who="#eng000275-guard #eng000275-harlay #eng000275-potiers" xml:id="eng000275-e122230">
+          <sp who="#eng000275-guard #eng000275-harlay #eng000275-potiers"
+                   xml:id="eng000275-e122230">
             <speaker>Omnes. </speaker>
             <l>He must dye. </l>
           </sp>
@@ -3888,6 +3892,5 @@
         <pb xml:id="eng000275-067-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

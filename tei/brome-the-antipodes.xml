@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000262" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000262" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -224,10 +224,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000262" passive="http://www.wikidata.org/entity/Q7713946"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000262"
+                   passive="http://www.wikidata.org/entity/Q7713946"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000262-e100030">
         <pb type="blank" xml:id="eng000262-001-a"/>
@@ -2659,7 +2661,8 @@
         <div n="9" type="scene" xml:id="eng000262-e116260">
           <head>Act. 2. Scene. 9. </head>
           <stage xml:id="eng000262-e116270">Enter three old men with sachells, &amp;c. </stage>
-          <sp who="#eng000262-old-man-1 #eng000262-old-man-2 #eng000262-old-man-3" xml:id="eng000262-e116280">
+          <sp who="#eng000262-old-man-1 #eng000262-old-man-2 #eng000262-old-man-3"
+                   xml:id="eng000262-e116280">
             <speaker>All 3. </speaker>
             <p>Domine, domine duster. Three knaves in a cluster, &amp;c. </p>
           </sp>
@@ -2691,7 +2694,8 @@
             <l>Away with 'hem I say; and tell their Schoole-mistris, </l>
             <l>What trewants they are, and bid her pay 'hem soundly. </l>
           </sp>
-          <sp who="#eng000262-old-man-1 #eng000262-old-man-2 #eng000262-old-man-3" xml:id="eng000262-e116460">
+          <sp who="#eng000262-old-man-1 #eng000262-old-man-2 #eng000262-old-man-3"
+                   xml:id="eng000262-e116460">
             <speaker>All 3. </speaker>
             <p>O, O, O. </p>
           </sp>
@@ -2770,7 +2774,8 @@
             <l>Hold up your heads and thanke the gentleman </l>
             <l>Like schollers, with your heeles now. </l>
           </sp>
-          <sp who="#eng000262-old-man-1 #eng000262-old-man-2 #eng000262-old-man-3" xml:id="eng000262-e116940">
+          <sp who="#eng000262-old-man-1 #eng000262-old-man-2 #eng000262-old-man-3"
+                   xml:id="eng000262-e116940">
             <speaker>All 3. </speaker>
             <l>Gratias, Gratias, Gratias.— <stage xml:id="eng000262-e116960">Exit. </stage>
             </l>
@@ -5448,7 +5453,8 @@
             <speaker>Byp. </speaker>
             <p>Mercy great King. </p>
           </sp>
-          <sp who="#eng000262-byplay #eng000262-projectors #eng000262-doctor" xml:id="eng000262-e133820">
+          <sp who="#eng000262-byplay #eng000262-projectors #eng000262-doctor"
+                   xml:id="eng000262-e133820">
             <speaker>Omnes. </speaker>
             <p>O mercy. </p>
           </sp>

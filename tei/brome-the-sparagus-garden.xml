@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000264" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000264" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -170,10 +170,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000264" passive="http://www.wikidata.org/entity/Q7765685"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000264"
+                   passive="http://www.wikidata.org/entity/Q7765685"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000264-e100030">
         <pb type="blank" xml:id="eng000264-001-a"/>
@@ -332,7 +334,8 @@
           <speaker>Touch. </speaker>
           <p>Oh you are most friendly welcome good Mr. Gilbert Gilawire, and Mr. Walter Chamlet I take yee to be. </p>
         </sp>
-        <sp who="#eng000264-touchwood #eng000264-gilbert" xml:id="eng000264-e101230">
+        <sp who="#eng000264-touchwood #eng000264-gilbert"
+                xml:id="eng000264-e101230">
           <speaker>Ambo. </speaker>
           <p>The same sir at your service. </p>
         </sp>
@@ -5268,7 +5271,8 @@
               <speaker>Coult. </speaker>
               <p>I hope he'll veeze you, and make your zilken jacket hum: well zed Mr. Thomas to 'hem, and to 'hem all Ile zide yee. </p>
             </sp>
-            <sp who="#eng000264-gilbert #eng000264-walter #eng000264-sam" xml:id="eng000264-e128480">
+            <sp who="#eng000264-gilbert #eng000264-walter #eng000264-sam"
+                      xml:id="eng000264-e128480">
               <speaker>Gil. Wat. Sam. </speaker>
               <p>Mr. Thomas does he call him? </p>
             </sp>
@@ -5308,7 +5312,8 @@
               <speaker>Tom. </speaker>
               <p>But now I thinke on't Coulter, we'll have all againe, &amp; by a quieter way; and teach 'hem to licke hony, catch birds with Chaffe, or go to plow with dogs. </p>
             </sp>
-            <sp who="#eng000264-hoyden #eng000264-gilbert #eng000264-walter #eng000264-sam #eng000264-springe #eng000264-coulter #eng000264-mony-lacks" xml:id="eng000264-e128680">
+            <sp who="#eng000264-hoyden #eng000264-gilbert #eng000264-walter #eng000264-sam #eng000264-springe #eng000264-coulter #eng000264-mony-lacks"
+                      xml:id="eng000264-e128680">
               <speaker>All. </speaker>
               <p>Ha, ha, ha. </p>
             </sp>

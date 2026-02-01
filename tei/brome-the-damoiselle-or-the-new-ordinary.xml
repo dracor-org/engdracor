@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000367" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000367" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -143,7 +143,7 @@
       </event>
     </listEvent>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000367-e100030">
         <pb type="blank" xml:id="eng000367-001-a"/>
@@ -1638,7 +1638,8 @@
               <l>Yet I may find a time.— <stage xml:id="eng000367-e109720">Exit: </stage>
               </l>
             </sp>
-            <sp who="#eng000367-valentine #eng000367-oliver #eng000367-amphilus" xml:id="eng000367-e109730">
+            <sp who="#eng000367-valentine #eng000367-oliver #eng000367-amphilus"
+                      xml:id="eng000367-e109730">
               <speaker>All. </speaker>
               <l>Ha ha ha.— </l>
             </sp>
@@ -6100,6 +6101,5 @@
         <pb xml:id="eng000367-054-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

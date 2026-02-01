@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000293" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000293" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -174,10 +174,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000293" passive="http://www.wikidata.org/entity/Q7718689"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000293"
+                   passive="http://www.wikidata.org/entity/Q7718689"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000293-e100030">
         <pb type="blank" xml:id="eng000293-001-a"/>
@@ -275,7 +277,8 @@
               <speaker>Arm. </speaker>
               <l>Speranza. </l>
             </sp>
-            <sp who="#eng000293-zenarchus #eng000293-tymethes #eng000293-mazeres #eng000293-fidelio #eng000293-amorpho #eng000293-sextorio #eng000293-lodovico" xml:id="eng000293-e100810">
+            <sp who="#eng000293-zenarchus #eng000293-tymethes #eng000293-mazeres #eng000293-fidelio #eng000293-amorpho #eng000293-sextorio #eng000293-lodovico"
+                      xml:id="eng000293-e100810">
               <speaker>Omn. </speaker>
               <l>Long live Armatrites King of Lydia. </l>
             </sp>
@@ -660,7 +663,8 @@
               <speaker>Lap. </speaker>
               <l>Who ere bore them monsters begot̄ them; mercilesse damn'd villaines. </l>
             </sp>
-            <sp who="#eng000293-soldier-1 #eng000293-soldier-2" xml:id="eng000293-e103430">
+            <sp who="#eng000293-soldier-1 #eng000293-soldier-2"
+                      xml:id="eng000293-e103430">
               <speaker>Both. </speaker>
               <l>Hold, hold, sir; we are souldiers, but doe not love to fight. <stage xml:id="eng000293-e103450">Exeunt. </stage>
               </l>
@@ -1521,7 +1525,8 @@
               <speaker>Clo. </speaker>
               <p>Why those that are great ones and more than our matches we'le let goe, and the lesser wolves we will hang: shall it be soo? </p>
             </sp>
-            <sp who="#eng000293-soldier-1 #eng000293-soldier-2" xml:id="eng000293-e108730">
+            <sp who="#eng000293-soldier-1 #eng000293-soldier-2"
+                      xml:id="eng000293-e108730">
               <speaker>Both. </speaker>
               <p>I, I, each man to his stand. <stage xml:id="eng000293-e108750">Exeunt. </stage>
               </p>
@@ -2347,7 +2352,8 @@
               <l>On this booke your vowes arrive, </l>
               <l>And as in truth in favour thrive. </l>
             </sp>
-            <sp who="#eng000293-zenarchus #eng000293-tymethes #eng000293-mazeres #eng000293-fidelio #eng000293-amorpho #eng000293-sextorio #eng000293-lodovico" xml:id="eng000293-e113670">
+            <sp who="#eng000293-zenarchus #eng000293-tymethes #eng000293-mazeres #eng000293-fidelio #eng000293-amorpho #eng000293-sextorio #eng000293-lodovico"
+                      xml:id="eng000293-e113670">
               <speaker>Omn. </speaker>
               <l>We wish no higher, so we swearen. </l>
             </sp>
@@ -3602,7 +3608,8 @@
               <l>A dearer place hath beene thy Taster; hoa, Sertorio! Lodovico </l>
             </sp>
             <stage xml:id="eng000293-e121870">They Enter. </stage>
-            <sp who="#eng000293-sertorio #eng000293-lodovico" xml:id="eng000293-e121880">
+            <sp who="#eng000293-sertorio #eng000293-lodovico"
+                      xml:id="eng000293-e121880">
               <speaker>Ambo. </speaker>
               <l>Here sir. </l>
             </sp>
@@ -4457,6 +4464,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

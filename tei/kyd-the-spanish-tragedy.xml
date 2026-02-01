@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000098" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000098" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -192,10 +192,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000098" passive="http://www.wikidata.org/entity/Q1115255"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000098"
+                   passive="http://www.wikidata.org/entity/Q1115255"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000098-e100030">
         <pb type="blank" xml:id="eng000098-001-a"/>
@@ -5264,6 +5266,5 @@
         <pb xml:id="eng000098-043-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

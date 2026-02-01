@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000075" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000075" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -227,7 +227,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000075" passive="http://www.wikidata.org/entity/Q11036237"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000075"
+                   passive="http://www.wikidata.org/entity/Q11036237"/>
     </listRelation>
   </standOff>
   <text>
@@ -1501,7 +1503,8 @@
             <speaker>ARR. </speaker>
             <l>A noble prince! </l>
           </sp>
-          <sp who="#eng000075-arruntius #eng000075-tiberius #eng000075-cordus #eng000075-sabinus #eng000075-natta #eng000075-satrius" xml:id="eng000075-e109010">
+          <sp who="#eng000075-arruntius #eng000075-tiberius #eng000075-cordus #eng000075-sabinus #eng000075-natta #eng000075-satrius"
+                   xml:id="eng000075-e109010">
             <speaker>ALL. </speaker>
             <l>A CASTOR, a CASTOR, a CASTOR, a CASTOR! </l>
             <stage xml:id="eng000075-e109030">SEIANVS. </stage>
@@ -4937,8 +4940,14 @@
             <l>Are, with their leaders, made at his deuotion; </l>
             <l>That almost all the Senate are his creatures, </l>
             <l>Or hold on him their maine dependances, </l>
-            <pb n="412" subtype="duplicate" type="blank" xml:id="eng000075-225-a"/>
-            <pb n="413" subtype="duplicate" type="blank" xml:id="eng000075-225-b"/>
+            <pb n="412"
+                      subtype="duplicate"
+                      type="blank"
+                      xml:id="eng000075-225-a"/>
+            <pb n="413"
+                      subtype="duplicate"
+                      type="blank"
+                      xml:id="eng000075-225-b"/>
             <pb xml:id="eng000075-226-a"/>
 <!-- start insert      226a    -->
             <l>Either for benefit, or hope, or feare; </l>

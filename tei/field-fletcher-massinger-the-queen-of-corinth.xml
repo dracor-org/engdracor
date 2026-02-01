@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000355" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000355" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -197,10 +197,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000355" passive="http://www.wikidata.org/entity/Q7759009"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000355"
+                   passive="http://www.wikidata.org/entity/Q7759009"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000355-e100030">
         <pb n="eebo_img-343" xml:id="eng000355-694"/>
@@ -2677,7 +2679,8 @@
               <l>Do you thinke I would, </l>
               <l>Such noted men as you? </l>
             </sp>
-            <sp who="#eng000355-onos #eng000355-uncle #eng000355-tutor" xml:id="eng000355-e116610">
+            <sp who="#eng000355-onos #eng000355-uncle #eng000355-tutor"
+                      xml:id="eng000355-e116610">
               <speaker>Onos, Unc. Tut. </speaker>
               <l>We are your Servants. <stage xml:id="eng000355-e116630">Exeunt. </stage>
               </l>
@@ -3092,7 +3095,8 @@
               <l>Our humble, humble poore Petitions are, </l>
               <l>That we may hold our places. </l>
             </sp>
-            <sp who="#eng000355-onos #eng000355-uncle #eng000355-tutor #eng000355-sosicles #eng000355-eraton" xml:id="eng000355-e119260">
+            <sp who="#eng000355-onos #eng000355-uncle #eng000355-tutor #eng000355-sosicles #eng000355-eraton"
+                      xml:id="eng000355-e119260">
               <speaker>All. </speaker>
               <l>May we? </l>
             </sp>
@@ -4098,7 +4102,8 @@
               <l>(They are not farre off I am sure) and we will blancket </l>
               <l>You untill you pisse againe. </l>
             </sp>
-            <sp who="#eng000355-onos #eng000355-uncle #eng000355-tutor" xml:id="eng000355-e126400">
+            <sp who="#eng000355-onos #eng000355-uncle #eng000355-tutor"
+                      xml:id="eng000355-e126400">
               <speaker>All. </speaker>
               <l>Nay, we will sweare Sir. </l>
             </sp>
@@ -4116,7 +4121,8 @@
               <l>Wine and Tobacco wheresoe're you meet, </l>
               <l>And the best meat if he can stay. </l>
             </sp>
-            <sp who="#eng000355-onos #eng000355-uncle #eng000355-tutor" xml:id="eng000355-e126540">
+            <sp who="#eng000355-onos #eng000355-uncle #eng000355-tutor"
+                      xml:id="eng000355-e126540">
               <speaker>All. </speaker>
               <l>We sweare it loyally. </l>
             </sp>
@@ -5692,7 +5698,8 @@
               <l>It is a blessing which I durst not hope for, </l>
               <l>But with all joy receive. </l>
             </sp>
-            <sp who="#eng000355-euphanes #eng000355-crates #eng000355-leonidas #eng000355-beliza #eng000355-lords #eng000355-agenor #eng000355-conon #eng000355-marshal #eng000355-theanor #eng000355-crates #eng000355-sosicles #eng000355-eraton" xml:id="eng000355-e137850">
+            <sp who="#eng000355-euphanes #eng000355-crates #eng000355-leonidas #eng000355-beliza #eng000355-lords #eng000355-agenor #eng000355-conon #eng000355-marshal #eng000355-theanor #eng000355-crates #eng000355-sosicles #eng000355-eraton"
+                      xml:id="eng000355-e137850">
               <speaker>All. </speaker>
               <l>We all applaud it. </l>
             </sp>
@@ -5707,6 +5714,5 @@
         <trailer>Here endeth the Queene of Corinth. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

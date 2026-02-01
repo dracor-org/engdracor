@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000284" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000284" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -160,7 +160,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000284" passive="http://www.wikidata.org/entity/Q7774771"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000284"
+                   passive="http://www.wikidata.org/entity/Q7774771"/>
     </listRelation>
   </standOff>
   <text>
@@ -2608,7 +2610,8 @@
               <l>(Great Bride and Bridegroome) you shall amply part </l>
               <l>Betwixt your free loues, and forgoe it neuer. </l>
             </sp>
-            <sp who="#eng000284-laodice #eng000284-sthenia #eng000284-argus #eng000284-tharsalio #eng000284-eudora #eng000284-cynthia" xml:id="eng000284-e118760">
+            <sp who="#eng000284-laodice #eng000284-sthenia #eng000284-argus #eng000284-tharsalio #eng000284-eudora #eng000284-cynthia"
+                      xml:id="eng000284-e118760">
               <speaker>Omn. </speaker>
               <l>Thankes to great Hymen, and faire Syluanes euer. </l>
             </sp>
@@ -4555,6 +4558,5 @@
         <pb xml:id="eng000284-040-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

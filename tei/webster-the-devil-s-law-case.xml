@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000246" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000246" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -170,10 +170,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000246" passive="http://www.wikidata.org/entity/Q7729928"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000246"
+                   passive="http://www.wikidata.org/entity/Q7729928"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000246-e100030">
         <pb type="blank" xml:id="eng000246-001-a"/>
@@ -2796,7 +2798,8 @@
             <l>By the Law of Alliance, be his onely heyre, </l>
             <l>To practise his good and yours. </l>
           </sp>
-          <sp who="#eng000246-1-surgeon #eng000246-2-surgeon" xml:id="eng000246-e117370">
+          <sp who="#eng000246-1-surgeon #eng000246-2-surgeon"
+                   xml:id="eng000246-e117370">
             <speaker>Both. </speaker>
             <l>How, I pray sir? </l>
           </sp>
@@ -6549,6 +6552,5 @@
         <trailer>FINIS. </trailer>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000403" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000403" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -155,10 +155,12 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000403" passive="http://www.wikidata.org/entity/Q7736139"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000403"
+                   passive="http://www.wikidata.org/entity/Q7736139"/>
     </listRelation>
   </standOff>
-  <text xml:lang="eng">
+  <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000403-e100030">
         <pb type="blank" xml:id="eng000403-001-a"/>
@@ -2456,7 +2458,8 @@
             <l>Be brought to something, may deserve the Gallies. </l>
             <l>Follow your leaders Mirmidons. </l>
           </sp>
-          <sp who="#eng000403-bernardo #eng000403-marcello" xml:id="eng000403-e114980">
+          <sp who="#eng000403-bernardo #eng000403-marcello"
+                   xml:id="eng000403-e114980">
             <speaker>Both. </speaker>
             <p>We attend. </p>
             <stage xml:id="eng000403-e115000">Exeunt. </stage>
@@ -3279,7 +3282,8 @@
             <speaker>Mal. </speaker>
             <p>I'le have half. </p>
           </sp>
-          <sp who="#eng000403-bernardo #eng000403-marcello" xml:id="eng000403-e120470">
+          <sp who="#eng000403-bernardo #eng000403-marcello"
+                   xml:id="eng000403-e120470">
             <speaker>B. M. </speaker>
             <p>A match. </p>
           </sp>
@@ -5092,7 +5096,8 @@
             <p>Sure this is gold. </p>
             <stage xml:id="eng000403-e132660">Enter 3. gentlemen. </stage>
           </sp>
-          <sp who="#eng000403-gentlemen #eng000403-gentleman-1 #eng000403-gentleman-2 #eng000403-gentleman-3" xml:id="eng000403-e132670">
+          <sp who="#eng000403-gentlemen #eng000403-gentleman-1 #eng000403-gentleman-2 #eng000403-gentleman-3"
+                   xml:id="eng000403-e132670">
             <speaker>Omnes. </speaker>
             <p>Florelli. </p>
           </sp>
@@ -5710,6 +5715,5 @@
         <pb xml:id="eng000403-043-b"/>
       </div>
     </body>
-    <back/>
   </text>
 </TEI>

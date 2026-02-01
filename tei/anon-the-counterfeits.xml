@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000514" xml:lang="eng">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000514" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -58,7 +58,9 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/eng000514" passive="http://www.wikidata.org/entity/Q107556931"/>
+      <relation name="wikidata"
+                   active="https://dracor.org/entity/eng000514"
+                   passive="http://www.wikidata.org/entity/Q107556931"/>
     </listRelation>
   </standOff>
   <text>
@@ -1779,7 +1781,7 @@
               <p>The name of such a Remedy makes me forget my Disease; and she is now my onely Friend, as well as Mistress. </p>
             </sp>
             <stage xml:id="eng000514-e16000">
-              <foreign xml:lang="lat">Exeunt. Manet </foreign>Fabio. </stage>
+              <foreign xml:lang="la">Exeunt. Manet </foreign>Fabio. </stage>
             <sp xml:id="eng000514-e16020">
               <speaker>Fab. </speaker>
               <p>Bating some odd hundreds, and so forth. </p>
