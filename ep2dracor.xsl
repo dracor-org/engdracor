@@ -302,12 +302,12 @@
     <xsl:variable name="ep-title" select="//tei:xenoData/ep:epHeader/ep:title[1]"/>
     <xsl:choose>
       <xsl:when test="$meta/@title">
-        <title type="main">
+        <title>
           <xsl:value-of select="$meta/@title"/>
         </title>
       </xsl:when>
       <xsl:when test="$ep-title">
-        <title type="main">
+        <title>
           <xsl:value-of select="normalize-space($ep-title)"/>
         </title>
       </xsl:when>
