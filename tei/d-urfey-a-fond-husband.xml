@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000484" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000484"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A36975.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a36/src/master/A36975.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -31,6 +33,16 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>D'Urfey, Thomas, </author>
+          <title>A fond husband, or, The plotting sisters a comedy as it is acted at His Royal Highness the Duke's Theatre / written by Tho. Durfey.</title>
+          <publisher>Printed by T.N. for James Magnes and Rich. Bentley,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1677</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A36975.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000288" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000288"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A19183.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a19/src/master/A19183.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Heywood, Thomas, </author>
+          <author>Cooke, Jo., fl. 1614,</author>
+          <title type="_245">A pleasant conceited comedie, wherein is shewed, how a man may chuse a good wife from a bad. As it hath bene sundry times acted by the Earle of Worcesters seruants.</title>
+          <publisher>Printed [by T. Creede] for Mathew Lawe, and are to be solde at his shop in Paules Church-yard, neere vnto S. Augustines gate, at the signe of the Foxe,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1602</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A19183.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

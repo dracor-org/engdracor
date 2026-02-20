@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000095" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000095"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,11 +22,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A04888.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a04/src/master/A04888.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Kemp, William, fl. </author>
+          <title type="_245">A most pleasant and merie nevv comedie, intituled, A knacke to knowe a knaue. Newlie set foorth, as it hath sundrie tymes bene played by Ed. Allen and his companie. VVith Kemps applauded merrimentes of the men of Goteham, in receiuing the King into Goteham.</title>
+          <publisher>By [i.e. for] Richard Iones, dwelling at the signe of the Rose and Crowne, nere Holborne bridge,</publisher>
+          <pubPlace>Imprinted at London</pubPlace>
+          <date>1594</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A04888.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

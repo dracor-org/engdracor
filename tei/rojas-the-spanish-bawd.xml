@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000732" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000732"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A18331.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a18/src/master/A18331.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Rojas, Fernando de, </author>
+          <author>Mabbe, James, 1572-1642?,</author>
+          <title type="_245">The Spanish bavvd, represented in Celestina: or, The tragicke-comedy of Calisto and Melibea. Wherein is contained, besides the pleasantnesse and sweetnesse of the stile, many philosophicall sentences, and profitable instructions necessary for the younger sort: shewing the deceits and subtilties housed in the bosomes of false seruants, and cunny-catching bawds.</title>
+          <publisher>Printed by I[ohn] B[eale] and are to be sold by Robert Allot at the signe of the Beare in Pauls Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1631</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A18331.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

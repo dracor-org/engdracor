@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000247" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000247"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A14872.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a14/src/master/A14872.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Webster, John, 1580?-1625?</author>
+          <title type="_245">The tragedy of the Dutchesse of Malfy. As it was presented priuatly, at the Black-Friers; and publiquely at the Globe, by the Kings Maiesties Seruants. The perfect and exact coppy, with diuerse things printed, that the length of the play would not beare in the presentment. VVritten by Iohn Webster.</title>
+          <publisher>Printed by Nicholas Okes, for Iohn Waterson, and are to be sold at the signe of the Crowne, in Paules Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1623</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A14872.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

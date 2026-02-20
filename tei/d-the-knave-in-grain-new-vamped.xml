@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000292" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000292"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,11 +24,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A19750.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a19/src/master/A19750.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>J. D., Gent.</author>
+          <author>Day, John, 1574-1640?,</author>
+          <title type="_245">The knave in graine, new vampt. A witty comedy, acted at at the Fortune many dayes together with great applause. Written by J.D. Gent.</title>
+          <publisher>Printed by I[ohn] O[kes] and are to be sold by Iohn Nicholson at his shop under St. Martins Church neare Ludgate,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1640</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A19750.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

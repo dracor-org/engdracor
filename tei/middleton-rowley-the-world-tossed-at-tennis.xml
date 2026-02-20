@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000167" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000167"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,11 +32,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07525.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07525.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Middleton, Thomas, </author>
+          <author>Rowley, William, 1585?-1642?,</author>
+          <title type="_245">A courtly masque: the deuice called the vvorld tost at tennis. As it hath beene diuers times presented to the contentment of many noble and worthy spectators, by the prince his seruants. Inuented, and set downe, by Tho: Middleton &amp; William Rowley gent.</title>
+          <publisher>Printed by George Purslowe, and are to be sold by Edward Wright, at Christ-Church Gate,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1620</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07525.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

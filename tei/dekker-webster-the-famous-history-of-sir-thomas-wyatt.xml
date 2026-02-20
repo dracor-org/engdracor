@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000319" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000319"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,11 +32,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A20096.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a20/src/master/A20096.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Dekker, Thomas, ca. </author>
+          <author>Webster, John, 1580?-1625?.</author>
+          <title type="_245">The famous history of Sir Thomas VVyat. With the coronation of Queen Mary, and the coming in of King Philip. As it was plaied by the Queens Maiesties Seruants. Written by Thomas Dickers, and Iohn Webster.</title>
+          <publisher>Printed by E[dward] A[llde] for Thomas Archer, and are to be solde at his shop in the Popes-head Pallace nere the Royall Exchange,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1607</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A20096.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

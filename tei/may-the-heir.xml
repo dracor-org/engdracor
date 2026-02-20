@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000152" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000152"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07326.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07326.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>May, Thomas, </author>
+          <title type="_245">The heire an excellent comedie. As it was lately acted by the Company of the Reuels. Writren [sic] by T.M. Gent.</title>
+          <publisher>Printed by B[ernard] A[lsop] for Thomas Iones, and are to bee sold at his shop in Chancery-lane, ouer-against the Roles, and in Westminster Hall,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1622</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07326.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

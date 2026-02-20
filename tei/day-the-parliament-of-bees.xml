@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000374" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000374"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A37285.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a37/src/master/A37285.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Day, John, 1574-1640?</author>
+          <title type="_245">The parliament of bees, with their proper characters. Or a bee-hive furnisht with twelve hony-combes, as pleasant as profitable. Being an allegoricall description of the actions of good and bad men in these our daies. By John Daye, sometimes student of Caius Colledge in Cambridge.</title>
+          <publisher>printed for William Lee, and are to be sold at his shop in Pauls Church-yard neere Pauls Chaine,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1641</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A37285.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

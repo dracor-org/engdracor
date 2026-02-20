@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000517" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000517"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A51115.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a51/src/master/A51115.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -31,6 +33,18 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Ravenscroft, Edward, 1654?</author>
+          <author>Molière, 1622-1673. Bourgeois gentihomme.</author>
+          <author>Molière, 1622-1673. Monsieur de Pourceaugnac.</author>
+          <title>The citizen turn'd gentleman a comedy acted at the Dvke's theatre / by Edw. Ravenscroft.</title>
+          <publisher>Printed for Thomas Dring ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1672</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A51115.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

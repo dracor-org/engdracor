@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000620" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000620"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,8 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A55543.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a55/src/master/A55543.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -28,6 +30,20 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Powell, George, 1658?</author>
+          <author>Purcell, Daniel, 1660?</author>
+          <author>Verbruggen, John, d. 1708?</author>
+          <author>Tate, Nahum, 1652-1715. Brutus of Alba.</author>
+          <title>A new opera called Brutus of Alba, or, Augusta's triumph as it is acted at the theatre in Dorset-Garden, by His Majesty's servants.</title>
+          <title>Brutus of Alba</title>
+          <publisher>Printed by W. Onley for Sam. Briscoe ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>MDCXCVII [1697]</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A55543.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

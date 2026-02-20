@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000609" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000609"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A05801.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a05/src/master/A05801.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -31,6 +33,20 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>R. A., Gent.</author>
+          <author>Armin, Robert, fl. 1610, attributed name.</author>
+          <author>Anton, Robert, b. 1584 or 5, attributed name.</author>
+          <author>Aylett, Robert, 1583-1655?, attributed name.</author>
+          <title>The valiant VVelshman, or The true chronicle history of the life and valiant deedes of Caradoc the Great, King of Cambria, now called Wales As it hath beene sundry times acted by the Prince of Wales his seruants. Written by R.A. Gent.</title>
+          <title>Valiant Welshman.</title>
+          <publisher>Imprinted by George Purslowe for Robert Lownes, and are to be solde at his shoppe at the little north dore of Paules,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1615</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A05801.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

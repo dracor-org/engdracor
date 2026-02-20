@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000312" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000312"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A20066.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a20/src/master/A20066.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Dekker, Thomas, ca. </author>
+          <title type="_245">If it be not good, the Diuel is in it. A nevv play, as it hath bin lately acted, vvith great applause, by the Queenes Maiesties Seruants: at the Red Bull. Written by Thomas Dekker.</title>
+          <publisher>Printed [by Thomas Creede] for I[ohn] T[rundle] And are to be sold by Edward Marchant, at his shop against the Crosse in Pauls Church-yarde,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1612</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A20066.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

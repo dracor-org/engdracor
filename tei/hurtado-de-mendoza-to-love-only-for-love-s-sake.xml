@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000506" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000506"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A45225.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a45/src/master/A45225.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -31,6 +33,18 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Hurtado de Mendoza, Antonio, </author>
+          <author>Fanshawe, Richard, Sir, </author>
+          <title>Querer por solo querer To love only for love sake : a dramatick romance : represented at Aranjuez, before the King and Queen of Spain, to celebrate the birthday of that King, by the Meninas, which are a sett of ladies, in the nature of ladies of honour in that court, children in years, but higher in degree (being many of them daughters and heyres to grandees of Spain) than the ordinary ladies of honour, attending likewise that queen / written in Spanish by Don Antonio de Mendoza 1623 ; paraphrased in English, anno 1654 ; together with the Festivals of Aranwhez.</title>
+          <title>Querer por solo querer. English</title>
+          <publisher>Printed by William Godbid, and are to be sold by Moses Pitt ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1671</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A45225.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

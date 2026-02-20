@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000314" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000314"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,11 +39,24 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A20077.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a20/src/master/A20077.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Dekker, Thomas, ca. </author>
+          <author>Chettle, Henry, d. 1607?.</author>
+          <author>Haughton, William, </author>
+          <author>Boccaccio, Giovanni, </author>
+          <title type="_245">The pleasant comodie of patient Grisill. As it hath beene sundrie times lately plaid by the right honorable the Earle of Nottingham (Lord high Admirall) his seruants.</title>
+          <title type="add">Decamerone.</title>
+          <publisher>Imprinted [by E. Allde] for Henry Rocket, and are to be solde at the long shop vnder S. Mildreds Church in the Poultry,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1603</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A20077.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

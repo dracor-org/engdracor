@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000234" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000234"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A12969.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a12/src/master/A12969.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Stevenson, William, d. 1575,</author>
+          <author>Bridges, John, d. 1618,</author>
+          <title type="_245">A ryght pithy, pleasaunt and merie comedie: intytuled Gammer gurtons nedle played on stage, not longe a go in Christes Colledge in Cambridge. Made by Mr. S. Mr. of Art.</title>
+          <publisher>In Fleetestreat beneth the Conduit at the signe of S. Iohn Enangelist [sic] by Thomas Colwell,</publisher>
+          <pubPlace>Imprynted at London</pubPlace>
+          <date>[1575]</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A12969.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

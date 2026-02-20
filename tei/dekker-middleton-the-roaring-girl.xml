@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000166" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000166"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,11 +32,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07524.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07524.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Middleton, Thomas, </author>
+          <author>Dekker, Thomas, ca. </author>
+          <title type="_245">The roaring girle. Or Moll Cut-Purse. As it hath lately beene acted on the Fortune-stage by the Prince his Players. Written by T. Middleton and T. Dekkar.</title>
+          <publisher>[By Nicholas Okes] for Thomas Archer, and are to be sold at his shop in Popes head-pallace, neere the Royall Exchange,</publisher>
+          <pubPlace>Printed at London</pubPlace>
+          <date>1611</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07524.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

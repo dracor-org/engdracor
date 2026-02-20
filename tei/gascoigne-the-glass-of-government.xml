@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000023" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000023"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A01520.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a01/src/master/A01520.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Gascoigne, George, 1542?</author>
+          <title type="_245">The glasse of gouernement. A tragicall comedie so entituled, bycause therein are handled aswell the rewardes for vertues, as also the punishment for vices. Done by George Gascoigne Esquier. 1575. Seen and allowed, according to the order appointed in the Queenes maiesties iniunctions.</title>
+          <publisher>[By Henry Middleton] for C. Barker,</publisher>
+          <pubPlace>Imprinted at London</pubPlace>
+          <date>[1575]</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A01520.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

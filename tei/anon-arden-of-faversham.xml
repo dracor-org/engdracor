@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000324" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000324"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,12 +22,27 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A20951.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a20/src/master/A20951.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a
       Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Shakespeare, William, 1564-1616,</author>
+          <author>Kyd, Thomas, 1558-1594,</author>
+          <title type="_245">The lamentable and true tragedie of M. Arden of Feuersham in Kent. Who was
+       most wickedlye murdered, by the meanes of his disloyall and wanton wyfe, who for the loue she
+       bare to one Mosbie, hyred two desperat ruffins Blackwill and Shakbag, to kill him. VVherin is
+       shewed the great malice and discimulation of a wicked woman, the vnsatiable desire of filthie
+       lust and the shamefull end of all murderers.</title>
+          <publisher>[By E. Allde] for Edward White, dwelling at the lyttle north dore of Paules Church
+       at the signe of the Gun,</publisher>
+          <pubPlace>Imprinted at London</pubPlace>
+          <date>1592</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A20951.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

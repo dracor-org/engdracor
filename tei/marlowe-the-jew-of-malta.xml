@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000123" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000123"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A06991.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a06/src/master/A06991.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Marlowe, Christopher, </author>
+          <author>Heywood, Thomas, d. 1641,</author>
+          <title type="_245">The famous tragedy of the rich Ievv of Malta. As it vvas playd before the King and Queene, in his Majesties theatre at White-hall, by her Majesties Servants at the Cock-pit. Written by Christopher Marlo.</title>
+          <publisher>Printed by I[ohn] B[eale] for Nicholas Vavasour, and are to be sold at his shop in the Inner-Temple, neere the Church,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1633</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A06991.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

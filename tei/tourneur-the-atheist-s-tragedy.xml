@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000239" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000239"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A13840.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a13/src/master/A13840.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Tourneur, Cyril, 1575?</author>
+          <title type="_245">The atheist's tragedie: or The honest man's reuenge. As in diuers places it hath often beene acted. Written by Cyril Tourneur.</title>
+          <publisher>Printed [by Thomas Snodham] for Iohn Stepneth, and Richard Redmer, and are to be sold at their shops at the west end of Paules,</publisher>
+          <pubPlace>At London</pubPlace>
+          <date>1611</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A13840.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

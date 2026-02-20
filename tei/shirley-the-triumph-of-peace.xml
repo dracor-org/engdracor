@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000433" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000433"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/B07101.xml</idno>
+          <ref target="https://bitbucket.org/eads004/b07/src/master/B07101.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Shirley, James, </author>
+          <title type="_245">The triumph of peace : A masque, presented by the foure honourable houses, or Innes of Court. Before the King and Queenes Majesties, in the Banquetting-house at White Hall, February the third, 1633. Invented and written, by James Shirley, of Grayes Inne, Gent.</title>
+          <publisher>Printed by Iohn Norton, for William Cooke, and are to be sold at his shop, neere Furnivals-Inne-gate, in Holborne,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1633 [i.e. 1634]</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/B07101.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000286" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000286"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A18596.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a18/src/master/A18596.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Chettle, Henry, d. 1607?</author>
+          <title type="_245">The tragedy of Hoffman or A reuenge for a father. As it hath bin diuers times acted with great applause, at the Phenix in Druery-lane.</title>
+          <publisher>Printed by I[ohn] N[orton] for Hugh Perry, and are to bee sold at his shop, at the signe of the Harrow in Brittaines-burse,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1631</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A18596.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000440" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000440"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A09134.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a09/src/master/A09134.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Pasqualigo, Luigi.</author>
+          <author>Munday, Anthony, 1553-1633,</author>
+          <title type="_245">Fedele and Fortunio. The deceites in loue: excellently discoursed in a very pleasaunt and fine conceited comœdie, of two Italian gentlemen. Translated out of Italian, and set downe according as it hath beene presented before the Queenes moste excellent Maiestie.</title>
+          <publisher>Printed [by John Charlewood?] for Thomas Hacket, and are to be solde at his shop in Lumberd streete, vnder the Popes head,</publisher>
+          <pubPlace>At London</pubPlace>
+          <date>Anno. 1585</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A09134.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

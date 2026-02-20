@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000056" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000056"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A03224.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a03/src/master/A03224.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Heywood, Thomas, </author>
+          <title type="_245">The first and second partes of King Edward the Fourth. Containing his mery pastime with the tanner of Tamworth, as also his loue to faire Mistrisse Shoare, her great promotion, fall and miserie, and lastly the lamentable death of both her and her husband. Likewise the besieging of London, by the bastard Falconbridge, and the valiant defence of the same by the Lord Maior and the citizens. As it hath diuers times beene publikely played by the Right Honorable the Earle of Derbie his seruants.</title>
+          <publisher>By F[elix] K[ingston] for Humfrey Lownes and Iohn Oxenbridge,</publisher>
+          <pubPlace>Imprinted at London</pubPlace>
+          <date>1600</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A03224.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

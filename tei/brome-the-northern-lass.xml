@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000263" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000263"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A16924.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a16/src/master/A16924.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Brome, Richard, d. 1652?</author>
+          <title type="_245">The northern lasse a comoedie. As it hath beene often acted with good applause, at the Globe, and Black-Fryers. By his Maiesties Servants. VVritten by Richard Brome.</title>
+          <publisher>Printed by Aug. Mathevves, and are to be sold by Nicholas Vavasour, dwelling at the little south dore of St. Pauls Church,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1632</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A16924.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

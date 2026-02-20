@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000426" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000426"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A72254.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a72/src/master/A72254.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Hausted, Peter, </author>
+          <title type="_245">The rivall friends: A comœdie, as it was acted before the King and Queens Maiesties, when out of their princely favour they were pleased to visite their Vniversitie of Cambridge, upon the 19. day of March. 1631. Cryed downe by boyes, faction, envie, and confident ignorance, approv'd by the judicious, and now exposed to the publique censure, by the author, Pet. Hausted Mr. in Artes of Queenes Colledge.</title>
+          <publisher>printed by Aug. Matthewes for Humphrey Robinson, at the signe of the three Pidgeons in Pauls Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1632</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A72254.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

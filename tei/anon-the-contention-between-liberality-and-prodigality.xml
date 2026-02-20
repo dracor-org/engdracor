@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000287" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000287"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,11 +22,19 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A19182.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a19/src/master/A19182.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <title type="_245">A pleasant comedie, shewing the contention betweene liberalitie and prodigalitie. As it was playd before her Maiestie.</title>
+          <publisher>Printed by Simon Stafford, for George Vincent: and are to be sold at the signe of the Hand in hand in Wood-street ouer against S. Michaels Church,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1602</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A19182.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

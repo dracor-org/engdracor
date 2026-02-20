@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000032" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000032"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,11 +24,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A01989.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a01/src/master/A01989.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>J.G. (John Gough), fl. </author>
+          <author>Heliodorus, of Emesa.</author>
+          <title type="_245">The strange discovery a tragi-comedy. Written by I.G. Gent.</title>
+          <publisher>Printed by E[dward] G[riffin] for William Leake, and are to be sold at his shop in Chancery-lane, joyning to the Roles,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1640</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A01989.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000204" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000204"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A11435.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a11/src/master/A11435.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Sampson, William, 1590?</author>
+          <title type="_245">The vow breaker. Or, The faire maide of Clifton. In Notinghamshire as it hath beene diuers times acted by severall companies with great applause. By William Sampson.</title>
+          <publisher>Printed by Iohn Norton and are to be sold by Roger Ball at the signe of the Golden Anchor in the Strand, neere Temple-Barre,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1636</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A11435.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

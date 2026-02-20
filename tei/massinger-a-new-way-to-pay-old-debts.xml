@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000145" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000145"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07241.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07241.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Massinger, Philip, </author>
+          <title type="_245">A new way to pay old debts a comoedie as it hath beene often acted at the Phænix in Drury-Lane, by the Queenes Maiesties seruants. The author. Philip Massinger.</title>
+          <publisher>Printed by E[lizabeth] P[urslowe] for Henry Seyle, dwelling in S. Pauls Church-yard, at the signe of the Tygers head,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>Anno. M.DC.XXXIII. [1633]</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07241.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

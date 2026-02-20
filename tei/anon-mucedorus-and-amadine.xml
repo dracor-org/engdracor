@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000377" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000377"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,11 +22,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A41993.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a41/src/master/A41993.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Greene, Robert, 1558?</author>
+          <author>Shakespeare, William, </author>
+          <title type="_245">A most pleasant comedy of Mucedorus the kings son of Valentia, and Amadine the kings daughter of Aragon with the merry conceits of Mouse : amplified with new additions, as it was acted before the Kings Majesty at Whitehall, on Shrove Sunday night by His Highness servants usually playing at the Globe.</title>
+          <publisher>Printed for Francis Coles ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>[1650?]</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A41993.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

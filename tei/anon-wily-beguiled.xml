@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000255" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000255"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,11 +22,19 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A15549.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a15/src/master/A15549.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <title type="_245">A pleasant comedie, called VVily beguilde. The chiefe actors be these: a poore scholler, a rich foole, and a knaue at a shifte.</title>
+          <publisher>Printed by H[umphrey] L[ownes] for Clement Knight: and are to be solde at his shop, in Paules Church-yard, at the signe of the Holy Lambe,</publisher>
+          <pubPlace>At London</pubPlace>
+          <date>1606</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A15549.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

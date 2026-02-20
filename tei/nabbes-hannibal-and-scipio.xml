@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000174" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000174"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07974.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07974.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Nabbes, Thomas, 1605?-1645?</author>
+          <title type="_245">Hannibal and Scipio. An historicall tragedy. Acted in the yeare 1635. by the Queenes Majesties Servants, at their private house in Drury Lane. The author Thomas Nabbes.</title>
+          <publisher>Printed by Richard Oulton for Charles Greene, and are to be sold at the white Lion in Pauls Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1637</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07974.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

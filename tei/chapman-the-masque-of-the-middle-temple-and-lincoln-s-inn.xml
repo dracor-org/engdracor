@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000279" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000279"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A18416.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a18/src/master/A18416.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Chapman, George, 1559?</author>
+          <author>Jones, Inigo, </author>
+          <title type="_245">The memorable maske of the two honorable houses or Innes of Court; the Middle Temple, and Lyncolns Inne. As it was performd before the King, at White-Hall on Shroue Munday at night; being the 15. of February. 1613. At the princely celebration of the most royall nuptialls of the Palsgraue, and his thrice gratious Princesse Elizabeth. &amp;c. With a description of their whole show; in the manner of their march on horse-backe to the Court from the Maister of the Rolls his house: with all their right noble consorts, and most showfull attendants. Inuented, and fashioned, with the ground, and speciall structure of the whole worke: by our kingdomes most artfull and ingenious architect Innigo Iones. Supplied, aplied, digested, and written, by Geo: Chapman.</title>
+          <publisher>Printed by G. Eld, for George Norton, and are to be sould at his shoppe neere Temple-bar,</publisher>
+          <pubPlace>At London</pubPlace>
+          <date>[1613]</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A18416.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000754" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000754"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A66564.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a66/src/master/A66564.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -31,6 +33,16 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Wilson, John, </author>
+          <title>Belphegor, or, The marriage of the Devil a tragi-comedy, lately acted at the Queen's Theatre in Dorset-garden / by Mr. Wilson.</title>
+          <publisher>Printed by J. L. for Luke Meredith ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1691</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A66564.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

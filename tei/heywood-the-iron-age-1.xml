@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000054" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000054"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A03223_01.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a03/src/master/A03223_01.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Heywood, Thomas, </author>
+          <title type="_245">The iron age contayning the rape of Hellen: the siege of Troy: the combate between Hector and Aiax: Hector and Troilus slayne by Achilles: Achilles slaine by Paris: Aiax and Vlisses contend for the armour of Achilles: the death of Aiax, &amp;c. Written by Thomas Heyvvood.</title>
+          <publisher>By Nicholas Okes,</publisher>
+          <pubPlace>Printed at London</pubPlace>
+          <date>1632</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A03223_01.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

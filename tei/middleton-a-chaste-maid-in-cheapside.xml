@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000158" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000158"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07493.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07493.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Middleton, Thomas, </author>
+          <title type="_245">A chast mayd in Cheape-Side¨ A pleasant conceited comedy neuer before printed. As it hath beene often acted at the Swan on the Banke-side, by the Lady Elizabeth her Seruants. By Thomas Midelton Gent.</title>
+          <publisher>Printed for Francis Constable dwelling at the signe of the Crane in Pauls Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1630</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07493.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

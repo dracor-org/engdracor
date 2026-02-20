@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000005" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000005"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,11 +32,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A00959.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a00/src/master/A00959.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Fletcher, John, </author>
+          <author>Jonson, Ben, 1573?</author>
+          <author>Massinger, Philip, </author>
+          <title type="_245">The tragœdy of Rollo Duke of Normandy. Acted by His Majesties Servants. Written by John Fletcher Gent.</title>
+          <publisher>Printed by Leonard Lichfield printer to the University,</publisher>
+          <pubPlace>Oxford</pubPlace>
+          <date>Anno 1640</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A00959.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000309" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000309"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,11 +39,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A19978.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a19/src/master/A19978.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Day, John, 1574-1640?</author>
+          <author>Rowley, William, 1585?-1642?.</author>
+          <author>Wilkins, George, fl. </author>
+          <title type="_245">The trauailes of the three English brothers. Sir Thomas Shirley Sir Anthony [Shirley] Mr. Robert [Shirley]. As it is now play'd by her Maiesties Seruants.</title>
+          <publisher>[By George Eld] for Iohn Wright, and are to bee sold at his shoppe neere Christ-Church gate,</publisher>
+          <pubPlace>Ptinted [sic] at London</pubPlace>
+          <date>1607</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A19978.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

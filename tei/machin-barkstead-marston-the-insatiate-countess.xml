@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000134" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000134"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,11 +39,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07067.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07067.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Marston, John, 1575?</author>
+          <author>Barksted, William, fl. </author>
+          <title type="_245">The insatiate countesse. A tragedie: acted at VVhite-Fryers. VVritten by Iohn Marston.</title>
+          <publisher>Printed by T[homas] S[nodham] for Thomas Archer, and are to be sold at his shop in Popes-head-Pallace, neere the Royall-Exchange,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1613</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07067.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

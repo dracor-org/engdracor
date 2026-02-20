@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000483" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000483"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A36965.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a36/src/master/A36965.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -31,6 +33,19 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>D'Urfey, Thomas, </author>
+          <author>Cervantes Saavedra, Miguel de, 1547-1616. Don Quixote.</author>
+          <author>Purcell, Henry, 1659-1695. Don Quixote.</author>
+          <title>The comical history of Don Quixote as it is acted at the Queens Theatre in Dorset-Garden, by Their Majesties servants / written by Mr. D'Urfey.</title>
+          <title>Don Quixote</title>
+          <publisher>Printed for Samuel Briscoe ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1694-1696</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A36965.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

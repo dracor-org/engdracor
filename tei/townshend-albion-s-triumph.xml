@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000241" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000241"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A13846.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a13/src/master/A13846.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Townshend, Aurelian, fl. </author>
+          <title type="_245">Albions triumph. Personated in a maske at court. By the Kings Maiestie and his lords. The Sunday after Twelfe Night. 1631.</title>
+          <publisher>Printed by Aug: Mathewes for Robert Allet [i.e. Allot] at the Blacke Beare in Pauls Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1631 [i.e. 1632]</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A13846.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

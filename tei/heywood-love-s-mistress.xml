@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000057" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000057"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,12 +25,25 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A03235.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a03/src/master/A03235.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed
             under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Heywood, Thomas, </author>
+          <title type="_245">Loves maistresse: or, The Queens masque. As it was three times
+              presented before their two Excellent Maiesties, within the space of eight dayes; in
+              the presence of sundry forraigne ambassadors. Publikely acted by the Queens Comœdians,
+              at the Phœnix in Drury-Lane. Written by Thomas Heywood.</title>
+          <publisher>Printed by Robert Raworth, for Iohn Crowch; and are to bee sold by Iasper
+              Emery, at the signe of the Eagle and Child, in Pauls Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1636</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A03235.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

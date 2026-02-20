@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000104" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000104"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,11 +32,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A06207.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a06/src/master/A06207.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Beaumont, Francis, </author>
+          <author>Fletcher, John, </author>
+          <title type="_245">A king and no king. Acted at the Globe, by his Maiesties Seruants. Written by Francis Beamount, and Iohn Flecher.</title>
+          <publisher>Printed [by John Beale] for Thomas Walkley, and are to bee sold at his shoppe at the Eagle and Childe in Brittans-Bursse,</publisher>
+          <pubPlace>At London</pubPlace>
+          <date>1619</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A06207.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

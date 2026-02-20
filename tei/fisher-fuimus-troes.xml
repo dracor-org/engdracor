@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000004" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000004"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A00760.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a00/src/master/A00760.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Fisher, Jasper, b. </author>
+          <title type="_245">Fuimus Troes Aeneid. 2. The true Troianes, being a story of the Britaines valour at the Romanes first inuasion: Publikely represented by the gentlemen students of Magdalen Colledge in Oxford.</title>
+          <publisher>Printed by I[ohn] L[egatt] for Robert Allot, and are to be sold at the signe of the Beare in Pauls-Churchyard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1633</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A00760.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

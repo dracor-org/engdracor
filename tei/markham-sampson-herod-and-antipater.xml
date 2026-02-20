@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000122" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000122"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,11 +32,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A06982.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a06/src/master/A06982.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Markham, Gervase, 1568?</author>
+          <author>Sampson, William, 1590?</author>
+          <title type="_245">The true tragedy of Herod and Antipater with the death of faire Marriam. According to Iosephus, the learned and famous Iewe. As it hath beene, of late, diuers times publiquely acted (with great applause) at the Red Bull, by the Company of his Maiesties Reuels. Written by Geruase Markham, and William Sampson. Gentlemen.</title>
+          <publisher>Printed by G. Eld, for Mathevv Rhodes, and are to bee sold at his shop at the vpper end of the Old Bayly, neere Newgate,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1622</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A06982.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

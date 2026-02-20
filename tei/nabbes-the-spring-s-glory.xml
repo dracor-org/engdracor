@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000434" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000434"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07976.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07976.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -31,6 +33,16 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Nabbes, Thomas, 1605?-1645?</author>
+          <title>The springs glorie Vindicating love by temperance against the tenent, sine cerere &amp; Baccho friget Venus. Moralized in a maske. With other poems, epigrams, elegies, and epithalamiums of the authors Thomas Nabbes.</title>
+          <publisher>Printed by I[ohn] D[awson] for Charles Greene, and are to be sold by Nicholas Fussell at the signe of the white Lyon in Pauls Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1638</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07976.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

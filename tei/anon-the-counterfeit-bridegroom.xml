@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000516" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000516"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,8 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A50792.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a50/src/master/A50792.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -28,6 +30,18 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Middleton, Thomas, </author>
+          <author>Behn, Aphra, </author>
+          <author>Betterton, Thomas, 1635?</author>
+          <title>The counterfeit bridegroom, or, The defeated widow a comedy, as it is acted at His Royal Highness the Duke's Theatre.</title>
+          <publisher>Printed for Langley Curtiss ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1677</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A50792.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

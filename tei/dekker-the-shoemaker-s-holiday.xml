@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000316" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000316"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A20083.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a20/src/master/A20083.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Dekker, Thomas, ca. </author>
+          <title type="_245">The shomakers holiday. Or The gentle craft. VVith the humorous life of Simon Eyre, shoomaker, and Lord Maior of London. As it was acted before the Queenes most excellent Maiestie on New-yeares day at night last, by the right honourable the Earle of Notingham, Lord high Admirall of England, his seruants.</title>
+          <publisher>Printed by Valentine Sims dwelling at the foote of Adling hill, neere Bainards Castle, at the signe of the White Swanne, and are there to be sold,</publisher>
+          <pubPlace>[London]</pubPlace>
+          <date>1600</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A20083.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

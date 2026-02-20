@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000477" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000477"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,8 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A36653.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a36/src/master/A36653.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -28,6 +30,16 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Dryden, John, </author>
+          <title>The mistaken husband a comedie, as it is acted by His Majesties servants at the Theatre-Royall / by a person of quality.</title>
+          <publisher>Printed for J. Magnes and R. Bentley ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1675</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A36653.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

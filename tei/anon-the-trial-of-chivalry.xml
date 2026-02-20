@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000411" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000411"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,11 +22,19 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A68191.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a68/src/master/A68191.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <title type="_245">The history of the tryall of cheualry vvith the life and death of Caualiero Dicke Bowyer. As it hath bin lately acted by the right Honourable the Earle of Darby his seruants.</title>
+          <publisher>Printed by Simon Stafford for Nathaniel Butter, and are to be sold at his shop in Paules Church-yard, neere S. Austens gate,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1605</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A68191.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

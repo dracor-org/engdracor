@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000294" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000294"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A19757.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a19/src/master/A19757.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Daborne, Robert, </author>
+          <author>Barker, Andrew, fl. </author>
+          <title type="_245">A Christian turn'd Turke: or, The tragicall liues and deaths of the two famous pyrates, Ward and Dansiker. As it hath beene publickly acted. VVritten by Robert Daborn, Gentleman.</title>
+          <publisher>Printed [by Nicholas Okes] by for [sic] William Barrenger, and are to be sold at the great north-doore of Pauls,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1612</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A19757.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

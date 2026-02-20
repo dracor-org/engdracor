@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000020" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000020"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A01353.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a01/src/master/A01353.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Fulwell, Ulpian, fl. </author>
+          <title type="_245">A pleasant enterlude, intituled, Like will to like quoth the Deuill to the collier. Wherin is declared what punishments followe those that will rather liue licentiously: then esteeme and followe good councell. And what benefits they receiue that apply them selues to vertuous liuing and good exercises. Made by Vlpian Fulwel. Fiue may easily play this enterlude. ...</title>
+          <publisher>Printed by Edward Allde, and are to be solde at the Long Shop adioyning vnto Sainte Mildreds Church in the Pultrie,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1587</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A01353.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000441" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000441"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A13611.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a13/src/master/A13611.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Terence.</author>
+          <author>Kyffin, Maurice, d. 1599,</author>
+          <title type="_245">Andria the first comoedie of Terence, in English. A furtherance for the attainment vnto the right knowledge, &amp; true proprietie, of the Latin tong. And also a commodious meane of help, to such as haue forgotten Latin, for their speedy recouering of habilitie, to vnderstand, write, and speake the same. Carefully translated out of Latin, by Maurice Kyffin.</title>
+          <publisher>By T[homas] E[ast] for Thomas VVoodcocke, at the signe of the black Beare in Paules Church-yard,</publisher>
+          <pubPlace>Printed at London</pubPlace>
+          <date>1588</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A13611.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

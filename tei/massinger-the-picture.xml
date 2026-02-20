@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000146" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000146"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07245.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07245.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Massinger, Philip, </author>
+          <title type="_245">The picture a tragæcomædie : as it was often presented with good allowance, at the Globe, and Blackefriers play-houses, by the Kings Maiesties seruants / written by Philip Massinger.</title>
+          <publisher>Printed by I.N. for Thomas Walkley and are to be sould at his shoppe at the Eagle and Child in Brittains burse,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1630</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07245.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

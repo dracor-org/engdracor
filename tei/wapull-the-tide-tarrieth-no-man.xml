@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000245" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000245"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A14715.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a14/src/master/A14715.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Wapull, George, fl. </author>
+          <title type="_245">The tyde taryeth no man. A moste pleasant and merry commody, right pythie and full of delight. Compiled by George Wapull. Fovvre persons may easily play it. ...</title>
+          <publisher>In Fleetestreate, beneath the Conduite, at the signe of Saynt Iohn Euaungelist, by Hugh Iackson,</publisher>
+          <pubPlace>Imprinted at London</pubPlace>
+          <date>1576</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A14715.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

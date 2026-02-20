@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000108" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000108"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,11 +32,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A06343.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a06/src/master/A06343.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Beaumont, Francis, </author>
+          <author>Fletcher, John, </author>
+          <title type="_245">Phylaster, or, Loue lyes a bleeding acted at the Globe by His Maiesties seruants / written by [brace] Francis Baymont and Iohn Fletcher ...</title>
+          <publisher>For Thomas Walkley, and are to be sold at his shop at the Eagle and Child in Brittaines Bursse,</publisher>
+          <pubPlace>Printed at London</pubPlace>
+          <date>1620</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A06343.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

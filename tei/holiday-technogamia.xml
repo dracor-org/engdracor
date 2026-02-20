@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000065" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000065"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A03496.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a03/src/master/A03496.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Holyday, Barten, </author>
+          <title type="_245">Technogamia: or The marriages of the arts. A comedie, written by Barten Holyday, Master of Arts, and student of Christ-Church in Oxford, and acted by the students of the same house before the Vniuersitie, at Shroue-tide.</title>
+          <publisher>Printed by William Stansby for Iohn Parker, and are to be sold at his shop in Pauls Church-yard at the signe of the Ball,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1618</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A03496.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

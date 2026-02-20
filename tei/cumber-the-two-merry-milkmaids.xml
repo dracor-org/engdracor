@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000265" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000265"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,11 +24,24 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A17460.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a17/src/master/A17460.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>J. C., fl. </author>
+          <author>Cumber, John, d. 1623,</author>
+          <author>Cooke, Jo., fl. 1614,</author>
+          <author>Chalkhill, John, fl. 1600,</author>
+          <author>Clapham, John, b. 1566,</author>
+          <title type="_245">A pleasant comedie, called the tvvo merry milke-maids. Or, the best words weare the garland. As it was acted before the King, with generall approbation, by the Companie of the Reuels. By I.C.</title>
+          <publisher>Printed by Bernard Alsop, for Lawrence Chapman, and are to be sold at his shop in Holborne, ouer against Staple Inne, hard by the Barres,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1620</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A17460.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

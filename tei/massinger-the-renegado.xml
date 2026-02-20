@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000147" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000147"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07246.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07246.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Massinger, Philip, </author>
+          <title type="_245">The renegado a tragæcomedie. As it hath beene often acted by the Queenes Maiesties seruants, at the priuate Play-house in Drurye-Lane. By Philip Massinger.</title>
+          <publisher>Printed by A[ugustine] M[athewes] for Iohn Waterson, and are to be sold at the Crowne in Pauls Church-Yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1630</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07246.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

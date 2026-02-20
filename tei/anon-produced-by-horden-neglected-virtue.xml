@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000673" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000673"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,8 +22,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A44429.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a44/src/master/A44429.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -28,6 +30,18 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Hopkins, Charles, 1664?-1700?</author>
+          <author>Horden, Hildebrand, </author>
+          <author>Fletcher, John, 1579-1625. Pilgrim.</author>
+          <title>Neglected virtue, or, The Unhappy conqueror a play acted at the Theatre-Royal by His Majesty's servants.</title>
+          <publisher>Printed for Henry Rhodes, Richard Parker, Sam. Briscoe,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1696</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A44429.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

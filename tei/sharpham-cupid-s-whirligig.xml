@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000207" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000207"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A12074.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a12/src/master/A12074.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Sharpham, Edward, </author>
+          <author>Boccaccio, Giovanni, </author>
+          <title type="_245">Cupids vvhirligig. As it hath bene sundry times acted by the Children of the Kings Majesties Reuels.</title>
+          <title type="add">Decamerone.</title>
+          <publisher>Imprinted by E. Allde, and are to bee solde by Arthur Iohnson, at the signe of the white Horse, nere the great north doore of Saint Paules Church,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1607</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A12074.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

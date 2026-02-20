@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000169" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000169"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07555.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07555.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Milton, John, </author>
+          <author>Lawes, Henry, 1596-1662,</author>
+          <title type="_245">A maske presented at Ludlow Castle, 1634 on Michaelmasse night, before the Right Honorable, Iohn Earle of Bridgewater, Vicount Brackly, Lord Præsident of Wales, and one of His Maiesties most honorable Privie Counsell.</title>
+          <publisher>Printed [by Augustine Mathewes] for Humphrey Robinson, at the signe of the Three Pidgeons in Pauls Church-yard,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1637</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07555.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

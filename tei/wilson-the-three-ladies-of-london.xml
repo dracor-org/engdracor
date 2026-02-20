@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000254" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000254"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A15519.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a15/src/master/A15519.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Wilson, Robert, </author>
+          <title type="_245">A right excellent and famous comedy, called The three ladies of London. VVherein is notablie declared and set forth, how by the meanes of lucar, loue and conscience is so corrupted, that the one is married to dissimulation, the other fraught with all abhomination. A perfect patterne for all estates to looke into, and a worke right worthie to be marked. Written by R.W. as it hath been publiquely plaied.</title>
+          <publisher>Printed by Iohn Danter, dwelling in Ducke Lane, neere Smithfield,</publisher>
+          <pubPlace>At London</pubPlace>
+          <date>1592</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A15519.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

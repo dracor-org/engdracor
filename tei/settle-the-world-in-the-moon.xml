@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000622" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000622"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,8 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A59356.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a59/src/master/A59356.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <p>
             This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. This Phase I text is available for reuse, according to the terms of
@@ -31,6 +33,18 @@
             . The text can be copied, modified, distributed and performed, even for commercial purposes, all without asking permission.
           </p>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Settle, Elkanah, </author>
+          <author>Clarke, Jeremiah, 1669?</author>
+          <author>Purcell, Daniel, 1660?</author>
+          <title>The world in the moon an opera as it is perform'd at the Theatre in Dorset-Garden by His Majesty's servants / by E.S.</title>
+          <publisher>Printed for Abel Roper ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1697</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A59356.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull>
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000417" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000417"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A69121.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a69/src/master/A69121.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Peele, George, 1556-1596,</author>
+          <title type="_245">The historie of the tvvo valiant knights, Syr Clyomon Knight of the Golden Sheeld, sonne to the King of Denmarke: and Clamydes the white Knight, sonne to the King of Suauia As it hath bene sundry times acted by her Maiesties Players.</title>
+          <publisher>Printed by Thomas Creede,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1599</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A69121.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

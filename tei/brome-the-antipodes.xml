@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000262" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000262"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A16923.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a16/src/master/A16923.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Brome, Richard, d. 1652?</author>
+          <title type="_245">The antipodes a comedie. Acted in the yeare 1638. by the Queenes Majesties Servants, at Salisbury Court in Fleet-street. The author Richard Brome.</title>
+          <publisher>Printed by I. Okes, for Francis Constable, and are to be sold at his shops in Kings-street at the signe of the Goat, and in Westminster-hall,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1640</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A16923.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

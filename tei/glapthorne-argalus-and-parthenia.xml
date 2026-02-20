@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000024" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000024"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A01772.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a01/src/master/A01772.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Glapthorne, Henry.</author>
+          <author>Sidney, Philip, </author>
+          <title type="_245">Argalus and Parthenia¨ as it hath been acted at the court before their Maiesties: and at the Private-House in Drury-Lane, by their Maiesties Servants. By Hen. Glapthorne.</title>
+          <publisher>Printed by R. Bishop for Daniel Pakeman, at the Raine-bow neere the Inner Temple Gate,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1639</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A01772.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000272" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000272"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A18402.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a18/src/master/A18402.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Chapman, George, 1559?</author>
+          <title type="_245">The blinde begger of Alexandria most pleasantly discoursing his variable humours in disguised shapes full of conceite and pleasure. As it hath been sundry times publickly acted in London. by the right honorable the Earle of Nottingham, Lord high Admirall his seruantes. By George Chapman: Gentleman.</title>
+          <publisher>[By J. Roberts] for William Iones, dwelling at the signe of the Gun, neere Holburne Conduict,</publisher>
+          <pubPlace>Imprinted at London</pubPlace>
+          <date>1598</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A18402.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

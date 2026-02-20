@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000402" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000402"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,11 +39,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A57764.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a57/src/master/A57764.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Rowley, William, 1585?-1642?</author>
+          <author>Dekker, Thomas, ca. </author>
+          <author>Ford, John, 1586-ca. </author>
+          <title type="_245">The witch of Edmonton a known true story / composed into a tragi-comedy by divers well-esteemed poets, William Rowley, Thomas Dekker, John Ford, &amp;c.</title>
+          <publisher>Printed by J. Cottrel for Edward Blackmore ...,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1658</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A57764.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

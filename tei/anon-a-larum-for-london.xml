@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000106" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000106"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,11 +22,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A06270.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a06/src/master/A06270.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Gascoigne, George, 1542?</author>
+          <author>Lodge, Thomas, 1558?-1625,</author>
+          <title type="_245">A larum for London, or The siedge of Antwerpe. VVith the ventrous actes and valorous deeds of the lame soldier. As it hath been playde by the right Honorable the Lord Chamberlaine his Seruants.</title>
+          <title type="add">The spoyle of Antwerpe.</title>
+          <publisher>Printed [by Edward Allde] for William Ferbrand, and are to be sold at his shop in Popes-head Alley, ouer against the Tauerne doore, neere the Royall-Exchange,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1602</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A06270.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

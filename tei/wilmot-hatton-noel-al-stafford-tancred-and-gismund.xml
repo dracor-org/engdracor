@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000250" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000250"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -45,11 +48,26 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A15498.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a15/src/master/A15498.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>R.W. (Robert Wilmot), fl. </author>
+          <author>Boccaccio, Giovanni, </author>
+          <author>Stafford, Rodger.</author>
+          <author>Noel, Henry, </author>
+          <author>Allen, William, fl. 1567,</author>
+          <author>Hatton, Christopher, </author>
+          <title type="_245">The tragedie of Tancred and Gismund. Compiled by the gentlemen of the Inner Temple, and by them presented before her Maiestie. Newly reuiued and polished according to the decorum of these daies. By R.W.</title>
+          <title type="add">Decamerone.</title>
+          <publisher>Printed by Thomas Scarlet, and are to be solde by R. Robinson,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1591</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A15498.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

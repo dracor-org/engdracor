@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000428" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000428"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A73704.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a73/src/master/A73704.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Carew, Thomas, 1595?-1639?</author>
+          <author>Bruno, Giordano, 1548-1600. Spaccio de la bestia trionfante.</author>
+          <author>Jones, Inigo, </author>
+          <title type="_245">Cœlum Britanicum: A masque at White-Hall in the Banquetting-House, on Shrove-Tuesday-night, the 18. of February, 1633.</title>
+          <publisher>printed for Thomas VValkley, and are to be sold at his shop neare White-Hall,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1634</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A73704.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

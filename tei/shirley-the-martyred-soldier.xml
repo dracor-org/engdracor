@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000209" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000209"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,21 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A12127.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a12/src/master/A12127.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Shirley, Henry, </author>
+          <author>Kirke, John, d. 1643,</author>
+          <title type="_245">The martyr'd souldier as it was sundry times acted with a generall applause at the Private House in Drury lane, and at other publicke theaters. By the Queenes Majesties servants. The author H. Shirley Gent.</title>
+          <publisher>Printed by I. Okes, and are to be sold by Francis Eglesfield at his house in Pauls Church-yard at the signe of the Mary-gold,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1638</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A12127.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

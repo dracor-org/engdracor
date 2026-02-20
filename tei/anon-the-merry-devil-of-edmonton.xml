@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000325" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000325"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,11 +22,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A21136.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a21/src/master/A21136.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Shakespeare, William, 1564-1616,</author>
+          <author>Dekker, Thomas, ca. 1572-1632,</author>
+          <author>Heywood, Thomas, d. 1641,</author>
+          <title type="_245">The merry deuill of Edmonton. As it hath beene sundry times acted, by his Maiesties Seruants, at the Globe, on the banke-side.</title>
+          <publisher>Printed by Henry Ballard for Arthur Iohnson, dwelling at the signe of the white-horse in Paules Church yard, ouer against the great north doore of Paules,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1608</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A21136.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

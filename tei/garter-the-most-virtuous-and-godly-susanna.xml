@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000022" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000022"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,11 +24,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A01509.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a01/src/master/A01509.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Garter, Thomas.</author>
+          <title type="_245">The commody of the moste vertuous and godlye Susanna neuer before this tyme printed. Compiled by Thomas Garter. Eyght persons may easyly play it. 1. The Prologue and the Saylour for one. 2. Ioachim and Iudex for another, 3. Sathan and Uoluptas another, 4. Sensualitas alone. 5 Susanna alone. 6. Helchia, True Report, Ancilla, another, 7. Ill Reporte the uyce, and Cryer, another. 8. Helchias wyfe, Danyell, Seruus, Serua, for another.</title>
+          <publisher>In Fleetestreate, beneath the Conduite, at the signe of S. Iohn Euangelist, by Hugh Iackson,</publisher>
+          <pubPlace>Imprinted at London</pubPlace>
+          <date>1578</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A01509.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000142" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000142"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,20 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A07238.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a07/src/master/A07238.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Massinger, Philip, </author>
+          <title type="_245">The Emperour of the East¨ A tragæ-comœdie. The scæne Constantinople. As it hath bene diuers times acted, at the Black-friers, and Globe play-houses, by the Kings Maiesties Seruants. Written by Philip Massinger.</title>
+          <publisher>Printed by Thomas Harper, for Iohn Waterson,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>anno 1632</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A07238.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

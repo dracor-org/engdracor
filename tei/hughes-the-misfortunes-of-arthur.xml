@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000066" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000066"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A03804.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a03/src/master/A03804.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Hughes, Thomas, fl. </author>
+          <author>Trotte, Nicholas, </author>
+          <author>Fulbeck, William, 1560-1603?.</author>
+          <title type="_245">Certaine deu[is]es and shewes presented to her Maiestie by the gentlemen of Grayes-Inne at her Highnesse court in Greenewich, the twenty eighth day of Februarie in the thirtieth yeare of her Maiesties most happy raigne.</title>
+          <publisher>Printed by Robert Robinson,</publisher>
+          <pubPlace>At London</pubPlace>
+          <date>1587</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A03804.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eng000194" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     type="dracor"
+     xml:id="eng000194"
+     xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +25,22 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>EarlyPrint Project</name>
-          <idno type="URL">https://texts.earlyprint.org/works/A11145.xml</idno>
+          <ref target="https://bitbucket.org/eads004/a11/src/master/A11145.xml">EarlyPrint TEI-XML source repositories</ref>
           <availability>
             <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
           </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <author>Rowley, Samuel, d. 1633?</author>
+          <author>Dekker, Thomas, ca. 1572-1632,</author>
+          <author>Day, John, 1574-1640?.</author>
+          <title type="_245">The noble souldier. Or, A contract broken, justly reveng'd. A tragedy. Written by S.R.</title>
+          <publisher>Printed [by John Beale] for Nicholas Vavasour, and are to be sold at his shop in the Temple, neere the Church,</publisher>
+          <pubPlace>London</pubPlace>
+          <date>1634</date>
+        </bibl>
+        <bibl type="web">
+          <ref target="https://texts.earlyprint.org/works/A11145.xml">texts.earlyprint.org</ref>
         </bibl>
         <biblFull n="TCP source">
           <titleStmt>
