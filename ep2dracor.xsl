@@ -383,23 +383,74 @@
   </xsl:template>
 
   <xsl:template name="sourceDesc">
+    <!-- pick the biblFull from which to extract originalSource data -->
+    <xsl:variable name="orig">
+      <xsl:choose>
+        <xsl:when test="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull[@n eq 'printed source']">
+          <xsl:copy-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull[@n eq 'printed source'][1]"/>
+        </xsl:when>
+        <xsl:when test="count(//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull) = 1">
+          <xsl:copy-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull"/>
+        </xsl:when>
+      </xsl:choose>
+    </xsl:variable>
     <sourceDesc>
       <bibl type="digitalSource">
-        <name>EarlyPrint Project</name>
-        <idno type="URL">
-          <xsl:text>https://texts.earlyprint.org/works/</xsl:text>
-          <xsl:value-of select="$tcpid"/>
-          <xsl:text>.xml</xsl:text>
-        </idno>
-        <!-- FIXME: add source URL (Bitbucket or website?) -->
+        <ref>
+          <xsl:attribute name="target">
+            <xsl:text>https://bitbucket.org/eads004/</xsl:text>
+            <xsl:value-of select="lower-case(substring($tcpid, 1, 3))"/>
+            <xsl:text>/src/master/</xsl:text>
+            <xsl:value-of select="$tcpid"/>
+            <xsl:text>.xml</xsl:text>
+          </xsl:attribute>
+          <xsl:text>EarlyPrint TEI-XML source repositories</xsl:text>
+        </ref>
         <availability>
-          <!-- FIXME? -->
           <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/*"/>
         </availability>
       </bibl>
-      <!-- FIXME: originalSource? -->
+      <xsl:if test="$orig">
+        <bibl type="originalSource">
+          <xsl:apply-templates select="$orig/tei:biblFull/tei:titleStmt/tei:author" mode="trim"/>
+          <xsl:text> </xsl:text>
+          <xsl:apply-templates select="$orig/tei:biblFull/tei:titleStmt/tei:title[not(@type = 'alt')]"/>
+          <xsl:text> </xsl:text>
+          <xsl:apply-templates select="$orig/tei:biblFull/tei:publicationStmt/tei:publisher"/>
+          <xsl:text> </xsl:text>
+          <xsl:apply-templates select="$orig/tei:biblFull/tei:publicationStmt/(tei:pubPlace|tei:date[not(@type) or @type = 'publication_date'])" mode="trim"/>
+          <xsl:text> </xsl:text>
+        </bibl>
+      </xsl:if>
+      <bibl type="web">
+        <ref>
+          <xsl:attribute name="target">
+            <xsl:text>https://texts.earlyprint.org/works/</xsl:text>
+            <xsl:value-of select="$tcpid"/>
+            <xsl:text>.xml</xsl:text>
+          </xsl:attribute>
+          <xsl:text>texts.earlyprint.org</xsl:text>
+        </ref>
+      </bibl>
+      <!-- for now let's include the biblFull elements for reference -->
       <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull"/>
     </sourceDesc>
+  </xsl:template>
+
+  <xsl:template match="tei:biblFull/tei:titleStmt/tei:author" mode="trim">
+    <author>
+      <xsl:value-of select="replace(normalize-space(.), '(d\. [0-9]+|[-0-9]+)\.?$', '')"/>
+    </author>
+  </xsl:template>
+  <xsl:template match="tei:biblFull/tei:publicationStmt/tei:pubPlace" mode="trim">
+    <pubPlace>
+      <xsl:value-of select="replace(normalize-space(.), '\s*:$', '')"/>
+    </pubPlace>
+  </xsl:template>
+  <xsl:template match="tei:biblFull/tei:publicationStmt/tei:date" mode="trim">
+    <date>
+      <xsl:value-of select="replace(normalize-space(.), '\s*\.$', '')"/>
+    </date>
   </xsl:template>
 
   <xsl:template name="profileDesc">
