@@ -163,7 +163,7 @@
   </xsl:template>
 
   <xsl:template match="tei:TEI">
-    <TEI xml:id="{$meta/@id}" xml:lang="en">
+    <TEI type="dracor" xml:id="{$meta/@id}" xml:lang="en">
       <xsl:apply-templates/>
     </TEI>
   </xsl:template>
