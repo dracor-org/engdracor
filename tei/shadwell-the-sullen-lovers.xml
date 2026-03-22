@@ -42,6 +42,9 @@
           <pubPlace>In the Savoy</pubPlace>
           <date>1668</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q25384259</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A59456.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -63,22 +66,15 @@
             <note>Pages 83-84 are torn in filmed copy. Page 70-end photographed from Huntington Library copy and inserted at the end.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1668">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1668">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000554"
-                   passive="http://www.wikidata.org/entity/Q25384259"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000554-e10">

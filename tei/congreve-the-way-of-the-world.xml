@@ -41,6 +41,9 @@
           <pubPlace>London</pubPlace>
           <date>1700</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q723947</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A34327.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -60,22 +63,15 @@
             <note>Imperfect: p. 89 and Epilogue (2 p. at end) wanting.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1700">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1700">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000463"
-                   passive="http://www.wikidata.org/entity/Q723947"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="half_title" xml:id="eng000463-e10">

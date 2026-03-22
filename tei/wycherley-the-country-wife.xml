@@ -42,6 +42,9 @@
           <pubPlace>London</pubPlace>
           <date>1675</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q734639</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A67192.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -62,22 +65,15 @@
             <note>Borrows from Molière's "L'école des femmes" and "L'école des maris."</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1675">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1675">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000573"
-                   passive="http://www.wikidata.org/entity/Q734639"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000573-e10">

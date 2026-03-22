@@ -42,6 +42,9 @@
           <pubPlace>London</pubPlace>
           <date>1690</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q104860488</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A55546.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -63,22 +66,15 @@
             <note>"Epilogue. Writ by Mr. Mountfort, spoken by Mrs. Butler in mans apparel": p. [1] at end.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1690">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1690">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000701"
-                   passive="http://www.wikidata.org/entity/Q104860488"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000701-e10">

@@ -45,6 +45,9 @@
           <pubPlace>At London</pubPlace>
           <date>1594</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q857989</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A07023.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -90,6 +93,11 @@
             </note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1585">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -150,18 +158,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1585">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000128"
-                   passive="http://www.wikidata.org/entity/Q857989"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000128-e100030">

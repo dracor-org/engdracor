@@ -41,6 +41,9 @@
           <pubPlace>London</pubPlace>
           <date>1692</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q107608618</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A36994.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -59,22 +62,15 @@
             <note>Reproduction of original in Bodleian Library.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1692">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1692">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000489"
-                   passive="http://www.wikidata.org/entity/Q107608618"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000489-e10">

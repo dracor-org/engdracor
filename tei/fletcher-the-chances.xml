@@ -43,6 +43,9 @@
           <pubPlace>London</pubPlace>
           <date>1682</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q7722068</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A39799.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -64,22 +67,15 @@
             <note>Reproduction of original in Huntington Library.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1682">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1682">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000496"
-                   passive="http://www.wikidata.org/entity/Q7722068"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000496-e10">

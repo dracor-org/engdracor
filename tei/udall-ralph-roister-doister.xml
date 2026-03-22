@@ -36,6 +36,9 @@
           <pubPlace>[London</pubPlace>
           <date>1566?]</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q7288034</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A14193.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -93,6 +96,11 @@
             </note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1552">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -144,18 +152,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1552">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000243"
-                   passive="http://www.wikidata.org/entity/Q7288034"/>
-    </listRelation>
-  </standOff>
   <text xml:lang="en">
     <front>
       <div type="prologue" xml:id="eng000243-e100030">

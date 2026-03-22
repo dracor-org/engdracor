@@ -41,6 +41,9 @@
           <pubPlace>London</pubPlace>
           <date>1688</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q107608608</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A35279.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -60,6 +63,11 @@
             <note>Epistle Dedicatory signed: John Crown.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1688">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -117,18 +125,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1688">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000656"
-                   passive="http://www.wikidata.org/entity/Q107608608"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000656-e10">
