@@ -1,0 +1,3007 @@
+{
+  "particDesc": [
+    {
+      "name": "Porter",
+      "id": "porter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Masque 2",
+      "id": "masque-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Masque 1",
+      "id": "masque-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bailiff 2",
+      "id": "bailiff-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bailiff 1",
+      "id": "bailiff-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boy",
+      "id": "boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cripple",
+      "id": "cripple",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "roebuck",
+      "name": "Roebuck",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lovewell",
+      "name": "Lovewell",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mockmode",
+      "name": "Mockmode",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lyrick",
+      "name": "Lyrick",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pamphlet",
+      "name": "Pamphlet",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rigadoon",
+      "name": "Rigadoon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "nimblewrist",
+      "name": "Nimblewrist",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "club",
+      "name": "Club",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "brush",
+      "name": "Brush",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lucinda",
+      "name": "Lucinda",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "leanthe",
+      "name": "Leanthe ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "trudge",
+      "name": "Trudge ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "bullfinch",
+      "name": "Bullfinch",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "pindress",
+      "name": "Pindress",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A40960-e2670": [
+      "cripple"
+    ],
+    "A40960-e2700": [
+      "roebuck"
+    ],
+    "A40960-e2730": [
+      "cripple"
+    ],
+    "A40960-e2760": [
+      "roebuck"
+    ],
+    "A40960-e2790": [
+      "cripple"
+    ],
+    "A40960-e2820": [
+      "roebuck"
+    ],
+    "A40960-e2850": [
+      "cripple"
+    ],
+    "A40960-e2880": [
+      "roebuck"
+    ],
+    "A40960-e2910": [
+      "cripple"
+    ],
+    "A40960-e2940": [
+      "roebuck"
+    ],
+    "A40960-e2970": [
+      "cripple"
+    ],
+    "A40960-e3000": [
+      "roebuck"
+    ],
+    "A40960-e3030": [
+      "cripple"
+    ],
+    "A40960-e3070": [
+      "roebuck"
+    ],
+    "A40960-e3190": [
+      "lucinda"
+    ],
+    "A40960-e3230": [
+      "pindress"
+    ],
+    "A40960-e3270": [
+      "lucinda"
+    ],
+    "A40960-e3310": [
+      "pindress"
+    ],
+    "A40960-e3340": [
+      "lucinda"
+    ],
+    "A40960-e3370": [
+      "pindress"
+    ],
+    "A40960-e3400": [
+      "lucinda"
+    ],
+    "A40960-e3430": [
+      "pindress"
+    ],
+    "A40960-e3460": [
+      "lucinda"
+    ],
+    "A40960-e3500": [
+      "pindress"
+    ],
+    "A40960-e3530": [
+      "lucinda"
+    ],
+    "A40960-e3560": [
+      "pindress"
+    ],
+    "A40960-e3590": [
+      "lucinda"
+    ],
+    "A40960-e3630": [
+      "pindress"
+    ],
+    "A40960-e3660": [
+      "lucinda"
+    ],
+    "A40960-e3710": [
+      "pindress"
+    ],
+    "A40960-e3740": [
+      "lucinda"
+    ],
+    "A40960-e3770": [
+      "pindress"
+    ],
+    "A40960-e3800": [
+      "lucinda"
+    ],
+    "A40960-e3830": [
+      "pindress"
+    ],
+    "A40960-e3860": [
+      "lucinda"
+    ],
+    "A40960-e3900": [
+      "pindress"
+    ],
+    "A40960-e3930": [
+      "lucinda"
+    ],
+    "A40960-e3960": [
+      "pindress"
+    ],
+    "A40960-e3990": [
+      "lucinda"
+    ],
+    "A40960-e4050": [
+      "roebuck"
+    ],
+    "A40960-e4090": [
+      "lucinda"
+    ],
+    "A40960-e4120": [
+      "roebuck"
+    ],
+    "A40960-e4150": [
+      "lucinda"
+    ],
+    "A40960-e4180": [
+      "roebuck"
+    ],
+    "A40960-e4210": [
+      "lucinda"
+    ],
+    "A40960-e4240": [
+      "roebuck"
+    ],
+    "A40960-e4270": [
+      "lucinda"
+    ],
+    "A40960-e4300": [
+      "roebuck"
+    ],
+    "A40960-e4330": [
+      "lucinda"
+    ],
+    "A40960-e4360": [
+      "roebuck"
+    ],
+    "A40960-e4400": [
+      "lucinda"
+    ],
+    "A40960-e4440": [
+      "roebuck"
+    ],
+    "A40960-e4480": [
+      "lucinda"
+    ],
+    "A40960-e4510": [
+      "roebuck"
+    ],
+    "A40960-e4540": [
+      "lucinda"
+    ],
+    "A40960-e4570": [
+      "roebuck"
+    ],
+    "A40960-e4600": [
+      "lucinda"
+    ],
+    "A40960-e4630": [
+      "roebuck"
+    ],
+    "A40960-e4660": [
+      "lucinda"
+    ],
+    "A40960-e4700": [
+      "roebuck"
+    ],
+    "A40960-e4760": [
+      "lucinda"
+    ],
+    "A40960-e4790": [
+      "roebuck"
+    ],
+    "A40960-e4820": [
+      "pindress"
+    ],
+    "A40960-e4850": [
+      "lucinda"
+    ],
+    "A40960-e4880": [
+      "roebuck"
+    ],
+    "A40960-e4920": [
+      "lucinda"
+    ],
+    "A40960-e4950": [
+      "roebuck"
+    ],
+    "A40960-e4990": [
+      "lucinda",
+      "pindress"
+    ],
+    "A40960-e5050": [
+      "lovewell"
+    ],
+    "A40960-e5090": [
+      "roebuck"
+    ],
+    "A40960-e5200": [
+      "lovewell"
+    ],
+    "A40960-e5260": [
+      "roebuck"
+    ],
+    "A40960-e5290": [
+      "lovewell"
+    ],
+    "A40960-e5330": [
+      "roebuck"
+    ],
+    "A40960-e5360": [
+      "lovewell"
+    ],
+    "A40960-e5390": [
+      "roebuck"
+    ],
+    "A40960-e5440": [
+      "lovewell"
+    ],
+    "A40960-e5470": [
+      "roebuck"
+    ],
+    "A40960-e5500": [
+      "lovewell"
+    ],
+    "A40960-e5530": [
+      "roebuck"
+    ],
+    "A40960-e5570": [
+      "lovewell"
+    ],
+    "A40960-e5600": [
+      "roebuck"
+    ],
+    "A40960-e5630": [
+      "lovewell"
+    ],
+    "A40960-e5660": [
+      "roebuck"
+    ],
+    "A40960-e5690": [
+      "lovewell"
+    ],
+    "A40960-e5720": [
+      "roebuck"
+    ],
+    "A40960-e5770": [
+      "lovewell"
+    ],
+    "A40960-e5800": [
+      "roebuck"
+    ],
+    "A40960-e5840": [
+      "lovewell"
+    ],
+    "A40960-e5870": [
+      "roebuck"
+    ],
+    "A40960-e5900": [
+      "lovewell"
+    ],
+    "A40960-e5930": [
+      "roebuck"
+    ],
+    "A40960-e5960": [
+      "lovewell"
+    ],
+    "A40960-e5990": [
+      "roebuck"
+    ],
+    "A40960-e6050": [
+      "lovewell"
+    ],
+    "A40960-e6090": [
+      "roebuck"
+    ],
+    "A40960-e6130": [
+      "lovewell"
+    ],
+    "A40960-e6170": [
+      "roebuck"
+    ],
+    "A40960-e6200": [
+      "lovewell"
+    ],
+    "A40960-e6230": [
+      "roebuck"
+    ],
+    "A40960-e6290": [
+      "lovewell"
+    ],
+    "A40960-e6320": [
+      "roebuck"
+    ],
+    "A40960-e6360": [
+      "lovewell"
+    ],
+    "A40960-e6390": [
+      "roebuck"
+    ],
+    "A40960-e6420": [
+      "lovewell"
+    ],
+    "A40960-e6460": [
+      "roebuck"
+    ],
+    "A40960-e6490": [
+      "lovewell"
+    ],
+    "A40960-e6530": [
+      "roebuck"
+    ],
+    "A40960-e6600": [
+      "lovewell"
+    ],
+    "A40960-e6630": [
+      "roebuck"
+    ],
+    "A40960-e6680": [
+      "lovewell"
+    ],
+    "A40960-e6720": [
+      "roebuck"
+    ],
+    "A40960-e6750": [
+      "lovewell"
+    ],
+    "A40960-e6870": [
+      "lovewell"
+    ],
+    "A40960-e6940": [
+      "trudge"
+    ],
+    "A40960-e7000": [
+      "lovewell"
+    ],
+    "A40960-e7030": [
+      "trudge"
+    ],
+    "A40960-e7090": [
+      "lovewell"
+    ],
+    "A40960-e7130": [
+      "trudge"
+    ],
+    "A40960-e7200": [
+      "lovewell"
+    ],
+    "A40960-e7330": [
+      "lucinda"
+    ],
+    "A40960-e7360": [
+      "pindress"
+    ],
+    "A40960-e7390": [
+      "lucinda"
+    ],
+    "A40960-e7420": [
+      "pindress"
+    ],
+    "A40960-e7450": [
+      "lucinda"
+    ],
+    "A40960-e7480": [
+      "pindress"
+    ],
+    "A40960-e7520": [
+      "lucinda"
+    ],
+    "A40960-e7590": [
+      "lovewell"
+    ],
+    "A40960-e7630": [
+      "lucinda"
+    ],
+    "A40960-e7670": [
+      "lovewell"
+    ],
+    "A40960-e7700": [
+      "lucinda"
+    ],
+    "A40960-e7750": [
+      "lovewell"
+    ],
+    "A40960-e7830": [
+      "brush"
+    ],
+    "A40960-e7860": [
+      "lovewell"
+    ],
+    "A40960-e7890": [
+      "brush"
+    ],
+    "A40960-e7920": [
+      "lovewell"
+    ],
+    "A40960-e7950": [
+      "brush"
+    ],
+    "A40960-e7990": [
+      "lovewell"
+    ],
+    "A40960-e8020": [
+      "brush"
+    ],
+    "A40960-e8050": [
+      "lovewell"
+    ],
+    "A40960-e8080": [
+      "brush"
+    ],
+    "A40960-e8130": [
+      "lovewell"
+    ],
+    "A40960-e8160": [
+      "brush"
+    ],
+    "A40960-e8190": [
+      "lovewell"
+    ],
+    "A40960-e8220": [
+      "brush"
+    ],
+    "A40960-e8250": [
+      "lovewell"
+    ],
+    "A40960-e8280": [
+      "brush"
+    ],
+    "A40960-e8310": [
+      "lovewell"
+    ],
+    "A40960-e8340": [
+      "brush"
+    ],
+    "A40960-e8370": [
+      "lovewell"
+    ],
+    "A40960-e8400": [
+      "brush"
+    ],
+    "A40960-e8430": [
+      "lovewell"
+    ],
+    "A40960-e8460": [
+      "brush"
+    ],
+    "A40960-e8490": [
+      "lovewell"
+    ],
+    "A40960-e8530": [
+      "brush"
+    ],
+    "A40960-e8560": [
+      "lovewell"
+    ],
+    "A40960-e8600": [
+      "brush"
+    ],
+    "A40960-e8720": [
+      "lovewell"
+    ],
+    "A40960-e8750": [
+      "roebuck"
+    ],
+    "A40960-e8790": [
+      "brush"
+    ],
+    "A40960-e8820": [
+      "roebuck"
+    ],
+    "A40960-e8850": [
+      "brush"
+    ],
+    "A40960-e8920": [
+      "roebuck"
+    ],
+    "A40960-e8950": [
+      "brush"
+    ],
+    "A40960-e8980": [
+      "roebuck"
+    ],
+    "A40960-e9040": [
+      "lovewell"
+    ],
+    "A40960-e9070": [
+      "roebuck"
+    ],
+    "A40960-e9100": [
+      "lovewell"
+    ],
+    "A40960-e9130": [
+      "roebuck"
+    ],
+    "A40960-e9160": [
+      "lovewell"
+    ],
+    "A40960-e9190": [
+      "roebuck"
+    ],
+    "A40960-e9220": [
+      "lovewell"
+    ],
+    "A40960-e9260": [
+      "roebuck"
+    ],
+    "A40960-e9290": [
+      "roebuck"
+    ],
+    "A40960-e9320": [
+      "roebuck"
+    ],
+    "A40960-e9350": [
+      "lovewell"
+    ],
+    "A40960-e9380": [
+      "roebuck"
+    ],
+    "A40960-e9410": [
+      "lovewell"
+    ],
+    "A40960-e9440": [
+      "roebuck"
+    ],
+    "A40960-e9470": [
+      "lovewell"
+    ],
+    "A40960-e9510": [
+      "roebuck"
+    ],
+    "A40960-e9550": [
+      "lovewell"
+    ],
+    "A40960-e9590": [
+      "roebuck"
+    ],
+    "A40960-e9680": [
+      "lovewell"
+    ],
+    "A40960-e9730": [
+      "roebuck"
+    ],
+    "A40960-e9760": [
+      "lovewell"
+    ],
+    "A40960-e9790": [
+      "roebuck"
+    ],
+    "A40960-e9820": [
+      "lovewell"
+    ],
+    "A40960-e9850": [
+      "roebuck"
+    ],
+    "A40960-e9880": [
+      "lovewell"
+    ],
+    "A40960-e9920": [
+      "roebuck"
+    ],
+    "A40960-e9960": [
+      "lovewell"
+    ],
+    "A40960-e10000": [
+      "roebuck"
+    ],
+    "A40960-e10040": [
+      "lovewell"
+    ],
+    "A40960-e10070": [
+      "roebuck"
+    ],
+    "A40960-e10100": [
+      "lovewell"
+    ],
+    "A40960-e10140": [
+      "roebuck"
+    ],
+    "A40960-e10180": [
+      "lovewell"
+    ],
+    "A40960-e10210": [
+      "roebuck"
+    ],
+    "A40960-e10240": [
+      "lovewell"
+    ],
+    "A40960-e10270": [
+      "roebuck"
+    ],
+    "A40960-e10300": [
+      "lovewell"
+    ],
+    "A40960-e10340": [
+      "roebuck"
+    ],
+    "A40960-e10370": [
+      "lovewell"
+    ],
+    "A40960-e10420": [
+      "roebuck"
+    ],
+    "A40960-e10600": [
+      "lovewell"
+    ],
+    "A40960-e10670": [
+      "roebuck"
+    ],
+    "A40960-e10700": [
+      "lovewell"
+    ],
+    "A40960-e10730": [
+      "roebuck"
+    ],
+    "A40960-e10820": [
+      "rigadoon"
+    ],
+    "A40960-e10890": [
+      "mockmode"
+    ],
+    "A40960-e10920": [
+      "rigadoon"
+    ],
+    "A40960-e10970": [
+      "mockmode"
+    ],
+    "A40960-e11010": [
+      "rigadoon"
+    ],
+    "A40960-e11040": [
+      "mockmode"
+    ],
+    "A40960-e11090": [
+      "rigadoon"
+    ],
+    "A40960-e11120": [
+      "mockmode"
+    ],
+    "A40960-e11150": [
+      "club"
+    ],
+    "A40960-e11180": [
+      "rigadoon"
+    ],
+    "A40960-e11210": [
+      "mockmode"
+    ],
+    "A40960-e11240": [
+      "rigadoon"
+    ],
+    "A40960-e11290": [
+      "rigadoon"
+    ],
+    "A40960-e11320": [
+      "mockmode"
+    ],
+    "A40960-e11350": [
+      "rigadoon"
+    ],
+    "A40960-e11390": [
+      "mockmode"
+    ],
+    "A40960-e11430": [
+      "rigadoon"
+    ],
+    "A40960-e11470": [
+      "club"
+    ],
+    "A40960-e11500": [
+      "rigadoon"
+    ],
+    "A40960-e11540": [
+      "mockmode"
+    ],
+    "A40960-e11570": [
+      "rigadoon"
+    ],
+    "A40960-e11600": [
+      "mockmode"
+    ],
+    "A40960-e11640": [
+      "rigadoon"
+    ],
+    "A40960-e11670": [
+      "mockmode"
+    ],
+    "A40960-e11720": [
+      "rigadoon"
+    ],
+    "A40960-e11790": [
+      "mockmode"
+    ],
+    "A40960-e11820": [
+      "rigadoon"
+    ],
+    "A40960-e11860": [
+      "mockmode"
+    ],
+    "A40960-e11890": [
+      "rigadoon"
+    ],
+    "A40960-e11930": [
+      "club"
+    ],
+    "A40960-e11960": [
+      "rigadoon"
+    ],
+    "A40960-e12020": [
+      "mockmode"
+    ],
+    "A40960-e12060": [
+      "nimblewrist"
+    ],
+    "A40960-e12140": [
+      "mockmode"
+    ],
+    "A40960-e12170": [
+      "nimblewrist"
+    ],
+    "A40960-e12210": [
+      "mockmode"
+    ],
+    "A40960-e12260": [
+      "nimblewrist"
+    ],
+    "A40960-e12300": [
+      "mockmode"
+    ],
+    "A40960-e12330": [
+      "nimblewrist"
+    ],
+    "A40960-e12360": [
+      "mockmode"
+    ],
+    "A40960-e12390": [
+      "nimblewrist"
+    ],
+    "A40960-e12460": [
+      "mockmode"
+    ],
+    "A40960-e12490": [
+      "nimblewrist"
+    ],
+    "A40960-e12550": [
+      "club"
+    ],
+    "A40960-e12580": [
+      "nimblewrist"
+    ],
+    "A40960-e12620": [
+      "club"
+    ],
+    "A40960-e12650": [
+      "mockmode"
+    ],
+    "A40960-e12680": [
+      "nimblewrist"
+    ],
+    "A40960-e12740": [
+      "rigadoon"
+    ],
+    "A40960-e12770": [
+      "mockmode"
+    ],
+    "A40960-e12800": [
+      "rigadoon"
+    ],
+    "A40960-e12840": [
+      "nimblewrist"
+    ],
+    "A40960-e12880": [
+      "rigadoon"
+    ],
+    "A40960-e12910": [
+      "nimblewrist"
+    ],
+    "A40960-e12940": [
+      "rigadoon"
+    ],
+    "A40960-e12990": [
+      "nimblewrist"
+    ],
+    "A40960-e13040": [
+      "rigadoon"
+    ],
+    "A40960-e13090": [
+      "nimblewrist"
+    ],
+    "A40960-e13120": [
+      "rigadoon"
+    ],
+    "A40960-e13150": [
+      "nimblewrist"
+    ],
+    "A40960-e13180": [
+      "rigadoon"
+    ],
+    "A40960-e13250": [
+      "nimblewrist"
+    ],
+    "A40960-e13330": [
+      "bullfinch"
+    ],
+    "A40960-e13390": [
+      "mockmode"
+    ],
+    "A40960-e13430": [
+      "bullfinch"
+    ],
+    "A40960-e13460": [
+      "mockmode"
+    ],
+    "A40960-e13490": [
+      "bullfinch"
+    ],
+    "A40960-e13560": [
+      "mockmode"
+    ],
+    "A40960-e13590": [
+      "bullfinch"
+    ],
+    "A40960-e13640": [
+      "mockmode"
+    ],
+    "A40960-e13670": [
+      "bullfinch"
+    ],
+    "A40960-e13700": [
+      "mockmode"
+    ],
+    "A40960-e13730": [
+      "bullfinch"
+    ],
+    "A40960-e13760": [
+      "mockmode"
+    ],
+    "A40960-e13790": [
+      "bullfinch"
+    ],
+    "A40960-e13820": [
+      "mockmode"
+    ],
+    "A40960-e13880": [
+      "bullfinch"
+    ],
+    "A40960-e13910": [
+      "mockmode"
+    ],
+    "A40960-e13940": [
+      "bullfinch"
+    ],
+    "A40960-e13970": [
+      "mockmode"
+    ],
+    "A40960-e14000": [
+      "bullfinch"
+    ],
+    "A40960-e14040": [
+      "mockmode"
+    ],
+    "A40960-e14110": [
+      "bullfinch"
+    ],
+    "A40960-e14140": [
+      "mockmode"
+    ],
+    "A40960-e14170": [
+      "bullfinch"
+    ],
+    "A40960-e14200": [
+      "mockmode"
+    ],
+    "A40960-e14240": [
+      "bullfinch"
+    ],
+    "A40960-e14270": [
+      "mockmode"
+    ],
+    "A40960-e14310": [
+      "bullfinch"
+    ],
+    "A40960-e14340": [
+      "mockmode"
+    ],
+    "A40960-e14370": [
+      "bullfinch"
+    ],
+    "A40960-e14400": [
+      "mockmode"
+    ],
+    "A40960-e14460": [
+      "bullfinch"
+    ],
+    "A40960-e14490": [
+      "servant"
+    ],
+    "A40960-e14520": [
+      "bullfinch"
+    ],
+    "A40960-e14590": [
+      "mockmode"
+    ],
+    "A40960-e14620": [
+      "club"
+    ],
+    "A40960-e14660": [
+      "mockmode"
+    ],
+    "A40960-e14720": [
+      "club"
+    ],
+    "A40960-e14750": [
+      "mockmode"
+    ],
+    "A40960-e14780": [
+      "club"
+    ],
+    "A40960-e14820": [
+      "mockmode"
+    ],
+    "A40960-e14850": [
+      "club"
+    ],
+    "A40960-e14890": [
+      "mockmode"
+    ],
+    "A40960-e14930": [
+      "club"
+    ],
+    "A40960-e14960": [
+      "mockmode"
+    ],
+    "A40960-e15070": [
+      "bullfinch"
+    ],
+    "A40960-e15110": [
+      "lovewell"
+    ],
+    "A40960-e15140": [
+      "bullfinch"
+    ],
+    "A40960-e15180": [
+      "lovewell"
+    ],
+    "A40960-e15210": [
+      "bullfinch"
+    ],
+    "A40960-e15240": [
+      "lovewell"
+    ],
+    "A40960-e15270": [
+      "bullfinch"
+    ],
+    "A40960-e15300": [
+      "lovewell"
+    ],
+    "A40960-e15330": [
+      "bullfinch"
+    ],
+    "A40960-e15430": [
+      "lovewell"
+    ],
+    "A40960-e15460": [
+      "brush"
+    ],
+    "A40960-e15490": [
+      "lovewell"
+    ],
+    "A40960-e15520": [
+      "brush"
+    ],
+    "A40960-e15550": [
+      "lovewell"
+    ],
+    "A40960-e15580": [
+      "brush"
+    ],
+    "A40960-e15610": [
+      "lovewell"
+    ],
+    "A40960-e15640": [
+      "brush"
+    ],
+    "A40960-e15670": [
+      "lovewell"
+    ],
+    "A40960-e15700": [
+      "brush"
+    ],
+    "A40960-e15740": [
+      "lovewell"
+    ],
+    "A40960-e16020": [
+      "roebuck"
+    ],
+    "A40960-e16090": [
+      "leanthe"
+    ],
+    "A40960-e16150": [
+      "roebuck"
+    ],
+    "A40960-e16180": [
+      "leanthe"
+    ],
+    "A40960-e16210": [
+      "roebuck"
+    ],
+    "A40960-e16240": [
+      "leanthe"
+    ],
+    "A40960-e16270": [
+      "roebuck"
+    ],
+    "A40960-e16300": [
+      "leanthe"
+    ],
+    "A40960-e16330": [
+      "roebuck"
+    ],
+    "A40960-e16370": [
+      "leanthe"
+    ],
+    "A40960-e16410": [
+      "roebuck"
+    ],
+    "A40960-e16450": [
+      "leanthe"
+    ],
+    "A40960-e16490": [
+      "roebuck"
+    ],
+    "A40960-e16530": [
+      "leanthe"
+    ],
+    "A40960-e16560": [
+      "roebuck"
+    ],
+    "A40960-e16590": [
+      "leanthe"
+    ],
+    "A40960-e16620": [
+      "roebuck"
+    ],
+    "A40960-e16700": [
+      "leanthe"
+    ],
+    "A40960-e16730": [
+      "roebuck"
+    ],
+    "A40960-e16760": [
+      "leanthe"
+    ],
+    "A40960-e16790": [
+      "roebuck"
+    ],
+    "A40960-e16820": [
+      "leanthe"
+    ],
+    "A40960-e16850": [
+      "roebuck"
+    ],
+    "A40960-e16880": [
+      "leanthe"
+    ],
+    "A40960-e16910": [
+      "roebuck"
+    ],
+    "A40960-e16940": [
+      "leanthe"
+    ],
+    "A40960-e16970": [
+      "roebuck"
+    ],
+    "A40960-e17000": [
+      "leanthe"
+    ],
+    "A40960-e17030": [
+      "roebuck"
+    ],
+    "A40960-e17080": [
+      "leanthe"
+    ],
+    "A40960-e17110": [
+      "roebuck"
+    ],
+    "A40960-e17140": [
+      "leanthe"
+    ],
+    "A40960-e17170": [
+      "roebuck"
+    ],
+    "A40960-e17200": [
+      "leanthe"
+    ],
+    "A40960-e17230": [
+      "roebuck"
+    ],
+    "A40960-e17520": [
+      "roebuck"
+    ],
+    "A40960-e17570": [
+      "leanthe"
+    ],
+    "A40960-e17610": [
+      "roebuck"
+    ],
+    "A40960-e17640": [
+      "leanthe"
+    ],
+    "A40960-e17670": [
+      "roebuck"
+    ],
+    "A40960-e17700": [
+      "leanthe"
+    ],
+    "A40960-e17730": [
+      "roebuck"
+    ],
+    "A40960-e17770": [
+      "leanthe"
+    ],
+    "A40960-e17800": [
+      "roebuck"
+    ],
+    "A40960-e17840": [
+      "leanthe"
+    ],
+    "A40960-e17870": [
+      "roebuck"
+    ],
+    "A40960-e17910": [
+      "leanthe"
+    ],
+    "A40960-e17940": [
+      "roebuck"
+    ],
+    "A40960-e17970": [
+      "leanthe"
+    ],
+    "A40960-e18010": [
+      "roebuck"
+    ],
+    "A40960-e18040": [
+      "leanthe"
+    ],
+    "A40960-e18080": [
+      "roebuck"
+    ],
+    "A40960-e18140": [
+      "lucinda"
+    ],
+    "A40960-e18170": [
+      "roebuck"
+    ],
+    "A40960-e18210": [
+      "lucinda"
+    ],
+    "A40960-e18250": [
+      "roebuck"
+    ],
+    "A40960-e18300": [
+      "lucinda"
+    ],
+    "A40960-e18330": [
+      "roebuck"
+    ],
+    "A40960-e18400": [
+      "lucinda"
+    ],
+    "A40960-e18430": [
+      "roebuck"
+    ],
+    "A40960-e18470": [
+      "lucinda"
+    ],
+    "A40960-e18500": [
+      "roebuck"
+    ],
+    "A40960-e18540": [
+      "lucinda"
+    ],
+    "A40960-e18610": [
+      "roebuck"
+    ],
+    "A40960-e18660": [
+      "leanthe"
+    ],
+    "A40960-e18690": [
+      "roebuck"
+    ],
+    "A40960-e18750": [
+      "lucinda"
+    ],
+    "A40960-e18780": [
+      "roebuck"
+    ],
+    "A40960-e18820": [
+      "leanthe"
+    ],
+    "A40960-e18870": [
+      "lucinda"
+    ],
+    "A40960-e18900": [
+      "roebuck"
+    ],
+    "A40960-e18950": [
+      "lucinda"
+    ],
+    "A40960-e18990": [
+      "roebuck"
+    ],
+    "A40960-e19060": [
+      "leanthe"
+    ],
+    "A40960-e19100": [
+      "lucinda"
+    ],
+    "A40960-e19150": [
+      "roebuck"
+    ],
+    "A40960-e19210": [
+      "leanthe"
+    ],
+    "A40960-e19240": [
+      "roebuck"
+    ],
+    "A40960-e19270": [
+      "leanthe"
+    ],
+    "A40960-e19300": [
+      "roebuck"
+    ],
+    "A40960-e19330": [
+      "leanthe"
+    ],
+    "A40960-e19380": [
+      "roebuck"
+    ],
+    "A40960-e19420": [
+      "leanthe"
+    ],
+    "A40960-e19480": [
+      "lucinda"
+    ],
+    "A40960-e19510": [
+      "leanthe"
+    ],
+    "A40960-e19540": [
+      "lucinda"
+    ],
+    "A40960-e19640": [
+      "lyrick"
+    ],
+    "A40960-e19840": [
+      "bullfinch"
+    ],
+    "A40960-e19900": [
+      "lyrick"
+    ],
+    "A40960-e19930": [
+      "bullfinch"
+    ],
+    "A40960-e19970": [
+      "lyrick"
+    ],
+    "A40960-e20000": [
+      "bullfinch"
+    ],
+    "A40960-e20030": [
+      "lyrick"
+    ],
+    "A40960-e20060": [
+      "bullfinch"
+    ],
+    "A40960-e20090": [
+      "lyrick"
+    ],
+    "A40960-e20120": [
+      "bullfinch"
+    ],
+    "A40960-e20150": [
+      "lyrick"
+    ],
+    "A40960-e20180": [
+      "bullfinch"
+    ],
+    "A40960-e20210": [
+      "lyrick"
+    ],
+    "A40960-e20240": [
+      "bullfinch"
+    ],
+    "A40960-e20270": [
+      "lyrick"
+    ],
+    "A40960-e20300": [
+      "bullfinch"
+    ],
+    "A40960-e20340": [
+      "lyrick"
+    ],
+    "A40960-e20370": [
+      "bullfinch"
+    ],
+    "A40960-e20400": [
+      "lyrick"
+    ],
+    "A40960-e20430": [
+      "bullfinch"
+    ],
+    "A40960-e20470": [
+      "lyrick"
+    ],
+    "A40960-e20540": [
+      "pamphlet"
+    ],
+    "A40960-e20580": [
+      "lyrick"
+    ],
+    "A40960-e20610": [
+      "pamphlet"
+    ],
+    "A40960-e20640": [
+      "lyrick"
+    ],
+    "A40960-e20670": [
+      "pamphlet"
+    ],
+    "A40960-e20700": [
+      "lyrick"
+    ],
+    "A40960-e20730": [
+      "pamphlet"
+    ],
+    "A40960-e20760": [
+      "lyrick"
+    ],
+    "A40960-e21000": [
+      "pamphlet"
+    ],
+    "A40960-e21030": [
+      "lyrick"
+    ],
+    "A40960-e21070": [
+      "pamphlet"
+    ],
+    "A40960-e21110": [
+      "lyrick"
+    ],
+    "A40960-e21150": [
+      "pamphlet"
+    ],
+    "A40960-e21180": [
+      "lyrick"
+    ],
+    "A40960-e21220": [
+      "pamphlet"
+    ],
+    "A40960-e21250": [
+      "lyrick"
+    ],
+    "A40960-e21300": [
+      "boy"
+    ],
+    "A40960-e21330": [
+      "lyrick"
+    ],
+    "A40960-e21370": [
+      "pamphlet"
+    ],
+    "A40960-e21400": [
+      "lyrick"
+    ],
+    "A40960-e21470": [
+      "pamphlet"
+    ],
+    "A40960-e21530": [
+      "bailiff-1"
+    ],
+    "A40960-e21560": [
+      "pamphlet"
+    ],
+    "A40960-e21600": [
+      "bailiff-2"
+    ],
+    "A40960-e21630": [
+      "pamphlet"
+    ],
+    "A40960-e21690": [
+      "bailiff-1"
+    ],
+    "A40960-e21730": [
+      "pamphlet"
+    ],
+    "A40960-e21780": [
+      "bailiff-1"
+    ],
+    "A40960-e21810": [
+      "pamphlet"
+    ],
+    "A40960-e21840": [
+      "bailiff-2"
+    ],
+    "A40960-e21870": [
+      "bailiff-1"
+    ],
+    "A40960-e21910": [
+      "pamphlet"
+    ],
+    "A40960-e21950": [
+      "bailiff-1"
+    ],
+    "A40960-e22060": [
+      "lyrick"
+    ],
+    "A40960-e22110": [
+      "mockmode"
+    ],
+    "A40960-e22150": [
+      "lyrick"
+    ],
+    "A40960-e22180": [
+      "mockmode"
+    ],
+    "A40960-e22220": [
+      "lyrick"
+    ],
+    "A40960-e22250": [
+      "mockmode"
+    ],
+    "A40960-e22300": [
+      "lyrick"
+    ],
+    "A40960-e22330": [
+      "mockmode"
+    ],
+    "A40960-e22360": [
+      "lyrick"
+    ],
+    "A40960-e22410": [
+      "mockmode"
+    ],
+    "A40960-e22440": [
+      "lyrick"
+    ],
+    "A40960-e22470": [
+      "mockmode"
+    ],
+    "A40960-e22540": [
+      "lyrick"
+    ],
+    "A40960-e22570": [
+      "mockmode"
+    ],
+    "A40960-e22600": [
+      "lyrick"
+    ],
+    "A40960-e22630": [
+      "mockmode"
+    ],
+    "A40960-e22670": [
+      "club"
+    ],
+    "A40960-e22700": [
+      "lyrick"
+    ],
+    "A40960-e22760": [
+      "mockmode"
+    ],
+    "A40960-e22790": [
+      "lyrick"
+    ],
+    "A40960-e22840": [
+      "mockmode"
+    ],
+    "A40960-e22880": [
+      "club"
+    ],
+    "A40960-e22910": [
+      "lyrick"
+    ],
+    "A40960-e22940": [
+      "club"
+    ],
+    "A40960-e22970": [
+      "lyrick"
+    ],
+    "A40960-e23000": [
+      "mockmode"
+    ],
+    "A40960-e23040": [
+      "lyrick"
+    ],
+    "A40960-e23070": [
+      "club"
+    ],
+    "A40960-e23110": [
+      "lyrick"
+    ],
+    "A40960-e23140": [
+      "mockmode"
+    ],
+    "A40960-e23170": [
+      "lyrick"
+    ],
+    "A40960-e23200": [
+      "mockmode"
+    ],
+    "A40960-e23230": [
+      "club"
+    ],
+    "A40960-e23260": [
+      "lyrick"
+    ],
+    "A40960-e23290": [
+      "mockmode"
+    ],
+    "A40960-e23320": [
+      "lyrick"
+    ],
+    "A40960-e23510": [
+      "lyrick"
+    ],
+    "A40960-e23550": [
+      "mockmode"
+    ],
+    "A40960-e23580": [
+      "club"
+    ],
+    "A40960-e23610": [
+      "lyrick"
+    ],
+    "A40960-e23650": [
+      "roebuck"
+    ],
+    "A40960-e23710": [
+      "club"
+    ],
+    "A40960-e23740": [
+      "roebuck"
+    ],
+    "A40960-e23770": [
+      "mockmode"
+    ],
+    "A40960-e23820": [
+      "roebuck"
+    ],
+    "A40960-e23850": [
+      "mockmode"
+    ],
+    "A40960-e23880": [
+      "roebuck"
+    ],
+    "A40960-e23910": [
+      "mockmode"
+    ],
+    "A40960-e23940": [
+      "roebuck"
+    ],
+    "A40960-e23970": [
+      "mockmode"
+    ],
+    "A40960-e24000": [
+      "roebuck"
+    ],
+    "A40960-e24030": [
+      "mockmode"
+    ],
+    "A40960-e24060": [
+      "roebuck"
+    ],
+    "A40960-e24090": [
+      "mockmode"
+    ],
+    "A40960-e24120": [
+      "roebuck"
+    ],
+    "A40960-e24150": [
+      "mockmode"
+    ],
+    "A40960-e24190": [
+      "roebuck"
+    ],
+    "A40960-e24260": [
+      "mockmode"
+    ],
+    "A40960-e24300": [
+      "roebuck"
+    ],
+    "A40960-e24330": [
+      "mockmode"
+    ],
+    "A40960-e24370": [
+      "roebuck"
+    ],
+    "A40960-e24400": [
+      "mockmode"
+    ],
+    "A40960-e24450": [
+      "roebuck"
+    ],
+    "A40960-e24480": [
+      "mockmode"
+    ],
+    "A40960-e24520": [
+      "roebuck"
+    ],
+    "A40960-e24560": [
+      "mockmode"
+    ],
+    "A40960-e24590": [
+      "roebuck"
+    ],
+    "A40960-e24620": [
+      "mockmode"
+    ],
+    "A40960-e24650": [
+      "roebuck"
+    ],
+    "A40960-e24680": [
+      "mockmode"
+    ],
+    "A40960-e24710": [
+      "roebuck"
+    ],
+    "A40960-e24740": [
+      "mockmode"
+    ],
+    "A40960-e24770": [
+      "roebuck"
+    ],
+    "A40960-e24800": [
+      "mockmode"
+    ],
+    "A40960-e24830": [
+      "roebuck"
+    ],
+    "A40960-e24860": [
+      "mockmode"
+    ],
+    "A40960-e24900": [
+      "roebuck"
+    ],
+    "A40960-e24940": [
+      "mockmode"
+    ],
+    "A40960-e24990": [
+      "roebuck"
+    ],
+    "A40960-e25050": [
+      "brush"
+    ],
+    "A40960-e25080": [
+      "roebuck"
+    ],
+    "A40960-e25110": [
+      "brush"
+    ],
+    "A40960-e25140": [
+      "roebuck"
+    ],
+    "A40960-e25320": [
+      "pindress"
+    ],
+    "A40960-e25350": [
+      "leanthe"
+    ],
+    "A40960-e25390": [
+      "pindress"
+    ],
+    "A40960-e25420": [
+      "leanthe"
+    ],
+    "A40960-e25460": [
+      "pindress"
+    ],
+    "A40960-e25490": [
+      "leanthe"
+    ],
+    "A40960-e25550": [
+      "pindress"
+    ],
+    "A40960-e25580": [
+      "leanthe"
+    ],
+    "A40960-e25620": [
+      "pindress"
+    ],
+    "A40960-e25670": [
+      "leanthe"
+    ],
+    "A40960-e25700": [
+      "pindress"
+    ],
+    "A40960-e25760": [
+      "leanthe"
+    ],
+    "A40960-e25820": [
+      "lucinda"
+    ],
+    "A40960-e25850": [
+      "pindress"
+    ],
+    "A40960-e25880": [
+      "lucinda"
+    ],
+    "A40960-e25910": [
+      "pindress"
+    ],
+    "A40960-e25940": [
+      "lucinda"
+    ],
+    "A40960-e25980": [
+      "pindress"
+    ],
+    "A40960-e26020": [
+      "lucinda"
+    ],
+    "A40960-e26060": [
+      "pindress"
+    ],
+    "A40960-e26090": [
+      "leanthe"
+    ],
+    "A40960-e26130": [
+      "pindress"
+    ],
+    "A40960-e26160": [
+      "lucinda"
+    ],
+    "A40960-e26190": [
+      "pindress"
+    ],
+    "A40960-e26220": [
+      "lucinda"
+    ],
+    "A40960-e26250": [
+      "pindress"
+    ],
+    "A40960-e26300": [
+      "lucinda"
+    ],
+    "A40960-e26330": [
+      "pindress"
+    ],
+    "A40960-e26360": [
+      "lucinda"
+    ],
+    "A40960-e26410": [
+      "pindress"
+    ],
+    "A40960-e26440": [
+      "lucinda"
+    ],
+    "A40960-e26650": [
+      "lovewell"
+    ],
+    "A40960-e26690": [
+      "lyrick"
+    ],
+    "A40960-e26750": [
+      "lovewell"
+    ],
+    "A40960-e26790": [
+      "lyrick"
+    ],
+    "A40960-e26870": [
+      "lovewell"
+    ],
+    "A40960-e26900": [
+      "lyrick"
+    ],
+    "A40960-e26940": [
+      "lovewell"
+    ],
+    "A40960-e26970": [
+      "lyrick"
+    ],
+    "A40960-e27010": [
+      "lovewell"
+    ],
+    "A40960-e27040": [
+      "lyrick"
+    ],
+    "A40960-e27070": [
+      "lovewell"
+    ],
+    "A40960-e27100": [
+      "lyrick"
+    ],
+    "A40960-e27130": [
+      "lovewell"
+    ],
+    "A40960-e27170": [
+      "lyrick"
+    ],
+    "A40960-e27200": [
+      "lovewell"
+    ],
+    "A40960-e27230": [
+      "lyrick"
+    ],
+    "A40960-e27260": [
+      "lovewell"
+    ],
+    "A40960-e27290": [
+      "lyrick"
+    ],
+    "A40960-e27320": [
+      "lovewell"
+    ],
+    "A40960-e27360": [
+      "lucinda"
+    ],
+    "A40960-e27390": [
+      "lovewell"
+    ],
+    "A40960-e27420": [
+      "lyrick"
+    ],
+    "A40960-e27450": [
+      "lovewell"
+    ],
+    "A40960-e27490": [
+      "lyrick"
+    ],
+    "A40960-e27530": [
+      "lovewell"
+    ],
+    "A40960-e27560": [
+      "lyrick"
+    ],
+    "A40960-e27600": [
+      "lovewell"
+    ],
+    "A40960-e27630": [
+      "lyrick"
+    ],
+    "A40960-e27690": [
+      "lovewell"
+    ],
+    "A40960-e27780": [
+      "mockmode"
+    ],
+    "A40960-e27810": [
+      "trudge"
+    ],
+    "A40960-e27850": [
+      "mockmode"
+    ],
+    "A40960-e27880": [
+      "trudge"
+    ],
+    "A40960-e27920": [
+      "mockmode"
+    ],
+    "A40960-e27950": [
+      "trudge"
+    ],
+    "A40960-e28000": [
+      "mockmode"
+    ],
+    "A40960-e28050": [
+      "trudge"
+    ],
+    "A40960-e28090": [
+      "mockmode"
+    ],
+    "A40960-e28150": [
+      "trudge"
+    ],
+    "A40960-e28190": [
+      "mockmode"
+    ],
+    "A40960-e28230": [
+      "trudge"
+    ],
+    "A40960-e28260": [
+      "mockmode"
+    ],
+    "A40960-e28340": [
+      "mockmode"
+    ],
+    "A40960-e28380": [
+      "lovewell"
+    ],
+    "A40960-e28410": [
+      "mockmode"
+    ],
+    "A40960-e28440": [
+      "lovewell"
+    ],
+    "A40960-e28480": [
+      "mockmode"
+    ],
+    "A40960-e28510": [
+      "lovewell"
+    ],
+    "A40960-e28540": [
+      "mockmode"
+    ],
+    "A40960-e28570": [
+      "lovewell"
+    ],
+    "A40960-e28600": [
+      "mockmode"
+    ],
+    "A40960-e28650": [
+      "lovewell"
+    ],
+    "A40960-e28690": [
+      "mockmode"
+    ],
+    "A40960-e28750": [
+      "lovewell"
+    ],
+    "A40960-e28790": [
+      "mockmode"
+    ],
+    "A40960-e28900": [
+      "lovewell"
+    ],
+    "A40960-e28990": [
+      "lucinda"
+    ],
+    "A40960-e29020": [
+      "pindress"
+    ],
+    "A40960-e29050": [
+      "lucinda"
+    ],
+    "A40960-e29080": [
+      "pindress"
+    ],
+    "A40960-e29110": [
+      "lucinda"
+    ],
+    "A40960-e29140": [
+      "pindress"
+    ],
+    "A40960-e29180": [
+      "lovewell"
+    ],
+    "A40960-e29210": [
+      "pindress"
+    ],
+    "A40960-e29250": [
+      "lucinda"
+    ],
+    "A40960-e29360": [
+      "roebuck"
+    ],
+    "A40960-e29390": [
+      "masque-1"
+    ],
+    "A40960-e29430": [
+      "roebuck"
+    ],
+    "A40960-e29480": [
+      "masque-2"
+    ],
+    "A40960-e29520": [
+      "roebuck"
+    ],
+    "A40960-e29550": [
+      "masque-2"
+    ],
+    "A40960-e29580": [
+      "roebuck"
+    ],
+    "A40960-e29610": [
+      "masque-2"
+    ],
+    "A40960-e29640": [
+      "roebuck"
+    ],
+    "A40960-e29670": [
+      "masque-2"
+    ],
+    "A40960-e29700": [
+      "roebuck"
+    ],
+    "A40960-e29730": [
+      "masque-2"
+    ],
+    "A40960-e29760": [
+      "roebuck"
+    ],
+    "A40960-e29790": [
+      "masque-2"
+    ],
+    "A40960-e29820": [
+      "roebuck"
+    ],
+    "A40960-e29850": [
+      "masque-2"
+    ],
+    "A40960-e29880": [
+      "roebuck"
+    ],
+    "A40960-e29910": [
+      "masque-2"
+    ],
+    "A40960-e29960": [
+      "roebuck"
+    ],
+    "A40960-e30030": [
+      "lovewell"
+    ],
+    "A40960-e30060": [
+      "roebuck"
+    ],
+    "A40960-e30090": [
+      "lovewell"
+    ],
+    "A40960-e30120": [
+      "roebuck"
+    ],
+    "A40960-e30150": [
+      "lovewell"
+    ],
+    "A40960-e30180": [
+      "roebuck"
+    ],
+    "A40960-e30220": [
+      "lovewell"
+    ],
+    "A40960-e30250": [
+      "roebuck"
+    ],
+    "A40960-e30280": [
+      "lovewell"
+    ],
+    "A40960-e30310": [
+      "roebuck"
+    ],
+    "A40960-e30340": [
+      "lovewell"
+    ],
+    "A40960-e30400": [
+      "roebuck"
+    ],
+    "A40960-e30440": [
+      "lovewell"
+    ],
+    "A40960-e30490": [
+      "porter"
+    ],
+    "A40960-e30530": [
+      "lovewell"
+    ],
+    "A40960-e30570": [
+      "porter"
+    ],
+    "A40960-e30600": [
+      "lovewell"
+    ],
+    "A40960-e30630": [
+      "porter"
+    ],
+    "A40960-e30670": [
+      "lovewell"
+    ],
+    "A40960-e30710": [
+      "porter"
+    ],
+    "A40960-e30750": [
+      "lovewell"
+    ],
+    "A40960-e30980": [
+      "roebuck"
+    ],
+    "A40960-e31020": [
+      "porter"
+    ],
+    "A40960-e31050": [
+      "roebuck"
+    ],
+    "A40960-e31080": [
+      "porter"
+    ],
+    "A40960-e31110": [
+      "roebuck"
+    ],
+    "A40960-e31140": [
+      "porter"
+    ],
+    "A40960-e31180": [
+      "roebuck"
+    ],
+    "A40960-e31250": [
+      "lovewell"
+    ],
+    "A40960-e31280": [
+      "roebuck"
+    ],
+    "A40960-e31310": [
+      "lovewell"
+    ],
+    "A40960-e31340": [
+      "roebuck"
+    ],
+    "A40960-e31370": [
+      "lovewell"
+    ],
+    "A40960-e31400": [
+      "roebuck"
+    ],
+    "A40960-e31430": [
+      "lovewell"
+    ],
+    "A40960-e31460": [
+      "roebuck"
+    ],
+    "A40960-e31500": [
+      "lovewell"
+    ],
+    "A40960-e31530": [
+      "roebuck"
+    ],
+    "A40960-e31560": [
+      "lovewell"
+    ],
+    "A40960-e31590": [
+      "roebuck"
+    ],
+    "A40960-e31630": [
+      "lovewell"
+    ],
+    "A40960-e31670": [
+      "roebuck"
+    ],
+    "A40960-e31700": [
+      "lovewell"
+    ],
+    "A40960-e31730": [
+      "roebuck"
+    ],
+    "A40960-e31780": [
+      "lovewell"
+    ],
+    "A40960-e31820": [
+      "roebuck"
+    ],
+    "A40960-e31870": [
+      "lovewell"
+    ],
+    "A40960-e31910": [
+      "roebuck"
+    ],
+    "A40960-e31950": [
+      "lovewell"
+    ],
+    "A40960-e31990": [
+      "roebuck"
+    ],
+    "A40960-e32030": [
+      "lovewell"
+    ],
+    "A40960-e32070": [
+      "roebuck"
+    ],
+    "A40960-e32100": [
+      "lovewell"
+    ],
+    "A40960-e32190": [
+      "lyrick"
+    ],
+    "A40960-e32230": [
+      "lovewell"
+    ],
+    "A40960-e32260": [
+      "lyrick"
+    ],
+    "A40960-e32290": [
+      "lovewell"
+    ],
+    "A40960-e32340": [
+      "lyrick"
+    ],
+    "A40960-e32370": [
+      "mockmode"
+    ],
+    "A40960-e32400": [
+      "lyrick"
+    ],
+    "A40960-e32430": [
+      "mockmode"
+    ],
+    "A40960-e32460": [
+      "lyrick"
+    ],
+    "A40960-e32490": [
+      "mockmode"
+    ],
+    "A40960-e32520": [
+      "lyrick"
+    ],
+    "A40960-e32550": [
+      "mockmode"
+    ],
+    "A40960-e32670": [
+      "roebuck"
+    ],
+    "A40960-e32740": [
+      "lovewell"
+    ],
+    "A40960-e32780": [
+      "roebuck"
+    ],
+    "A40960-e32820": [
+      "lovewell"
+    ],
+    "A40960-e32850": [
+      "roebuck"
+    ],
+    "A40960-e32880": [
+      "lovewell"
+    ],
+    "A40960-e32910": [
+      "roebuck"
+    ],
+    "A40960-e32950": [
+      "lovewell"
+    ],
+    "A40960-e32980": [
+      "roebuck"
+    ],
+    "A40960-e33020": [
+      "lovewell"
+    ],
+    "A40960-e33120": [
+      "leanthe"
+    ],
+    "A40960-e33180": [
+      "lovewell"
+    ],
+    "A40960-e33210": [
+      "leanthe"
+    ],
+    "A40960-e33240": [
+      "lovewell"
+    ],
+    "A40960-e33280": [
+      "leanthe"
+    ],
+    "A40960-e33320": [
+      "lovewell"
+    ],
+    "A40960-e33350": [
+      "leanthe"
+    ],
+    "A40960-e33400": [
+      "lovewell"
+    ],
+    "A40960-e33440": [
+      "leanthe"
+    ],
+    "A40960-e33470": [
+      "lovewell"
+    ],
+    "A40960-e33500": [
+      "leanthe"
+    ],
+    "A40960-e33530": [
+      "lovewell"
+    ],
+    "A40960-e33580": [
+      "leanthe"
+    ],
+    "A40960-e33620": [
+      "lovewell"
+    ],
+    "A40960-e33650": [
+      "leanthe"
+    ],
+    "A40960-e33680": [
+      "lovewell"
+    ],
+    "A40960-e33710": [
+      "leanthe"
+    ],
+    "A40960-e33750": [
+      "lovewell"
+    ],
+    "A40960-e33780": [
+      "leanthe"
+    ],
+    "A40960-e33810": [
+      "lovewell"
+    ],
+    "A40960-e33840": [
+      "leanthe"
+    ],
+    "A40960-e33880": [
+      "lovewell"
+    ],
+    "A40960-e33920": [
+      "leanthe"
+    ],
+    "A40960-e33950": [
+      "lovewell"
+    ],
+    "A40960-e33990": [
+      "leanthe"
+    ],
+    "A40960-e34260": [
+      "roebuck"
+    ],
+    "A40960-e34340": [
+      "lucinda"
+    ],
+    "A40960-e34430": [
+      "roebuck"
+    ],
+    "A40960-e34470": [
+      "lucinda"
+    ],
+    "A40960-e34510": [
+      "roebuck"
+    ],
+    "A40960-e34580": [
+      "lucinda"
+    ],
+    "A40960-e34610": [
+      "roebuck"
+    ],
+    "A40960-e34640": [
+      "lucinda"
+    ],
+    "A40960-e34670": [
+      "roebuck"
+    ],
+    "A40960-e34700": [
+      "lucinda"
+    ],
+    "A40960-e34730": [
+      "roebuck"
+    ],
+    "A40960-e34780": [
+      "lucinda"
+    ],
+    "A40960-e34820": [
+      "roebuck"
+    ],
+    "A40960-e34850": [
+      "lucinda"
+    ],
+    "A40960-e34890": [
+      "roebuck"
+    ],
+    "A40960-e34930": [
+      "lucinda"
+    ],
+    "A40960-e34960": [
+      "roebuck"
+    ],
+    "A40960-e34990": [
+      "lucinda"
+    ],
+    "A40960-e35020": [
+      "roebuck"
+    ],
+    "A40960-e35070": [
+      "lucinda"
+    ],
+    "A40960-e35100": [
+      "roebuck"
+    ],
+    "A40960-e35140": [
+      "lucinda"
+    ],
+    "A40960-e35180": [
+      "roebuck"
+    ],
+    "A40960-e35210": [
+      "lucinda"
+    ],
+    "A40960-e35240": [
+      "roebuck"
+    ],
+    "A40960-e35270": [
+      "lucinda"
+    ],
+    "A40960-e35300": [
+      "roebuck"
+    ],
+    "A40960-e35330": [
+      "lucinda"
+    ],
+    "A40960-e35360": [
+      "roebuck"
+    ],
+    "A40960-e35400": [
+      "lucinda"
+    ],
+    "A40960-e35430": [
+      "roebuck"
+    ],
+    "A40960-e35480": [
+      "lucinda"
+    ],
+    "A40960-e35520": [
+      "roebuck"
+    ],
+    "A40960-e35590": [
+      "lucinda"
+    ],
+    "A40960-e35630": [
+      "roebuck"
+    ],
+    "A40960-e35670": [
+      "lucinda"
+    ],
+    "A40960-e35700": [
+      "roebuck"
+    ],
+    "A40960-e35850": [
+      "leanthe"
+    ],
+    "A40960-e35890": [
+      "lucinda"
+    ],
+    "A40960-e35920": [
+      "leanthe"
+    ],
+    "A40960-e35950": [
+      "lucinda"
+    ],
+    "A40960-e35980": [
+      "leanthe"
+    ],
+    "A40960-e36010": [
+      "lucinda"
+    ],
+    "A40960-e36040": [
+      "leanthe"
+    ],
+    "A40960-e36070": [
+      "lucinda"
+    ],
+    "A40960-e36100": [
+      "leanthe"
+    ],
+    "A40960-e36140": [
+      "lucinda"
+    ],
+    "A40960-e36180": [
+      "leanthe"
+    ],
+    "A40960-e36210": [
+      "lucinda"
+    ],
+    "A40960-e36260": [
+      "leanthe"
+    ],
+    "A40960-e36360": [
+      "pindress"
+    ],
+    "A40960-e36390": [
+      "leanthe"
+    ],
+    "A40960-e36420": [
+      "pindress"
+    ],
+    "A40960-e36450": [
+      "leanthe"
+    ],
+    "A40960-e36500": [
+      "pindress"
+    ],
+    "A40960-e36530": [
+      "leanthe"
+    ],
+    "A40960-e36590": [
+      "pindress"
+    ],
+    "A40960-e36620": [
+      "leanthe"
+    ],
+    "A40960-e36650": [
+      "pindress"
+    ],
+    "A40960-e36680": [
+      "leanthe"
+    ],
+    "A40960-e36710": [
+      "pindress"
+    ],
+    "A40960-e36750": [
+      "leanthe"
+    ],
+    "A40960-e36870": [
+      "lovewell"
+    ],
+    "A40960-e36950": [
+      "lovewell"
+    ],
+    "A40960-e37070": [
+      "lovewell"
+    ],
+    "A40960-e37150": [
+      "lovewell"
+    ],
+    "A40960-e37230": [
+      "club"
+    ],
+    "A40960-e37340": [
+      "club"
+    ],
+    "A40960-e37380": [
+      "lovewell"
+    ],
+    "A40960-e37410": [
+      "club"
+    ],
+    "A40960-e37440": [
+      "lovewell"
+    ],
+    "A40960-e37470": [
+      "club"
+    ],
+    "A40960-e37510": [
+      "lovewell"
+    ],
+    "A40960-e37540": [
+      "club"
+    ],
+    "A40960-e37570": [
+      "lovewell"
+    ],
+    "A40960-e37600": [
+      "club"
+    ],
+    "A40960-e37630": [
+      "lovewell"
+    ],
+    "A40960-e37670": [
+      "club"
+    ],
+    "A40960-e37700": [
+      "lovewell"
+    ],
+    "A40960-e37730": [
+      "club"
+    ],
+    "A40960-e37770": [
+      "lovewell"
+    ],
+    "A40960-e37800": [
+      "club"
+    ],
+    "A40960-e37840": [
+      "lovewell"
+    ],
+    "A40960-e37870": [
+      "club"
+    ],
+    "A40960-e37930": [
+      "lovewell"
+    ],
+    "A40960-e37960": [
+      "club"
+    ],
+    "A40960-e37990": [
+      "lovewell"
+    ],
+    "A40960-e38020": [
+      "club"
+    ],
+    "A40960-e38070": [
+      "lovewell"
+    ],
+    "A40960-e38100": [
+      "club"
+    ],
+    "A40960-e38140": [
+      "lovewell"
+    ],
+    "A40960-e38170": [
+      "club"
+    ],
+    "A40960-e38220": [
+      "lovewell"
+    ],
+    "A40960-e38250": [
+      "club"
+    ],
+    "A40960-e38280": [
+      "lovewell"
+    ],
+    "A40960-e38320": [
+      "club"
+    ],
+    "A40960-e38410": [
+      "brush"
+    ],
+    "A40960-e38480": [
+      "lovewell"
+    ],
+    "A40960-e38510": [
+      "brush"
+    ],
+    "A40960-e38550": [
+      "lovewell"
+    ],
+    "A40960-e38650": [
+      "roebuck"
+    ],
+    "A40960-e38690": [
+      "lovewell"
+    ],
+    "A40960-e38720": [
+      "roebuck"
+    ],
+    "A40960-e38760": [
+      "lovewell"
+    ],
+    "A40960-e38790": [
+      "roebuck"
+    ],
+    "A40960-e38830": [
+      "lovewell"
+    ],
+    "A40960-e38860": [
+      "roebuck"
+    ],
+    "A40960-e38940": [
+      "lovewell"
+    ],
+    "A40960-e38980": [
+      "roebuck"
+    ],
+    "A40960-e39010": [
+      "lovewell"
+    ],
+    "A40960-e39040": [
+      "roebuck"
+    ],
+    "A40960-e39070": [
+      "lovewell"
+    ],
+    "A40960-e39110": [
+      "roebuck"
+    ],
+    "A40960-e39140": [
+      "lovewell"
+    ],
+    "A40960-e39180": [
+      "roebuck"
+    ],
+    "A40960-e39220": [
+      "lovewell"
+    ],
+    "A40960-e39270": [
+      "roebuck"
+    ],
+    "A40960-e39310": [
+      "lovewell"
+    ],
+    "A40960-e39340": [
+      "roebuck"
+    ],
+    "A40960-e39370": [
+      "lovewell"
+    ],
+    "A40960-e39400": [
+      "roebuck"
+    ],
+    "A40960-e39430": [
+      "lovewell"
+    ],
+    "A40960-e39470": [
+      "roebuck"
+    ],
+    "A40960-e39540": [
+      "lovewell"
+    ],
+    "A40960-e39570": [
+      "roebuck"
+    ],
+    "A40960-e39610": [
+      "lovewell"
+    ],
+    "A40960-e39640": [
+      "roebuck"
+    ],
+    "A40960-e39680": [
+      "lovewell"
+    ],
+    "A40960-e39710": [
+      "roebuck"
+    ],
+    "A40960-e39740": [
+      "lovewell"
+    ],
+    "A40960-e39790": [
+      "roebuck"
+    ],
+    "A40960-e39840": [
+      "lovewell"
+    ],
+    "A40960-e39870": [
+      "roebuck"
+    ],
+    "A40960-e39900": [
+      "lovewell"
+    ],
+    "A40960-e39940": [
+      "roebuck"
+    ],
+    "A40960-e40000": [
+      "leanthe"
+    ],
+    "A40960-e40030": [
+      "roebuck"
+    ],
+    "A40960-e40070": [
+      "lovewell"
+    ],
+    "A40960-e40100": [
+      "roebuck"
+    ],
+    "A40960-e40150": [
+      "leanthe"
+    ],
+    "A40960-e40210": [
+      "roebuck"
+    ],
+    "A40960-e40240": [
+      "lovewell"
+    ],
+    "A40960-e40280": [
+      "roebuck"
+    ],
+    "A40960-e40310": [
+      "lovewell"
+    ],
+    "A40960-e40380": [
+      "mockmode"
+    ],
+    "A40960-e40410": [
+      "leanthe"
+    ],
+    "A40960-e40440": [
+      "mockmode"
+    ],
+    "A40960-e40480": [
+      "lovewell"
+    ],
+    "A40960-e40520": [
+      "roebuck"
+    ],
+    "A40960-e40570": [
+      "mockmode"
+    ],
+    "A40960-e40660": [
+      "trudge"
+    ],
+    "A40960-e40730": [
+      "mockmode"
+    ],
+    "A40960-e40760": [
+      "roebuck"
+    ],
+    "A40960-e40800": [
+      "trudge"
+    ],
+    "A40960-e40840": [
+      "lovewell"
+    ],
+    "A40960-e40880": [
+      "mockmode"
+    ],
+    "A40960-e40910": [
+      "trudge"
+    ],
+    "A40960-e40940": [
+      "mockmode"
+    ],
+    "A40960-e40980": [
+      "lyrick"
+    ],
+    "A40960-e41010": [
+      "lovewell"
+    ],
+    "A40960-e41050": [
+      "leanthe"
+    ],
+    "A40960-e41120": [
+      "roebuck"
+    ],
+    "A40960-e41160": [
+      "lyrick"
+    ],
+    "A40960-e41240": [
+      "mockmode"
+    ],
+    "A40960-e41290": [
+      "lyrick"
+    ],
+    "A40960-e41320": [
+      "mockmode"
+    ],
+    "A40960-e41370": [
+      "lyrick"
+    ],
+    "A40960-e41470": [
+      "mockmode"
+    ],
+    "A40960-e41510": [
+      "lovewell"
+    ],
+    "A40960-e41550": [
+      "bullfinch"
+    ],
+    "A40960-e41580": [
+      "lyrick"
+    ],
+    "A40960-e41610": [
+      "mockmode"
+    ],
+    "A40960-e41640": [
+      "lyrick"
+    ],
+    "A40960-e41680": [
+      "lyrick"
+    ],
+    "A40960-e41780": [
+      "lucinda"
+    ],
+    "A40960-e41810": [
+      "leanthe"
+    ],
+    "A40960-e41850": [
+      "roebuck"
+    ],
+    "A40960-e41880": [
+      "lucinda"
+    ],
+    "A40960-e41940": [
+      "leanthe"
+    ],
+    "A40960-e41970": [
+      "lovewell"
+    ],
+    "A40960-e42030": [
+      "lucinda"
+    ],
+    "A40960-e42080": [
+      "lovewell"
+    ],
+    "A40960-e42110": [
+      "roebuck"
+    ]
+  }
+}

@@ -1,0 +1,2563 @@
+{
+  "particDesc": [
+    {
+      "name": "Servant 4",
+      "id": "servant-4",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "name": "Servant 3",
+      "id": "servant-3",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "name": "Servant 2",
+      "id": "servant-2",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "name": "Servant 1",
+      "id": "servant-1",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "name": "Boy",
+      "id": "boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Widow",
+      "id": "widow",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Ralph",
+      "id": "ralph",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Will",
+      "id": "will",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "id": "colonel-jolly",
+      "name": "Colonel Jolly",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "id": "mistris-aurelia",
+      "name": "Mistris Aurelia",
+      "isGroup": false,
+	  "sex": "FEMALE"
+    },
+    {
+      "id": "mistris-lucia",
+      "name": "Mistris Lucia",
+      "isGroup": false,
+	  "sex": "FEMALE"
+    },
+    {
+      "id": "cutter",
+      "name": "Cutter",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "id": "worm",
+      "name": "Worm",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "id": "mr-puny",
+      "name": "Mr. Puny",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mr-truman-senior",
+      "name": "Mr. Truman Senior",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mr-truman-junior",
+      "name": "Mr. Truman Junior",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mistris-barebottle",
+      "name": "Mistris Barebottle",
+      "isGroup": false,
+	  "sex": "FEMALE"
+    },
+    {
+      "id": "mistris-tabitha",
+      "name": "Mistris Tabitha",
+      "isGroup": false,
+	  "sex": "FEMALE"
+    },
+    {
+      "id": "mistris-jane",
+      "name": "Mistris Jane",
+      "isGroup": false,
+	  "sex": "FEMALE"
+    },
+    {
+      "id": "mr-soaker",
+      "name": "Mr. Soaker",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "several-servants",
+      "name": "Several Servants",
+      "isGroup": false,
+	  "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A34817-e1310": [
+      "mr-truman-junior"
+    ],
+    "A34817-e1600": [
+      "mr-truman-senior"
+    ],
+    "A34817-e1680": [
+      "mr-truman-junior"
+    ],
+    "A34817-e1720": [
+      "mr-truman-senior"
+    ],
+    "A34817-e1750": [
+      "mr-truman-junior"
+    ],
+    "A34817-e1790": [
+      "mr-truman-senior"
+    ],
+    "A34817-e1840": [
+      "mr-truman-junior"
+    ],
+    "A34817-e1870": [
+      "mr-truman-senior"
+    ],
+    "A34817-e1930": [
+      "mr-truman-junior"
+    ],
+    "A34817-e1990": [
+      "mr-truman-senior"
+    ],
+    "A34817-e2080": [
+      "mr-truman-junior"
+    ],
+    "A34817-e2120": [
+      "mr-truman-senior"
+    ],
+    "A34817-e2170": [
+      "mr-truman-junior"
+    ],
+    "A34817-e2310": [
+      "servant"
+    ],
+    "A34817-e2340": [
+      "mr-truman-junior"
+    ],
+    "A34817-e2370": [
+      "servant"
+    ],
+    "A34817-e2410": [
+      "mr-truman-junior"
+    ],
+    "A34817-e2480": [
+      "mr-truman-junior"
+    ],
+    "A34817-e3000": [
+      "colonel-jolly"
+    ],
+    "A34817-e3040": [
+      "will"
+    ],
+    "A34817-e3070": [
+      "colonel-jolly"
+    ],
+    "A34817-e3100": [
+      "will"
+    ],
+    "A34817-e3130": [
+      "colonel-jolly"
+    ],
+    "A34817-e3160": [
+      "will"
+    ],
+    "A34817-e3200": [
+      "colonel-jolly"
+    ],
+    "A34817-e3330": [
+      "will"
+    ],
+    "A34817-e3370": [
+      "colonel-jolly"
+    ],
+    "A34817-e3430": [
+      "colonel-jolly"
+    ],
+    "A34817-e3460": [
+      "cutter"
+    ],
+    "A34817-e3490": [
+      "colonel-jolly"
+    ],
+    "A34817-e3520": [
+      "worm"
+    ],
+    "A34817-e3560": [
+      "colonel-jolly"
+    ],
+    "A34817-e3600": [
+      "cutter"
+    ],
+    "A34817-e3630": [
+      "worm"
+    ],
+    "A34817-e3660": [
+      "colonel-jolly"
+    ],
+    "A34817-e3690": [
+      "worm"
+    ],
+    "A34817-e3760": [
+      "colonel-jolly"
+    ],
+    "A34817-e3790": [
+      "cutter"
+    ],
+    "A34817-e3830": [
+      "colonel-jolly"
+    ],
+    "A34817-e3870": [
+      "cutter"
+    ],
+    "A34817-e3920": [
+      "colonel-jolly"
+    ],
+    "A34817-e3960": [
+      "cutter"
+    ],
+    "A34817-e3990": [
+      "colonel-jolly"
+    ],
+    "A34817-e4020": [
+      "cutter"
+    ],
+    "A34817-e4050": [
+      "worm"
+    ],
+    "A34817-e4080": [
+      "colonel-jolly"
+    ],
+    "A34817-e4120": [
+      "cutter"
+    ],
+    "A34817-e4150": [
+      "colonel-jolly"
+    ],
+    "A34817-e4190": [
+      "worm"
+    ],
+    "A34817-e4220": [
+      "colonel-jolly"
+    ],
+    "A34817-e4250": [
+      "cutter"
+    ],
+    "A34817-e4280": [
+      "colonel-jolly"
+    ],
+    "A34817-e4340": [
+      "cutter"
+    ],
+    "A34817-e4380": [
+      "worm"
+    ],
+    "A34817-e4450": [
+      "colonel-jolly"
+    ],
+    "A34817-e4510": [
+      "worm"
+    ],
+    "A34817-e4540": [
+      "colonel-jolly"
+    ],
+    "A34817-e4590": [
+      "worm"
+    ],
+    "A34817-e4620": [
+      "colonel-jolly"
+    ],
+    "A34817-e4650": [
+      "cutter"
+    ],
+    "A34817-e4680": [
+      "colonel-jolly"
+    ],
+    "A34817-e4710": [
+      "worm"
+    ],
+    "A34817-e4740": [
+      "colonel-jolly"
+    ],
+    "A34817-e4770": [
+      "worm"
+    ],
+    "A34817-e4800": [
+      "cutter"
+    ],
+    "A34817-e4840": [
+      "worm"
+    ],
+    "A34817-e4890": [
+      "cutter"
+    ],
+    "A34817-e4920": [
+      "worm"
+    ],
+    "A34817-e4970": [
+      "colonel-jolly"
+    ],
+    "A34817-e5000": [
+      "worm"
+    ],
+    "A34817-e5030": [
+      "cutter"
+    ],
+    "A34817-e5070": [
+      "colonel-jolly"
+    ],
+    "A34817-e5110": [
+      "worm"
+    ],
+    "A34817-e5150": [
+      "cutter"
+    ],
+    "A34817-e5180": [
+      "worm"
+    ],
+    "A34817-e5220": [
+      "cutter"
+    ],
+    "A34817-e5280": [
+      "mistris-lucia"
+    ],
+    "A34817-e5370": [
+      "cutter"
+    ],
+    "A34817-e5420": [
+      "mistris-lucia"
+    ],
+    "A34817-e5450": [
+      "cutter"
+    ],
+    "A34817-e5480": [
+      "mistris-lucia"
+    ],
+    "A34817-e5510": [
+      "cutter"
+    ],
+    "A34817-e5560": [
+      "mistris-lucia"
+    ],
+    "A34817-e5590": [
+      "cutter"
+    ],
+    "A34817-e5660": [
+      "worm"
+    ],
+    "A34817-e5690": [
+      "mistris-lucia"
+    ],
+    "A34817-e5740": [
+      "worm"
+    ],
+    "A34817-e5790": [
+      "mistris-lucia"
+    ],
+    "A34817-e5820": [
+      "cutter"
+    ],
+    "A34817-e5860": [
+      "worm"
+    ],
+    "A34817-e5900": [
+      "cutter"
+    ],
+    "A34817-e5930": [
+      "worm"
+    ],
+    "A34817-e5980": [
+      "cutter"
+    ],
+    "A34817-e6010": [
+      "worm"
+    ],
+    "A34817-e6050": [
+      "cutter"
+    ],
+    "A34817-e6080": [
+      "worm"
+    ],
+    "A34817-e6110": [
+      "mistris-lucia"
+    ],
+    "A34817-e6140": [
+      "worm"
+    ],
+    "A34817-e6200": [
+      "cutter"
+    ],
+    "A34817-e6250": [
+      "mistris-lucia"
+    ],
+    "A34817-e6300": [
+      "worm"
+    ],
+    "A34817-e6340": [
+      "mistris-lucia"
+    ],
+    "A34817-e6550": [
+      "mistris-aurelia"
+    ],
+    "A34817-e6730": [
+      "mistris-jane"
+    ],
+    "A34817-e6760": [
+      "mistris-aurelia"
+    ],
+    "A34817-e6800": [
+      "mistris-jane"
+    ],
+    "A34817-e6830": [
+      "mistris-aurelia"
+    ],
+    "A34817-e6880": [
+      "mistris-jane"
+    ],
+    "A34817-e6910": [
+      "mistris-aurelia"
+    ],
+    "A34817-e6960": [
+      "mistris-jane"
+    ],
+    "A34817-e7000": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7060": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7090": [
+      "mr-puny"
+    ],
+    "A34817-e7120": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7160": [
+      "mr-puny"
+    ],
+    "A34817-e7190": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7230": [
+      "mr-puny"
+    ],
+    "A34817-e7260": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7300": [
+      "mr-puny"
+    ],
+    "A34817-e7340": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7370": [
+      "mr-puny"
+    ],
+    "A34817-e7420": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7450": [
+      "mr-puny"
+    ],
+    "A34817-e7490": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7520": [
+      "mr-puny"
+    ],
+    "A34817-e7550": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7600": [
+      "mr-puny"
+    ],
+    "A34817-e7640": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7680": [
+      "mr-puny"
+    ],
+    "A34817-e7710": [
+      "mistris-aurelia"
+    ],
+    "A34817-e7790": [
+      "cutter"
+    ],
+    "A34817-e7820": [
+      "worm"
+    ],
+    "A34817-e7850": [
+      "cutter"
+    ],
+    "A34817-e7880": [
+      "worm"
+    ],
+    "A34817-e7910": [
+      "cutter"
+    ],
+    "A34817-e7950": [
+      "worm"
+    ],
+    "A34817-e7980": [
+      "cutter"
+    ],
+    "A34817-e8030": [
+      "worm"
+    ],
+    "A34817-e8080": [
+      "cutter"
+    ],
+    "A34817-e8110": [
+      "worm"
+    ],
+    "A34817-e8140": [
+      "cutter"
+    ],
+    "A34817-e8170": [
+      "worm"
+    ],
+    "A34817-e8200": [
+      "cutter"
+    ],
+    "A34817-e8230": [
+      "worm"
+    ],
+    "A34817-e8270": [
+      "cutter"
+    ],
+    "A34817-e8340": [
+      "mistris-aurelia"
+    ],
+    "A34817-e8380": [
+      "mr-puny"
+    ],
+    "A34817-e8420": [
+      "mistris-aurelia"
+    ],
+    "A34817-e8460": [
+      "mr-puny"
+    ],
+    "A34817-e8490": [
+      "cutter"
+    ],
+    "A34817-e8540": [
+      "worm"
+    ],
+    "A34817-e8570": [
+      "mr-puny"
+    ],
+    "A34817-e8630": [
+      "cutter"
+    ],
+    "A34817-e8670": [
+      "mistris-aurelia"
+    ],
+    "A34817-e8700": [
+      "cutter"
+    ],
+    "A34817-e8730": [
+      "mistris-aurelia"
+    ],
+    "A34817-e8760": [
+      "worm"
+    ],
+    "A34817-e8790": [
+      "mistris-aurelia"
+    ],
+    "A34817-e8820": [
+      "cutter"
+    ],
+    "A34817-e8860": [
+      "mistris-jane"
+    ],
+    "A34817-e8900": [
+      "mistris-aurelia"
+    ],
+    "A34817-e8940": [
+      "cutter"
+    ],
+    "A34817-e8970": [
+      "worm"
+    ],
+    "A34817-e9000": [
+      "mistris-aurelia"
+    ],
+    "A34817-e9100": [
+      "mr-truman-junior"
+    ],
+    "A34817-e9160": [
+      "cutter"
+    ],
+    "A34817-e9190": [
+      "mr-truman-junior"
+    ],
+    "A34817-e9240": [
+      "mistris-aurelia"
+    ],
+    "A34817-e9270": [
+      "mr-truman-junior"
+    ],
+    "A34817-e9380": [
+      "mr-truman-junior"
+    ],
+    "A34817-e9420": [
+      "worm"
+    ],
+    "A34817-e9450": [
+      "cutter"
+    ],
+    "A34817-e9480": [
+      "mr-truman-junior"
+    ],
+    "A34817-e9610": [
+      "mistris-aurelia"
+    ],
+    "A34817-e9690": [
+      "will"
+    ],
+    "A34817-e9740": [
+      "mistris-aurelia"
+    ],
+    "A34817-e9770": [
+      "ralph"
+    ],
+    "A34817-e9800": [
+      "mistris-aurelia"
+    ],
+    "A34817-e9830": [
+      "will"
+    ],
+    "A34817-e9860": [
+      "mistris-aurelia"
+    ],
+    "A34817-e9890": [
+      "will"
+    ],
+    "A34817-e9930": [
+      "mistris-aurelia"
+    ],
+    "A34817-e9980": [
+      "cutter"
+    ],
+    "A34817-e10020": [
+      "worm"
+    ],
+    "A34817-e10110": [
+      "colonel-jolly"
+    ],
+    "A34817-e10140": [
+      "mistris-aurelia"
+    ],
+    "A34817-e10170": [
+      "colonel-jolly"
+    ],
+    "A34817-e10200": [
+      "will"
+    ],
+    "A34817-e10230": [
+      "colonel-jolly"
+    ],
+    "A34817-e10260": [
+      "mistris-aurelia"
+    ],
+    "A34817-e10300": [
+      "colonel-jolly"
+    ],
+    "A34817-e10340": [
+      "cutter"
+    ],
+    "A34817-e10370": [
+      "mistris-aurelia"
+    ],
+    "A34817-e10400": [
+      "worm"
+    ],
+    "A34817-e10430": [
+      "mistris-aurelia"
+    ],
+    "A34817-e10460": [
+      "will"
+    ],
+    "A34817-e10520": [
+      "mistris-aurelia"
+    ],
+    "A34817-e10570": [
+      "colonel-jolly"
+    ],
+    "A34817-e10600": [
+      "mistris-lucia"
+    ],
+    "A34817-e10630": [
+      "cutter"
+    ],
+    "A34817-e10690": [
+      "worm"
+    ],
+    "A34817-e10720": [
+      "mistris-lucia"
+    ],
+    "A34817-e10770": [
+      "colonel-jolly"
+    ],
+    "A34817-e10800": [
+      "mistris-lucia"
+    ],
+    "A34817-e10940": [
+      "colonel-jolly"
+    ],
+    "A34817-e10980": [
+      "mistris-lucia"
+    ],
+    "A34817-e11020": [
+      "colonel-jolly"
+    ],
+    "A34817-e11050": [
+      "mistris-lucia"
+    ],
+    "A34817-e11100": [
+      "worm"
+    ],
+    "A34817-e11130": [
+      "cutter"
+    ],
+    "A34817-e11180": [
+      "colonel-jolly"
+    ],
+    "A34817-e11260": [
+      "mr-truman-junior"
+    ],
+    "A34817-e11300": [
+      "colonel-jolly"
+    ],
+    "A34817-e11350": [
+      "mr-truman-junior"
+    ],
+    "A34817-e11380": [
+      "will"
+    ],
+    "A34817-e11410": [
+      "mistris-lucia"
+    ],
+    "A34817-e11440": [
+      "colonel-jolly"
+    ],
+    "A34817-e11510": [
+      "mistris-aurelia"
+    ],
+    "A34817-e11540": [
+      "colonel-jolly"
+    ],
+    "A34817-e11580": [
+      "mistris-aurelia"
+    ],
+    "A34817-e11610": [
+      "colonel-jolly"
+    ],
+    "A34817-e11650": [
+      "will"
+    ],
+    "A34817-e11700": [
+      "colonel-jolly"
+    ],
+    "A34817-e11750": [
+      "will"
+    ],
+    "A34817-e11790": [
+      "colonel-jolly"
+    ],
+    "A34817-e11870": [
+      "widow"
+    ],
+    "A34817-e11900": [
+      "colonel-jolly"
+    ],
+    "A34817-e11930": [
+      "widow"
+    ],
+    "A34817-e11980": [
+      "colonel-jolly"
+    ],
+    "A34817-e12010": [
+      "mistris-tabitha"
+    ],
+    "A34817-e12050": [
+      "widow"
+    ],
+    "A34817-e12090": [
+      "colonel-jolly"
+    ],
+    "A34817-e12120": [
+      "widow"
+    ],
+    "A34817-e12170": [
+      "colonel-jolly"
+    ],
+    "A34817-e12200": [
+      "widow"
+    ],
+    "A34817-e12280": [
+      "mistris-tabitha"
+    ],
+    "A34817-e12320": [
+      "widow"
+    ],
+    "A34817-e12370": [
+      "colonel-jolly"
+    ],
+    "A34817-e12400": [
+      "widow"
+    ],
+    "A34817-e12430": [
+      "cutter"
+    ],
+    "A34817-e12470": [
+      "widow"
+    ],
+    "A34817-e12510": [
+      "colonel-jolly"
+    ],
+    "A34817-e12580": [
+      "worm"
+    ],
+    "A34817-e12610": [
+      "cutter"
+    ],
+    "A34817-e12640": [
+      "colonel-jolly"
+    ],
+    "A34817-e12690": [
+      "cutter"
+    ],
+    "A34817-e12720": [
+      "colonel-jolly"
+    ],
+    "A34817-e12790": [
+      "worm"
+    ],
+    "A34817-e12840": [
+      "cutter"
+    ],
+    "A34817-e12890": [
+      "worm"
+    ],
+    "A34817-e12920": [
+      "worm",
+      "cutter"
+    ],
+    "A34817-e12950": [
+      "worm"
+    ],
+    "A34817-e12990": [
+      "colonel-jolly"
+    ],
+    "A34817-e13020": [
+      "worm"
+    ],
+    "A34817-e13070": [
+      "cutter"
+    ],
+    "A34817-e13100": [
+      "worm"
+    ],
+    "A34817-e13130": [
+      "worm",
+      "cutter"
+    ],
+    "A34817-e13170": [
+      "cutter"
+    ],
+    "A34817-e13200": [
+      "worm"
+    ],
+    "A34817-e13230": [
+      "cutter"
+    ],
+    "A34817-e13260": [
+      "worm",
+      "cutter"
+    ],
+    "A34817-e13310": [
+      "worm"
+    ],
+    "A34817-e13340": [
+      "cutter"
+    ],
+    "A34817-e13370": [
+      "worm"
+    ],
+    "A34817-e13400": [
+      "cutter"
+    ],
+    "A34817-e13430": [
+      "worm"
+    ],
+    "A34817-e13460": [
+      "worm",
+      "cutter"
+    ],
+    "A34817-e13490": [
+      "worm"
+    ],
+    "A34817-e13530": [
+      "colonel-jolly"
+    ],
+    "A34817-e13560": [
+      "will"
+    ],
+    "A34817-e13600": [
+      "worm"
+    ],
+    "A34817-e13660": [
+      "worm",
+      "cutter"
+    ],
+    "A34817-e13700": [
+      "worm"
+    ],
+    "A34817-e13750": [
+      "worm"
+    ],
+    "A34817-e13780": [
+      "worm",
+      "cutter"
+    ],
+    "A34817-e13810": [
+      "colonel-jolly"
+    ],
+    "A34817-e13840": [
+      "will"
+    ],
+    "A34817-e13870": [
+      "cutter"
+    ],
+    "A34817-e13900": [
+      "worm"
+    ],
+    "A34817-e13940": [
+      "worm",
+      "cutter"
+    ],
+    "A34817-e14040": [
+      "colonel-jolly"
+    ],
+    "A34817-e14080": [
+      "mistris-aurelia"
+    ],
+    "A34817-e14110": [
+      "colonel-jolly"
+    ],
+    "A34817-e14160": [
+      "mistris-aurelia"
+    ],
+    "A34817-e14210": [
+      "colonel-jolly"
+    ],
+    "A34817-e14240": [
+      "mistris-aurelia"
+    ],
+    "A34817-e14270": [
+      "colonel-jolly"
+    ],
+    "A34817-e14310": [
+      "mistris-aurelia"
+    ],
+    "A34817-e14400": [
+      "colonel-jolly"
+    ],
+    "A34817-e14470": [
+      "mistris-aurelia"
+    ],
+    "A34817-e14520": [
+      "ralph"
+    ],
+    "A34817-e14560": [
+      "mistris-aurelia"
+    ],
+    "A34817-e14610": [
+      "ralph"
+    ],
+    "A34817-e14640": [
+      "mistris-aurelia"
+    ],
+    "A34817-e14730": [
+      "mr-truman-junior"
+    ],
+    "A34817-e14980": [
+      "mr-truman-junior"
+    ],
+    "A34817-e15390": [
+      "mistris-aurelia"
+    ],
+    "A34817-e15500": [
+      "mr-puny"
+    ],
+    "A34817-e15550": [
+      "mistris-aurelia"
+    ],
+    "A34817-e15590": [
+      "mr-puny"
+    ],
+    "A34817-e15620": [
+      "mistris-aurelia"
+    ],
+    "A34817-e15660": [
+      "mr-puny"
+    ],
+    "A34817-e15690": [
+      "mistris-aurelia"
+    ],
+    "A34817-e15730": [
+      "mr-puny"
+    ],
+    "A34817-e15770": [
+      "mistris-aurelia"
+    ],
+    "A34817-e15820": [
+      "mr-puny"
+    ],
+    "A34817-e15850": [
+      "mistris-aurelia"
+    ],
+    "A34817-e15890": [
+      "mr-puny"
+    ],
+    "A34817-e15930": [
+      "mistris-aurelia"
+    ],
+    "A34817-e15970": [
+      "mr-puny"
+    ],
+    "A34817-e16020": [
+      "mistris-aurelia"
+    ],
+    "A34817-e16050": [
+      "mr-puny"
+    ],
+    "A34817-e16090": [
+      "mistris-aurelia"
+    ],
+    "A34817-e16120": [
+      "mr-puny"
+    ],
+    "A34817-e16160": [
+      "mistris-aurelia"
+    ],
+    "A34817-e16220": [
+      "mr-puny"
+    ],
+    "A34817-e16300": [
+      "mistris-aurelia"
+    ],
+    "A34817-e16340": [
+      "mr-puny"
+    ],
+    "A34817-e16380": [
+      "mistris-aurelia"
+    ],
+    "A34817-e16410": [
+      "mr-puny"
+    ],
+    "A34817-e16450": [
+      "mr-soaker"
+    ],
+    "A34817-e16480": [
+      "mr-puny"
+    ],
+    "A34817-e16520": [
+      "mistris-aurelia"
+    ],
+    "A34817-e16560": [
+      "mr-puny"
+    ],
+    "A34817-e16620": [
+      "mistris-aurelia"
+    ],
+    "A34817-e16700": [
+      "colonel-jolly"
+    ],
+    "A34817-e16790": [
+      "cutter"
+    ],
+    "A34817-e16860": [
+      "colonel-jolly"
+    ],
+    "A34817-e16910": [
+      "cutter"
+    ],
+    "A34817-e17000": [
+      "mr-truman-senior"
+    ],
+    "A34817-e17040": [
+      "colonel-jolly"
+    ],
+    "A34817-e17080": [
+      "mr-truman-junior"
+    ],
+    "A34817-e17110": [
+      "colonel-jolly"
+    ],
+    "A34817-e17150": [
+      "mr-truman-junior"
+    ],
+    "A34817-e17200": [
+      "colonel-jolly"
+    ],
+    "A34817-e17250": [
+      "mr-truman-senior"
+    ],
+    "A34817-e17280": [
+      "colonel-jolly"
+    ],
+    "A34817-e17320": [
+      "mr-truman-junior"
+    ],
+    "A34817-e17360": [
+      "colonel-jolly"
+    ],
+    "A34817-e17410": [
+      "mr-truman-senior"
+    ],
+    "A34817-e17450": [
+      "colonel-jolly"
+    ],
+    "A34817-e17480": [
+      "mr-truman-senior"
+    ],
+    "A34817-e17550": [
+      "colonel-jolly"
+    ],
+    "A34817-e17590": [
+      "mistris-lucia"
+    ],
+    "A34817-e17620": [
+      "colonel-jolly"
+    ],
+    "A34817-e17650": [
+      "mr-truman-senior"
+    ],
+    "A34817-e17680": [
+      "mistris-lucia"
+    ],
+    "A34817-e17770": [
+      "colonel-jolly"
+    ],
+    "A34817-e17810": [
+      "mr-truman-senior"
+    ],
+    "A34817-e17850": [
+      "mr-truman-junior"
+    ],
+    "A34817-e17880": [
+      "mr-truman-senior"
+    ],
+    "A34817-e17920": [
+      "mistris-lucia"
+    ],
+    "A34817-e17950": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18000": [
+      "mr-truman-junior"
+    ],
+    "A34817-e18040": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18080": [
+      "mr-truman-junior"
+    ],
+    "A34817-e18120": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18150": [
+      "mr-truman-junior"
+    ],
+    "A34817-e18180": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18230": [
+      "mr-truman-junior"
+    ],
+    "A34817-e18260": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18290": [
+      "mr-truman-junior"
+    ],
+    "A34817-e18320": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18350": [
+      "colonel-jolly"
+    ],
+    "A34817-e18390": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18460": [
+      "mr-puny"
+    ],
+    "A34817-e18490": [
+      "colonel-jolly"
+    ],
+    "A34817-e18530": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18620": [
+      "mistris-aurelia"
+    ],
+    "A34817-e18650": [
+      "mr-puny"
+    ],
+    "A34817-e18700": [
+      "mistris-aurelia"
+    ],
+    "A34817-e18740": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18780": [
+      "mr-truman-junior"
+    ],
+    "A34817-e18810": [
+      "mr-truman-senior"
+    ],
+    "A34817-e18840": [
+      "mr-puny"
+    ],
+    "A34817-e18890": [
+      "mistris-lucia"
+    ],
+    "A34817-e18920": [
+      "mr-truman-junior"
+    ],
+    "A34817-e18950": [
+      "mr-puny"
+    ],
+    "A34817-e19010": [
+      "mistris-lucia"
+    ],
+    "A34817-e19080": [
+      "mistris-aurelia"
+    ],
+    "A34817-e19130": [
+      "mistris-lucia"
+    ],
+    "A34817-e19160": [
+      "mistris-aurelia"
+    ],
+    "A34817-e19200": [
+      "will"
+    ],
+    "A34817-e19230": [
+      "colonel-jolly"
+    ],
+    "A34817-e19260": [
+      "mr-truman-junior"
+    ],
+    "A34817-e19310": [
+      "colonel-jolly"
+    ],
+    "A34817-e19360": [
+      "mr-soaker"
+    ],
+    "A34817-e19390": [
+      "mistris-lucia"
+    ],
+    "A34817-e19470": [
+      "colonel-jolly"
+    ],
+    "A34817-e19510": [
+      "mistris-lucia"
+    ],
+    "A34817-e19560": [
+      "mr-puny"
+    ],
+    "A34817-e19600": [
+      "mistris-aurelia"
+    ],
+    "A34817-e19660": [
+      "colonel-jolly"
+    ],
+    "A34817-e19700": [
+      "mr-truman-senior"
+    ],
+    "A34817-e19730": [
+      "colonel-jolly"
+    ],
+    "A34817-e19760": [
+      "mr-truman-senior"
+    ],
+    "A34817-e19830": [
+      "mr-truman-junior"
+    ],
+    "A34817-e19860": [
+      "widow"
+    ],
+    "A34817-e19890": [
+      "colonel-jolly"
+    ],
+    "A34817-e19920": [
+      "widow"
+    ],
+    "A34817-e19960": [
+      "cutter"
+    ],
+    "A34817-e20050": [
+      "mistris-tabitha"
+    ],
+    "A34817-e20080": [
+      "cutter"
+    ],
+    "A34817-e20110": [
+      "mistris-tabitha"
+    ],
+    "A34817-e20140": [
+      "cutter"
+    ],
+    "A34817-e20170": [
+      "colonel-jolly"
+    ],
+    "A34817-e20200": [
+      "cutter"
+    ],
+    "A34817-e20230": [
+      "colonel-jolly"
+    ],
+    "A34817-e20260": [
+      "cutter"
+    ],
+    "A34817-e20340": [
+      "mistris-tabitha"
+    ],
+    "A34817-e20370": [
+      "cutter"
+    ],
+    "A34817-e20410": [
+      "widow"
+    ],
+    "A34817-e20450": [
+      "cutter"
+    ],
+    "A34817-e20490": [
+      "colonel-jolly"
+    ],
+    "A34817-e20530": [
+      "cutter"
+    ],
+    "A34817-e20590": [
+      "mistris-tabitha"
+    ],
+    "A34817-e20620": [
+      "colonel-jolly"
+    ],
+    "A34817-e20700": [
+      "mr-truman-junior"
+    ],
+    "A34817-e20890": [
+      "mistris-lucia"
+    ],
+    "A34817-e20960": [
+      "mr-truman-junior"
+    ],
+    "A34817-e21000": [
+      "mistris-lucia"
+    ],
+    "A34817-e21040": [
+      "mr-truman-junior"
+    ],
+    "A34817-e21070": [
+      "mistris-lucia"
+    ],
+    "A34817-e21100": [
+      "mr-truman-junior"
+    ],
+    "A34817-e21130": [
+      "mistris-lucia"
+    ],
+    "A34817-e21200": [
+      "mr-truman-junior"
+    ],
+    "A34817-e21270": [
+      "mistris-lucia"
+    ],
+    "A34817-e21300": [
+      "mr-truman-junior"
+    ],
+    "A34817-e21440": [
+      "mistris-lucia"
+    ],
+    "A34817-e21480": [
+      "mr-truman-junior"
+    ],
+    "A34817-e21520": [
+      "mistris-lucia"
+    ],
+    "A34817-e22090": [
+      "colonel-jolly"
+    ],
+    "A34817-e22120": [
+      "mr-truman-senior"
+    ],
+    "A34817-e22180": [
+      "mr-truman-junior"
+    ],
+    "A34817-e22240": [
+      "mr-truman-senior"
+    ],
+    "A34817-e22300": [
+      "mr-truman-junior"
+    ],
+    "A34817-e22470": [
+      "colonel-jolly"
+    ],
+    "A34817-e22510": [
+      "mr-truman-senior"
+    ],
+    "A34817-e22560": [
+      "mr-truman-junior"
+    ],
+    "A34817-e22590": [
+      "mr-truman-senior"
+    ],
+    "A34817-e22620": [
+      "mr-truman-junior"
+    ],
+    "A34817-e22650": [
+      "mr-truman-senior"
+    ],
+    "A34817-e22680": [
+      "colonel-jolly"
+    ],
+    "A34817-e22720": [
+      "mr-truman-junior"
+    ],
+    "A34817-e22750": [
+      "mr-truman-senior"
+    ],
+    "A34817-e22780": [
+      "mr-truman-junior"
+    ],
+    "A34817-e22820": [
+      "colonel-jolly"
+    ],
+    "A34817-e22860": [
+      "mr-truman-senior"
+    ],
+    "A34817-e22890": [
+      "colonel-jolly"
+    ],
+    "A34817-e22930": [
+      "mr-truman-junior"
+    ],
+    "A34817-e22970": [
+      "mr-truman-senior"
+    ],
+    "A34817-e23000": [
+      "colonel-jolly"
+    ],
+    "A34817-e23030": [
+      "mr-truman-junior"
+    ],
+    "A34817-e23060": [
+      "colonel-jolly"
+    ],
+    "A34817-e23100": [
+      "mr-truman-senior"
+    ],
+    "A34817-e23210": [
+      "mr-truman-junior"
+    ],
+    "A34817-e23240": [
+      "colonel-jolly"
+    ],
+    "A34817-e23280": [
+      "mr-truman-senior"
+    ],
+    "A34817-e23370": [
+      "cutter"
+    ],
+    "A34817-e23410": [
+      "mistris-tabitha"
+    ],
+    "A34817-e23450": [
+      "cutter"
+    ],
+    "A34817-e23500": [
+      "mistris-tabitha"
+    ],
+    "A34817-e23530": [
+      "cutter"
+    ],
+    "A34817-e23570": [
+      "mistris-tabitha"
+    ],
+    "A34817-e23600": [
+      "cutter"
+    ],
+    "A34817-e23650": [
+      "mistris-tabitha"
+    ],
+    "A34817-e23680": [
+      "cutter"
+    ],
+    "A34817-e23710": [
+      "mistris-tabitha"
+    ],
+    "A34817-e23740": [
+      "cutter"
+    ],
+    "A34817-e23780": [
+      "boy"
+    ],
+    "A34817-e23830": [
+      "cutter"
+    ],
+    "A34817-e23880": [
+      "mistris-tabitha"
+    ],
+    "A34817-e23930": [
+      "cutter"
+    ],
+    "A34817-e23980": [
+      "mistris-tabitha"
+    ],
+    "A34817-e24060": [
+      "colonel-jolly"
+    ],
+    "A34817-e24100": [
+      "mr-puny"
+    ],
+    "A34817-e24130": [
+      "worm"
+    ],
+    "A34817-e24160": [
+      "colonel-jolly"
+    ],
+    "A34817-e24190": [
+      "mr-puny"
+    ],
+    "A34817-e24220": [
+      "worm"
+    ],
+    "A34817-e24250": [
+      "colonel-jolly"
+    ],
+    "A34817-e24280": [
+      "mr-puny"
+    ],
+    "A34817-e24320": [
+      "colonel-jolly"
+    ],
+    "A34817-e24350": [
+      "mr-puny"
+    ],
+    "A34817-e24400": [
+      "colonel-jolly"
+    ],
+    "A34817-e24430": [
+      "worm"
+    ],
+    "A34817-e24460": [
+      "colonel-jolly"
+    ],
+    "A34817-e24500": [
+      "worm"
+    ],
+    "A34817-e24530": [
+      "colonel-jolly"
+    ],
+    "A34817-e24560": [
+      "worm"
+    ],
+    "A34817-e24590": [
+      "colonel-jolly"
+    ],
+    "A34817-e24620": [
+      "mr-puny"
+    ],
+    "A34817-e24650": [
+      "worm"
+    ],
+    "A34817-e24680": [
+      "colonel-jolly"
+    ],
+    "A34817-e24710": [
+      "mr-puny"
+    ],
+    "A34817-e24740": [
+      "colonel-jolly"
+    ],
+    "A34817-e24780": [
+      "worm"
+    ],
+    "A34817-e24810": [
+      "mr-puny"
+    ],
+    "A34817-e24850": [
+      "worm"
+    ],
+    "A34817-e24890": [
+      "mr-puny"
+    ],
+    "A34817-e24920": [
+      "worm"
+    ],
+    "A34817-e24960": [
+      "mr-puny"
+    ],
+    "A34817-e24990": [
+      "worm"
+    ],
+    "A34817-e25040": [
+      "mr-puny"
+    ],
+    "A34817-e25070": [
+      "worm"
+    ],
+    "A34817-e25100": [
+      "mr-puny"
+    ],
+    "A34817-e25130": [
+      "worm"
+    ],
+    "A34817-e25180": [
+      "mr-puny"
+    ],
+    "A34817-e25210": [
+      "worm"
+    ],
+    "A34817-e25250": [
+      "mr-puny"
+    ],
+    "A34817-e25280": [
+      "worm"
+    ],
+    "A34817-e25330": [
+      "mr-puny"
+    ],
+    "A34817-e25430": [
+      "worm"
+    ],
+    "A34817-e25480": [
+      "mr-puny"
+    ],
+    "A34817-e25520": [
+      "worm"
+    ],
+    "A34817-e25550": [
+      "mr-puny"
+    ],
+    "A34817-e25580": [
+      "worm"
+    ],
+    "A34817-e25620": [
+      "mr-puny"
+    ],
+    "A34817-e25690": [
+      "mistris-aurelia"
+    ],
+    "A34817-e25790": [
+      "mr-truman-junior"
+    ],
+    "A34817-e25850": [
+      "mistris-aurelia"
+    ],
+    "A34817-e25880": [
+      "mr-truman-junior"
+    ],
+    "A34817-e25910": [
+      "mistris-aurelia"
+    ],
+    "A34817-e25940": [
+      "mr-truman-junior"
+    ],
+    "A34817-e25970": [
+      "mistris-aurelia"
+    ],
+    "A34817-e26000": [
+      "mr-truman-junior"
+    ],
+    "A34817-e26100": [
+      "mistris-aurelia"
+    ],
+    "A34817-e26130": [
+      "mr-truman-junior"
+    ],
+    "A34817-e26180": [
+      "mistris-aurelia"
+    ],
+    "A34817-e26210": [
+      "mr-truman-junior"
+    ],
+    "A34817-e26270": [
+      "mistris-aurelia"
+    ],
+    "A34817-e26300": [
+      "mr-truman-junior"
+    ],
+    "A34817-e26500": [
+      "mistris-aurelia"
+    ],
+    "A34817-e26540": [
+      "mr-truman-junior"
+    ],
+    "A34817-e26650": [
+      "mistris-aurelia"
+    ],
+    "A34817-e26700": [
+      "mr-truman-junior"
+    ],
+    "A34817-e26730": [
+      "mistris-aurelia"
+    ],
+    "A34817-e26760": [
+      "mr-truman-junior"
+    ],
+    "A34817-e26920": [
+      "mistris-aurelia"
+    ],
+    "A34817-e26960": [
+      "mr-truman-junior"
+    ],
+    "A34817-e27050": [
+      "mistris-aurelia"
+    ],
+    "A34817-e27080": [
+      "mr-truman-junior"
+    ],
+    "A34817-e27180": [
+      "mistris-aurelia"
+    ],
+    "A34817-e27210": [
+      "mr-truman-junior"
+    ],
+    "A34817-e27320": [
+      "mistris-aurelia"
+    ],
+    "A34817-e27350": [
+      "mr-truman-junior"
+    ],
+    "A34817-e27430": [
+      "mistris-aurelia"
+    ],
+    "A34817-e27460": [
+      "mr-truman-junior"
+    ],
+    "A34817-e27550": [
+      "mistris-aurelia"
+    ],
+    "A34817-e27600": [
+      "mr-truman-junior"
+    ],
+    "A34817-e27640": [
+      "mistris-aurelia"
+    ],
+    "A34817-e27670": [
+      "mr-truman-junior"
+    ],
+    "A34817-e27760": [
+      "mistris-aurelia"
+    ],
+    "A34817-e27800": [
+      "mr-truman-junior"
+    ],
+    "A34817-e27910": [
+      "colonel-jolly"
+    ],
+    "A34817-e27990": [
+      "will"
+    ],
+    "A34817-e28020": [
+      "colonel-jolly"
+    ],
+    "A34817-e28050": [
+      "will"
+    ],
+    "A34817-e28090": [
+      "colonel-jolly"
+    ],
+    "A34817-e28120": [
+      "will"
+    ],
+    "A34817-e28210": [
+      "worm"
+    ],
+    "A34817-e28240": [
+      "mr-puny"
+    ],
+    "A34817-e28270": [
+      "worm"
+    ],
+    "A34817-e28330": [
+      "colonel-jolly"
+    ],
+    "A34817-e28370": [
+      "worm"
+    ],
+    "A34817-e28410": [
+      "mr-puny"
+    ],
+    "A34817-e28440": [
+      "worm"
+    ],
+    "A34817-e28480": [
+      "mr-puny"
+    ],
+    "A34817-e28510": [
+      "worm"
+    ],
+    "A34817-e28540": [
+      "mr-puny"
+    ],
+    "A34817-e28570": [
+      "worm"
+    ],
+    "A34817-e28620": [
+      "colonel-jolly"
+    ],
+    "A34817-e28650": [
+      "worm"
+    ],
+    "A34817-e28690": [
+      "mr-puny"
+    ],
+    "A34817-e28740": [
+      "worm"
+    ],
+    "A34817-e28770": [
+      "colonel-jolly"
+    ],
+    "A34817-e28800": [
+      "worm"
+    ],
+    "A34817-e28850": [
+      "mr-puny"
+    ],
+    "A34817-e28890": [
+      "colonel-jolly"
+    ],
+    "A34817-e28920": [
+      "worm"
+    ],
+    "A34817-e28960": [
+      "mr-puny"
+    ],
+    "A34817-e28990": [
+      "worm"
+    ],
+    "A34817-e29020": [
+      "mr-puny"
+    ],
+    "A34817-e29050": [
+      "worm"
+    ],
+    "A34817-e29080": [
+      "colonel-jolly"
+    ],
+    "A34817-e29120": [
+      "mr-puny"
+    ],
+    "A34817-e29150": [
+      "colonel-jolly"
+    ],
+    "A34817-e29190": [
+      "mr-puny"
+    ],
+    "A34817-e29220": [
+      "colonel-jolly"
+    ],
+    "A34817-e29260": [
+      "mr-puny"
+    ],
+    "A34817-e29290": [
+      "colonel-jolly"
+    ],
+    "A34817-e29320": [
+      "mr-puny"
+    ],
+    "A34817-e29350": [
+      "worm"
+    ],
+    "A34817-e29380": [
+      "colonel-jolly"
+    ],
+    "A34817-e29420": [
+      "worm"
+    ],
+    "A34817-e29450": [
+      "colonel-jolly"
+    ],
+    "A34817-e29490": [
+      "worm"
+    ],
+    "A34817-e29520": [
+      "colonel-jolly"
+    ],
+    "A34817-e29560": [
+      "worm"
+    ],
+    "A34817-e29590": [
+      "colonel-jolly"
+    ],
+    "A34817-e29630": [
+      "mr-puny"
+    ],
+    "A34817-e29660": [
+      "colonel-jolly"
+    ],
+    "A34817-e29690": [
+      "mr-puny"
+    ],
+    "A34817-e29720": [
+      "worm"
+    ],
+    "A34817-e29760": [
+      "colonel-jolly"
+    ],
+    "A34817-e29790": [
+      "worm"
+    ],
+    "A34817-e29820": [
+      "colonel-jolly"
+    ],
+    "A34817-e29850": [
+      "worm"
+    ],
+    "A34817-e29880": [
+      "colonel-jolly"
+    ],
+    "A34817-e29910": [
+      "worm"
+    ],
+    "A34817-e29940": [
+      "colonel-jolly"
+    ],
+    "A34817-e29970": [
+      "worm"
+    ],
+    "A34817-e30000": [
+      "mr-puny"
+    ],
+    "A34817-e30040": [
+      "worm"
+    ],
+    "A34817-e30080": [
+      "mr-puny"
+    ],
+    "A34817-e30110": [
+      "worm"
+    ],
+    "A34817-e30160": [
+      "colonel-jolly"
+    ],
+    "A34817-e30200": [
+      "will"
+    ],
+    "A34817-e30230": [
+      "colonel-jolly"
+    ],
+    "A34817-e30280": [
+      "will"
+    ],
+    "A34817-e30310": [
+      "colonel-jolly"
+    ],
+    "A34817-e30340": [
+      "will"
+    ],
+    "A34817-e30370": [
+      "colonel-jolly"
+    ],
+    "A34817-e30410": [
+      "will"
+    ],
+    "A34817-e30460": [
+      "colonel-jolly"
+    ],
+    "A34817-e30570": [
+      "mistris-jane"
+    ],
+    "A34817-e30610": [
+      "mistris-aurelia"
+    ],
+    "A34817-e30640": [
+      "mistris-jane"
+    ],
+    "A34817-e30670": [
+      "mistris-aurelia"
+    ],
+    "A34817-e30730": [
+      "mistris-lucia"
+    ],
+    "A34817-e30870": [
+      "mr-truman-junior"
+    ],
+    "A34817-e30920": [
+      "mistris-lucia"
+    ],
+    "A34817-e31000": [
+      "cutter"
+    ],
+    "A34817-e31080": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31110": [
+      "cutter"
+    ],
+    "A34817-e31160": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31220": [
+      "cutter"
+    ],
+    "A34817-e31290": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31320": [
+      "cutter"
+    ],
+    "A34817-e31360": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31390": [
+      "cutter"
+    ],
+    "A34817-e31430": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31460": [
+      "cutter"
+    ],
+    "A34817-e31510": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31540": [
+      "cutter"
+    ],
+    "A34817-e31580": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31620": [
+      "cutter"
+    ],
+    "A34817-e31650": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31680": [
+      "cutter"
+    ],
+    "A34817-e31710": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31750": [
+      "cutter"
+    ],
+    "A34817-e31790": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31820": [
+      "cutter"
+    ],
+    "A34817-e31860": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31890": [
+      "cutter"
+    ],
+    "A34817-e31920": [
+      "mistris-tabitha"
+    ],
+    "A34817-e31960": [
+      "cutter"
+    ],
+    "A34817-e32000": [
+      "mistris-tabitha"
+    ],
+    "A34817-e32030": [
+      "cutter"
+    ],
+    "A34817-e32070": [
+      "mistris-tabitha"
+    ],
+    "A34817-e32110": [
+      "cutter"
+    ],
+    "A34817-e32150": [
+      "mistris-tabitha"
+    ],
+    "A34817-e32180": [
+      "cutter"
+    ],
+    "A34817-e32280": [
+      "worm"
+    ],
+    "A34817-e32310": [
+      "colonel-jolly"
+    ],
+    "A34817-e32340": [
+      "worm"
+    ],
+    "A34817-e32390": [
+      "colonel-jolly"
+    ],
+    "A34817-e32440": [
+      "servant"
+    ],
+    "A34817-e32480": [
+      "colonel-jolly"
+    ],
+    "A34817-e32510": [
+      "servant"
+    ],
+    "A34817-e32540": [
+      "colonel-jolly"
+    ],
+    "A34817-e32610": [
+      "mr-puny"
+    ],
+    "A34817-e32640": [
+      "worm"
+    ],
+    "A34817-e32730": [
+      "servant-1"
+    ],
+    "A34817-e32770": [
+      "servant-2"
+    ],
+    "A34817-e32820": [
+      "ralph"
+    ],
+    "A34817-e32870": [
+      "servant-3"
+    ],
+    "A34817-e32910": [
+      "mr-puny"
+    ],
+    "A34817-e32940": [
+      "ralph"
+    ],
+    "A34817-e33000": [
+      "servant-2"
+    ],
+    "A34817-e33050": [
+      "ralph"
+    ],
+    "A34817-e33090": [
+      "servant-1"
+    ],
+    "A34817-e33140": [
+      "ralph"
+    ],
+    "A34817-e33170": [
+      "worm"
+    ],
+    "A34817-e33210": [
+      "mr-puny"
+    ],
+    "A34817-e33290": [
+      "colonel-jolly"
+    ],
+    "A34817-e33320": [
+      "will"
+    ],
+    "A34817-e33380": [
+      "servant-4"
+    ],
+    "A34817-e33430": [
+      "colonel-jolly"
+    ],
+    "A34817-e33490": [
+      "worm"
+    ],
+    "A34817-e33520": [
+      "will"
+    ],
+    "A34817-e33560": [
+      "worm"
+    ],
+    "A34817-e33590": [
+      "will"
+    ],
+    "A34817-e33620": [
+      "worm"
+    ],
+    "A34817-e33650": [
+      "will"
+    ],
+    "A34817-e33690": [
+      "ralph"
+    ],
+    "A34817-e33720": [
+      "will"
+    ],
+    "A34817-e33750": [
+      "worm"
+    ],
+    "A34817-e33780": [
+      "will"
+    ],
+    "A34817-e33810": [
+      "worm"
+    ],
+    "A34817-e33840": [
+      "will"
+    ],
+    "A34817-e33870": [
+      "worm"
+    ],
+    "A34817-e33900": [
+      "will"
+    ],
+    "A34817-e33930": [
+      "worm"
+    ],
+    "A34817-e33960": [
+      "will"
+    ],
+    "A34817-e33990": [
+      "worm"
+    ],
+    "A34817-e34030": [
+      "mr-puny"
+    ],
+    "A34817-e34080": [
+      "will"
+    ],
+    "A34817-e34120": [
+      "worm"
+    ],
+    "A34817-e34160": [
+      "will"
+    ],
+    "A34817-e34200": [
+      "worm"
+    ],
+    "A34817-e34240": [
+      "will"
+    ],
+    "A34817-e34280": [
+      "worm"
+    ],
+    "A34817-e34310": [
+      "will"
+    ],
+    "A34817-e34340": [
+      "mr-puny"
+    ],
+    "A34817-e34370": [
+      "ralph"
+    ],
+    "A34817-e34400": [
+      "mr-puny"
+    ],
+    "A34817-e34480": [
+      "colonel-jolly"
+    ],
+    "A34817-e34510": [
+      "widow"
+    ],
+    "A34817-e34540": [
+      "colonel-jolly"
+    ],
+    "A34817-e34570": [
+      "worm"
+    ],
+    "A34817-e34600": [
+      "colonel-jolly"
+    ],
+    "A34817-e34650": [
+      "worm"
+    ],
+    "A34817-e34690": [
+      "colonel-jolly"
+    ],
+    "A34817-e34730": [
+      "worm"
+    ],
+    "A34817-e34770": [
+      "colonel-jolly"
+    ],
+    "A34817-e34800": [
+      "worm"
+    ],
+    "A34817-e34840": [
+      "colonel-jolly"
+    ],
+    "A34817-e34870": [
+      "worm"
+    ],
+    "A34817-e34930": [
+      "colonel-jolly"
+    ],
+    "A34817-e34970": [
+      "mr-puny"
+    ],
+    "A34817-e35000": [
+      "worm"
+    ],
+    "A34817-e35040": [
+      "colonel-jolly"
+    ],
+    "A34817-e35120": [
+      "worm"
+    ],
+    "A34817-e35160": [
+      "mr-puny"
+    ],
+    "A34817-e35200": [
+      "colonel-jolly"
+    ],
+    "A34817-e35260": [
+      "widow"
+    ],
+    "A34817-e35290": [
+      "worm"
+    ],
+    "A34817-e35370": [
+      "colonel-jolly"
+    ],
+    "A34817-e35410": [
+      "cutter"
+    ],
+    "A34817-e35440": [
+      "mistris-tabitha"
+    ],
+    "A34817-e35470": [
+      "widow"
+    ],
+    "A34817-e35500": [
+      "mistris-tabitha"
+    ],
+    "A34817-e35540": [
+      "cutter"
+    ],
+    "A34817-e35580": [
+      "widow"
+    ],
+    "A34817-e35620": [
+      "cutter"
+    ],
+    "A34817-e35720": [
+      "mr-truman-senior"
+    ],
+    "A34817-e35790": [
+      "colonel-jolly"
+    ],
+    "A34817-e35830": [
+      "mr-truman-junior"
+    ],
+    "A34817-e35870": [
+      "mr-truman-senior"
+    ],
+    "A34817-e35900": [
+      "colonel-jolly"
+    ],
+    "A34817-e35940": [
+      "mr-truman-senior"
+    ],
+    "A34817-e35970": [
+      "colonel-jolly"
+    ],
+    "A34817-e36000": [
+      "mistris-lucia"
+    ],
+    "A34817-e36040": [
+      "colonel-jolly"
+    ],
+    "A34817-e36120": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36150": [
+      "colonel-jolly"
+    ],
+    "A34817-e36190": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36220": [
+      "colonel-jolly"
+    ],
+    "A34817-e36250": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36290": [
+      "colonel-jolly"
+    ],
+    "A34817-e36320": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36350": [
+      "colonel-jolly"
+    ],
+    "A34817-e36380": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36430": [
+      "colonel-jolly"
+    ],
+    "A34817-e36460": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36490": [
+      "colonel-jolly"
+    ],
+    "A34817-e36520": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36550": [
+      "mr-puny"
+    ],
+    "A34817-e36590": [
+      "colonel-jolly"
+    ],
+    "A34817-e36620": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36650": [
+      "colonel-jolly"
+    ],
+    "A34817-e36680": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36720": [
+      "colonel-jolly"
+    ],
+    "A34817-e36750": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36780": [
+      "colonel-jolly"
+    ],
+    "A34817-e36810": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36840": [
+      "mr-puny"
+    ],
+    "A34817-e36880": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36910": [
+      "mr-puny"
+    ],
+    "A34817-e36940": [
+      "mistris-aurelia"
+    ],
+    "A34817-e36970": [
+      "mr-puny"
+    ],
+    "A34817-e37010": [
+      "colonel-jolly"
+    ],
+    "A34817-e37050": [
+      "mistris-lucia"
+    ],
+    "A34817-e37080": [
+      "mr-truman-junior"
+    ],
+    "A34817-e37130": [
+      "colonel-jolly"
+    ],
+    "A34817-e37160": [
+      "mr-truman-senior"
+    ],
+    "A34817-e37190": [
+      "colonel-jolly"
+    ],
+    "A34817-e37240": [
+      "mistris-aurelia"
+    ],
+    "A34817-e37280": [
+      "colonel-jolly"
+    ],
+    "A34817-e37310": [
+      "mistris-aurelia"
+    ],
+    "A34817-e37360": [
+      "mr-truman-senior"
+    ],
+    "A34817-e37390": [
+      "mistris-aurelia"
+    ],
+    "A34817-e37460": [
+      "cutter"
+    ],
+    "A34817-e37490": [
+      "mr-puny"
+    ],
+    "A34817-e37520": [
+      "cutter"
+    ],
+    "A34817-e37550": [
+      "worm"
+    ],
+    "A34817-e37580": [
+      "cutter"
+    ],
+    "A34817-e37620": [
+      "worm"
+    ],
+    "A34817-e37650": [
+      "mr-truman-junior"
+    ],
+    "A34817-e37720": [
+      "mr-truman-senior"
+    ],
+    "A34817-e37760": [
+      "cutter"
+    ],
+    "A34817-e37800": [
+      "mistris-aurelia"
+    ],
+    "A34817-e37850": [
+      "worm"
+    ],
+    "A34817-e37890": [
+      "mistris-aurelia"
+    ],
+    "A34817-e37920": [
+      "colonel-jolly"
+    ]
+  }
+}

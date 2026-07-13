@@ -1,22 +1,16 @@
 {
   "particDesc": [
     {
-      "name": "Bedchamber 2",
-      "id": "bedchamber-2",
+      "name": "Attendant 2",
+      "id": "attendant-2",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Bedchamber 1",
-      "id": "bedchamber-1",
+      "name": "Attendant 1",
+      "id": "attendant-1",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "name": "Ladies",
-      "id": "ladies",
-      "isGroup": true,
-      "sex": "FEMALE"
     },
     {
       "id": "cleon",
@@ -70,7 +64,7 @@
       "id": "diagorus",
       "name": "Diagorus",
       "isGroup": false,
-      "sex": "MALE"
+	  "sex": "MALE"
     },
     {
       "id": "king",
@@ -115,8 +109,8 @@
       "sex": "FEMALE"
     },
     {
-      "id": "1-lady",
-      "name": "1 Lady",
+      "id": "lady-1",
+      "name": "Lady 1",
       "isGroup": false,
       "sex": "FEMALE"
     },
@@ -142,7 +136,7 @@
       "id": "servant",
       "name": "Servant",
       "isGroup": false,
-      "sex": "MALE"
+	  "sex": "MALE"
     }
   ],
   "speeches": {
@@ -579,7 +573,7 @@
       "evadne"
     ],
     "A06289-e106490": [
-      "1-lady"
+      "lady-1"
     ],
     "A06289-e106510": [
       "dula"
@@ -672,24 +666,24 @@
       "evadne"
     ],
     "A06289-e107580": [
-      "ladies",
+      "aspatia",
       "dula",
-      "aspatia"
+      "lady-1"
     ],
     "A06289-e107600": [
-      "1-lady"
+      "lady-1"
     ],
     "A06289-e107620": [
       "dula"
     ],
     "A06289-e107640": [
-      "1-lady"
+      "lady-1"
     ],
     "A06289-e107670": [
       "dula"
     ],
     "A06289-e107690": [
-      "1-lady"
+      "lady-1"
     ],
     "A06289-e107710": [
       "aspatia"
@@ -698,7 +692,7 @@
       "dula"
     ],
     "A06289-e107880": [
-      "1-lady"
+      "lady-1"
     ],
     "A06289-e107900": [
       "amintor"
@@ -2325,27 +2319,15 @@
       "calianax"
     ],
     "A06289-e129070": [
-      "melantius",
       "king",
-      "amintor",
-      "evadne",
-      "diphilus",
-      "lysippus",
-      "cleon",
-      "strato"
+      "melantius"
     ],
     "A06289-e129090": [
       "calianax"
     ],
     "A06289-e129160": [
-      "melantius",
       "king",
-      "amintor",
-      "evadne",
-      "diphilus",
-      "lysippus",
-      "cleon",
-      "strato"
+      "melantius"
     ],
     "A06289-e129180": [
       "king"
@@ -2603,37 +2585,37 @@
       "evadne"
     ],
     "A06289-e132670": [
-      "bedchamber-1"
+      "attendant-1"
     ],
     "A06289-e132690": [
-      "bedchamber-2"
+      "attendant-2"
     ],
     "A06289-e132710": [
-      "bedchamber-1"
+      "attendant-1"
     ],
     "A06289-e132730": [
-      "bedchamber-2"
+      "attendant-2"
     ],
     "A06289-e132750": [
-      "bedchamber-1"
+      "attendant-1"
     ],
     "A06289-e132770": [
-      "bedchamber-2"
+      "attendant-2"
     ],
     "A06289-e132800": [
-      "bedchamber-1"
+      "attendant-1"
     ],
     "A06289-e132830": [
-      "bedchamber-2"
+      "attendant-2"
     ],
     "A06289-e132850": [
-      "bedchamber-1"
+      "attendant-1"
     ],
     "A06289-e132890": [
       "cleon"
     ],
     "A06289-e132910": [
-      "bedchamber-1"
+      "attendant-1"
     ],
     "A06289-e132940": [
       "cleon"
@@ -2642,7 +2624,7 @@
       "lysippus"
     ],
     "A06289-e132980": [
-      "bedchamber-1"
+      "attendant-1"
     ],
     "A06289-e133000": [
       "lysippus"

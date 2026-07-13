@@ -1,0 +1,2231 @@
+{
+  "particDesc": [
+    {
+      "name": "Senate",
+      "id": "senate",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Nigridius",
+      "id": "nigridius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Plebeians",
+      "id": "plebeians",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ediles",
+      "id": "ediles",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cominius",
+      "id": "cominius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Senator",
+      "id": "senator",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tribunes",
+      "id": "tribunes",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Officer",
+      "id": "officer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boy",
+      "id": "boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Citizens",
+      "id": "citizens",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 6",
+      "id": "citizen-6",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 5",
+      "id": "citizen-5",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 4",
+      "id": "citizen-4",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 3",
+      "id": "citizen-3",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 2",
+      "id": "citizen-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 1",
+      "id": "citizen-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Servant 3",
+      "id": "servant-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant 2",
+      "id": "servant-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant 1",
+      "id": "servant-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lord 2",
+      "id": "lord-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lord 1",
+      "id": "lord-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Aufidius",
+      "id": "aufidius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Roman 3",
+      "id": "roman-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Roman 2",
+      "id": "roman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Roman 1",
+      "id": "roman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 2",
+      "id": "soldier-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 1",
+      "id": "soldier-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Coriolanus",
+      "id": "coriolanus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Valeria",
+      "id": "valeria",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Virginia",
+      "id": "virginia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Volumnia ",
+      "id": "volumnia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Brutus",
+      "id": "brutus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Sicinius",
+      "id": "sicinius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Decius",
+      "id": "decius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Menenius",
+      "id": "menenius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Caius Martius",
+      "id": "caius-martius",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A62946-e1510": [
+      "citizen-1"
+    ],
+    "A62946-e1540": [
+      "citizens"
+    ],
+    "A62946-e1570": [
+      "citizen-1"
+    ],
+    "A62946-e1600": [
+      "citizens"
+    ],
+    "A62946-e1630": [
+      "citizen-1"
+    ],
+    "A62946-e1660": [
+      "citizens"
+    ],
+    "A62946-e1690": [
+      "citizen-1"
+    ],
+    "A62946-e1730": [
+      "citizens"
+    ],
+    "A62946-e1760": [
+      "citizen-1"
+    ],
+    "A62946-e1800": [
+      "citizens"
+    ],
+    "A62946-e1830": [
+      "citizen-2"
+    ],
+    "A62946-e1860": [
+      "citizen-1"
+    ],
+    "A62946-e1910": [
+      "citizen-2"
+    ],
+    "A62946-e1960": [
+      "citizen-1"
+    ],
+    "A62946-e2000": [
+      "citizen-2"
+    ],
+    "A62946-e2040": [
+      "citizen-1"
+    ],
+    "A62946-e2090": [
+      "citizens"
+    ],
+    "A62946-e2140": [
+      "citizen-1"
+    ],
+    "A62946-e2190": [
+      "citizen-2"
+    ],
+    "A62946-e2230": [
+      "menenius"
+    ],
+    "A62946-e2260": [
+      "citizen-1"
+    ],
+    "A62946-e2310": [
+      "menenius"
+    ],
+    "A62946-e2350": [
+      "citizen-1"
+    ],
+    "A62946-e2390": [
+      "menenius"
+    ],
+    "A62946-e2480": [
+      "citizen-1"
+    ],
+    "A62946-e2520": [
+      "menenius"
+    ],
+    "A62946-e2580": [
+      "citizen-1"
+    ],
+    "A62946-e2620": [
+      "menenius"
+    ],
+    "A62946-e2650": [
+      "citizen-2"
+    ],
+    "A62946-e2710": [
+      "menenius"
+    ],
+    "A62946-e2800": [
+      "citizen-1"
+    ],
+    "A62946-e2840": [
+      "menenius"
+    ],
+    "A62946-e2900": [
+      "citizen-1"
+    ],
+    "A62946-e2940": [
+      "citizen-2"
+    ],
+    "A62946-e2980": [
+      "menenius"
+    ],
+    "A62946-e3140": [
+      "citizens"
+    ],
+    "A62946-e3170": [
+      "menenius"
+    ],
+    "A62946-e3240": [
+      "citizens"
+    ],
+    "A62946-e3270": [
+      "menenius"
+    ],
+    "A62946-e3380": [
+      "citizen-1"
+    ],
+    "A62946-e3410": [
+      "menenius"
+    ],
+    "A62946-e3530": [
+      "caius-martius"
+    ],
+    "A62946-e3570": [
+      "citizen-1"
+    ],
+    "A62946-e3600": [
+      "caius-martius"
+    ],
+    "A62946-e3820": [
+      "menenius"
+    ],
+    "A62946-e3860": [
+      "caius-martius"
+    ],
+    "A62946-e3950": [
+      "menenius"
+    ],
+    "A62946-e4010": [
+      "caius-martius"
+    ],
+    "A62946-e4130": [
+      "menenius"
+    ],
+    "A62946-e4160": [
+      "caius-martius"
+    ],
+    "A62946-e4260": [
+      "decius"
+    ],
+    "A62946-e4380": [
+      "menenius"
+    ],
+    "A62946-e4420": [
+      "caius-martius"
+    ],
+    "A62946-e4470": [
+      "menenius"
+    ],
+    "A62946-e4500": [
+      "caius-martius"
+    ],
+    "A62946-e4630": [
+      "menenius"
+    ],
+    "A62946-e4690": [
+      "caius-martius"
+    ],
+    "A62946-e4720": [
+      "citizen-1"
+    ],
+    "A62946-e4750": [
+      "caius-martius"
+    ],
+    "A62946-e4790": [
+      "citizen-1"
+    ],
+    "A62946-e4830": [
+      "citizens"
+    ],
+    "A62946-e4880": [
+      "citizen-1"
+    ],
+    "A62946-e4920": [
+      "caius-martius"
+    ],
+    "A62946-e5070": [
+      "menenius"
+    ],
+    "A62946-e5110": [
+      "caius-martius"
+    ],
+    "A62946-e5190": [
+      "menenius"
+    ],
+    "A62946-e5260": [
+      "sicinius"
+    ],
+    "A62946-e5300": [
+      "brutus"
+    ],
+    "A62946-e5330": [
+      "sicinius"
+    ],
+    "A62946-e5380": [
+      "brutus"
+    ],
+    "A62946-e5430": [
+      "sicinius"
+    ],
+    "A62946-e5570": [
+      "volumnia"
+    ],
+    "A62946-e5830": [
+      "virginia"
+    ],
+    "A62946-e5860": [
+      "volumnia"
+    ],
+    "A62946-e5980": [
+      "virginia"
+    ],
+    "A62946-e6100": [
+      "servant-1"
+    ],
+    "A62946-e6140": [
+      "virginia"
+    ],
+    "A62946-e6180": [
+      "volumnia"
+    ],
+    "A62946-e6310": [
+      "virginia"
+    ],
+    "A62946-e6350": [
+      "volumnia"
+    ],
+    "A62946-e6460": [
+      "virginia"
+    ],
+    "A62946-e6510": [
+      "volumnia"
+    ],
+    "A62946-e6590": [
+      "valeria"
+    ],
+    "A62946-e6620": [
+      "volumnia"
+    ],
+    "A62946-e6650": [
+      "valeria"
+    ],
+    "A62946-e6730": [
+      "volumnia"
+    ],
+    "A62946-e6760": [
+      "valeria"
+    ],
+    "A62946-e6790": [
+      "volumnia"
+    ],
+    "A62946-e6820": [
+      "valeria"
+    ],
+    "A62946-e6950": [
+      "volumnia"
+    ],
+    "A62946-e6980": [
+      "valeria"
+    ],
+    "A62946-e7060": [
+      "virginia"
+    ],
+    "A62946-e7090": [
+      "valeria"
+    ],
+    "A62946-e7170": [
+      "volumnia"
+    ],
+    "A62946-e7200": [
+      "valeria"
+    ],
+    "A62946-e7240": [
+      "virginia"
+    ],
+    "A62946-e7270": [
+      "valeria"
+    ],
+    "A62946-e7380": [
+      "caius-martius"
+    ],
+    "A62946-e7410": [
+      "decius"
+    ],
+    "A62946-e7440": [
+      "caius-martius"
+    ],
+    "A62946-e7550": [
+      "senator"
+    ],
+    "A62946-e7640": [
+      "caius-martius"
+    ],
+    "A62946-e8020": [
+      "soldier-1"
+    ],
+    "A62946-e8050": [
+      "soldier-2"
+    ],
+    "A62946-e8080": [
+      "soldier-1"
+    ],
+    "A62946-e8110": [
+      "soldier-1",
+	  "soldier-2"
+    ],
+    "A62946-e8160": [
+      "roman-1"
+    ],
+    "A62946-e8200": [
+      "roman-2"
+    ],
+    "A62946-e8230": [
+      "roman-3"
+    ],
+    "A62946-e8260": [
+      "caius-martius"
+    ],
+    "A62946-e8460": [
+      "decius"
+    ],
+    "A62946-e8510": [
+      "caius-martius"
+    ],
+    "A62946-e8690": [
+      "caius-martius"
+    ],
+    "A62946-e8750": [
+      "aufidius"
+    ],
+    "A62946-e8810": [
+      "caius-martius"
+    ],
+    "A62946-e8850": [
+      "aufidius"
+    ],
+    "A62946-e8890": [
+      "caius-martius"
+    ],
+    "A62946-e8990": [
+      "aufidius"
+    ],
+    "A62946-e9070": [
+      "cominius"
+    ],
+    "A62946-e9210": [
+      "caius-martius"
+    ],
+    "A62946-e9260": [
+      "cominius"
+    ],
+    "A62946-e9330": [
+      "caius-martius"
+    ],
+    "A62946-e9370": [
+      "cominius"
+    ],
+    "A62946-e9440": [
+      "caius-martius"
+    ],
+    "A62946-e9570": [
+      "cominius"
+    ],
+    "A62946-e9720": [
+      "caius-martius"
+    ],
+    "A62946-e9760": [
+      "cominius"
+    ],
+    "A62946-e9850": [
+      "caius-martius"
+    ],
+    "A62946-e9910": [
+      "cominius"
+    ],
+    "A62946-e9940": [
+      "caius-martius"
+    ],
+    "A62946-e10040": [
+      "cominius"
+    ],
+    "A62946-e10090": [
+      "coriolanus"
+    ],
+    "A62946-e10300": [
+      "coriolanus"
+    ],
+    "A62946-e10340": [
+      "cominius"
+    ],
+    "A62946-e10400": [
+      "coriolanus"
+    ],
+    "A62946-e10470": [
+      "volumnia"
+    ],
+    "A62946-e10570": [
+      "coriolanus"
+    ],
+    "A62946-e10660": [
+      "virginia"
+    ],
+    "A62946-e10700": [
+      "volumnia"
+    ],
+    "A62946-e10760": [
+      "menenius"
+    ],
+    "A62946-e10840": [
+      "coriolanus"
+    ],
+    "A62946-e10880": [
+      "cominius"
+    ],
+    "A62946-e10910": [
+      "coriolanus"
+    ],
+    "A62946-e10990": [
+      "cominius"
+    ],
+    "A62946-e11040": [
+      "brutus"
+    ],
+    "A62946-e11190": [
+      "sicinius"
+    ],
+    "A62946-e11250": [
+      "brutus"
+    ],
+    "A62946-e11330": [
+      "sicinius"
+    ],
+    "A62946-e11380": [
+      "brutus"
+    ],
+    "A62946-e11460": [
+      "sicinius"
+    ],
+    "A62946-e11550": [
+      "brutus"
+    ],
+    "A62946-e11640": [
+      "senate"
+    ],
+    "A62946-e11690": [
+      "coriolanus"
+    ],
+    "A62946-e11740": [
+      "brutus"
+    ],
+    "A62946-e11770": [
+      "coriolanus"
+    ],
+    "A62946-e11850": [
+      "cominius"
+    ],
+    "A62946-e12220": [
+      "senate"
+    ],
+    "A62946-e12260": [
+      "cominius"
+    ],
+    "A62946-e12350": [
+      "senate"
+    ],
+    "A62946-e12400": [
+      "menenius"
+    ],
+    "A62946-e12450": [
+      "coriolanus"
+    ],
+    "A62946-e12480": [
+      "menenius"
+    ],
+    "A62946-e12510": [
+      "coriolanus"
+    ],
+    "A62946-e12580": [
+      "brutus"
+    ],
+    "A62946-e12610": [
+      "sicinius"
+    ],
+    "A62946-e12650": [
+      "menenius"
+    ],
+    "A62946-e12710": [
+      "coriolanus"
+    ],
+    "A62946-e12760": [
+      "sicinius"
+    ],
+    "A62946-e12790": [
+      "coriolanus"
+    ],
+    "A62946-e12850": [
+      "menenius"
+    ],
+    "A62946-e12880": [
+      "senate"
+    ],
+    "A62946-e12980": [
+      "sicinius"
+    ],
+    "A62946-e13010": [
+      "brutus"
+    ],
+    "A62946-e13060": [
+      "sicinius"
+    ],
+    "A62946-e13170": [
+      "citizen-1"
+    ],
+    "A62946-e13200": [
+      "citizen-2"
+    ],
+    "A62946-e13230": [
+      "citizen-1"
+    ],
+    "A62946-e13260": [
+      "citizen-2"
+    ],
+    "A62946-e13290": [
+      "citizen-1"
+    ],
+    "A62946-e13320": [
+      "citizens"
+    ],
+    "A62946-e13350": [
+      "citizen-1"
+    ],
+    "A62946-e13390": [
+      "citizens"
+    ],
+    "A62946-e13450": [
+      "citizen-1"
+    ],
+    "A62946-e13490": [
+      "citizens"
+    ],
+    "A62946-e13520": [
+      "menenius"
+    ],
+    "A62946-e13560": [
+      "coriolanus"
+    ],
+    "A62946-e13650": [
+      "menenius"
+    ],
+    "A62946-e13700": [
+      "coriolanus"
+    ],
+    "A62946-e13740": [
+      "menenius"
+    ],
+    "A62946-e13780": [
+      "coriolanus"
+    ],
+    "A62946-e13830": [
+      "citizen-1"
+    ],
+    "A62946-e13860": [
+      "coriolanus"
+    ],
+    "A62946-e13890": [
+      "citizen-2"
+    ],
+    "A62946-e13930": [
+      "coriolanus"
+    ],
+    "A62946-e13960": [
+      "citizen-3"
+    ],
+    "A62946-e14000": [
+      "coriolanus"
+    ],
+    "A62946-e14050": [
+      "citizen-1"
+    ],
+    "A62946-e14090": [
+      "coriolanus"
+    ],
+    "A62946-e14120": [
+      "citizen-1"
+    ],
+    "A62946-e14150": [
+      "coriolanus"
+    ],
+    "A62946-e14200": [
+      "citizen-2"
+    ],
+    "A62946-e14230": [
+      "coriolanus"
+    ],
+    "A62946-e14280": [
+      "coriolanus"
+    ],
+    "A62946-e14330": [
+      "citizen-3"
+    ],
+    "A62946-e14360": [
+      "coriolanus"
+    ],
+    "A62946-e14390": [
+      "citizen-3"
+    ],
+    "A62946-e14420": [
+      "coriolanus"
+    ],
+    "A62946-e14470": [
+      "citizen-4"
+    ],
+    "A62946-e14500": [
+      "coriolanus"
+    ],
+    "A62946-e14680": [
+      "citizen-5"
+    ],
+    "A62946-e14710": [
+      "citizen-6"
+    ],
+    "A62946-e14750": [
+      "coriolanus"
+    ],
+    "A62946-e14820": [
+      "menenius"
+    ],
+    "A62946-e14900": [
+      "coriolanus"
+    ],
+    "A62946-e14930": [
+      "sicinius"
+    ],
+    "A62946-e14980": [
+      "coriolanus"
+    ],
+    "A62946-e15020": [
+      "brutus"
+    ],
+    "A62946-e15060": [
+      "coriolanus"
+    ],
+    "A62946-e15090": [
+      "sicinius"
+    ],
+    "A62946-e15120": [
+      "coriolanus"
+    ],
+    "A62946-e15160": [
+      "menenius"
+    ],
+    "A62946-e15190": [
+      "sicinius"
+    ],
+    "A62946-e15260": [
+      "brutus"
+    ],
+    "A62946-e15320": [
+      "sicinius"
+    ],
+    "A62946-e15350": [
+      "citizen-1"
+    ],
+    "A62946-e15380": [
+      "brutus"
+    ],
+    "A62946-e15420": [
+      "citizen-1"
+    ],
+    "A62946-e15480": [
+      "citizen-2"
+    ],
+    "A62946-e15510": [
+      "citizen-1"
+    ],
+    "A62946-e15540": [
+      "sicinius"
+    ],
+    "A62946-e15580": [
+      "citizen-1"
+    ],
+    "A62946-e15620": [
+      "citizen-2"
+    ],
+    "A62946-e15650": [
+      "citizen-1"
+    ],
+    "A62946-e15740": [
+      "brutus"
+    ],
+    "A62946-e15780": [
+      "sicinius"
+    ],
+    "A62946-e15900": [
+      "citizen-1"
+    ],
+    "A62946-e15940": [
+      "brutus"
+    ],
+    "A62946-e16040": [
+      "citizen-1"
+    ],
+    "A62946-e16070": [
+      "citizen-2"
+    ],
+    "A62946-e16110": [
+      "citizen-1"
+    ],
+    "A62946-e16140": [
+      "brutus"
+    ],
+    "A62946-e16210": [
+      "sicinius"
+    ],
+    "A62946-e16290": [
+      "brutus"
+    ],
+    "A62946-e16350": [
+      "citizens"
+    ],
+    "A62946-e16380": [
+      "citizen-1"
+    ],
+    "A62946-e16420": [
+      "brutus"
+    ],
+    "A62946-e16610": [
+      "sicinius"
+    ],
+    "A62946-e16640": [
+      "coriolanus"
+    ],
+    "A62946-e16670": [
+      "brutus"
+    ],
+    "A62946-e16700": [
+      "coriolanus"
+    ],
+    "A62946-e16730": [
+      "cominius"
+    ],
+    "A62946-e16780": [
+      "brutus"
+    ],
+    "A62946-e16820": [
+      "coriolanus"
+    ],
+    "A62946-e16850": [
+      "menenius"
+    ],
+    "A62946-e16890": [
+      "sicinius"
+    ],
+    "A62946-e16920": [
+      "coriolanus"
+    ],
+    "A62946-e16990": [
+      "menenius"
+    ],
+    "A62946-e17020": [
+      "coriolanus"
+    ],
+    "A62946-e17080": [
+      "brutus"
+    ],
+    "A62946-e17140": [
+      "coriolanus"
+    ],
+    "A62946-e17170": [
+      "sicinius"
+    ],
+    "A62946-e17200": [
+      "coriolanus"
+    ],
+    "A62946-e17310": [
+      "sicinius"
+    ],
+    "A62946-e17360": [
+      "brutus"
+    ],
+    "A62946-e17390": [
+      "menenius"
+    ],
+    "A62946-e17420": [
+      "coriolanus"
+    ],
+    "A62946-e17480": [
+      "sicinius"
+    ],
+    "A62946-e17520": [
+      "coriolanus"
+    ],
+    "A62946-e17590": [
+      "cominius"
+    ],
+    "A62946-e17620": [
+      "coriolanus"
+    ],
+    "A62946-e17690": [
+      "brutus"
+    ],
+    "A62946-e17730": [
+      "coriolanus"
+    ],
+    "A62946-e17840": [
+      "sicinius"
+    ],
+    "A62946-e17870": [
+      "brutus"
+    ],
+    "A62946-e17910": [
+      "coriolanus"
+    ],
+    "A62946-e17980": [
+      "brutus"
+    ],
+    "A62946-e18020": [
+      "coriolanus"
+    ],
+    "A62946-e18050": [
+      "plebeians"
+    ],
+    "A62946-e18080": [
+      "coriolanus"
+    ],
+    "A62946-e18120": [
+      "sicinius"
+    ],
+    "A62946-e18150": [
+      "menenius"
+    ],
+    "A62946-e18180": [
+      "brutus"
+    ],
+    "A62946-e18210": [
+      "plebeians"
+    ],
+    "A62946-e18240": [
+      "coriolanus"
+    ],
+    "A62946-e18300": [
+      "brutus"
+    ],
+    "A62946-e18330": [
+      "coriolanus"
+    ],
+    "A62946-e18460": [
+      "sicinius"
+    ],
+    "A62946-e18530": [
+      "brutus"
+    ],
+    "A62946-e18590": [
+      "coriolanus"
+    ],
+    "A62946-e18640": [
+      "plebeians"
+    ],
+    "A62946-e18680": [
+      "menenius"
+    ],
+    "A62946-e18760": [
+      "cominius"
+    ],
+    "A62946-e18790": [
+      "coriolanus"
+    ],
+    "A62946-e18820": [
+      "menenius"
+    ],
+    "A62946-e18870": [
+      "cominius"
+    ],
+    "A62946-e18900": [
+      "coriolanus"
+    ],
+    "A62946-e18930": [
+      "cominius"
+    ],
+    "A62946-e18980": [
+      "menenius"
+    ],
+    "A62946-e19030": [
+      "cominius"
+    ],
+    "A62946-e19090": [
+      "menenius"
+    ],
+    "A62946-e19170": [
+      "senator"
+    ],
+    "A62946-e19210": [
+      "menenius"
+    ],
+    "A62946-e19280": [
+      "sicinius"
+    ],
+    "A62946-e19330": [
+      "brutus"
+    ],
+    "A62946-e19370": [
+      "citizen-1"
+    ],
+    "A62946-e19400": [
+      "menenius"
+    ],
+    "A62946-e19430": [
+      "sicinius"
+    ],
+    "A62946-e19480": [
+      "menenius"
+    ],
+    "A62946-e19540": [
+      "brutus"
+    ],
+    "A62946-e19570": [
+      "menenius"
+    ],
+    "A62946-e19610": [
+      "plebeians"
+    ],
+    "A62946-e19640": [
+      "menenius"
+    ],
+    "A62946-e19680": [
+      "sicinius"
+    ],
+    "A62946-e19730": [
+      "menenius"
+    ],
+    "A62946-e19770": [
+      "brutus"
+    ],
+    "A62946-e19800": [
+      "menenius"
+    ],
+    "A62946-e19880": [
+      "sicinius"
+    ],
+    "A62946-e19920": [
+      "brutus"
+    ],
+    "A62946-e19980": [
+      "menenius"
+    ],
+    "A62946-e20050": [
+      "sicinius"
+    ],
+    "A62946-e20080": [
+      "brutus"
+    ],
+    "A62946-e20130": [
+      "menenius"
+    ],
+    "A62946-e20220": [
+      "senator"
+    ],
+    "A62946-e20280": [
+      "brutus"
+    ],
+    "A62946-e20330": [
+      "sicinius"
+    ],
+    "A62946-e20360": [
+      "brutus"
+    ],
+    "A62946-e20440": [
+      "menenius"
+    ],
+    "A62946-e20540": [
+      "valeria"
+    ],
+    "A62946-e20570": [
+      "volumnia"
+    ],
+    "A62946-e20600": [
+      "valeria"
+    ],
+    "A62946-e20650": [
+      "volumnia"
+    ],
+    "A62946-e20680": [
+      "valeria"
+    ],
+    "A62946-e20730": [
+      "volumnia"
+    ],
+    "A62946-e20790": [
+      "valeria"
+    ],
+    "A62946-e20840": [
+      "volumnia"
+    ],
+    "A62946-e20870": [
+      "valeria"
+    ],
+    "A62946-e20900": [
+      "volumnia"
+    ],
+    "A62946-e20930": [
+      "valeria"
+    ],
+    "A62946-e21010": [
+      "coriolanus"
+    ],
+    "A62946-e21090": [
+      "volumnia"
+    ],
+    "A62946-e21120": [
+      "coriolanus"
+    ],
+    "A62946-e21220": [
+      "volumnia"
+    ],
+    "A62946-e21280": [
+      "menenius"
+    ],
+    "A62946-e21340": [
+      "coriolanus"
+    ],
+    "A62946-e21370": [
+      "menenius"
+    ],
+    "A62946-e21410": [
+      "coriolanus"
+    ],
+    "A62946-e21440": [
+      "menenius"
+    ],
+    "A62946-e21470": [
+      "coriolanus"
+    ],
+    "A62946-e21510": [
+      "volumnia"
+    ],
+    "A62946-e21670": [
+      "menenius"
+    ],
+    "A62946-e21700": [
+      "volumnia"
+    ],
+    "A62946-e21790": [
+      "menenius"
+    ],
+    "A62946-e21850": [
+      "cominius"
+    ],
+    "A62946-e21900": [
+      "volumnia"
+    ],
+    "A62946-e21930": [
+      "coriolanus"
+    ],
+    "A62946-e22020": [
+      "cominius"
+    ],
+    "A62946-e22050": [
+      "coriolanus"
+    ],
+    "A62946-e22140": [
+      "volumnia"
+    ],
+    "A62946-e22330": [
+      "coriolanus"
+    ],
+    "A62946-e22440": [
+      "volumnia"
+    ],
+    "A62946-e22480": [
+      "cominius"
+    ],
+    "A62946-e22550": [
+      "coriolanus"
+    ],
+    "A62946-e22590": [
+      "menenius"
+    ],
+    "A62946-e22620": [
+      "coriolanus"
+    ],
+    "A62946-e22680": [
+      "sicinius"
+    ],
+    "A62946-e22710": [
+      "ediles"
+    ],
+    "A62946-e22750": [
+      "coriolanus"
+    ],
+    "A62946-e22780": [
+      "tribunes"
+    ],
+    "A62946-e22810": [
+      "coriolanus"
+    ],
+    "A62946-e22850": [
+      "brutus"
+    ],
+    "A62946-e22910": [
+      "coriolanus"
+    ],
+    "A62946-e22940": [
+      "menenius"
+    ],
+    "A62946-e22970": [
+      "coriolanus"
+    ],
+    "A62946-e23030": [
+      "sicinius"
+    ],
+    "A62946-e23060": [
+      "coriolanus"
+    ],
+    "A62946-e23090": [
+      "sicinius"
+    ],
+    "A62946-e23160": [
+      "coriolanus"
+    ],
+    "A62946-e23190": [
+      "menenius"
+    ],
+    "A62946-e23220": [
+      "coriolanus"
+    ],
+    "A62946-e23300": [
+      "brutus"
+    ],
+    "A62946-e23330": [
+      "plebeians"
+    ],
+    "A62946-e23360": [
+      "sicinius"
+    ],
+    "A62946-e23440": [
+      "brutus"
+    ],
+    "A62946-e23480": [
+      "coriolanus"
+    ],
+    "A62946-e23510": [
+      "brutus"
+    ],
+    "A62946-e23540": [
+      "coriolanus"
+    ],
+    "A62946-e23570": [
+      "menenius"
+    ],
+    "A62946-e23600": [
+      "coriolanus"
+    ],
+    "A62946-e23680": [
+      "sicinius"
+    ],
+    "A62946-e23800": [
+      "plebeians"
+    ],
+    "A62946-e23830": [
+      "cominius"
+    ],
+    "A62946-e23860": [
+      "sicinius"
+    ],
+    "A62946-e23900": [
+      "plebeians"
+    ],
+    "A62946-e23930": [
+      "coriolanus"
+    ],
+    "A62946-e24120": [
+      "sicinius"
+    ],
+    "A62946-e24200": [
+      "plebeians"
+    ],
+    "A62946-e24280": [
+      "coriolanus"
+    ],
+    "A62946-e24410": [
+      "volumnia"
+    ],
+    "A62946-e24510": [
+      "coriolanus"
+    ],
+    "A62946-e24610": [
+      "volumnia"
+    ],
+    "A62946-e24710": [
+      "virginia"
+    ],
+    "A62946-e24810": [
+      "coriolanus"
+    ],
+    "A62946-e24990": [
+      "boy"
+    ],
+    "A62946-e25030": [
+      "coriolanus"
+    ],
+    "A62946-e25090": [
+      "boy"
+    ],
+    "A62946-e25130": [
+      "coriolanus"
+    ],
+    "A62946-e25180": [
+      "menenius"
+    ],
+    "A62946-e25230": [
+      "coriolanus"
+    ],
+    "A62946-e25470": [
+      "coriolanus"
+    ],
+    "A62946-e25610": [
+      "servant-1"
+    ],
+    "A62946-e25650": [
+      "servant-2"
+    ],
+    "A62946-e25740": [
+      "coriolanus"
+    ],
+    "A62946-e25770": [
+      "servant-1"
+    ],
+    "A62946-e25800": [
+      "coriolanus"
+    ],
+    "A62946-e25870": [
+      "servant-2"
+    ],
+    "A62946-e25900": [
+      "coriolanus"
+    ],
+    "A62946-e25930": [
+      "servant-2"
+    ],
+    "A62946-e25960": [
+      "coriolanus"
+    ],
+    "A62946-e26000": [
+      "servant-2"
+    ],
+    "A62946-e26070": [
+      "aufidius"
+    ],
+    "A62946-e26100": [
+      "servant-2"
+    ],
+    "A62946-e26130": [
+      "aufidius"
+    ],
+    "A62946-e26170": [
+      "coriolanus"
+    ],
+    "A62946-e26230": [
+      "aufidius"
+    ],
+    "A62946-e26290": [
+      "coriolanus"
+    ],
+    "A62946-e26320": [
+      "aufidius"
+    ],
+    "A62946-e26350": [
+      "coriolanus"
+    ],
+    "A62946-e26670": [
+      "aufidius"
+    ],
+    "A62946-e26820": [
+      "coriolanus"
+    ],
+    "A62946-e26850": [
+      "aufidius"
+    ],
+    "A62946-e27100": [
+      "coriolanus"
+    ],
+    "A62946-e27140": [
+      "aufidius"
+    ],
+    "A62946-e27280": [
+      "servant-1"
+    ],
+    "A62946-e27310": [
+      "servant-2"
+    ],
+    "A62946-e27340": [
+      "servant-1"
+    ],
+    "A62946-e27370": [
+      "servant-2"
+    ],
+    "A62946-e27400": [
+      "servant-1"
+    ],
+    "A62946-e27450": [
+      "servant-3"
+    ],
+    "A62946-e27490": [
+      "servant-1"
+    ],
+    "A62946-e27520": [
+      "servant-3"
+    ],
+    "A62946-e27560": [
+      "servant-2"
+    ],
+    "A62946-e27590": [
+      "servant-3"
+    ],
+    "A62946-e27620": [
+      "servant-1"
+    ],
+    "A62946-e27650": [
+      "servant-2"
+    ],
+    "A62946-e27690": [
+      "servant-3"
+    ],
+    "A62946-e27740": [
+      "servant-1"
+    ],
+    "A62946-e27770": [
+      "servant-2"
+    ],
+    "A62946-e27800": [
+      "servant-1"
+    ],
+    "A62946-e27830": [
+      "servant-2"
+    ],
+    "A62946-e27860": [
+      "servant-3"
+    ],
+    "A62946-e27890": [
+      "servant-2"
+    ],
+    "A62946-e27920": [
+      "servant-3"
+    ],
+    "A62946-e27950": [
+      "servant-2"
+    ],
+    "A62946-e28000": [
+      "servant-3"
+    ],
+    "A62946-e28100": [
+      "nigridius"
+    ],
+    "A62946-e28190": [
+      "aufidius"
+    ],
+    "A62946-e28310": [
+      "nigridius"
+    ],
+    "A62946-e28430": [
+      "aufidius"
+    ],
+    "A62946-e28500": [
+      "nigridius"
+    ],
+    "A62946-e28560": [
+      "aufidius"
+    ],
+    "A62946-e28600": [
+      "nigridius"
+    ],
+    "A62946-e28720": [
+      "aufidius"
+    ],
+    "A62946-e28830": [
+      "brutus"
+    ],
+    "A62946-e28930": [
+      "menenius"
+    ],
+    "A62946-e28960": [
+      "brutus"
+    ],
+    "A62946-e28990": [
+      "menenius"
+    ],
+    "A62946-e29020": [
+      "brutus"
+    ],
+    "A62946-e29070": [
+      "menenius"
+    ],
+    "A62946-e29140": [
+      "brutus"
+    ],
+    "A62946-e29170": [
+      "sicinius"
+    ],
+    "A62946-e29270": [
+      "citizen-1"
+    ],
+    "A62946-e29310": [
+      "menenius"
+    ],
+    "A62946-e29410": [
+      "brutus"
+    ],
+    "A62946-e29440": [
+      "menenius"
+    ],
+    "A62946-e29470": [
+      "sicinius"
+    ],
+    "A62946-e29500": [
+      "citizen-1"
+    ],
+    "A62946-e29550": [
+      "messenger"
+    ],
+    "A62946-e29640": [
+      "citizen-1"
+    ],
+    "A62946-e29680": [
+      "menenius"
+    ],
+    "A62946-e29730": [
+      "messenger"
+    ],
+    "A62946-e29790": [
+      "menenius"
+    ],
+    "A62946-e29820": [
+      "messenger"
+    ],
+    "A62946-e29900": [
+      "menenius"
+    ],
+    "A62946-e29960": [
+      "citizens"
+    ],
+    "A62946-e29990": [
+      "menenius"
+    ],
+    "A62946-e30050": [
+      "tribunes"
+    ],
+    "A62946-e30080": [
+      "senator"
+    ],
+    "A62946-e30140": [
+      "citizen-1"
+    ],
+    "A62946-e30180": [
+      "senator"
+    ],
+    "A62946-e30300": [
+      "menenius"
+    ],
+    "A62946-e30380": [
+      "senator"
+    ],
+    "A62946-e30480": [
+      "citizens"
+    ],
+    "A62946-e30520": [
+      "citizen-1"
+    ],
+    "A62946-e30550": [
+      "citizen-2"
+    ],
+    "A62946-e30580": [
+      "citizen-1"
+    ],
+    "A62946-e30610": [
+      "citizens"
+    ],
+    "A62946-e30660": [
+      "citizen-2"
+    ],
+    "A62946-e30690": [
+      "senator"
+    ],
+    "A62946-e30740": [
+      "cominius"
+    ],
+    "A62946-e30770": [
+      "menenius"
+    ],
+    "A62946-e30800": [
+      "cominius"
+    ],
+    "A62946-e30910": [
+      "citizens"
+    ],
+    "A62946-e30940": [
+      "cominius"
+    ],
+    "A62946-e31000": [
+      "menenius"
+    ],
+    "A62946-e31030": [
+      "cominius"
+    ],
+    "A62946-e31090": [
+      "citizen-1"
+    ],
+    "A62946-e31130": [
+      "brutus"
+    ],
+    "A62946-e31200": [
+      "menenius"
+    ],
+    "A62946-e31230": [
+      "sicinius"
+    ],
+    "A62946-e31260": [
+      "menenius"
+    ],
+    "A62946-e31290": [
+      "brutus"
+    ],
+    "A62946-e31350": [
+      "citizens"
+    ],
+    "A62946-e31400": [
+      "menenius"
+    ],
+    "A62946-e31460": [
+      "citizen-1"
+    ],
+    "A62946-e31510": [
+      "cominius"
+    ],
+    "A62946-e31630": [
+      "citizen-1"
+    ],
+    "A62946-e31780": [
+      "menenius"
+    ],
+    "A62946-e31920": [
+      "coriolanus"
+    ],
+    "A62946-e31950": [
+      "menenius"
+    ],
+    "A62946-e31980": [
+      "coriolanus"
+    ],
+    "A62946-e32180": [
+      "aufidius"
+    ],
+    "A62946-e32210": [
+      "coriolanus"
+    ],
+    "A62946-e32270": [
+      "aufidius"
+    ],
+    "A62946-e32300": [
+      "nigridius"
+    ],
+    "A62946-e32340": [
+      "coriolanus"
+    ],
+    "A62946-e32450": [
+      "coriolanus"
+    ],
+    "A62946-e32510": [
+      "virginia"
+    ],
+    "A62946-e32540": [
+      "volumnia"
+    ],
+    "A62946-e32570": [
+      "coriolanus"
+    ],
+    "A62946-e32700": [
+      "nigridius"
+    ],
+    "A62946-e32730": [
+      "coriolanus"
+    ],
+    "A62946-e32870": [
+      "volumnia"
+    ],
+    "A62946-e32960": [
+      "coriolanus"
+    ],
+    "A62946-e33040": [
+      "volumnia"
+    ],
+    "A62946-e33070": [
+      "coriolanus"
+    ],
+    "A62946-e33150": [
+      "volumnia"
+    ],
+    "A62946-e33210": [
+      "coriolanus"
+    ],
+    "A62946-e33320": [
+      "volumnia"
+    ],
+    "A62946-e33370": [
+      "coriolanus"
+    ],
+    "A62946-e33400": [
+      "volumnia"
+    ],
+    "A62946-e33490": [
+      "coriolanus"
+    ],
+    "A62946-e33690": [
+      "volumnia"
+    ],
+    "A62946-e33750": [
+      "coriolanus"
+    ],
+    "A62946-e33850": [
+      "virginia"
+    ],
+    "A62946-e33960": [
+      "volumnia"
+    ],
+    "A62946-e34100": [
+      "virginia"
+    ],
+    "A62946-e34130": [
+      "boy"
+    ],
+    "A62946-e34170": [
+      "coriolanus"
+    ],
+    "A62946-e34230": [
+      "virginia"
+    ],
+    "A62946-e34390": [
+      "volumnia"
+    ],
+    "A62946-e34520": [
+      "coriolanus"
+    ],
+    "A62946-e34600": [
+      "volumnia"
+    ],
+    "A62946-e34820": [
+      "coriolanus"
+    ],
+    "A62946-e34990": [
+      "aufidius"
+    ],
+    "A62946-e35020": [
+      "coriolanus"
+    ],
+    "A62946-e35250": [
+      "cominius"
+    ],
+    "A62946-e35410": [
+      "valeria"
+    ],
+    "A62946-e35460": [
+      "volumnia"
+    ],
+    "A62946-e35490": [
+      "valeria"
+    ],
+    "A62946-e35550": [
+      "volumnia"
+    ],
+    "A62946-e35580": [
+      "valeria"
+    ],
+    "A62946-e35650": [
+      "virginia"
+    ],
+    "A62946-e35680": [
+      "valeria"
+    ],
+    "A62946-e35720": [
+      "cominius"
+    ],
+    "A62946-e35750": [
+      "valeria"
+    ],
+    "A62946-e35790": [
+      "cominius"
+    ],
+    "A62946-e35820": [
+      "valeria"
+    ],
+    "A62946-e35860": [
+      "cominius"
+    ],
+    "A62946-e35890": [
+      "valeria"
+    ],
+    "A62946-e35930": [
+      "page"
+    ],
+    "A62946-e36000": [
+      "valeria"
+    ],
+    "A62946-e36050": [
+      "virginia"
+    ],
+    "A62946-e36130": [
+      "cominius"
+    ],
+    "A62946-e36160": [
+      "virginia"
+    ],
+    "A62946-e36310": [
+      "volumnia"
+    ],
+    "A62946-e36400": [
+      "cominius"
+    ],
+    "A62946-e36440": [
+      "virginia"
+    ],
+    "A62946-e36530": [
+      "boy"
+    ],
+    "A62946-e36560": [
+      "volumnia"
+    ],
+    "A62946-e36690": [
+      "cominius"
+    ],
+    "A62946-e36770": [
+      "nigridius"
+    ],
+    "A62946-e36800": [
+      "aufidius"
+    ],
+    "A62946-e36970": [
+      "nigridius"
+    ],
+    "A62946-e37000": [
+      "aufidius"
+    ],
+    "A62946-e37180": [
+      "nigridius"
+    ],
+    "A62946-e37300": [
+      "officer"
+    ],
+    "A62946-e37400": [
+      "aufidius"
+    ],
+    "A62946-e37480": [
+      "nigridius"
+    ],
+    "A62946-e37510": [
+      "aufidius"
+    ],
+    "A62946-e37540": [
+      "nigridius"
+    ],
+    "A62946-e37570": [
+      "aufidius"
+    ],
+    "A62946-e37610": [
+      "nigridius"
+    ],
+    "A62946-e37660": [
+      "aufidius"
+    ],
+    "A62946-e37790": [
+      "nigridius"
+    ],
+    "A62946-e37860": [
+      "aufidius"
+    ],
+    "A62946-e37900": [
+      "nigridius"
+    ],
+    "A62946-e37970": [
+      "aufidius"
+    ],
+    "A62946-e38100": [
+      "officer"
+    ],
+    "A62946-e38240": [
+      "aufidius"
+    ],
+    "A62946-e38320": [
+      "officer"
+    ],
+    "A62946-e38410": [
+      "aufidius"
+    ],
+    "A62946-e38610": [
+      "lord-1"
+    ],
+    "A62946-e38800": [
+      "coriolanus"
+    ],
+    "A62946-e39030": [
+      "aufidius"
+    ],
+    "A62946-e39060": [
+      "coriolanus"
+    ],
+    "A62946-e39090": [
+      "aufidius"
+    ],
+    "A62946-e39140": [
+      "coriolanus"
+    ],
+    "A62946-e39210": [
+      "aufidius"
+    ],
+    "A62946-e39240": [
+      "coriolanus"
+    ],
+    "A62946-e39270": [
+      "aufidius"
+    ],
+    "A62946-e39310": [
+      "coriolanus"
+    ],
+    "A62946-e39340": [
+      "aufidius"
+    ],
+    "A62946-e39380": [
+      "coriolanus"
+    ],
+    "A62946-e39410": [
+      "aufidius"
+    ],
+    "A62946-e39590": [
+      "coriolanus"
+    ],
+    "A62946-e39630": [
+      "aufidius"
+    ],
+    "A62946-e39670": [
+      "coriolanus"
+    ],
+    "A62946-e39710": [
+      "lord-1",
+      "lord-2"
+    ],
+    "A62946-e39750": [
+      "coriolanus"
+    ],
+    "A62946-e39940": [
+      "aufidius"
+    ],
+    "A62946-e40010": [
+      "lord-1"
+    ],
+    "A62946-e40080": [
+      "aufidius"
+    ],
+    "A62946-e40120": [
+      "lord-2"
+    ],
+    "A62946-e40170": [
+      "nigridius"
+    ],
+    "A62946-e40260": [
+      "lord-1"
+    ],
+    "A62946-e40310": [
+      "nigridius"
+    ],
+    "A62946-e40340": [
+      "aufidius"
+    ],
+    "A62946-e40370": [
+      "nigridius"
+    ],
+    "A62946-e40410": [
+      "coriolanus"
+    ],
+    "A62946-e40510": [
+      "aufidius"
+    ],
+    "A62946-e40560": [
+      "coriolanus"
+    ],
+    "A62946-e40590": [
+      "aufidius"
+    ],
+    "A62946-e40800": [
+      "virginia"
+    ],
+    "A62946-e40850": [
+      "coriolanus"
+    ],
+    "A62946-e40880": [
+      "virginia"
+    ],
+    "A62946-e40940": [
+      "coriolanus"
+    ],
+    "A62946-e41070": [
+      "virginia"
+    ],
+    "A62946-e41260": [
+      "coriolanus"
+    ],
+    "A62946-e41440": [
+      "nigridius"
+    ],
+    "A62946-e41470": [
+      "coriolanus"
+    ],
+    "A62946-e41510": [
+      "nigridius"
+    ],
+    "A62946-e41620": [
+      "coriolanus"
+    ],
+    "A62946-e41660": [
+      "nigridius"
+    ],
+    "A62946-e41730": [
+      "coriolanus"
+    ],
+    "A62946-e41810": [
+      "nigridius"
+    ],
+    "A62946-e41960": [
+      "coriolanus"
+    ],
+    "A62946-e42060": [
+      "volumnia"
+    ],
+    "A62946-e42100": [
+      "coriolanus"
+    ],
+    "A62946-e42140": [
+      "volumnia"
+    ],
+    "A62946-e42260": [
+      "nigridius"
+    ],
+    "A62946-e42290": [
+      "volumnia"
+    ],
+    "A62946-e42370": [
+      "coriolanus"
+    ],
+    "A62946-e42440": [
+      "boy"
+    ],
+    "A62946-e42480": [
+      "volumnia"
+    ],
+    "A62946-e42890": [
+      "coriolanus"
+    ],
+    "A62946-e42930": [
+      "boy"
+    ],
+    "A62946-e42990": [
+      "coriolanus"
+    ],
+    "A62946-e43020": [
+      "boy"
+    ],
+    "A62946-e43060": [
+      "coriolanus"
+    ],
+    "A62946-e43100": [
+      "boy"
+    ],
+    "A62946-e43150": [
+      "coriolanus"
+    ],
+    "A62946-e43190": [
+      "boy"
+    ],
+    "A62946-e43270": [
+      "coriolanus"
+    ],
+    "A62946-e43300": [
+      "boy"
+    ],
+    "A62946-e43350": [
+      "coriolanus"
+    ]
+  }
+}

@@ -1,0 +1,983 @@
+{
+  "particDesc": [
+    {
+      "name": "Roman Soldier",
+      "id": "roman-soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ambassador 2",
+      "id": "ambassador-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Ambassador 1",
+      "id": "ambassador-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Decius",
+      "id": "decius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Grecinus",
+      "id": "grecinus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Aufidius",
+      "id": "aufidius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Crassus",
+      "id": "crassus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ligurius",
+      "id": "ligurius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sertorius",
+      "name": "Sertorius ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bebricius",
+      "name": "Bebricius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "tribunius",
+      "name": "Tribunius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cassius",
+      "name": "Cassius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "norbanus",
+      "name": "Norbanus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "perpenna",
+      "name": "Perpenna ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "manlius",
+      "name": "Manlius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pompey",
+      "name": "Pompey ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "aquinius",
+      "name": "Aquinius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "centurion",
+      "name": "Centurion",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "terentia",
+      "name": "Terentia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "fulvia",
+      "name": "Fulvia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A30789-e1880": [
+      "bebricius"
+    ],
+    "A30789-e1990": [
+      "norbanus"
+    ],
+    "A30789-e2130": [
+      "ligurius"
+    ],
+    "A30789-e2350": [
+      "norbanus"
+    ],
+    "A30789-e2520": [
+      "crassus"
+    ],
+    "A30789-e2700": [
+      "bebricius"
+    ],
+    "A30789-e2820": [
+      "sertorius"
+    ],
+    "A30789-e2950": [
+      "bebricius"
+    ],
+    "A30789-e3090": [
+      "sertorius"
+    ],
+    "A30789-e3360": [
+      "bebricius"
+    ],
+    "A30789-e3400": [
+      "sertorius"
+    ],
+    "A30789-e3610": [
+      "tribunius"
+    ],
+    "A30789-e3680": [
+      "sertorius"
+    ],
+    "A30789-e3740": [
+      "tribunius"
+    ],
+    "A30789-e3980": [
+      "sertorius"
+    ],
+    "A30789-e4160": [
+      "aquinius"
+    ],
+    "A30789-e4350": [
+      "sertorius"
+    ],
+    "A30789-e4720": [
+      "aquinius"
+    ],
+    "A30789-e4810": [
+      "sertorius"
+    ],
+    "A30789-e5100": [
+      "bebricius"
+    ],
+    "A30789-e5170": [
+      "sertorius"
+    ],
+    "A30789-e5230": [
+      "bebricius"
+    ],
+    "A30789-e5390": [
+      "sertorius"
+    ],
+    "A30789-e5420": [
+      "soldier"
+    ],
+    "A30789-e5450": [
+      "sertorius"
+    ],
+    "A30789-e5540": [
+      "cassius"
+    ],
+    "A30789-e5580": [
+      "sertorius"
+    ],
+    "A30789-e5620": [
+      "cassius"
+    ],
+    "A30789-e5650": [
+      "sertorius"
+    ],
+    "A30789-e5920": [
+      "cassius"
+    ],
+    "A30789-e5970": [
+      "sertorius"
+    ],
+    "A30789-e6090": [
+      "terentia"
+    ],
+    "A30789-e6170": [
+      "sertorius"
+    ],
+    "A30789-e6260": [
+      "terentia"
+    ],
+    "A30789-e6320": [
+      "sertorius"
+    ],
+    "A30789-e6430": [
+      "terentia"
+    ],
+    "A30789-e6520": [
+      "sertorius"
+    ],
+    "A30789-e6620": [
+      "terentia"
+    ],
+    "A30789-e6680": [
+      "bebricius"
+    ],
+    "A30789-e6760": [
+      "sertorius"
+    ],
+    "A30789-e6860": [
+      "terentia"
+    ],
+    "A30789-e6960": [
+      "sertorius"
+    ],
+    "A30789-e7110": [
+      "perpenna"
+    ],
+    "A30789-e7300": [
+      "aufidius"
+    ],
+    "A30789-e7460": [
+      "grecinus"
+    ],
+    "A30789-e7580": [
+      "centurion"
+    ],
+    "A30789-e7740": [
+      "perpenna"
+    ],
+    "A30789-e7880": [
+      "centurion"
+    ],
+    "A30789-e8040": [
+      "aufidius"
+    ],
+    "A30789-e8070": [
+      "perpenna"
+    ],
+    "A30789-e8240": [
+      "centurion"
+    ],
+    "A30789-e8320": [
+      "perpenna"
+    ],
+    "A30789-e8530": [
+      "fulvia"
+    ],
+    "A30789-e8680": [
+      "perpenna"
+    ],
+    "A30789-e8860": [
+      "fulvia"
+    ],
+    "A30789-e9050": [
+      "perpenna"
+    ],
+    "A30789-e9200": [
+      "fulvia"
+    ],
+    "A30789-e9290": [
+      "perpenna"
+    ],
+    "A30789-e9470": [
+      "fulvia"
+    ],
+    "A30789-e9610": [
+      "cassius"
+    ],
+    "A30789-e9830": [
+      "terentia"
+    ],
+    "A30789-e9950": [
+      "cassius"
+    ],
+    "A30789-e10050": [
+      "terentia"
+    ],
+    "A30789-e10110": [
+      "cassius"
+    ],
+    "A30789-e10230": [
+      "terentia"
+    ],
+    "A30789-e10410": [
+      "cassius"
+    ],
+    "A30789-e10560": [
+      "terentia"
+    ],
+    "A30789-e10660": [
+      "cassius"
+    ],
+    "A30789-e10800": [
+      "aufidius"
+    ],
+    "A30789-e10880": [
+      "bebricius"
+    ],
+    "A30789-e11060": [
+      "perpenna"
+    ],
+    "A30789-e11270": [
+      "sertorius"
+    ],
+    "A30789-e11420": [
+      "perpenna"
+    ],
+    "A30789-e11540": [
+      "sertorius"
+    ],
+    "A30789-e11780": [
+      "perpenna"
+    ],
+    "A30789-e11950": [
+      "sertorius"
+    ],
+    "A30789-e12400": [
+      "sertorius"
+    ],
+    "A30789-e12650": [
+      "bebricius"
+    ],
+    "A30789-e12740": [
+      "perpenna"
+    ],
+    "A30789-e13030": [
+      "sertorius"
+    ],
+    "A30789-e13110": [
+      "perpenna"
+    ],
+    "A30789-e13260": [
+      "fulvia"
+    ],
+    "A30789-e13420": [
+      "perpenna"
+    ],
+    "A30789-e13550": [
+      "cassius"
+    ],
+    "A30789-e13630": [
+      "fulvia"
+    ],
+    "A30789-e13680": [
+      "perpenna"
+    ],
+    "A30789-e13730": [
+      "sertorius"
+    ],
+    "A30789-e14110": [
+      "bebricius"
+    ],
+    "A30789-e14370": [
+      "fulvia"
+    ],
+    "A30789-e14420": [
+      "bebricius"
+    ],
+    "A30789-e14540": [
+      "fulvia"
+    ],
+    "A30789-e14610": [
+      "bebricius"
+    ],
+    "A30789-e14690": [
+      "fulvia"
+    ],
+    "A30789-e14780": [
+      "bebricius"
+    ],
+    "A30789-e14850": [
+      "fulvia"
+    ],
+    "A30789-e14890": [
+      "bebricius"
+    ],
+    "A30789-e15020": [
+      "fulvia"
+    ],
+    "A30789-e15140": [
+      "bebricius"
+    ],
+    "A30789-e15220": [
+      "fulvia"
+    ],
+    "A30789-e15280": [
+      "bebricius"
+    ],
+    "A30789-e15380": [
+      "cassius"
+    ],
+    "A30789-e15530": [
+      "terentia"
+    ],
+    "A30789-e15590": [
+      "cassius"
+    ],
+    "A30789-e15650": [
+      "terentia"
+    ],
+    "A30789-e15720": [
+      "cassius"
+    ],
+    "A30789-e15830": [
+      "terentia"
+    ],
+    "A30789-e15880": [
+      "cassius"
+    ],
+    "A30789-e15950": [
+      "terentia"
+    ],
+    "A30789-e15990": [
+      "cassius"
+    ],
+    "A30789-e16110": [
+      "terentia"
+    ],
+    "A30789-e16280": [
+      "cassius"
+    ],
+    "A30789-e16440": [
+      "terentia"
+    ],
+    "A30789-e16570": [
+      "cassius"
+    ],
+    "A30789-e16690": [
+      "terentia"
+    ],
+    "A30789-e16800": [
+      "sertorius"
+    ],
+    "A30789-e16910": [
+      "perpenna"
+    ],
+    "A30789-e17100": [
+      "sertorius"
+    ],
+    "A30789-e17250": [
+      "bebricius"
+    ],
+    "A30789-e17370": [
+      "ambassador-1"
+    ],
+    "A30789-e17580": [
+      "ambassador-2"
+    ],
+    "A30789-e17730": [
+      "sertorius"
+    ],
+    "A30789-e17950": [
+      "perpenna"
+    ],
+    "A30789-e18080": [
+      "sertorius"
+    ],
+    "A30789-e18180": [
+      "terentia"
+    ],
+    "A30789-e18330": [
+      "perpenna"
+    ],
+    "A30789-e18480": [
+      "bebricius"
+    ],
+    "A30789-e18540": [
+      "perpenna"
+    ],
+    "A30789-e18710": [
+      "aufidius"
+    ],
+    "A30789-e18770": [
+      "crassus"
+    ],
+    "A30789-e18820": [
+      "manlius"
+    ],
+    "A30789-e18870": [
+      "ligurius"
+    ],
+    "A30789-e18910": [
+      "decius"
+    ],
+    "A30789-e18940": [
+      "sertorius"
+    ],
+    "A30789-e19150": [
+      "terentia"
+    ],
+    "A30789-e19270": [
+      "aufidius"
+    ],
+    "A30789-e19390": [
+      "sertorius"
+    ],
+    "A30789-e19520": [
+      "terentia"
+    ],
+    "A30789-e19600": [
+      "sertorius"
+    ],
+    "A30789-e19720": [
+      "terentia"
+    ],
+    "A30789-e19830": [
+      "sertorius"
+    ],
+    "A30789-e20190": [
+      "terentia"
+    ],
+    "A30789-e20330": [
+      "cassius"
+    ],
+    "A30789-e20400": [
+      "terentia"
+    ],
+    "A30789-e20530": [
+      "cassius"
+    ],
+    "A30789-e20650": [
+      "terentia"
+    ],
+    "A30789-e20740": [
+      "cassius"
+    ],
+    "A30789-e20820": [
+      "terentia"
+    ],
+    "A30789-e20860": [
+      "cassius"
+    ],
+    "A30789-e20970": [
+      "terentia"
+    ],
+    "A30789-e21060": [
+      "cassius"
+    ],
+    "A30789-e21190": [
+      "sertorius"
+    ],
+    "A30789-e21290": [
+      "terentia"
+    ],
+    "A30789-e21330": [
+      "sertorius"
+    ],
+    "A30789-e21370": [
+      "terentia"
+    ],
+    "A30789-e21410": [
+      "sertorius"
+    ],
+    "A30789-e21500": [
+      "cassius"
+    ],
+    "A30789-e21530": [
+      "sertorius"
+    ],
+    "A30789-e21560": [
+      "cassius"
+    ],
+    "A30789-e21680": [
+      "sertorius"
+    ],
+    "A30789-e21910": [
+      "fulvia"
+    ],
+    "A30789-e22050": [
+      "perpenna"
+    ],
+    "A30789-e22190": [
+      "fulvia"
+    ],
+    "A30789-e22230": [
+      "perpenna"
+    ],
+    "A30789-e22260": [
+      "fulvia"
+    ],
+    "A30789-e22300": [
+      "perpenna"
+    ],
+    "A30789-e22350": [
+      "fulvia"
+    ],
+    "A30789-e22420": [
+      "perpenna"
+    ],
+    "A30789-e22730": [
+      "servant"
+    ],
+    "A30789-e22770": [
+      "perpenna"
+    ],
+    "A30789-e22860": [
+      "tribunius"
+    ],
+    "A30789-e22900": [
+      "crassus"
+    ],
+    "A30789-e22940": [
+      "ligurius"
+    ],
+    "A30789-e22980": [
+      "decius"
+    ],
+    "A30789-e23020": [
+      "norbanus"
+    ],
+    "A30789-e23060": [
+      "perpenna"
+    ],
+    "A30789-e23480": [
+      "norbanus"
+    ],
+    "A30789-e23520": [
+      "crassus"
+    ],
+    "A30789-e23550": [
+      "ligurius"
+    ],
+    "A30789-e23590": [
+      "perpenna"
+    ],
+    "A30789-e23670": [
+      "crassus",
+      "decius",
+      "ligurius",
+      "norbanus",
+      "tribunius"
+    ],
+    "A30789-e23710": [
+      "perpenna"
+    ],
+    "A30789-e23830": [
+      "tribunius"
+    ],
+    "A30789-e23890": [
+      "perpenna"
+    ],
+    "A30789-e24150": [
+      "ligurius"
+    ],
+    "A30789-e24220": [
+      "perpenna"
+    ],
+    "A30789-e24430": [
+      "norbanus"
+    ],
+    "A30789-e24480": [
+      "perpenna"
+    ],
+    "A30789-e24750": [
+      "tribunius"
+    ],
+    "A30789-e24810": [
+      "crassus"
+    ],
+    "A30789-e24840": [
+      "norbanus"
+    ],
+    "A30789-e24870": [
+      "ligurius"
+    ],
+    "A30789-e24900": [
+      "decius"
+    ],
+    "A30789-e24930": [
+      "perpenna"
+    ],
+    "A30789-e25270": [
+      "tribunius"
+    ],
+    "A30789-e25320": [
+      "crassus"
+    ],
+    "A30789-e25390": [
+      "norbanus"
+    ],
+    "A30789-e25450": [
+      "perpenna"
+    ],
+    "A30789-e25620": [
+      "tribunius"
+    ],
+    "A30789-e25690": [
+      "perpenna"
+    ],
+    "A30789-e25950": [
+      "crassus",
+      "decius",
+      "ligurius",
+      "norbanus",
+      "tribunius"
+    ],
+    "A30789-e25980": [
+      "perpenna"
+    ],
+    "A30789-e26140": [
+      "bebricius"
+    ],
+    "A30789-e26370": [
+      "sertorius"
+    ],
+    "A30789-e26500": [
+      "bebricius"
+    ],
+    "A30789-e26610": [
+      "sertorius"
+    ],
+    "A30789-e26670": [
+      "bebricius"
+    ],
+    "A30789-e26850": [
+      "sertorius"
+    ],
+    "A30789-e27100": [
+      "bebricius"
+    ],
+    "A30789-e27360": [
+      "sertorius"
+    ],
+    "A30789-e27480": [
+      "bebricius"
+    ],
+    "A30789-e27620": [
+      "sertorius"
+    ],
+    "A30789-e27780": [
+      "terentia"
+    ],
+    "A30789-e27880": [
+      "sertorius"
+    ],
+    "A30789-e27930": [
+      "terentia"
+    ],
+    "A30789-e28140": [
+      "sertorius"
+    ],
+    "A30789-e28190": [
+      "terentia"
+    ],
+    "A30789-e28260": [
+      "sertorius"
+    ],
+    "A30789-e28400": [
+      "tribunius"
+    ],
+    "A30789-e28490": [
+      "sertorius"
+    ],
+    "A30789-e28530": [
+      "tribunius"
+    ],
+    "A30789-e28700": [
+      "sertorius"
+    ],
+    "A30789-e28750": [
+      "tribunius"
+    ],
+    "A30789-e28880": [
+      "sertorius"
+    ],
+    "A30789-e28920": [
+      "tribunius"
+    ],
+    "A30789-e29020": [
+      "norbanus"
+    ],
+    "A30789-e29130": [
+      "ligurius"
+    ],
+    "A30789-e29210": [
+      "bebricius"
+    ],
+    "A30789-e29300": [
+      "ligurius"
+    ],
+    "A30789-e29450": [
+      "sertorius"
+    ],
+    "A30789-e29560": [
+      "terentia"
+    ],
+    "A30789-e29630": [
+      "sertorius"
+    ],
+    "A30789-e29830": [
+      "perpenna"
+    ],
+    "A30789-e30120": [
+      "fulvia"
+    ],
+    "A30789-e30170": [
+      "perpenna"
+    ],
+    "A30789-e30230": [
+      "fulvia"
+    ],
+    "A30789-e30270": [
+      "perpenna"
+    ],
+    "A30789-e30400": [
+      "perpenna"
+    ],
+    "A30789-e30530": [
+      "sertorius"
+    ],
+    "A30789-e30650": [
+      "perpenna"
+    ],
+    "A30789-e30790": [
+      "bebricius"
+    ],
+    "A30789-e30910": [
+      "sertorius"
+    ],
+    "A30789-e30960": [
+      "perpenna"
+    ],
+    "A30789-e31130": [
+      "sertorius"
+    ],
+    "A30789-e31270": [
+      "perpenna"
+    ],
+    "A30789-e31390": [
+      "tribunius"
+    ],
+    "A30789-e31440": [
+      "sertorius"
+    ],
+    "A30789-e31470": [
+      "perpenna"
+    ],
+    "A30789-e31510": [
+      "bebricius"
+    ],
+    "A30789-e31610": [
+      "sertorius"
+    ],
+    "A30789-e31640": [
+      "perpenna"
+    ],
+    "A30789-e31710": [
+      "sertorius"
+    ],
+    "A30789-e31880": [
+      "perpenna"
+    ],
+    "A30789-e32060": [
+      "terentia"
+    ],
+    "A30789-e32180": [
+      "sertorius"
+    ],
+    "A30789-e32230": [
+      "terentia"
+    ],
+    "A30789-e32440": [
+      "perpenna"
+    ],
+    "A30789-e32540": [
+      "tribunius"
+    ],
+    "A30789-e32660": [
+      "perpenna"
+    ],
+    "A30789-e32790": [
+      "decius",
+      "tribunius",
+      "norbanus",
+      "crassus"
+    ],
+    "A30789-e32890": [
+      "perpenna"
+    ],
+    "A30789-e32940": [
+      "roman-soldier"
+    ],
+    "A30789-e33110": [
+      "perpenna"
+    ],
+    "A30789-e33290": [
+      "pompey"
+    ],
+    "A30789-e33420": [
+      "bebricius"
+    ],
+    "A30789-e33470": [
+      "pompey"
+    ],
+    "A30789-e33540": [
+      "perpenna"
+    ],
+    "A30789-e33670": [
+      "norbanus"
+    ],
+    "A30789-e33720": [
+      "tribunius"
+    ],
+    "A30789-e33750": [
+      "perpenna"
+    ],
+    "A30789-e33810": [
+      "tribunius"
+    ],
+    "A30789-e33980": [
+      "fulvia"
+    ],
+    "A30789-e34110": [
+      "perpenna"
+    ],
+    "A30789-e34180": [
+      "fulvia"
+    ],
+    "A30789-e34250": [
+      "pompey"
+    ],
+    "A30789-e34300": [
+      "bebricius"
+    ],
+    "A30789-e34370": [
+      "perpenna"
+    ],
+    "A30789-e34570": [
+      "fulvia"
+    ],
+    "A30789-e34700": [
+      "pompey"
+    ]
+  }
+}

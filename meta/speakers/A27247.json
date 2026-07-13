@@ -1,0 +1,876 @@
+{
+  "particDesc": [
+    {
+      "name": "Diseased Person 3",
+      "id": "diseased-person-3",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Diseased Person 2",
+      "id": "diseased-person-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Diseased Person 1",
+      "id": "diseased-person-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Guards",
+      "id": "guards",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Parsian 1",
+      "id": "parsian-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cosmelia",
+      "id": "cosmelia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Maacla",
+      "id": "maacla",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Ceteba",
+      "id": "ceteba",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lumbus",
+      "id": "lumbus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tyrone",
+      "id": "tyrone",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lucan",
+      "id": "lucan",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Dubois",
+      "id": "dubois",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Pedro",
+      "id": "pedro",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Miletas",
+      "id": "miletas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Zolazer",
+      "id": "zolazer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Polidorus",
+      "id": "polidorus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Piazer",
+      "id": "piazer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Salvirus",
+      "id": "salvirus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Brizander",
+      "id": "brizander",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Morinus",
+      "id": "morinus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Teimurazez",
+      "id": "teimurazez",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A27247-e1990": [
+      "ceteba"
+    ],
+    "A27247-e2050": [
+      "polidorus"
+    ],
+    "A27247-e2130": [
+      "ceteba"
+    ],
+    "A27247-e2360": [
+      "polidorus"
+    ],
+    "A27247-e2540": [
+      "teimurazez"
+    ],
+    "A27247-e2810": [
+      "teimurazez"
+    ],
+    "A27247-e2930": [
+      "ceteba"
+    ],
+    "A27247-e3280": [
+      "teimurazez"
+    ],
+    "A27247-e3470": [
+      "salvirus"
+    ],
+    "A27247-e3520": [
+      "morinus"
+    ],
+    "A27247-e3800": [
+      "brizander"
+    ],
+    "A27247-e3920": [
+      "teimurazez"
+    ],
+    "A27247-e4070": [
+      "morinus"
+    ],
+    "A27247-e4100": [
+      "polidorus"
+    ],
+    "A27247-e4290": [
+      "salvirus"
+    ],
+    "A27247-e4550": [
+      "morinus"
+    ],
+    "A27247-e4580": [
+      "polidorus"
+    ],
+    "A27247-e4620": [
+      "teimurazez"
+    ],
+    "A27247-e4680": [
+      "morinus"
+    ],
+    "A27247-e5120": [
+      "zolazer"
+    ],
+    "A27247-e5160": [
+      "dubois"
+    ],
+    "A27247-e5200": [
+      "tyrone"
+    ],
+    "A27247-e5260": [
+      "zolazer"
+    ],
+    "A27247-e5320": [
+      "polidorus"
+    ],
+    "A27247-e5390": [
+      "lumbus"
+    ],
+    "A27247-e5430": [
+      "polidorus"
+    ],
+    "A27247-e5510": [
+      "lucan"
+    ],
+    "A27247-e5550": [
+      "polidorus"
+    ],
+    "A27247-e5810": [
+      "zolazer"
+    ],
+    "A27247-e5850": [
+      "polidorus"
+    ],
+    "A27247-e5880": [
+      "dubois"
+    ],
+    "A27247-e6080": [
+      "zolazer"
+    ],
+    "A27247-e6130": [
+      "polidorus"
+    ],
+    "A27247-e6310": [
+      "lucan"
+    ],
+    "A27247-e6400": [
+      "polidorus"
+    ],
+    "A27247-e6540": [
+      "zolazer"
+    ],
+    "A27247-e6630": [
+      "polidorus"
+    ],
+    "A27247-e6710": [
+      "zolazer"
+    ],
+    "A27247-e6940": [
+      "tyrone"
+    ],
+    "A27247-e7150": [
+      "lumbus"
+    ],
+    "A27247-e7240": [
+      "dubois"
+    ],
+    "A27247-e7420": [
+      "lucan"
+    ],
+    "A27247-e7530": [
+      "dubois"
+    ],
+    "A27247-e7640": [
+      "polidorus"
+    ],
+    "A27247-e7730": [
+      "soldier"
+    ],
+    "A27247-e7770": [
+      "polidorus"
+    ],
+    "A27247-e7820": [
+      "brizander"
+    ],
+    "A27247-e7940": [
+      "soldier"
+    ],
+    "A27247-e7990": [
+      "polidorus"
+    ],
+    "A27247-e8050": [
+      "brizander"
+    ],
+    "A27247-e8160": [
+      "ceteba"
+    ],
+    "A27247-e8550": [
+      "maacla"
+    ],
+    "A27247-e8640": [
+      "ceteba"
+    ],
+    "A27247-e8760": [
+      "maacla"
+    ],
+    "A27247-e8830": [
+      "ceteba"
+    ],
+    "A27247-e8950": [
+      "maacla"
+    ],
+    "A27247-e9020": [
+      "maacla"
+    ],
+    "A27247-e9150": [
+      "maacla"
+    ],
+    "A27247-e9390": [
+      "ceteba"
+    ],
+    "A27247-e9480": [
+      "maacla"
+    ],
+    "A27247-e9730": [
+      "ceteba"
+    ],
+    "A27247-e9930": [
+      "parsian-1"
+    ],
+    "A27247-e10040": [
+      "ceteba"
+    ],
+    "A27247-e11120": [
+      "teimurazez"
+    ],
+    "A27247-e11170": [
+      "morinus"
+    ],
+    "A27247-e11330": [
+      "teimurazez"
+    ],
+    "A27247-e11430": [
+      "brizander"
+    ],
+    "A27247-e11540": [
+      "teimurazez"
+    ],
+    "A27247-e11610": [
+      "brizander"
+    ],
+    "A27247-e11710": [
+      "morinus"
+    ],
+    "A27247-e11880": [
+      "teimurazez"
+    ],
+    "A27247-e11970": [
+      "morinus"
+    ],
+    "A27247-e12100": [
+      "brizander"
+    ],
+    "A27247-e12200": [
+      "teimurazez"
+    ],
+    "A27247-e12260": [
+      "morinus"
+    ],
+    "A27247-e12330": [
+      "teimurazez"
+    ],
+    "A27247-e12470": [
+      "zolazer"
+    ],
+    "A27247-e12590": [
+      "dubois"
+    ],
+    "A27247-e12630": [
+      "polidorus"
+    ],
+    "A27247-e12790": [
+      "tyrone"
+    ],
+    "A27247-e12830": [
+      "zolazer"
+    ],
+    "A27247-e12890": [
+      "polidorus"
+    ],
+    "A27247-e12920": [
+      "zolazer"
+    ],
+    "A27247-e12950": [
+      "polidorus"
+    ],
+    "A27247-e13720": [
+      "polidorus"
+    ],
+    "A27247-e13790": [
+      "cosmelia"
+    ],
+    "A27247-e13960": [
+      "polidorus"
+    ],
+    "A27247-e14030": [
+      "cosmelia"
+    ],
+    "A27247-e14100": [
+      "polidorus"
+    ],
+    "A27247-e14210": [
+      "page"
+    ],
+    "A27247-e14290": [
+      "polidorus"
+    ],
+    "A27247-e14430": [
+      "polidorus"
+    ],
+    "A27247-e14470": [
+      "pedro"
+    ],
+    "A27247-e14510": [
+      "polidorus"
+    ],
+    "A27247-e14590": [
+      "pedro"
+    ],
+    "A27247-e14790": [
+      "polidorus"
+    ],
+    "A27247-e14820": [
+      "pedro"
+    ],
+    "A27247-e14940": [
+      "polidorus"
+    ],
+    "A27247-e15050": [
+      "cosmelia"
+    ],
+    "A27247-e15440": [
+      "zolazer"
+    ],
+    "A27247-e15500": [
+      "polidorus"
+    ],
+    "A27247-e15640": [
+      "zolazer"
+    ],
+    "A27247-e15920": [
+      "polidorus"
+    ],
+    "A27247-e16010": [
+      "piazer"
+    ],
+    "A27247-e16090": [
+      "polidorus"
+    ],
+    "A27247-e16200": [
+      "piazer"
+    ],
+    "A27247-e16280": [
+      "zolazer"
+    ],
+    "A27247-e16330": [
+      "polidorus"
+    ],
+    "A27247-e16370": [
+      "zolazer"
+    ],
+    "A27247-e16520": [
+      "polidorus"
+    ],
+    "A27247-e16770": [
+      "polidorus"
+    ],
+    "A27247-e16860": [
+      "zolazer"
+    ],
+    "A27247-e16950": [
+      "polidorus"
+    ],
+    "A27247-e17000": [
+      "zolazer"
+    ],
+    "A27247-e17080": [
+      "polidorus"
+    ],
+    "A27247-e17370": [
+      "teimurazez"
+    ],
+    "A27247-e17440": [
+      "polidorus"
+    ],
+    "A27247-e17680": [
+      "teimurazez"
+    ],
+    "A27247-e17770": [
+      "polidorus"
+    ],
+    "A27247-e18050": [
+      "brizander"
+    ],
+    "A27247-e18120": [
+      "morinus"
+    ],
+    "A27247-e18430": [
+      "brizander"
+    ],
+    "A27247-e18470": [
+      "morinus"
+    ],
+    "A27247-e18600": [
+      "brizander"
+    ],
+    "A27247-e18750": [
+      "morinus"
+    ],
+    "A27247-e19080": [
+      "brizander"
+    ],
+    "A27247-e19610": [
+      "polidorus"
+    ],
+    "A27247-e19690": [
+      "polidorus"
+    ],
+    "A27247-e19760": [
+      "miletas"
+    ],
+    "A27247-e19850": [
+      "polidorus"
+    ],
+    "A27247-e19910": [
+      "miletas"
+    ],
+    "A27247-e20010": [
+      "polidorus"
+    ],
+    "A27247-e20090": [
+      "miletas"
+    ],
+    "A27247-e20140": [
+      "polidorus"
+    ],
+    "A27247-e20200": [
+      "miletas"
+    ],
+    "A27247-e20230": [
+      "polidorus"
+    ],
+    "A27247-e20440": [
+      "miletas"
+    ],
+    "A27247-e20500": [
+      "polidorus"
+    ],
+    "A27247-e20580": [
+      "miletas"
+    ],
+    "A27247-e20610": [
+      "polidorus"
+    ],
+    "A27247-e20660": [
+      "miletas"
+    ],
+    "A27247-e20700": [
+      "polidorus"
+    ],
+    "A27247-e20840": [
+      "miletas"
+    ],
+    "A27247-e20920": [
+      "polidorus"
+    ],
+    "A27247-e21000": [
+      "messenger"
+    ],
+    "A27247-e21040": [
+      "polidorus"
+    ],
+    "A27247-e21120": [
+      "messenger"
+    ],
+    "A27247-e21210": [
+      "polidorus"
+    ],
+    "A27247-e21430": [
+      "polidorus"
+    ],
+    "A27247-e21510": [
+      "dubois"
+    ],
+    "A27247-e21600": [
+      "zolazer"
+    ],
+    "A27247-e21830": [
+      "lucan"
+    ],
+    "A27247-e21910": [
+      "lumbus"
+    ],
+    "A27247-e22070": [
+      "dubois"
+    ],
+    "A27247-e22210": [
+      "miletas"
+    ],
+    "A27247-e22350": [
+      "tyrone"
+    ],
+    "A27247-e22500": [
+      "miletas"
+    ],
+    "A27247-e22620": [
+      "morinus"
+    ],
+    "A27247-e22700": [
+      "teimurazez"
+    ],
+    "A27247-e22960": [
+      "miletas"
+    ],
+    "A27247-e23040": [
+      "brizander"
+    ],
+    "A27247-e23120": [
+      "teimurazez"
+    ],
+    "A27247-e23190": [
+      "miletas"
+    ],
+    "A27247-e23580": [
+      "teimurazez"
+    ],
+    "A27247-e23650": [
+      "miletas"
+    ],
+    "A27247-e23800": [
+      "teimurazez"
+    ],
+    "A27247-e23880": [
+      "miletas"
+    ],
+    "A27247-e23920": [
+      "teimurazez"
+    ],
+    "A27247-e23960": [
+      "morinus"
+    ],
+    "A27247-e24150": [
+      "tyrone"
+    ],
+    "A27247-e24260": [
+      "dubois"
+    ],
+    "A27247-e24360": [
+      "lucan"
+    ],
+    "A27247-e24390": [
+      "dubois"
+    ],
+    "A27247-e24480": [
+      "lumbus"
+    ],
+    "A27247-e24590": [
+      "tyrone"
+    ],
+    "A27247-e24650": [
+      "lumbus"
+    ],
+    "A27247-e24690": [
+      "lucan"
+    ],
+    "A27247-e24820": [
+      "dubois"
+    ],
+    "A27247-e25000": [
+      "tyrone"
+    ],
+    "A27247-e25070": [
+      "dubois"
+    ],
+    "A27247-e25150": [
+      "lucan"
+    ],
+    "A27247-e25220": [
+      "lumbus"
+    ],
+    "A27247-e25290": [
+      "polidorus"
+    ],
+    "A27247-e25390": [
+      "lucan"
+    ],
+    "A27247-e25460": [
+      "dubois"
+    ],
+    "A27247-e25550": [
+      "polidorus"
+    ],
+    "A27247-e25590": [
+      "lumbus"
+    ],
+    "A27247-e25680": [
+      "dubois"
+    ],
+    "A27247-e25830": [
+      "zolazer"
+    ],
+    "A27247-e25920": [
+      "lumbus"
+    ],
+    "A27247-e26140": [
+      "dubois"
+    ],
+    "A27247-e26250": [
+      "tyrone"
+    ],
+    "A27247-e26400": [
+      "miletas"
+    ],
+    "A27247-e26460": [
+      "lumbus"
+    ],
+    "A27247-e26540": [
+      "miletas"
+    ],
+    "A27247-e26650": [
+      "tyrone"
+    ],
+    "A27247-e26750": [
+      "polidorus"
+    ],
+    "A27247-e26810": [
+      "zolazer"
+    ],
+    "A27247-e26870": [
+      "diseased-person-1"
+    ],
+    "A27247-e26900": [
+      "diseased-person-2"
+    ],
+    "A27247-e26930": [
+      "diseased-person-3"
+    ],
+    "A27247-e27480": [
+      "cosmelia"
+    ],
+    "A27247-e27670": [
+      "polidorus"
+    ],
+    "A27247-e27710": [
+      "cosmelia"
+    ],
+    "A27247-e27820": [
+      "polidorus"
+    ],
+    "A27247-e27880": [
+      "miletas"
+    ],
+    "A27247-e27940": [
+      "polidorus"
+    ],
+    "A27247-e28010": [
+      "miletas"
+    ],
+    "A27247-e28100": [
+      "polidorus"
+    ],
+    "A27247-e28250": [
+      "miletas"
+    ],
+    "A27247-e28280": [
+      "polidorus"
+    ],
+    "A27247-e28310": [
+      "miletas"
+    ],
+    "A27247-e28380": [
+      "polidorus"
+    ],
+    "A27247-e28420": [
+      "guards"
+    ],
+    "A27247-e28450": [
+      "polidorus"
+    ],
+    "A27247-e28490": [
+      "miletas"
+    ],
+    "A27247-e28560": [
+      "polidorus"
+    ],
+    "A27247-e28590": [
+      "miletas"
+    ],
+    "A27247-e28660": [
+      "polidorus"
+    ],
+    "A27247-e28800": [
+      "miletas"
+    ],
+    "A27247-e28940": [
+      "cosmelia"
+    ],
+    "A27247-e29030": [
+      "miletas"
+    ],
+    "A27247-e29130": [
+      "cosmelia"
+    ],
+    "A27247-e29250": [
+      "teimurazez"
+    ],
+    "A27247-e29310": [
+      "morinus"
+    ],
+    "A27247-e29440": [
+      "teimurazez"
+    ],
+    "A27247-e29720": [
+      "morinus"
+    ],
+    "A27247-e29790": [
+      "teimurazez"
+    ],
+    "A27247-e30310": [
+      "morinus"
+    ],
+    "A27247-e30380": [
+      "teimurazez"
+    ],
+    "A27247-e30500": [
+      "morinus"
+    ],
+    "A27247-e30620": [
+      "brizander"
+    ],
+    "A27247-e30830": [
+      "teimurazez"
+    ],
+    "A27247-e30870": [
+      "brizander"
+    ],
+    "A27247-e30970": [
+      "morinus"
+    ],
+    "A27247-e31010": [
+      "brizander"
+    ],
+    "A27247-e31130": [
+      "teimurazez"
+    ],
+    "A27247-e31270": [
+      "morinus"
+    ],
+    "A27247-e31300": [
+      "brizander"
+    ],
+    "A27247-e31360": [
+      "teimurazez"
+    ],
+    "A27247-e31420": [
+      "morinus"
+    ],
+    "A27247-e31490": [
+      "brizander"
+    ]
+  }
+}

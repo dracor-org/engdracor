@@ -1,0 +1,2771 @@
+{
+  "particDesc": [
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer",
+      "id": "officer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cardinal",
+      "id": "cardinal",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Nymph",
+      "id": "nymph",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "King",
+      "id": "king",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ordonio",
+      "id": "ordonio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Elvira",
+      "id": "elvira",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Queen",
+      "id": "queen",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Zarrack",
+      "id": "zarrack",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Osmin",
+      "id": "osmin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ferdinand",
+      "name": "Ferdinand",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "philip",
+      "name": "Philip",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "abdelazer",
+      "name": "Abdelazer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mendozo",
+      "name": "Mendozo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "alonzo",
+      "name": "Alonzo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "roderigo",
+      "name": "Roderigo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "antonio-sebastian",
+      "name": "Antonio Sebastian",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mr-persivall",
+      "name": "Mr. Persivall",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "isabella",
+      "name": "Isabella",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "leonora",
+      "name": "Leonora",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "florella",
+      "name": "Florella",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A27277-e1240": [
+      "abdelazer"
+    ],
+    "A27277-e1300": [
+      "osmin"
+    ],
+    "A27277-e1350": [
+      "queen"
+    ],
+    "A27277-e1390": [
+      "abdelazer"
+    ],
+    "A27277-e1440": [
+      "queen"
+    ],
+    "A27277-e1550": [
+      "abdelazer"
+    ],
+    "A27277-e1590": [
+      "queen"
+    ],
+    "A27277-e1620": [
+      "abdelazer"
+    ],
+    "A27277-e1650": [
+      "queen"
+    ],
+    "A27277-e1680": [
+      "abdelazer"
+    ],
+    "A27277-e1720": [
+      "queen"
+    ],
+    "A27277-e1750": [
+      "abdelazer"
+    ],
+    "A27277-e1780": [
+      "queen"
+    ],
+    "A27277-e1890": [
+      "abdelazer"
+    ],
+    "A27277-e1920": [
+      "queen"
+    ],
+    "A27277-e1970": [
+      "abdelazer"
+    ],
+    "A27277-e2000": [
+      "queen"
+    ],
+    "A27277-e2040": [
+      "abdelazer"
+    ],
+    "A27277-e2160": [
+      "queen"
+    ],
+    "A27277-e2200": [
+      "abdelazer"
+    ],
+    "A27277-e2330": [
+      "queen"
+    ],
+    "A27277-e2360": [
+      "abdelazer"
+    ],
+    "A27277-e2390": [
+      "queen"
+    ],
+    "A27277-e2480": [
+      "abdelazer"
+    ],
+    "A27277-e2580": [
+      "queen"
+    ],
+    "A27277-e2870": [
+      "elvira"
+    ],
+    "A27277-e2900": [
+      "abdelazer"
+    ],
+    "A27277-e3000": [
+      "queen"
+    ],
+    "A27277-e3030": [
+      "abdelazer"
+    ],
+    "A27277-e3060": [
+      "queen"
+    ],
+    "A27277-e3100": [
+      "abdelazer"
+    ],
+    "A27277-e3180": [
+      "osmin"
+    ],
+    "A27277-e3210": [
+      "abdelazer"
+    ],
+    "A27277-e3290": [
+      "zarrack"
+    ],
+    "A27277-e3330": [
+      "abdelazer"
+    ],
+    "A27277-e3360": [
+      "queen"
+    ],
+    "A27277-e3390": [
+      "abdelazer"
+    ],
+    "A27277-e3590": [
+      "zarrack"
+    ],
+    "A27277-e3640": [
+      "abdelazer"
+    ],
+    "A27277-e3670": [
+      "zarrack"
+    ],
+    "A27277-e3710": [
+      "abdelazer"
+    ],
+    "A27277-e3830": [
+      "zarrack"
+    ],
+    "A27277-e3870": [
+      "abdelazer"
+    ],
+    "A27277-e3900": [
+      "zarrack"
+    ],
+    "A27277-e3950": [
+      "alonzo"
+    ],
+    "A27277-e3980": [
+      "abdelazer"
+    ],
+    "A27277-e4010": [
+      "alonzo"
+    ],
+    "A27277-e4040": [
+      "abdelazer"
+    ],
+    "A27277-e4320": [
+      "alonzo"
+    ],
+    "A27277-e4390": [
+      "abdelazer"
+    ],
+    "A27277-e4730": [
+      "queen"
+    ],
+    "A27277-e4900": [
+      "king"
+    ],
+    "A27277-e4980": [
+      "leonora"
+    ],
+    "A27277-e5050": [
+      "king"
+    ],
+    "A27277-e5370": [
+      "alonzo"
+    ],
+    "A27277-e5470": [
+      "philip"
+    ],
+    "A27277-e5650": [
+      "king"
+    ],
+    "A27277-e5740": [
+      "philip"
+    ],
+    "A27277-e5820": [
+      "queen"
+    ],
+    "A27277-e5920": [
+      "philip"
+    ],
+    "A27277-e5950": [
+      "mendozo"
+    ],
+    "A27277-e5980": [
+      "philip"
+    ],
+    "A27277-e6010": [
+      "queen"
+    ],
+    "A27277-e6040": [
+      "philip"
+    ],
+    "A27277-e6120": [
+      "queen"
+    ],
+    "A27277-e6150": [
+      "philip"
+    ],
+    "A27277-e6180": [
+      "queen"
+    ],
+    "A27277-e6210": [
+      "philip"
+    ],
+    "A27277-e6370": [
+      "abdelazer"
+    ],
+    "A27277-e6400": [
+      "philip"
+    ],
+    "A27277-e6440": [
+      "queen"
+    ],
+    "A27277-e6470": [
+      "philip"
+    ],
+    "A27277-e6530": [
+      "abdelazer"
+    ],
+    "A27277-e6600": [
+      "philip"
+    ],
+    "A27277-e6640": [
+      "abdelazer"
+    ],
+    "A27277-e6670": [
+      "philip"
+    ],
+    "A27277-e6770": [
+      "abdelazer"
+    ],
+    "A27277-e6800": [
+      "philip"
+    ],
+    "A27277-e6870": [
+      "abdelazer"
+    ],
+    "A27277-e6900": [
+      "queen"
+    ],
+    "A27277-e6940": [
+      "philip"
+    ],
+    "A27277-e6970": [
+      "mendozo"
+    ],
+    "A27277-e7010": [
+      "abdelazer"
+    ],
+    "A27277-e7040": [
+      "mendozo"
+    ],
+    "A27277-e7160": [
+      "abdelazer"
+    ],
+    "A27277-e7210": [
+      "mendozo",
+      "roderigo",
+      "ordonio",
+      "alonzo"
+    ],
+    "A27277-e7240": [
+      "alonzo"
+    ],
+    "A27277-e7270": [
+      "mendozo"
+    ],
+    "A27277-e7310": [
+      "alonzo"
+    ],
+    "A27277-e7350": [
+      "mendozo"
+    ],
+    "A27277-e7400": [
+      "abdelazer"
+    ],
+    "A27277-e7460": [
+      "philip"
+    ],
+    "A27277-e7500": [
+      "mendozo"
+    ],
+    "A27277-e7570": [
+      "alonzo"
+    ],
+    "A27277-e7630": [
+      "queen"
+    ],
+    "A27277-e7710": [
+      "abdelazer"
+    ],
+    "A27277-e7830": [
+      "florella"
+    ],
+    "A27277-e7860": [
+      "abdelazer"
+    ],
+    "A27277-e7900": [
+      "florella"
+    ],
+    "A27277-e7930": [
+      "abdelazer"
+    ],
+    "A27277-e8120": [
+      "florella"
+    ],
+    "A27277-e8200": [
+      "alonzo"
+    ],
+    "A27277-e8260": [
+      "abdelazer"
+    ],
+    "A27277-e8310": [
+      "alonzo"
+    ],
+    "A27277-e8360": [
+      "abdelazer"
+    ],
+    "A27277-e8390": [
+      "alonzo"
+    ],
+    "A27277-e8430": [
+      "abdelazer"
+    ],
+    "A27277-e8460": [
+      "alonzo"
+    ],
+    "A27277-e8510": [
+      "abdelazer"
+    ],
+    "A27277-e8540": [
+      "alonzo"
+    ],
+    "A27277-e8580": [
+      "abdelazer"
+    ],
+    "A27277-e8750": [
+      "king"
+    ],
+    "A27277-e8820": [
+      "florella"
+    ],
+    "A27277-e8880": [
+      "king"
+    ],
+    "A27277-e8990": [
+      "florella"
+    ],
+    "A27277-e9040": [
+      "king"
+    ],
+    "A27277-e9160": [
+      "florella"
+    ],
+    "A27277-e9210": [
+      "king"
+    ],
+    "A27277-e9260": [
+      "abdelazer"
+    ],
+    "A27277-e9320": [
+      "florella"
+    ],
+    "A27277-e9360": [
+      "king"
+    ],
+    "A27277-e9420": [
+      "abdelazer"
+    ],
+    "A27277-e9460": [
+      "florella"
+    ],
+    "A27277-e9490": [
+      "king"
+    ],
+    "A27277-e9560": [
+      "abdelazer"
+    ],
+    "A27277-e9600": [
+      "king"
+    ],
+    "A27277-e9650": [
+      "abdelazer"
+    ],
+    "A27277-e9740": [
+      "florella"
+    ],
+    "A27277-e9780": [
+      "abdelazer"
+    ],
+    "A27277-e9820": [
+      "florella"
+    ],
+    "A27277-e9870": [
+      "abdelazer"
+    ],
+    "A27277-e10180": [
+      "philip"
+    ],
+    "A27277-e10250": [
+      "abdelazer"
+    ],
+    "A27277-e10350": [
+      "philip"
+    ],
+    "A27277-e10380": [
+      "alonzo"
+    ],
+    "A27277-e10420": [
+      "mendozo"
+    ],
+    "A27277-e10460": [
+      "abdelazer"
+    ],
+    "A27277-e10500": [
+      "philip"
+    ],
+    "A27277-e10570": [
+      "king"
+    ],
+    "A27277-e10610": [
+      "abdelazer"
+    ],
+    "A27277-e10660": [
+      "mendozo"
+    ],
+    "A27277-e10720": [
+      "king"
+    ],
+    "A27277-e10770": [
+      "mendozo"
+    ],
+    "A27277-e10810": [
+      "king"
+    ],
+    "A27277-e10910": [
+      "mendozo"
+    ],
+    "A27277-e10950": [
+      "king"
+    ],
+    "A27277-e10980": [
+      "philip"
+    ],
+    "A27277-e11010": [
+      "king"
+    ],
+    "A27277-e11040": [
+      "mendozo"
+    ],
+    "A27277-e11080": [
+      "philip"
+    ],
+    "A27277-e11140": [
+      "abdelazer"
+    ],
+    "A27277-e11180": [
+      "philip"
+    ],
+    "A27277-e11250": [
+      "abdelazer"
+    ],
+    "A27277-e11300": [
+      "king"
+    ],
+    "A27277-e11350": [
+      "queen"
+    ],
+    "A27277-e11410": [
+      "king"
+    ],
+    "A27277-e11450": [
+      "abdelazer"
+    ],
+    "A27277-e11530": [
+      "queen"
+    ],
+    "A27277-e11650": [
+      "abdelazer"
+    ],
+    "A27277-e11680": [
+      "queen"
+    ],
+    "A27277-e11740": [
+      "mendozo"
+    ],
+    "A27277-e11780": [
+      "queen"
+    ],
+    "A27277-e11810": [
+      "mendozo"
+    ],
+    "A27277-e11870": [
+      "queen"
+    ],
+    "A27277-e11950": [
+      "mendozo"
+    ],
+    "A27277-e11980": [
+      "queen"
+    ],
+    "A27277-e12030": [
+      "mendozo"
+    ],
+    "A27277-e12100": [
+      "king"
+    ],
+    "A27277-e12160": [
+      "philip"
+    ],
+    "A27277-e12200": [
+      "king"
+    ],
+    "A27277-e12250": [
+      "philip"
+    ],
+    "A27277-e12280": [
+      "king"
+    ],
+    "A27277-e12350": [
+      "abdelazer"
+    ],
+    "A27277-e12380": [
+      "king"
+    ],
+    "A27277-e12420": [
+      "philip"
+    ],
+    "A27277-e12450": [
+      "king"
+    ],
+    "A27277-e12530": [
+      "queen"
+    ],
+    "A27277-e12580": [
+      "abdelazer"
+    ],
+    "A27277-e12610": [
+      "queen"
+    ],
+    "A27277-e12650": [
+      "abdelazer"
+    ],
+    "A27277-e12680": [
+      "queen"
+    ],
+    "A27277-e12750": [
+      "abdelazer"
+    ],
+    "A27277-e12790": [
+      "queen"
+    ],
+    "A27277-e12830": [
+      "abdelazer"
+    ],
+    "A27277-e12860": [
+      "queen"
+    ],
+    "A27277-e12890": [
+      "abdelazer"
+    ],
+    "A27277-e12920": [
+      "queen"
+    ],
+    "A27277-e12950": [
+      "abdelazer"
+    ],
+    "A27277-e12980": [
+      "queen"
+    ],
+    "A27277-e13010": [
+      "abdelazer"
+    ],
+    "A27277-e13050": [
+      "queen"
+    ],
+    "A27277-e13080": [
+      "abdelazer"
+    ],
+    "A27277-e13130": [
+      "queen"
+    ],
+    "A27277-e13160": [
+      "abdelazer"
+    ],
+    "A27277-e13200": [
+      "queen"
+    ],
+    "A27277-e13230": [
+      "abdelazer"
+    ],
+    "A27277-e13350": [
+      "queen"
+    ],
+    "A27277-e13380": [
+      "abdelazer"
+    ],
+    "A27277-e13430": [
+      "queen"
+    ],
+    "A27277-e13460": [
+      "abdelazer"
+    ],
+    "A27277-e13500": [
+      "queen"
+    ],
+    "A27277-e13530": [
+      "abdelazer"
+    ],
+    "A27277-e13560": [
+      "queen"
+    ],
+    "A27277-e13590": [
+      "abdelazer"
+    ],
+    "A27277-e13710": [
+      "queen"
+    ],
+    "A27277-e13810": [
+      "abdelazer"
+    ],
+    "A27277-e13850": [
+      "queen"
+    ],
+    "A27277-e13900": [
+      "abdelazer"
+    ],
+    "A27277-e13940": [
+      "queen"
+    ],
+    "A27277-e13980": [
+      "abdelazer"
+    ],
+    "A27277-e14080": [
+      "queen"
+    ],
+    "A27277-e14110": [
+      "abdelazer"
+    ],
+    "A27277-e14160": [
+      "queen"
+    ],
+    "A27277-e14190": [
+      "abdelazer"
+    ],
+    "A27277-e14370": [
+      "queen"
+    ],
+    "A27277-e14430": [
+      "abdelazer"
+    ],
+    "A27277-e14510": [
+      "queen"
+    ],
+    "A27277-e14560": [
+      "abdelazer"
+    ],
+    "A27277-e14620": [
+      "queen"
+    ],
+    "A27277-e14720": [
+      "abdelazer"
+    ],
+    "A27277-e14790": [
+      "queen"
+    ],
+    "A27277-e14830": [
+      "abdelazer"
+    ],
+    "A27277-e14910": [
+      "osmin"
+    ],
+    "A27277-e14940": [
+      "abdelazer"
+    ],
+    "A27277-e15000": [
+      "osmin"
+    ],
+    "A27277-e15030": [
+      "abdelazer"
+    ],
+    "A27277-e15060": [
+      "osmin"
+    ],
+    "A27277-e15090": [
+      "abdelazer"
+    ],
+    "A27277-e15120": [
+      "osmin"
+    ],
+    "A27277-e15150": [
+      "abdelazer"
+    ],
+    "A27277-e15200": [
+      "osmin"
+    ],
+    "A27277-e15260": [
+      "abdelazer"
+    ],
+    "A27277-e15300": [
+      "osmin"
+    ],
+    "A27277-e15330": [
+      "abdelazer"
+    ],
+    "A27277-e15420": [
+      "osmin"
+    ],
+    "A27277-e15460": [
+      "abdelazer"
+    ],
+    "A27277-e15490": [
+      "zarrack"
+    ],
+    "A27277-e15550": [
+      "abdelazer"
+    ],
+    "A27277-e15590": [
+      "zarrack"
+    ],
+    "A27277-e15630": [
+      "abdelazer"
+    ],
+    "A27277-e15710": [
+      "osmin"
+    ],
+    "A27277-e15760": [
+      "abdelazer"
+    ],
+    "A27277-e15820": [
+      "osmin"
+    ],
+    "A27277-e15870": [
+      "abdelazer"
+    ],
+    "A27277-e16070": [
+      "king"
+    ],
+    "A27277-e16270": [
+      "alonzo"
+    ],
+    "A27277-e16340": [
+      "king"
+    ],
+    "A27277-e16410": [
+      "alonzo"
+    ],
+    "A27277-e16440": [
+      "king"
+    ],
+    "A27277-e16490": [
+      "alonzo"
+    ],
+    "A27277-e16520": [
+      "king"
+    ],
+    "A27277-e16560": [
+      "florella"
+    ],
+    "A27277-e16610": [
+      "king"
+    ],
+    "A27277-e16710": [
+      "alonzo"
+    ],
+    "A27277-e16780": [
+      "philip"
+    ],
+    "A27277-e16810": [
+      "antonio-sebastian"
+    ],
+    "A27277-e16840": [
+      "antonio-sebastian"
+    ],
+    "A27277-e16870": [
+      "philip"
+    ],
+    "A27277-e16930": [
+      "alonzo"
+    ],
+    "A27277-e16960": [
+      "philip"
+    ],
+    "A27277-e17020": [
+      "alonzo"
+    ],
+    "A27277-e17050": [
+      "philip"
+    ],
+    "A27277-e17080": [
+      "alonzo"
+    ],
+    "A27277-e17120": [
+      "philip"
+    ],
+    "A27277-e17190": [
+      "mendozo"
+    ],
+    "A27277-e17220": [
+      "philip"
+    ],
+    "A27277-e17290": [
+      "abdelazer"
+    ],
+    "A27277-e17330": [
+      "philip"
+    ],
+    "A27277-e17360": [
+      "abdelazer"
+    ],
+    "A27277-e17400": [
+      "philip"
+    ],
+    "A27277-e17430": [
+      "king"
+    ],
+    "A27277-e17510": [
+      "ordonio"
+    ],
+    "A27277-e17540": [
+      "abdelazer"
+    ],
+    "A27277-e17580": [
+      "roderigo"
+    ],
+    "A27277-e17630": [
+      "abdelazer"
+    ],
+    "A27277-e17660": [
+      "philip"
+    ],
+    "A27277-e17690": [
+      "ordonio"
+    ],
+    "A27277-e17770": [
+      "nymph"
+    ],
+    "A27277-e18090": [
+      "king"
+    ],
+    "A27277-e18130": [
+      "florella"
+    ],
+    "A27277-e18170": [
+      "abdelazer"
+    ],
+    "A27277-e18230": [
+      "philip"
+    ],
+    "A27277-e18270": [
+      "abdelazer"
+    ],
+    "A27277-e18310": [
+      "florella"
+    ],
+    "A27277-e18350": [
+      "philip"
+    ],
+    "A27277-e18380": [
+      "abdelazer"
+    ],
+    "A27277-e18420": [
+      "philip"
+    ],
+    "A27277-e18450": [
+      "abdelazer"
+    ],
+    "A27277-e18490": [
+      "king"
+    ],
+    "A27277-e18530": [
+      "abdelazer"
+    ],
+    "A27277-e18590": [
+      "king"
+    ],
+    "A27277-e18620": [
+      "philip"
+    ],
+    "A27277-e18700": [
+      "king"
+    ],
+    "A27277-e18750": [
+      "philip"
+    ],
+    "A27277-e18990": [
+      "mendozo"
+    ],
+    "A27277-e19020": [
+      "philip"
+    ],
+    "A27277-e19050": [
+      "mendozo"
+    ],
+    "A27277-e19110": [
+      "philip"
+    ],
+    "A27277-e19140": [
+      "mendozo"
+    ],
+    "A27277-e19180": [
+      "philip"
+    ],
+    "A27277-e19210": [
+      "mendozo"
+    ],
+    "A27277-e19300": [
+      "philip"
+    ],
+    "A27277-e19350": [
+      "mendozo"
+    ],
+    "A27277-e19380": [
+      "philip"
+    ],
+    "A27277-e19410": [
+      "mendozo"
+    ],
+    "A27277-e19440": [
+      "philip"
+    ],
+    "A27277-e19570": [
+      "zarrack"
+    ],
+    "A27277-e19640": [
+      "abdelazer"
+    ],
+    "A27277-e19670": [
+      "zarrack"
+    ],
+    "A27277-e19730": [
+      "abdelazer"
+    ],
+    "A27277-e19810": [
+      "osmin"
+    ],
+    "A27277-e19840": [
+      "abdelazer"
+    ],
+    "A27277-e19880": [
+      "osmin"
+    ],
+    "A27277-e19920": [
+      "abdelazer"
+    ],
+    "A27277-e19950": [
+      "osmin"
+    ],
+    "A27277-e19980": [
+      "abdelazer"
+    ],
+    "A27277-e20020": [
+      "osmin"
+    ],
+    "A27277-e20050": [
+      "abdelazer"
+    ],
+    "A27277-e20100": [
+      "osmin"
+    ],
+    "A27277-e20140": [
+      "abdelazer"
+    ],
+    "A27277-e20210": [
+      "osmin"
+    ],
+    "A27277-e20300": [
+      "abdelazer"
+    ],
+    "A27277-e20510": [
+      "alonzo"
+    ],
+    "A27277-e20540": [
+      "abdelazer"
+    ],
+    "A27277-e20580": [
+      "osmin"
+    ],
+    "A27277-e20630": [
+      "king"
+    ],
+    "A27277-e20670": [
+      "queen"
+    ],
+    "A27277-e20710": [
+      "king"
+    ],
+    "A27277-e20750": [
+      "abdelazer"
+    ],
+    "A27277-e20780": [
+      "king"
+    ],
+    "A27277-e20810": [
+      "abdelazer"
+    ],
+    "A27277-e20900": [
+      "king"
+    ],
+    "A27277-e20940": [
+      "abdelazer"
+    ],
+    "A27277-e20990": [
+      "king"
+    ],
+    "A27277-e21040": [
+      "queen"
+    ],
+    "A27277-e21130": [
+      "king"
+    ],
+    "A27277-e21210": [
+      "abdelazer"
+    ],
+    "A27277-e21270": [
+      "king"
+    ],
+    "A27277-e21360": [
+      "abdelazer"
+    ],
+    "A27277-e21390": [
+      "king"
+    ],
+    "A27277-e21460": [
+      "queen"
+    ],
+    "A27277-e21530": [
+      "abdelazer"
+    ],
+    "A27277-e21560": [
+      "queen"
+    ],
+    "A27277-e21600": [
+      "abdelazer"
+    ],
+    "A27277-e21640": [
+      "queen"
+    ],
+    "A27277-e21680": [
+      "abdelazer"
+    ],
+    "A27277-e21710": [
+      "queen"
+    ],
+    "A27277-e21740": [
+      "abdelazer"
+    ],
+    "A27277-e21800": [
+      "queen"
+    ],
+    "A27277-e21880": [
+      "abdelazer"
+    ],
+    "A27277-e21920": [
+      "queen"
+    ],
+    "A27277-e21970": [
+      "abdelazer"
+    ],
+    "A27277-e22010": [
+      "queen"
+    ],
+    "A27277-e22050": [
+      "abdelazer"
+    ],
+    "A27277-e22080": [
+      "queen"
+    ],
+    "A27277-e22110": [
+      "abdelazer"
+    ],
+    "A27277-e22220": [
+      "queen"
+    ],
+    "A27277-e22250": [
+      "abdelazer"
+    ],
+    "A27277-e22360": [
+      "queen"
+    ],
+    "A27277-e22440": [
+      "abdelazer"
+    ],
+    "A27277-e22640": [
+      "florella"
+    ],
+    "A27277-e22700": [
+      "abdelazer"
+    ],
+    "A27277-e22760": [
+      "florella"
+    ],
+    "A27277-e22800": [
+      "abdelazer"
+    ],
+    "A27277-e22840": [
+      "florella"
+    ],
+    "A27277-e22870": [
+      "abdelazer"
+    ],
+    "A27277-e22900": [
+      "florella"
+    ],
+    "A27277-e22930": [
+      "abdelazer"
+    ],
+    "A27277-e22960": [
+      "florella"
+    ],
+    "A27277-e23010": [
+      "abdelazer"
+    ],
+    "A27277-e23040": [
+      "florella"
+    ],
+    "A27277-e23070": [
+      "abdelazer"
+    ],
+    "A27277-e23100": [
+      "florella"
+    ],
+    "A27277-e23130": [
+      "abdelazer"
+    ],
+    "A27277-e23170": [
+      "florella"
+    ],
+    "A27277-e23200": [
+      "abdelazer"
+    ],
+    "A27277-e23230": [
+      "florella"
+    ],
+    "A27277-e23260": [
+      "abdelazer"
+    ],
+    "A27277-e23310": [
+      "florella"
+    ],
+    "A27277-e23350": [
+      "abdelazer"
+    ],
+    "A27277-e23380": [
+      "florella"
+    ],
+    "A27277-e23410": [
+      "abdelazer"
+    ],
+    "A27277-e23470": [
+      "florella"
+    ],
+    "A27277-e23520": [
+      "abdelazer"
+    ],
+    "A27277-e23580": [
+      "florella"
+    ],
+    "A27277-e23640": [
+      "abdelazer"
+    ],
+    "A27277-e23700": [
+      "florella"
+    ],
+    "A27277-e23730": [
+      "abdelazer"
+    ],
+    "A27277-e23850": [
+      "florella"
+    ],
+    "A27277-e24020": [
+      "queen"
+    ],
+    "A27277-e24270": [
+      "elvira"
+    ],
+    "A27277-e24320": [
+      "queen"
+    ],
+    "A27277-e24350": [
+      "elvira"
+    ],
+    "A27277-e24400": [
+      "queen"
+    ],
+    "A27277-e24740": [
+      "alonzo"
+    ],
+    "A27277-e24780": [
+      "queen"
+    ],
+    "A27277-e24830": [
+      "alonzo"
+    ],
+    "A27277-e24860": [
+      "queen"
+    ],
+    "A27277-e24910": [
+      "alonzo"
+    ],
+    "A27277-e24950": [
+      "queen"
+    ],
+    "A27277-e25030": [
+      "alonzo"
+    ],
+    "A27277-e25140": [
+      "queen"
+    ],
+    "A27277-e25190": [
+      "alonzo"
+    ],
+    "A27277-e25230": [
+      "queen"
+    ],
+    "A27277-e25330": [
+      "alonzo"
+    ],
+    "A27277-e25430": [
+      "queen"
+    ],
+    "A27277-e25480": [
+      "alonzo"
+    ],
+    "A27277-e25510": [
+      "queen"
+    ],
+    "A27277-e25550": [
+      "alonzo"
+    ],
+    "A27277-e25630": [
+      "queen"
+    ],
+    "A27277-e25730": [
+      "alonzo"
+    ],
+    "A27277-e25830": [
+      "queen"
+    ],
+    "A27277-e25920": [
+      "florella"
+    ],
+    "A27277-e25990": [
+      "king"
+    ],
+    "A27277-e26050": [
+      "florella"
+    ],
+    "A27277-e26110": [
+      "king"
+    ],
+    "A27277-e26200": [
+      "florella"
+    ],
+    "A27277-e26250": [
+      "king"
+    ],
+    "A27277-e26360": [
+      "florella"
+    ],
+    "A27277-e26430": [
+      "king"
+    ],
+    "A27277-e26520": [
+      "florella"
+    ],
+    "A27277-e26600": [
+      "king"
+    ],
+    "A27277-e26680": [
+      "florella"
+    ],
+    "A27277-e26760": [
+      "king"
+    ],
+    "A27277-e26920": [
+      "florella"
+    ],
+    "A27277-e26970": [
+      "king"
+    ],
+    "A27277-e27020": [
+      "florella"
+    ],
+    "A27277-e27080": [
+      "king"
+    ],
+    "A27277-e27130": [
+      "florella"
+    ],
+    "A27277-e27220": [
+      "king"
+    ],
+    "A27277-e27270": [
+      "florella"
+    ],
+    "A27277-e27320": [
+      "king"
+    ],
+    "A27277-e27390": [
+      "queen"
+    ],
+    "A27277-e27450": [
+      "king"
+    ],
+    "A27277-e27510": [
+      "queen"
+    ],
+    "A27277-e27550": [
+      "king"
+    ],
+    "A27277-e27640": [
+      "florella"
+    ],
+    "A27277-e27800": [
+      "king"
+    ],
+    "A27277-e27850": [
+      "alonzo"
+    ],
+    "A27277-e27880": [
+      "king"
+    ],
+    "A27277-e27950": [
+      "alonzo"
+    ],
+    "A27277-e27980": [
+      "king"
+    ],
+    "A27277-e28260": [
+      "alonzo"
+    ],
+    "A27277-e28340": [
+      "king"
+    ],
+    "A27277-e28410": [
+      "queen"
+    ],
+    "A27277-e28450": [
+      "king"
+    ],
+    "A27277-e28560": [
+      "abdelazer"
+    ],
+    "A27277-e28670": [
+      "queen"
+    ],
+    "A27277-e28710": [
+      "abdelazer"
+    ],
+    "A27277-e28830": [
+      "queen"
+    ],
+    "A27277-e28870": [
+      "abdelazer"
+    ],
+    "A27277-e28910": [
+      "king"
+    ],
+    "A27277-e28940": [
+      "abdelazer"
+    ],
+    "A27277-e28990": [
+      "king"
+    ],
+    "A27277-e29020": [
+      "abdelazer"
+    ],
+    "A27277-e29080": [
+      "king"
+    ],
+    "A27277-e29130": [
+      "abdelazer"
+    ],
+    "A27277-e29160": [
+      "king"
+    ],
+    "A27277-e29320": [
+      "abdelazer"
+    ],
+    "A27277-e29390": [
+      "queen"
+    ],
+    "A27277-e29470": [
+      "abdelazer"
+    ],
+    "A27277-e29550": [
+      "alonzo"
+    ],
+    "A27277-e29580": [
+      "abdelazer"
+    ],
+    "A27277-e29620": [
+      "alonzo"
+    ],
+    "A27277-e29650": [
+      "abdelazer"
+    ],
+    "A27277-e29700": [
+      "alonzo"
+    ],
+    "A27277-e29730": [
+      "queen"
+    ],
+    "A27277-e29780": [
+      "alonzo"
+    ],
+    "A27277-e29820": [
+      "abdelazer"
+    ],
+    "A27277-e30120": [
+      "alonzo"
+    ],
+    "A27277-e30150": [
+      "abdelazer"
+    ],
+    "A27277-e30200": [
+      "alonzo"
+    ],
+    "A27277-e30230": [
+      "queen"
+    ],
+    "A27277-e30350": [
+      "alonzo"
+    ],
+    "A27277-e30400": [
+      "roderigo"
+    ],
+    "A27277-e30430": [
+      "alonzo"
+    ],
+    "A27277-e30520": [
+      "abdelazer"
+    ],
+    "A27277-e30600": [
+      "alonzo"
+    ],
+    "A27277-e30660": [
+      "abdelazer"
+    ],
+    "A27277-e30860": [
+      "abdelazer"
+    ],
+    "A27277-e30950": [
+      "queen"
+    ],
+    "A27277-e31040": [
+      "abdelazer"
+    ],
+    "A27277-e31130": [
+      "queen"
+    ],
+    "A27277-e31160": [
+      "abdelazer"
+    ],
+    "A27277-e31210": [
+      "queen"
+    ],
+    "A27277-e31250": [
+      "abdelazer"
+    ],
+    "A27277-e31300": [
+      "queen"
+    ],
+    "A27277-e31340": [
+      "abdelazer"
+    ],
+    "A27277-e31420": [
+      "queen"
+    ],
+    "A27277-e31470": [
+      "abdelazer"
+    ],
+    "A27277-e31510": [
+      "queen"
+    ],
+    "A27277-e31600": [
+      "philip"
+    ],
+    "A27277-e31700": [
+      "alonzo"
+    ],
+    "A27277-e31740": [
+      "philip"
+    ],
+    "A27277-e31780": [
+      "alonzo"
+    ],
+    "A27277-e31810": [
+      "philip"
+    ],
+    "A27277-e31950": [
+      "alonzo"
+    ],
+    "A27277-e32010": [
+      "philip"
+    ],
+    "A27277-e32070": [
+      "alonzo"
+    ],
+    "A27277-e32110": [
+      "philip"
+    ],
+    "A27277-e32180": [
+      "alonzo"
+    ],
+    "A27277-e32210": [
+      "philip"
+    ],
+    "A27277-e32320": [
+      "philip"
+    ],
+    "A27277-e32420": [
+      "alonzo"
+    ],
+    "A27277-e32490": [
+      "philip"
+    ],
+    "A27277-e32550": [
+      "antonio-sebastian"
+    ],
+    "A27277-e32580": [
+      "philip"
+    ],
+    "A27277-e32630": [
+      "antonio-sebastian"
+    ],
+    "A27277-e32660": [
+      "philip"
+    ],
+    "A27277-e32740": [
+      "philip"
+    ],
+    "A27277-e32790": [
+      "alonzo"
+    ],
+    "A27277-e32840": [
+      "philip"
+    ],
+    "A27277-e32940": [
+      "queen"
+    ],
+    "A27277-e33220": [
+      "cardinal"
+    ],
+    "A27277-e33310": [
+      "officer"
+    ],
+    "A27277-e33340": [
+      "cardinal"
+    ],
+    "A27277-e33370": [
+      "queen"
+    ],
+    "A27277-e33540": [
+      "cardinal"
+    ],
+    "A27277-e33570": [
+      "queen"
+    ],
+    "A27277-e33680": [
+      "antonio-sebastian"
+    ],
+    "A27277-e33790": [
+      "cardinal"
+    ],
+    "A27277-e33840": [
+      "queen"
+    ],
+    "A27277-e33920": [
+      "cardinal"
+    ],
+    "A27277-e34020": [
+      "queen"
+    ],
+    "A27277-e34070": [
+      "antonio-sebastian"
+    ],
+    "A27277-e34140": [
+      "queen"
+    ],
+    "A27277-e34240": [
+      "philip"
+    ],
+    "A27277-e34290": [
+      "cardinal"
+    ],
+    "A27277-e34320": [
+      "philip"
+    ],
+    "A27277-e34350": [
+      "cardinal"
+    ],
+    "A27277-e34400": [
+      "philip"
+    ],
+    "A27277-e34430": [
+      "cardinal"
+    ],
+    "A27277-e34460": [
+      "philip"
+    ],
+    "A27277-e34650": [
+      "abdelazer"
+    ],
+    "A27277-e34750": [
+      "philip"
+    ],
+    "A27277-e34800": [
+      "abdelazer"
+    ],
+    "A27277-e34860": [
+      "philip"
+    ],
+    "A27277-e34890": [
+      "abdelazer"
+    ],
+    "A27277-e34920": [
+      "philip"
+    ],
+    "A27277-e34950": [
+      "abdelazer"
+    ],
+    "A27277-e35010": [
+      "alonzo"
+    ],
+    "A27277-e35040": [
+      "osmin"
+    ],
+    "A27277-e35120": [
+      "philip"
+    ],
+    "A27277-e35170": [
+      "abdelazer"
+    ],
+    "A27277-e35220": [
+      "philip"
+    ],
+    "A27277-e35280": [
+      "alonzo"
+    ],
+    "A27277-e35320": [
+      "philip"
+    ],
+    "A27277-e35430": [
+      "abdelazer"
+    ],
+    "A27277-e35530": [
+      "roderigo"
+    ],
+    "A27277-e35560": [
+      "abdelazer"
+    ],
+    "A27277-e35610": [
+      "osmin"
+    ],
+    "A27277-e35670": [
+      "abdelazer"
+    ],
+    "A27277-e35800": [
+      "roderigo"
+    ],
+    "A27277-e35830": [
+      "abdelazer"
+    ],
+    "A27277-e35890": [
+      "queen"
+    ],
+    "A27277-e35960": [
+      "abdelazer"
+    ],
+    "A27277-e35990": [
+      "queen"
+    ],
+    "A27277-e36060": [
+      "cardinal"
+    ],
+    "A27277-e36110": [
+      "abdelazer"
+    ],
+    "A27277-e36300": [
+      "cardinal"
+    ],
+    "A27277-e36370": [
+      "abdelazer"
+    ],
+    "A27277-e36440": [
+      "queen"
+    ],
+    "A27277-e36510": [
+      "abdelazer"
+    ],
+    "A27277-e36540": [
+      "cardinal"
+    ],
+    "A27277-e36600": [
+      "queen"
+    ],
+    "A27277-e36640": [
+      "cardinal"
+    ],
+    "A27277-e36700": [
+      "queen"
+    ],
+    "A27277-e36770": [
+      "cardinal"
+    ],
+    "A27277-e36850": [
+      "queen"
+    ],
+    "A27277-e36910": [
+      "cardinal"
+    ],
+    "A27277-e36940": [
+      "queen"
+    ],
+    "A27277-e37020": [
+      "cardinal"
+    ],
+    "A27277-e37180": [
+      "abdelazer"
+    ],
+    "A27277-e37320": [
+      "cardinal"
+    ],
+    "A27277-e37390": [
+      "abdelazer"
+    ],
+    "A27277-e37430": [
+      "cardinal"
+    ],
+    "A27277-e37560": [
+      "abdelazer"
+    ],
+    "A27277-e37660": [
+      "alonzo"
+    ],
+    "A27277-e37700": [
+      "philip"
+    ],
+    "A27277-e37790": [
+      "alonzo"
+    ],
+    "A27277-e37820": [
+      "antonio-sebastian"
+    ],
+    "A27277-e37850": [
+      "philip"
+    ],
+    "A27277-e37890": [
+      "antonio-sebastian"
+    ],
+    "A27277-e37920": [
+      "philip"
+    ],
+    "A27277-e38050": [
+      "antonio-sebastian"
+    ],
+    "A27277-e38090": [
+      "antonio-sebastian"
+    ],
+    "A27277-e38120": [
+      "philip"
+    ],
+    "A27277-e38150": [
+      "soldier"
+    ],
+    "A27277-e38190": [
+      "philip"
+    ],
+    "A27277-e38230": [
+      "soldier"
+    ],
+    "A27277-e38270": [
+      "philip"
+    ],
+    "A27277-e38340": [
+      "soldier"
+    ],
+    "A27277-e38370": [
+      "philip"
+    ],
+    "A27277-e38410": [
+      "soldier"
+    ],
+    "A27277-e38460": [
+      "philip"
+    ],
+    "A27277-e38500": [
+      "soldier"
+    ],
+    "A27277-e38560": [
+      "philip"
+    ],
+    "A27277-e38600": [
+      "cardinal"
+    ],
+    "A27277-e38640": [
+      "philip"
+    ],
+    "A27277-e38790": [
+      "cardinal"
+    ],
+    "A27277-e38820": [
+      "philip"
+    ],
+    "A27277-e38890": [
+      "cardinal"
+    ],
+    "A27277-e38960": [
+      "philip"
+    ],
+    "A27277-e39010": [
+      "cardinal"
+    ],
+    "A27277-e39070": [
+      "philip"
+    ],
+    "A27277-e39190": [
+      "alonzo"
+    ],
+    "A27277-e39250": [
+      "philip"
+    ],
+    "A27277-e39480": [
+      "abdelazer"
+    ],
+    "A27277-e39700": [
+      "alonzo"
+    ],
+    "A27277-e39740": [
+      "cardinal"
+    ],
+    "A27277-e39780": [
+      "abdelazer"
+    ],
+    "A27277-e40000": [
+      "alonzo"
+    ],
+    "A27277-e40040": [
+      "abdelazer"
+    ],
+    "A27277-e40130": [
+      "cardinal"
+    ],
+    "A27277-e40170": [
+      "queen"
+    ],
+    "A27277-e40270": [
+      "alonzo"
+    ],
+    "A27277-e40300": [
+      "queen"
+    ],
+    "A27277-e40340": [
+      "cardinal"
+    ],
+    "A27277-e40370": [
+      "abdelazer"
+    ],
+    "A27277-e40400": [
+      "cardinal"
+    ],
+    "A27277-e40440": [
+      "queen"
+    ],
+    "A27277-e40490": [
+      "cardinal"
+    ],
+    "A27277-e40520": [
+      "queen"
+    ],
+    "A27277-e40570": [
+      "cardinal"
+    ],
+    "A27277-e40620": [
+      "queen"
+    ],
+    "A27277-e40670": [
+      "cardinal"
+    ],
+    "A27277-e40710": [
+      "queen"
+    ],
+    "A27277-e40750": [
+      "cardinal"
+    ],
+    "A27277-e40790": [
+      "alonzo"
+    ],
+    "A27277-e40820": [
+      "cardinal"
+    ],
+    "A27277-e40850": [
+      "queen"
+    ],
+    "A27277-e40880": [
+      "cardinal"
+    ],
+    "A27277-e40920": [
+      "queen"
+    ],
+    "A27277-e40950": [
+      "cardinal"
+    ],
+    "A27277-e41020": [
+      "alonzo"
+    ],
+    "A27277-e41050": [
+      "queen"
+    ],
+    "A27277-e41200": [
+      "abdelazer"
+    ],
+    "A27277-e41250": [
+      "queen"
+    ],
+    "A27277-e41330": [
+      "cardinal"
+    ],
+    "A27277-e41370": [
+      "queen"
+    ],
+    "A27277-e41480": [
+      "cardinal"
+    ],
+    "A27277-e41520": [
+      "queen"
+    ],
+    "A27277-e41640": [
+      "alonzo"
+    ],
+    "A27277-e41670": [
+      "queen"
+    ],
+    "A27277-e41720": [
+      "alonzo"
+    ],
+    "A27277-e41750": [
+      "queen"
+    ],
+    "A27277-e41820": [
+      "roderigo"
+    ],
+    "A27277-e41850": [
+      "cardinal"
+    ],
+    "A27277-e41930": [
+      "abdelazer"
+    ],
+    "A27277-e41960": [
+      "queen"
+    ],
+    "A27277-e42000": [
+      "cardinal"
+    ],
+    "A27277-e42080": [
+      "abdelazer"
+    ],
+    "A27277-e42130": [
+      "cardinal"
+    ],
+    "A27277-e42180": [
+      "alonzo"
+    ],
+    "A27277-e42210": [
+      "cardinal"
+    ],
+    "A27277-e42280": [
+      "abdelazer"
+    ],
+    "A27277-e42340": [
+      "queen"
+    ],
+    "A27277-e42410": [
+      "abdelazer"
+    ],
+    "A27277-e42470": [
+      "alonzo"
+    ],
+    "A27277-e42560": [
+      "abdelazer"
+    ],
+    "A27277-e42640": [
+      "mendozo",
+      "roderigo",
+      "ordonio",
+      "alonzo",
+      "leonora",
+      "abdelazer"
+    ],
+    "A27277-e42670": [
+      "abdelazer"
+    ],
+    "A27277-e42730": [
+      "alonzo"
+    ],
+    "A27277-e42790": [
+      "abdelazer"
+    ],
+    "A27277-e42880": [
+      "alonzo"
+    ],
+    "A27277-e42930": [
+      "leonora"
+    ],
+    "A27277-e43060": [
+      "roderigo"
+    ],
+    "A27277-e43090": [
+      "abdelazer"
+    ],
+    "A27277-e43200": [
+      "roderigo"
+    ],
+    "A27277-e43230": [
+      "abdelazer"
+    ],
+    "A27277-e43280": [
+      "roderigo"
+    ],
+    "A27277-e43320": [
+      "abdelazer"
+    ],
+    "A27277-e43370": [
+      "roderigo"
+    ],
+    "A27277-e43410": [
+      "abdelazer"
+    ],
+    "A27277-e43470": [
+      "roderigo"
+    ],
+    "A27277-e43500": [
+      "abdelazer"
+    ],
+    "A27277-e43550": [
+      "roderigo"
+    ],
+    "A27277-e43580": [
+      "abdelazer"
+    ],
+    "A27277-e43640": [
+      "roderigo"
+    ],
+    "A27277-e43670": [
+      "abdelazer"
+    ],
+    "A27277-e43730": [
+      "roderigo"
+    ],
+    "A27277-e43770": [
+      "abdelazer"
+    ],
+    "A27277-e43840": [
+      "roderigo"
+    ],
+    "A27277-e43910": [
+      "osmin"
+    ],
+    "A27277-e43950": [
+      "abdelazer"
+    ],
+    "A27277-e43980": [
+      "osmin"
+    ],
+    "A27277-e44010": [
+      "abdelazer"
+    ],
+    "A27277-e44100": [
+      "osmin"
+    ],
+    "A27277-e44190": [
+      "queen"
+    ],
+    "A27277-e44280": [
+      "elvira"
+    ],
+    "A27277-e44310": [
+      "queen"
+    ],
+    "A27277-e44370": [
+      "elvira"
+    ],
+    "A27277-e44410": [
+      "queen"
+    ],
+    "A27277-e44520": [
+      "elvira"
+    ],
+    "A27277-e44550": [
+      "queen"
+    ],
+    "A27277-e44600": [
+      "elvira"
+    ],
+    "A27277-e44630": [
+      "queen"
+    ],
+    "A27277-e44700": [
+      "elvira"
+    ],
+    "A27277-e44740": [
+      "queen"
+    ],
+    "A27277-e44770": [
+      "roderigo"
+    ],
+    "A27277-e44820": [
+      "queen"
+    ],
+    "A27277-e44880": [
+      "roderigo"
+    ],
+    "A27277-e44920": [
+      "queen"
+    ],
+    "A27277-e44950": [
+      "roderigo"
+    ],
+    "A27277-e44980": [
+      "queen"
+    ],
+    "A27277-e45010": [
+      "roderigo"
+    ],
+    "A27277-e45050": [
+      "queen"
+    ],
+    "A27277-e45080": [
+      "roderigo"
+    ],
+    "A27277-e45130": [
+      "queen"
+    ],
+    "A27277-e45240": [
+      "elvira"
+    ],
+    "A27277-e45320": [
+      "abdelazer"
+    ],
+    "A27277-e45380": [
+      "queen"
+    ],
+    "A27277-e45420": [
+      "abdelazer"
+    ],
+    "A27277-e45480": [
+      "queen"
+    ],
+    "A27277-e45530": [
+      "abdelazer"
+    ],
+    "A27277-e45600": [
+      "roderigo"
+    ],
+    "A27277-e45630": [
+      "queen"
+    ],
+    "A27277-e45660": [
+      "abdelazer"
+    ],
+    "A27277-e45700": [
+      "roderigo"
+    ],
+    "A27277-e45730": [
+      "abdelazer"
+    ],
+    "A27277-e45900": [
+      "queen"
+    ],
+    "A27277-e46030": [
+      "abdelazer"
+    ],
+    "A27277-e46150": [
+      "alonzo"
+    ],
+    "A27277-e46180": [
+      "leonora"
+    ],
+    "A27277-e46240": [
+      "alonzo"
+    ],
+    "A27277-e46280": [
+      "elvira"
+    ],
+    "A27277-e46310": [
+      "alonzo"
+    ],
+    "A27277-e46440": [
+      "leonora"
+    ],
+    "A27277-e46610": [
+      "alonzo"
+    ],
+    "A27277-e46730": [
+      "abdelazer"
+    ],
+    "A27277-e46770": [
+      "leonora"
+    ],
+    "A27277-e46810": [
+      "abdelazer"
+    ],
+    "A27277-e46850": [
+      "leonora"
+    ],
+    "A27277-e46900": [
+      "abdelazer"
+    ],
+    "A27277-e46970": [
+      "leonora"
+    ],
+    "A27277-e47030": [
+      "abdelazer"
+    ],
+    "A27277-e47140": [
+      "alonzo"
+    ],
+    "A27277-e47200": [
+      "abdelazer"
+    ],
+    "A27277-e47240": [
+      "alonzo"
+    ],
+    "A27277-e47310": [
+      "abdelazer"
+    ],
+    "A27277-e47340": [
+      "alonzo"
+    ],
+    "A27277-e47420": [
+      "abdelazer"
+    ],
+    "A27277-e47490": [
+      "alonzo"
+    ],
+    "A27277-e47580": [
+      "abdelazer"
+    ],
+    "A27277-e47610": [
+      "alonzo"
+    ],
+    "A27277-e47660": [
+      "abdelazer"
+    ],
+    "A27277-e47780": [
+      "alonzo"
+    ],
+    "A27277-e47810": [
+      "abdelazer"
+    ],
+    "A27277-e47870": [
+      "alonzo"
+    ],
+    "A27277-e47900": [
+      "abdelazer"
+    ],
+    "A27277-e47930": [
+      "leonora"
+    ],
+    "A27277-e48030": [
+      "alonzo"
+    ],
+    "A27277-e48110": [
+      "abdelazer"
+    ],
+    "A27277-e48180": [
+      "leonora"
+    ],
+    "A27277-e48250": [
+      "abdelazer"
+    ],
+    "A27277-e48280": [
+      "leonora"
+    ],
+    "A27277-e48320": [
+      "abdelazer"
+    ],
+    "A27277-e48360": [
+      "leonora"
+    ],
+    "A27277-e48390": [
+      "abdelazer"
+    ],
+    "A27277-e48460": [
+      "leonora"
+    ],
+    "A27277-e48490": [
+      "abdelazer"
+    ],
+    "A27277-e48630": [
+      "leonora"
+    ],
+    "A27277-e48660": [
+      "abdelazer"
+    ],
+    "A27277-e48740": [
+      "leonora"
+    ],
+    "A27277-e48770": [
+      "abdelazer"
+    ],
+    "A27277-e48890": [
+      "leonora"
+    ],
+    "A27277-e48920": [
+      "abdelazer"
+    ],
+    "A27277-e49020": [
+      "leonora"
+    ],
+    "A27277-e49100": [
+      "abdelazer"
+    ],
+    "A27277-e49160": [
+      "leonora"
+    ],
+    "A27277-e49200": [
+      "abdelazer"
+    ],
+    "A27277-e49480": [
+      "leonora"
+    ],
+    "A27277-e49540": [
+      "abdelazer"
+    ],
+    "A27277-e49710": [
+      "leonora"
+    ],
+    "A27277-e49740": [
+      "abdelazer"
+    ],
+    "A27277-e49920": [
+      "leonora"
+    ],
+    "A27277-e49960": [
+      "abdelazer"
+    ],
+    "A27277-e49990": [
+      "leonora"
+    ],
+    "A27277-e50070": [
+      "osmin"
+    ],
+    "A27277-e50110": [
+      "abdelazer"
+    ],
+    "A27277-e50160": [
+      "osmin"
+    ],
+    "A27277-e50190": [
+      "abdelazer"
+    ],
+    "A27277-e50230": [
+      "osmin"
+    ],
+    "A27277-e50290": [
+      "abdelazer"
+    ],
+    "A27277-e50340": [
+      "leonora"
+    ],
+    "A27277-e50420": [
+      "osmin"
+    ],
+    "A27277-e50460": [
+      "leonora"
+    ],
+    "A27277-e50500": [
+      "osmin"
+    ],
+    "A27277-e50580": [
+      "leonora"
+    ],
+    "A27277-e50610": [
+      "osmin"
+    ],
+    "A27277-e50670": [
+      "leonora"
+    ],
+    "A27277-e50740": [
+      "abdelazer"
+    ],
+    "A27277-e50820": [
+      "osmin"
+    ],
+    "A27277-e50850": [
+      "abdelazer"
+    ],
+    "A27277-e50890": [
+      "osmin"
+    ],
+    "A27277-e50920": [
+      "abdelazer"
+    ],
+    "A27277-e50980": [
+      "osmin"
+    ],
+    "A27277-e51010": [
+      "abdelazer"
+    ],
+    "A27277-e51070": [
+      "zarrack"
+    ],
+    "A27277-e51120": [
+      "osmin"
+    ],
+    "A27277-e51160": [
+      "abdelazer"
+    ],
+    "A27277-e51240": [
+      "leonora"
+    ],
+    "A27277-e51280": [
+      "abdelazer"
+    ],
+    "A27277-e51340": [
+      "leonora"
+    ],
+    "A27277-e51390": [
+      "abdelazer"
+    ],
+    "A27277-e51440": [
+      "leonora"
+    ],
+    "A27277-e51500": [
+      "abdelazer"
+    ],
+    "A27277-e51660": [
+      "ordonio"
+    ],
+    "A27277-e51690": [
+      "leonora"
+    ],
+    "A27277-e51730": [
+      "osmin"
+    ],
+    "A27277-e51760": [
+      "abdelazer"
+    ],
+    "A27277-e51920": [
+      "philip"
+    ],
+    "A27277-e52050": [
+      "cardinal"
+    ],
+    "A27277-e52100": [
+      "philip"
+    ],
+    "A27277-e52190": [
+      "cardinal"
+    ],
+    "A27277-e52220": [
+      "philip"
+    ],
+    "A27277-e52270": [
+      "alonzo"
+    ],
+    "A27277-e52370": [
+      "philip"
+    ],
+    "A27277-e52410": [
+      "zarrack"
+    ],
+    "A27277-e52440": [
+      "philip"
+    ],
+    "A27277-e52490": [
+      "zarrack"
+    ],
+    "A27277-e52520": [
+      "philip"
+    ],
+    "A27277-e52560": [
+      "zarrack"
+    ],
+    "A27277-e52590": [
+      "philip"
+    ],
+    "A27277-e52630": [
+      "zarrack"
+    ],
+    "A27277-e52680": [
+      "philip"
+    ],
+    "A27277-e52730": [
+      "osmin"
+    ],
+    "A27277-e52770": [
+      "philip"
+    ],
+    "A27277-e52800": [
+      "osmin"
+    ],
+    "A27277-e52830": [
+      "philip"
+    ],
+    "A27277-e52860": [
+      "zarrack"
+    ],
+    "A27277-e52890": [
+      "osmin"
+    ],
+    "A27277-e52920": [
+      "cardinal"
+    ],
+    "A27277-e52950": [
+      "osmin"
+    ],
+    "A27277-e53010": [
+      "zarrack"
+    ],
+    "A27277-e53050": [
+      "philip"
+    ],
+    "A27277-e53150": [
+      "osmin"
+    ],
+    "A27277-e53210": [
+      "alonzo"
+    ],
+    "A27277-e53240": [
+      "osmin"
+    ],
+    "A27277-e53270": [
+      "philip"
+    ],
+    "A27277-e53330": [
+      "osmin"
+    ],
+    "A27277-e53420": [
+      "philip"
+    ],
+    "A27277-e53450": [
+      "leonora"
+    ],
+    "A27277-e53480": [
+      "osmin"
+    ],
+    "A27277-e53510": [
+      "philip"
+    ],
+    "A27277-e53610": [
+      "abdelazer"
+    ],
+    "A27277-e53650": [
+      "philip"
+    ],
+    "A27277-e53690": [
+      "abdelazer"
+    ],
+    "A27277-e53790": [
+      "philip"
+    ],
+    "A27277-e53850": [
+      "abdelazer"
+    ],
+    "A27277-e53900": [
+      "philip"
+    ],
+    "A27277-e53970": [
+      "alonzo"
+    ],
+    "A27277-e54000": [
+      "philip"
+    ],
+    "A27277-e54040": [
+      "abdelazer"
+    ],
+    "A27277-e54090": [
+      "philip"
+    ],
+    "A27277-e54190": [
+      "abdelazer"
+    ],
+    "A27277-e54220": [
+      "philip"
+    ],
+    "A27277-e54330": [
+      "abdelazer"
+    ],
+    "A27277-e54380": [
+      "philip"
+    ],
+    "A27277-e54410": [
+      "abdelazer"
+    ],
+    "A27277-e54510": [
+      "alonzo"
+    ],
+    "A27277-e54540": [
+      "abdelazer"
+    ],
+    "A27277-e54630": [
+      "philip"
+    ],
+    "A27277-e54670": [
+      "abdelazer"
+    ],
+    "A27277-e54730": [
+      "philip"
+    ],
+    "A27277-e54760": [
+      "abdelazer"
+    ],
+    "A27277-e54880": [
+      "philip"
+    ],
+    "A27277-e54980": [
+      "alonzo"
+    ],
+    "A27277-e55040": [
+      "mendozo",
+      "roderigo",
+      "ordonio",
+      "alonzo"
+    ],
+    "A27277-e55090": [
+      "philip"
+    ],
+    "A27277-e55160": [
+      "alonzo"
+    ],
+    "A27277-e55200": [
+      "leonora"
+    ],
+    "A27277-e55230": [
+      "cardinal"
+    ],
+    "A27277-e55340": [
+      "philip"
+    ],
+    "A27277-e55370": [
+      "leonora"
+    ],
+    "A27277-e55420": [
+      "philip"
+    ]
+  }
+}

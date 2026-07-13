@@ -1,0 +1,957 @@
+{
+  "particDesc": [
+    {
+      "id": "lavinia",
+      "name": "Lavinia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "albina",
+      "name": "Albina",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "camilla",
+      "name": "Camilla",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "julia",
+      "name": "Julia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "mezentius",
+      "name": "Mezentius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "faustus",
+      "name": "Faustus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "tyrhenus",
+      "name": "Tyrhenus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "agrippa",
+      "name": "Agrippa",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lausus",
+      "name": "Lausus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "atis",
+      "name": "Atis",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A56909-e1120": [
+      "lavinia"
+    ],
+    "A56909-e1170": [
+      "albina"
+    ],
+    "A56909-e1210": [
+      "lavinia"
+    ],
+    "A56909-e1260": [
+      "albina"
+    ],
+    "A56909-e1340": [
+      "lavinia"
+    ],
+    "A56909-e1430": [
+      "albina"
+    ],
+    "A56909-e1550": [
+      "lavinia"
+    ],
+    "A56909-e1670": [
+      "albina"
+    ],
+    "A56909-e1780": [
+      "lavinia"
+    ],
+    "A56909-e2100": [
+      "albina"
+    ],
+    "A56909-e2170": [
+      "lavinia"
+    ],
+    "A56909-e2210": [
+      "mezentius"
+    ],
+    "A56909-e2260": [
+      "lavinia"
+    ],
+    "A56909-e2300": [
+      "mezentius"
+    ],
+    "A56909-e2360": [
+      "lavinia"
+    ],
+    "A56909-e2450": [
+      "mezentius"
+    ],
+    "A56909-e2590": [
+      "lavinia"
+    ],
+    "A56909-e2740": [
+      "mezentius"
+    ],
+    "A56909-e2850": [
+      "lavinia"
+    ],
+    "A56909-e2910": [
+      "mezentius"
+    ],
+    "A56909-e2970": [
+      "lavinia"
+    ],
+    "A56909-e3080": [
+      "mezentius"
+    ],
+    "A56909-e3190": [
+      "lavinia"
+    ],
+    "A56909-e3300": [
+      "mezentius"
+    ],
+    "A56909-e3370": [
+      "lavinia"
+    ],
+    "A56909-e3400": [
+      "mezentius"
+    ],
+    "A56909-e3510": [
+      "lavinia"
+    ],
+    "A56909-e3580": [
+      "tyrhenus"
+    ],
+    "A56909-e3640": [
+      "lavinia"
+    ],
+    "A56909-e3720": [
+      "mezentius"
+    ],
+    "A56909-e3790": [
+      "tyrhenus"
+    ],
+    "A56909-e3890": [
+      "lavinia"
+    ],
+    "A56909-e3920": [
+      "tyrhenus"
+    ],
+    "A56909-e4070": [
+      "agrippa"
+    ],
+    "A56909-e4130": [
+      "agrippa"
+    ],
+    "A56909-e4190": [
+      "agrippa"
+    ],
+    "A56909-e4240": [
+      "tyrhenus"
+    ],
+    "A56909-e4270": [
+      "agrippa"
+    ],
+    "A56909-e4300": [
+      "tyrhenus"
+    ],
+    "A56909-e4410": [
+      "agrippa"
+    ],
+    "A56909-e4600": [
+      "tyrhenus"
+    ],
+    "A56909-e4790": [
+      "agrippa"
+    ],
+    "A56909-e4860": [
+      "tyrhenus"
+    ],
+    "A56909-e4950": [
+      "agrippa"
+    ],
+    "A56909-e4990": [
+      "tyrhenus"
+    ],
+    "A56909-e5050": [
+      "agrippa"
+    ],
+    "A56909-e5120": [
+      "tyrhenus"
+    ],
+    "A56909-e5270": [
+      "agrippa"
+    ],
+    "A56909-e5430": [
+      "tyrhenus"
+    ],
+    "A56909-e5770": [
+      "agrippa"
+    ],
+    "A56909-e5850": [
+      "tyrhenus"
+    ],
+    "A56909-e6030": [
+      "agrippa"
+    ],
+    "A56909-e6070": [
+      "tyrhenus"
+    ],
+    "A56909-e6120": [
+      "agrippa"
+    ],
+    "A56909-e6150": [
+      "tyrhenus"
+    ],
+    "A56909-e6180": [
+      "agrippa"
+    ],
+    "A56909-e6270": [
+      "tyrhenus"
+    ],
+    "A56909-e6300": [
+      "agrippa"
+    ],
+    "A56909-e6330": [
+      "tyrhenus"
+    ],
+    "A56909-e6360": [
+      "agrippa"
+    ],
+    "A56909-e6480": [
+      "tyrhenus"
+    ],
+    "A56909-e6710": [
+      "agrippa"
+    ],
+    "A56909-e6740": [
+      "tyrhenus"
+    ],
+    "A56909-e6850": [
+      "julia"
+    ],
+    "A56909-e6900": [
+      "albina"
+    ],
+    "A56909-e7050": [
+      "julia"
+    ],
+    "A56909-e7090": [
+      "albina"
+    ],
+    "A56909-e7160": [
+      "julia"
+    ],
+    "A56909-e7210": [
+      "albina"
+    ],
+    "A56909-e7240": [
+      "julia"
+    ],
+    "A56909-e7290": [
+      "albina"
+    ],
+    "A56909-e7350": [
+      "julia"
+    ],
+    "A56909-e7390": [
+      "albina"
+    ],
+    "A56909-e7480": [
+      "julia"
+    ],
+    "A56909-e7510": [
+      "albina"
+    ],
+    "A56909-e7710": [
+      "julia"
+    ],
+    "A56909-e7750": [
+      "albina"
+    ],
+    "A56909-e7880": [
+      "julia"
+    ],
+    "A56909-e7930": [
+      "albina"
+    ],
+    "A56909-e7960": [
+      "julia"
+    ],
+    "A56909-e8000": [
+      "albina"
+    ],
+    "A56909-e8060": [
+      "tyrhenus"
+    ],
+    "A56909-e8110": [
+      "albina"
+    ],
+    "A56909-e8140": [
+      "tyrhenus"
+    ],
+    "A56909-e8340": [
+      "albina"
+    ],
+    "A56909-e8420": [
+      "tyrhenus"
+    ],
+    "A56909-e8450": [
+      "albina"
+    ],
+    "A56909-e8480": [
+      "tyrhenus"
+    ],
+    "A56909-e8640": [
+      "albina"
+    ],
+    "A56909-e8700": [
+      "tyrhenus"
+    ],
+    "A56909-e8730": [
+      "albina"
+    ],
+    "A56909-e8780": [
+      "tyrhenus"
+    ],
+    "A56909-e8830": [
+      "albina"
+    ],
+    "A56909-e8960": [
+      "lavinia"
+    ],
+    "A56909-e9060": [
+      "albina"
+    ],
+    "A56909-e9110": [
+      "lavinia"
+    ],
+    "A56909-e9140": [
+      "albina"
+    ],
+    "A56909-e9170": [
+      "lavinia"
+    ],
+    "A56909-e9200": [
+      "albina"
+    ],
+    "A56909-e9260": [
+      "lavinia"
+    ],
+    "A56909-e9320": [
+      "albina"
+    ],
+    "A56909-e9480": [
+      "lavinia"
+    ],
+    "A56909-e9530": [
+      "albina"
+    ],
+    "A56909-e9660": [
+      "lavinia"
+    ],
+    "A56909-e9840": [
+      "albina"
+    ],
+    "A56909-e9870": [
+      "lavinia"
+    ],
+    "A56909-e10010": [
+      "albina"
+    ],
+    "A56909-e10090": [
+      "julia"
+    ],
+    "A56909-e10120": [
+      "albina"
+    ],
+    "A56909-e10200": [
+      "agrippa"
+    ],
+    "A56909-e10260": [
+      "albina"
+    ],
+    "A56909-e10320": [
+      "agrippa"
+    ],
+    "A56909-e10400": [
+      "albina"
+    ],
+    "A56909-e10490": [
+      "agrippa"
+    ],
+    "A56909-e10560": [
+      "albina"
+    ],
+    "A56909-e10700": [
+      "agrippa"
+    ],
+    "A56909-e10810": [
+      "albina"
+    ],
+    "A56909-e10950": [
+      "agrippa"
+    ],
+    "A56909-e11010": [
+      "albina"
+    ],
+    "A56909-e11080": [
+      "agrippa"
+    ],
+    "A56909-e11190": [
+      "albina"
+    ],
+    "A56909-e11400": [
+      "agrippa"
+    ],
+    "A56909-e11650": [
+      "albina"
+    ],
+    "A56909-e11930": [
+      "faustus"
+    ],
+    "A56909-e12040": [
+      "mezentius"
+    ],
+    "A56909-e12250": [
+      "faustus"
+    ],
+    "A56909-e12280": [
+      "mezentius"
+    ],
+    "A56909-e12340": [
+      "mezentius"
+    ],
+    "A56909-e12460": [
+      "agrippa"
+    ],
+    "A56909-e12560": [
+      "mezentius"
+    ],
+    "A56909-e12620": [
+      "agrippa"
+    ],
+    "A56909-e12720": [
+      "mezentius"
+    ],
+    "A56909-e12770": [
+      "agrippa"
+    ],
+    "A56909-e12850": [
+      "mezentius"
+    ],
+    "A56909-e12890": [
+      "agrippa"
+    ],
+    "A56909-e12970": [
+      "mezentius"
+    ],
+    "A56909-e13310": [
+      "agrippa"
+    ],
+    "A56909-e13410": [
+      "mezentius"
+    ],
+    "A56909-e13530": [
+      "agrippa"
+    ],
+    "A56909-e13640": [
+      "mezentius"
+    ],
+    "A56909-e13790": [
+      "agrippa"
+    ],
+    "A56909-e13900": [
+      "mezentius"
+    ],
+    "A56909-e13950": [
+      "agrippa"
+    ],
+    "A56909-e14130": [
+      "mezentius"
+    ],
+    "A56909-e14180": [
+      "faustus"
+    ],
+    "A56909-e14310": [
+      "lavinia"
+    ],
+    "A56909-e14370": [
+      "mezentius"
+    ],
+    "A56909-e14410": [
+      "lavinia"
+    ],
+    "A56909-e14470": [
+      "mezentius"
+    ],
+    "A56909-e14540": [
+      "lavinia"
+    ],
+    "A56909-e14630": [
+      "mezentius"
+    ],
+    "A56909-e14770": [
+      "lavinia"
+    ],
+    "A56909-e14920": [
+      "mezentius"
+    ],
+    "A56909-e15110": [
+      "lavinia"
+    ],
+    "A56909-e15240": [
+      "mezentius"
+    ],
+    "A56909-e15280": [
+      "tyrhenus"
+    ],
+    "A56909-e15310": [
+      "mezentius"
+    ],
+    "A56909-e15380": [
+      "tyrhenus"
+    ],
+    "A56909-e15410": [
+      "mezentius"
+    ],
+    "A56909-e15480": [
+      "tyrhenus"
+    ],
+    "A56909-e15540": [
+      "mezentius"
+    ],
+    "A56909-e15700": [
+      "tyrhenus"
+    ],
+    "A56909-e15760": [
+      "mezentius"
+    ],
+    "A56909-e15840": [
+      "tyrhenus"
+    ],
+    "A56909-e15950": [
+      "mezentius"
+    ],
+    "A56909-e16120": [
+      "tyrhenus"
+    ],
+    "A56909-e16170": [
+      "mezentius"
+    ],
+    "A56909-e16240": [
+      "tyrhenus"
+    ],
+    "A56909-e16300": [
+      "mezentius"
+    ],
+    "A56909-e16350": [
+      "tyrhenus"
+    ],
+    "A56909-e16490": [
+      "mezentius"
+    ],
+    "A56909-e16570": [
+      "tyrhenus"
+    ],
+    "A56909-e16680": [
+      "lavinia"
+    ],
+    "A56909-e16730": [
+      "mezentius"
+    ],
+    "A56909-e16870": [
+      "lavinia"
+    ],
+    "A56909-e17060": [
+      "mezentius"
+    ],
+    "A56909-e17180": [
+      "lavinia"
+    ],
+    "A56909-e17210": [
+      "mezentius"
+    ],
+    "A56909-e17310": [
+      "agrippa"
+    ],
+    "A56909-e17490": [
+      "lavinia"
+    ],
+    "A56909-e17570": [
+      "agrippa"
+    ],
+    "A56909-e17620": [
+      "lavinia"
+    ],
+    "A56909-e17920": [
+      "agrippa"
+    ],
+    "A56909-e18040": [
+      "lavinia"
+    ],
+    "A56909-e18220": [
+      "agrippa"
+    ],
+    "A56909-e18350": [
+      "lavinia"
+    ],
+    "A56909-e18420": [
+      "agrippa"
+    ],
+    "A56909-e18520": [
+      "lavinia"
+    ],
+    "A56909-e18770": [
+      "agrippa"
+    ],
+    "A56909-e18950": [
+      "lavinia"
+    ],
+    "A56909-e18990": [
+      "agrippa"
+    ],
+    "A56909-e19140": [
+      "lavinia"
+    ],
+    "A56909-e19190": [
+      "agrippa"
+    ],
+    "A56909-e19230": [
+      "lavinia"
+    ],
+    "A56909-e19290": [
+      "agrippa"
+    ],
+    "A56909-e19400": [
+      "tyrhenus"
+    ],
+    "A56909-e19430": [
+      "agrippa"
+    ],
+    "A56909-e19460": [
+      "tyrhenus"
+    ],
+    "A56909-e19510": [
+      "agrippa"
+    ],
+    "A56909-e19650": [
+      "tyrhenus"
+    ],
+    "A56909-e19710": [
+      "agrippa"
+    ],
+    "A56909-e19740": [
+      "tyrhenus"
+    ],
+    "A56909-e19810": [
+      "agrippa"
+    ],
+    "A56909-e19870": [
+      "tyrhenus"
+    ],
+    "A56909-e20010": [
+      "agrippa"
+    ],
+    "A56909-e20100": [
+      "tyrhenus"
+    ],
+    "A56909-e20390": [
+      "lavinia"
+    ],
+    "A56909-e20590": [
+      "tyrhenus"
+    ],
+    "A56909-e20620": [
+      "agrippa"
+    ],
+    "A56909-e20680": [
+      "tyrhenus"
+    ],
+    "A56909-e20710": [
+      "agrippa"
+    ],
+    "A56909-e20750": [
+      "lavinia"
+    ],
+    "A56909-e20780": [
+      "tyrhenus"
+    ],
+    "A56909-e20840": [
+      "lavinia"
+    ],
+    "A56909-e20930": [
+      "tyrhenus"
+    ],
+    "A56909-e20960": [
+      "lavinia"
+    ],
+    "A56909-e21100": [
+      "tyrhenus"
+    ],
+    "A56909-e21130": [
+      "agrippa"
+    ],
+    "A56909-e21160": [
+      "lavinia"
+    ],
+    "A56909-e21200": [
+      "agrippa"
+    ],
+    "A56909-e21230": [
+      "lavinia"
+    ],
+    "A56909-e21270": [
+      "agrippa"
+    ],
+    "A56909-e21330": [
+      "tyrhenus"
+    ],
+    "A56909-e21370": [
+      "agrippa"
+    ],
+    "A56909-e21400": [
+      "tyrhenus"
+    ],
+    "A56909-e21580": [
+      "agrippa"
+    ],
+    "A56909-e21710": [
+      "tyrhenus"
+    ],
+    "A56909-e21740": [
+      "agrippa"
+    ],
+    "A56909-e21830": [
+      "tyrhenus"
+    ],
+    "A56909-e22170": [
+      "agrippa"
+    ],
+    "A56909-e22200": [
+      "tyrhenus"
+    ],
+    "A56909-e22420": [
+      "agrippa"
+    ],
+    "A56909-e22450": [
+      "tyrhenus"
+    ],
+    "A56909-e22520": [
+      "tyrhenus"
+    ],
+    "A56909-e22550": [
+      "lausus"
+    ],
+    "A56909-e22610": [
+      "agrippa"
+    ],
+    "A56909-e22670": [
+      "tyrhenus"
+    ],
+    "A56909-e22700": [
+      "atis"
+    ],
+    "A56909-e22740": [
+      "tyrhenus"
+    ],
+    "A56909-e22840": [
+      "faustus"
+    ],
+    "A56909-e22900": [
+      "lavinia"
+    ],
+    "A56909-e22980": [
+      "faustus"
+    ],
+    "A56909-e23390": [
+      "lavinia"
+    ],
+    "A56909-e23490": [
+      "faustus"
+    ],
+    "A56909-e23560": [
+      "lavinia"
+    ],
+    "A56909-e23590": [
+      "camilla"
+    ],
+    "A56909-e23650": [
+      "lavinia"
+    ],
+    "A56909-e23740": [
+      "lavinia"
+    ],
+    "A56909-e24040": [
+      "tyrhenus"
+    ],
+    "A56909-e24340": [
+      "lavinia"
+    ],
+    "A56909-e24500": [
+      "tyrhenus"
+    ],
+    "A56909-e24600": [
+      "lavinia"
+    ],
+    "A56909-e24630": [
+      "tyrhenus"
+    ],
+    "A56909-e24660": [
+      "lavinia"
+    ],
+    "A56909-e24720": [
+      "tyrhenus"
+    ],
+    "A56909-e24750": [
+      "lavinia"
+    ],
+    "A56909-e24810": [
+      "lavinia"
+    ],
+    "A56909-e24860": [
+      "faustus"
+    ],
+    "A56909-e24910": [
+      "tyrhenus"
+    ],
+    "A56909-e24940": [
+      "lavinia"
+    ],
+    "A56909-e24980": [
+      "faustus"
+    ],
+    "A56909-e25150": [
+      "tyrhenus"
+    ],
+    "A56909-e25180": [
+      "faustus"
+    ],
+    "A56909-e25430": [
+      "tyrhenus"
+    ],
+    "A56909-e25460": [
+      "faustus"
+    ],
+    "A56909-e25580": [
+      "lavinia"
+    ],
+    "A56909-e25660": [
+      "tyrhenus"
+    ],
+    "A56909-e25690": [
+      "lavinia"
+    ],
+    "A56909-e25720": [
+      "tyrhenus"
+    ],
+    "A56909-e25750": [
+      "lavinia"
+    ],
+    "A56909-e25780": [
+      "tyrhenus"
+    ],
+    "A56909-e25840": [
+      "lavinia"
+    ],
+    "A56909-e26190": [
+      "tyrhenus"
+    ],
+    "A56909-e26370": [
+      "lavinia"
+    ],
+    "A56909-e26440": [
+      "tyrhenus"
+    ],
+    "A56909-e26520": [
+      "tyrhenus"
+    ],
+    "A56909-e26550": [
+      "albina"
+    ],
+    "A56909-e26600": [
+      "tyrhenus"
+    ],
+    "A56909-e26640": [
+      "lavinia"
+    ],
+    "A56909-e26670": [
+      "albina"
+    ],
+    "A56909-e26720": [
+      "tyrhenus"
+    ],
+    "A56909-e26790": [
+      "agrippa"
+    ],
+    "A56909-e26840": [
+      "tyrhenus"
+    ],
+    "A56909-e26900": [
+      "lavinia"
+    ],
+    "A56909-e26940": [
+      "agrippa"
+    ],
+    "A56909-e26990": [
+      "albina"
+    ],
+    "A56909-e27020": [
+      "tyrhenus"
+    ],
+    "A56909-e27080": [
+      "lavinia"
+    ],
+    "A56909-e27140": [
+      "tyrhenus"
+    ],
+    "A56909-e27180": [
+      "agrippa"
+    ],
+    "A56909-e27480": [
+      "tyrhenus"
+    ],
+    "A56909-e27520": [
+      "agrippa"
+    ],
+    "A56909-e27670": [
+      "lavinia"
+    ],
+    "A56909-e27710": [
+      "agrippa"
+    ],
+    "A56909-e27840": [
+      "lavinia"
+    ],
+    "A56909-e27900": [
+      "tyrhenus"
+    ],
+    "A56909-e27940": [
+      "lavinia"
+    ]
+  }
+}

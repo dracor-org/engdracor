@@ -1,16 +1,16 @@
 {
   "particDesc": [
     {
-      "name": "Duke's Faction",
-      "id": "duke-s-faction",
-      "isGroup": true,
-      "sex": "MALE"
+      "name": "Woman",
+      "id": "woman",
+      "isGroup": false,
+      "sex": "FEMALE"
     },
     {
-      "id": "francisco",
-      "name": "Francisco",
-      "isGroup": false,
-      "sex": "MALE"
+      "name": "Duke's Faction",
+      "id": "duke's-faction",
+      "isGroup": true,
+      "sex": "UNKNOWN"
     },
     {
       "id": "peter",
@@ -37,14 +37,14 @@
       "sex": "MALE"
     },
     {
-      "id": "gentleman-1",
-      "name": "Gentleman 1",
+      "id": "francisco",
+      "name": "Francisco",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "id": "gentleman-2",
-      "name": "Gentleman 2",
+      "id": "gentleman-1",
+      "name": "Gentleman 1",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -55,20 +55,8 @@
       "sex": "MALE"
     },
     {
-      "id": "woman",
-      "name": "Woman ",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
       "id": "duke",
       "name": "Duke",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "id": "gentleman-3",
-      "name": "Gentleman 3",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -85,8 +73,20 @@
       "sex": "FEMALE"
     },
     {
+      "id": "gentleman-2",
+      "name": "Gentleman 2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "surgeon",
       "name": "Surgeon",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "gentleman-3",
+      "name": "Gentleman 3",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -94,7 +94,7 @@
       "id": "servant",
       "name": "Servant",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "whore",
@@ -106,13 +106,13 @@
       "id": "bawd",
       "name": "Bawd",
       "isGroup": false,
-      "sex": "FEMALE"
+	  "sex": "FEMALE"
     },
     {
       "id": "vecchio",
       "name": "Vecchio",
       "isGroup": false,
-      "sex": "MALE"
+	  "sex": "MALE"
     }
   ],
   "speeches": {
@@ -768,7 +768,7 @@
       "duke"
     ],
     "A27177-e109070": [
-      "duke-s-faction"
+      "duke's-faction"
     ],
     "A27177-e109090": [
       "duke"

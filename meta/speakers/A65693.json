@@ -1,0 +1,1658 @@
+{
+  "particDesc": [
+    {
+      "name": "Moor",
+      "id": "moor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Attendant",
+      "id": "attendant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Janissary",
+      "id": "janissary",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Janissaries",
+      "id": "janissaries",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Kulcaiha",
+      "id": "kulcaiha",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ibrahim",
+      "name": "Ibrahim",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mahomet",
+      "name": "Mahomet",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mufti",
+      "name": "Mufti",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "solyman-aga",
+      "name": "Solyman Aga",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "kuperli",
+      "name": "Kuperli",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ipsir",
+      "name": "Ipsir",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "oglar",
+      "name": "Oglar",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "meleck-hamet",
+      "name": "Meleck Hamet",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bectas",
+      "name": "Bectas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "kara",
+      "name": "Kara ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "kiosem",
+      "name": "Kiosem",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "formiana",
+      "name": "Formiana",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "flatra",
+      "name": "Flatra",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lentesia",
+      "name": "Lentesia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "guards",
+      "name": "Guards",
+      "isGroup": true,
+	  "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A65693-e1550": [
+      "formiana"
+    ],
+    "A65693-e1670": [
+      "ibrahim"
+    ],
+    "A65693-e1760": [
+      "formiana"
+    ],
+    "A65693-e1830": [
+      "ibrahim"
+    ],
+    "A65693-e1920": [
+      "formiana"
+    ],
+    "A65693-e2020": [
+      "ibrahim"
+    ],
+    "A65693-e2080": [
+      "formiana"
+    ],
+    "A65693-e2190": [
+      "ibrahim"
+    ],
+    "A65693-e2270": [
+      "formiana"
+    ],
+    "A65693-e2350": [
+      "ibrahim"
+    ],
+    "A65693-e2410": [
+      "formiana"
+    ],
+    "A65693-e2460": [
+      "ibrahim"
+    ],
+    "A65693-e2510": [
+      "formiana"
+    ],
+    "A65693-e2570": [
+      "ibrahim"
+    ],
+    "A65693-e2810": [
+      "kara"
+    ],
+    "A65693-e2850": [
+      "oglar"
+    ],
+    "A65693-e2910": [
+      "kara"
+    ],
+    "A65693-e3010": [
+      "oglar"
+    ],
+    "A65693-e3050": [
+      "kara"
+    ],
+    "A65693-e3100": [
+      "oglar"
+    ],
+    "A65693-e3130": [
+      "kara"
+    ],
+    "A65693-e3180": [
+      "oglar"
+    ],
+    "A65693-e3300": [
+      "kulcaiha"
+    ],
+    "A65693-e3340": [
+      "kara"
+    ],
+    "A65693-e3400": [
+      "kulcaiha"
+    ],
+    "A65693-e3510": [
+      "bectas"
+    ],
+    "A65693-e3600": [
+      "kiosem"
+    ],
+    "A65693-e3650": [
+      "bectas"
+    ],
+    "A65693-e3690": [
+      "kiosem"
+    ],
+    "A65693-e3820": [
+      "bectas"
+    ],
+    "A65693-e3880": [
+      "kiosem"
+    ],
+    "A65693-e3970": [
+      "bectas"
+    ],
+    "A65693-e4050": [
+      "kiosem"
+    ],
+    "A65693-e4160": [
+      "bectas"
+    ],
+    "A65693-e4200": [
+      "kiosem"
+    ],
+    "A65693-e4300": [
+      "janissary"
+    ],
+    "A65693-e4330": [
+      "kiosem"
+    ],
+    "A65693-e4370": [
+      "messenger"
+    ],
+    "A65693-e4410": [
+      "kiosem"
+    ],
+    "A65693-e4480": [
+      "messenger"
+    ],
+    "A65693-e4510": [
+      "kiosem"
+    ],
+    "A65693-e4550": [
+      "messenger"
+    ],
+    "A65693-e4610": [
+      "kiosem"
+    ],
+    "A65693-e4640": [
+      "messenger"
+    ],
+    "A65693-e4710": [
+      "kiosem"
+    ],
+    "A65693-e4750": [
+      "messenger"
+    ],
+    "A65693-e4820": [
+      "kiosem"
+    ],
+    "A65693-e4860": [
+      "messenger"
+    ],
+    "A65693-e4900": [
+      "kiosem"
+    ],
+    "A65693-e4980": [
+      "bectas"
+    ],
+    "A65693-e5070": [
+      "kiosem"
+    ],
+    "A65693-e5120": [
+      "bectas"
+    ],
+    "A65693-e5160": [
+      "kiosem"
+    ],
+    "A65693-e5220": [
+      "bectas"
+    ],
+    "A65693-e5360": [
+      "flatra"
+    ],
+    "A65693-e5420": [
+      "meleck-hamet"
+    ],
+    "A65693-e5510": [
+      "flatra"
+    ],
+    "A65693-e5570": [
+      "meleck-hamet"
+    ],
+    "A65693-e5610": [
+      "flatra"
+    ],
+    "A65693-e5710": [
+      "meleck-hamet"
+    ],
+    "A65693-e5820": [
+      "flatra"
+    ],
+    "A65693-e5920": [
+      "meleck-hamet"
+    ],
+    "A65693-e5970": [
+      "flatra"
+    ],
+    "A65693-e6050": [
+      "meleck-hamet"
+    ],
+    "A65693-e6130": [
+      "flatra"
+    ],
+    "A65693-e6190": [
+      "meleck-hamet"
+    ],
+    "A65693-e6290": [
+      "flatra"
+    ],
+    "A65693-e6470": [
+      "meleck-hamet"
+    ],
+    "A65693-e6530": [
+      "flatra"
+    ],
+    "A65693-e6590": [
+      "meleck-hamet"
+    ],
+    "A65693-e6670": [
+      "flatra"
+    ],
+    "A65693-e6700": [
+      "meleck-hamet"
+    ],
+    "A65693-e6730": [
+      "flatra"
+    ],
+    "A65693-e6790": [
+      "meleck-hamet"
+    ],
+    "A65693-e6850": [
+      "flatra"
+    ],
+    "A65693-e7010": [
+      "meleck-hamet"
+    ],
+    "A65693-e7100": [
+      "flatra"
+    ],
+    "A65693-e7200": [
+      "meleck-hamet"
+    ],
+    "A65693-e7300": [
+      "flatra"
+    ],
+    "A65693-e7530": [
+      "ibrahim"
+    ],
+    "A65693-e7610": [
+      "bectas"
+    ],
+    "A65693-e7640": [
+      "ibrahim"
+    ],
+    "A65693-e7680": [
+      "bectas"
+    ],
+    "A65693-e7760": [
+      "messenger"
+    ],
+    "A65693-e7830": [
+      "ibrahim"
+    ],
+    "A65693-e7890": [
+      "bectas"
+    ],
+    "A65693-e7930": [
+      "ibrahim"
+    ],
+    "A65693-e7990": [
+      "bectas"
+    ],
+    "A65693-e8040": [
+      "ibrahim"
+    ],
+    "A65693-e8080": [
+      "bectas"
+    ],
+    "A65693-e8110": [
+      "ibrahim"
+    ],
+    "A65693-e8150": [
+      "bectas"
+    ],
+    "A65693-e8180": [
+      "ibrahim"
+    ],
+    "A65693-e8390": [
+      "meleck-hamet"
+    ],
+    "A65693-e8470": [
+      "kiosem"
+    ],
+    "A65693-e8520": [
+      "formiana"
+    ],
+    "A65693-e8590": [
+      "kiosem"
+    ],
+    "A65693-e8620": [
+      "flatra"
+    ],
+    "A65693-e8660": [
+      "kiosem"
+    ],
+    "A65693-e8710": [
+      "formiana"
+    ],
+    "A65693-e8770": [
+      "flatra"
+    ],
+    "A65693-e8800": [
+      "kiosem"
+    ],
+    "A65693-e8840": [
+      "attendant"
+    ],
+    "A65693-e8890": [
+      "kiosem"
+    ],
+    "A65693-e8950": [
+      "formiana"
+    ],
+    "A65693-e9030": [
+      "ibrahim"
+    ],
+    "A65693-e9070": [
+      "formiana"
+    ],
+    "A65693-e9160": [
+      "ibrahim"
+    ],
+    "A65693-e9190": [
+      "formiana"
+    ],
+    "A65693-e9240": [
+      "kiosem"
+    ],
+    "A65693-e9280": [
+      "formiana"
+    ],
+    "A65693-e9360": [
+      "flatra"
+    ],
+    "A65693-e9410": [
+      "kiosem"
+    ],
+    "A65693-e9450": [
+      "ibrahim"
+    ],
+    "A65693-e9520": [
+      "formiana"
+    ],
+    "A65693-e9580": [
+      "kiosem"
+    ],
+    "A65693-e9660": [
+      "ibrahim"
+    ],
+    "A65693-e10160": [
+      "kiosem"
+    ],
+    "A65693-e10210": [
+      "flatra"
+    ],
+    "A65693-e10260": [
+      "kiosem"
+    ],
+    "A65693-e10350": [
+      "flatra"
+    ],
+    "A65693-e10420": [
+      "kiosem"
+    ],
+    "A65693-e10500": [
+      "flatra"
+    ],
+    "A65693-e10590": [
+      "kiosem"
+    ],
+    "A65693-e10720": [
+      "meleck-hamet"
+    ],
+    "A65693-e10780": [
+      "flatra"
+    ],
+    "A65693-e10880": [
+      "bectas"
+    ],
+    "A65693-e10960": [
+      "meleck-hamet"
+    ],
+    "A65693-e11020": [
+      "flatra"
+    ],
+    "A65693-e11110": [
+      "meleck-hamet"
+    ],
+    "A65693-e11200": [
+      "bectas"
+    ],
+    "A65693-e11310": [
+      "meleck-hamet"
+    ],
+    "A65693-e11370": [
+      "bectas"
+    ],
+    "A65693-e11430": [
+      "meleck-hamet"
+    ],
+    "A65693-e11650": [
+      "bectas"
+    ],
+    "A65693-e11690": [
+      "meleck-hamet"
+    ],
+    "A65693-e11780": [
+      "kulcaiha"
+    ],
+    "A65693-e11820": [
+      "kara"
+    ],
+    "A65693-e11860": [
+      "meleck-hamet"
+    ],
+    "A65693-e11940": [
+      "ipsir"
+    ],
+    "A65693-e12000": [
+      "kuperli"
+    ],
+    "A65693-e12210": [
+      "ipsir"
+    ],
+    "A65693-e12290": [
+      "kuperli"
+    ],
+    "A65693-e12370": [
+      "ipsir"
+    ],
+    "A65693-e12420": [
+      "kuperli"
+    ],
+    "A65693-e12590": [
+      "oglar"
+    ],
+    "A65693-e12670": [
+      "mufti"
+    ],
+    "A65693-e12780": [
+      "oglar"
+    ],
+    "A65693-e12890": [
+      "formiana"
+    ],
+    "A65693-e12930": [
+      "mufti"
+    ],
+    "A65693-e12960": [
+      "formiana"
+    ],
+    "A65693-e12990": [
+      "ibrahim"
+    ],
+    "A65693-e13080": [
+      "formiana"
+    ],
+    "A65693-e13110": [
+      "mufti"
+    ],
+    "A65693-e13150": [
+      "solyman-aga"
+    ],
+    "A65693-e13240": [
+      "oglar"
+    ],
+    "A65693-e13320": [
+      "formiana"
+    ],
+    "A65693-e13360": [
+      "solyman-aga"
+    ],
+    "A65693-e13400": [
+      "ibrahim"
+    ],
+    "A65693-e13460": [
+      "mufti"
+    ],
+    "A65693-e13500": [
+      "oglar"
+    ],
+    "A65693-e13590": [
+      "ibrahim"
+    ],
+    "A65693-e13640": [
+      "formiana"
+    ],
+    "A65693-e13680": [
+      "solyman-aga"
+    ],
+    "A65693-e13720": [
+      "mufti"
+    ],
+    "A65693-e13760": [
+      "ibrahim"
+    ],
+    "A65693-e13900": [
+      "oglar"
+    ],
+    "A65693-e13960": [
+      "formiana"
+    ],
+    "A65693-e14020": [
+      "oglar"
+    ],
+    "A65693-e14060": [
+      "ibrahim"
+    ],
+    "A65693-e14110": [
+      "formiana"
+    ],
+    "A65693-e14140": [
+      "oglar"
+    ],
+    "A65693-e14180": [
+      "formiana"
+    ],
+    "A65693-e14210": [
+      "oglar"
+    ],
+    "A65693-e14250": [
+      "formiana"
+    ],
+    "A65693-e14310": [
+      "oglar"
+    ],
+    "A65693-e14370": [
+      "formiana"
+    ],
+    "A65693-e14410": [
+      "oglar"
+    ],
+    "A65693-e14440": [
+      "formiana"
+    ],
+    "A65693-e14470": [
+      "oglar"
+    ],
+    "A65693-e14550": [
+      "formiana"
+    ],
+    "A65693-e14640": [
+      "oglar"
+    ],
+    "A65693-e14700": [
+      "formiana"
+    ],
+    "A65693-e14780": [
+      "oglar"
+    ],
+    "A65693-e14860": [
+      "formiana"
+    ],
+    "A65693-e14930": [
+      "oglar"
+    ],
+    "A65693-e14980": [
+      "formiana"
+    ],
+    "A65693-e15070": [
+      "oglar"
+    ],
+    "A65693-e15150": [
+      "formiana"
+    ],
+    "A65693-e15410": [
+      "oglar"
+    ],
+    "A65693-e15470": [
+      "formiana"
+    ],
+    "A65693-e15560": [
+      "oglar"
+    ],
+    "A65693-e15720": [
+      "kuperli"
+    ],
+    "A65693-e15780": [
+      "ipsir"
+    ],
+    "A65693-e15860": [
+      "kuperli"
+    ],
+    "A65693-e15930": [
+      "ipsir"
+    ],
+    "A65693-e16020": [
+      "oglar"
+    ],
+    "A65693-e16050": [
+      "ibrahim"
+    ],
+    "A65693-e16090": [
+      "oglar"
+    ],
+    "A65693-e16150": [
+      "ibrahim"
+    ],
+    "A65693-e16200": [
+      "oglar"
+    ],
+    "A65693-e16260": [
+      "ibrahim"
+    ],
+    "A65693-e16370": [
+      "mufti"
+    ],
+    "A65693-e16430": [
+      "meleck-hamet"
+    ],
+    "A65693-e16480": [
+      "solyman-aga"
+    ],
+    "A65693-e16510": [
+      "bectas"
+    ],
+    "A65693-e16540": [
+      "kulcaiha"
+    ],
+    "A65693-e16570": [
+      "janissaries"
+    ],
+    "A65693-e16610": [
+      "mufti"
+    ],
+    "A65693-e16640": [
+      "kara"
+    ],
+    "A65693-e16670": [
+      "meleck-hamet"
+    ],
+    "A65693-e16700": [
+      "janissaries"
+    ],
+    "A65693-e16790": [
+      "formiana"
+    ],
+    "A65693-e16860": [
+      "meleck-hamet",
+      "bectas",
+      "kara",
+      "kulcaiha",
+      "janissary"
+    ],
+    "A65693-e16900": [
+      "meleck-hamet"
+    ],
+    "A65693-e16950": [
+      "formiana"
+    ],
+    "A65693-e17050": [
+      "meleck-hamet"
+    ],
+    "A65693-e17170": [
+      "ibrahim"
+    ],
+    "A65693-e17240": [
+      "meleck-hamet"
+    ],
+    "A65693-e17270": [
+      "ibrahim"
+    ],
+    "A65693-e17320": [
+      "meleck-hamet"
+    ],
+    "A65693-e17360": [
+      "bectas"
+    ],
+    "A65693-e17400": [
+      "meleck-hamet",
+      "bectas",
+      "kara",
+      "kulcaiha"
+    ],
+    "A65693-e17440": [
+      "ibrahim"
+    ],
+    "A65693-e17500": [
+      "formiana"
+    ],
+    "A65693-e17580": [
+      "ibrahim"
+    ],
+    "A65693-e17620": [
+      "formiana"
+    ],
+    "A65693-e17660": [
+      "ibrahim"
+    ],
+    "A65693-e17790": [
+      "meleck-hamet"
+    ],
+    "A65693-e17860": [
+      "kara",
+      "kulcaiha"
+    ],
+    "A65693-e17900": [
+      "meleck-hamet"
+    ],
+    "A65693-e17930": [
+      "oglar"
+    ],
+    "A65693-e17980": [
+      "meleck-hamet",
+      "bectas",
+      "kara",
+      "kulcaiha"
+    ],
+    "A65693-e18020": [
+      "meleck-hamet"
+    ],
+    "A65693-e18060": [
+      "ibrahim"
+    ],
+    "A65693-e18120": [
+      "oglar"
+    ],
+    "A65693-e18200": [
+      "meleck-hamet"
+    ],
+    "A65693-e18310": [
+      "ibrahim"
+    ],
+    "A65693-e18380": [
+      "bectas"
+    ],
+    "A65693-e18420": [
+      "kulcaiha"
+    ],
+    "A65693-e18480": [
+      "meleck-hamet"
+    ],
+    "A65693-e18630": [
+      "ipsir"
+    ],
+    "A65693-e18670": [
+      "ibrahim"
+    ],
+    "A65693-e18720": [
+      "kuperli"
+    ],
+    "A65693-e18750": [
+      "ibrahim"
+    ],
+    "A65693-e18890": [
+      "solyman-aga"
+    ],
+    "A65693-e18940": [
+      "ipsir",
+      "kuperli",
+      "mufti",
+      "solyman-aga"
+    ],
+    "A65693-e18970": [
+      "mufti"
+    ],
+    "A65693-e19070": [
+      "ipsir"
+    ],
+    "A65693-e19180": [
+      "formiana"
+    ],
+    "A65693-e19270": [
+      "mufti"
+    ],
+    "A65693-e19360": [
+      "formiana"
+    ],
+    "A65693-e19440": [
+      "solyman-aga"
+    ],
+    "A65693-e19490": [
+      "formiana"
+    ],
+    "A65693-e19570": [
+      "ipsir"
+    ],
+    "A65693-e19610": [
+      "kuperli"
+    ],
+    "A65693-e19680": [
+      "formiana"
+    ],
+    "A65693-e20080": [
+      "formiana"
+    ],
+    "A65693-e20200": [
+      "oglar"
+    ],
+    "A65693-e20250": [
+      "mufti"
+    ],
+    "A65693-e20290": [
+      "oglar"
+    ],
+    "A65693-e20330": [
+      "formiana"
+    ],
+    "A65693-e20360": [
+      "solyman-aga"
+    ],
+    "A65693-e20410": [
+      "oglar"
+    ],
+    "A65693-e20450": [
+      "ipsir"
+    ],
+    "A65693-e20490": [
+      "kuperli"
+    ],
+    "A65693-e20530": [
+      "solyman-aga"
+    ],
+    "A65693-e20580": [
+      "formiana"
+    ],
+    "A65693-e20640": [
+      "oglar"
+    ],
+    "A65693-e20730": [
+      "mufti"
+    ],
+    "A65693-e20760": [
+      "oglar"
+    ],
+    "A65693-e20970": [
+      "formiana"
+    ],
+    "A65693-e21050": [
+      "mufti"
+    ],
+    "A65693-e21090": [
+      "solyman-aga"
+    ],
+    "A65693-e21130": [
+      "ipsir"
+    ],
+    "A65693-e21170": [
+      "formiana"
+    ],
+    "A65693-e21410": [
+      "bectas"
+    ],
+    "A65693-e21490": [
+      "kiosem"
+    ],
+    "A65693-e21550": [
+      "bectas"
+    ],
+    "A65693-e21590": [
+      "kiosem"
+    ],
+    "A65693-e21690": [
+      "bectas"
+    ],
+    "A65693-e21720": [
+      "kulcaiha"
+    ],
+    "A65693-e21760": [
+      "kara"
+    ],
+    "A65693-e21800": [
+      "bectas"
+    ],
+    "A65693-e21880": [
+      "mufti"
+    ],
+    "A65693-e22010": [
+      "bectas"
+    ],
+    "A65693-e22070": [
+      "mufti"
+    ],
+    "A65693-e22160": [
+      "bectas"
+    ],
+    "A65693-e22300": [
+      "meleck-hamet"
+    ],
+    "A65693-e22560": [
+      "flatra"
+    ],
+    "A65693-e22640": [
+      "lentesia"
+    ],
+    "A65693-e22670": [
+      "flatra"
+    ],
+    "A65693-e22730": [
+      "lentesia"
+    ],
+    "A65693-e22770": [
+      "flatra"
+    ],
+    "A65693-e22910": [
+      "meleck-hamet"
+    ],
+    "A65693-e22970": [
+      "flatra"
+    ],
+    "A65693-e23030": [
+      "meleck-hamet"
+    ],
+    "A65693-e23080": [
+      "flatra"
+    ],
+    "A65693-e23130": [
+      "meleck-hamet"
+    ],
+    "A65693-e23210": [
+      "flatra"
+    ],
+    "A65693-e23250": [
+      "meleck-hamet"
+    ],
+    "A65693-e23330": [
+      "bectas"
+    ],
+    "A65693-e23420": [
+      "meleck-hamet"
+    ],
+    "A65693-e23480": [
+      "flatra"
+    ],
+    "A65693-e23520": [
+      "meleck-hamet"
+    ],
+    "A65693-e23600": [
+      "flatra"
+    ],
+    "A65693-e23630": [
+      "meleck-hamet"
+    ],
+    "A65693-e23680": [
+      "bectas", 
+	  "kara", 
+	  "kulcaiha"
+    ],
+    "A65693-e23720": [
+      "meleck-hamet"
+    ],
+    "A65693-e23860": [
+      "kiosem"
+    ],
+    "A65693-e23890": [
+      "lentesia"
+    ],
+    "A65693-e23920": [
+      "kiosem"
+    ],
+    "A65693-e23950": [
+      "meleck-hamet"
+    ],
+    "A65693-e24000": [
+      "kiosem"
+    ],
+    "A65693-e24040": [
+      "meleck-hamet"
+    ],
+    "A65693-e24080": [
+      "flatra"
+    ],
+    "A65693-e24170": [
+      "kiosem"
+    ],
+    "A65693-e24210": [
+      "kara"
+    ],
+    "A65693-e24240": [
+      "meleck-hamet"
+    ],
+    "A65693-e24270": [
+      "bectas"
+    ],
+    "A65693-e24320": [
+      "meleck-hamet"
+    ],
+    "A65693-e24390": [
+      "kulcaiha"
+    ],
+    "A65693-e24430": [
+      "meleck-hamet"
+    ],
+    "A65693-e24620": [
+      "kiosem"
+    ],
+    "A65693-e24650": [
+      "bectas"
+    ],
+    "A65693-e24700": [
+      "kara"
+    ],
+    "A65693-e24750": [
+      "kiosem"
+    ],
+    "A65693-e24860": [
+      "kuperli"
+    ],
+    "A65693-e24900": [
+      "ipsir"
+    ],
+    "A65693-e24940": [
+      "solyman-aga"
+    ],
+    "A65693-e25020": [
+      "mufti"
+    ],
+    "A65693-e25120": [
+      "kiosem"
+    ],
+    "A65693-e25210": [
+      "formiana"
+    ],
+    "A65693-e25270": [
+      "kiosem"
+    ],
+    "A65693-e25310": [
+      "formiana"
+    ],
+    "A65693-e25370": [
+      "kiosem"
+    ],
+    "A65693-e25430": [
+      "formiana"
+    ],
+    "A65693-e25470": [
+      "kiosem"
+    ],
+    "A65693-e25590": [
+      "formiana"
+    ],
+    "A65693-e25670": [
+      "kiosem"
+    ],
+    "A65693-e25740": [
+      "formiana"
+    ],
+    "A65693-e25980": [
+      "mahomet"
+    ],
+    "A65693-e26270": [
+      "mufti", 
+	  "solyman-aga", 
+	  "ipsir", 
+	  "kuperli", 
+	  "bectas", 
+	  "kara", 
+	  "kulcaiha"
+    ],
+    "A65693-e26380": [
+      "kara"
+    ],
+    "A65693-e26430": [
+      "kulcaiha"
+    ],
+    "A65693-e26480": [
+      "bectas"
+    ],
+    "A65693-e26510": [
+      "kara"
+    ],
+    "A65693-e26550": [
+      "kulcaiha"
+    ],
+    "A65693-e26590": [
+      "bectas"
+    ],
+    "A65693-e26620": [
+      "kara"
+    ],
+    "A65693-e26650": [
+      "bectas"
+    ],
+    "A65693-e26690": [
+      "kulcaiha"
+    ],
+    "A65693-e26730": [
+      "bectas"
+    ],
+    "A65693-e26830": [
+      "kara"
+    ],
+    "A65693-e26890": [
+      "kuperli"
+    ],
+    "A65693-e27020": [
+      "bectas"
+    ],
+    "A65693-e27110": [
+      "ipsir"
+    ],
+    "A65693-e27170": [
+      "solyman-aga"
+    ],
+    "A65693-e27230": [
+      "ipsir"
+    ],
+    "A65693-e27270": [
+      "kuperli"
+    ],
+    "A65693-e27330": [
+      "ipsir"
+    ],
+    "A65693-e27410": [
+      "solyman-aga"
+    ],
+    "A65693-e27470": [
+      "kuperli"
+    ],
+    "A65693-e27550": [
+      "ipsir"
+    ],
+    "A65693-e27650": [
+      "bectas"
+    ],
+    "A65693-e27740": [
+      "kuperli"
+    ],
+    "A65693-e27800": [
+      "solyman-aga"
+    ],
+    "A65693-e27840": [
+      "kara"
+    ],
+    "A65693-e27880": [
+      "ipsir"
+    ],
+    "A65693-e27950": [
+      "kuperli"
+    ],
+    "A65693-e27990": [
+      "ipsir"
+    ],
+    "A65693-e28060": [
+      "bectas"
+    ],
+    "A65693-e28100": [
+      "kara"
+    ],
+    "A65693-e28140": [
+      "kulcaiha"
+    ],
+    "A65693-e28200": [
+      "bectas"
+    ],
+    "A65693-e28340": [
+      "ipsir"
+    ],
+    "A65693-e28440": [
+      "mufti"
+    ],
+    "A65693-e28470": [
+      "solyman-aga"
+    ],
+    "A65693-e28500": [
+      "ipsir"
+    ],
+    "A65693-e28540": [
+      "kuperli"
+    ],
+    "A65693-e28600": [
+      "mufti"
+    ],
+    "A65693-e28630": [
+      "ipsir"
+    ],
+    "A65693-e28660": [
+      "kuperli"
+    ],
+    "A65693-e28830": [
+      "ipsir"
+    ],
+    "A65693-e28870": [
+      "solyman-aga"
+    ],
+    "A65693-e28910": [
+      "mufti"
+    ],
+    "A65693-e29000": [
+      "kuperli"
+    ],
+    "A65693-e29130": [
+      "bectas"
+    ],
+    "A65693-e29170": [
+      "kuperli"
+    ],
+    "A65693-e29230": [
+      "bectas"
+    ],
+    "A65693-e29340": [
+      "kuperli"
+    ],
+    "A65693-e29450": [
+      "kuperli"
+    ],
+    "A65693-e29540": [
+      "bectas"
+    ],
+    "A65693-e29620": [
+      "kuperli"
+    ],
+    "A65693-e29690": [
+      "bectas"
+    ],
+    "A65693-e29780": [
+      "kulcaiha"
+    ],
+    "A65693-e29820": [
+      "bectas"
+    ],
+    "A65693-e29910": [
+      "kara"
+    ],
+    "A65693-e29940": [
+      "bectas"
+    ],
+    "A65693-e29970": [
+      "kulcaiha"
+    ],
+    "A65693-e30010": [
+      "bectas"
+    ],
+    "A65693-e30040": [
+      "kara"
+    ],
+    "A65693-e30070": [
+      "bectas"
+    ],
+    "A65693-e30150": [
+      "kulcaiha"
+    ],
+    "A65693-e30190": [
+      "kara"
+    ],
+    "A65693-e30250": [
+      "bectas"
+    ],
+    "A65693-e30290": [
+      "kulcaiha"
+    ],
+    "A65693-e30330": [
+      "bectas"
+    ],
+    "A65693-e30510": [
+      "kuperli"
+    ],
+    "A65693-e30640": [
+      "solyman-aga"
+    ],
+    "A65693-e30680": [
+      "ipsir"
+    ],
+    "A65693-e30710": [
+      "mufti"
+    ],
+    "A65693-e30750": [
+      "kuperli"
+    ],
+    "A65693-e30830": [
+      "ipsir"
+    ],
+    "A65693-e30870": [
+      "solyman-aga"
+    ],
+    "A65693-e30910": [
+      "mufti"
+    ],
+    "A65693-e30950": [
+      "kuperli"
+    ],
+    "A65693-e31050": [
+      "ipsir"
+    ],
+    "A65693-e31090": [
+      "solyman-aga"
+    ],
+    "A65693-e31170": [
+      "mufti"
+    ],
+    "A65693-e31230": [
+      "kuperli"
+    ],
+    "A65693-e31270": [
+      "mufti"
+    ],
+    "A65693-e31370": [
+      "solyman-aga"
+    ],
+    "A65693-e31450": [
+      "formiana"
+    ],
+    "A65693-e31510": [
+      "mahomet"
+    ],
+    "A65693-e31590": [
+      "formiana"
+    ],
+    "A65693-e31620": [
+      "mahomet"
+    ],
+    "A65693-e31700": [
+      "formiana"
+    ],
+    "A65693-e31740": [
+      "mahomet"
+    ],
+    "A65693-e31840": [
+      "formiana"
+    ],
+    "A65693-e31880": [
+      "mahomet"
+    ],
+    "A65693-e32050": [
+      "formiana"
+    ],
+    "A65693-e32090": [
+      "mahomet"
+    ],
+    "A65693-e32150": [
+      "formiana"
+    ],
+    "A65693-e32190": [
+      "mahomet"
+    ],
+    "A65693-e32230": [
+      "formiana"
+    ],
+    "A65693-e32310": [
+      "mahomet"
+    ],
+    "A65693-e32360": [
+      "formiana"
+    ],
+    "A65693-e32420": [
+      "mufti"
+    ],
+    "A65693-e32460": [
+      "ipsir"
+    ],
+    "A65693-e32500": [
+      "mahomet"
+    ],
+    "A65693-e32540": [
+      "kuperli"
+    ],
+    "A65693-e32600": [
+      "solyman-aga"
+    ],
+    "A65693-e32640": [
+      "formiana"
+    ],
+    "A65693-e32680": [
+      "mahomet"
+    ],
+    "A65693-e32720": [
+      "kuperli"
+    ],
+    "A65693-e32800": [
+      "mahomet"
+    ],
+    "A65693-e32840": [
+      "kuperli"
+    ],
+    "A65693-e32970": [
+      "formiana"
+    ],
+    "A65693-e33030": [
+      "mahomet"
+    ],
+    "A65693-e33070": [
+      "mufti"
+    ],
+    "A65693-e33100": [
+      "kuperli"
+    ],
+    "A65693-e33170": [
+      "mahomet"
+    ],
+    "A65693-e33250": [
+      "ipsir"
+    ],
+    "A65693-e33310": [
+      "mufti"
+    ],
+    "A65693-e33400": [
+      "formiana"
+    ],
+    "A65693-e33460": [
+      "mufti", 
+	  "solyman-aga", 
+	  "ipsir", 
+	  "kuperli"
+    ],
+    "A65693-e33490": [
+      "formiana"
+    ],
+    "A65693-e33580": [
+      "kiosem"
+    ],
+    "A65693-e33640": [
+      "bectas"
+    ],
+    "A65693-e33690": [
+      "kara"
+    ],
+    "A65693-e33730": [
+      "kulcaiha"
+    ],
+    "A65693-e33790": [
+      "bectas"
+    ],
+    "A65693-e33870": [
+      "lentesia"
+    ],
+    "A65693-e33940": [
+      "solyman-aga"
+    ],
+    "A65693-e33980": [
+      "kiosem"
+    ],
+    "A65693-e34040": [
+      "kuperli"
+    ],
+    "A65693-e34100": [
+      "bectas"
+    ],
+    "A65693-e34150": [
+      "ipsir"
+    ],
+    "A65693-e34190": [
+      "kulcaiha"
+    ],
+    "A65693-e34270": [
+      "kuperli"
+    ],
+    "A65693-e34310": [
+      "bectas"
+    ],
+    "A65693-e34350": [
+      "formiana"
+    ],
+    "A65693-e34390": [
+      "mufti"
+    ],
+    "A65693-e34430": [
+      "mahomet"
+    ],
+    "A65693-e34490": [
+      "kara",
+      "kulcaiha"
+    ],
+    "A65693-e34520": [
+      "bectas"
+    ],
+    "A65693-e34590": [
+      "mahomet"
+    ],
+    "A65693-e34660": [
+      "kiosem"
+    ],
+    "A65693-e34740": [
+      "mahomet"
+    ],
+    "A65693-e34780": [
+      "kiosem"
+    ],
+    "A65693-e34850": [
+      "mahomet"
+    ],
+    "A65693-e34890": [
+      "ipsir"
+    ],
+    "A65693-e34940": [
+      "mufti"
+    ],
+    "A65693-e34980": [
+      "moor"
+    ],
+    "A65693-e35070": [
+      "kiosem"
+    ],
+    "A65693-e35120": [
+      "moor"
+    ],
+    "A65693-e35170": [
+      "kuperli"
+    ],
+    "A65693-e35240": [
+      "formiana"
+    ],
+    "A65693-e35280": [
+      "mahomet"
+    ],
+    "A65693-e35380": [
+      "kiosem"
+    ],
+    "A65693-e35450": [
+      "mufti"
+    ],
+    "A65693-e35510": [
+      "lentesia"
+    ],
+    "A65693-e35550": [
+      "kiosem"
+    ],
+    "A65693-e35610": [
+      "ipsir"
+    ],
+    "A65693-e35650": [
+      "solyman-aga"
+    ],
+    "A65693-e35690": [
+      "kuperli"
+    ],
+    "A65693-e35780": [
+      "mahomet"
+    ],
+    "A65693-e35860": [
+      "formiana"
+    ],
+    "A65693-e35920": [
+      "mufti"
+    ]
+  }
+}

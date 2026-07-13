@@ -6,39 +6,57 @@
       "isGroup": false,
       "sex": "MALE"
     },
+	    {
+      "name": "Priests",
+      "id": "priests",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+	{
+      "name": "Captains",
+      "id": "captains",
+      "isGroup": true,
+      "sex": "MALE"
+    },
     {
       "name": "Angel",
       "id": "angel",
       "isGroup": false,
-      "sex": "UNKNOWN"
+      "sex": "FEMALE"
     },
     {
-      "name": "Soldier IV",
-      "id": "soldier-iv",
+      "name": "Jailer",
+      "id": "jailer",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Soldier III",
-      "id": "soldier-iii",
+      "name": "Soldier 4",
+      "id": "soldier-4",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Soldier II",
-      "id": "soldier-ii",
+      "name": "Soldier 3",
+      "id": "soldier-3",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Soldier I",
-      "id": "soldier-i",
+      "name": "Soldier 2",
+      "id": "soldier-2",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Priest",
-      "id": "priest",
+      "name": "Soldier 1",
+      "id": "soldier-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Master of Ceremonies",
+      "id": "master-of-ceremonies",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -49,14 +67,8 @@
       "sex": "MALE"
     },
     {
-      "name": "Chancellor",
+      "name": "Chancellor ",
       "id": "chancellor",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Master of Ceremonies",
-      "id": "master-of-ceremonies",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -109,15 +121,15 @@
       "sex": "FEMALE"
     },
     {
-      "id": "astrologer",
-      "name": "Astrologer",
+      "id": "priest",
+      "name": "Priest",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "id": "captains",
-      "name": "Captains",
-      "isGroup": true,
+      "id": "astrologer",
+      "name": "Astrologer",
+      "isGroup": false,
       "sex": "MALE"
     }
   ],
@@ -318,7 +330,7 @@
       "ragalzan"
     ],
     "A40875-e8370": [
-      "priest"
+      "priests"
     ],
     "A40875-e8480": [
       "irene"
@@ -339,7 +351,7 @@
       "axalla"
     ],
     "A40875-e8820": [
-      "priest"
+      "priests"
     ],
     "A40875-e8930": [
       "tamerlane"
@@ -351,31 +363,31 @@
       "tamerlane"
     ],
     "A40875-e9060": [
-      "priest"
+      "priests"
     ],
     "A40875-e9120": [
       "irene"
     ],
     "A40875-e9150": [
-      "priest"
+      "priests"
     ],
     "A40875-e9190": [
       "irene"
     ],
     "A40875-e9220": [
-      "priest"
+      "priests"
     ],
     "A40875-e9320": [
       "tamerlane"
     ],
     "A40875-e9360": [
-      "priest"
+      "priests"
     ],
     "A40875-e9410": [
       "tamerlane"
     ],
     "A40875-e9440": [
-      "priest"
+      "priests"
     ],
     "A40875-e9480": [
       "axalla"
@@ -387,19 +399,19 @@
       "irene"
     ],
     "A40875-e9570": [
-      "priest"
+      "priests"
     ],
     "A40875-e9640": [
       "tamerlane"
     ],
     "A40875-e9670": [
-      "priest"
+      "priests"
     ],
     "A40875-e9730": [
       "tamerlane"
     ],
     "A40875-e9760": [
-      "priest"
+      "priests"
     ],
     "A40875-e9800": [
       "irene"
@@ -408,7 +420,7 @@
       "tamerlane"
     ],
     "A40875-e9860": [
-      "priest"
+      "priests"
     ],
     "A40875-e9930": [
       "tamerlane"
@@ -444,19 +456,19 @@
       "tamerlane"
     ],
     "A40875-e10620": [
-      "soldier-i"
+      "soldier-1"
     ],
     "A40875-e10660": [
-      "soldier-ii"
+      "soldier-2"
     ],
     "A40875-e10690": [
-      "soldier-iii"
+      "soldier-3"
     ],
     "A40875-e10720": [
-      "soldier-iv"
+      "soldier-4"
     ],
     "A40875-e10760": [
-      "soldier-iii"
+      "soldier-3"
     ],
     "A40875-e10880": [
       "philarmia"
@@ -558,7 +570,7 @@
       "ragalzan"
     ],
     "A40875-e14270": [
-      "zeylan"
+      "jailer"
     ],
     "A40875-e14300": [
       "ragalzan"
@@ -570,7 +582,7 @@
       "ragalzan"
     ],
     "A40875-e14500": [
-      "zeylan"
+      "jailer"
     ],
     "A40875-e14530": [
       "ragalzan"
@@ -822,10 +834,10 @@
       "zeylan"
     ],
     "A40875-e21380": [
-      "soldier-i"
+      "soldier-1"
     ],
     "A40875-e21410": [
-      "soldier-ii"
+      "soldier-2"
     ],
     "A40875-e21440": [
       "zeylan"
@@ -1056,13 +1068,13 @@
       "tamerlane"
     ],
     "A40875-e27720": [
-      "soldier-i"
+      "soldier-1"
     ],
     "A40875-e27750": [
-      "soldier-ii"
+      "soldier-2"
     ],
     "A40875-e27780": [
-      "soldier-iii"
+      "soldier-3"
     ],
     "A40875-e27810": [
       "tamerlane"

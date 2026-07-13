@@ -1,0 +1,1601 @@
+{
+  "particDesc": [
+    {
+      "name": "Captain",
+      "id": "captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Romans",
+      "id": "romans",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": " Ismenes",
+      "id": "ismenes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Monima ",
+      "id": "monima",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Manius Aquilius",
+      "id": "manius-aquilius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mithridates ",
+      "id": "mithridates",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Semandra",
+      "id": "semandra",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Archilaus",
+      "id": "archilaus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "M. Wintershul",
+      "id": "m-wintershul",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ziphares",
+      "name": "Ziphares",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pharnaces",
+      "name": "Pharnaces",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pelopidas",
+      "name": "Pelopidas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "andravar",
+      "name": "Andravar",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "m-hart",
+      "name": "M. Hart",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "m-powell",
+      "name": "M. Powell",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A49930-e1050": [
+      "pharnaces"
+    ],
+    "A49930-e1260": [
+      "pelopidas"
+    ],
+    "A49930-e1290": [
+      "pharnaces"
+    ],
+    "A49930-e1430": [
+      "pelopidas"
+    ],
+    "A49930-e1460": [
+      "pharnaces"
+    ],
+    "A49930-e1580": [
+      "pelopidas"
+    ],
+    "A49930-e1610": [
+      "pharnaces"
+    ],
+    "A49930-e1730": [
+      "pelopidas"
+    ],
+    "A49930-e1850": [
+      "pharnaces"
+    ],
+    "A49930-e2010": [
+      "pelopidas"
+    ],
+    "A49930-e2080": [
+      "pharnaces"
+    ],
+    "A49930-e2110": [
+      "pelopidas"
+    ],
+    "A49930-e2160": [
+      "pharnaces"
+    ],
+    "A49930-e2190": [
+      "pelopidas"
+    ],
+    "A49930-e2320": [
+      "pharnaces"
+    ],
+    "A49930-e2500": [
+      "pelopidas"
+    ],
+    "A49930-e2640": [
+      "pharnaces"
+    ],
+    "A49930-e2780": [
+      "andravar"
+    ],
+    "A49930-e2810": [
+      "pharnaces"
+    ],
+    "A49930-e2850": [
+      "andravar"
+    ],
+    "A49930-e2980": [
+      "pharnaces"
+    ],
+    "A49930-e3010": [
+      "andravar"
+    ],
+    "A49930-e3180": [
+      "pharnaces"
+    ],
+    "A49930-e3210": [
+      "andravar"
+    ],
+    "A49930-e3410": [
+      "pharnaces"
+    ],
+    "A49930-e3480": [
+      "ziphares"
+    ],
+    "A49930-e3640": [
+      "archilaus"
+    ],
+    "A49930-e3700": [
+      "semandra"
+    ],
+    "A49930-e3740": [
+      "ziphares"
+    ],
+    "A49930-e3850": [
+      "semandra"
+    ],
+    "A49930-e3940": [
+      "ziphares"
+    ],
+    "A49930-e4000": [
+      "semandra"
+    ],
+    "A49930-e4160": [
+      "ziphares"
+    ],
+    "A49930-e4260": [
+      "semandra"
+    ],
+    "A49930-e4320": [
+      "ziphares"
+    ],
+    "A49930-e4420": [
+      "archilaus"
+    ],
+    "A49930-e4560": [
+      "mithridates"
+    ],
+    "A49930-e4760": [
+      "manius-aquilius"
+    ],
+    "A49930-e4910": [
+      "mithridates"
+    ],
+    "A49930-e5030": [
+      "manius-aquilius"
+    ],
+    "A49930-e5060": [
+      "mithridates"
+    ],
+    "A49930-e5210": [
+      "monima"
+    ],
+    "A49930-e5240": [
+      "mithridates"
+    ],
+    "A49930-e5330": [
+      "manius-aquilius"
+    ],
+    "A49930-e5570": [
+      "mithridates"
+    ],
+    "A49930-e5700": [
+      "mithridates"
+    ],
+    "A49930-e5870": [
+      "monima"
+    ],
+    "A49930-e5970": [
+      "mithridates"
+    ],
+    "A49930-e6020": [
+      "monima"
+    ],
+    "A49930-e6130": [
+      "mithridates"
+    ],
+    "A49930-e6200": [
+      "andravar"
+    ],
+    "A49930-e6230": [
+      "pharnaces"
+    ],
+    "A49930-e6280": [
+      "ziphares"
+    ],
+    "A49930-e6460": [
+      "mithridates"
+    ],
+    "A49930-e6520": [
+      "ziphares"
+    ],
+    "A49930-e6560": [
+      "mithridates"
+    ],
+    "A49930-e6660": [
+      "ziphares"
+    ],
+    "A49930-e6860": [
+      "mithridates"
+    ],
+    "A49930-e6940": [
+      "ziphares"
+    ],
+    "A49930-e6970": [
+      "mithridates"
+    ],
+    "A49930-e7140": [
+      "ziphares"
+    ],
+    "A49930-e7230": [
+      "mithridates"
+    ],
+    "A49930-e7260": [
+      "ziphares"
+    ],
+    "A49930-e7340": [
+      "semandra"
+    ],
+    "A49930-e7460": [
+      "mithridates"
+    ],
+    "A49930-e7490": [
+      "ziphares"
+    ],
+    "A49930-e7630": [
+      "mithridates"
+    ],
+    "A49930-e7660": [
+      "pharnaces"
+    ],
+    "A49930-e7690": [
+      "pelopidas"
+    ],
+    "A49930-e7730": [
+      "archilaus"
+    ],
+    "A49930-e7760": [
+      "ziphares"
+    ],
+    "A49930-e7840": [
+      "mithridates"
+    ],
+    "A49930-e7930": [
+      "ziphares"
+    ],
+    "A49930-e7960": [
+      "mithridates"
+    ],
+    "A49930-e8010": [
+      "ziphares"
+    ],
+    "A49930-e8040": [
+      "mithridates"
+    ],
+    "A49930-e8170": [
+      "monima"
+    ],
+    "A49930-e8210": [
+      "mithridates"
+    ],
+    "A49930-e8260": [
+      "ziphares"
+    ],
+    "A49930-e8300": [
+      "archilaus"
+    ],
+    "A49930-e8350": [
+      "mithridates"
+    ],
+    "A49930-e8380": [
+      "archilaus"
+    ],
+    "A49930-e8410": [
+      "mithridates"
+    ],
+    "A49930-e8500": [
+      "ziphares"
+    ],
+    "A49930-e8630": [
+      "mithridates"
+    ],
+    "A49930-e8720": [
+      "semandra"
+    ],
+    "A49930-e8760": [
+      "mithridates"
+    ],
+    "A49930-e8880": [
+      "archilaus"
+    ],
+    "A49930-e9020": [
+      "ziphares"
+    ],
+    "A49930-e9120": [
+      "archilaus"
+    ],
+    "A49930-e9200": [
+      "ziphares"
+    ],
+    "A49930-e9260": [
+      "archilaus"
+    ],
+    "A49930-e9350": [
+      "ziphares"
+    ],
+    "A49930-e9450": [
+      "archilaus"
+    ],
+    "A49930-e9500": [
+      "ziphares"
+    ],
+    "A49930-e9560": [
+      "archilaus"
+    ],
+    "A49930-e9600": [
+      "ziphares"
+    ],
+    "A49930-e9770": [
+      "pharnaces"
+    ],
+    "A49930-e9920": [
+      "pelopidas"
+    ],
+    "A49930-e9970": [
+      "pharnaces"
+    ],
+    "A49930-e10160": [
+      "pelopidas"
+    ],
+    "A49930-e10250": [
+      "pharnaces"
+    ],
+    "A49930-e10400": [
+      "pelopidas"
+    ],
+    "A49930-e10440": [
+      "pharnaces"
+    ],
+    "A49930-e10500": [
+      "pelopidas"
+    ],
+    "A49930-e10560": [
+      "pharnaces"
+    ],
+    "A49930-e10670": [
+      "pelopidas"
+    ],
+    "A49930-e10760": [
+      "pharnaces"
+    ],
+    "A49930-e10790": [
+      "pelopidas"
+    ],
+    "A49930-e10930": [
+      "pharnaces"
+    ],
+    "A49930-e10960": [
+      "pelopidas"
+    ],
+    "A49930-e11020": [
+      "pharnaces"
+    ],
+    "A49930-e11120": [
+      "andravar"
+    ],
+    "A49930-e11380": [
+      "mithridates"
+    ],
+    "A49930-e11490": [
+      "pharnaces"
+    ],
+    "A49930-e11540": [
+      "mithridates"
+    ],
+    "A49930-e11630": [
+      "monima"
+    ],
+    "A49930-e11690": [
+      "mithridates"
+    ],
+    "A49930-e11720": [
+      "monima"
+    ],
+    "A49930-e11830": [
+      "mithridates"
+    ],
+    "A49930-e11880": [
+      "monima"
+    ],
+    "A49930-e11920": [
+      "mithridates"
+    ],
+    "A49930-e11980": [
+      "monima"
+    ],
+    "A49930-e12040": [
+      "andravar"
+    ],
+    "A49930-e12090": [
+      "mithridates"
+    ],
+    "A49930-e12160": [
+      "monima"
+    ],
+    "A49930-e12360": [
+      "mithridates"
+    ],
+    "A49930-e12610": [
+      "semandra"
+    ],
+    "A49930-e12710": [
+      "mithridates"
+    ],
+    "A49930-e12740": [
+      "semandra"
+    ],
+    "A49930-e12840": [
+      "mithridates"
+    ],
+    "A49930-e12870": [
+      "semandra"
+    ],
+    "A49930-e12970": [
+      "mithridates"
+    ],
+    "A49930-e13080": [
+      "semandra"
+    ],
+    "A49930-e13110": [
+      "mithridates"
+    ],
+    "A49930-e13210": [
+      "semandra"
+    ],
+    "A49930-e13340": [
+      "mithridates"
+    ],
+    "A49930-e13500": [
+      "semandra"
+    ],
+    "A49930-e13660": [
+      "mithridates"
+    ],
+    "A49930-e13700": [
+      "semandra"
+    ],
+    "A49930-e13880": [
+      "mithridates"
+    ],
+    "A49930-e14050": [
+      "ziphares"
+    ],
+    "A49930-e14190": [
+      "mithridates"
+    ],
+    "A49930-e14220": [
+      "archilaus"
+    ],
+    "A49930-e14280": [
+      "ziphares"
+    ],
+    "A49930-e14400": [
+      "semandra"
+    ],
+    "A49930-e14460": [
+      "mithridates"
+    ],
+    "A49930-e14620": [
+      "archilaus"
+    ],
+    "A49930-e14670": [
+      "ziphares"
+    ],
+    "A49930-e14790": [
+      "mithridates"
+    ],
+    "A49930-e14920": [
+      "ziphares"
+    ],
+    "A49930-e15020": [
+      "semandra"
+    ],
+    "A49930-e15090": [
+      "mithridates"
+    ],
+    "A49930-e15180": [
+      "ziphares"
+    ],
+    "A49930-e15250": [
+      "mithridates"
+    ],
+    "A49930-e15440": [
+      "ziphares"
+    ],
+    "A49930-e15590": [
+      "semandra"
+    ],
+    "A49930-e15690": [
+      "archilaus"
+    ],
+    "A49930-e15720": [
+      "semandra"
+    ],
+    "A49930-e15840": [
+      "archilaus"
+    ],
+    "A49930-e15890": [
+      "ziphares"
+    ],
+    "A49930-e16020": [
+      "archilaus"
+    ],
+    "A49930-e16050": [
+      "semandra"
+    ],
+    "A49930-e16100": [
+      "archilaus"
+    ],
+    "A49930-e16130": [
+      "ziphares"
+    ],
+    "A49930-e16360": [
+      "ziphares"
+    ],
+    "A49930-e16680": [
+      "archilaus"
+    ],
+    "A49930-e16780": [
+      "ziphares"
+    ],
+    "A49930-e16910": [
+      "archilaus"
+    ],
+    "A49930-e17040": [
+      "ziphares"
+    ],
+    "A49930-e17190": [
+      "archilaus"
+    ],
+    "A49930-e17230": [
+      "ziphares"
+    ],
+    "A49930-e17320": [
+      "archilaus"
+    ],
+    "A49930-e17350": [
+      "ziphares"
+    ],
+    "A49930-e17530": [
+      "andravar"
+    ],
+    "A49930-e17570": [
+      "pharnaces"
+    ],
+    "A49930-e17730": [
+      "andravar"
+    ],
+    "A49930-e17770": [
+      "pharnaces"
+    ],
+    "A49930-e17920": [
+      "mithridates"
+    ],
+    "A49930-e17950": [
+      "pelopidas"
+    ],
+    "A49930-e18060": [
+      "mithridates"
+    ],
+    "A49930-e18110": [
+      "pelopidas"
+    ],
+    "A49930-e18200": [
+      "mithridates"
+    ],
+    "A49930-e18260": [
+      "pelopidas"
+    ],
+    "A49930-e18330": [
+      "mithridates"
+    ],
+    "A49930-e18380": [
+      "pelopidas"
+    ],
+    "A49930-e18550": [
+      "mithridates"
+    ],
+    "A49930-e18720": [
+      "pelopidas"
+    ],
+    "A49930-e18750": [
+      "mithridates"
+    ],
+    "A49930-e18800": [
+      "pelopidas"
+    ],
+    "A49930-e18870": [
+      "mithridates"
+    ],
+    "A49930-e18900": [
+      "pelopidas"
+    ],
+    "A49930-e18980": [
+      "mithridates"
+    ],
+    "A49930-e19030": [
+      "pelopidas"
+    ],
+    "A49930-e19080": [
+      "mithridates"
+    ],
+    "A49930-e19130": [
+      "pharnaces"
+    ],
+    "A49930-e19220": [
+      "andravar"
+    ],
+    "A49930-e19300": [
+      "pharnaces"
+    ],
+    "A49930-e19420": [
+      "andravar"
+    ],
+    "A49930-e19490": [
+      "pelopidas"
+    ],
+    "A49930-e19620": [
+      "mithridates"
+    ],
+    "A49930-e19800": [
+      "pharnaces"
+    ],
+    "A49930-e19830": [
+      "pelopidas"
+    ],
+    "A49930-e19880": [
+      "mithridates"
+    ],
+    "A49930-e20000": [
+      "pelopidas"
+    ],
+    "A49930-e20090": [
+      "pharnaces"
+    ],
+    "A49930-e20240": [
+      "andravar"
+    ],
+    "A49930-e20330": [
+      "mithridates"
+    ],
+    "A49930-e20400": [
+      "pharnaces"
+    ],
+    "A49930-e20580": [
+      "mithridates"
+    ],
+    "A49930-e20750": [
+      "pharnaces"
+    ],
+    "A49930-e20790": [
+      "mithridates"
+    ],
+    "A49930-e20890": [
+      "andravar"
+    ],
+    "A49930-e20950": [
+      "mithridates"
+    ],
+    "A49930-e21000": [
+      "andravar"
+    ],
+    "A49930-e21120": [
+      "mithridates"
+    ],
+    "A49930-e21210": [
+      "andravar"
+    ],
+    "A49930-e21290": [
+      "mithridates"
+    ],
+    "A49930-e21400": [
+      "pelopidas"
+    ],
+    "A49930-e21540": [
+      "mithridates"
+    ],
+    "A49930-e21630": [
+      "pelopidas"
+    ],
+    "A49930-e21820": [
+      "mithridates"
+    ],
+    "A49930-e22040": [
+      "pelopidas"
+    ],
+    "A49930-e22070": [
+      "pharnaces"
+    ],
+    "A49930-e22220": [
+      "ziphares"
+    ],
+    "A49930-e22370": [
+      "chorus"
+    ],
+    "A49930-e22420": [
+      "pharnaces"
+    ],
+    "A49930-e22500": [
+      "ziphares"
+    ],
+    "A49930-e22550": [
+      "pelopidas"
+    ],
+    "A49930-e22620": [
+      "andravar"
+    ],
+    "A49930-e22680": [
+      "ziphares"
+    ],
+    "A49930-e22760": [
+      "pharnaces"
+    ],
+    "A49930-e22790": [
+      "ziphares"
+    ],
+    "A49930-e22880": [
+      "pharnaces"
+    ],
+    "A49930-e22910": [
+      "ziphares"
+    ],
+    "A49930-e23020": [
+      "pharnaces"
+    ],
+    "A49930-e23210": [
+      "mithridates"
+    ],
+    "A49930-e23330": [
+      "semandra"
+    ],
+    "A49930-e23430": [
+      "mithridates"
+    ],
+    "A49930-e23510": [
+      "semandra"
+    ],
+    "A49930-e23560": [
+      "mithridates"
+    ],
+    "A49930-e23670": [
+      "semandra"
+    ],
+    "A49930-e23730": [
+      "mithridates"
+    ],
+    "A49930-e23840": [
+      "semandra"
+    ],
+    "A49930-e23870": [
+      "mithridates"
+    ],
+    "A49930-e24000": [
+      "semandra"
+    ],
+    "A49930-e24090": [
+      "mithridates"
+    ],
+    "A49930-e24120": [
+      "semandra"
+    ],
+    "A49930-e24230": [
+      "mithridates"
+    ],
+    "A49930-e24280": [
+      "semandra"
+    ],
+    "A49930-e24330": [
+      "mithridates"
+    ],
+    "A49930-e24380": [
+      "semandra"
+    ],
+    "A49930-e24440": [
+      "mithridates"
+    ],
+    "A49930-e24470": [
+      "semandra"
+    ],
+    "A49930-e24580": [
+      "semandra"
+    ],
+    "A49930-e24620": [
+      "mithridates"
+    ],
+    "A49930-e24660": [
+      "semandra"
+    ],
+    "A49930-e24720": [
+      "mithridates"
+    ],
+    "A49930-e24790": [
+      "ziphares"
+    ],
+    "A49930-e24840": [
+      "mithridates"
+    ],
+    "A49930-e24910": [
+      "ziphares"
+    ],
+    "A49930-e25020": [
+      "mithridates"
+    ],
+    "A49930-e25080": [
+      "ziphares"
+    ],
+    "A49930-e25140": [
+      "mithridates"
+    ],
+    "A49930-e25270": [
+      "ziphares"
+    ],
+    "A49930-e25600": [
+      "semandra"
+    ],
+    "A49930-e25750": [
+      "semandra"
+    ],
+    "A49930-e25790": [
+      "ziphares"
+    ],
+    "A49930-e25840": [
+      "semandra"
+    ],
+    "A49930-e25870": [
+      "ziphares"
+    ],
+    "A49930-e26020": [
+      "semandra"
+    ],
+    "A49930-e26120": [
+      "ziphares"
+    ],
+    "A49930-e26200": [
+      "semandra"
+    ],
+    "A49930-e26310": [
+      "ziphares"
+    ],
+    "A49930-e26420": [
+      "semandra"
+    ],
+    "A49930-e26470": [
+      "ziphares"
+    ],
+    "A49930-e26590": [
+      "semandra"
+    ],
+    "A49930-e26630": [
+      "ziphares"
+    ],
+    "A49930-e26660": [
+      "semandra"
+    ],
+    "A49930-e26730": [
+      "ziphares"
+    ],
+    "A49930-e26850": [
+      "semandra"
+    ],
+    "A49930-e26880": [
+      "ziphares"
+    ],
+    "A49930-e27010": [
+      "semandra"
+    ],
+    "A49930-e27060": [
+      "ziphares"
+    ],
+    "A49930-e27100": [
+      "semandra"
+    ],
+    "A49930-e27140": [
+      "ziphares"
+    ],
+    "A49930-e27240": [
+      "semandra"
+    ],
+    "A49930-e27290": [
+      "ziphares"
+    ],
+    "A49930-e27510": [
+      "semandra"
+    ],
+    "A49930-e27590": [
+      "mithridates"
+    ],
+    "A49930-e27630": [
+      "semandra"
+    ],
+    "A49930-e27670": [
+      "mithridates"
+    ],
+    "A49930-e27700": [
+      "semandra"
+    ],
+    "A49930-e27730": [
+      "mithridates"
+    ],
+    "A49930-e27760": [
+      "semandra"
+    ],
+    "A49930-e27850": [
+      "mithridates"
+    ],
+    "A49930-e27950": [
+      "semandra"
+    ],
+    "A49930-e27980": [
+      "mithridates"
+    ],
+    "A49930-e28010": [
+      "semandra"
+    ],
+    "A49930-e28090": [
+      "mithridates"
+    ],
+    "A49930-e28140": [
+      "semandra"
+    ],
+    "A49930-e28170": [
+      "mithridates"
+    ],
+    "A49930-e28220": [
+      "semandra"
+    ],
+    "A49930-e28300": [
+      "mithridates"
+    ],
+    "A49930-e28360": [
+      "semandra"
+    ],
+    "A49930-e28600": [
+      "pelopidas"
+    ],
+    "A49930-e28630": [
+      "mithridates"
+    ],
+    "A49930-e28800": [
+      "pelopidas"
+    ],
+    "A49930-e28830": [
+      "mithridates"
+    ],
+    "A49930-e29010": [
+      "pelopidas"
+    ],
+    "A49930-e29050": [
+      "mithridates"
+    ],
+    "A49930-e29190": [
+      "andravar"
+    ],
+    "A49930-e29230": [
+      "mithridates"
+    ],
+    "A49930-e29500": [
+      "pharnaces"
+    ],
+    "A49930-e29780": [
+      "mithridates"
+    ],
+    "A49930-e30000": [
+      "pharnaces"
+    ],
+    "A49930-e30040": [
+      "mithridates"
+    ],
+    "A49930-e30240": [
+      "pelopidas"
+    ],
+    "A49930-e30280": [
+      "andravar"
+    ],
+    "A49930-e30310": [
+      "mithridates"
+    ],
+    "A49930-e30480": [
+      "pharnaces"
+    ],
+    "A49930-e30530": [
+      "pelopidas"
+    ],
+    "A49930-e30590": [
+      "mithridates"
+    ],
+    "A49930-e30720": [
+      "andravar"
+    ],
+    "A49930-e30790": [
+      "pelopidas"
+    ],
+    "A49930-e30930": [
+      "mithridates"
+    ],
+    "A49930-e31140": [
+      "pelopidas"
+    ],
+    "A49930-e31170": [
+      "mithridates"
+    ],
+    "A49930-e31260": [
+      "andravar"
+    ],
+    "A49930-e31320": [
+      "mithridates"
+    ],
+    "A49930-e31440": [
+      "semandra"
+    ],
+    "A49930-e31580": [
+      "mithridates"
+    ],
+    "A49930-e31620": [
+      "semandra"
+    ],
+    "A49930-e31760": [
+      "mithridates"
+    ],
+    "A49930-e31790": [
+      "semandra"
+    ],
+    "A49930-e32060": [
+      "mithridates"
+    ],
+    "A49930-e32240": [
+      "pharnaces"
+    ],
+    "A49930-e32480": [
+      "pelopidas"
+    ],
+    "A49930-e32660": [
+      "pharnaces"
+    ],
+    "A49930-e32770": [
+      "andravar"
+    ],
+    "A49930-e32880": [
+      "pharnaces"
+    ],
+    "A49930-e32940": [
+      "pelopidas"
+    ],
+    "A49930-e32990": [
+      "pharnaces"
+    ],
+    "A49930-e33060": [
+      "pelopidas"
+    ],
+    "A49930-e33150": [
+      "ziphares"
+    ],
+    "A49930-e33750": [
+      "archilaus"
+    ],
+    "A49930-e33810": [
+      "semandra"
+    ],
+    "A49930-e33840": [
+      "archilaus"
+    ],
+    "A49930-e33920": [
+      "semandra"
+    ],
+    "A49930-e33950": [
+      "archilaus"
+    ],
+    "A49930-e34040": [
+      "ziphares"
+    ],
+    "A49930-e34080": [
+      "archilaus"
+    ],
+    "A49930-e34120": [
+      "ziphares"
+    ],
+    "A49930-e34160": [
+      "archilaus"
+    ],
+    "A49930-e34260": [
+      "ziphares"
+    ],
+    "A49930-e34340": [
+      "archilaus"
+    ],
+    "A49930-e34400": [
+      "ziphares"
+    ],
+    "A49930-e34440": [
+      "archilaus"
+    ],
+    "A49930-e34470": [
+      "ziphares"
+    ],
+    "A49930-e34560": [
+      "archilaus"
+    ],
+    "A49930-e34620": [
+      "ziphares"
+    ],
+    "A49930-e34710": [
+      "archilaus"
+    ],
+    "A49930-e34790": [
+      "ziphares"
+    ],
+    "A49930-e34820": [
+      "archilaus"
+    ],
+    "A49930-e34850": [
+      "ziphares"
+    ],
+    "A49930-e34890": [
+      "archilaus"
+    ],
+    "A49930-e34920": [
+      "ziphares"
+    ],
+    "A49930-e34970": [
+      "archilaus"
+    ],
+    "A49930-e35000": [
+      "ziphares"
+    ],
+    "A49930-e35060": [
+      "archilaus"
+    ],
+    "A49930-e35090": [
+      "ziphares"
+    ],
+    "A49930-e35130": [
+      "archilaus"
+    ],
+    "A49930-e35180": [
+      "ziphares"
+    ],
+    "A49930-e35290": [
+      "archilaus"
+    ],
+    "A49930-e35360": [
+      "ziphares"
+    ],
+    "A49930-e35400": [
+      "archilaus"
+    ],
+    "A49930-e35440": [
+      "ziphares"
+    ],
+    "A49930-e35560": [
+      "archilaus"
+    ],
+    "A49930-e35590": [
+      "ziphares"
+    ],
+    "A49930-e35720": [
+      "archilaus"
+    ],
+    "A49930-e35760": [
+      "ziphares"
+    ],
+    "A49930-e35870": [
+      "archilaus"
+    ],
+    "A49930-e35950": [
+      "ziphares"
+    ],
+    "A49930-e36090": [
+      "semandra"
+    ],
+    "A49930-e36130": [
+      "ziphares"
+    ],
+    "A49930-e36160": [
+      "semandra"
+    ],
+    "A49930-e36190": [
+      "ziphares"
+    ],
+    "A49930-e36250": [
+      "semandra"
+    ],
+    "A49930-e36290": [
+      "ziphares"
+    ],
+    "A49930-e36360": [
+      "semandra"
+    ],
+    "A49930-e36440": [
+      "archilaus"
+    ],
+    "A49930-e36490": [
+      "ziphares"
+    ],
+    "A49930-e36550": [
+      "archilaus"
+    ],
+    "A49930-e36600": [
+      "semandra"
+    ],
+    "A49930-e36640": [
+      "ziphares"
+    ],
+    "A49930-e36760": [
+      "archilaus"
+    ],
+    "A49930-e36850": [
+      "ziphares"
+    ],
+    "A49930-e36890": [
+      "archilaus"
+    ],
+    "A49930-e36930": [
+      "ziphares"
+    ],
+    "A49930-e37000": [
+      "semandra"
+    ],
+    "A49930-e37110": [
+      "ziphares"
+    ],
+    "A49930-e37240": [
+      "archilaus"
+    ],
+    "A49930-e37280": [
+      "semandra"
+    ],
+    "A49930-e37350": [
+      "ziphares"
+    ],
+    "A49930-e37420": [
+      "semandra"
+    ],
+    "A49930-e37530": [
+      "archilaus"
+    ],
+    "A49930-e37560": [
+      "semandra"
+    ],
+    "A49930-e37640": [
+      "ziphares"
+    ],
+    "A49930-e37700": [
+      "semandra"
+    ],
+    "A49930-e37810": [
+      "ziphares"
+    ],
+    "A49930-e37850": [
+      "semandra"
+    ],
+    "A49930-e37880": [
+      "ziphares"
+    ],
+    "A49930-e37940": [
+      "semandra"
+    ],
+    "A49930-e37970": [
+      "ziphares"
+    ],
+    "A49930-e38000": [
+      "semandra"
+    ],
+    "A49930-e38040": [
+      "ziphares"
+    ],
+    "A49930-e38110": [
+      "archilaus"
+    ],
+    "A49930-e38160": [
+      "ziphares"
+    ],
+    "A49930-e38270": [
+      "semandra"
+    ],
+    "A49930-e38300": [
+      "ziphares"
+    ],
+    "A49930-e38380": [
+      "semandra"
+    ],
+    "A49930-e38440": [
+      "ziphares"
+    ],
+    "A49930-e38680": [
+      "pelopidas"
+    ],
+    "A49930-e38810": [
+      "andravar"
+    ],
+    "A49930-e38940": [
+      "pharnaces"
+    ],
+    "A49930-e39350": [
+      "romans"
+    ],
+    "A49930-e39390": [
+      "pelopidas",
+      "andravar",
+      "romans"
+    ],
+    "A49930-e39420": [
+      "pharnaces"
+    ],
+    "A49930-e39790": [
+      "ziphares"
+    ],
+    "A49930-e39870": [
+      "archilaus"
+    ],
+    "A49930-e40000": [
+      "ziphares"
+    ],
+    "A49930-e40100": [
+      "archilaus"
+    ],
+    "A49930-e40240": [
+      "ziphares"
+    ],
+    "A49930-e40280": [
+      "archilaus"
+    ],
+    "A49930-e40490": [
+      "ziphares"
+    ],
+    "A49930-e40550": [
+      "archilaus"
+    ],
+    "A49930-e40640": [
+      "ziphares"
+    ],
+    "A49930-e40680": [
+      "archilaus"
+    ],
+    "A49930-e40780": [
+      "ziphares"
+    ],
+    "A49930-e40920": [
+      "archilaus"
+    ],
+    "A49930-e41020": [
+      "ziphares"
+    ],
+    "A49930-e41160": [
+      "archilaus"
+    ],
+    "A49930-e41190": [
+      "ziphares"
+    ],
+    "A49930-e41270": [
+      "archilaus"
+    ],
+    "A49930-e41300": [
+      "ziphares"
+    ],
+    "A49930-e41470": [
+      "archilaus"
+    ],
+    "A49930-e41550": [
+      "ziphares"
+    ],
+    "A49930-e41580": [
+      "archilaus"
+    ],
+    "A49930-e41620": [
+      "ziphares"
+    ],
+    "A49930-e41760": [
+      "archilaus"
+    ],
+    "A49930-e41800": [
+      "ziphares"
+    ],
+    "A49930-e41870": [
+      "archilaus"
+    ],
+    "A49930-e41920": [
+      "ziphares"
+    ],
+    "A49930-e42020": [
+      "archilaus"
+    ],
+    "A49930-e42060": [
+      "ziphares"
+    ],
+    "A49930-e42200": [
+      "mithridates"
+    ],
+    "A49930-e42420": [
+      "captain"
+    ],
+    "A49930-e42560": [
+      "mithridates"
+    ],
+    "A49930-e42750": [
+      "semandra"
+    ],
+    "A49930-e42830": [
+      "mithridates"
+    ],
+    "A49930-e42870": [
+      "semandra"
+    ],
+    "A49930-e43070": [
+      "mithridates"
+    ],
+    "A49930-e43260": [
+      "pelopidas"
+    ],
+    "A49930-e43320": [
+      "andravar"
+    ],
+    "A49930-e43380": [
+      "pelopidas"
+    ],
+    "A49930-e43520": [
+      "ziphares"
+    ],
+    "A49930-e43680": [
+      "pelopidas"
+    ],
+    "A49930-e43710": [
+      "andravar"
+    ],
+    "A49930-e43740": [
+      "ziphares"
+    ],
+    "A49930-e43880": [
+      "semandra"
+    ],
+    "A49930-e44080": [
+      "ziphares"
+    ],
+    "A49930-e44120": [
+      "semandra"
+    ],
+    "A49930-e44180": [
+      "ziphares"
+    ],
+    "A49930-e44230": [
+      "semandra"
+    ],
+    "A49930-e44270": [
+      "ziphares"
+    ],
+    "A49930-e44400": [
+      "archilaus"
+    ],
+    "A49930-e44430": [
+      "ziphares"
+    ],
+    "A49930-e44480": [
+      "semandra"
+    ],
+    "A49930-e44570": [
+      "ziphares"
+    ],
+    "A49930-e44640": [
+      "archilaus"
+    ],
+    "A49930-e44680": [
+      "ziphares"
+    ],
+    "A49930-e44820": [
+      "semandra"
+    ],
+    "A49930-e44860": [
+      "ziphares"
+    ],
+    "A49930-e45000": [
+      "semandra"
+    ],
+    "A49930-e45040": [
+      "ziphares"
+    ],
+    "A49930-e45110": [
+      "semandra"
+    ],
+    "A49930-e45170": [
+      "ziphares"
+    ],
+    "A49930-e45360": [
+      "archilaus"
+    ],
+    "A49930-e45450": [
+      "mithridates"
+    ],
+    "A49930-e45530": [
+      "archilaus"
+    ],
+    "A49930-e45580": [
+      "mithridates"
+    ],
+    "A49930-e45630": [
+      "archilaus"
+    ],
+    "A49930-e45660": [
+      "mithridates"
+    ],
+    "A49930-e45750": [
+      "archilaus"
+    ],
+    "A49930-e45780": [
+      "mithridates"
+    ],
+    "A49930-e45940": [
+      "archilaus"
+    ],
+    "A49930-e46000": [
+      "mithridates"
+    ],
+    "A49930-e46070": [
+      "pharnaces"
+    ],
+    "A49930-e46190": [
+      "mithridates"
+    ]
+  }
+}

@@ -1,0 +1,2952 @@
+{
+  "particDesc": [
+    {
+      "name": "Chorus of Nymphs",
+      "id": "chorus-of-nymphs",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Chorus of Priests",
+      "id": "chorus-of-priests",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "silvio",
+      "name": "Silvio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "linco",
+      "name": "Linco",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mirtillo",
+      "name": "Mirtillo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ergasto",
+      "name": "Ergasto",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "corisca",
+      "name": "Corisca",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "montano",
+      "name": "Montano",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "titiro",
+      "name": "Titiro",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dameta",
+      "name": "Dameta",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "satyr",
+      "name": "Satyr",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dorinda",
+      "name": "Dorinda",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lupino",
+      "name": "Lupino",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "amarillis",
+      "name": "Amarillis",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "nicandro",
+      "name": "Nicandro",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "coridon",
+      "name": "Coridon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "carino",
+      "name": "Carino",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "uranio",
+      "name": "Uranio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "messenger",
+      "name": "Messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "tirenio",
+      "name": "Tirenio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "chorus-of-shepherds",
+      "name": "Chorus of Shepherds",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "id": "chorus-of-huntsmen",
+      "name": "Chorus of Huntsmen",
+      "isGroup": true,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A42281-e3250": [
+      "silvio"
+    ],
+    "A42281-e3520": [
+      "linco"
+    ],
+    "A42281-e3590": [
+      "silvio"
+    ],
+    "A42281-e3630": [
+      "linco"
+    ],
+    "A42281-e3740": [
+      "silvio"
+    ],
+    "A42281-e3790": [
+      "linco"
+    ],
+    "A42281-e3840": [
+      "silvio"
+    ],
+    "A42281-e3900": [
+      "linco"
+    ],
+    "A42281-e3950": [
+      "silvio"
+    ],
+    "A42281-e3990": [
+      "linco"
+    ],
+    "A42281-e4020": [
+      "silvio"
+    ],
+    "A42281-e4050": [
+      "linco"
+    ],
+    "A42281-e4080": [
+      "silvio"
+    ],
+    "A42281-e4110": [
+      "linco"
+    ],
+    "A42281-e4150": [
+      "silvio"
+    ],
+    "A42281-e4180": [
+      "linco"
+    ],
+    "A42281-e4320": [
+      "silvio"
+    ],
+    "A42281-e4380": [
+      "linco"
+    ],
+    "A42281-e4420": [
+      "silvio"
+    ],
+    "A42281-e4450": [
+      "linco"
+    ],
+    "A42281-e4540": [
+      "silvio"
+    ],
+    "A42281-e4630": [
+      "linco"
+    ],
+    "A42281-e4870": [
+      "silvio"
+    ],
+    "A42281-e4920": [
+      "linco"
+    ],
+    "A42281-e5470": [
+      "silvio"
+    ],
+    "A42281-e5530": [
+      "linco"
+    ],
+    "A42281-e5600": [
+      "silvio"
+    ],
+    "A42281-e5660": [
+      "linco"
+    ],
+    "A42281-e6080": [
+      "silvio"
+    ],
+    "A42281-e6120": [
+      "linco"
+    ],
+    "A42281-e6170": [
+      "silvio"
+    ],
+    "A42281-e6210": [
+      "linco"
+    ],
+    "A42281-e6260": [
+      "silvio"
+    ],
+    "A42281-e6350": [
+      "linco"
+    ],
+    "A42281-e6460": [
+      "mirtillo"
+    ],
+    "A42281-e6680": [
+      "ergasto"
+    ],
+    "A42281-e6820": [
+      "mirtillo"
+    ],
+    "A42281-e7180": [
+      "ergasto"
+    ],
+    "A42281-e7360": [
+      "mirtillo"
+    ],
+    "A42281-e7450": [
+      "ergasto"
+    ],
+    "A42281-e7550": [
+      "mirtillo"
+    ],
+    "A42281-e7610": [
+      "ergasto"
+    ],
+    "A42281-e7650": [
+      "mirtillo"
+    ],
+    "A42281-e7680": [
+      "ergasto"
+    ],
+    "A42281-e7710": [
+      "mirtillo"
+    ],
+    "A42281-e7810": [
+      "ergasto"
+    ],
+    "A42281-e7890": [
+      "mirtillo"
+    ],
+    "A42281-e7980": [
+      "ergasto"
+    ],
+    "A42281-e8320": [
+      "mirtillo"
+    ],
+    "A42281-e8350": [
+      "ergasto"
+    ],
+    "A42281-e9110": [
+      "mirtillo"
+    ],
+    "A42281-e9200": [
+      "ergasto"
+    ],
+    "A42281-e9680": [
+      "mirtillo"
+    ],
+    "A42281-e9760": [
+      "ergasto"
+    ],
+    "A42281-e9910": [
+      "corisca"
+    ],
+    "A42281-e11450": [
+      "titiro"
+    ],
+    "A42281-e11740": [
+      "montano"
+    ],
+    "A42281-e11790": [
+      "titiro"
+    ],
+    "A42281-e11830": [
+      "montano"
+    ],
+    "A42281-e11860": [
+      "titiro"
+    ],
+    "A42281-e11890": [
+      "montano"
+    ],
+    "A42281-e11920": [
+      "titiro"
+    ],
+    "A42281-e11950": [
+      "montano"
+    ],
+    "A42281-e11980": [
+      "titiro"
+    ],
+    "A42281-e12080": [
+      "montano"
+    ],
+    "A42281-e12280": [
+      "titiro"
+    ],
+    "A42281-e12310": [
+      "montano"
+    ],
+    "A42281-e12550": [
+      "titiro"
+    ],
+    "A42281-e12630": [
+      "montano"
+    ],
+    "A42281-e13080": [
+      "titiro"
+    ],
+    "A42281-e13170": [
+      "montano"
+    ],
+    "A42281-e13230": [
+      "titiro"
+    ],
+    "A42281-e13670": [
+      "montano"
+    ],
+    "A42281-e13900": [
+      "titiro"
+    ],
+    "A42281-e13950": [
+      "dameta"
+    ],
+    "A42281-e14050": [
+      "satyr"
+    ],
+    "A42281-e16380": [
+      "ergasto"
+    ],
+    "A42281-e16440": [
+      "mirtillo"
+    ],
+    "A42281-e16480": [
+      "ergasto"
+    ],
+    "A42281-e16630": [
+      "mirtillo"
+    ],
+    "A42281-e16660": [
+      "ergasto"
+    ],
+    "A42281-e16690": [
+      "mirtillo"
+    ],
+    "A42281-e16730": [
+      "ergasto"
+    ],
+    "A42281-e16840": [
+      "mirtillo"
+    ],
+    "A42281-e16910": [
+      "ergasto"
+    ],
+    "A42281-e17060": [
+      "mirtillo"
+    ],
+    "A42281-e17410": [
+      "ergasto"
+    ],
+    "A42281-e17450": [
+      "mirtillo"
+    ],
+    "A42281-e17990": [
+      "ergasto"
+    ],
+    "A42281-e18030": [
+      "mirtillo"
+    ],
+    "A42281-e18220": [
+      "ergasto"
+    ],
+    "A42281-e18250": [
+      "mirtillo"
+    ],
+    "A42281-e18300": [
+      "ergasto"
+    ],
+    "A42281-e18340": [
+      "mirtillo"
+    ],
+    "A42281-e18740": [
+      "ergasto"
+    ],
+    "A42281-e18780": [
+      "mirtillo"
+    ],
+    "A42281-e19060": [
+      "ergasto"
+    ],
+    "A42281-e19180": [
+      "mirtillo"
+    ],
+    "A42281-e19540": [
+      "ergasto"
+    ],
+    "A42281-e19660": [
+      "mirtillo"
+    ],
+    "A42281-e19770": [
+      "dorinda"
+    ],
+    "A42281-e20000": [
+      "silvio"
+    ],
+    "A42281-e20040": [
+      "dorinda"
+    ],
+    "A42281-e20100": [
+      "silvio"
+    ],
+    "A42281-e20140": [
+      "dorinda"
+    ],
+    "A42281-e20240": [
+      "lupino"
+    ],
+    "A42281-e20270": [
+      "dorinda"
+    ],
+    "A42281-e20310": [
+      "lupino"
+    ],
+    "A42281-e20340": [
+      "dorinda"
+    ],
+    "A42281-e20380": [
+      "lupino"
+    ],
+    "A42281-e20410": [
+      "dorinda"
+    ],
+    "A42281-e20440": [
+      "lupino"
+    ],
+    "A42281-e20490": [
+      "dorinda"
+    ],
+    "A42281-e20520": [
+      "silvio"
+    ],
+    "A42281-e20680": [
+      "dorinda"
+    ],
+    "A42281-e20740": [
+      "silvio"
+    ],
+    "A42281-e20780": [
+      "dorinda"
+    ],
+    "A42281-e20910": [
+      "silvio"
+    ],
+    "A42281-e20970": [
+      "dorinda"
+    ],
+    "A42281-e21030": [
+      "silvio"
+    ],
+    "A42281-e21080": [
+      "dorinda"
+    ],
+    "A42281-e21140": [
+      "silvio"
+    ],
+    "A42281-e21170": [
+      "dorinda"
+    ],
+    "A42281-e21210": [
+      "silvio"
+    ],
+    "A42281-e21240": [
+      "dorinda"
+    ],
+    "A42281-e21290": [
+      "silvio"
+    ],
+    "A42281-e21330": [
+      "dorinda"
+    ],
+    "A42281-e21380": [
+      "silvio"
+    ],
+    "A42281-e21420": [
+      "dorinda"
+    ],
+    "A42281-e21450": [
+      "silvio"
+    ],
+    "A42281-e21500": [
+      "dorinda"
+    ],
+    "A42281-e21560": [
+      "silvio"
+    ],
+    "A42281-e21610": [
+      "dorinda"
+    ],
+    "A42281-e21660": [
+      "silvio"
+    ],
+    "A42281-e21690": [
+      "dorinda"
+    ],
+    "A42281-e21720": [
+      "silvio"
+    ],
+    "A42281-e21760": [
+      "dorinda"
+    ],
+    "A42281-e21800": [
+      "silvio"
+    ],
+    "A42281-e21890": [
+      "dorinda"
+    ],
+    "A42281-e22050": [
+      "silvio"
+    ],
+    "A42281-e22080": [
+      "dorinda"
+    ],
+    "A42281-e22140": [
+      "silvio"
+    ],
+    "A42281-e22180": [
+      "dorinda"
+    ],
+    "A42281-e22210": [
+      "silvio"
+    ],
+    "A42281-e22270": [
+      "dorinda"
+    ],
+    "A42281-e22320": [
+      "silvio"
+    ],
+    "A42281-e22350": [
+      "dorinda"
+    ],
+    "A42281-e22400": [
+      "silvio"
+    ],
+    "A42281-e22440": [
+      "dorinda"
+    ],
+    "A42281-e22470": [
+      "silvio"
+    ],
+    "A42281-e22510": [
+      "dorinda"
+    ],
+    "A42281-e22540": [
+      "silvio"
+    ],
+    "A42281-e22570": [
+      "dorinda"
+    ],
+    "A42281-e22600": [
+      "silvio"
+    ],
+    "A42281-e22630": [
+      "dorinda"
+    ],
+    "A42281-e22670": [
+      "silvio"
+    ],
+    "A42281-e22710": [
+      "dorinda"
+    ],
+    "A42281-e22750": [
+      "silvio"
+    ],
+    "A42281-e22790": [
+      "dorinda"
+    ],
+    "A42281-e22840": [
+      "silvio"
+    ],
+    "A42281-e22880": [
+      "dorinda"
+    ],
+    "A42281-e22930": [
+      "silvio"
+    ],
+    "A42281-e22970": [
+      "dorinda"
+    ],
+    "A42281-e23020": [
+      "silvio"
+    ],
+    "A42281-e23050": [
+      "dorinda"
+    ],
+    "A42281-e23080": [
+      "silvio"
+    ],
+    "A42281-e23110": [
+      "dorinda"
+    ],
+    "A42281-e23150": [
+      "silvio"
+    ],
+    "A42281-e23220": [
+      "dorinda"
+    ],
+    "A42281-e23250": [
+      "silvio"
+    ],
+    "A42281-e23280": [
+      "dorinda"
+    ],
+    "A42281-e23310": [
+      "silvio"
+    ],
+    "A42281-e23350": [
+      "dorinda"
+    ],
+    "A42281-e23400": [
+      "lupino"
+    ],
+    "A42281-e23450": [
+      "dorinda"
+    ],
+    "A42281-e23500": [
+      "silvio"
+    ],
+    "A42281-e23530": [
+      "dorinda"
+    ],
+    "A42281-e23570": [
+      "silvio"
+    ],
+    "A42281-e23610": [
+      "dorinda"
+    ],
+    "A42281-e23650": [
+      "silvio"
+    ],
+    "A42281-e23700": [
+      "dorinda"
+    ],
+    "A42281-e23770": [
+      "lupino"
+    ],
+    "A42281-e23840": [
+      "silvio"
+    ],
+    "A42281-e23880": [
+      "dorinda"
+    ],
+    "A42281-e23910": [
+      "silvio"
+    ],
+    "A42281-e23950": [
+      "dorinda"
+    ],
+    "A42281-e23990": [
+      "silvio"
+    ],
+    "A42281-e24020": [
+      "dorinda"
+    ],
+    "A42281-e24050": [
+      "silvio"
+    ],
+    "A42281-e24110": [
+      "dorinda"
+    ],
+    "A42281-e24150": [
+      "silvio"
+    ],
+    "A42281-e24210": [
+      "dorinda"
+    ],
+    "A42281-e24280": [
+      "silvio"
+    ],
+    "A42281-e24310": [
+      "dorinda"
+    ],
+    "A42281-e24360": [
+      "silvio"
+    ],
+    "A42281-e24400": [
+      "dorinda"
+    ],
+    "A42281-e24730": [
+      "corisca"
+    ],
+    "A42281-e25150": [
+      "amarillis"
+    ],
+    "A42281-e25740": [
+      "corisca"
+    ],
+    "A42281-e25800": [
+      "amarillis"
+    ],
+    "A42281-e25840": [
+      "corisca"
+    ],
+    "A42281-e25940": [
+      "amarillis"
+    ],
+    "A42281-e25970": [
+      "corisca"
+    ],
+    "A42281-e26010": [
+      "amarillis"
+    ],
+    "A42281-e26040": [
+      "corisca"
+    ],
+    "A42281-e26080": [
+      "amarillis"
+    ],
+    "A42281-e26120": [
+      "corisca"
+    ],
+    "A42281-e26160": [
+      "amarillis"
+    ],
+    "A42281-e26200": [
+      "corisca"
+    ],
+    "A42281-e26230": [
+      "amarillis"
+    ],
+    "A42281-e26260": [
+      "corisca"
+    ],
+    "A42281-e26300": [
+      "amarillis"
+    ],
+    "A42281-e26360": [
+      "corisca"
+    ],
+    "A42281-e26430": [
+      "amarillis"
+    ],
+    "A42281-e26490": [
+      "corisca"
+    ],
+    "A42281-e26540": [
+      "amarillis"
+    ],
+    "A42281-e26570": [
+      "corisca"
+    ],
+    "A42281-e26670": [
+      "amarillis"
+    ],
+    "A42281-e26710": [
+      "corisca"
+    ],
+    "A42281-e26740": [
+      "amarillis"
+    ],
+    "A42281-e26770": [
+      "corisca"
+    ],
+    "A42281-e26810": [
+      "amarillis"
+    ],
+    "A42281-e26860": [
+      "corisca"
+    ],
+    "A42281-e26900": [
+      "amarillis"
+    ],
+    "A42281-e27080": [
+      "corisca"
+    ],
+    "A42281-e27160": [
+      "amarillis"
+    ],
+    "A42281-e27190": [
+      "corisca"
+    ],
+    "A42281-e27250": [
+      "amarillis"
+    ],
+    "A42281-e27300": [
+      "corisca"
+    ],
+    "A42281-e27460": [
+      "amarillis"
+    ],
+    "A42281-e27490": [
+      "corisca"
+    ],
+    "A42281-e27600": [
+      "amarillis"
+    ],
+    "A42281-e27650": [
+      "corisca"
+    ],
+    "A42281-e27680": [
+      "amarillis"
+    ],
+    "A42281-e27710": [
+      "corisca"
+    ],
+    "A42281-e27740": [
+      "amarillis"
+    ],
+    "A42281-e27770": [
+      "corisca"
+    ],
+    "A42281-e27800": [
+      "amarillis"
+    ],
+    "A42281-e27840": [
+      "corisca"
+    ],
+    "A42281-e27900": [
+      "amarillis"
+    ],
+    "A42281-e27940": [
+      "corisca"
+    ],
+    "A42281-e27980": [
+      "amarillis"
+    ],
+    "A42281-e28030": [
+      "corisca"
+    ],
+    "A42281-e28060": [
+      "amarillis"
+    ],
+    "A42281-e28100": [
+      "corisca"
+    ],
+    "A42281-e28140": [
+      "amarillis"
+    ],
+    "A42281-e28180": [
+      "corisca"
+    ],
+    "A42281-e28210": [
+      "amarillis"
+    ],
+    "A42281-e28250": [
+      "corisca"
+    ],
+    "A42281-e28280": [
+      "amarillis"
+    ],
+    "A42281-e28310": [
+      "corisca"
+    ],
+    "A42281-e28380": [
+      "amarillis"
+    ],
+    "A42281-e28410": [
+      "corisca"
+    ],
+    "A42281-e28450": [
+      "amarillis"
+    ],
+    "A42281-e28500": [
+      "corisca"
+    ],
+    "A42281-e28680": [
+      "amarillis"
+    ],
+    "A42281-e28740": [
+      "corisca"
+    ],
+    "A42281-e28820": [
+      "amarillis"
+    ],
+    "A42281-e28870": [
+      "corisca"
+    ],
+    "A42281-e29090": [
+      "corisca"
+    ],
+    "A42281-e29120": [
+      "satyr"
+    ],
+    "A42281-e29170": [
+      "corisca"
+    ],
+    "A42281-e29220": [
+      "satyr"
+    ],
+    "A42281-e29260": [
+      "corisca"
+    ],
+    "A42281-e29290": [
+      "satyr"
+    ],
+    "A42281-e29350": [
+      "corisca"
+    ],
+    "A42281-e29400": [
+      "satyr"
+    ],
+    "A42281-e29530": [
+      "corisca"
+    ],
+    "A42281-e29610": [
+      "satyr"
+    ],
+    "A42281-e29680": [
+      "corisca"
+    ],
+    "A42281-e29710": [
+      "satyr"
+    ],
+    "A42281-e29950": [
+      "corisca"
+    ],
+    "A42281-e29980": [
+      "satyr"
+    ],
+    "A42281-e30070": [
+      "corisca"
+    ],
+    "A42281-e30110": [
+      "satyr"
+    ],
+    "A42281-e30140": [
+      "corisca"
+    ],
+    "A42281-e30170": [
+      "satyr"
+    ],
+    "A42281-e30200": [
+      "corisca"
+    ],
+    "A42281-e30230": [
+      "satyr"
+    ],
+    "A42281-e30340": [
+      "corisca"
+    ],
+    "A42281-e30470": [
+      "satyr"
+    ],
+    "A42281-e30510": [
+      "corisca"
+    ],
+    "A42281-e30670": [
+      "satyr"
+    ],
+    "A42281-e30800": [
+      "corisca"
+    ],
+    "A42281-e30850": [
+      "satyr"
+    ],
+    "A42281-e30880": [
+      "corisca"
+    ],
+    "A42281-e30910": [
+      "satyr"
+    ],
+    "A42281-e30950": [
+      "corisca"
+    ],
+    "A42281-e30990": [
+      "satyr"
+    ],
+    "A42281-e31020": [
+      "corisca"
+    ],
+    "A42281-e31050": [
+      "satyr"
+    ],
+    "A42281-e31080": [
+      "corisca"
+    ],
+    "A42281-e31110": [
+      "satyr"
+    ],
+    "A42281-e31150": [
+      "corisca"
+    ],
+    "A42281-e31270": [
+      "satyr"
+    ],
+    "A42281-e31310": [
+      "corisca"
+    ],
+    "A42281-e31340": [
+      "satyr"
+    ],
+    "A42281-e31370": [
+      "corisca"
+    ],
+    "A42281-e31400": [
+      "satyr"
+    ],
+    "A42281-e31440": [
+      "corisca"
+    ],
+    "A42281-e31480": [
+      "satyr"
+    ],
+    "A42281-e31540": [
+      "corisca"
+    ],
+    "A42281-e31570": [
+      "satyr"
+    ],
+    "A42281-e31600": [
+      "corisca"
+    ],
+    "A42281-e31640": [
+      "satyr"
+    ],
+    "A42281-e31690": [
+      "corisca"
+    ],
+    "A42281-e31720": [
+      "satyr"
+    ],
+    "A42281-e31750": [
+      "corisca"
+    ],
+    "A42281-e31780": [
+      "satyr"
+    ],
+    "A42281-e31820": [
+      "corisca"
+    ],
+    "A42281-e31860": [
+      "satyr"
+    ],
+    "A42281-e31940": [
+      "corisca"
+    ],
+    "A42281-e31970": [
+      "satyr"
+    ],
+    "A42281-e32000": [
+      "corisca"
+    ],
+    "A42281-e32050": [
+      "satyr"
+    ],
+    "A42281-e33110": [
+      "mirtillo"
+    ],
+    "A42281-e33670": [
+      "amarillis"
+    ],
+    "A42281-e33710": [
+      "mirtillo"
+    ],
+    "A42281-e33740": [
+      "amarillis"
+    ],
+    "A42281-e33770": [
+      "mirtillo"
+    ],
+    "A42281-e33810": [
+      "amarillis"
+    ],
+    "A42281-e33880": [
+      "mirtillo"
+    ],
+    "A42281-e33920": [
+      "amarillis"
+    ],
+    "A42281-e34020": [
+      "mirtillo"
+    ],
+    "A42281-e34090": [
+      "amarillis"
+    ],
+    "A42281-e34140": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e34330": [
+      "amarillis"
+    ],
+    "A42281-e34390": [
+      "mirtillo"
+    ],
+    "A42281-e34440": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e34560": [
+      "amarillis"
+    ],
+    "A42281-e34620": [
+      "mirtillo"
+    ],
+    "A42281-e34690": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e34790": [
+      "amarillis"
+    ],
+    "A42281-e34860": [
+      "mirtillo"
+    ],
+    "A42281-e34920": [
+      "amarillis"
+    ],
+    "A42281-e34960": [
+      "corisca"
+    ],
+    "A42281-e35040": [
+      "mirtillo"
+    ],
+    "A42281-e35090": [
+      "amarillis"
+    ],
+    "A42281-e35130": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e35380": [
+      "amarillis"
+    ],
+    "A42281-e35430": [
+      "corisca"
+    ],
+    "A42281-e35480": [
+      "amarillis"
+    ],
+    "A42281-e35510": [
+      "corisca"
+    ],
+    "A42281-e35550": [
+      "amarillis"
+    ],
+    "A42281-e35740": [
+      "mirtillo"
+    ],
+    "A42281-e35780": [
+      "amarillis"
+    ],
+    "A42281-e35870": [
+      "mirtillo"
+    ],
+    "A42281-e35900": [
+      "amarillis"
+    ],
+    "A42281-e35950": [
+      "mirtillo"
+    ],
+    "A42281-e36000": [
+      "amarillis"
+    ],
+    "A42281-e36040": [
+      "mirtillo"
+    ],
+    "A42281-e36090": [
+      "amarillis"
+    ],
+    "A42281-e36120": [
+      "mirtillo"
+    ],
+    "A42281-e36160": [
+      "amarillis"
+    ],
+    "A42281-e36210": [
+      "mirtillo"
+    ],
+    "A42281-e36240": [
+      "amarillis"
+    ],
+    "A42281-e36270": [
+      "mirtillo"
+    ],
+    "A42281-e36370": [
+      "amarillis"
+    ],
+    "A42281-e36400": [
+      "mirtillo"
+    ],
+    "A42281-e36430": [
+      "amarillis"
+    ],
+    "A42281-e36470": [
+      "mirtillo"
+    ],
+    "A42281-e36640": [
+      "amarillis"
+    ],
+    "A42281-e36700": [
+      "mirtillo"
+    ],
+    "A42281-e36740": [
+      "amarillis"
+    ],
+    "A42281-e36790": [
+      "mirtillo"
+    ],
+    "A42281-e36860": [
+      "amarillis"
+    ],
+    "A42281-e36920": [
+      "mirtillo"
+    ],
+    "A42281-e37570": [
+      "amarillis"
+    ],
+    "A42281-e38230": [
+      "mirtillo"
+    ],
+    "A42281-e38260": [
+      "amarillis"
+    ],
+    "A42281-e38290": [
+      "mirtillo"
+    ],
+    "A42281-e38320": [
+      "amarillis"
+    ],
+    "A42281-e38360": [
+      "mirtillo"
+    ],
+    "A42281-e38390": [
+      "amarillis"
+    ],
+    "A42281-e38420": [
+      "mirtillo"
+    ],
+    "A42281-e38450": [
+      "amarillis"
+    ],
+    "A42281-e38480": [
+      "mirtillo"
+    ],
+    "A42281-e38510": [
+      "amarillis"
+    ],
+    "A42281-e38540": [
+      "mirtillo"
+    ],
+    "A42281-e38570": [
+      "amarillis"
+    ],
+    "A42281-e38600": [
+      "mirtillo"
+    ],
+    "A42281-e38630": [
+      "amarillis"
+    ],
+    "A42281-e38760": [
+      "mirtillo"
+    ],
+    "A42281-e38800": [
+      "amarillis"
+    ],
+    "A42281-e38890": [
+      "mirtillo"
+    ],
+    "A42281-e38950": [
+      "amarillis"
+    ],
+    "A42281-e38980": [
+      "mirtillo"
+    ],
+    "A42281-e39080": [
+      "amarillis"
+    ],
+    "A42281-e39500": [
+      "corisca"
+    ],
+    "A42281-e39530": [
+      "amarillis"
+    ],
+    "A42281-e39570": [
+      "corisca"
+    ],
+    "A42281-e39640": [
+      "amarillis"
+    ],
+    "A42281-e39680": [
+      "corisca"
+    ],
+    "A42281-e39710": [
+      "amarillis"
+    ],
+    "A42281-e39750": [
+      "corisca"
+    ],
+    "A42281-e39800": [
+      "amarillis"
+    ],
+    "A42281-e39840": [
+      "corisca"
+    ],
+    "A42281-e39900": [
+      "amarillis"
+    ],
+    "A42281-e39940": [
+      "corisca"
+    ],
+    "A42281-e39990": [
+      "amarillis"
+    ],
+    "A42281-e40050": [
+      "corisca"
+    ],
+    "A42281-e40080": [
+      "amarillis"
+    ],
+    "A42281-e40150": [
+      "corisca"
+    ],
+    "A42281-e40310": [
+      "amarillis"
+    ],
+    "A42281-e40350": [
+      "corisca"
+    ],
+    "A42281-e40490": [
+      "amarillis"
+    ],
+    "A42281-e40540": [
+      "corisca"
+    ],
+    "A42281-e40940": [
+      "amarillis"
+    ],
+    "A42281-e41020": [
+      "corisca"
+    ],
+    "A42281-e41110": [
+      "amarillis"
+    ],
+    "A42281-e41150": [
+      "corisca"
+    ],
+    "A42281-e41260": [
+      "amarillis"
+    ],
+    "A42281-e41320": [
+      "corisca"
+    ],
+    "A42281-e41350": [
+      "amarillis"
+    ],
+    "A42281-e41380": [
+      "corisca"
+    ],
+    "A42281-e41420": [
+      "amarillis"
+    ],
+    "A42281-e41460": [
+      "corisca"
+    ],
+    "A42281-e41490": [
+      "amarillis"
+    ],
+    "A42281-e41540": [
+      "corisca"
+    ],
+    "A42281-e41580": [
+      "amarillis"
+    ],
+    "A42281-e41610": [
+      "corisca"
+    ],
+    "A42281-e41660": [
+      "amarillis"
+    ],
+    "A42281-e41700": [
+      "corisca"
+    ],
+    "A42281-e41900": [
+      "amarillis"
+    ],
+    "A42281-e42040": [
+      "corisca"
+    ],
+    "A42281-e42160": [
+      "amarillis"
+    ],
+    "A42281-e42200": [
+      "corisca"
+    ],
+    "A42281-e42510": [
+      "amarillis"
+    ],
+    "A42281-e42540": [
+      "corisca"
+    ],
+    "A42281-e42620": [
+      "amarillis"
+    ],
+    "A42281-e42660": [
+      "corisca"
+    ],
+    "A42281-e42700": [
+      "amarillis"
+    ],
+    "A42281-e42750": [
+      "corisca"
+    ],
+    "A42281-e42790": [
+      "amarillis"
+    ],
+    "A42281-e42830": [
+      "corisca"
+    ],
+    "A42281-e43070": [
+      "mirtillo"
+    ],
+    "A42281-e43170": [
+      "corisca"
+    ],
+    "A42281-e43230": [
+      "mirtillo"
+    ],
+    "A42281-e43260": [
+      "corisca"
+    ],
+    "A42281-e43310": [
+      "mirtillo"
+    ],
+    "A42281-e43410": [
+      "corisca"
+    ],
+    "A42281-e43660": [
+      "mirtillo"
+    ],
+    "A42281-e43750": [
+      "corisca"
+    ],
+    "A42281-e43810": [
+      "mirtillo"
+    ],
+    "A42281-e43930": [
+      "corisca"
+    ],
+    "A42281-e44210": [
+      "mirtillo"
+    ],
+    "A42281-e44360": [
+      "corisca"
+    ],
+    "A42281-e44400": [
+      "mirtillo"
+    ],
+    "A42281-e44440": [
+      "corisca"
+    ],
+    "A42281-e44520": [
+      "mirtillo"
+    ],
+    "A42281-e44580": [
+      "corisca"
+    ],
+    "A42281-e44660": [
+      "mirtillo"
+    ],
+    "A42281-e44710": [
+      "corisca"
+    ],
+    "A42281-e44960": [
+      "mirtillo"
+    ],
+    "A42281-e45000": [
+      "corisca"
+    ],
+    "A42281-e45340": [
+      "mirtillo"
+    ],
+    "A42281-e45380": [
+      "corisca"
+    ],
+    "A42281-e45430": [
+      "mirtillo"
+    ],
+    "A42281-e45460": [
+      "corisca"
+    ],
+    "A42281-e45540": [
+      "mirtillo"
+    ],
+    "A42281-e45590": [
+      "corisca"
+    ],
+    "A42281-e45740": [
+      "mirtillo"
+    ],
+    "A42281-e45790": [
+      "corisca"
+    ],
+    "A42281-e45820": [
+      "mirtillo"
+    ],
+    "A42281-e45870": [
+      "corisca"
+    ],
+    "A42281-e45910": [
+      "mirtillo"
+    ],
+    "A42281-e45950": [
+      "corisca"
+    ],
+    "A42281-e46080": [
+      "mirtillo"
+    ],
+    "A42281-e46130": [
+      "corisca"
+    ],
+    "A42281-e46160": [
+      "mirtillo"
+    ],
+    "A42281-e46200": [
+      "corisca"
+    ],
+    "A42281-e46280": [
+      "mirtillo"
+    ],
+    "A42281-e46310": [
+      "corisca"
+    ],
+    "A42281-e46390": [
+      "mirtillo"
+    ],
+    "A42281-e46450": [
+      "amarillis"
+    ],
+    "A42281-e46750": [
+      "mirtillo"
+    ],
+    "A42281-e47780": [
+      "satyr"
+    ],
+    "A42281-e49100": [
+      "corisca"
+    ],
+    "A42281-e49630": [
+      "dorinda"
+    ],
+    "A42281-e49670": [
+      "linco"
+    ],
+    "A42281-e49760": [
+      "dorinda"
+    ],
+    "A42281-e49820": [
+      "linco"
+    ],
+    "A42281-e49990": [
+      "dorinda"
+    ],
+    "A42281-e50030": [
+      "linco"
+    ],
+    "A42281-e50080": [
+      "dorinda"
+    ],
+    "A42281-e50150": [
+      "linco"
+    ],
+    "A42281-e50200": [
+      "dorinda"
+    ],
+    "A42281-e50230": [
+      "linco"
+    ],
+    "A42281-e50320": [
+      "dorinda"
+    ],
+    "A42281-e50670": [
+      "linco"
+    ],
+    "A42281-e50740": [
+      "dorinda"
+    ],
+    "A42281-e50880": [
+      "linco"
+    ],
+    "A42281-e50930": [
+      "dorinda"
+    ],
+    "A42281-e51630": [
+      "linco"
+    ],
+    "A42281-e51670": [
+      "dorinda"
+    ],
+    "A42281-e51740": [
+      "linco"
+    ],
+    "A42281-e51770": [
+      "dorinda"
+    ],
+    "A42281-e51900": [
+      "linco"
+    ],
+    "A42281-e51970": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e52140": [
+      "ergasto"
+    ],
+    "A42281-e52190": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e52220": [
+      "ergasto"
+    ],
+    "A42281-e52280": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e52320": [
+      "ergasto"
+    ],
+    "A42281-e52510": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e52580": [
+      "ergasto"
+    ],
+    "A42281-e52620": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e52680": [
+      "ergasto"
+    ],
+    "A42281-e52720": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e52750": [
+      "ergasto"
+    ],
+    "A42281-e52790": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e52820": [
+      "ergasto"
+    ],
+    "A42281-e52970": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e53000": [
+      "ergasto"
+    ],
+    "A42281-e53030": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e53060": [
+      "ergasto"
+    ],
+    "A42281-e53100": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e53150": [
+      "ergasto"
+    ],
+    "A42281-e53200": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e53260": [
+      "ergasto"
+    ],
+    "A42281-e53300": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e53340": [
+      "ergasto"
+    ],
+    "A42281-e54040": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e54070": [
+      "ergasto"
+    ],
+    "A42281-e54340": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e54370": [
+      "ergasto"
+    ],
+    "A42281-e54400": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e54430": [
+      "ergasto"
+    ],
+    "A42281-e54510": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e54540": [
+      "ergasto"
+    ],
+    "A42281-e54650": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e54760": [
+      "corisca"
+    ],
+    "A42281-e55190": [
+      "nicandro"
+    ],
+    "A42281-e55470": [
+      "amarillis"
+    ],
+    "A42281-e55650": [
+      "nicandro"
+    ],
+    "A42281-e55780": [
+      "amarillis"
+    ],
+    "A42281-e55820": [
+      "nicandro"
+    ],
+    "A42281-e55880": [
+      "amarillis"
+    ],
+    "A42281-e55940": [
+      "nicandro"
+    ],
+    "A42281-e56000": [
+      "amarillis"
+    ],
+    "A42281-e56040": [
+      "nicandro"
+    ],
+    "A42281-e56070": [
+      "amarillis"
+    ],
+    "A42281-e56100": [
+      "nicandro"
+    ],
+    "A42281-e56130": [
+      "amarillis"
+    ],
+    "A42281-e56160": [
+      "nicandro"
+    ],
+    "A42281-e56190": [
+      "amarillis"
+    ],
+    "A42281-e56220": [
+      "nicandro"
+    ],
+    "A42281-e56250": [
+      "amarillis"
+    ],
+    "A42281-e56280": [
+      "nicandro"
+    ],
+    "A42281-e56310": [
+      "amarillis"
+    ],
+    "A42281-e56340": [
+      "nicandro"
+    ],
+    "A42281-e56370": [
+      "amarillis"
+    ],
+    "A42281-e56400": [
+      "nicandro"
+    ],
+    "A42281-e56430": [
+      "amarillis"
+    ],
+    "A42281-e56460": [
+      "nicandro"
+    ],
+    "A42281-e56490": [
+      "amarillis"
+    ],
+    "A42281-e56520": [
+      "nicandro"
+    ],
+    "A42281-e56560": [
+      "amarillis"
+    ],
+    "A42281-e56600": [
+      "nicandro"
+    ],
+    "A42281-e56630": [
+      "amarillis"
+    ],
+    "A42281-e56670": [
+      "nicandro"
+    ],
+    "A42281-e56700": [
+      "amarillis"
+    ],
+    "A42281-e56730": [
+      "nicandro"
+    ],
+    "A42281-e56760": [
+      "amarillis"
+    ],
+    "A42281-e56790": [
+      "nicandro"
+    ],
+    "A42281-e56820": [
+      "amarillis"
+    ],
+    "A42281-e56850": [
+      "nicandro"
+    ],
+    "A42281-e56880": [
+      "amarillis"
+    ],
+    "A42281-e56920": [
+      "nicandro"
+    ],
+    "A42281-e57040": [
+      "amarillis"
+    ],
+    "A42281-e57130": [
+      "nicandro"
+    ],
+    "A42281-e57290": [
+      "amarillis"
+    ],
+    "A42281-e57410": [
+      "nicandro"
+    ],
+    "A42281-e57480": [
+      "amarillis"
+    ],
+    "A42281-e57620": [
+      "nicandro"
+    ],
+    "A42281-e57680": [
+      "amarillis"
+    ],
+    "A42281-e57880": [
+      "nicandro"
+    ],
+    "A42281-e58120": [
+      "chorus-of-huntsmen"
+    ],
+    "A42281-e58170": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e58270": [
+      "chorus-of-huntsmen"
+    ],
+    "A42281-e58300": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e58400": [
+      "chorus-of-huntsmen"
+    ],
+    "A42281-e58430": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e58550": [
+      "chorus-of-huntsmen"
+    ],
+    "A42281-e58580": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e58700": [
+      "chorus-of-huntsmen"
+    ],
+    "A42281-e58730": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e58870": [
+      "chorus-of-huntsmen"
+    ],
+    "A42281-e58940": [
+      "coridon"
+    ],
+    "A42281-e61720": [
+      "linco"
+    ],
+    "A42281-e61770": [
+      "silvio"
+    ],
+    "A42281-e61820": [
+      "dorinda"
+    ],
+    "A42281-e61870": [
+      "silvio"
+    ],
+    "A42281-e61930": [
+      "dorinda"
+    ],
+    "A42281-e62030": [
+      "linco"
+    ],
+    "A42281-e62080": [
+      "dorinda"
+    ],
+    "A42281-e62150": [
+      "silvio"
+    ],
+    "A42281-e62180": [
+      "linco"
+    ],
+    "A42281-e62220": [
+      "dorinda"
+    ],
+    "A42281-e62270": [
+      "linco"
+    ],
+    "A42281-e62310": [
+      "silvio"
+    ],
+    "A42281-e62420": [
+      "dorinda"
+    ],
+    "A42281-e62450": [
+      "linco"
+    ],
+    "A42281-e62490": [
+      "dorinda"
+    ],
+    "A42281-e62530": [
+      "linco"
+    ],
+    "A42281-e62560": [
+      "dorinda"
+    ],
+    "A42281-e62600": [
+      "linco"
+    ],
+    "A42281-e62970": [
+      "dorinda"
+    ],
+    "A42281-e63310": [
+      "silvio"
+    ],
+    "A42281-e63570": [
+      "dorinda"
+    ],
+    "A42281-e63890": [
+      "linco"
+    ],
+    "A42281-e63920": [
+      "silvio"
+    ],
+    "A42281-e64160": [
+      "linco"
+    ],
+    "A42281-e64210": [
+      "dorinda"
+    ],
+    "A42281-e64260": [
+      "silvio"
+    ],
+    "A42281-e64360": [
+      "linco"
+    ],
+    "A42281-e64450": [
+      "dorinda"
+    ],
+    "A42281-e64500": [
+      "silvio"
+    ],
+    "A42281-e64590": [
+      "linco"
+    ],
+    "A42281-e64620": [
+      "silvio"
+    ],
+    "A42281-e64720": [
+      "dorinda"
+    ],
+    "A42281-e64750": [
+      "silvio"
+    ],
+    "A42281-e64780": [
+      "dorinda"
+    ],
+    "A42281-e64810": [
+      "silvio"
+    ],
+    "A42281-e64850": [
+      "linco"
+    ],
+    "A42281-e64910": [
+      "silvio"
+    ],
+    "A42281-e64950": [
+      "dorinda"
+    ],
+    "A42281-e65600": [
+      "uranio"
+    ],
+    "A42281-e65640": [
+      "carino"
+    ],
+    "A42281-e66030": [
+      "uranio"
+    ],
+    "A42281-e66220": [
+      "carino"
+    ],
+    "A42281-e66540": [
+      "uranio"
+    ],
+    "A42281-e66610": [
+      "carino"
+    ],
+    "A42281-e67160": [
+      "uranio"
+    ],
+    "A42281-e67220": [
+      "carino"
+    ],
+    "A42281-e67670": [
+      "uranio"
+    ],
+    "A42281-e67710": [
+      "carino"
+    ],
+    "A42281-e68120": [
+      "titiro"
+    ],
+    "A42281-e68310": [
+      "messenger"
+    ],
+    "A42281-e68380": [
+      "titiro"
+    ],
+    "A42281-e68420": [
+      "messenger"
+    ],
+    "A42281-e68460": [
+      "titiro"
+    ],
+    "A42281-e68490": [
+      "messenger"
+    ],
+    "A42281-e68530": [
+      "titiro"
+    ],
+    "A42281-e68590": [
+      "messenger"
+    ],
+    "A42281-e68620": [
+      "titiro"
+    ],
+    "A42281-e68660": [
+      "messenger"
+    ],
+    "A42281-e68710": [
+      "titiro"
+    ],
+    "A42281-e68740": [
+      "messenger"
+    ],
+    "A42281-e68800": [
+      "titiro"
+    ],
+    "A42281-e68830": [
+      "messenger"
+    ],
+    "A42281-e68860": [
+      "titiro"
+    ],
+    "A42281-e68910": [
+      "messenger"
+    ],
+    "A42281-e69000": [
+      "titiro"
+    ],
+    "A42281-e69030": [
+      "messenger"
+    ],
+    "A42281-e69340": [
+      "titiro"
+    ],
+    "A42281-e69380": [
+      "messenger"
+    ],
+    "A42281-e69690": [
+      "titiro"
+    ],
+    "A42281-e69730": [
+      "messenger"
+    ],
+    "A42281-e69890": [
+      "titiro"
+    ],
+    "A42281-e69980": [
+      "messenger"
+    ],
+    "A42281-e70020": [
+      "titiro"
+    ],
+    "A42281-e70050": [
+      "messenger"
+    ],
+    "A42281-e70090": [
+      "titiro"
+    ],
+    "A42281-e70120": [
+      "messenger"
+    ],
+    "A42281-e70150": [
+      "titiro"
+    ],
+    "A42281-e70180": [
+      "messenger"
+    ],
+    "A42281-e70340": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e70390": [
+      "chorus-of-priests"
+    ],
+    "A42281-e70500": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e70550": [
+      "montano"
+    ],
+    "A42281-e70610": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e70660": [
+      "montano"
+    ],
+    "A42281-e70830": [
+      "mirtillo"
+    ],
+    "A42281-e71010": [
+      "montano"
+    ],
+    "A42281-e71090": [
+      "mirtillo"
+    ],
+    "A42281-e71180": [
+      "montano"
+    ],
+    "A42281-e71240": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e71330": [
+      "carino"
+    ],
+    "A42281-e71410": [
+      "montano"
+    ],
+    "A42281-e71460": [
+      "nicandro"
+    ],
+    "A42281-e71490": [
+      "montano"
+    ],
+    "A42281-e71620": [
+      "carino"
+    ],
+    "A42281-e71660": [
+      "montano"
+    ],
+    "A42281-e71700": [
+      "carino"
+    ],
+    "A42281-e71780": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e71830": [
+      "montano"
+    ],
+    "A42281-e71970": [
+      "chorus-of-shepherds"
+    ],
+    "A42281-e72020": [
+      "montano"
+    ],
+    "A42281-e72080": [
+      "carino"
+    ],
+    "A42281-e72120": [
+      "montano"
+    ],
+    "A42281-e72190": [
+      "carino"
+    ],
+    "A42281-e72250": [
+      "montano"
+    ],
+    "A42281-e72280": [
+      "carino"
+    ],
+    "A42281-e72320": [
+      "montano"
+    ],
+    "A42281-e72350": [
+      "carino"
+    ],
+    "A42281-e72380": [
+      "montano"
+    ],
+    "A42281-e72420": [
+      "carino"
+    ],
+    "A42281-e72460": [
+      "montano"
+    ],
+    "A42281-e72490": [
+      "carino"
+    ],
+    "A42281-e72520": [
+      "montano"
+    ],
+    "A42281-e72570": [
+      "carino"
+    ],
+    "A42281-e72610": [
+      "montano"
+    ],
+    "A42281-e72660": [
+      "carino"
+    ],
+    "A42281-e72720": [
+      "montano"
+    ],
+    "A42281-e72770": [
+      "carino"
+    ],
+    "A42281-e72800": [
+      "montano"
+    ],
+    "A42281-e72830": [
+      "carino"
+    ],
+    "A42281-e72870": [
+      "montano"
+    ],
+    "A42281-e72900": [
+      "carino"
+    ],
+    "A42281-e72940": [
+      "montano"
+    ],
+    "A42281-e72980": [
+      "carino"
+    ],
+    "A42281-e73020": [
+      "montano"
+    ],
+    "A42281-e73090": [
+      "carino"
+    ],
+    "A42281-e73120": [
+      "montano"
+    ],
+    "A42281-e73160": [
+      "carino"
+    ],
+    "A42281-e73210": [
+      "montano"
+    ],
+    "A42281-e73250": [
+      "carino"
+    ],
+    "A42281-e73280": [
+      "montano"
+    ],
+    "A42281-e73400": [
+      "carino"
+    ],
+    "A42281-e73430": [
+      "montano"
+    ],
+    "A42281-e73460": [
+      "carino"
+    ],
+    "A42281-e73510": [
+      "mirtillo"
+    ],
+    "A42281-e73540": [
+      "montano"
+    ],
+    "A42281-e73590": [
+      "mirtillo"
+    ],
+    "A42281-e73630": [
+      "montano"
+    ],
+    "A42281-e73670": [
+      "mirtillo"
+    ],
+    "A42281-e73710": [
+      "montano"
+    ],
+    "A42281-e73850": [
+      "montano"
+    ],
+    "A42281-e73930": [
+      "carino"
+    ],
+    "A42281-e73970": [
+      "montano"
+    ],
+    "A42281-e74040": [
+      "carino"
+    ],
+    "A42281-e74220": [
+      "montano"
+    ],
+    "A42281-e74250": [
+      "carino"
+    ],
+    "A42281-e74290": [
+      "montano"
+    ],
+    "A42281-e74320": [
+      "carino"
+    ],
+    "A42281-e74360": [
+      "montano"
+    ],
+    "A42281-e74400": [
+      "carino"
+    ],
+    "A42281-e74430": [
+      "montano"
+    ],
+    "A42281-e74460": [
+      "carino"
+    ],
+    "A42281-e74490": [
+      "montano"
+    ],
+    "A42281-e74540": [
+      "carino"
+    ],
+    "A42281-e74570": [
+      "montano"
+    ],
+    "A42281-e74600": [
+      "carino"
+    ],
+    "A42281-e74630": [
+      "montano"
+    ],
+    "A42281-e74660": [
+      "carino"
+    ],
+    "A42281-e74700": [
+      "montano"
+    ],
+    "A42281-e74730": [
+      "carino"
+    ],
+    "A42281-e74760": [
+      "montano"
+    ],
+    "A42281-e74790": [
+      "carino"
+    ],
+    "A42281-e74820": [
+      "montano"
+    ],
+    "A42281-e74880": [
+      "carino"
+    ],
+    "A42281-e74910": [
+      "montano"
+    ],
+    "A42281-e74950": [
+      "carino"
+    ],
+    "A42281-e74990": [
+      "montano"
+    ],
+    "A42281-e75030": [
+      "carino"
+    ],
+    "A42281-e75070": [
+      "montano"
+    ],
+    "A42281-e75110": [
+      "carino"
+    ],
+    "A42281-e75150": [
+      "montano"
+    ],
+    "A42281-e75180": [
+      "carino"
+    ],
+    "A42281-e75260": [
+      "montano"
+    ],
+    "A42281-e75310": [
+      "carino"
+    ],
+    "A42281-e75340": [
+      "montano"
+    ],
+    "A42281-e75370": [
+      "carino"
+    ],
+    "A42281-e75400": [
+      "montano"
+    ],
+    "A42281-e75440": [
+      "carino"
+    ],
+    "A42281-e75490": [
+      "carino"
+    ],
+    "A42281-e75520": [
+      "montano"
+    ],
+    "A42281-e75570": [
+      "montano"
+    ],
+    "A42281-e75610": [
+      "carino"
+    ],
+    "A42281-e75650": [
+      "montano"
+    ],
+    "A42281-e75700": [
+      "carino"
+    ],
+    "A42281-e75740": [
+      "montano"
+    ],
+    "A42281-e75780": [
+      "carino"
+    ],
+    "A42281-e75850": [
+      "montano"
+    ],
+    "A42281-e75900": [
+      "carino"
+    ],
+    "A42281-e75930": [
+      "montano"
+    ],
+    "A42281-e75960": [
+      "carino"
+    ],
+    "A42281-e76020": [
+      "montano"
+    ],
+    "A42281-e76090": [
+      "carino"
+    ],
+    "A42281-e76150": [
+      "montano"
+    ],
+    "A42281-e76180": [
+      "carino"
+    ],
+    "A42281-e76210": [
+      "montano"
+    ],
+    "A42281-e76250": [
+      "carino"
+    ],
+    "A42281-e76280": [
+      "montano"
+    ],
+    "A42281-e76310": [
+      "carino"
+    ],
+    "A42281-e76360": [
+      "montano"
+    ],
+    "A42281-e76400": [
+      "carino"
+    ],
+    "A42281-e76510": [
+      "montano"
+    ],
+    "A42281-e76550": [
+      "carino"
+    ],
+    "A42281-e76590": [
+      "montano"
+    ],
+    "A42281-e76630": [
+      "carino"
+    ],
+    "A42281-e76670": [
+      "montano"
+    ],
+    "A42281-e76710": [
+      "carino"
+    ],
+    "A42281-e76760": [
+      "montano"
+    ],
+    "A42281-e76790": [
+      "dameta"
+    ],
+    "A42281-e76820": [
+      "montano"
+    ],
+    "A42281-e76860": [
+      "carino"
+    ],
+    "A42281-e76920": [
+      "montano"
+    ],
+    "A42281-e76970": [
+      "dameta"
+    ],
+    "A42281-e77010": [
+      "carino"
+    ],
+    "A42281-e77050": [
+      "montano"
+    ],
+    "A42281-e77100": [
+      "carino"
+    ],
+    "A42281-e77140": [
+      "montano"
+    ],
+    "A42281-e77190": [
+      "dameta"
+    ],
+    "A42281-e77230": [
+      "montano"
+    ],
+    "A42281-e77310": [
+      "dameta"
+    ],
+    "A42281-e77340": [
+      "montano"
+    ],
+    "A42281-e77380": [
+      "dameta"
+    ],
+    "A42281-e77410": [
+      "montano"
+    ],
+    "A42281-e77460": [
+      "dameta"
+    ],
+    "A42281-e77500": [
+      "montano"
+    ],
+    "A42281-e77530": [
+      "dameta"
+    ],
+    "A42281-e77560": [
+      "montano"
+    ],
+    "A42281-e77590": [
+      "carino"
+    ],
+    "A42281-e77620": [
+      "dameta"
+    ],
+    "A42281-e77650": [
+      "montano"
+    ],
+    "A42281-e77690": [
+      "carino"
+    ],
+    "A42281-e77720": [
+      "dameta"
+    ],
+    "A42281-e77750": [
+      "carino"
+    ],
+    "A42281-e77870": [
+      "dameta"
+    ],
+    "A42281-e77900": [
+      "carino"
+    ],
+    "A42281-e77970": [
+      "dameta"
+    ],
+    "A42281-e78000": [
+      "montano"
+    ],
+    "A42281-e78040": [
+      "dameta"
+    ],
+    "A42281-e78080": [
+      "montano"
+    ],
+    "A42281-e78140": [
+      "dameta"
+    ],
+    "A42281-e78190": [
+      "montano"
+    ],
+    "A42281-e78240": [
+      "dameta"
+    ],
+    "A42281-e78310": [
+      "carino"
+    ],
+    "A42281-e78340": [
+      "montano"
+    ],
+    "A42281-e78380": [
+      "carino"
+    ],
+    "A42281-e78420": [
+      "montano"
+    ],
+    "A42281-e78560": [
+      "carino"
+    ],
+    "A42281-e78610": [
+      "montano"
+    ],
+    "A42281-e78670": [
+      "carino"
+    ],
+    "A42281-e78750": [
+      "montano"
+    ],
+    "A42281-e78850": [
+      "carino"
+    ],
+    "A42281-e78890": [
+      "montano"
+    ],
+    "A42281-e78930": [
+      "carino"
+    ],
+    "A42281-e78970": [
+      "montano"
+    ],
+    "A42281-e79030": [
+      "carino"
+    ],
+    "A42281-e79060": [
+      "montano"
+    ],
+    "A42281-e79160": [
+      "carino"
+    ],
+    "A42281-e79270": [
+      "montano"
+    ],
+    "A42281-e79610": [
+      "carino"
+    ],
+    "A42281-e79700": [
+      "tirenio"
+    ],
+    "A42281-e79780": [
+      "montano"
+    ],
+    "A42281-e79860": [
+      "carino"
+    ],
+    "A42281-e79900": [
+      "montano"
+    ],
+    "A42281-e79960": [
+      "tirenio"
+    ],
+    "A42281-e80000": [
+      "montano"
+    ],
+    "A42281-e80050": [
+      "tirenio"
+    ],
+    "A42281-e80370": [
+      "montano"
+    ],
+    "A42281-e80430": [
+      "tirenio"
+    ],
+    "A42281-e80570": [
+      "montano"
+    ],
+    "A42281-e80630": [
+      "tirenio"
+    ],
+    "A42281-e80690": [
+      "montano"
+    ],
+    "A42281-e80760": [
+      "tirenio"
+    ],
+    "A42281-e80810": [
+      "montano"
+    ],
+    "A42281-e80840": [
+      "tirenio"
+    ],
+    "A42281-e80890": [
+      "montano"
+    ],
+    "A42281-e80930": [
+      "tirenio"
+    ],
+    "A42281-e80960": [
+      "montano"
+    ],
+    "A42281-e80990": [
+      "carino"
+    ],
+    "A42281-e81030": [
+      "tirenio"
+    ],
+    "A42281-e81070": [
+      "carino"
+    ],
+    "A42281-e81120": [
+      "tirenio"
+    ],
+    "A42281-e81160": [
+      "montano"
+    ],
+    "A42281-e81200": [
+      "tirenio"
+    ],
+    "A42281-e82270": [
+      "montano"
+    ],
+    "A42281-e82630": [
+      "tirenio"
+    ],
+    "A42281-e82660": [
+      "montano"
+    ],
+    "A42281-e82690": [
+      "tirenio"
+    ],
+    "A42281-e82830": [
+      "montano"
+    ],
+    "A42281-e82910": [
+      "carino"
+    ],
+    "A42281-e83010": [
+      "montano"
+    ],
+    "A42281-e83060": [
+      "tirenio"
+    ],
+    "A42281-e83090": [
+      "montano"
+    ],
+    "A42281-e83160": [
+      "carino"
+    ],
+    "A42281-e83250": [
+      "montano"
+    ],
+    "A42281-e83280": [
+      "carino"
+    ],
+    "A42281-e83370": [
+      "corisca"
+    ],
+    "A42281-e83440": [
+      "linco"
+    ],
+    "A42281-e83550": [
+      "corisca"
+    ],
+    "A42281-e83590": [
+      "linco"
+    ],
+    "A42281-e83660": [
+      "corisca"
+    ],
+    "A42281-e83700": [
+      "linco"
+    ],
+    "A42281-e83740": [
+      "corisca"
+    ],
+    "A42281-e83770": [
+      "linco"
+    ],
+    "A42281-e83820": [
+      "corisca"
+    ],
+    "A42281-e83850": [
+      "linco"
+    ],
+    "A42281-e84430": [
+      "corisca"
+    ],
+    "A42281-e84470": [
+      "linco"
+    ],
+    "A42281-e84630": [
+      "corisca"
+    ],
+    "A42281-e84670": [
+      "linco"
+    ],
+    "A42281-e84750": [
+      "corisca"
+    ],
+    "A42281-e84830": [
+      "ergasto"
+    ],
+    "A42281-e84880": [
+      "corisca"
+    ],
+    "A42281-e84930": [
+      "ergasto"
+    ],
+    "A42281-e84990": [
+      "corisca"
+    ],
+    "A42281-e85020": [
+      "ergasto"
+    ],
+    "A42281-e85120": [
+      "corisca"
+    ],
+    "A42281-e85290": [
+      "ergasto"
+    ],
+    "A42281-e85350": [
+      "corisca"
+    ],
+    "A42281-e85420": [
+      "ergasto"
+    ],
+    "A42281-e85460": [
+      "corisca"
+    ],
+    "A42281-e85510": [
+      "ergasto"
+    ],
+    "A42281-e85630": [
+      "corisca"
+    ],
+    "A42281-e85690": [
+      "ergasto"
+    ],
+    "A42281-e85730": [
+      "corisca"
+    ],
+    "A42281-e85760": [
+      "ergasto"
+    ],
+    "A42281-e85790": [
+      "corisca"
+    ],
+    "A42281-e85820": [
+      "ergasto"
+    ],
+    "A42281-e85860": [
+      "corisca"
+    ],
+    "A42281-e85890": [
+      "ergasto"
+    ],
+    "A42281-e86320": [
+      "corisca"
+    ],
+    "A42281-e86350": [
+      "ergasto"
+    ],
+    "A42281-e86780": [
+      "corisca"
+    ],
+    "A42281-e86870": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e86940": [
+      "corisca"
+    ],
+    "A42281-e87050": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e87360": [
+      "mirtillo"
+    ],
+    "A42281-e87470": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e87540": [
+      "corisca"
+    ],
+    "A42281-e87640": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e87710": [
+      "corisca"
+    ],
+    "A42281-e88080": [
+      "amarillis"
+    ],
+    "A42281-e88220": [
+      "corisca"
+    ],
+    "A42281-e88260": [
+      "mirtillo"
+    ],
+    "A42281-e88300": [
+      "corisca"
+    ],
+    "A42281-e88330": [
+      "chorus-of-nymphs"
+    ],
+    "A42281-e88440": [
+      "mirtillo"
+    ],
+    "A42281-e88510": [
+      "amarillis"
+    ],
+    "A42281-e88540": [
+      "mirtillo"
+    ],
+    "A42281-e88660": [
+      "chorus-of-nymphs"
+    ]
+  }
+}

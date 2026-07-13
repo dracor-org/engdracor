@@ -1,0 +1,2181 @@
+{
+  "particDesc": [
+    {
+      "name": "Chorus 2",
+      "id": "chorus-2",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Priestess",
+      "id": "priestess",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Priest 3",
+      "id": "priest-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Priest 2",
+      "id": "priest-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Priest 1",
+      "id": "priest-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Scythians",
+      "id": "scythians",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "orestes",
+      "name": "Orestes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pilades",
+      "name": "Pilades",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "helymus",
+      "name": "Helymus ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "queen",
+      "name": "Queen ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "iphigenia",
+      "name": "Iphigenia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "euphrosine",
+      "name": "Euphrosine",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "delia",
+      "name": "Delia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A35670-e2530": [
+      "iphigenia"
+    ],
+    "A35670-e2670": [
+      "euphrosine"
+    ],
+    "A35670-e2700": [
+      "iphigenia"
+    ],
+    "A35670-e2840": [
+      "euphrosine"
+    ],
+    "A35670-e2900": [
+      "iphigenia"
+    ],
+    "A35670-e2960": [
+      "euphrosine"
+    ],
+    "A35670-e3010": [
+      "iphigenia"
+    ],
+    "A35670-e3110": [
+      "messenger"
+    ],
+    "A35670-e3210": [
+      "iphigenia"
+    ],
+    "A35670-e3280": [
+      "messenger"
+    ],
+    "A35670-e3320": [
+      "iphigenia"
+    ],
+    "A35670-e3410": [
+      "euphrosine"
+    ],
+    "A35670-e3610": [
+      "iphigenia"
+    ],
+    "A35670-e3900": [
+      "euphrosine"
+    ],
+    "A35670-e4160": [
+      "iphigenia"
+    ],
+    "A35670-e4190": [
+      "euphrosine"
+    ],
+    "A35670-e4300": [
+      "iphigenia"
+    ],
+    "A35670-e4360": [
+      "euphrosine"
+    ],
+    "A35670-e4460": [
+      "iphigenia"
+    ],
+    "A35670-e4490": [
+      "euphrosine"
+    ],
+    "A35670-e4620": [
+      "iphigenia"
+    ],
+    "A35670-e4660": [
+      "euphrosine"
+    ],
+    "A35670-e4910": [
+      "iphigenia"
+    ],
+    "A35670-e4960": [
+      "euphrosine"
+    ],
+    "A35670-e5270": [
+      "iphigenia"
+    ],
+    "A35670-e5300": [
+      "euphrosine"
+    ],
+    "A35670-e5500": [
+      "iphigenia"
+    ],
+    "A35670-e5560": [
+      "euphrosine"
+    ],
+    "A35670-e5760": [
+      "iphigenia"
+    ],
+    "A35670-e5920": [
+      "euphrosine"
+    ],
+    "A35670-e5960": [
+      "iphigenia"
+    ],
+    "A35670-e6040": [
+      "euphrosine"
+    ],
+    "A35670-e6090": [
+      "iphigenia"
+    ],
+    "A35670-e6230": [
+      "euphrosine"
+    ],
+    "A35670-e6260": [
+      "iphigenia"
+    ],
+    "A35670-e6410": [
+      "orestes"
+    ],
+    "A35670-e6570": [
+      "pilades"
+    ],
+    "A35670-e6630": [
+      "orestes"
+    ],
+    "A35670-e6730": [
+      "pilades"
+    ],
+    "A35670-e6850": [
+      "orestes"
+    ],
+    "A35670-e6960": [
+      "pilades"
+    ],
+    "A35670-e7040": [
+      "orestes"
+    ],
+    "A35670-e7200": [
+      "helymus"
+    ],
+    "A35670-e7290": [
+      "orestes"
+    ],
+    "A35670-e7380": [
+      "pilades"
+    ],
+    "A35670-e7740": [
+      "queen"
+    ],
+    "A35670-e8050": [
+      "orestes"
+    ],
+    "A35670-e8090": [
+      "queen"
+    ],
+    "A35670-e8120": [
+      "pilades"
+    ],
+    "A35670-e8170": [
+      "queen"
+    ],
+    "A35670-e8250": [
+      "orestes"
+    ],
+    "A35670-e8300": [
+      "pilades"
+    ],
+    "A35670-e8330": [
+      "orestes"
+    ],
+    "A35670-e8400": [
+      "pilades"
+    ],
+    "A35670-e8460": [
+      "queen"
+    ],
+    "A35670-e8500": [
+      "orestes"
+    ],
+    "A35670-e8550": [
+      "queen"
+    ],
+    "A35670-e8630": [
+      "orestes"
+    ],
+    "A35670-e8820": [
+      "queen"
+    ],
+    "A35670-e9030": [
+      "scythians"
+    ],
+    "A35670-e9110": [
+      "queen"
+    ],
+    "A35670-e9580": [
+      "iphigenia"
+    ],
+    "A35670-e9610": [
+      "euphrosine"
+    ],
+    "A35670-e9650": [
+      "iphigenia"
+    ],
+    "A35670-e9690": [
+      "euphrosine"
+    ],
+    "A35670-e9720": [
+      "iphigenia"
+    ],
+    "A35670-e9750": [
+      "euphrosine"
+    ],
+    "A35670-e9790": [
+      "iphigenia"
+    ],
+    "A35670-e9830": [
+      "euphrosine"
+    ],
+    "A35670-e9900": [
+      "iphigenia"
+    ],
+    "A35670-e10170": [
+      "euphrosine"
+    ],
+    "A35670-e10460": [
+      "iphigenia"
+    ],
+    "A35670-e10490": [
+      "euphrosine"
+    ],
+    "A35670-e10550": [
+      "iphigenia"
+    ],
+    "A35670-e10620": [
+      "scythians"
+    ],
+    "A35670-e10650": [
+      "iphigenia"
+    ],
+    "A35670-e10690": [
+      "scythians"
+    ],
+    "A35670-e10740": [
+      "iphigenia"
+    ],
+    "A35670-e10770": [
+      "euphrosine"
+    ],
+    "A35670-e10800": [
+      "scythians"
+    ],
+    "A35670-e10840": [
+      "euphrosine"
+    ],
+    "A35670-e10870": [
+      "scythians"
+    ],
+    "A35670-e10910": [
+      "euphrosine"
+    ],
+    "A35670-e10940": [
+      "scythians"
+    ],
+    "A35670-e11360": [
+      "euphrosine"
+    ],
+    "A35670-e11390": [
+      "scythians"
+    ],
+    "A35670-e11450": [
+      "iphigenia"
+    ],
+    "A35670-e11480": [
+      "scythians"
+    ],
+    "A35670-e11560": [
+      "euphrosine"
+    ],
+    "A35670-e11590": [
+      "scythians"
+    ],
+    "A35670-e11710": [
+      "euphrosine"
+    ],
+    "A35670-e11740": [
+      "iphigenia"
+    ],
+    "A35670-e11800": [
+      "scythians"
+    ],
+    "A35670-e11950": [
+      "iphigenia"
+    ],
+    "A35670-e12010": [
+      "euphrosine"
+    ],
+    "A35670-e12050": [
+      "iphigenia"
+    ],
+    "A35670-e12150": [
+      "euphrosine"
+    ],
+    "A35670-e12180": [
+      "iphigenia"
+    ],
+    "A35670-e12280": [
+      "euphrosine"
+    ],
+    "A35670-e12310": [
+      "iphigenia"
+    ],
+    "A35670-e12620": [
+      "orestes"
+    ],
+    "A35670-e12780": [
+      "iphigenia"
+    ],
+    "A35670-e12840": [
+      "orestes"
+    ],
+    "A35670-e12880": [
+      "iphigenia"
+    ],
+    "A35670-e12930": [
+      "orestes"
+    ],
+    "A35670-e12960": [
+      "iphigenia"
+    ],
+    "A35670-e12990": [
+      "orestes"
+    ],
+    "A35670-e13020": [
+      "iphigenia"
+    ],
+    "A35670-e13060": [
+      "orestes"
+    ],
+    "A35670-e13090": [
+      "iphigenia"
+    ],
+    "A35670-e13130": [
+      "orestes"
+    ],
+    "A35670-e13190": [
+      "iphigenia"
+    ],
+    "A35670-e13220": [
+      "orestes"
+    ],
+    "A35670-e13260": [
+      "iphigenia"
+    ],
+    "A35670-e13320": [
+      "orestes"
+    ],
+    "A35670-e13360": [
+      "iphigenia"
+    ],
+    "A35670-e13420": [
+      "orestes"
+    ],
+    "A35670-e13480": [
+      "iphigenia"
+    ],
+    "A35670-e13510": [
+      "orestes"
+    ],
+    "A35670-e13540": [
+      "iphigenia"
+    ],
+    "A35670-e13580": [
+      "orestes"
+    ],
+    "A35670-e13610": [
+      "iphigenia"
+    ],
+    "A35670-e13660": [
+      "orestes"
+    ],
+    "A35670-e13690": [
+      "iphigenia"
+    ],
+    "A35670-e13730": [
+      "orestes"
+    ],
+    "A35670-e13790": [
+      "iphigenia"
+    ],
+    "A35670-e13820": [
+      "orestes"
+    ],
+    "A35670-e13860": [
+      "iphigenia"
+    ],
+    "A35670-e13900": [
+      "orestes"
+    ],
+    "A35670-e13940": [
+      "iphigenia"
+    ],
+    "A35670-e13970": [
+      "orestes"
+    ],
+    "A35670-e14000": [
+      "iphigenia"
+    ],
+    "A35670-e14080": [
+      "orestes"
+    ],
+    "A35670-e14120": [
+      "iphigenia"
+    ],
+    "A35670-e14160": [
+      "orestes"
+    ],
+    "A35670-e14200": [
+      "iphigenia"
+    ],
+    "A35670-e14250": [
+      "orestes"
+    ],
+    "A35670-e14330": [
+      "iphigenia"
+    ],
+    "A35670-e14430": [
+      "orestes"
+    ],
+    "A35670-e14470": [
+      "iphigenia"
+    ],
+    "A35670-e14500": [
+      "orestes"
+    ],
+    "A35670-e14590": [
+      "iphigenia"
+    ],
+    "A35670-e14660": [
+      "orestes"
+    ],
+    "A35670-e14700": [
+      "iphigenia"
+    ],
+    "A35670-e14740": [
+      "orestes"
+    ],
+    "A35670-e14770": [
+      "iphigenia"
+    ],
+    "A35670-e14810": [
+      "orestes"
+    ],
+    "A35670-e14840": [
+      "iphigenia"
+    ],
+    "A35670-e14870": [
+      "orestes"
+    ],
+    "A35670-e14900": [
+      "iphigenia"
+    ],
+    "A35670-e14930": [
+      "orestes"
+    ],
+    "A35670-e15020": [
+      "iphigenia"
+    ],
+    "A35670-e15050": [
+      "orestes"
+    ],
+    "A35670-e15080": [
+      "iphigenia"
+    ],
+    "A35670-e15150": [
+      "orestes"
+    ],
+    "A35670-e15190": [
+      "iphigenia"
+    ],
+    "A35670-e15230": [
+      "orestes"
+    ],
+    "A35670-e15260": [
+      "iphigenia"
+    ],
+    "A35670-e15310": [
+      "orestes"
+    ],
+    "A35670-e15350": [
+      "iphigenia"
+    ],
+    "A35670-e15380": [
+      "orestes"
+    ],
+    "A35670-e15410": [
+      "iphigenia"
+    ],
+    "A35670-e15450": [
+      "orestes"
+    ],
+    "A35670-e15490": [
+      "iphigenia"
+    ],
+    "A35670-e15560": [
+      "orestes"
+    ],
+    "A35670-e15590": [
+      "iphigenia"
+    ],
+    "A35670-e15630": [
+      "orestes"
+    ],
+    "A35670-e15690": [
+      "euphrosine"
+    ],
+    "A35670-e15720": [
+      "orestes"
+    ],
+    "A35670-e15770": [
+      "pilades"
+    ],
+    "A35670-e15800": [
+      "orestes"
+    ],
+    "A35670-e15840": [
+      "pilades"
+    ],
+    "A35670-e15870": [
+      "orestes"
+    ],
+    "A35670-e15900": [
+      "pilades"
+    ],
+    "A35670-e15970": [
+      "orestes"
+    ],
+    "A35670-e16010": [
+      "pilades"
+    ],
+    "A35670-e16060": [
+      "orestes"
+    ],
+    "A35670-e16130": [
+      "queen"
+    ],
+    "A35670-e16240": [
+      "orestes"
+    ],
+    "A35670-e16340": [
+      "queen"
+    ],
+    "A35670-e16390": [
+      "pilades"
+    ],
+    "A35670-e16440": [
+      "orestes"
+    ],
+    "A35670-e16640": [
+      "pilades"
+    ],
+    "A35670-e16670": [
+      "orestes"
+    ],
+    "A35670-e16710": [
+      "pilades"
+    ],
+    "A35670-e16750": [
+      "orestes"
+    ],
+    "A35670-e16790": [
+      "pilades"
+    ],
+    "A35670-e16840": [
+      "orestes"
+    ],
+    "A35670-e16910": [
+      "pilades"
+    ],
+    "A35670-e17000": [
+      "orestes"
+    ],
+    "A35670-e17110": [
+      "pilades"
+    ],
+    "A35670-e17140": [
+      "orestes"
+    ],
+    "A35670-e17170": [
+      "pilades"
+    ],
+    "A35670-e17200": [
+      "orestes"
+    ],
+    "A35670-e17230": [
+      "pilades"
+    ],
+    "A35670-e17300": [
+      "orestes"
+    ],
+    "A35670-e17530": [
+      "pilades"
+    ],
+    "A35670-e17670": [
+      "orestes"
+    ],
+    "A35670-e17700": [
+      "pilades"
+    ],
+    "A35670-e17730": [
+      "orestes"
+    ],
+    "A35670-e17760": [
+      "pilades"
+    ],
+    "A35670-e17790": [
+      "orestes"
+    ],
+    "A35670-e17850": [
+      "pilades"
+    ],
+    "A35670-e17890": [
+      "orestes"
+    ],
+    "A35670-e17920": [
+      "pilades"
+    ],
+    "A35670-e17950": [
+      "orestes"
+    ],
+    "A35670-e17980": [
+      "pilades"
+    ],
+    "A35670-e18030": [
+      "orestes"
+    ],
+    "A35670-e18070": [
+      "queen"
+    ],
+    "A35670-e18110": [
+      "orestes"
+    ],
+    "A35670-e18140": [
+      "pilades"
+    ],
+    "A35670-e18170": [
+      "orestes"
+    ],
+    "A35670-e18210": [
+      "queen"
+    ],
+    "A35670-e18250": [
+      "pilades"
+    ],
+    "A35670-e18280": [
+      "queen"
+    ],
+    "A35670-e18400": [
+      "iphigenia"
+    ],
+    "A35670-e18460": [
+      "euphrosine"
+    ],
+    "A35670-e18490": [
+      "iphigenia"
+    ],
+    "A35670-e18530": [
+      "euphrosine"
+    ],
+    "A35670-e18560": [
+      "iphigenia"
+    ],
+    "A35670-e18600": [
+      "euphrosine"
+    ],
+    "A35670-e18630": [
+      "iphigenia"
+    ],
+    "A35670-e18690": [
+      "euphrosine"
+    ],
+    "A35670-e18720": [
+      "iphigenia"
+    ],
+    "A35670-e18750": [
+      "euphrosine"
+    ],
+    "A35670-e18780": [
+      "iphigenia"
+    ],
+    "A35670-e18870": [
+      "iphigenia"
+    ],
+    "A35670-e18900": [
+      "euphrosine"
+    ],
+    "A35670-e18930": [
+      "iphigenia"
+    ],
+    "A35670-e19010": [
+      "delia"
+    ],
+    "A35670-e19050": [
+      "iphigenia"
+    ],
+    "A35670-e19340": [
+      "orestes"
+    ],
+    "A35670-e19510": [
+      "iphigenia"
+    ],
+    "A35670-e19560": [
+      "orestes"
+    ],
+    "A35670-e19600": [
+      "iphigenia"
+    ],
+    "A35670-e19640": [
+      "orestes"
+    ],
+    "A35670-e19710": [
+      "iphigenia"
+    ],
+    "A35670-e19790": [
+      "orestes"
+    ],
+    "A35670-e19820": [
+      "iphigenia"
+    ],
+    "A35670-e19860": [
+      "orestes"
+    ],
+    "A35670-e19900": [
+      "iphigenia"
+    ],
+    "A35670-e19940": [
+      "orestes"
+    ],
+    "A35670-e19980": [
+      "iphigenia"
+    ],
+    "A35670-e20010": [
+      "orestes"
+    ],
+    "A35670-e20050": [
+      "iphigenia"
+    ],
+    "A35670-e20110": [
+      "orestes"
+    ],
+    "A35670-e20140": [
+      "iphigenia"
+    ],
+    "A35670-e20170": [
+      "orestes"
+    ],
+    "A35670-e20200": [
+      "iphigenia"
+    ],
+    "A35670-e20230": [
+      "orestes"
+    ],
+    "A35670-e20270": [
+      "iphigenia"
+    ],
+    "A35670-e20300": [
+      "orestes"
+    ],
+    "A35670-e20330": [
+      "iphigenia"
+    ],
+    "A35670-e20400": [
+      "orestes"
+    ],
+    "A35670-e20470": [
+      "iphigenia"
+    ],
+    "A35670-e20500": [
+      "orestes"
+    ],
+    "A35670-e20530": [
+      "iphigenia"
+    ],
+    "A35670-e20600": [
+      "orestes"
+    ],
+    "A35670-e20640": [
+      "iphigenia"
+    ],
+    "A35670-e20680": [
+      "orestes"
+    ],
+    "A35670-e20720": [
+      "iphigenia"
+    ],
+    "A35670-e20750": [
+      "orestes"
+    ],
+    "A35670-e20780": [
+      "iphigenia"
+    ],
+    "A35670-e20810": [
+      "orestes"
+    ],
+    "A35670-e20850": [
+      "iphigenia"
+    ],
+    "A35670-e21070": [
+      "orestes"
+    ],
+    "A35670-e21230": [
+      "pilades"
+    ],
+    "A35670-e21260": [
+      "orestes"
+    ],
+    "A35670-e21300": [
+      "pilades"
+    ],
+    "A35670-e21330": [
+      "orestes"
+    ],
+    "A35670-e21360": [
+      "pilades"
+    ],
+    "A35670-e21390": [
+      "orestes"
+    ],
+    "A35670-e21430": [
+      "pilades"
+    ],
+    "A35670-e21650": [
+      "orestes"
+    ],
+    "A35670-e21680": [
+      "pilades"
+    ],
+    "A35670-e21750": [
+      "orestes"
+    ],
+    "A35670-e21780": [
+      "pilades"
+    ],
+    "A35670-e21830": [
+      "orestes"
+    ],
+    "A35670-e21870": [
+      "pilades"
+    ],
+    "A35670-e21930": [
+      "orestes"
+    ],
+    "A35670-e21960": [
+      "pilades"
+    ],
+    "A35670-e22000": [
+      "orestes"
+    ],
+    "A35670-e22030": [
+      "pilades"
+    ],
+    "A35670-e22070": [
+      "orestes"
+    ],
+    "A35670-e22110": [
+      "pilades"
+    ],
+    "A35670-e22140": [
+      "orestes"
+    ],
+    "A35670-e22170": [
+      "pilades"
+    ],
+    "A35670-e22200": [
+      "orestes"
+    ],
+    "A35670-e22230": [
+      "pilades"
+    ],
+    "A35670-e22260": [
+      "orestes"
+    ],
+    "A35670-e22300": [
+      "pilades"
+    ],
+    "A35670-e22340": [
+      "orestes"
+    ],
+    "A35670-e22370": [
+      "pilades"
+    ],
+    "A35670-e22410": [
+      "orestes"
+    ],
+    "A35670-e22450": [
+      "pilades"
+    ],
+    "A35670-e22480": [
+      "orestes"
+    ],
+    "A35670-e22510": [
+      "pilades"
+    ],
+    "A35670-e22540": [
+      "orestes"
+    ],
+    "A35670-e22570": [
+      "pilades"
+    ],
+    "A35670-e22620": [
+      "orestes"
+    ],
+    "A35670-e22650": [
+      "pilades"
+    ],
+    "A35670-e22690": [
+      "orestes"
+    ],
+    "A35670-e22720": [
+      "pilades"
+    ],
+    "A35670-e22760": [
+      "orestes"
+    ],
+    "A35670-e22790": [
+      "pilades"
+    ],
+    "A35670-e22820": [
+      "orestes"
+    ],
+    "A35670-e22850": [
+      "pilades"
+    ],
+    "A35670-e22880": [
+      "orestes"
+    ],
+    "A35670-e22910": [
+      "pilades"
+    ],
+    "A35670-e22950": [
+      "orestes"
+    ],
+    "A35670-e23000": [
+      "pilades"
+    ],
+    "A35670-e23110": [
+      "orestes"
+    ],
+    "A35670-e23150": [
+      "pilades"
+    ],
+    "A35670-e23190": [
+      "orestes"
+    ],
+    "A35670-e23220": [
+      "pilades"
+    ],
+    "A35670-e23250": [
+      "orestes"
+    ],
+    "A35670-e23280": [
+      "pilades"
+    ],
+    "A35670-e23320": [
+      "orestes"
+    ],
+    "A35670-e23350": [
+      "pilades"
+    ],
+    "A35670-e23450": [
+      "orestes"
+    ],
+    "A35670-e23480": [
+      "pilades"
+    ],
+    "A35670-e23620": [
+      "orestes"
+    ],
+    "A35670-e23650": [
+      "pilades"
+    ],
+    "A35670-e23680": [
+      "orestes"
+    ],
+    "A35670-e23710": [
+      "pilades"
+    ],
+    "A35670-e23740": [
+      "orestes"
+    ],
+    "A35670-e23790": [
+      "pilades"
+    ],
+    "A35670-e23820": [
+      "delia"
+    ],
+    "A35670-e23880": [
+      "orestes"
+    ],
+    "A35670-e23930": [
+      "pilades"
+    ],
+    "A35670-e23960": [
+      "orestes"
+    ],
+    "A35670-e24020": [
+      "pilades"
+    ],
+    "A35670-e24050": [
+      "orestes"
+    ],
+    "A35670-e24090": [
+      "pilades"
+    ],
+    "A35670-e24130": [
+      "orestes"
+    ],
+    "A35670-e24160": [
+      "pilades"
+    ],
+    "A35670-e24190": [
+      "orestes"
+    ],
+    "A35670-e24220": [
+      "pilades"
+    ],
+    "A35670-e24260": [
+      "orestes"
+    ],
+    "A35670-e24310": [
+      "pilades"
+    ],
+    "A35670-e24350": [
+      "orestes"
+    ],
+    "A35670-e24380": [
+      "pilades"
+    ],
+    "A35670-e24410": [
+      "orestes"
+    ],
+    "A35670-e24450": [
+      "pilades"
+    ],
+    "A35670-e24480": [
+      "orestes"
+    ],
+    "A35670-e24510": [
+      "pilades"
+    ],
+    "A35670-e24560": [
+      "orestes"
+    ],
+    "A35670-e24590": [
+      "pilades"
+    ],
+    "A35670-e24630": [
+      "orestes"
+    ],
+    "A35670-e24670": [
+      "pilades"
+    ],
+    "A35670-e24710": [
+      "euphrosine"
+    ],
+    "A35670-e24810": [
+      "pilades"
+    ],
+    "A35670-e24900": [
+      "orestes"
+    ],
+    "A35670-e24930": [
+      "pilades"
+    ],
+    "A35670-e24970": [
+      "orestes"
+    ],
+    "A35670-e25030": [
+      "pilades"
+    ],
+    "A35670-e25060": [
+      "orestes"
+    ],
+    "A35670-e25090": [
+      "pilades"
+    ],
+    "A35670-e25120": [
+      "orestes"
+    ],
+    "A35670-e25210": [
+      "pilades"
+    ],
+    "A35670-e25250": [
+      "orestes"
+    ],
+    "A35670-e25400": [
+      "pilades"
+    ],
+    "A35670-e25430": [
+      "orestes"
+    ],
+    "A35670-e25460": [
+      "pilades"
+    ],
+    "A35670-e25520": [
+      "orestes"
+    ],
+    "A35670-e25660": [
+      "pilades"
+    ],
+    "A35670-e25840": [
+      "orestes"
+    ],
+    "A35670-e25870": [
+      "iphigenia"
+    ],
+    "A35670-e25900": [
+      "orestes"
+    ],
+    "A35670-e25930": [
+      "iphigenia"
+    ],
+    "A35670-e25960": [
+      "orestes"
+    ],
+    "A35670-e25990": [
+      "iphigenia"
+    ],
+    "A35670-e26150": [
+      "iphigenia"
+    ],
+    "A35670-e26180": [
+      "scythians"
+    ],
+    "A35670-e26210": [
+      "orestes"
+    ],
+    "A35670-e26250": [
+      "pilades"
+    ],
+    "A35670-e26280": [
+      "orestes"
+    ],
+    "A35670-e26320": [
+      "scythians"
+    ],
+    "A35670-e26410": [
+      "iphigenia"
+    ],
+    "A35670-e26440": [
+      "pilades"
+    ],
+    "A35670-e26470": [
+      "orestes"
+    ],
+    "A35670-e26580": [
+      "queen"
+    ],
+    "A35670-e26610": [
+      "scythians"
+    ],
+    "A35670-e26670": [
+      "queen"
+    ],
+    "A35670-e26730": [
+      "scythians"
+    ],
+    "A35670-e26830": [
+      "queen"
+    ],
+    "A35670-e26920": [
+      "scythians"
+    ],
+    "A35670-e26950": [
+      "queen"
+    ],
+    "A35670-e27140": [
+      "pilades"
+    ],
+    "A35670-e27170": [
+      "queen"
+    ],
+    "A35670-e27220": [
+      "pilades"
+    ],
+    "A35670-e27260": [
+      "queen"
+    ],
+    "A35670-e27310": [
+      "pilades"
+    ],
+    "A35670-e27350": [
+      "queen"
+    ],
+    "A35670-e27400": [
+      "pilades"
+    ],
+    "A35670-e27430": [
+      "queen"
+    ],
+    "A35670-e27510": [
+      "pilades"
+    ],
+    "A35670-e27540": [
+      "pilades"
+    ],
+    "A35670-e27620": [
+      "pilades"
+    ],
+    "A35670-e27650": [
+      "queen"
+    ],
+    "A35670-e27700": [
+      "pilades"
+    ],
+    "A35670-e27830": [
+      "queen"
+    ],
+    "A35670-e27860": [
+      "pilades"
+    ],
+    "A35670-e27900": [
+      "queen"
+    ],
+    "A35670-e27930": [
+      "pilades"
+    ],
+    "A35670-e27960": [
+      "queen"
+    ],
+    "A35670-e28010": [
+      "pilades"
+    ],
+    "A35670-e28050": [
+      "queen"
+    ],
+    "A35670-e28080": [
+      "pilades"
+    ],
+    "A35670-e28110": [
+      "queen"
+    ],
+    "A35670-e28140": [
+      "pilades"
+    ],
+    "A35670-e28190": [
+      "queen"
+    ],
+    "A35670-e28240": [
+      "pilades"
+    ],
+    "A35670-e28310": [
+      "queen"
+    ],
+    "A35670-e28340": [
+      "pilades"
+    ],
+    "A35670-e28370": [
+      "queen"
+    ],
+    "A35670-e28400": [
+      "pilades"
+    ],
+    "A35670-e28440": [
+      "queen"
+    ],
+    "A35670-e28490": [
+      "pilades"
+    ],
+    "A35670-e28530": [
+      "queen"
+    ],
+    "A35670-e28560": [
+      "pilades"
+    ],
+    "A35670-e28590": [
+      "queen"
+    ],
+    "A35670-e28620": [
+      "pilades"
+    ],
+    "A35670-e28650": [
+      "queen"
+    ],
+    "A35670-e28680": [
+      "pilades"
+    ],
+    "A35670-e28730": [
+      "queen"
+    ],
+    "A35670-e29080": [
+      "iphigenia"
+    ],
+    "A35670-e29120": [
+      "queen"
+    ],
+    "A35670-e29150": [
+      "iphigenia"
+    ],
+    "A35670-e29200": [
+      "queen"
+    ],
+    "A35670-e29230": [
+      "iphigenia"
+    ],
+    "A35670-e29260": [
+      "queen"
+    ],
+    "A35670-e29290": [
+      "iphigenia"
+    ],
+    "A35670-e29330": [
+      "queen"
+    ],
+    "A35670-e29380": [
+      "iphigenia"
+    ],
+    "A35670-e29450": [
+      "queen"
+    ],
+    "A35670-e29530": [
+      "iphigenia"
+    ],
+    "A35670-e29580": [
+      "queen"
+    ],
+    "A35670-e29640": [
+      "iphigenia"
+    ],
+    "A35670-e29690": [
+      "queen"
+    ],
+    "A35670-e29780": [
+      "iphigenia"
+    ],
+    "A35670-e29810": [
+      "queen"
+    ],
+    "A35670-e29870": [
+      "iphigenia"
+    ],
+    "A35670-e29910": [
+      "queen"
+    ],
+    "A35670-e29970": [
+      "iphigenia"
+    ],
+    "A35670-e30000": [
+      "queen"
+    ],
+    "A35670-e30030": [
+      "iphigenia"
+    ],
+    "A35670-e30070": [
+      "queen"
+    ],
+    "A35670-e30170": [
+      "iphigenia"
+    ],
+    "A35670-e30220": [
+      "queen"
+    ],
+    "A35670-e30290": [
+      "iphigenia"
+    ],
+    "A35670-e30330": [
+      "queen"
+    ],
+    "A35670-e30400": [
+      "iphigenia"
+    ],
+    "A35670-e30510": [
+      "queen"
+    ],
+    "A35670-e30610": [
+      "iphigenia"
+    ],
+    "A35670-e30640": [
+      "queen"
+    ],
+    "A35670-e30720": [
+      "iphigenia"
+    ],
+    "A35670-e30750": [
+      "queen"
+    ],
+    "A35670-e31020": [
+      "iphigenia"
+    ],
+    "A35670-e31310": [
+      "orestes"
+    ],
+    "A35670-e31370": [
+      "iphigenia"
+    ],
+    "A35670-e31410": [
+      "orestes"
+    ],
+    "A35670-e31440": [
+      "iphigenia"
+    ],
+    "A35670-e31470": [
+      "orestes"
+    ],
+    "A35670-e31510": [
+      "iphigenia"
+    ],
+    "A35670-e31550": [
+      "orestes"
+    ],
+    "A35670-e31580": [
+      "iphigenia"
+    ],
+    "A35670-e31610": [
+      "orestes"
+    ],
+    "A35670-e31640": [
+      "iphigenia"
+    ],
+    "A35670-e31670": [
+      "orestes"
+    ],
+    "A35670-e31700": [
+      "iphigenia"
+    ],
+    "A35670-e31760": [
+      "orestes"
+    ],
+    "A35670-e31790": [
+      "iphigenia"
+    ],
+    "A35670-e31820": [
+      "orestes"
+    ],
+    "A35670-e31870": [
+      "iphigenia"
+    ],
+    "A35670-e31910": [
+      "orestes"
+    ],
+    "A35670-e31950": [
+      "iphigenia"
+    ],
+    "A35670-e32000": [
+      "orestes"
+    ],
+    "A35670-e32030": [
+      "iphigenia"
+    ],
+    "A35670-e32060": [
+      "orestes"
+    ],
+    "A35670-e32090": [
+      "iphigenia"
+    ],
+    "A35670-e32120": [
+      "orestes"
+    ],
+    "A35670-e32150": [
+      "iphigenia"
+    ],
+    "A35670-e32180": [
+      "orestes"
+    ],
+    "A35670-e32210": [
+      "iphigenia"
+    ],
+    "A35670-e32260": [
+      "orestes"
+    ],
+    "A35670-e32290": [
+      "iphigenia"
+    ],
+    "A35670-e32320": [
+      "orestes"
+    ],
+    "A35670-e32350": [
+      "iphigenia"
+    ],
+    "A35670-e32380": [
+      "orestes"
+    ],
+    "A35670-e32460": [
+      "iphigenia"
+    ],
+    "A35670-e32510": [
+      "orestes"
+    ],
+    "A35670-e32560": [
+      "iphigenia"
+    ],
+    "A35670-e32600": [
+      "orestes"
+    ],
+    "A35670-e32630": [
+      "iphigenia"
+    ],
+    "A35670-e32770": [
+      "orestes"
+    ],
+    "A35670-e32800": [
+      "iphigenia"
+    ],
+    "A35670-e33000": [
+      "orestes"
+    ],
+    "A35670-e33040": [
+      "iphigenia"
+    ],
+    "A35670-e33090": [
+      "orestes"
+    ],
+    "A35670-e33130": [
+      "iphigenia"
+    ],
+    "A35670-e33210": [
+      "orestes"
+    ],
+    "A35670-e33240": [
+      "iphigenia"
+    ],
+    "A35670-e33280": [
+      "orestes"
+    ],
+    "A35670-e33310": [
+      "iphigenia"
+    ],
+    "A35670-e33340": [
+      "orestes"
+    ],
+    "A35670-e33370": [
+      "iphigenia"
+    ],
+    "A35670-e33400": [
+      "orestes"
+    ],
+    "A35670-e33430": [
+      "iphigenia"
+    ],
+    "A35670-e33460": [
+      "orestes"
+    ],
+    "A35670-e33490": [
+      "iphigenia"
+    ],
+    "A35670-e33520": [
+      "orestes"
+    ],
+    "A35670-e33550": [
+      "iphigenia"
+    ],
+    "A35670-e33600": [
+      "orestes"
+    ],
+    "A35670-e33680": [
+      "iphigenia"
+    ],
+    "A35670-e33720": [
+      "orestes"
+    ],
+    "A35670-e33760": [
+      "iphigenia"
+    ],
+    "A35670-e33790": [
+      "orestes"
+    ],
+    "A35670-e33820": [
+      "iphigenia"
+    ],
+    "A35670-e33850": [
+      "orestes"
+    ],
+    "A35670-e33890": [
+      "iphigenia"
+    ],
+    "A35670-e33920": [
+      "orestes"
+    ],
+    "A35670-e33970": [
+      "iphigenia"
+    ],
+    "A35670-e34000": [
+      "orestes"
+    ],
+    "A35670-e34200": [
+      "orestes"
+    ],
+    "A35670-e34240": [
+      "scythians"
+    ],
+    "A35670-e34380": [
+      "orestes"
+    ],
+    "A35670-e34540": [
+      "iphigenia"
+    ],
+    "A35670-e34640": [
+      "priest-1"
+    ],
+    "A35670-e34670": [
+      "priest-2"
+    ],
+    "A35670-e34720": [
+      "priest-1"
+    ],
+    "A35670-e34760": [
+      "priest-2"
+    ],
+    "A35670-e34800": [
+      "priest-1"
+    ],
+    "A35670-e34850": [
+      "queen"
+    ],
+    "A35670-e34890": [
+      "priest-1"
+    ],
+    "A35670-e34940": [
+      "queen"
+    ],
+    "A35670-e34990": [
+      "priestess"
+    ],
+    "A35670-e35380": [
+      "queen"
+    ],
+    "A35670-e35410": [
+      "scythians"
+    ],
+    "A35670-e35500": [
+      "queen"
+    ],
+    "A35670-e35530": [
+      "scythians"
+    ],
+    "A35670-e35630": [
+      "queen"
+    ],
+    "A35670-e35660": [
+      "scythians"
+    ],
+    "A35670-e35780": [
+      "queen"
+    ],
+    "A35670-e35970": [
+      "priest-1"
+    ],
+    "A35670-e36010": [
+      "queen"
+    ],
+    "A35670-e36040": [
+      "priest-1"
+    ],
+    "A35670-e36210": [
+      "scythians"
+    ],
+    "A35670-e36250": [
+      "queen"
+    ],
+    "A35670-e36280": [
+      "scythians"
+    ],
+    "A35670-e36320": [
+      "queen"
+    ],
+    "A35670-e36450": [
+      "priest-1"
+    ],
+    "A35670-e36500": [
+      "chorus"
+    ],
+    "A35670-e36530": [
+      "priest-2"
+    ],
+    "A35670-e36580": [
+      "chorus"
+    ],
+    "A35670-e36610": [
+      "priest-3"
+    ],
+    "A35670-e36670": [
+      "chorus"
+    ],
+    "A35670-e36850": [
+      "chorus"
+    ],
+    "A35670-e36890": [
+      "priest-2"
+    ],
+    "A35670-e37010": [
+      "chorus"
+    ],
+    "A35670-e37070": [
+      "chorus-2"
+    ],
+    "A35670-e37220": [
+      "priest-2"
+    ],
+    "A35670-e37430": [
+      "chorus"
+    ],
+    "A35670-e37560": [
+      "queen"
+    ],
+    "A35670-e37620": [
+      "messenger"
+    ],
+    "A35670-e37680": [
+      "queen"
+    ],
+    "A35670-e37710": [
+      "messenger"
+    ],
+    "A35670-e37740": [
+      "queen"
+    ],
+    "A35670-e37770": [
+      "iphigenia"
+    ],
+    "A35670-e37820": [
+      "pilades"
+    ],
+    "A35670-e37880": [
+      "queen"
+    ],
+    "A35670-e37910": [
+      "euphrosine"
+    ],
+    "A35670-e37940": [
+      "pilades"
+    ],
+    "A35670-e37980": [
+      "iphigenia"
+    ],
+    "A35670-e38020": [
+      "queen"
+    ],
+    "A35670-e38080": [
+      "pilades"
+    ],
+    "A35670-e38120": [
+      "queen"
+    ],
+    "A35670-e38150": [
+      "pilades"
+    ],
+    "A35670-e38190": [
+      "queen"
+    ],
+    "A35670-e38230": [
+      "pilades"
+    ],
+    "A35670-e38300": [
+      "queen"
+    ],
+    "A35670-e38350": [
+      "pilades"
+    ],
+    "A35670-e38500": [
+      "queen"
+    ],
+    "A35670-e38530": [
+      "pilades"
+    ],
+    "A35670-e38810": [
+      "scythians"
+    ],
+    "A35670-e38840": [
+      "queen"
+    ],
+    "A35670-e38900": [
+      "orestes"
+    ],
+    "A35670-e38940": [
+      "queen"
+    ],
+    "A35670-e38990": [
+      "iphigenia"
+    ],
+    "A35670-e39050": [
+      "queen"
+    ],
+    "A35670-e39080": [
+      "priestess"
+    ],
+    "A35670-e39110": [
+      "queen"
+    ],
+    "A35670-e39160": [
+      "orestes"
+    ],
+    "A35670-e39200": [
+      "queen"
+    ],
+    "A35670-e39230": [
+      "orestes"
+    ],
+    "A35670-e39260": [
+      "queen"
+    ],
+    "A35670-e39290": [
+      "orestes"
+    ],
+    "A35670-e39320": [
+      "queen"
+    ],
+    "A35670-e39360": [
+      "orestes"
+    ],
+    "A35670-e39400": [
+      "queen"
+    ],
+    "A35670-e39440": [
+      "orestes"
+    ],
+    "A35670-e39480": [
+      "queen"
+    ],
+    "A35670-e39510": [
+      "orestes"
+    ],
+    "A35670-e39560": [
+      "queen"
+    ],
+    "A35670-e39590": [
+      "orestes"
+    ],
+    "A35670-e39620": [
+      "queen"
+    ],
+    "A35670-e39650": [
+      "orestes"
+    ],
+    "A35670-e39980": [
+      "queen"
+    ],
+    "A35670-e40010": [
+      "euphrosine"
+    ],
+    "A35670-e40040": [
+      "iphigenia"
+    ],
+    "A35670-e40070": [
+      "queen"
+    ],
+    "A35670-e40110": [
+      "euphrosine"
+    ],
+    "A35670-e40180": [
+      "queen"
+    ],
+    "A35670-e40240": [
+      "priestess"
+    ],
+    "A35670-e40270": [
+      "queen"
+    ],
+    "A35670-e40310": [
+      "priestess"
+    ],
+    "A35670-e40340": [
+      "queen"
+    ],
+    "A35670-e40370": [
+      "priestess"
+    ],
+    "A35670-e40400": [
+      "queen"
+    ],
+    "A35670-e40430": [
+      "priestess"
+    ],
+    "A35670-e40460": [
+      "queen"
+    ],
+    "A35670-e40490": [
+      "priestess"
+    ],
+    "A35670-e40520": [
+      "queen"
+    ],
+    "A35670-e40640": [
+      "orestes"
+    ],
+    "A35670-e40670": [
+      "queen"
+    ],
+    "A35670-e40760": [
+      "orestes"
+    ],
+    "A35670-e40790": [
+      "queen"
+    ],
+    "A35670-e40990": [
+      "pilades"
+    ],
+    "A35670-e41020": [
+      "orestes"
+    ],
+    "A35670-e41110": [
+      "queen"
+    ],
+    "A35670-e41150": [
+      "orestes"
+    ],
+    "A35670-e41290": [
+      "queen"
+    ],
+    "A35670-e41320": [
+      "orestes"
+    ],
+    "A35670-e41350": [
+      "queen"
+    ],
+    "A35670-e41410": [
+      "orestes"
+    ],
+    "A35670-e41560": [
+      "queen"
+    ],
+    "A35670-e41590": [
+      "orestes"
+    ],
+    "A35670-e41630": [
+      "queen"
+    ],
+    "A35670-e41660": [
+      "orestes"
+    ],
+    "A35670-e41690": [
+      "queen"
+    ],
+    "A35670-e41720": [
+      "orestes"
+    ],
+    "A35670-e41750": [
+      "queen"
+    ],
+    "A35670-e41830": [
+      "priestess"
+    ],
+    "A35670-e41860": [
+      "orestes"
+    ],
+    "A35670-e41890": [
+      "pilades"
+    ],
+    "A35670-e41920": [
+      "queen"
+    ],
+    "A35670-e41960": [
+      "pilades"
+    ],
+    "A35670-e42000": [
+      "queen"
+    ],
+    "A35670-e42030": [
+      "orestes"
+    ],
+    "A35670-e42060": [
+      "queen"
+    ],
+    "A35670-e42120": [
+      "orestes"
+    ],
+    "A35670-e42360": [
+      "priestess"
+    ],
+    "A35670-e42420": [
+      "scythians"
+    ],
+    "A35670-e42450": [
+      "queen"
+    ],
+    "A35670-e42630": [
+      "pilades"
+    ],
+    "A35670-e42660": [
+      "queen"
+    ],
+    "A35670-e42790": [
+      "pilades"
+    ],
+    "A35670-e42820": [
+      "orestes"
+    ],
+    "A35670-e42860": [
+      "queen"
+    ],
+    "A35670-e42930": [
+      "orestes"
+    ],
+    "A35670-e42960": [
+      "queen"
+    ],
+    "A35670-e42990": [
+      "orestes"
+    ],
+    "A35670-e43060": [
+      "queen"
+    ],
+    "A35670-e43090": [
+      "orestes"
+    ],
+    "A35670-e43150": [
+      "iphigenia"
+    ],
+    "A35670-e43190": [
+      "orestes"
+    ],
+    "A35670-e43270": [
+      "iphigenia"
+    ],
+    "A35670-e43320": [
+      "orestes"
+    ],
+    "A35670-e43350": [
+      "iphigenia"
+    ],
+    "A35670-e43390": [
+      "orestes"
+    ],
+    "A35670-e43470": [
+      "iphigenia"
+    ],
+    "A35670-e43560": [
+      "orestes"
+    ],
+    "A35670-e43610": [
+      "iphigenia"
+    ],
+    "A35670-e43670": [
+      "orestes"
+    ],
+    "A35670-e43710": [
+      "iphigenia"
+    ],
+    "A35670-e43750": [
+      "orestes"
+    ],
+    "A35670-e43790": [
+      "iphigenia"
+    ],
+    "A35670-e43920": [
+      "orestes"
+    ],
+    "A35670-e43970": [
+      "iphigenia"
+    ],
+    "A35670-e44000": [
+      "orestes"
+    ],
+    "A35670-e44030": [
+      "iphigenia"
+    ],
+    "A35670-e44070": [
+      "queen"
+    ],
+    "A35670-e44100": [
+      "euphrosine"
+    ],
+    "A35670-e44140": [
+      "queen"
+    ],
+    "A35670-e44210": [
+      "pilades"
+    ],
+    "A35670-e44260": [
+      "orestes"
+    ],
+    "A35670-e44300": [
+      "pilades"
+    ],
+    "A35670-e44350": [
+      "queen"
+    ],
+    "A35670-e44400": [
+      "iphigenia"
+    ],
+    "A35670-e44440": [
+      "queen"
+    ],
+    "A35670-e44480": [
+      "orestes"
+    ],
+    "A35670-e44670": [
+      "pilades"
+    ],
+    "A35670-e44740": [
+      "orestes"
+    ],
+    "A35670-e44920": [
+      "queen"
+    ],
+    "A35670-e44990": [
+      "orestes"
+    ]
+  }
+}

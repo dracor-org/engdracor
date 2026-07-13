@@ -1,0 +1,2525 @@
+{
+  "particDesc": [
+    {
+      "name": "Servants",
+      "id": "servants",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chairman 2",
+      "id": "chairman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chairman 1",
+      "id": "chairman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Dutchess Sanserre",
+      "id": "dutchess-sanserre",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Wench",
+      "id": "wench",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Roger",
+      "id": "roger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "duke-de-sanserre",
+      "name": "Duke de Sanserre",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "guillamour",
+      "name": "Guillamour",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "count-de-brissac",
+      "name": "Count de Brissac",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "count-de-fiesque",
+      "name": "Count de Fiesque",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "count-de-tonnere",
+      "name": "Count de Tonnere",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-blunder-bosses",
+      "name": "Sir Blunder Bosses",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rambure",
+      "name": "Rambure",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dutch",
+      "name": "Dutch",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lady-brissac",
+      "name": "Lady Brissac",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "madam-de-vandosme",
+      "name": "Madam de Vandosme",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "daubray",
+      "name": "Daubray",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "la-busque",
+      "name": "La Busque",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "grossiere",
+      "name": "Grossiere ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A36984-e2910": [
+      "count-de-fiesque"
+    ],
+    "A36984-e2950": [
+      "rambure"
+    ],
+    "A36984-e2980": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3030": [
+      "rambure"
+    ],
+    "A36984-e3060": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3090": [
+      "rambure"
+    ],
+    "A36984-e3140": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3170": [
+      "rambure"
+    ],
+    "A36984-e3210": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3250": [
+      "rambure"
+    ],
+    "A36984-e3280": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3310": [
+      "rambure"
+    ],
+    "A36984-e3380": [
+      "count-de-tonnere"
+    ],
+    "A36984-e3420": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3470": [
+      "count-de-tonnere"
+    ],
+    "A36984-e3510": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3540": [
+      "count-de-tonnere"
+    ],
+    "A36984-e3590": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3630": [
+      "count-de-tonnere"
+    ],
+    "A36984-e3660": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3700": [
+      "count-de-tonnere"
+    ],
+    "A36984-e3740": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3790": [
+      "count-de-tonnere"
+    ],
+    "A36984-e3830": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3910": [
+      "rambure"
+    ],
+    "A36984-e3940": [
+      "count-de-fiesque"
+    ],
+    "A36984-e3970": [
+      "rambure"
+    ],
+    "A36984-e4050": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4090": [
+      "grossiere"
+    ],
+    "A36984-e4140": [
+      "count-de-tonnere"
+    ],
+    "A36984-e4180": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4210": [
+      "count-de-tonnere"
+    ],
+    "A36984-e4240": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4280": [
+      "count-de-tonnere"
+    ],
+    "A36984-e4310": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4350": [
+      "count-de-tonnere"
+    ],
+    "A36984-e4380": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4410": [
+      "count-de-tonnere"
+    ],
+    "A36984-e4480": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4550": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e4580": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4610": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e4640": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4670": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e4700": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4730": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e4770": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4800": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e4830": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4860": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e4890": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4920": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e4950": [
+      "count-de-fiesque"
+    ],
+    "A36984-e4980": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5010": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5060": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5090": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5120": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5170": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5200": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5230": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5270": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5310": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5350": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5390": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5420": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5450": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5480": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5510": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5600": [
+      "count-de-tonnere"
+    ],
+    "A36984-e5700": [
+      "count-de-fiesque"
+    ],
+    "A36984-e5770": [
+      "count-de-tonnere"
+    ],
+    "A36984-e5820": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5860": [
+      "count-de-tonnere"
+    ],
+    "A36984-e5890": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e5950": [
+      "count-de-tonnere"
+    ],
+    "A36984-e5990": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6020": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6070": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6100": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6150": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6190": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6230": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6260": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6290": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6340": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6400": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6430": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6470": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6510": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6550": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6580": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6610": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6660": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6740": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6800": [
+      "count-de-fiesque"
+    ],
+    "A36984-e6840": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6870": [
+      "count-de-fiesque"
+    ],
+    "A36984-e6910": [
+      "count-de-tonnere"
+    ],
+    "A36984-e6950": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e6980": [
+      "count-de-fiesque"
+    ],
+    "A36984-e7020": [
+      "count-de-tonnere"
+    ],
+    "A36984-e7070": [
+      "count-de-fiesque"
+    ],
+    "A36984-e7120": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e7150": [
+      "count-de-fiesque"
+    ],
+    "A36984-e7200": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e7230": [
+      "count-de-fiesque"
+    ],
+    "A36984-e7260": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e7300": [
+      "count-de-fiesque"
+    ],
+    "A36984-e7340": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e7500": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e7560": [
+      "count-de-brissac"
+    ],
+    "A36984-e7590": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e7620": [
+      "count-de-brissac"
+    ],
+    "A36984-e7650": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e7690": [
+      "count-de-brissac"
+    ],
+    "A36984-e7720": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e7750": [
+      "count-de-brissac"
+    ],
+    "A36984-e7790": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e7820": [
+      "count-de-brissac"
+    ],
+    "A36984-e7870": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e7900": [
+      "count-de-brissac"
+    ],
+    "A36984-e7930": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e7960": [
+      "count-de-brissac"
+    ],
+    "A36984-e7990": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e8020": [
+      "count-de-brissac"
+    ],
+    "A36984-e8050": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e8080": [
+      "count-de-brissac"
+    ],
+    "A36984-e8110": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e8140": [
+      "count-de-brissac"
+    ],
+    "A36984-e8170": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e8220": [
+      "page"
+    ],
+    "A36984-e8260": [
+      "count-de-brissac"
+    ],
+    "A36984-e8290": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e8330": [
+      "count-de-brissac"
+    ],
+    "A36984-e8380": [
+      "page"
+    ],
+    "A36984-e8410": [
+      "count-de-brissac"
+    ],
+    "A36984-e8440": [
+      "page"
+    ],
+    "A36984-e8500": [
+      "count-de-brissac"
+    ],
+    "A36984-e8530": [
+      "page"
+    ],
+    "A36984-e8560": [
+      "count-de-brissac"
+    ],
+    "A36984-e8590": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e8650": [
+      "count-de-brissac"
+    ],
+    "A36984-e8690": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e8730": [
+      "count-de-brissac"
+    ],
+    "A36984-e8770": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e8840": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e8870": [
+      "count-de-brissac"
+    ],
+    "A36984-e8900": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e8970": [
+      "count-de-brissac"
+    ],
+    "A36984-e9000": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e9030": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e9070": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e9100": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e9150": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e9190": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e9250": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e9310": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e9340": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e9380": [
+      "count-de-brissac"
+    ],
+    "A36984-e9410": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e9450": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e9510": [
+      "count-de-brissac"
+    ],
+    "A36984-e9540": [
+      "count-de-brissac"
+    ],
+    "A36984-e9590": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e9630": [
+      "count-de-brissac"
+    ],
+    "A36984-e9690": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e9830": [
+      "lady-brissac"
+    ],
+    "A36984-e9910": [
+      "count-de-tonnere"
+    ],
+    "A36984-e9940": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e9970": [
+      "count-de-tonnere"
+    ],
+    "A36984-e10000": [
+      "lady-brissac"
+    ],
+    "A36984-e10060": [
+      "count-de-tonnere"
+    ],
+    "A36984-e10100": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e10130": [
+      "lady-brissac"
+    ],
+    "A36984-e10210": [
+      "count-de-tonnere"
+    ],
+    "A36984-e10280": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e10320": [
+      "count-de-tonnere"
+    ],
+    "A36984-e10350": [
+      "lady-brissac"
+    ],
+    "A36984-e10430": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e10460": [
+      "count-de-tonnere"
+    ],
+    "A36984-e10490": [
+      "lady-brissac"
+    ],
+    "A36984-e10600": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e10720": [
+      "guillamour"
+    ],
+    "A36984-e10750": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e10780": [
+      "guillamour"
+    ],
+    "A36984-e10850": [
+      "la-busque"
+    ],
+    "A36984-e10920": [
+      "guillamour"
+    ],
+    "A36984-e10950": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e10990": [
+      "guillamour"
+    ],
+    "A36984-e11030": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e11120": [
+      "guillamour"
+    ],
+    "A36984-e11200": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e11240": [
+      "guillamour"
+    ],
+    "A36984-e11330": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e11470": [
+      "wench"
+    ],
+    "A36984-e11510": [
+      "roger"
+    ],
+    "A36984-e11540": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e11570": [
+      "roger"
+    ],
+    "A36984-e11640": [
+      "wench"
+    ],
+    "A36984-e11710": [
+      "roger"
+    ],
+    "A36984-e11760": [
+      "wench"
+    ],
+    "A36984-e11810": [
+      "roger"
+    ],
+    "A36984-e11840": [
+      "wench"
+    ],
+    "A36984-e11870": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e11930": [
+      "daubray"
+    ],
+    "A36984-e11970": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e12000": [
+      "daubray"
+    ],
+    "A36984-e12050": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e12090": [
+      "daubray"
+    ],
+    "A36984-e12140": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e12170": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e12230": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e12280": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e12320": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e12370": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e12410": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e12440": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e12540": [
+      "daubray"
+    ],
+    "A36984-e12580": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e12670": [
+      "count-de-brissac"
+    ],
+    "A36984-e12750": [
+      "lady-brissac"
+    ],
+    "A36984-e12800": [
+      "lady-brissac"
+    ],
+    "A36984-e12840": [
+      "guillamour"
+    ],
+    "A36984-e12910": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e12970": [
+      "count-de-brissac"
+    ],
+    "A36984-e13000": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e13040": [
+      "count-de-brissac"
+    ],
+    "A36984-e13100": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e13140": [
+      "count-de-brissac"
+    ],
+    "A36984-e13220": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e13260": [
+      "count-de-brissac"
+    ],
+    "A36984-e13300": [
+      "guillamour"
+    ],
+    "A36984-e13340": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e13370": [
+      "count-de-tonnere"
+    ],
+    "A36984-e13410": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e13460": [
+      "lady-brissac"
+    ],
+    "A36984-e13500": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e13530": [
+      "count-de-tonnere"
+    ],
+    "A36984-e13590": [
+      "count-de-brissac"
+    ],
+    "A36984-e13620": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e13650": [
+      "guillamour"
+    ],
+    "A36984-e13690": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e13730": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e13760": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e13790": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e13840": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e13890": [
+      "count-de-brissac"
+    ],
+    "A36984-e13930": [
+      "count-de-tonnere"
+    ],
+    "A36984-e13960": [
+      "count-de-brissac"
+    ],
+    "A36984-e13990": [
+      "lady-brissac"
+    ],
+    "A36984-e14020": [
+      "count-de-brissac"
+    ],
+    "A36984-e14050": [
+      "lady-brissac"
+    ],
+    "A36984-e14080": [
+      "count-de-brissac"
+    ],
+    "A36984-e14110": [
+      "count-de-tonnere"
+    ],
+    "A36984-e14140": [
+      "count-de-brissac"
+    ],
+    "A36984-e14170": [
+      "lady-brissac"
+    ],
+    "A36984-e14200": [
+      "count-de-brissac"
+    ],
+    "A36984-e14230": [
+      "lady-brissac"
+    ],
+    "A36984-e14260": [
+      "count-de-tonnere"
+    ],
+    "A36984-e14290": [
+      "count-de-brissac"
+    ],
+    "A36984-e14320": [
+      "lady-brissac"
+    ],
+    "A36984-e14350": [
+      "count-de-brissac"
+    ],
+    "A36984-e14380": [
+      "lady-brissac"
+    ],
+    "A36984-e14410": [
+      "count-de-tonnere"
+    ],
+    "A36984-e14440": [
+      "count-de-brissac"
+    ],
+    "A36984-e14470": [
+      "lady-brissac"
+    ],
+    "A36984-e14500": [
+      "count-de-brissac"
+    ],
+    "A36984-e14540": [
+      "lady-brissac"
+    ],
+    "A36984-e14570": [
+      "count-de-brissac"
+    ],
+    "A36984-e14600": [
+      "guillamour"
+    ],
+    "A36984-e14630": [
+      "count-de-brissac"
+    ],
+    "A36984-e14660": [
+      "lady-brissac"
+    ],
+    "A36984-e14690": [
+      "count-de-tonnere"
+    ],
+    "A36984-e14830": [
+      "lady-brissac"
+    ],
+    "A36984-e14920": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15000": [
+      "lady-brissac"
+    ],
+    "A36984-e15070": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15150": [
+      "lady-brissac"
+    ],
+    "A36984-e15210": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15250": [
+      "lady-brissac"
+    ],
+    "A36984-e15300": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15340": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15370": [
+      "guillamour"
+    ],
+    "A36984-e15450": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15510": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15540": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15570": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15600": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15630": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15670": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15700": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15730": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15760": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15800": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15830": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15860": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15890": [
+      "count-de-tonnere"
+    ],
+    "A36984-e15920": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e15970": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16010": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e16050": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16080": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e16140": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16200": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e16230": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16260": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e16310": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16490": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16520": [
+      "count-de-fiesque"
+    ],
+    "A36984-e16560": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16590": [
+      "count-de-fiesque"
+    ],
+    "A36984-e16620": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16650": [
+      "count-de-fiesque"
+    ],
+    "A36984-e16680": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16710": [
+      "count-de-fiesque"
+    ],
+    "A36984-e16740": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16770": [
+      "count-de-fiesque"
+    ],
+    "A36984-e16800": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16830": [
+      "count-de-fiesque"
+    ],
+    "A36984-e16860": [
+      "count-de-tonnere"
+    ],
+    "A36984-e16920": [
+      "count-de-fiesque"
+    ],
+    "A36984-e16950": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17020": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17060": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17100": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17130": [
+      "count-de-fiesque"
+    ],
+    "A36984-e17170": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17200": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17250": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17290": [
+      "count-de-fiesque"
+    ],
+    "A36984-e17320": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17370": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17400": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17450": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17480": [
+      "count-de-fiesque"
+    ],
+    "A36984-e17510": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17560": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17590": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17660": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17690": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17720": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17760": [
+      "count-de-fiesque"
+    ],
+    "A36984-e17800": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17830": [
+      "count-de-fiesque"
+    ],
+    "A36984-e17860": [
+      "count-de-tonnere"
+    ],
+    "A36984-e17920": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e17970": [
+      "count-de-fiesque"
+    ],
+    "A36984-e18000": [
+      "count-de-tonnere"
+    ],
+    "A36984-e18040": [
+      "count-de-fiesque"
+    ],
+    "A36984-e18120": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e18150": [
+      "grossiere"
+    ],
+    "A36984-e18180": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e18210": [
+      "grossiere"
+    ],
+    "A36984-e18240": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e18270": [
+      "grossiere"
+    ],
+    "A36984-e18320": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e18460": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e18490": [
+      "grossiere"
+    ],
+    "A36984-e18520": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e18550": [
+      "grossiere"
+    ],
+    "A36984-e18580": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e18980": [
+      "guillamour"
+    ],
+    "A36984-e19020": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e19060": [
+      "guillamour"
+    ],
+    "A36984-e19090": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e19120": [
+      "guillamour"
+    ],
+    "A36984-e19160": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e19190": [
+      "guillamour"
+    ],
+    "A36984-e19250": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e19280": [
+      "guillamour"
+    ],
+    "A36984-e19350": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e19390": [
+      "grossiere"
+    ],
+    "A36984-e19470": [
+      "count-de-fiesque"
+    ],
+    "A36984-e19560": [
+      "grossiere"
+    ],
+    "A36984-e19590": [
+      "count-de-fiesque"
+    ],
+    "A36984-e19620": [
+      "grossiere"
+    ],
+    "A36984-e19660": [
+      "count-de-fiesque"
+    ],
+    "A36984-e19690": [
+      "grossiere"
+    ],
+    "A36984-e19720": [
+      "count-de-fiesque"
+    ],
+    "A36984-e19760": [
+      "grossiere"
+    ],
+    "A36984-e19810": [
+      "count-de-fiesque"
+    ],
+    "A36984-e19840": [
+      "grossiere"
+    ],
+    "A36984-e19880": [
+      "count-de-fiesque"
+    ],
+    "A36984-e19950": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20000": [
+      "count-de-fiesque"
+    ],
+    "A36984-e20030": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20080": [
+      "count-de-fiesque"
+    ],
+    "A36984-e20110": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20140": [
+      "count-de-fiesque"
+    ],
+    "A36984-e20170": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20200": [
+      "count-de-fiesque"
+    ],
+    "A36984-e20260": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20290": [
+      "guillamour"
+    ],
+    "A36984-e20340": [
+      "count-de-fiesque"
+    ],
+    "A36984-e20370": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20420": [
+      "guillamour"
+    ],
+    "A36984-e20470": [
+      "count-de-fiesque"
+    ],
+    "A36984-e20520": [
+      "guillamour"
+    ],
+    "A36984-e20550": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20580": [
+      "guillamour"
+    ],
+    "A36984-e20610": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20640": [
+      "guillamour"
+    ],
+    "A36984-e20670": [
+      "count-de-fiesque"
+    ],
+    "A36984-e20710": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e20770": [
+      "count-de-fiesque"
+    ],
+    "A36984-e20800": [
+      "guillamour"
+    ],
+    "A36984-e20860": [
+      "count-de-fiesque"
+    ],
+    "A36984-e21110": [
+      "lady-brissac"
+    ],
+    "A36984-e21140": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21170": [
+      "lady-brissac"
+    ],
+    "A36984-e21200": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21230": [
+      "lady-brissac"
+    ],
+    "A36984-e21260": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21290": [
+      "lady-brissac"
+    ],
+    "A36984-e21320": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21380": [
+      "daubray"
+    ],
+    "A36984-e21480": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21570": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e21600": [
+      "lady-brissac"
+    ],
+    "A36984-e21640": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21670": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e21710": [
+      "lady-brissac"
+    ],
+    "A36984-e21750": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21780": [
+      "lady-brissac"
+    ],
+    "A36984-e21810": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e21840": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21870": [
+      "lady-brissac"
+    ],
+    "A36984-e21900": [
+      "count-de-tonnere"
+    ],
+    "A36984-e21950": [
+      "lady-brissac"
+    ],
+    "A36984-e22000": [
+      "count-de-brissac"
+    ],
+    "A36984-e22070": [
+      "count-de-tonnere"
+    ],
+    "A36984-e22100": [
+      "count-de-brissac"
+    ],
+    "A36984-e22130": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e22160": [
+      "count-de-tonnere"
+    ],
+    "A36984-e22190": [
+      "count-de-brissac"
+    ],
+    "A36984-e22230": [
+      "count-de-tonnere"
+    ],
+    "A36984-e22280": [
+      "count-de-brissac"
+    ],
+    "A36984-e22310": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e22420": [
+      "count-de-brissac"
+    ],
+    "A36984-e22520": [
+      "grossiere"
+    ],
+    "A36984-e22550": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e22580": [
+      "grossiere"
+    ],
+    "A36984-e22610": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e22650": [
+      "grossiere"
+    ],
+    "A36984-e22680": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e22740": [
+      "grossiere"
+    ],
+    "A36984-e22770": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e22810": [
+      "grossiere"
+    ],
+    "A36984-e22850": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e22880": [
+      "grossiere"
+    ],
+    "A36984-e22920": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e22950": [
+      "grossiere"
+    ],
+    "A36984-e22980": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23010": [
+      "grossiere"
+    ],
+    "A36984-e23040": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23080": [
+      "grossiere"
+    ],
+    "A36984-e23110": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23150": [
+      "grossiere"
+    ],
+    "A36984-e23180": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23230": [
+      "grossiere"
+    ],
+    "A36984-e23320": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23350": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23410": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23460": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23490": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23520": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23550": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23580": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23620": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23650": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23690": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23740": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23790": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23820": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23850": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23890": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e23930": [
+      "count-de-fiesque"
+    ],
+    "A36984-e23980": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24010": [
+      "count-de-fiesque"
+    ],
+    "A36984-e24040": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24080": [
+      "count-de-fiesque"
+    ],
+    "A36984-e24120": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24180": [
+      "grossiere"
+    ],
+    "A36984-e24210": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24250": [
+      "count-de-fiesque"
+    ],
+    "A36984-e24290": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24340": [
+      "grossiere"
+    ],
+    "A36984-e24380": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24410": [
+      "grossiere"
+    ],
+    "A36984-e24490": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e24520": [
+      "grossiere"
+    ],
+    "A36984-e24550": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e24610": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24650": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e24710": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24750": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e24790": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24830": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e24860": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24890": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e24920": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e24950": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e24980": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e25020": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e25140": [
+      "chairman-1"
+    ],
+    "A36984-e25220": [
+      "chairman-2"
+    ],
+    "A36984-e25320": [
+      "chairman-1"
+    ],
+    "A36984-e25390": [
+      "chairman-2"
+    ],
+    "A36984-e25450": [
+      "chairman-1"
+    ],
+    "A36984-e25510": [
+      "chairman-2"
+    ],
+    "A36984-e25550": [
+      "chairman-1"
+    ],
+    "A36984-e25590": [
+      "chairman-2"
+    ],
+    "A36984-e25650": [
+      "chairman-1"
+    ],
+    "A36984-e25700": [
+      "chairman-2"
+    ],
+    "A36984-e25760": [
+      "chairman-1"
+    ],
+    "A36984-e25800": [
+      "chairman-2"
+    ],
+    "A36984-e25840": [
+      "chairman-1"
+    ],
+    "A36984-e25880": [
+      "chairman-2"
+    ],
+    "A36984-e25920": [
+      "chairman-1"
+    ],
+    "A36984-e25960": [
+      "chairman-2"
+    ],
+    "A36984-e26000": [
+      "chairman-1",
+      "chairman-2"
+    ],
+    "A36984-e26040": [
+      "chairman-1"
+    ],
+    "A36984-e26080": [
+      "chairman-2"
+    ],
+    "A36984-e26120": [
+      "chairman-1"
+    ],
+    "A36984-e26180": [
+      "chairman-2"
+    ],
+    "A36984-e26220": [
+      "chairman-1"
+    ],
+    "A36984-e26260": [
+      "chairman-2"
+    ],
+    "A36984-e26310": [
+      "chairman-1"
+    ],
+    "A36984-e26350": [
+      "chairman-2"
+    ],
+    "A36984-e26410": [
+      "chairman-1"
+    ],
+    "A36984-e26470": [
+      "chairman-2"
+    ],
+    "A36984-e26510": [
+      "chairman-1",
+      "chairman-2"
+    ],
+    "A36984-e26640": [
+      "grossiere"
+    ],
+    "A36984-e26670": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e26700": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e26740": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e26780": [
+      "grossiere"
+    ],
+    "A36984-e26820": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e26860": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e26920": [
+      "grossiere"
+    ],
+    "A36984-e26950": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e27010": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e27050": [
+      "grossiere"
+    ],
+    "A36984-e27080": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e27120": [
+      "grossiere"
+    ],
+    "A36984-e27150": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e27180": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e27210": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e27250": [
+      "grossiere"
+    ],
+    "A36984-e27280": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e27320": [
+      "grossiere"
+    ],
+    "A36984-e27360": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e27410": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e27480": [
+      "grossiere"
+    ],
+    "A36984-e27590": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e27630": [
+      "lady-brissac"
+    ],
+    "A36984-e27680": [
+      "count-de-tonnere"
+    ],
+    "A36984-e27720": [
+      "lady-brissac"
+    ],
+    "A36984-e27750": [
+      "count-de-tonnere"
+    ],
+    "A36984-e27780": [
+      "lady-brissac"
+    ],
+    "A36984-e27840": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e27920": [
+      "count-de-tonnere"
+    ],
+    "A36984-e27960": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e27990": [
+      "lady-brissac"
+    ],
+    "A36984-e28020": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e28050": [
+      "lady-brissac"
+    ],
+    "A36984-e28080": [
+      "count-de-tonnere"
+    ],
+    "A36984-e28110": [
+      "lady-brissac"
+    ],
+    "A36984-e28150": [
+      "count-de-tonnere"
+    ],
+    "A36984-e28200": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e28280": [
+      "la-busque"
+    ],
+    "A36984-e28320": [
+      "count-de-fiesque"
+    ],
+    "A36984-e28380": [
+      "guillamour"
+    ],
+    "A36984-e28470": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e28500": [
+      "guillamour"
+    ],
+    "A36984-e28530": [
+      "count-de-fiesque"
+    ],
+    "A36984-e28560": [
+      "guillamour"
+    ],
+    "A36984-e28620": [
+      "count-de-fiesque"
+    ],
+    "A36984-e28660": [
+      "guillamour"
+    ],
+    "A36984-e28700": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e28730": [
+      "guillamour"
+    ],
+    "A36984-e28760": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e28790": [
+      "guillamour"
+    ],
+    "A36984-e28820": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e28860": [
+      "guillamour"
+    ],
+    "A36984-e28930": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29010": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29040": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e29070": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29110": [
+      "la-busque"
+    ],
+    "A36984-e29150": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29180": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e29240": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29270": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e29300": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29340": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29370": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29420": [
+      "la-busque"
+    ],
+    "A36984-e29450": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29520": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29560": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29600": [
+      "la-busque"
+    ],
+    "A36984-e29630": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e29660": [
+      "la-busque"
+    ],
+    "A36984-e29690": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29730": [
+      "la-busque"
+    ],
+    "A36984-e29780": [
+      "servants"
+    ],
+    "A36984-e29810": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29870": [
+      "daubray"
+    ],
+    "A36984-e29900": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29930": [
+      "daubray"
+    ],
+    "A36984-e29960": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e29990": [
+      "daubray"
+    ],
+    "A36984-e30020": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e30050": [
+      "daubray"
+    ],
+    "A36984-e30100": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e30130": [
+      "daubray"
+    ],
+    "A36984-e30160": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e30190": [
+      "daubray"
+    ],
+    "A36984-e30220": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e30380": [
+      "guillamour"
+    ],
+    "A36984-e30410": [
+      "la-busque"
+    ],
+    "A36984-e30440": [
+      "guillamour"
+    ],
+    "A36984-e30470": [
+      "la-busque"
+    ],
+    "A36984-e30500": [
+      "guillamour"
+    ],
+    "A36984-e30570": [
+      "la-busque"
+    ],
+    "A36984-e30610": [
+      "guillamour"
+    ],
+    "A36984-e30650": [
+      "la-busque"
+    ],
+    "A36984-e30690": [
+      "guillamour"
+    ],
+    "A36984-e30740": [
+      "la-busque"
+    ],
+    "A36984-e30770": [
+      "guillamour"
+    ],
+    "A36984-e30800": [
+      "la-busque"
+    ],
+    "A36984-e30830": [
+      "guillamour"
+    ],
+    "A36984-e30870": [
+      "la-busque"
+    ],
+    "A36984-e30900": [
+      "guillamour"
+    ],
+    "A36984-e30930": [
+      "la-busque"
+    ],
+    "A36984-e30960": [
+      "guillamour"
+    ],
+    "A36984-e30990": [
+      "la-busque"
+    ],
+    "A36984-e31040": [
+      "guillamour"
+    ],
+    "A36984-e31070": [
+      "la-busque"
+    ],
+    "A36984-e31100": [
+      "guillamour"
+    ],
+    "A36984-e31140": [
+      "la-busque"
+    ],
+    "A36984-e31170": [
+      "guillamour"
+    ],
+    "A36984-e31250": [
+      "daubray"
+    ],
+    "A36984-e31280": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e31310": [
+      "count-de-brissac"
+    ],
+    "A36984-e31340": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e31370": [
+      "daubray"
+    ],
+    "A36984-e31440": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e31510": [
+      "count-de-tonnere"
+    ],
+    "A36984-e31570": [
+      "guillamour"
+    ],
+    "A36984-e31600": [
+      "count-de-tonnere"
+    ],
+    "A36984-e31660": [
+      "guillamour"
+    ],
+    "A36984-e31690": [
+      "count-de-tonnere"
+    ],
+    "A36984-e31760": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e31810": [
+      "count-de-brissac"
+    ],
+    "A36984-e31870": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e31900": [
+      "guillamour"
+    ],
+    "A36984-e31930": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e31960": [
+      "guillamour"
+    ],
+    "A36984-e32000": [
+      "count-de-tonnere"
+    ],
+    "A36984-e32070": [
+      "count-de-brissac"
+    ],
+    "A36984-e32130": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e32200": [
+      "count-de-brissac"
+    ],
+    "A36984-e32230": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e32260": [
+      "guillamour"
+    ],
+    "A36984-e32290": [
+      "count-de-brissac"
+    ],
+    "A36984-e32320": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e32350": [
+      "count-de-brissac"
+    ],
+    "A36984-e32390": [
+      "count-de-tonnere"
+    ],
+    "A36984-e32420": [
+      "count-de-brissac"
+    ],
+    "A36984-e32450": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e32480": [
+      "count-de-brissac"
+    ],
+    "A36984-e32520": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e32570": [
+      "count-de-brissac"
+    ],
+    "A36984-e32600": [
+      "count-de-tonnere"
+    ],
+    "A36984-e32650": [
+      "guillamour"
+    ],
+    "A36984-e32700": [
+      "count-de-tonnere"
+    ],
+    "A36984-e32730": [
+      "count-de-brissac"
+    ],
+    "A36984-e32760": [
+      "guillamour"
+    ],
+    "A36984-e32800": [
+      "count-de-brissac"
+    ],
+    "A36984-e32830": [
+      "count-de-tonnere"
+    ],
+    "A36984-e32900": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e32950": [
+      "count-de-brissac"
+    ],
+    "A36984-e32980": [
+      "guillamour"
+    ],
+    "A36984-e33030": [
+      "count-de-brissac"
+    ],
+    "A36984-e33060": [
+      "la-busque"
+    ],
+    "A36984-e33090": [
+      "count-de-brissac"
+    ],
+    "A36984-e33130": [
+      "la-busque"
+    ],
+    "A36984-e33160": [
+      "count-de-brissac"
+    ],
+    "A36984-e33200": [
+      "guillamour"
+    ],
+    "A36984-e33230": [
+      "count-de-brissac"
+    ],
+    "A36984-e33260": [
+      "count-de-tonnere"
+    ],
+    "A36984-e33290": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e33320": [
+      "count-de-tonnere"
+    ],
+    "A36984-e33350": [
+      "lady-brissac"
+    ],
+    "A36984-e33380": [
+      "count-de-brissac"
+    ],
+    "A36984-e33410": [
+      "la-busque"
+    ],
+    "A36984-e33450": [
+      "count-de-brissac"
+    ],
+    "A36984-e33490": [
+      "count-de-tonnere"
+    ],
+    "A36984-e33520": [
+      "count-de-brissac"
+    ],
+    "A36984-e33570": [
+      "guillamour"
+    ],
+    "A36984-e33620": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e33650": [
+      "count-de-brissac"
+    ],
+    "A36984-e33680": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e33710": [
+      "count-de-tonnere"
+    ],
+    "A36984-e33760": [
+      "guillamour"
+    ],
+    "A36984-e33800": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e33830": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e33900": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e33930": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e33960": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e33990": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e34030": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e34060": [
+      "guillamour"
+    ],
+    "A36984-e34110": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e34140": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e34200": [
+      "count-de-tonnere"
+    ],
+    "A36984-e34250": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e34280": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e34310": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e34340": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e34380": [
+      "guillamour"
+    ],
+    "A36984-e34430": [
+      "count-de-tonnere"
+    ],
+    "A36984-e34460": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e34490": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e34520": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e34560": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e34590": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e34620": [
+      "guillamour"
+    ],
+    "A36984-e34650": [
+      "count-de-tonnere"
+    ],
+    "A36984-e34690": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e34720": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e34810": [
+      "count-de-fiesque"
+    ],
+    "A36984-e34870": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e34900": [
+      "count-de-fiesque"
+    ],
+    "A36984-e34950": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e34980": [
+      "count-de-fiesque"
+    ],
+    "A36984-e35020": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e35050": [
+      "count-de-fiesque"
+    ],
+    "A36984-e35150": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e35180": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e35210": [
+      "count-de-fiesque"
+    ],
+    "A36984-e35240": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e35270": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e35300": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e35330": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e35360": [
+      "la-busque"
+    ],
+    "A36984-e35390": [
+      "count-de-brissac"
+    ],
+    "A36984-e35420": [
+      "count-de-tonnere"
+    ],
+    "A36984-e35450": [
+      "guillamour"
+    ],
+    "A36984-e35480": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e35510": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e35540": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e35570": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e35610": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e35640": [
+      "count-de-fiesque"
+    ],
+    "A36984-e35670": [
+      "guillamour"
+    ],
+    "A36984-e35700": [
+      "count-de-brissac"
+    ],
+    "A36984-e35730": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e35780": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e35820": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e35870": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e35920": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e35970": [
+      "guillamour"
+    ],
+    "A36984-e36000": [
+      "guillamour"
+    ],
+    "A36984-e36080": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e36110": [
+      "count-de-fiesque"
+    ],
+    "A36984-e36150": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e36180": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e36220": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e36250": [
+      "guillamour"
+    ],
+    "A36984-e36290": [
+      "duke-de-sanserre"
+    ],
+    "A36984-e36350": [
+      "count-de-fiesque"
+    ],
+    "A36984-e36380": [
+      "guillamour"
+    ],
+    "A36984-e36410": [
+      "count-de-brissac"
+    ],
+    "A36984-e36440": [
+      "count-de-tonnere"
+    ],
+    "A36984-e36470": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e36500": [
+      "guillamour"
+    ],
+    "A36984-e36550": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e36580": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e36610": [
+      "sir-blunder-bosses"
+    ],
+    "A36984-e36670": [
+      "madam-de-vandosme"
+    ],
+    "A36984-e36710": [
+      "count-de-fiesque"
+    ],
+    "A36984-e36770": [
+      "dutchess-sanserre"
+    ],
+    "A36984-e36800": [
+      "count-de-tonnere"
+    ],
+    "A36984-e36840": [
+      "count-de-brissac"
+    ],
+    "A36984-e36870": [
+      "guillamour"
+    ],
+    "A36984-e36900": [
+      "count-de-brissac"
+    ],
+    "A36984-e36930": [
+      "count-de-fiesque"
+    ],
+    "A36984-e36960": [
+      "count-de-tonnere"
+    ],
+    "A36984-e37010": [
+      "count-de-brissac"
+    ],
+    "A36984-e37050": [
+      "count-de-fiesque"
+    ],
+    "A36984-e37080": [
+      "guillamour"
+    ],
+    "A36984-e37130": [
+      "count-de-tonnere"
+    ],
+    "A36984-e37180": [
+      "la-busque"
+    ],
+    "A36984-e37220": [
+      "count-de-tonnere"
+    ],
+    "A36984-e37250": [
+      "count-de-brissac"
+    ]
+  }
+}

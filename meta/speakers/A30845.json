@@ -1,0 +1,1400 @@
+{
+  "particDesc": [
+    {
+      "name": "Ambassadors",
+      "id": "ambassadors",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Captains",
+      "id": "captains",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "id": "alexander-the-great",
+      "name": "Alexander the Great",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ephestion",
+      "name": "Ephestion ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lysimachus",
+      "name": "Lysimachus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cassander",
+      "name": "Cassander",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "phillip",
+      "name": "Phillip",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "oroondates",
+      "name": "Oroondates",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "araxis",
+      "name": "Araxis",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bagistanes",
+      "name": "Bagistanes ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "darius-daughters",
+      "name": "Darius ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "statira",
+      "name": "Statira",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "parisatis",
+      "name": "Parisatis",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "melanthe",
+      "name": "Melanthe",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "priests",
+      "name": "Priests",
+      "isGroup": true,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A30845-e1550": [
+      "lysimachus"
+    ],
+    "A30845-e1750": [
+      "cassander"
+    ],
+    "A30845-e1840": [
+      "lysimachus"
+    ],
+    "A30845-e1940": [
+      "cassander"
+    ],
+    "A30845-e2030": [
+      "lysimachus"
+    ],
+    "A30845-e2090": [
+      "cassander"
+    ],
+    "A30845-e2250": [
+      "lysimachus"
+    ],
+    "A30845-e2310": [
+      "cassander"
+    ],
+    "A30845-e2400": [
+      "bagistanes"
+    ],
+    "A30845-e2490": [
+      "lysimachus"
+    ],
+    "A30845-e2520": [
+      "bagistanes"
+    ],
+    "A30845-e2600": [
+      "lysimachus"
+    ],
+    "A30845-e2630": [
+      "bagistanes"
+    ],
+    "A30845-e2670": [
+      "lysimachus"
+    ],
+    "A30845-e2700": [
+      "bagistanes"
+    ],
+    "A30845-e2750": [
+      "lysimachus"
+    ],
+    "A30845-e2790": [
+      "cassander"
+    ],
+    "A30845-e2820": [
+      "bagistanes"
+    ],
+    "A30845-e2850": [
+      "lysimachus"
+    ],
+    "A30845-e2970": [
+      "cassander"
+    ],
+    "A30845-e3010": [
+      "bagistanes"
+    ],
+    "A30845-e3250": [
+      "cassander"
+    ],
+    "A30845-e3380": [
+      "lysimachus"
+    ],
+    "A30845-e3590": [
+      "cassander"
+    ],
+    "A30845-e3650": [
+      "lysimachus"
+    ],
+    "A30845-e3820": [
+      "bagistanes"
+    ],
+    "A30845-e3850": [
+      "lysimachus"
+    ],
+    "A30845-e3950": [
+      "bagistanes"
+    ],
+    "A30845-e4000": [
+      "lysimachus"
+    ],
+    "A30845-e4270": [
+      "bagistanes"
+    ],
+    "A30845-e4300": [
+      "lysimachus"
+    ],
+    "A30845-e4560": [
+      "bagistanes"
+    ],
+    "A30845-e4590": [
+      "lysimachus"
+    ],
+    "A30845-e4630": [
+      "parisatis"
+    ],
+    "A30845-e4760": [
+      "bagistanes"
+    ],
+    "A30845-e4810": [
+      "parisatis"
+    ],
+    "A30845-e4920": [
+      "lysimachus"
+    ],
+    "A30845-e5000": [
+      "parisatis"
+    ],
+    "A30845-e5100": [
+      "lysimachus"
+    ],
+    "A30845-e5210": [
+      "parisatis"
+    ],
+    "A30845-e5380": [
+      "lysimachus"
+    ],
+    "A30845-e5530": [
+      "parisatis"
+    ],
+    "A30845-e5610": [
+      "lysimachus"
+    ],
+    "A30845-e5710": [
+      "parisatis"
+    ],
+    "A30845-e5790": [
+      "lysimachus"
+    ],
+    "A30845-e5880": [
+      "parisatis"
+    ],
+    "A30845-e6030": [
+      "lysimachus"
+    ],
+    "A30845-e6090": [
+      "parisatis"
+    ],
+    "A30845-e6180": [
+      "melanthe"
+    ],
+    "A30845-e6250": [
+      "parisatis"
+    ],
+    "A30845-e6380": [
+      "araxis"
+    ],
+    "A30845-e6740": [
+      "parisatis"
+    ],
+    "A30845-e6780": [
+      "oroondates"
+    ],
+    "A30845-e6890": [
+      "parisatis"
+    ],
+    "A30845-e6950": [
+      "oroondates"
+    ],
+    "A30845-e7040": [
+      "parisatis"
+    ],
+    "A30845-e7120": [
+      "oroondates"
+    ],
+    "A30845-e7160": [
+      "parisatis"
+    ],
+    "A30845-e7190": [
+      "oroondates"
+    ],
+    "A30845-e7220": [
+      "parisatis"
+    ],
+    "A30845-e7290": [
+      "oroondates"
+    ],
+    "A30845-e7400": [
+      "parisatis"
+    ],
+    "A30845-e7490": [
+      "oroondates"
+    ],
+    "A30845-e7660": [
+      "parisatis"
+    ],
+    "A30845-e7710": [
+      "oroondates"
+    ],
+    "A30845-e7770": [
+      "araxis"
+    ],
+    "A30845-e7810": [
+      "oroondates"
+    ],
+    "A30845-e7960": [
+      "alexander-the-great"
+    ],
+    "A30845-e8130": [
+      "lysimachus"
+    ],
+    "A30845-e8230": [
+      "cassander"
+    ],
+    "A30845-e8440": [
+      "phillip"
+    ],
+    "A30845-e8520": [
+      "lysimachus"
+    ],
+    "A30845-e8620": [
+      "cassander"
+    ],
+    "A30845-e8720": [
+      "ephestion"
+    ],
+    "A30845-e8840": [
+      "phillip"
+    ],
+    "A30845-e8900": [
+      "captains"
+    ],
+    "A30845-e8940": [
+      "alexander-the-great"
+    ],
+    "A30845-e9170": [
+      "ephestion"
+    ],
+    "A30845-e9230": [
+      "alexander-the-great"
+    ],
+    "A30845-e9320": [
+      "ephestion"
+    ],
+    "A30845-e9390": [
+      "cassander"
+    ],
+    "A30845-e9450": [
+      "bagistanes"
+    ],
+    "A30845-e9560": [
+      "alexander-the-great"
+    ],
+    "A30845-e9640": [
+      "ephestion"
+    ],
+    "A30845-e9820": [
+      "alexander-the-great"
+    ],
+    "A30845-e9880": [
+      "ephestion"
+    ],
+    "A30845-e9940": [
+      "alexander-the-great"
+    ],
+    "A30845-e9990": [
+      "ephestion"
+    ],
+    "A30845-e10070": [
+      "oroondates"
+    ],
+    "A30845-e10120": [
+      "alexander-the-great"
+    ],
+    "A30845-e10250": [
+      "statira"
+    ],
+    "A30845-e10390": [
+      "alexander-the-great"
+    ],
+    "A30845-e10490": [
+      "statira"
+    ],
+    "A30845-e10560": [
+      "alexander-the-great"
+    ],
+    "A30845-e10600": [
+      "statira"
+    ],
+    "A30845-e10670": [
+      "ephestion"
+    ],
+    "A30845-e10770": [
+      "alexander-the-great"
+    ],
+    "A30845-e10900": [
+      "parisatis"
+    ],
+    "A30845-e10940": [
+      "lysimachus"
+    ],
+    "A30845-e10990": [
+      "statira"
+    ],
+    "A30845-e11070": [
+      "alexander-the-great"
+    ],
+    "A30845-e11150": [
+      "statira"
+    ],
+    "A30845-e11230": [
+      "alexander-the-great"
+    ],
+    "A30845-e11290": [
+      "statira"
+    ],
+    "A30845-e11350": [
+      "alexander-the-great"
+    ],
+    "A30845-e11470": [
+      "statira"
+    ],
+    "A30845-e11550": [
+      "oroondates"
+    ],
+    "A30845-e11590": [
+      "alexander-the-great"
+    ],
+    "A30845-e11670": [
+      "statira"
+    ],
+    "A30845-e11760": [
+      "alexander-the-great"
+    ],
+    "A30845-e11840": [
+      "statira"
+    ],
+    "A30845-e11990": [
+      "oroondates"
+    ],
+    "A30845-e12090": [
+      "ephestion"
+    ],
+    "A30845-e12120": [
+      "alexander-the-great"
+    ],
+    "A30845-e12220": [
+      "ephestion"
+    ],
+    "A30845-e12290": [
+      "alexander-the-great"
+    ],
+    "A30845-e12340": [
+      "captains"
+    ],
+    "A30845-e12490": [
+      "araxis"
+    ],
+    "A30845-e12530": [
+      "alexander-the-great"
+    ],
+    "A30845-e12600": [
+      "araxis"
+    ],
+    "A30845-e12740": [
+      "oroondates"
+    ],
+    "A30845-e12850": [
+      "araxis"
+    ],
+    "A30845-e12970": [
+      "oroondates"
+    ],
+    "A30845-e13050": [
+      "araxis"
+    ],
+    "A30845-e13140": [
+      "oroondates"
+    ],
+    "A30845-e13320": [
+      "araxis"
+    ],
+    "A30845-e13370": [
+      "oroondates"
+    ],
+    "A30845-e13440": [
+      "statira"
+    ],
+    "A30845-e13570": [
+      "oroondates"
+    ],
+    "A30845-e13670": [
+      "statira"
+    ],
+    "A30845-e13760": [
+      "oroondates"
+    ],
+    "A30845-e13860": [
+      "statira"
+    ],
+    "A30845-e13960": [
+      "oroondates"
+    ],
+    "A30845-e14080": [
+      "statira"
+    ],
+    "A30845-e14150": [
+      "oroondates"
+    ],
+    "A30845-e14320": [
+      "statira"
+    ],
+    "A30845-e14470": [
+      "oroondates"
+    ],
+    "A30845-e14550": [
+      "statira"
+    ],
+    "A30845-e14580": [
+      "oroondates"
+    ],
+    "A30845-e14690": [
+      "ephestion"
+    ],
+    "A30845-e15110": [
+      "lysimachus"
+    ],
+    "A30845-e15190": [
+      "ephestion"
+    ],
+    "A30845-e15240": [
+      "melanthe"
+    ],
+    "A30845-e15280": [
+      "parisatis"
+    ],
+    "A30845-e15330": [
+      "lysimachus"
+    ],
+    "A30845-e15410": [
+      "parisatis"
+    ],
+    "A30845-e15470": [
+      "ephestion"
+    ],
+    "A30845-e15550": [
+      "parisatis"
+    ],
+    "A30845-e15630": [
+      "ephestion"
+    ],
+    "A30845-e15700": [
+      "parisatis"
+    ],
+    "A30845-e15800": [
+      "ephestion"
+    ],
+    "A30845-e15890": [
+      "parisatis"
+    ],
+    "A30845-e15970": [
+      "ephestion"
+    ],
+    "A30845-e16100": [
+      "parisatis"
+    ],
+    "A30845-e16160": [
+      "ephestion"
+    ],
+    "A30845-e16240": [
+      "parisatis"
+    ],
+    "A30845-e16330": [
+      "ephestion"
+    ],
+    "A30845-e16460": [
+      "parisatis"
+    ],
+    "A30845-e16530": [
+      "ephestion"
+    ],
+    "A30845-e16620": [
+      "parisatis"
+    ],
+    "A30845-e16660": [
+      "ephestion"
+    ],
+    "A30845-e16750": [
+      "parisatis"
+    ],
+    "A30845-e16810": [
+      "ephestion"
+    ],
+    "A30845-e16900": [
+      "parisatis"
+    ],
+    "A30845-e16940": [
+      "ephestion"
+    ],
+    "A30845-e17080": [
+      "parisatis"
+    ],
+    "A30845-e17130": [
+      "ephestion"
+    ],
+    "A30845-e17210": [
+      "lysimachus"
+    ],
+    "A30845-e17270": [
+      "ephestion"
+    ],
+    "A30845-e17330": [
+      "lysimachus"
+    ],
+    "A30845-e17420": [
+      "ephestion"
+    ],
+    "A30845-e17500": [
+      "lysimachus"
+    ],
+    "A30845-e17580": [
+      "ephestion"
+    ],
+    "A30845-e17640": [
+      "lysimachus"
+    ],
+    "A30845-e17760": [
+      "ephestion"
+    ],
+    "A30845-e17800": [
+      "lysimachus"
+    ],
+    "A30845-e17850": [
+      "ephestion"
+    ],
+    "A30845-e17980": [
+      "lysimachus"
+    ],
+    "A30845-e18050": [
+      "ephestion"
+    ],
+    "A30845-e18100": [
+      "lysimachus"
+    ],
+    "A30845-e18200": [
+      "ephestion"
+    ],
+    "A30845-e18280": [
+      "lysimachus"
+    ],
+    "A30845-e18380": [
+      "ephestion"
+    ],
+    "A30845-e18480": [
+      "lysimachus"
+    ],
+    "A30845-e18540": [
+      "ephestion"
+    ],
+    "A30845-e18670": [
+      "lysimachus"
+    ],
+    "A30845-e18790": [
+      "lysimachus"
+    ],
+    "A30845-e18820": [
+      "ephestion"
+    ],
+    "A30845-e18850": [
+      "lysimachus"
+    ],
+    "A30845-e18930": [
+      "oroondates"
+    ],
+    "A30845-e18960": [
+      "araxis"
+    ],
+    "A30845-e19000": [
+      "oroondates"
+    ],
+    "A30845-e19050": [
+      "araxis"
+    ],
+    "A30845-e19100": [
+      "oroondates"
+    ],
+    "A30845-e19150": [
+      "araxis"
+    ],
+    "A30845-e19250": [
+      "oroondates"
+    ],
+    "A30845-e19290": [
+      "statira"
+    ],
+    "A30845-e19330": [
+      "oroondates"
+    ],
+    "A30845-e19430": [
+      "statira"
+    ],
+    "A30845-e19480": [
+      "oroondates"
+    ],
+    "A30845-e19630": [
+      "araxis"
+    ],
+    "A30845-e19680": [
+      "statira"
+    ],
+    "A30845-e19710": [
+      "oroondates"
+    ],
+    "A30845-e19750": [
+      "parisatis"
+    ],
+    "A30845-e19790": [
+      "oroondates"
+    ],
+    "A30845-e19860": [
+      "statira"
+    ],
+    "A30845-e19920": [
+      "alexander-the-great"
+    ],
+    "A30845-e19970": [
+      "statira"
+    ],
+    "A30845-e20000": [
+      "alexander-the-great"
+    ],
+    "A30845-e20030": [
+      "oroondates"
+    ],
+    "A30845-e20070": [
+      "alexander-the-great"
+    ],
+    "A30845-e20220": [
+      "oroondates"
+    ],
+    "A30845-e20280": [
+      "statira"
+    ],
+    "A30845-e20330": [
+      "alexander-the-great"
+    ],
+    "A30845-e20360": [
+      "oroondates"
+    ],
+    "A30845-e20390": [
+      "alexander-the-great"
+    ],
+    "A30845-e20420": [
+      "statira"
+    ],
+    "A30845-e20460": [
+      "oroondates"
+    ],
+    "A30845-e20500": [
+      "alexander-the-great"
+    ],
+    "A30845-e20540": [
+      "oroondates"
+    ],
+    "A30845-e20600": [
+      "alexander-the-great"
+    ],
+    "A30845-e20680": [
+      "oroondates"
+    ],
+    "A30845-e20760": [
+      "alexander-the-great"
+    ],
+    "A30845-e20800": [
+      "statira"
+    ],
+    "A30845-e20940": [
+      "alexander-the-great"
+    ],
+    "A30845-e21060": [
+      "statira"
+    ],
+    "A30845-e21170": [
+      "oroondates"
+    ],
+    "A30845-e21210": [
+      "alexander-the-great"
+    ],
+    "A30845-e21280": [
+      "oroondates"
+    ],
+    "A30845-e21380": [
+      "alexander-the-great"
+    ],
+    "A30845-e21530": [
+      "oroondates"
+    ],
+    "A30845-e21620": [
+      "alexander-the-great"
+    ],
+    "A30845-e21710": [
+      "statira"
+    ],
+    "A30845-e21750": [
+      "oroondates"
+    ],
+    "A30845-e21870": [
+      "alexander-the-great"
+    ],
+    "A30845-e21940": [
+      "oroondates"
+    ],
+    "A30845-e22060": [
+      "alexander-the-great"
+    ],
+    "A30845-e22110": [
+      "statira"
+    ],
+    "A30845-e22200": [
+      "alexander-the-great"
+    ],
+    "A30845-e22350": [
+      "oroondates"
+    ],
+    "A30845-e22410": [
+      "alexander-the-great"
+    ],
+    "A30845-e22470": [
+      "oroondates"
+    ],
+    "A30845-e22500": [
+      "statira"
+    ],
+    "A30845-e22570": [
+      "alexander-the-great"
+    ],
+    "A30845-e22650": [
+      "cassander"
+    ],
+    "A30845-e22760": [
+      "oroondates"
+    ],
+    "A30845-e22820": [
+      "cassander"
+    ],
+    "A30845-e22970": [
+      "oroondates"
+    ],
+    "A30845-e23010": [
+      "cassander"
+    ],
+    "A30845-e23090": [
+      "oroondates"
+    ],
+    "A30845-e23210": [
+      "cassander"
+    ],
+    "A30845-e23310": [
+      "oroondates"
+    ],
+    "A30845-e23380": [
+      "cassander"
+    ],
+    "A30845-e23510": [
+      "oroondates"
+    ],
+    "A30845-e23610": [
+      "cassander"
+    ],
+    "A30845-e23780": [
+      "phillip"
+    ],
+    "A30845-e23820": [
+      "cassander"
+    ],
+    "A30845-e23960": [
+      "phillip"
+    ],
+    "A30845-e24000": [
+      "cassander"
+    ],
+    "A30845-e24150": [
+      "phillip"
+    ],
+    "A30845-e24280": [
+      "cassander"
+    ],
+    "A30845-e24430": [
+      "phillip"
+    ],
+    "A30845-e24510": [
+      "cassander"
+    ],
+    "A30845-e24540": [
+      "phillip"
+    ],
+    "A30845-e24570": [
+      "cassander"
+    ],
+    "A30845-e24640": [
+      "phillip"
+    ],
+    "A30845-e24680": [
+      "cassander"
+    ],
+    "A30845-e24860": [
+      "bagistanes"
+    ],
+    "A30845-e24940": [
+      "cassander"
+    ],
+    "A30845-e25060": [
+      "statira"
+    ],
+    "A30845-e25200": [
+      "bagistanes"
+    ],
+    "A30845-e25400": [
+      "oroondates"
+    ],
+    "A30845-e25480": [
+      "statira"
+    ],
+    "A30845-e25550": [
+      "oroondates"
+    ],
+    "A30845-e25660": [
+      "statira"
+    ],
+    "A30845-e25830": [
+      "oroondates"
+    ],
+    "A30845-e25950": [
+      "statira"
+    ],
+    "A30845-e26090": [
+      "cassander"
+    ],
+    "A30845-e26150": [
+      "statira"
+    ],
+    "A30845-e26210": [
+      "oroondates"
+    ],
+    "A30845-e26340": [
+      "alexander-the-great"
+    ],
+    "A30845-e26370": [
+      "cassander"
+    ],
+    "A30845-e26410": [
+      "alexander-the-great"
+    ],
+    "A30845-e26610": [
+      "priests"
+    ],
+    "A30845-e26770": [
+      "alexander-the-great"
+    ],
+    "A30845-e26840": [
+      "oroondates"
+    ],
+    "A30845-e26900": [
+      "statira"
+    ],
+    "A30845-e26930": [
+      "oroondates"
+    ],
+    "A30845-e27000": [
+      "alexander-the-great"
+    ],
+    "A30845-e27160": [
+      "oroondates"
+    ],
+    "A30845-e27270": [
+      "alexander-the-great"
+    ],
+    "A30845-e27370": [
+      "oroondates"
+    ],
+    "A30845-e27410": [
+      "alexander-the-great"
+    ],
+    "A30845-e27630": [
+      "statira"
+    ],
+    "A30845-e27730": [
+      "oroondates"
+    ],
+    "A30845-e27810": [
+      "alexander-the-great"
+    ],
+    "A30845-e27840": [
+      "statira"
+    ],
+    "A30845-e27910": [
+      "cassander"
+    ],
+    "A30845-e28020": [
+      "alexander-the-great"
+    ],
+    "A30845-e28180": [
+      "alexander-the-great"
+    ],
+    "A30845-e28280": [
+      "cassander"
+    ],
+    "A30845-e28390": [
+      "ephestion"
+    ],
+    "A30845-e28510": [
+      "alexander-the-great"
+    ],
+    "A30845-e28650": [
+      "oroondates"
+    ],
+    "A30845-e28710": [
+      "alexander-the-great"
+    ],
+    "A30845-e28790": [
+      "oroondates"
+    ],
+    "A30845-e28820": [
+      "lysimachus"
+    ],
+    "A30845-e28920": [
+      "oroondates"
+    ],
+    "A30845-e29010": [
+      "araxis"
+    ],
+    "A30845-e29050": [
+      "oroondates"
+    ],
+    "A30845-e29160": [
+      "araxis"
+    ],
+    "A30845-e29230": [
+      "oroondates"
+    ],
+    "A30845-e29300": [
+      "ambassadors"
+    ],
+    "A30845-e29330": [
+      "oroondates"
+    ],
+    "A30845-e29410": [
+      "araxis"
+    ],
+    "A30845-e29460": [
+      "oroondates"
+    ],
+    "A30845-e29600": [
+      "lysimachus"
+    ],
+    "A30845-e29640": [
+      "oroondates"
+    ],
+    "A30845-e29690": [
+      "lysimachus"
+    ],
+    "A30845-e29780": [
+      "oroondates"
+    ],
+    "A30845-e29820": [
+      "lysimachus"
+    ],
+    "A30845-e30080": [
+      "oroondates"
+    ],
+    "A30845-e30110": [
+      "lysimachus"
+    ],
+    "A30845-e30170": [
+      "ephestion"
+    ],
+    "A30845-e30250": [
+      "lysimachus"
+    ],
+    "A30845-e30290": [
+      "ephestion"
+    ],
+    "A30845-e30400": [
+      "lysimachus"
+    ],
+    "A30845-e30460": [
+      "ephestion"
+    ],
+    "A30845-e30500": [
+      "lysimachus"
+    ],
+    "A30845-e30560": [
+      "ephestion"
+    ],
+    "A30845-e30620": [
+      "lysimachus"
+    ],
+    "A30845-e30660": [
+      "ephestion"
+    ],
+    "A30845-e30690": [
+      "lysimachus"
+    ],
+    "A30845-e30720": [
+      "ephestion"
+    ],
+    "A30845-e30860": [
+      "alexander-the-great"
+    ],
+    "A30845-e31020": [
+      "statira"
+    ],
+    "A30845-e31090": [
+      "alexander-the-great"
+    ],
+    "A30845-e31130": [
+      "statira"
+    ],
+    "A30845-e31170": [
+      "alexander-the-great"
+    ],
+    "A30845-e31260": [
+      "bagistanes"
+    ],
+    "A30845-e31310": [
+      "alexander-the-great"
+    ],
+    "A30845-e31370": [
+      "phillip"
+    ],
+    "A30845-e31440": [
+      "alexander-the-great"
+    ],
+    "A30845-e31630": [
+      "statira"
+    ],
+    "A30845-e31680": [
+      "alexander-the-great"
+    ],
+    "A30845-e31720": [
+      "statira"
+    ],
+    "A30845-e31750": [
+      "alexander-the-great"
+    ],
+    "A30845-e31870": [
+      "statira"
+    ],
+    "A30845-e31910": [
+      "alexander-the-great"
+    ],
+    "A30845-e32080": [
+      "ephestion"
+    ],
+    "A30845-e32220": [
+      "alexander-the-great"
+    ],
+    "A30845-e32390": [
+      "ephestion"
+    ],
+    "A30845-e32470": [
+      "alexander-the-great"
+    ],
+    "A30845-e32580": [
+      "ephestion"
+    ],
+    "A30845-e32720": [
+      "parisatis"
+    ],
+    "A30845-e32760": [
+      "alexander-the-great"
+    ],
+    "A30845-e32810": [
+      "statira"
+    ],
+    "A30845-e32870": [
+      "ephestion"
+    ],
+    "A30845-e33070": [
+      "alexander-the-great"
+    ],
+    "A30845-e33220": [
+      "ephestion"
+    ],
+    "A30845-e33410": [
+      "alexander-the-great"
+    ],
+    "A30845-e33460": [
+      "ephestion"
+    ],
+    "A30845-e33540": [
+      "alexander-the-great"
+    ],
+    "A30845-e33670": [
+      "lysimachus"
+    ],
+    "A30845-e33820": [
+      "parisatis"
+    ],
+    "A30845-e33910": [
+      "statira"
+    ],
+    "A30845-e33940": [
+      "alexander-the-great"
+    ],
+    "A30845-e34010": [
+      "ephestion"
+    ],
+    "A30845-e34060": [
+      "alexander-the-great"
+    ],
+    "A30845-e34150": [
+      "lysimachus"
+    ],
+    "A30845-e34240": [
+      "cassander"
+    ],
+    "A30845-e34280": [
+      "ephestion"
+    ],
+    "A30845-e34320": [
+      "alexander-the-great"
+    ],
+    "A30845-e34370": [
+      "cassander"
+    ],
+    "A30845-e34500": [
+      "ephestion"
+    ],
+    "A30845-e34530": [
+      "statira"
+    ],
+    "A30845-e34560": [
+      "ephestion"
+    ],
+    "A30845-e34590": [
+      "alexander-the-great"
+    ],
+    "A30845-e34620": [
+      "cassander"
+    ],
+    "A30845-e34740": [
+      "ephestion"
+    ],
+    "A30845-e34770": [
+      "alexander-the-great"
+    ],
+    "A30845-e34800": [
+      "cassander"
+    ],
+    "A30845-e35030": [
+      "lysimachus"
+    ],
+    "A30845-e35060": [
+      "alexander-the-great"
+    ],
+    "A30845-e35100": [
+      "cassander"
+    ],
+    "A30845-e35210": [
+      "alexander-the-great"
+    ],
+    "A30845-e35300": [
+      "ephestion"
+    ],
+    "A30845-e35360": [
+      "cassander"
+    ],
+    "A30845-e35400": [
+      "alexander-the-great"
+    ],
+    "A30845-e35470": [
+      "cassander"
+    ],
+    "A30845-e35570": [
+      "ephestion"
+    ],
+    "A30845-e35610": [
+      "alexander-the-great"
+    ],
+    "A30845-e35680": [
+      "ephestion"
+    ],
+    "A30845-e35820": [
+      "alexander-the-great"
+    ],
+    "A30845-e35900": [
+      "ephestion"
+    ],
+    "A30845-e36000": [
+      "alexander-the-great"
+    ],
+    "A30845-e36030": [
+      "ephestion"
+    ],
+    "A30845-e36150": [
+      "alexander-the-great"
+    ],
+    "A30845-e36250": [
+      "ephestion"
+    ],
+    "A30845-e36320": [
+      "alexander-the-great"
+    ],
+    "A30845-e36410": [
+      "statira"
+    ],
+    "A30845-e36450": [
+      "alexander-the-great"
+    ],
+    "A30845-e36600": [
+      "ephestion"
+    ],
+    "A30845-e36650": [
+      "lysimachus"
+    ],
+    "A30845-e36690": [
+      "alexander-the-great"
+    ],
+    "A30845-e36840": [
+      "statira"
+    ],
+    "A30845-e36900": [
+      "ephestion"
+    ],
+    "A30845-e36960": [
+      "alexander-the-great"
+    ],
+    "A30845-e37020": [
+      "ephestion"
+    ],
+    "A30845-e37150": [
+      "alexander-the-great"
+    ],
+    "A30845-e37240": [
+      "ephestion"
+    ],
+    "A30845-e37290": [
+      "alexander-the-great"
+    ],
+    "A30845-e37370": [
+      "ephestion"
+    ],
+    "A30845-e37410": [
+      "phillip"
+    ],
+    "A30845-e37470": [
+      "parisatis"
+    ],
+    "A30845-e37500": [
+      "statira"
+    ],
+    "A30845-e37550": [
+      "lysimachus"
+    ],
+    "A30845-e37600": [
+      "statira"
+    ],
+    "A30845-e37640": [
+      "lysimachus"
+    ],
+    "A30845-e37670": [
+      "bagistanes"
+    ],
+    "A30845-e37700": [
+      "lysimachus"
+    ],
+    "A30845-e37880": [
+      "oroondates"
+    ],
+    "A30845-e38140": [
+      "statira"
+    ],
+    "A30845-e38170": [
+      "lysimachus"
+    ],
+    "A30845-e38250": [
+      "parisatis"
+    ],
+    "A30845-e38290": [
+      "lysimachus"
+    ],
+    "A30845-e38350": [
+      "oroondates"
+    ],
+    "A30845-e38380": [
+      "lysimachus"
+    ],
+    "A30845-e38460": [
+      "lysimachus",
+      "parisatis",
+      "oroondates",
+      "araxis",
+      "captains",
+      "bagistanes"
+    ],
+    "A30845-e38490": [
+      "captains"
+    ],
+    "A30845-e38550": [
+      "captains"
+    ],
+    "A30845-e38610": [
+      "captains"
+    ],
+    "A30845-e38660": [
+      "lysimachus"
+    ]
+  }
+}

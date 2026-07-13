@@ -1,0 +1,1661 @@
+{
+  "particDesc": [
+    {
+      "name": "Grand Chorus",
+      "id": "grand-chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+	{
+      "name": "Gods and goddesses",
+      "id": "gods",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Oracle",
+      "id": "oracle",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Iris",
+      "id": "iris",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Juno",
+      "id": "juno",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Neptune",
+      "id": "neptune",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "High Priest",
+      "id": "high-priest",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cynthia",
+      "id": "cynthia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nymph",
+      "id": "nymph",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Satyr ",
+      "id": "satyr",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Shepherd",
+      "id": "shepherd",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Shepherdess",
+      "id": "shepherdess",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Flora ",
+      "id": "flora",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Collin",
+      "id": "collin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lowbell",
+      "id": "lowbell",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tarbox",
+      "id": "tarbox",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Clout",
+      "id": "clout",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Hobinal",
+      "id": "hobinal",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Amphitrite",
+      "id": "amphitrite",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Thames",
+      "id": "thames",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tiber",
+      "id": "tiber",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ganges",
+      "id": "ganges",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Pactolus",
+      "id": "pactolus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Hermes",
+      "id": "hermes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Zephirus",
+      "id": "zephirus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Merope",
+      "id": "merope",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Saturnia",
+      "id": "saturnia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cinthia",
+      "name": "Cinthia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cupid",
+      "name": "Cupid",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "psyche",
+      "name": "Psyche",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "daphne",
+      "name": "Daphne",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "pan",
+      "name": "Pan",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "endimion",
+      "name": "Endimion",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "syrinx",
+      "name": "Syrinx",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A37000-e770": [
+      "saturnia"
+    ],
+    "A37000-e1000": [
+      "merope"
+    ],
+    "A37000-e1160": [
+      "saturnia"
+    ],
+    "A37000-e1250": [
+      "merope"
+    ],
+    "A37000-e1350": [
+      "saturnia"
+    ],
+    "A37000-e1500": [
+      "zephirus"
+    ],
+    "A37000-e1760": [
+      "saturnia"
+    ],
+    "A37000-e1860": [
+      "grand-chorus"
+    ],
+    "A37000-e2630": [
+      "apollo"
+    ],
+    "A37000-e2740": [
+      "endimion"
+    ],
+    "A37000-e2960": [
+      "apollo"
+    ],
+    "A37000-e3050": [
+      "endimion"
+    ],
+    "A37000-e3080": [
+      "apollo"
+    ],
+    "A37000-e3160": [
+      "endimion"
+    ],
+    "A37000-e3270": [
+      "apollo"
+    ],
+    "A37000-e3410": [
+      "endimion"
+    ],
+    "A37000-e3460": [
+      "apollo"
+    ],
+    "A37000-e3570": [
+      "endimion"
+    ],
+    "A37000-e3730": [
+      "hermes"
+    ],
+    "A37000-e3910": [
+      "endimion"
+    ],
+    "A37000-e3980": [
+      "hermes"
+    ],
+    "A37000-e4100": [
+      "apollo"
+    ],
+    "A37000-e4140": [
+      "hermes"
+    ],
+    "A37000-e4240": [
+      "apollo"
+    ],
+    "A37000-e4280": [
+      "hermes"
+    ],
+    "A37000-e4380": [
+      "apollo"
+    ],
+    "A37000-e4410": [
+      "hermes"
+    ],
+    "A37000-e4510": [
+      "apollo"
+    ],
+    "A37000-e4560": [
+      "hermes"
+    ],
+    "A37000-e4620": [
+      "apollo"
+    ],
+    "A37000-e4650": [
+      "hermes"
+    ],
+    "A37000-e4690": [
+      "apollo"
+    ],
+    "A37000-e4720": [
+      "hermes"
+    ],
+    "A37000-e4780": [
+      "apollo"
+    ],
+    "A37000-e4880": [
+      "hermes"
+    ],
+    "A37000-e4970": [
+      "apollo"
+    ],
+    "A37000-e5080": [
+      "apollo"
+    ],
+    "A37000-e5220": [
+      "cupid"
+    ],
+    "A37000-e5880": [
+      "psyche"
+    ],
+    "A37000-e5970": [
+      "cupid"
+    ],
+    "A37000-e6060": [
+      "psyche"
+    ],
+    "A37000-e6140": [
+      "cupid"
+    ],
+    "A37000-e6170": [
+      "psyche"
+    ],
+    "A37000-e6220": [
+      "cupid"
+    ],
+    "A37000-e6250": [
+      "psyche"
+    ],
+    "A37000-e6280": [
+      "cupid"
+    ],
+    "A37000-e6320": [
+      "psyche"
+    ],
+    "A37000-e6380": [
+      "cupid"
+    ],
+    "A37000-e6410": [
+      "psyche"
+    ],
+    "A37000-e6450": [
+      "cupid"
+    ],
+    "A37000-e6480": [
+      "psyche"
+    ],
+    "A37000-e6510": [
+      "cupid"
+    ],
+    "A37000-e6540": [
+      "psyche"
+    ],
+    "A37000-e6580": [
+      "cupid"
+    ],
+    "A37000-e6640": [
+      "psyche"
+    ],
+    "A37000-e6780": [
+      "cupid"
+    ],
+    "A37000-e6860": [
+      "psyche"
+    ],
+    "A37000-e6890": [
+      "cupid"
+    ],
+    "A37000-e6940": [
+      "psyche"
+    ],
+    "A37000-e6970": [
+      "cupid"
+    ],
+    "A37000-e7000": [
+      "psyche"
+    ],
+    "A37000-e7060": [
+      "cupid"
+    ],
+    "A37000-e7160": [
+      "psyche"
+    ],
+    "A37000-e7350": [
+      "cupid"
+    ],
+    "A37000-e7840": [
+      "zephirus"
+    ],
+    "A37000-e7970": [
+      "pactolus"
+    ],
+    "A37000-e8090": [
+      "ganges"
+    ],
+    "A37000-e8160": [
+      "tiber"
+    ],
+    "A37000-e8190": [
+      "pactolus"
+    ],
+    "A37000-e8220": [
+      "ganges"
+    ],
+    "A37000-e8250": [
+      "tiber",
+	  "ganges",
+	  "pactolus",
+	  "thames"
+    ],
+    "A37000-e8280": [
+      "tiber"
+    ],
+    "A37000-e8310": [
+      "pactolus"
+    ],
+    "A37000-e8340": [
+      "ganges"
+    ],
+    "A37000-e8370": [
+      "tiber",
+	  "ganges",
+	  "pactolus",
+	  "thames"
+    ],
+    "A37000-e8440": [
+      "thames"
+    ],
+    "A37000-e8640": [
+      "pactolus"
+    ],
+    "A37000-e8680": [
+      "ganges"
+    ],
+    "A37000-e8730": [
+      "tiber"
+    ],
+    "A37000-e8790": [
+      "amphitrite"
+    ],
+    "A37000-e9080": [
+      "thames"
+    ],
+    "A37000-e9190": [
+      "grand-chorus"
+    ],
+    "A37000-e9260": [
+      "cinthia"
+    ],
+    "A37000-e9360": [
+      "hermes",
+	  "endimion", 
+	  "psyche", 
+	  "daphne", 
+	  "syrinx",
+	  "neptune", 
+	  "amphitrite", 
+	  "pactolus", 
+	  "ganges", 
+	  "tiber", 
+	  "thames"
+    ],
+    "A37000-e9400": [
+      "cinthia"
+    ],
+    "A37000-e9530": [
+      "syrinx"
+    ],
+    "A37000-e9620": [
+      "hermes"
+    ],
+    "A37000-e9710": [
+      "endimion"
+    ],
+    "A37000-e9800": [
+      "cinthia"
+    ],
+    "A37000-e9840": [
+      "daphne"
+    ],
+    "A37000-e9950": [
+      "psyche"
+    ],
+    "A37000-e10020": [
+      "syrinx"
+    ],
+    "A37000-e10120": [
+      "cinthia"
+    ],
+    "A37000-e10260": [
+      "cupid"
+    ],
+    "A37000-e10380": [
+      "cinthia"
+    ],
+    "A37000-e10780": [
+      "hobinal"
+    ],
+    "A37000-e10870": [
+      "lowbell"
+    ],
+    "A37000-e10910": [
+      "tarbox"
+    ],
+    "A37000-e10950": [
+      "hobinal"
+    ],
+    "A37000-e11030": [
+      "collin"
+    ],
+    "A37000-e11070": [
+      "lowbell"
+    ],
+    "A37000-e11100": [
+      "tarbox"
+    ],
+    "A37000-e11140": [
+      "hobinal"
+    ],
+    "A37000-e11170": [
+      "clout"
+    ],
+    "A37000-e11200": [
+      "flora"
+    ],
+    "A37000-e11230": [
+      "clout"
+    ],
+    "A37000-e11260": [
+      "collin"
+    ],
+    "A37000-e11290": [
+      "hobinal"
+    ],
+    "A37000-e11340": [
+      "lowbell"
+    ],
+    "A37000-e11370": [
+      "collin"
+    ],
+    "A37000-e11410": [
+      "tarbox"
+    ],
+    "A37000-e11440": [
+      "hobinal"
+    ],
+    "A37000-e11470": [
+      "collin"
+    ],
+    "A37000-e11500": [
+      "clout"
+    ],
+    "A37000-e11550": [
+      "flora"
+    ],
+    "A37000-e11580": [
+      "clout"
+    ],
+    "A37000-e11610": [
+      "flora"
+    ],
+    "A37000-e11640": [
+      "clout"
+    ],
+    "A37000-e11670": [
+      "flora"
+    ],
+    "A37000-e11720": [
+      "hobinal"
+    ],
+    "A37000-e11760": [
+      "collin"
+    ],
+    "A37000-e11800": [
+      "clout"
+    ],
+    "A37000-e11830": [
+      "collin"
+    ],
+    "A37000-e11860": [
+      "lowbell"
+    ],
+    "A37000-e11900": [
+      "collin"
+    ],
+    "A37000-e11970": [
+      "tarbox"
+    ],
+    "A37000-e12030": [
+      "collin"
+    ],
+    "A37000-e12070": [
+      "hobinal",
+	  "clout",
+	  "tarbox",
+	  "lowbell"
+    ],
+    "A37000-e12130": [
+      "clout"
+    ],
+    "A37000-e12180": [
+      "collin"
+    ],
+    "A37000-e12230": [
+      "lowbell"
+    ],
+    "A37000-e12270": [
+      "clout"
+    ],
+    "A37000-e12310": [
+      "collin"
+    ],
+    "A37000-e12390": [
+      "hobinal"
+    ],
+    "A37000-e12440": [
+      "clout"
+    ],
+    "A37000-e12480": [
+      "collin"
+    ],
+    "A37000-e12510": [
+      "hobinal",
+	  "clout",
+	  "tarbox",
+	  "lowbell"
+    ],
+    "A37000-e12570": [
+      "collin"
+    ],
+    "A37000-e12600": [
+      "clout"
+    ],
+    "A37000-e12640": [
+      "collin"
+    ],
+    "A37000-e12670": [
+      "tarbox"
+    ],
+    "A37000-e12700": [
+      "collin"
+    ],
+    "A37000-e12730": [
+      "hobinal",
+	  "clout",
+	  "tarbox",
+	  "lowbell"
+    ],
+    "A37000-e12790": [
+      "lowbell"
+    ],
+    "A37000-e12830": [
+      "collin"
+    ],
+    "A37000-e12860": [
+      "hobinal",
+	  "clout",
+	  "tarbox",
+	  "lowbell"
+    ],
+    "A37000-e12890": [
+      "collin"
+    ],
+    "A37000-e13060": [
+      "hobinal",
+	  "clout",
+	  "tarbox",
+	  "lowbell"
+    ],
+    "A37000-e13110": [
+      "collin"
+    ],
+    "A37000-e13150": [
+      "hobinal",
+	  "clout",
+	  "tarbox",
+	  "lowbell"
+    ],
+    "A37000-e13220": [
+      "flora"
+    ],
+    "A37000-e13250": [
+      "hobinal"
+    ],
+    "A37000-e13310": [
+      "clout"
+    ],
+    "A37000-e13340": [
+      "tarbox"
+    ],
+    "A37000-e13370": [
+      "clout"
+    ],
+    "A37000-e13410": [
+      "lowbell"
+    ],
+    "A37000-e13440": [
+      "clout"
+    ],
+    "A37000-e13470": [
+      "flora"
+    ],
+    "A37000-e13500": [
+      "clout"
+    ],
+    "A37000-e13530": [
+      "collin"
+    ],
+    "A37000-e13560": [
+      "clout"
+    ],
+    "A37000-e13610": [
+      "collin"
+    ],
+    "A37000-e13640": [
+      "clout"
+    ],
+    "A37000-e13680": [
+      "hobinal",
+	  "clout",
+	  "tarbox",
+	  "lowbell"
+    ],
+    "A37000-e14340": [
+      "clout"
+    ],
+    "A37000-e14370": [
+      "hobinal"
+    ],
+    "A37000-e14410": [
+      "lowbell"
+    ],
+    "A37000-e14440": [
+      "tarbox"
+    ],
+    "A37000-e14480": [
+      "collin"
+    ],
+    "A37000-e14580": [
+      "pan"
+    ],
+    "A37000-e14690": [
+      "apollo"
+    ],
+    "A37000-e14790": [
+      "pan"
+    ],
+    "A37000-e14880": [
+      "apollo"
+    ],
+    "A37000-e14970": [
+      "pan"
+    ],
+    "A37000-e15010": [
+      "apollo"
+    ],
+    "A37000-e15050": [
+      "mercury"
+    ],
+    "A37000-e15190": [
+      "pan"
+    ],
+    "A37000-e15320": [
+      "mercury"
+    ],
+    "A37000-e15350": [
+      "pan"
+    ],
+    "A37000-e15380": [
+      "apollo"
+    ],
+    "A37000-e15440": [
+      "mercury"
+    ],
+    "A37000-e15500": [
+      "apollo"
+    ],
+    "A37000-e15540": [
+      "mercury"
+    ],
+    "A37000-e15570": [
+      "apollo"
+    ],
+    "A37000-e15610": [
+      "mercury"
+    ],
+    "A37000-e15720": [
+      "apollo"
+    ],
+    "A37000-e15750": [
+      "mercury"
+    ],
+    "A37000-e15870": [
+      "daphne"
+    ],
+    "A37000-e16060": [
+      "apollo"
+    ],
+    "A37000-e16100": [
+      "daphne"
+    ],
+    "A37000-e16180": [
+      "apollo"
+    ],
+    "A37000-e16220": [
+      "daphne"
+    ],
+    "A37000-e16260": [
+      "apollo"
+    ],
+    "A37000-e16300": [
+      "daphne"
+    ],
+    "A37000-e16350": [
+      "apollo"
+    ],
+    "A37000-e16480": [
+      "daphne"
+    ],
+    "A37000-e16570": [
+      "apollo"
+    ],
+    "A37000-e16710": [
+      "daphne"
+    ],
+    "A37000-e16940": [
+      "apollo"
+    ],
+    "A37000-e16990": [
+      "daphne"
+    ],
+    "A37000-e17020": [
+      "apollo"
+    ],
+    "A37000-e17070": [
+      "daphne"
+    ],
+    "A37000-e17170": [
+      "apollo"
+    ],
+    "A37000-e17380": [
+      "pan"
+    ],
+    "A37000-e17960": [
+      "shepherd"
+    ],
+    "A37000-e18000": [
+      "shepherdess"
+    ],
+    "A37000-e18050": [
+      "shepherd"
+    ],
+    "A37000-e18080": [
+      "shepherdess",
+      "shepherd"
+    ],
+    "A37000-e18150": [
+      "shepherdess"
+    ],
+    "A37000-e18200": [
+      "shepherd"
+    ],
+    "A37000-e18340": [
+      "satyr"
+    ],
+    "A37000-e18480": [
+      "nymph"
+    ],
+    "A37000-e18560": [
+      "satyr"
+    ],
+    "A37000-e18600": [
+      "nymph"
+    ],
+    "A37000-e18660": [
+      "satyr"
+    ],
+    "A37000-e18690": [
+      "nymph"
+    ],
+    "A37000-e18720": [
+      "satyr"
+    ],
+    "A37000-e18760": [
+      "nymph"
+    ],
+    "A37000-e18810": [
+      "satyr"
+    ],
+    "A37000-e18840": [
+      "nymph"
+    ],
+    "A37000-e18920": [
+      "satyr"
+    ],
+    "A37000-e18970": [
+      "nymph"
+    ],
+    "A37000-e19030": [
+      "satyr"
+    ],
+    "A37000-e19070": [
+      "nymph"
+    ],
+    "A37000-e19100": [
+      "satyr"
+    ],
+    "A37000-e19130": [
+      "nymph"
+    ],
+    "A37000-e19190": [
+      "satyr"
+    ],
+    "A37000-e19240": [
+      "nymph"
+    ],
+    "A37000-e19290": [
+      "satyr"
+    ],
+    "A37000-e19370": [
+      "pan"
+    ],
+    "A37000-e19460": [
+      "syrinx"
+    ],
+    "A37000-e19490": [
+      "pan"
+    ],
+    "A37000-e19690": [
+      "syrinx"
+    ],
+    "A37000-e19730": [
+      "pan"
+    ],
+    "A37000-e19760": [
+      "syrinx"
+    ],
+    "A37000-e19810": [
+      "pan"
+    ],
+    "A37000-e19870": [
+      "syrinx"
+    ],
+    "A37000-e20070": [
+      "cynthia"
+    ],
+    "A37000-e20310": [
+      "psyche"
+    ],
+    "A37000-e20400": [
+      "cynthia"
+    ],
+    "A37000-e20480": [
+      "psyche"
+    ],
+    "A37000-e20560": [
+      "cynthia"
+    ],
+    "A37000-e20660": [
+      "psyche"
+    ],
+    "A37000-e20740": [
+      "cynthia"
+    ],
+    "A37000-e20880": [
+      "endimion"
+    ],
+    "A37000-e20990": [
+      "cynthia"
+    ],
+    "A37000-e21090": [
+      "endimion"
+    ],
+    "A37000-e21140": [
+      "cynthia"
+    ],
+    "A37000-e21170": [
+      "endimion"
+    ],
+    "A37000-e21200": [
+      "cynthia"
+    ],
+    "A37000-e21250": [
+      "endimion"
+    ],
+    "A37000-e21310": [
+      "cynthia"
+    ],
+    "A37000-e21390": [
+      "endimion"
+    ],
+    "A37000-e21430": [
+      "cynthia"
+    ],
+    "A37000-e21460": [
+      "endimion"
+    ],
+    "A37000-e21490": [
+      "cynthia"
+    ],
+    "A37000-e21530": [
+      "endimion"
+    ],
+    "A37000-e21720": [
+      "cynthia"
+    ],
+    "A37000-e21940": [
+      "endimion"
+    ],
+    "A37000-e22100": [
+      "syrinx"
+    ],
+    "A37000-e22210": [
+      "endimion"
+    ],
+    "A37000-e22240": [
+      "syrinx"
+    ],
+    "A37000-e22310": [
+      "endimion"
+    ],
+    "A37000-e22350": [
+      "syrinx"
+    ],
+    "A37000-e22400": [
+      "endimion"
+    ],
+    "A37000-e22430": [
+      "syrinx"
+    ],
+    "A37000-e22470": [
+      "endimion"
+    ],
+    "A37000-e22520": [
+      "syrinx"
+    ],
+    "A37000-e22670": [
+      "cynthia"
+    ],
+    "A37000-e23420": [
+      "neptune"
+    ],
+    "A37000-e23680": [
+      "chorus"
+    ],
+    "A37000-e23780": [
+      "chorus"
+    ],
+    "A37000-e23950": [
+      "cupid"
+    ],
+    "A37000-e24000": [
+      "high-priest"
+    ],
+    "A37000-e24030": [
+      "cupid"
+    ],
+    "A37000-e24110": [
+      "high-priest"
+    ],
+    "A37000-e24140": [
+      "oracle"
+    ],
+    "A37000-e24230": [
+      "high-priest"
+    ],
+    "A37000-e24320": [
+      "apollo"
+    ],
+    "A37000-e24530": [
+      "hermes"
+    ],
+    "A37000-e24610": [
+      "apollo"
+    ],
+    "A37000-e24850": [
+      "clout"
+    ],
+    "A37000-e24910": [
+      "tarbox"
+    ],
+    "A37000-e24940": [
+      "lowbell"
+    ],
+    "A37000-e24970": [
+      "collin"
+    ],
+    "A37000-e25000": [
+      "hobinal"
+    ],
+    "A37000-e25040": [
+      "clout"
+    ],
+    "A37000-e25070": [
+      "collin"
+    ],
+    "A37000-e25100": [
+      "tarbox"
+    ],
+    "A37000-e25140": [
+      "lowbell"
+    ],
+    "A37000-e25170": [
+      "collin"
+    ],
+    "A37000-e25220": [
+      "clout"
+    ],
+    "A37000-e25270": [
+      "collin"
+    ],
+    "A37000-e25300": [
+      "hobinal"
+    ],
+    "A37000-e25330": [
+      "collin"
+    ],
+    "A37000-e25360": [
+      "tarbox"
+    ],
+    "A37000-e25400": [
+      "collin"
+    ],
+    "A37000-e25450": [
+      "mercury"
+    ],
+    "A37000-e25500": [
+      "clout"
+    ],
+    "A37000-e25530": [
+      "collin"
+    ],
+    "A37000-e25560": [
+      "mercury"
+    ],
+    "A37000-e25590": [
+      "collin"
+    ],
+    "A37000-e25620": [
+      "mercury"
+    ],
+    "A37000-e25650": [
+      "collin"
+    ],
+    "A37000-e25680": [
+      "mercury"
+    ],
+    "A37000-e25710": [
+      "collin"
+    ],
+    "A37000-e25740": [
+      "mercury"
+    ],
+    "A37000-e25770": [
+      "collin"
+    ],
+    "A37000-e25800": [
+      "mercury"
+    ],
+    "A37000-e25830": [
+      "collin"
+    ],
+    "A37000-e25860": [
+      "mercury"
+    ],
+    "A37000-e25890": [
+      "collin"
+    ],
+    "A37000-e25940": [
+      "hobinal"
+    ],
+    "A37000-e25970": [
+      "collin"
+    ],
+    "A37000-e26000": [
+      "mercury"
+    ],
+    "A37000-e26030": [
+      "collin"
+    ],
+    "A37000-e26140": [
+      "syrinx"
+    ],
+    "A37000-e26280": [
+      "cupid"
+    ],
+    "A37000-e26380": [
+      "syrinx"
+    ],
+    "A37000-e26410": [
+      "cupid"
+    ],
+    "A37000-e26510": [
+      "syrinx"
+    ],
+    "A37000-e26570": [
+      "cupid"
+    ],
+    "A37000-e26650": [
+      "syrinx"
+    ],
+    "A37000-e26680": [
+      "cupid"
+    ],
+    "A37000-e26740": [
+      "syrinx"
+    ],
+    "A37000-e26780": [
+      "cupid"
+    ],
+    "A37000-e26820": [
+      "syrinx"
+    ],
+    "A37000-e26850": [
+      "cupid"
+    ],
+    "A37000-e26880": [
+      "syrinx"
+    ],
+    "A37000-e26910": [
+      "cupid"
+    ],
+    "A37000-e26950": [
+      "syrinx"
+    ],
+    "A37000-e26980": [
+      "cupid"
+    ],
+    "A37000-e27040": [
+      "syrinx"
+    ],
+    "A37000-e27080": [
+      "cupid"
+    ],
+    "A37000-e27110": [
+      "syrinx"
+    ],
+    "A37000-e27150": [
+      "cupid"
+    ],
+    "A37000-e27180": [
+      "syrinx"
+    ],
+    "A37000-e27210": [
+      "cupid"
+    ],
+    "A37000-e27240": [
+      "syrinx"
+    ],
+    "A37000-e27270": [
+      "cupid"
+    ],
+    "A37000-e27370": [
+      "syrinx"
+    ],
+    "A37000-e27400": [
+      "cupid"
+    ],
+    "A37000-e27450": [
+      "syrinx"
+    ],
+    "A37000-e27520": [
+      "cupid"
+    ],
+    "A37000-e27610": [
+      "syrinx"
+    ],
+    "A37000-e27800": [
+      "pan"
+    ],
+    "A37000-e27860": [
+      "syrinx"
+    ],
+    "A37000-e27900": [
+      "pan"
+    ],
+    "A37000-e27930": [
+      "syrinx"
+    ],
+    "A37000-e27970": [
+      "pan"
+    ],
+    "A37000-e28020": [
+      "syrinx"
+    ],
+    "A37000-e28050": [
+      "pan"
+    ],
+    "A37000-e28080": [
+      "syrinx"
+    ],
+    "A37000-e28120": [
+      "pan"
+    ],
+    "A37000-e28160": [
+      "syrinx"
+    ],
+    "A37000-e28190": [
+      "pan"
+    ],
+    "A37000-e28240": [
+      "syrinx"
+    ],
+    "A37000-e28280": [
+      "pan"
+    ],
+    "A37000-e28310": [
+      "syrinx"
+    ],
+    "A37000-e28410": [
+      "pan"
+    ],
+    "A37000-e28520": [
+      "mercury"
+    ],
+    "A37000-e28650": [
+      "pan"
+    ],
+    "A37000-e28700": [
+      "mercury"
+    ],
+    "A37000-e28770": [
+      "pan"
+    ],
+    "A37000-e28820": [
+      "syrinx"
+    ],
+    "A37000-e28880": [
+      "psyche"
+    ],
+    "A37000-e29120": [
+      "cynthia"
+    ],
+    "A37000-e29280": [
+      "psyche"
+    ],
+    "A37000-e29310": [
+      "cynthia"
+    ],
+    "A37000-e29350": [
+      "psyche"
+    ],
+    "A37000-e29380": [
+      "cynthia"
+    ],
+    "A37000-e29440": [
+      "psyche"
+    ],
+    "A37000-e29500": [
+      "cynthia"
+    ],
+    "A37000-e29530": [
+      "psyche"
+    ],
+    "A37000-e29590": [
+      "cynthia"
+    ],
+    "A37000-e29740": [
+      "psyche"
+    ],
+    "A37000-e29820": [
+      "cynthia"
+    ],
+    "A37000-e29860": [
+      "psyche"
+    ],
+    "A37000-e29930": [
+      "cynthia"
+    ],
+    "A37000-e29960": [
+      "psyche"
+    ],
+    "A37000-e29990": [
+      "cynthia"
+    ],
+    "A37000-e30020": [
+      "psyche"
+    ],
+    "A37000-e30110": [
+      "cynthia"
+    ],
+    "A37000-e30140": [
+      "psyche"
+    ],
+    "A37000-e30240": [
+      "cynthia"
+    ],
+    "A37000-e30270": [
+      "psyche"
+    ],
+    "A37000-e30340": [
+      "cynthia"
+    ],
+    "A37000-e30380": [
+      "psyche"
+    ],
+    "A37000-e30630": [
+      "chorus"
+    ],
+    "A37000-e30700": [
+      "cynthia"
+    ],
+    "A37000-e30840": [
+      "psyche"
+    ],
+    "A37000-e30870": [
+      "cynthia"
+    ],
+    "A37000-e31030": [
+      "cupid"
+    ],
+    "A37000-e31110": [
+      "psyche"
+    ],
+    "A37000-e31170": [
+      "cupid"
+    ],
+    "A37000-e31220": [
+      "psyche"
+    ],
+    "A37000-e31250": [
+      "cupid"
+    ],
+    "A37000-e31320": [
+      "psyche"
+    ],
+    "A37000-e31410": [
+      "cupid"
+    ],
+    "A37000-e31460": [
+      "endimion"
+    ],
+    "A37000-e31620": [
+      "cynthia"
+    ],
+    "A37000-e31680": [
+      "endimion"
+    ],
+    "A37000-e31710": [
+      "cynthia"
+    ],
+    "A37000-e31740": [
+      "endimion"
+    ],
+    "A37000-e31790": [
+      "cynthia"
+    ],
+    "A37000-e31830": [
+      "endimion"
+    ],
+    "A37000-e31960": [
+      "cupid"
+    ],
+    "A37000-e32030": [
+      "zephirus"
+    ],
+    "A37000-e32200": [
+      "iris"
+    ],
+    "A37000-e32390": [
+      "zephirus"
+    ],
+    "A37000-e32420": [
+      "iris"
+    ],
+    "A37000-e32450": [
+      "zephirus"
+    ],
+    "A37000-e32480": [
+      "iris"
+    ],
+    "A37000-e32530": [
+      "chorus"
+    ],
+    "A37000-e32600": [
+      "apollo"
+    ],
+    "A37000-e32710": [
+      "endimion"
+    ],
+    "A37000-e32750": [
+      "apollo"
+    ],
+    "A37000-e32820": [
+      "cynthia"
+    ],
+    "A37000-e32850": [
+      "apollo"
+    ],
+    "A37000-e33060": [
+      "cynthia"
+    ],
+    "A37000-e33100": [
+      "daphne"
+    ],
+    "A37000-e33160": [
+      "apollo"
+    ],
+    "A37000-e33200": [
+      "daphne"
+    ],
+    "A37000-e33260": [
+      "apollo"
+    ],
+    "A37000-e33350": [
+      "daphne"
+    ],
+    "A37000-e33390": [
+      "apollo"
+    ],
+    "A37000-e33420": [
+      "daphne"
+    ],
+    "A37000-e33460": [
+      "apollo"
+    ],
+    "A37000-e33570": [
+      "daphne"
+    ],
+    "A37000-e33660": [
+      "apollo"
+    ],
+    "A37000-e33770": [
+      "mercury"
+    ],
+    "A37000-e33860": [
+      "cynthia"
+    ],
+    "A37000-e33920": [
+      "syrinx"
+    ],
+    "A37000-e33980": [
+      "cynthia"
+    ],
+    "A37000-e34020": [
+      "pan"
+    ],
+    "A37000-e34060": [
+      "mercury"
+    ],
+    "A37000-e34100": [
+      "apollo"
+    ],
+    "A37000-e34150": [
+      "syrinx"
+    ],
+    "A37000-e34200": [
+      "cynthia"
+    ],
+    "A37000-e34250": [
+      "syrinx"
+    ],
+    "A37000-e34330": [
+      "pan"
+    ],
+    "A37000-e34360": [
+      "syrinx"
+    ],
+    "A37000-e34440": [
+      "pan"
+    ],
+    "A37000-e34490": [
+      "syrinx"
+    ],
+    "A37000-e34530": [
+      "pan"
+    ],
+    "A37000-e34560": [
+      "syrinx"
+    ],
+    "A37000-e34610": [
+      "pan"
+    ],
+    "A37000-e34650": [
+      "syrinx"
+    ],
+    "A37000-e34690": [
+      "pan"
+    ],
+    "A37000-e34740": [
+      "syrinx"
+    ],
+    "A37000-e34790": [
+      "cynthia"
+    ],
+    "A37000-e34840": [
+      "syrinx"
+    ],
+    "A37000-e34930": [
+      "cynthia"
+    ],
+    "A37000-e34990": [
+      "endimion"
+    ],
+    "A37000-e35040": [
+      "cynthia"
+    ],
+    "A37000-e35100": [
+      "apollo"
+    ],
+    "A37000-e35200": [
+      "cynthia"
+    ],
+    "A37000-e35370": [
+      "cynthia"
+    ],
+    "A37000-e35500": [
+      "jupiter"
+    ],
+    "A37000-e35660": [
+      "juno"
+    ],
+    "A37000-e35720": [
+      "jupiter"
+    ],
+    "A37000-e35770": [
+      "cynthia"
+    ],
+    "A37000-e35810": [
+      "gods"
+    ]
+  }
+}

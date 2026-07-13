@@ -1,0 +1,3030 @@
+{
+  "particDesc": [
+    {
+      "name": "Jack",
+      "id": "jack",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servants",
+      "id": "servants",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Fidler",
+      "id": "fidler",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boy",
+      "id": "boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Physician 3",
+      "id": "physician-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Physician 2",
+      "id": "physician-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-wilding-frollick",
+      "name": "Sir Wilding Frollick",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "monsieur-thomas",
+      "name": "Monsieur Thomas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "valentine",
+      "name": "Valentine",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "franck",
+      "name": "Franck",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hylas",
+      "name": "Hylas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-peregreen",
+      "name": "Sir Peregreen",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "launce",
+      "name": "Launce",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "physician-1",
+      "name": "Physician 1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "servant",
+      "name": "Servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cellida",
+      "name": "Cellida",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "sabina",
+      "name": "Sabina",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lucilla",
+      "name": "Lucilla",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "whore",
+      "name": "Whore",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "mrs-dorothy",
+      "name": "Mrs. Dorothy",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A37025-e1200": [
+      "valentine"
+    ],
+    "A37025-e1240": [
+      "franck"
+    ],
+    "A37025-e1270": [
+      "valentine"
+    ],
+    "A37025-e1300": [
+      "franck"
+    ],
+    "A37025-e1330": [
+      "valentine"
+    ],
+    "A37025-e1360": [
+      "franck"
+    ],
+    "A37025-e1390": [
+      "valentine"
+    ],
+    "A37025-e1440": [
+      "servant"
+    ],
+    "A37025-e1480": [
+      "valentine"
+    ],
+    "A37025-e1530": [
+      "franck"
+    ],
+    "A37025-e1570": [
+      "valentine"
+    ],
+    "A37025-e1600": [
+      "franck"
+    ],
+    "A37025-e1630": [
+      "valentine"
+    ],
+    "A37025-e1720": [
+      "hylas"
+    ],
+    "A37025-e1770": [
+      "valentine"
+    ],
+    "A37025-e1810": [
+      "hylas"
+    ],
+    "A37025-e1860": [
+      "valentine"
+    ],
+    "A37025-e1890": [
+      "hylas"
+    ],
+    "A37025-e1930": [
+      "franck"
+    ],
+    "A37025-e1970": [
+      "hylas"
+    ],
+    "A37025-e2000": [
+      "valentine"
+    ],
+    "A37025-e2030": [
+      "hylas"
+    ],
+    "A37025-e2070": [
+      "franck"
+    ],
+    "A37025-e2110": [
+      "hylas"
+    ],
+    "A37025-e2150": [
+      "valentine"
+    ],
+    "A37025-e2220": [
+      "hylas"
+    ],
+    "A37025-e2270": [
+      "valentine"
+    ],
+    "A37025-e2300": [
+      "hylas"
+    ],
+    "A37025-e2340": [
+      "valentine"
+    ],
+    "A37025-e2370": [
+      "hylas"
+    ],
+    "A37025-e2410": [
+      "valentine"
+    ],
+    "A37025-e2440": [
+      "hylas"
+    ],
+    "A37025-e2470": [
+      "franck"
+    ],
+    "A37025-e2530": [
+      "hylas"
+    ],
+    "A37025-e2570": [
+      "sabina"
+    ],
+    "A37025-e2610": [
+      "valentine"
+    ],
+    "A37025-e2650": [
+      "hylas"
+    ],
+    "A37025-e2690": [
+      "valentine"
+    ],
+    "A37025-e2720": [
+      "cellida"
+    ],
+    "A37025-e2750": [
+      "valentine"
+    ],
+    "A37025-e2800": [
+      "cellida"
+    ],
+    "A37025-e2830": [
+      "sabina"
+    ],
+    "A37025-e2860": [
+      "franck"
+    ],
+    "A37025-e2900": [
+      "valentine"
+    ],
+    "A37025-e2940": [
+      "hylas"
+    ],
+    "A37025-e2970": [
+      "valentine"
+    ],
+    "A37025-e3000": [
+      "hylas"
+    ],
+    "A37025-e3030": [
+      "valentine"
+    ],
+    "A37025-e3070": [
+      "servant"
+    ],
+    "A37025-e3110": [
+      "valentine"
+    ],
+    "A37025-e3140": [
+      "sabina"
+    ],
+    "A37025-e3180": [
+      "cellida"
+    ],
+    "A37025-e3210": [
+      "sabina"
+    ],
+    "A37025-e3240": [
+      "cellida"
+    ],
+    "A37025-e3270": [
+      "hylas"
+    ],
+    "A37025-e3300": [
+      "cellida"
+    ],
+    "A37025-e3330": [
+      "hylas"
+    ],
+    "A37025-e3390": [
+      "monsieur-thomas"
+    ],
+    "A37025-e3450": [
+      "valentine"
+    ],
+    "A37025-e3480": [
+      "monsieur-thomas"
+    ],
+    "A37025-e3510": [
+      "franck"
+    ],
+    "A37025-e3550": [
+      "hylas"
+    ],
+    "A37025-e3590": [
+      "monsieur-thomas"
+    ],
+    "A37025-e3640": [
+      "valentine"
+    ],
+    "A37025-e3690": [
+      "hylas"
+    ],
+    "A37025-e3720": [
+      "valentine"
+    ],
+    "A37025-e3750": [
+      "monsieur-thomas"
+    ],
+    "A37025-e3790": [
+      "valentine"
+    ],
+    "A37025-e3820": [
+      "monsieur-thomas"
+    ],
+    "A37025-e3850": [
+      "launce"
+    ],
+    "A37025-e3880": [
+      "franck"
+    ],
+    "A37025-e3910": [
+      "monsieur-thomas"
+    ],
+    "A37025-e3950": [
+      "launce"
+    ],
+    "A37025-e3980": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4010": [
+      "launce"
+    ],
+    "A37025-e4040": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4080": [
+      "launce"
+    ],
+    "A37025-e4120": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4150": [
+      "launce"
+    ],
+    "A37025-e4190": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4220": [
+      "launce"
+    ],
+    "A37025-e4250": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4280": [
+      "franck"
+    ],
+    "A37025-e4310": [
+      "launce"
+    ],
+    "A37025-e4340": [
+      "hylas"
+    ],
+    "A37025-e4370": [
+      "launce"
+    ],
+    "A37025-e4400": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4430": [
+      "launce"
+    ],
+    "A37025-e4460": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4490": [
+      "launce"
+    ],
+    "A37025-e4520": [
+      "valentine"
+    ],
+    "A37025-e4550": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4590": [
+      "launce"
+    ],
+    "A37025-e4620": [
+      "sabina"
+    ],
+    "A37025-e4650": [
+      "cellida"
+    ],
+    "A37025-e4680": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4710": [
+      "launce"
+    ],
+    "A37025-e4760": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4790": [
+      "franck"
+    ],
+    "A37025-e4820": [
+      "monsieur-thomas"
+    ],
+    "A37025-e4870": [
+      "valentine"
+    ],
+    "A37025-e4930": [
+      "cellida"
+    ],
+    "A37025-e4960": [
+      "hylas"
+    ],
+    "A37025-e5000": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5030": [
+      "valentine"
+    ],
+    "A37025-e5060": [
+      "cellida"
+    ],
+    "A37025-e5090": [
+      "sabina"
+    ],
+    "A37025-e5120": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5150": [
+      "valentine"
+    ],
+    "A37025-e5180": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5210": [
+      "valentine"
+    ],
+    "A37025-e5240": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5310": [
+      "valentine"
+    ],
+    "A37025-e5340": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5380": [
+      "cellida"
+    ],
+    "A37025-e5410": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5440": [
+      "cellida"
+    ],
+    "A37025-e5470": [
+      "sabina"
+    ],
+    "A37025-e5500": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5530": [
+      "cellida"
+    ],
+    "A37025-e5560": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5590": [
+      "cellida"
+    ],
+    "A37025-e5650": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5680": [
+      "valentine"
+    ],
+    "A37025-e5710": [
+      "hylas"
+    ],
+    "A37025-e5740": [
+      "franck"
+    ],
+    "A37025-e5770": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5800": [
+      "valentine"
+    ],
+    "A37025-e5830": [
+      "monsieur-thomas"
+    ],
+    "A37025-e5880": [
+      "valentine"
+    ],
+    "A37025-e5910": [
+      "monsieur-thomas"
+    ],
+    "A37025-e6010": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6050": [
+      "launce"
+    ],
+    "A37025-e6090": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6190": [
+      "launce"
+    ],
+    "A37025-e6220": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6250": [
+      "launce"
+    ],
+    "A37025-e6290": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6320": [
+      "launce"
+    ],
+    "A37025-e6380": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6420": [
+      "launce"
+    ],
+    "A37025-e6460": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6560": [
+      "launce"
+    ],
+    "A37025-e6600": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6630": [
+      "launce"
+    ],
+    "A37025-e6660": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6700": [
+      "launce"
+    ],
+    "A37025-e6740": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6780": [
+      "launce"
+    ],
+    "A37025-e6810": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6840": [
+      "launce"
+    ],
+    "A37025-e6870": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6920": [
+      "launce"
+    ],
+    "A37025-e6950": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e6980": [
+      "launce"
+    ],
+    "A37025-e7020": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7060": [
+      "launce"
+    ],
+    "A37025-e7110": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7190": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7230": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7280": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7310": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7350": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7380": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7410": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7440": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7480": [
+      "launce"
+    ],
+    "A37025-e7510": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7540": [
+      "launce"
+    ],
+    "A37025-e7580": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7610": [
+      "launce"
+    ],
+    "A37025-e7650": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7680": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7710": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7750": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7780": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7810": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7850": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7880": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e7930": [
+      "monsieur-thomas"
+    ],
+    "A37025-e7980": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8010": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8050": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8080": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8110": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8140": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8180": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8210": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8250": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8280": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8310": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8340": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8370": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8400": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8430": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8460": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8520": [
+      "boy"
+    ],
+    "A37025-e8550": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8580": [
+      "monsieur-thomas"
+    ],
+    "A37025-e8650": [
+      "cellida"
+    ],
+    "A37025-e8680": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8710": [
+      "cellida"
+    ],
+    "A37025-e8740": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8770": [
+      "cellida"
+    ],
+    "A37025-e8800": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8830": [
+      "cellida"
+    ],
+    "A37025-e8860": [
+      "sabina"
+    ],
+    "A37025-e8890": [
+      "mrs-dorothy"
+    ],
+    "A37025-e8920": [
+      "cellida"
+    ],
+    "A37025-e8970": [
+      "mrs-dorothy"
+    ],
+    "A37025-e9000": [
+      "sabina"
+    ],
+    "A37025-e9030": [
+      "cellida"
+    ],
+    "A37025-e9060": [
+      "sabina"
+    ],
+    "A37025-e9090": [
+      "cellida"
+    ],
+    "A37025-e9120": [
+      "mrs-dorothy"
+    ],
+    "A37025-e9190": [
+      "cellida"
+    ],
+    "A37025-e9240": [
+      "sabina"
+    ],
+    "A37025-e9680": [
+      "cellida"
+    ],
+    "A37025-e9720": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e9770": [
+      "mrs-dorothy"
+    ],
+    "A37025-e9840": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e9880": [
+      "launce"
+    ],
+    "A37025-e9920": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e9970": [
+      "launce"
+    ],
+    "A37025-e10000": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10030": [
+      "launce"
+    ],
+    "A37025-e10060": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10090": [
+      "launce"
+    ],
+    "A37025-e10120": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10150": [
+      "launce"
+    ],
+    "A37025-e10180": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10260": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10290": [
+      "launce"
+    ],
+    "A37025-e10340": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10380": [
+      "launce"
+    ],
+    "A37025-e10410": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10460": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10490": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10530": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10560": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10640": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10670": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10720": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10750": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e10810": [
+      "launce"
+    ],
+    "A37025-e10840": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10870": [
+      "launce"
+    ],
+    "A37025-e10900": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10930": [
+      "launce"
+    ],
+    "A37025-e10960": [
+      "monsieur-thomas"
+    ],
+    "A37025-e10990": [
+      "launce"
+    ],
+    "A37025-e11030": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11120": [
+      "hylas"
+    ],
+    "A37025-e11170": [
+      "boy"
+    ],
+    "A37025-e11220": [
+      "valentine"
+    ],
+    "A37025-e11250": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11280": [
+      "valentine"
+    ],
+    "A37025-e11320": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11360": [
+      "valentine"
+    ],
+    "A37025-e11410": [
+      "mrs-dorothy"
+    ],
+    "A37025-e11440": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11470": [
+      "mrs-dorothy"
+    ],
+    "A37025-e11500": [
+      "valentine"
+    ],
+    "A37025-e11540": [
+      "hylas"
+    ],
+    "A37025-e11570": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11600": [
+      "mrs-dorothy"
+    ],
+    "A37025-e11630": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11700": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11730": [
+      "mrs-dorothy"
+    ],
+    "A37025-e11790": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11820": [
+      "mrs-dorothy"
+    ],
+    "A37025-e11860": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11900": [
+      "mrs-dorothy"
+    ],
+    "A37025-e11930": [
+      "monsieur-thomas"
+    ],
+    "A37025-e11970": [
+      "mrs-dorothy"
+    ],
+    "A37025-e12040": [
+      "monsieur-thomas"
+    ],
+    "A37025-e12080": [
+      "hylas"
+    ],
+    "A37025-e12110": [
+      "monsieur-thomas"
+    ],
+    "A37025-e12140": [
+      "hylas"
+    ],
+    "A37025-e12170": [
+      "valentine"
+    ],
+    "A37025-e12210": [
+      "monsieur-thomas"
+    ],
+    "A37025-e12250": [
+      "valentine"
+    ],
+    "A37025-e12280": [
+      "hylas"
+    ],
+    "A37025-e12310": [
+      "monsieur-thomas"
+    ],
+    "A37025-e12490": [
+      "physician-1"
+    ],
+    "A37025-e12530": [
+      "physician-2"
+    ],
+    "A37025-e12580": [
+      "physician-3"
+    ],
+    "A37025-e12630": [
+      "physician-1"
+    ],
+    "A37025-e12670": [
+      "physician-3"
+    ],
+    "A37025-e12710": [
+      "physician-1"
+    ],
+    "A37025-e12760": [
+      "physician-2"
+    ],
+    "A37025-e12800": [
+      "physician-3"
+    ],
+    "A37025-e12840": [
+      "physician-1"
+    ],
+    "A37025-e12880": [
+      "franck"
+    ],
+    "A37025-e12910": [
+      "physician-2"
+    ],
+    "A37025-e12950": [
+      "franck"
+    ],
+    "A37025-e12980": [
+      "physician-3"
+    ],
+    "A37025-e13020": [
+      "franck"
+    ],
+    "A37025-e13050": [
+      "physician-2"
+    ],
+    "A37025-e13090": [
+      "franck"
+    ],
+    "A37025-e13120": [
+      "physician-1"
+    ],
+    "A37025-e13160": [
+      "franck"
+    ],
+    "A37025-e13190": [
+      "physician-3"
+    ],
+    "A37025-e13270": [
+      "franck"
+    ],
+    "A37025-e13300": [
+      "valentine"
+    ],
+    "A37025-e13340": [
+      "monsieur-thomas"
+    ],
+    "A37025-e13370": [
+      "valentine"
+    ],
+    "A37025-e13400": [
+      "hylas"
+    ],
+    "A37025-e13430": [
+      "monsieur-thomas"
+    ],
+    "A37025-e13460": [
+      "valentine"
+    ],
+    "A37025-e13520": [
+      "monsieur-thomas"
+    ],
+    "A37025-e13570": [
+      "franck"
+    ],
+    "A37025-e13600": [
+      "monsieur-thomas"
+    ],
+    "A37025-e13630": [
+      "franck"
+    ],
+    "A37025-e13670": [
+      "monsieur-thomas"
+    ],
+    "A37025-e13730": [
+      "franck"
+    ],
+    "A37025-e13760": [
+      "hylas"
+    ],
+    "A37025-e13790": [
+      "monsieur-thomas"
+    ],
+    "A37025-e13850": [
+      "franck"
+    ],
+    "A37025-e13890": [
+      "monsieur-thomas"
+    ],
+    "A37025-e13920": [
+      "franck"
+    ],
+    "A37025-e13950": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14000": [
+      "franck"
+    ],
+    "A37025-e14030": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14070": [
+      "hylas"
+    ],
+    "A37025-e14100": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14130": [
+      "franck"
+    ],
+    "A37025-e14180": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14220": [
+      "hylas"
+    ],
+    "A37025-e14250": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14320": [
+      "franck"
+    ],
+    "A37025-e14350": [
+      "hylas"
+    ],
+    "A37025-e14390": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14430": [
+      "physician-1"
+    ],
+    "A37025-e14470": [
+      "servant"
+    ],
+    "A37025-e14500": [
+      "physician-2"
+    ],
+    "A37025-e14540": [
+      "franck"
+    ],
+    "A37025-e14580": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14610": [
+      "franck"
+    ],
+    "A37025-e14650": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14690": [
+      "physician-1"
+    ],
+    "A37025-e14730": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14770": [
+      "physician-1"
+    ],
+    "A37025-e14810": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14840": [
+      "physician-3"
+    ],
+    "A37025-e14880": [
+      "monsieur-thomas"
+    ],
+    "A37025-e14940": [
+      "hylas"
+    ],
+    "A37025-e14980": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15010": [
+      "hylas"
+    ],
+    "A37025-e15040": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15070": [
+      "hylas"
+    ],
+    "A37025-e15100": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15160": [
+      "physician-2"
+    ],
+    "A37025-e15200": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15230": [
+      "physician-3"
+    ],
+    "A37025-e15270": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15300": [
+      "physician-1"
+    ],
+    "A37025-e15340": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15380": [
+      "hylas"
+    ],
+    "A37025-e15420": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15480": [
+      "physician-3"
+    ],
+    "A37025-e15520": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15550": [
+      "physician-2"
+    ],
+    "A37025-e15590": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15630": [
+      "physician-3"
+    ],
+    "A37025-e15670": [
+      "physician-1"
+    ],
+    "A37025-e15720": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15750": [
+      "hylas"
+    ],
+    "A37025-e15780": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15810": [
+      "franck"
+    ],
+    "A37025-e15850": [
+      "servant"
+    ],
+    "A37025-e15880": [
+      "franck"
+    ],
+    "A37025-e15910": [
+      "monsieur-thomas"
+    ],
+    "A37025-e15940": [
+      "servant"
+    ],
+    "A37025-e15970": [
+      "hylas"
+    ],
+    "A37025-e16000": [
+      "servant"
+    ],
+    "A37025-e16040": [
+      "monsieur-thomas"
+    ],
+    "A37025-e16070": [
+      "servant"
+    ],
+    "A37025-e16120": [
+      "valentine"
+    ],
+    "A37025-e16150": [
+      "franck"
+    ],
+    "A37025-e16190": [
+      "valentine"
+    ],
+    "A37025-e16220": [
+      "monsieur-thomas"
+    ],
+    "A37025-e16300": [
+      "sabina"
+    ],
+    "A37025-e16330": [
+      "franck"
+    ],
+    "A37025-e16360": [
+      "cellida"
+    ],
+    "A37025-e16390": [
+      "franck"
+    ],
+    "A37025-e16420": [
+      "cellida"
+    ],
+    "A37025-e16450": [
+      "monsieur-thomas"
+    ],
+    "A37025-e16490": [
+      "cellida"
+    ],
+    "A37025-e16520": [
+      "monsieur-thomas"
+    ],
+    "A37025-e16550": [
+      "sabina"
+    ],
+    "A37025-e16580": [
+      "franck"
+    ],
+    "A37025-e16620": [
+      "cellida"
+    ],
+    "A37025-e16660": [
+      "franck"
+    ],
+    "A37025-e16690": [
+      "cellida"
+    ],
+    "A37025-e16720": [
+      "franck"
+    ],
+    "A37025-e16750": [
+      "cellida"
+    ],
+    "A37025-e16780": [
+      "franck"
+    ],
+    "A37025-e16840": [
+      "hylas"
+    ],
+    "A37025-e16870": [
+      "monsieur-thomas"
+    ],
+    "A37025-e16900": [
+      "valentine"
+    ],
+    "A37025-e16930": [
+      "cellida"
+    ],
+    "A37025-e16960": [
+      "sabina"
+    ],
+    "A37025-e16990": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17020": [
+      "valentine"
+    ],
+    "A37025-e17050": [
+      "cellida"
+    ],
+    "A37025-e17080": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17110": [
+      "valentine"
+    ],
+    "A37025-e17140": [
+      "cellida"
+    ],
+    "A37025-e17170": [
+      "hylas"
+    ],
+    "A37025-e17200": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17230": [
+      "valentine"
+    ],
+    "A37025-e17260": [
+      "cellida"
+    ],
+    "A37025-e17290": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17320": [
+      "cellida"
+    ],
+    "A37025-e17350": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17390": [
+      "hylas"
+    ],
+    "A37025-e17420": [
+      "cellida"
+    ],
+    "A37025-e17450": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17520": [
+      "launce"
+    ],
+    "A37025-e17560": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17600": [
+      "cellida"
+    ],
+    "A37025-e17630": [
+      "hylas"
+    ],
+    "A37025-e17660": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17690": [
+      "launce"
+    ],
+    "A37025-e17740": [
+      "cellida"
+    ],
+    "A37025-e17770": [
+      "sabina"
+    ],
+    "A37025-e17810": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17840": [
+      "launce"
+    ],
+    "A37025-e17870": [
+      "monsieur-thomas"
+    ],
+    "A37025-e17900": [
+      "franck"
+    ],
+    "A37025-e17930": [
+      "valentine"
+    ],
+    "A37025-e17960": [
+      "monsieur-thomas"
+    ],
+    "A37025-e18000": [
+      "launce"
+    ],
+    "A37025-e18030": [
+      "hylas"
+    ],
+    "A37025-e18060": [
+      "launce"
+    ],
+    "A37025-e18090": [
+      "monsieur-thomas"
+    ],
+    "A37025-e18120": [
+      "valentine"
+    ],
+    "A37025-e18150": [
+      "hylas"
+    ],
+    "A37025-e18180": [
+      "monsieur-thomas"
+    ],
+    "A37025-e18210": [
+      "valentine"
+    ],
+    "A37025-e18250": [
+      "franck"
+    ],
+    "A37025-e18280": [
+      "monsieur-thomas"
+    ],
+    "A37025-e18310": [
+      "launce"
+    ],
+    "A37025-e18350": [
+      "monsieur-thomas"
+    ],
+    "A37025-e18460": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e18500": [
+      "whore"
+    ],
+    "A37025-e18530": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e18560": [
+      "whore"
+    ],
+    "A37025-e18590": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e18620": [
+      "whore"
+    ],
+    "A37025-e18650": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e18680": [
+      "whore"
+    ],
+    "A37025-e18710": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e18740": [
+      "whore"
+    ],
+    "A37025-e18770": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e18800": [
+      "whore"
+    ],
+    "A37025-e18830": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e18870": [
+      "servant"
+    ],
+    "A37025-e18900": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e18980": [
+      "mrs-dorothy"
+    ],
+    "A37025-e19010": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19040": [
+      "mrs-dorothy"
+    ],
+    "A37025-e19070": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19100": [
+      "mrs-dorothy"
+    ],
+    "A37025-e19130": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19180": [
+      "mrs-dorothy"
+    ],
+    "A37025-e19210": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19240": [
+      "mrs-dorothy"
+    ],
+    "A37025-e19270": [
+      "whore"
+    ],
+    "A37025-e19300": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19360": [
+      "servant"
+    ],
+    "A37025-e19390": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19430": [
+      "servant"
+    ],
+    "A37025-e19470": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19630": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19680": [
+      "servant"
+    ],
+    "A37025-e19710": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19750": [
+      "servant"
+    ],
+    "A37025-e19780": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19820": [
+      "servant"
+    ],
+    "A37025-e19850": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19890": [
+      "servant"
+    ],
+    "A37025-e19950": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e19980": [
+      "launce"
+    ],
+    "A37025-e20010": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20040": [
+      "launce"
+    ],
+    "A37025-e20070": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20100": [
+      "launce"
+    ],
+    "A37025-e20140": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20180": [
+      "launce"
+    ],
+    "A37025-e20220": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20250": [
+      "launce"
+    ],
+    "A37025-e20290": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20320": [
+      "launce"
+    ],
+    "A37025-e20360": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20390": [
+      "launce"
+    ],
+    "A37025-e20420": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20450": [
+      "launce"
+    ],
+    "A37025-e20480": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20520": [
+      "launce"
+    ],
+    "A37025-e20550": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20610": [
+      "launce"
+    ],
+    "A37025-e20650": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20680": [
+      "launce"
+    ],
+    "A37025-e20710": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20750": [
+      "launce"
+    ],
+    "A37025-e20780": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20810": [
+      "launce"
+    ],
+    "A37025-e20840": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20870": [
+      "launce"
+    ],
+    "A37025-e20900": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e20930": [
+      "launce"
+    ],
+    "A37025-e20970": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21000": [
+      "launce"
+    ],
+    "A37025-e21030": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21060": [
+      "launce"
+    ],
+    "A37025-e21090": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21170": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21200": [
+      "servant"
+    ],
+    "A37025-e21250": [
+      "launce"
+    ],
+    "A37025-e21280": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21330": [
+      "monsieur-thomas"
+    ],
+    "A37025-e21360": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21390": [
+      "monsieur-thomas"
+    ],
+    "A37025-e21430": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21480": [
+      "monsieur-thomas"
+    ],
+    "A37025-e21510": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21550": [
+      "launce"
+    ],
+    "A37025-e21590": [
+      "monsieur-thomas"
+    ],
+    "A37025-e21620": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21650": [
+      "launce"
+    ],
+    "A37025-e21690": [
+      "servant"
+    ],
+    "A37025-e21720": [
+      "monsieur-thomas"
+    ],
+    "A37025-e21750": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21780": [
+      "launce"
+    ],
+    "A37025-e21810": [
+      "monsieur-thomas"
+    ],
+    "A37025-e21840": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21890": [
+      "launce"
+    ],
+    "A37025-e21930": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e21960": [
+      "launce"
+    ],
+    "A37025-e21990": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22040": [
+      "launce"
+    ],
+    "A37025-e22070": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22100": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22150": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22180": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22210": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22240": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22300": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22330": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22360": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22390": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22420": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22460": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22490": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22520": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22560": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22600": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22630": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22660": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22700": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22730": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22760": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22800": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22840": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22870": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e22910": [
+      "monsieur-thomas"
+    ],
+    "A37025-e22950": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e23010": [
+      "whore"
+    ],
+    "A37025-e23040": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e23080": [
+      "monsieur-thomas"
+    ],
+    "A37025-e23130": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e23160": [
+      "whore"
+    ],
+    "A37025-e23190": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e23230": [
+      "monsieur-thomas"
+    ],
+    "A37025-e23260": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e23340": [
+      "monsieur-thomas"
+    ],
+    "A37025-e23370": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e23430": [
+      "monsieur-thomas"
+    ],
+    "A37025-e23460": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e23500": [
+      "monsieur-thomas"
+    ],
+    "A37025-e23560": [
+      "launce"
+    ],
+    "A37025-e23590": [
+      "monsieur-thomas"
+    ],
+    "A37025-e23620": [
+      "fidler"
+    ],
+    "A37025-e23740": [
+      "monsieur-thomas"
+    ],
+    "A37025-e23770": [
+      "fidler"
+    ],
+    "A37025-e23810": [
+      "monsieur-thomas"
+    ],
+    "A37025-e23840": [
+      "fidler"
+    ],
+    "A37025-e23900": [
+      "monsieur-thomas"
+    ],
+    "A37025-e24060": [
+      "franck"
+    ],
+    "A37025-e24090": [
+      "cellida"
+    ],
+    "A37025-e24120": [
+      "sabina"
+    ],
+    "A37025-e24150": [
+      "franck"
+    ],
+    "A37025-e24180": [
+      "cellida"
+    ],
+    "A37025-e24210": [
+      "franck"
+    ],
+    "A37025-e24240": [
+      "sabina"
+    ],
+    "A37025-e24270": [
+      "cellida"
+    ],
+    "A37025-e24300": [
+      "sabina"
+    ],
+    "A37025-e24340": [
+      "franck"
+    ],
+    "A37025-e24370": [
+      "sabina"
+    ],
+    "A37025-e24400": [
+      "cellida"
+    ],
+    "A37025-e24440": [
+      "franck"
+    ],
+    "A37025-e24490": [
+      "lucilla"
+    ],
+    "A37025-e24520": [
+      "sabina"
+    ],
+    "A37025-e24550": [
+      "lucilla"
+    ],
+    "A37025-e24590": [
+      "cellida"
+    ],
+    "A37025-e24620": [
+      "franck"
+    ],
+    "A37025-e24660": [
+      "cellida"
+    ],
+    "A37025-e24690": [
+      "sabina"
+    ],
+    "A37025-e24730": [
+      "franck"
+    ],
+    "A37025-e24820": [
+      "monsieur-thomas"
+    ],
+    "A37025-e24860": [
+      "valentine"
+    ],
+    "A37025-e24890": [
+      "hylas"
+    ],
+    "A37025-e24930": [
+      "monsieur-thomas"
+    ],
+    "A37025-e24960": [
+      "hylas"
+    ],
+    "A37025-e24990": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25020": [
+      "hylas"
+    ],
+    "A37025-e25050": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25080": [
+      "hylas"
+    ],
+    "A37025-e25110": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25140": [
+      "hylas"
+    ],
+    "A37025-e25170": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25200": [
+      "hylas"
+    ],
+    "A37025-e25230": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25260": [
+      "fidler"
+    ],
+    "A37025-e25290": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25320": [
+      "launce"
+    ],
+    "A37025-e25350": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25420": [
+      "servant"
+    ],
+    "A37025-e25450": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25540": [
+      "hylas"
+    ],
+    "A37025-e25580": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25630": [
+      "hylas"
+    ],
+    "A37025-e25660": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25690": [
+      "hylas"
+    ],
+    "A37025-e25730": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25770": [
+      "fidler"
+    ],
+    "A37025-e25900": [
+      "monsieur-thomas"
+    ],
+    "A37025-e25930": [
+      "fidler"
+    ],
+    "A37025-e25990": [
+      "monsieur-thomas"
+    ],
+    "A37025-e26060": [
+      "launce"
+    ],
+    "A37025-e26090": [
+      "monsieur-thomas"
+    ],
+    "A37025-e26140": [
+      "sabina"
+    ],
+    "A37025-e26170": [
+      "cellida"
+    ],
+    "A37025-e26230": [
+      "monsieur-thomas"
+    ],
+    "A37025-e26280": [
+      "cellida"
+    ],
+    "A37025-e26360": [
+      "monsieur-thomas"
+    ],
+    "A37025-e26410": [
+      "launce"
+    ],
+    "A37025-e26440": [
+      "cellida"
+    ],
+    "A37025-e26480": [
+      "monsieur-thomas"
+    ],
+    "A37025-e26600": [
+      "monsieur-thomas"
+    ],
+    "A37025-e26660": [
+      "cellida"
+    ],
+    "A37025-e26690": [
+      "monsieur-thomas"
+    ],
+    "A37025-e26730": [
+      "launce"
+    ],
+    "A37025-e26770": [
+      "sabina"
+    ],
+    "A37025-e26810": [
+      "monsieur-thomas"
+    ],
+    "A37025-e26840": [
+      "cellida"
+    ],
+    "A37025-e26880": [
+      "lucilla"
+    ],
+    "A37025-e26910": [
+      "fidler"
+    ],
+    "A37025-e26940": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27000": [
+      "fidler"
+    ],
+    "A37025-e27050": [
+      "lucilla"
+    ],
+    "A37025-e27080": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27110": [
+      "cellida"
+    ],
+    "A37025-e27140": [
+      "lucilla"
+    ],
+    "A37025-e27170": [
+      "cellida"
+    ],
+    "A37025-e27200": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27240": [
+      "cellida"
+    ],
+    "A37025-e27270": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27300": [
+      "launce"
+    ],
+    "A37025-e27330": [
+      "cellida"
+    ],
+    "A37025-e27360": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27390": [
+      "launce"
+    ],
+    "A37025-e27420": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27450": [
+      "launce"
+    ],
+    "A37025-e27480": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27540": [
+      "cellida"
+    ],
+    "A37025-e27570": [
+      "launce"
+    ],
+    "A37025-e27610": [
+      "cellida"
+    ],
+    "A37025-e27640": [
+      "launce"
+    ],
+    "A37025-e27670": [
+      "cellida"
+    ],
+    "A37025-e27710": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27750": [
+      "cellida"
+    ],
+    "A37025-e27780": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27810": [
+      "launce"
+    ],
+    "A37025-e27840": [
+      "cellida"
+    ],
+    "A37025-e27870": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27900": [
+      "cellida"
+    ],
+    "A37025-e27930": [
+      "monsieur-thomas"
+    ],
+    "A37025-e27960": [
+      "cellida"
+    ],
+    "A37025-e27990": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28020": [
+      "cellida"
+    ],
+    "A37025-e28060": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28090": [
+      "launce"
+    ],
+    "A37025-e28120": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28150": [
+      "cellida"
+    ],
+    "A37025-e28180": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28210": [
+      "cellida"
+    ],
+    "A37025-e28240": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28270": [
+      "cellida"
+    ],
+    "A37025-e28310": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28360": [
+      "launce"
+    ],
+    "A37025-e28390": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28440": [
+      "cellida"
+    ],
+    "A37025-e28480": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28510": [
+      "launce"
+    ],
+    "A37025-e28540": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28570": [
+      "launce"
+    ],
+    "A37025-e28600": [
+      "monsieur-thomas"
+    ],
+    "A37025-e28760": [
+      "valentine"
+    ],
+    "A37025-e28800": [
+      "sir-peregreen"
+    ],
+    "A37025-e28830": [
+      "valentine"
+    ],
+    "A37025-e28870": [
+      "franck"
+    ],
+    "A37025-e28900": [
+      "sir-peregreen"
+    ],
+    "A37025-e28940": [
+      "valentine"
+    ],
+    "A37025-e28980": [
+      "sir-peregreen"
+    ],
+    "A37025-e29010": [
+      "valentine"
+    ],
+    "A37025-e29040": [
+      "sir-peregreen"
+    ],
+    "A37025-e29070": [
+      "franck"
+    ],
+    "A37025-e29100": [
+      "sir-peregreen"
+    ],
+    "A37025-e29140": [
+      "valentine"
+    ],
+    "A37025-e29170": [
+      "sir-peregreen"
+    ],
+    "A37025-e29200": [
+      "valentine"
+    ],
+    "A37025-e29230": [
+      "sir-peregreen"
+    ],
+    "A37025-e29270": [
+      "franck"
+    ],
+    "A37025-e29320": [
+      "jack"
+    ],
+    "A37025-e29350": [
+      "hylas"
+    ],
+    "A37025-e29400": [
+      "franck"
+    ],
+    "A37025-e29430": [
+      "hylas"
+    ],
+    "A37025-e29460": [
+      "franck"
+    ],
+    "A37025-e29500": [
+      "hylas"
+    ],
+    "A37025-e29530": [
+      "franck"
+    ],
+    "A37025-e29570": [
+      "hylas"
+    ],
+    "A37025-e29640": [
+      "monsieur-thomas"
+    ],
+    "A37025-e29690": [
+      "lucilla"
+    ],
+    "A37025-e29720": [
+      "monsieur-thomas"
+    ],
+    "A37025-e29750": [
+      "lucilla"
+    ],
+    "A37025-e29780": [
+      "monsieur-thomas"
+    ],
+    "A37025-e29850": [
+      "sir-peregreen"
+    ],
+    "A37025-e29890": [
+      "valentine"
+    ],
+    "A37025-e29920": [
+      "cellida"
+    ],
+    "A37025-e29950": [
+      "lucilla"
+    ],
+    "A37025-e29980": [
+      "cellida"
+    ],
+    "A37025-e30010": [
+      "monsieur-thomas"
+    ],
+    "A37025-e30050": [
+      "sabina"
+    ],
+    "A37025-e30080": [
+      "sir-peregreen"
+    ],
+    "A37025-e30150": [
+      "hylas"
+    ],
+    "A37025-e30180": [
+      "sir-peregreen"
+    ],
+    "A37025-e30220": [
+      "hylas"
+    ],
+    "A37025-e30250": [
+      "sir-peregreen"
+    ],
+    "A37025-e30290": [
+      "hylas"
+    ],
+    "A37025-e30350": [
+      "sir-peregreen"
+    ],
+    "A37025-e30400": [
+      "hylas"
+    ],
+    "A37025-e30430": [
+      "sir-peregreen"
+    ],
+    "A37025-e30460": [
+      "hylas"
+    ],
+    "A37025-e30500": [
+      "sir-peregreen"
+    ],
+    "A37025-e30530": [
+      "cellida"
+    ],
+    "A37025-e30560": [
+      "sir-peregreen"
+    ],
+    "A37025-e30590": [
+      "cellida"
+    ],
+    "A37025-e30620": [
+      "monsieur-thomas"
+    ],
+    "A37025-e30660": [
+      "cellida"
+    ],
+    "A37025-e30690": [
+      "hylas"
+    ],
+    "A37025-e30720": [
+      "cellida"
+    ],
+    "A37025-e30760": [
+      "hylas"
+    ],
+    "A37025-e30790": [
+      "monsieur-thomas"
+    ],
+    "A37025-e30820": [
+      "cellida"
+    ],
+    "A37025-e30850": [
+      "hylas"
+    ],
+    "A37025-e30880": [
+      "cellida"
+    ],
+    "A37025-e30910": [
+      "hylas"
+    ],
+    "A37025-e30940": [
+      "monsieur-thomas"
+    ],
+    "A37025-e30970": [
+      "valentine"
+    ],
+    "A37025-e31010": [
+      "hylas"
+    ],
+    "A37025-e31040": [
+      "franck"
+    ],
+    "A37025-e31070": [
+      "hylas"
+    ],
+    "A37025-e31100": [
+      "monsieur-thomas"
+    ],
+    "A37025-e31140": [
+      "sir-peregreen"
+    ],
+    "A37025-e31180": [
+      "cellida"
+    ],
+    "A37025-e31210": [
+      "cellida"
+    ],
+    "A37025-e31250": [
+      "sabina"
+    ],
+    "A37025-e31280": [
+      "sir-peregreen"
+    ],
+    "A37025-e31310": [
+      "hylas"
+    ],
+    "A37025-e31340": [
+      "cellida"
+    ],
+    "A37025-e31370": [
+      "monsieur-thomas"
+    ],
+    "A37025-e31400": [
+      "hylas"
+    ],
+    "A37025-e31440": [
+      "valentine"
+    ],
+    "A37025-e31490": [
+      "servant"
+    ],
+    "A37025-e31520": [
+      "launce"
+    ],
+    "A37025-e31550": [
+      "cellida"
+    ],
+    "A37025-e31580": [
+      "hylas"
+    ],
+    "A37025-e31610": [
+      "sir-peregreen"
+    ],
+    "A37025-e31640": [
+      "valentine"
+    ],
+    "A37025-e31670": [
+      "launce"
+    ],
+    "A37025-e31700": [
+      "hylas"
+    ],
+    "A37025-e31730": [
+      "launce"
+    ],
+    "A37025-e31770": [
+      "sir-peregreen"
+    ],
+    "A37025-e31800": [
+      "launce"
+    ],
+    "A37025-e31830": [
+      "sir-peregreen"
+    ],
+    "A37025-e31870": [
+      "launce"
+    ],
+    "A37025-e31900": [
+      "sir-peregreen"
+    ],
+    "A37025-e31930": [
+      "cellida"
+    ],
+    "A37025-e31960": [
+      "sir-peregreen"
+    ],
+    "A37025-e31990": [
+      "launce"
+    ],
+    "A37025-e32020": [
+      "sir-peregreen"
+    ],
+    "A37025-e32050": [
+      "launce"
+    ],
+    "A37025-e32110": [
+      "monsieur-thomas"
+    ],
+    "A37025-e32140": [
+      "sir-peregreen",
+      "valentine",
+      "franck",
+      "hylas",
+      "sabina",
+      "lucilla",
+      "launce"
+    ],
+    "A37025-e32170": [
+      "cellida"
+    ],
+    "A37025-e32200": [
+      "monsieur-thomas"
+    ],
+    "A37025-e32230": [
+      "hylas"
+    ],
+    "A37025-e32260": [
+      "valentine"
+    ],
+    "A37025-e32290": [
+      "sir-peregreen"
+    ],
+    "A37025-e32320": [
+      "hylas"
+    ],
+    "A37025-e32350": [
+      "monsieur-thomas"
+    ],
+    "A37025-e32380": [
+      "hylas"
+    ],
+    "A37025-e32410": [
+      "monsieur-thomas"
+    ],
+    "A37025-e32440": [
+      "sir-peregreen"
+    ],
+    "A37025-e32470": [
+      "cellida"
+    ],
+    "A37025-e32500": [
+      "monsieur-thomas"
+    ],
+    "A37025-e32530": [
+      "sabina"
+    ],
+    "A37025-e32560": [
+      "cellida"
+    ],
+    "A37025-e32590": [
+      "monsieur-thomas"
+    ],
+    "A37025-e32620": [
+      "sir-peregreen"
+    ],
+    "A37025-e32650": [
+      "cellida"
+    ],
+    "A37025-e32680": [
+      "valentine"
+    ],
+    "A37025-e32710": [
+      "monsieur-thomas"
+    ],
+    "A37025-e32740": [
+      "cellida"
+    ],
+    "A37025-e32770": [
+      "monsieur-thomas"
+    ],
+    "A37025-e32820": [
+      "hylas"
+    ],
+    "A37025-e32850": [
+      "launce"
+    ],
+    "A37025-e32890": [
+      "sir-peregreen"
+    ],
+    "A37025-e32920": [
+      "franck"
+    ],
+    "A37025-e32950": [
+      "valentine"
+    ],
+    "A37025-e32990": [
+      "sir-peregreen"
+    ],
+    "A37025-e33020": [
+      "cellida"
+    ],
+    "A37025-e33050": [
+      "lucilla"
+    ],
+    "A37025-e33090": [
+      "cellida"
+    ],
+    "A37025-e33140": [
+      "mrs-dorothy"
+    ],
+    "A37025-e33180": [
+      "cellida"
+    ],
+    "A37025-e33210": [
+      "mrs-dorothy"
+    ],
+    "A37025-e33240": [
+      "cellida"
+    ],
+    "A37025-e33270": [
+      "mrs-dorothy"
+    ],
+    "A37025-e33300": [
+      "cellida"
+    ],
+    "A37025-e33330": [
+      "mrs-dorothy"
+    ],
+    "A37025-e33370": [
+      "cellida"
+    ],
+    "A37025-e33420": [
+      "lucilla"
+    ],
+    "A37025-e33450": [
+      "monsieur-thomas"
+    ],
+    "A37025-e33480": [
+      "lucilla"
+    ],
+    "A37025-e33510": [
+      "monsieur-thomas"
+    ],
+    "A37025-e33540": [
+      "launce"
+    ],
+    "A37025-e33640": [
+      "cellida"
+    ],
+    "A37025-e33670": [
+      "servant"
+    ],
+    "A37025-e33700": [
+      "cellida"
+    ],
+    "A37025-e33750": [
+      "lucilla"
+    ],
+    "A37025-e33780": [
+      "cellida"
+    ],
+    "A37025-e33810": [
+      "lucilla"
+    ],
+    "A37025-e33840": [
+      "cellida"
+    ],
+    "A37025-e33870": [
+      "lucilla"
+    ],
+    "A37025-e33900": [
+      "cellida"
+    ],
+    "A37025-e33980": [
+      "monsieur-thomas"
+    ],
+    "A37025-e34010": [
+      "cellida"
+    ],
+    "A37025-e34040": [
+      "monsieur-thomas"
+    ],
+    "A37025-e34070": [
+      "launce"
+    ],
+    "A37025-e34100": [
+      "cellida"
+    ],
+    "A37025-e34130": [
+      "monsieur-thomas"
+    ],
+    "A37025-e34180": [
+      "cellida"
+    ],
+    "A37025-e34210": [
+      "lucilla"
+    ],
+    "A37025-e34280": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e34310": [
+      "sir-peregreen"
+    ],
+    "A37025-e34340": [
+      "monsieur-thomas"
+    ],
+    "A37025-e34370": [
+      "cellida"
+    ],
+    "A37025-e34400": [
+      "monsieur-thomas"
+    ],
+    "A37025-e34430": [
+      "cellida"
+    ],
+    "A37025-e34480": [
+      "monsieur-thomas"
+    ],
+    "A37025-e34510": [
+      "cellida"
+    ],
+    "A37025-e34540": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e34570": [
+      "cellida"
+    ],
+    "A37025-e34640": [
+      "launce"
+    ],
+    "A37025-e34670": [
+      "cellida"
+    ],
+    "A37025-e34740": [
+      "launce"
+    ],
+    "A37025-e34800": [
+      "monsieur-thomas"
+    ],
+    "A37025-e34830": [
+      "cellida"
+    ],
+    "A37025-e34860": [
+      "servant"
+    ],
+    "A37025-e34900": [
+      "monsieur-thomas"
+    ],
+    "A37025-e34930": [
+      "cellida"
+    ],
+    "A37025-e34990": [
+      "launce"
+    ],
+    "A37025-e35020": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e35070": [
+      "sir-peregreen"
+    ],
+    "A37025-e35100": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e35150": [
+      "cellida"
+    ],
+    "A37025-e35200": [
+      "monsieur-thomas"
+    ],
+    "A37025-e35230": [
+      "cellida"
+    ],
+    "A37025-e35260": [
+      "sir-peregreen"
+    ],
+    "A37025-e35290": [
+      "monsieur-thomas"
+    ],
+    "A37025-e35320": [
+      "cellida"
+    ],
+    "A37025-e35350": [
+      "launce"
+    ],
+    "A37025-e35380": [
+      "lucilla"
+    ],
+    "A37025-e35410": [
+      "monsieur-thomas"
+    ],
+    "A37025-e35440": [
+      "cellida"
+    ],
+    "A37025-e35480": [
+      "monsieur-thomas"
+    ],
+    "A37025-e35510": [
+      "cellida"
+    ],
+    "A37025-e35540": [
+      "monsieur-thomas"
+    ],
+    "A37025-e35570": [
+      "cellida"
+    ],
+    "A37025-e35600": [
+      "monsieur-thomas"
+    ],
+    "A37025-e35630": [
+      "launce"
+    ],
+    "A37025-e35660": [
+      "lucilla"
+    ],
+    "A37025-e35690": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e35720": [
+      "sir-peregreen"
+    ],
+    "A37025-e35770": [
+      "sabina"
+    ],
+    "A37025-e35820": [
+      "monsieur-thomas"
+    ],
+    "A37025-e35850": [
+      "cellida"
+    ],
+    "A37025-e35890": [
+      "monsieur-thomas"
+    ],
+    "A37025-e35920": [
+      "sabina"
+    ],
+    "A37025-e35950": [
+      "launce"
+    ],
+    "A37025-e35980": [
+      "cellida"
+    ],
+    "A37025-e36010": [
+      "launce"
+    ],
+    "A37025-e36040": [
+      "lucilla"
+    ],
+    "A37025-e36080": [
+      "launce"
+    ],
+    "A37025-e36120": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36150": [
+      "launce"
+    ],
+    "A37025-e36180": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36210": [
+      "cellida"
+    ],
+    "A37025-e36240": [
+      "sabina"
+    ],
+    "A37025-e36270": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36300": [
+      "sir-peregreen"
+    ],
+    "A37025-e36330": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e36380": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36420": [
+      "launce"
+    ],
+    "A37025-e36450": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36490": [
+      "cellida"
+    ],
+    "A37025-e36520": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36550": [
+      "launce"
+    ],
+    "A37025-e36580": [
+      "cellida"
+    ],
+    "A37025-e36610": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e36670": [
+      "sir-peregreen"
+    ],
+    "A37025-e36700": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36730": [
+      "sir-peregreen"
+    ],
+    "A37025-e36760": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36790": [
+      "launce"
+    ],
+    "A37025-e36830": [
+      "sabina"
+    ],
+    "A37025-e36860": [
+      "cellida"
+    ],
+    "A37025-e36900": [
+      "monsieur-thomas"
+    ],
+    "A37025-e36940": [
+      "cellida"
+    ],
+    "A37025-e36990": [
+      "valentine"
+    ],
+    "A37025-e37020": [
+      "monsieur-thomas"
+    ],
+    "A37025-e37060": [
+      "valentine"
+    ],
+    "A37025-e37120": [
+      "sir-peregreen"
+    ],
+    "A37025-e37150": [
+      "valentine"
+    ],
+    "A37025-e37180": [
+      "sir-peregreen"
+    ],
+    "A37025-e37210": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e37260": [
+      "monsieur-thomas"
+    ],
+    "A37025-e37290": [
+      "cellida"
+    ],
+    "A37025-e37320": [
+      "sabina"
+    ],
+    "A37025-e37360": [
+      "monsieur-thomas"
+    ],
+    "A37025-e37390": [
+      "sir-peregreen"
+    ],
+    "A37025-e37430": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e37470": [
+      "launce"
+    ],
+    "A37025-e37500": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e37530": [
+      "monsieur-thomas"
+    ],
+    "A37025-e37570": [
+      "valentine"
+    ],
+    "A37025-e37600": [
+      "monsieur-thomas"
+    ],
+    "A37025-e37640": [
+      "franck"
+    ],
+    "A37025-e37670": [
+      "monsieur-thomas"
+    ],
+    "A37025-e37710": [
+      "hylas"
+    ],
+    "A37025-e37740": [
+      "sir-wilding-frollick"
+    ],
+    "A37025-e37770": [
+      "monsieur-thomas"
+    ]
+  }
+}

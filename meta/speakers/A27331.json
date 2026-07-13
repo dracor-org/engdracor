@@ -1,0 +1,3466 @@
+{
+  "particDesc": [
+    {
+      "name": "Nell",
+      "id": "nell",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+	{
+      "name": "Soldiers",
+      "id": "soldiers",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Anaria ",
+      "id": "anaria",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Alarm",
+      "id": "alarm",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Jenny",
+      "id": "jenny",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Indian",
+      "id": "indian",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer",
+      "id": "officer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Clark",
+      "id": "clark",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bayliffs",
+      "id": "bayliffs",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble 1",
+      "id": "rabble-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Maid",
+      "id": "maid",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Mrs. Whiff",
+      "id": "mrs-whiff",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Mrs. Whimsey",
+      "id": "mrs-whimsey",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Seaman",
+      "id": "seaman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Semernia",
+      "id": "semernia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Coachman",
+      "id": "coachman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ranter",
+      "id": "ranter",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Parson Dunce",
+      "id": "parson-dunce",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Whimsey",
+      "id": "whimsey",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Sea-Boy",
+      "id": "sea-boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mrs. Crisante",
+      "id": "mrs-crisante",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Mrs. Flirt",
+      "id": "mrs-flirt",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Madam Surelove",
+      "id": "madam-surelove",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Grubb",
+      "id": "grubb",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Brag",
+      "id": "brag",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boozer",
+      "id": "boozer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Whiff",
+      "id": "whiff",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Timerous Cornet",
+      "id": "timerous-cornet",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Dullman",
+      "id": "dullman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Fearless",
+      "id": "fearless",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Dareing",
+      "id": "dareing",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Colonel Downright",
+      "id": "colonel-downright",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Colonel Wellman",
+      "id": "colonel-wellman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bacon",
+      "id": "bacon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cavarnio",
+      "id": "cavarnio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Friendly",
+      "id": "friendly",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Hazard",
+      "id": "hazard",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A27331-e2830": [
+      "hazard"
+    ],
+    "A27331-e2860": [
+      "sea-boy"
+    ],
+    "A27331-e2900": [
+      "hazard"
+    ],
+    "A27331-e2930": [
+      "sea-boy"
+    ],
+    "A27331-e2960": [
+      "hazard"
+    ],
+    "A27331-e2990": [
+      "sea-boy"
+    ],
+    "A27331-e3040": [
+      "hazard"
+    ],
+    "A27331-e3070": [
+      "sea-boy"
+    ],
+    "A27331-e3100": [
+      "mrs-flirt"
+    ],
+    "A27331-e3140": [
+      "hazard"
+    ],
+    "A27331-e3180": [
+      "mrs-flirt"
+    ],
+    "A27331-e3210": [
+      "hazard"
+    ],
+    "A27331-e3240": [
+      "mrs-flirt"
+    ],
+    "A27331-e3270": [
+      "hazard"
+    ],
+    "A27331-e3300": [
+      "mrs-flirt"
+    ],
+    "A27331-e3400": [
+      "friendly"
+    ],
+    "A27331-e3440": [
+      "nell"
+    ],
+    "A27331-e3470": [
+      "friendly"
+    ],
+    "A27331-e3500": [
+      "hazard"
+    ],
+    "A27331-e3540": [
+      "friendly"
+    ],
+    "A27331-e3570": [
+      "hazard"
+    ],
+    "A27331-e3610": [
+      "friendly"
+    ],
+    "A27331-e3650": [
+      "hazard"
+    ],
+    "A27331-e3700": [
+      "friendly"
+    ],
+    "A27331-e3740": [
+      "hazard"
+    ],
+    "A27331-e3770": [
+      "friendly"
+    ],
+    "A27331-e3800": [
+      "hazard"
+    ],
+    "A27331-e3850": [
+      "friendly"
+    ],
+    "A27331-e3880": [
+      "hazard"
+    ],
+    "A27331-e3910": [
+      "friendly"
+    ],
+    "A27331-e3960": [
+      "hazard"
+    ],
+    "A27331-e3990": [
+      "friendly"
+    ],
+    "A27331-e4020": [
+      "hazard"
+    ],
+    "A27331-e4050": [
+      "friendly"
+    ],
+    "A27331-e4080": [
+      "hazard"
+    ],
+    "A27331-e4110": [
+      "friendly"
+    ],
+    "A27331-e4170": [
+      "hazard"
+    ],
+    "A27331-e4200": [
+      "friendly"
+    ],
+    "A27331-e4240": [
+      "hazard"
+    ],
+    "A27331-e4270": [
+      "friendly"
+    ],
+    "A27331-e4310": [
+      "hazard"
+    ],
+    "A27331-e4350": [
+      "friendly"
+    ],
+    "A27331-e4380": [
+      "hazard"
+    ],
+    "A27331-e4410": [
+      "friendly"
+    ],
+    "A27331-e4440": [
+      "hazard"
+    ],
+    "A27331-e4480": [
+      "friendly"
+    ],
+    "A27331-e4540": [
+      "hazard"
+    ],
+    "A27331-e4570": [
+      "friendly"
+    ],
+    "A27331-e4630": [
+      "hazard"
+    ],
+    "A27331-e4660": [
+      "friendly"
+    ],
+    "A27331-e4700": [
+      "hazard"
+    ],
+    "A27331-e4730": [
+      "friendly"
+    ],
+    "A27331-e4780": [
+      "hazard"
+    ],
+    "A27331-e4810": [
+      "friendly"
+    ],
+    "A27331-e4850": [
+      "hazard"
+    ],
+    "A27331-e4880": [
+      "friendly"
+    ],
+    "A27331-e4980": [
+      "dullman"
+    ],
+    "A27331-e5050": [
+      "boozer"
+    ],
+    "A27331-e5090": [
+      "dullman"
+    ],
+    "A27331-e5140": [
+      "timerous-cornet"
+    ],
+    "A27331-e5180": [
+      "dullman"
+    ],
+    "A27331-e5210": [
+      "timerous-cornet"
+    ],
+    "A27331-e5250": [
+      "dullman"
+    ],
+    "A27331-e5290": [
+      "timerous-cornet"
+    ],
+    "A27331-e5360": [
+      "dullman"
+    ],
+    "A27331-e5420": [
+      "mrs-flirt"
+    ],
+    "A27331-e5460": [
+      "hazard"
+    ],
+    "A27331-e5500": [
+      "mrs-flirt"
+    ],
+    "A27331-e5530": [
+      "timerous-cornet"
+    ],
+    "A27331-e5570": [
+      "mrs-flirt"
+    ],
+    "A27331-e5610": [
+      "timerous-cornet"
+    ],
+    "A27331-e5650": [
+      "mrs-flirt"
+    ],
+    "A27331-e5680": [
+      "timerous-cornet"
+    ],
+    "A27331-e5720": [
+      "dullman"
+    ],
+    "A27331-e5770": [
+      "boozer"
+    ],
+    "A27331-e5810": [
+      "mrs-flirt"
+    ],
+    "A27331-e5840": [
+      "timerous-cornet"
+    ],
+    "A27331-e5880": [
+      "hazard"
+    ],
+    "A27331-e5910": [
+      "mrs-flirt"
+    ],
+    "A27331-e5950": [
+      "dullman"
+    ],
+    "A27331-e5990": [
+      "mrs-flirt"
+    ],
+    "A27331-e6060": [
+      "hazard"
+    ],
+    "A27331-e6100": [
+      "timerous-cornet"
+    ],
+    "A27331-e6150": [
+      "boozer"
+    ],
+    "A27331-e6190": [
+      "hazard"
+    ],
+    "A27331-e6220": [
+      "dullman"
+    ],
+    "A27331-e6250": [
+      "timerous-cornet"
+    ],
+    "A27331-e6280": [
+      "hazard"
+    ],
+    "A27331-e6310": [
+      "timerous-cornet"
+    ],
+    "A27331-e6340": [
+      "hazard"
+    ],
+    "A27331-e6380": [
+      "timerous-cornet"
+    ],
+    "A27331-e6410": [
+      "dullman"
+    ],
+    "A27331-e6440": [
+      "hazard"
+    ],
+    "A27331-e6490": [
+      "boozer"
+    ],
+    "A27331-e6530": [
+      "timerous-cornet"
+    ],
+    "A27331-e6570": [
+      "dullman"
+    ],
+    "A27331-e6600": [
+      "timerous-cornet"
+    ],
+    "A27331-e6630": [
+      "hazard"
+    ],
+    "A27331-e6670": [
+      "timerous-cornet"
+    ],
+    "A27331-e6750": [
+      "hazard"
+    ],
+    "A27331-e6790": [
+      "mrs-flirt"
+    ],
+    "A27331-e6820": [
+      "hazard"
+    ],
+    "A27331-e6850": [
+      "mrs-flirt"
+    ],
+    "A27331-e6880": [
+      "hazard"
+    ],
+    "A27331-e6920": [
+      "mrs-flirt"
+    ],
+    "A27331-e7010": [
+      "colonel-wellman"
+    ],
+    "A27331-e7050": [
+      "dullman"
+    ],
+    "A27331-e7110": [
+      "whimsey"
+    ],
+    "A27331-e7160": [
+      "whiff"
+    ],
+    "A27331-e7220": [
+      "colonel-wellman"
+    ],
+    "A27331-e7280": [
+      "colonel-downright"
+    ],
+    "A27331-e7340": [
+      "whimsey"
+    ],
+    "A27331-e7370": [
+      "whiff"
+    ],
+    "A27331-e7410": [
+      "colonel-wellman"
+    ],
+    "A27331-e7440": [
+      "colonel-downright"
+    ],
+    "A27331-e7490": [
+      "whiff"
+    ],
+    "A27331-e7530": [
+      "colonel-downright"
+    ],
+    "A27331-e7600": [
+      "parson-dunce"
+    ],
+    "A27331-e7640": [
+      "whiff"
+    ],
+    "A27331-e7700": [
+      "parson-dunce"
+    ],
+    "A27331-e7730": [
+      "dullman"
+    ],
+    "A27331-e7760": [
+      "whiff"
+    ],
+    "A27331-e7790": [
+      "whimsey"
+    ],
+    "A27331-e7830": [
+      "colonel-wellman"
+    ],
+    "A27331-e7870": [
+      "colonel-downright"
+    ],
+    "A27331-e7910": [
+      "dullman"
+    ],
+    "A27331-e7940": [
+      "whimsey"
+    ],
+    "A27331-e7970": [
+      "colonel-downright"
+    ],
+    "A27331-e8010": [
+      "dullman"
+    ],
+    "A27331-e8040": [
+      "colonel-wellman"
+    ],
+    "A27331-e8090": [
+      "colonel-downright"
+    ],
+    "A27331-e8120": [
+      "parson-dunce", 
+	  "whimsey", 
+	  "whiff"
+    ],
+    "A27331-e8150": [
+      "dullman"
+    ],
+    "A27331-e8180": [
+      "colonel-wellman"
+    ],
+    "A27331-e8220": [
+      "whiff"
+    ],
+    "A27331-e8310": [
+      "whiff"
+    ],
+    "A27331-e8350": [
+      "whiff"
+    ],
+    "A27331-e8390": [
+      "dullman"
+    ],
+    "A27331-e8430": [
+      "whimsey"
+    ],
+    "A27331-e8460": [
+      "dullman"
+    ],
+    "A27331-e8490": [
+      "whiff"
+    ],
+    "A27331-e8520": [
+      "dullman"
+    ],
+    "A27331-e8570": [
+      "whiff"
+    ],
+    "A27331-e8600": [
+      "whimsey"
+    ],
+    "A27331-e8640": [
+      "dullman"
+    ],
+    "A27331-e8690": [
+      "whiff"
+    ],
+    "A27331-e8720": [
+      "whimsey"
+    ],
+    "A27331-e8750": [
+      "whiff"
+    ],
+    "A27331-e8780": [
+      "whimsey"
+    ],
+    "A27331-e8810": [
+      "whiff"
+    ],
+    "A27331-e8840": [
+      "whimsey"
+    ],
+    "A27331-e8940": [
+      "ranter"
+    ],
+    "A27331-e9000": [
+      "coachman"
+    ],
+    "A27331-e9040": [
+      "ranter"
+    ],
+    "A27331-e9080": [
+      "sea-boy"
+    ],
+    "A27331-e9110": [
+      "ranter"
+    ],
+    "A27331-e9140": [
+      "sea-boy"
+    ],
+    "A27331-e9170": [
+      "ranter"
+    ],
+    "A27331-e9210": [
+      "sea-boy"
+    ],
+    "A27331-e9240": [
+      "ranter"
+    ],
+    "A27331-e9290": [
+      "sea-boy"
+    ],
+    "A27331-e9320": [
+      "ranter"
+    ],
+    "A27331-e9460": [
+      "mrs-crisante"
+    ],
+    "A27331-e9490": [
+      "ranter"
+    ],
+    "A27331-e9530": [
+      "mrs-crisante"
+    ],
+    "A27331-e9560": [
+      "ranter"
+    ],
+    "A27331-e9600": [
+      "madam-surelove"
+    ],
+    "A27331-e9630": [
+      "ranter"
+    ],
+    "A27331-e9680": [
+      "madam-surelove"
+    ],
+    "A27331-e9720": [
+      "ranter"
+    ],
+    "A27331-e9760": [
+      "madam-surelove"
+    ],
+    "A27331-e9790": [
+      "ranter"
+    ],
+    "A27331-e9820": [
+      "mrs-crisante"
+    ],
+    "A27331-e9870": [
+      "ranter"
+    ],
+    "A27331-e9900": [
+      "mrs-crisante"
+    ],
+    "A27331-e9930": [
+      "ranter"
+    ],
+    "A27331-e9970": [
+      "mrs-crisante"
+    ],
+    "A27331-e10000": [
+      "ranter"
+    ],
+    "A27331-e10040": [
+      "maid"
+    ],
+    "A27331-e10070": [
+      "madam-surelove"
+    ],
+    "A27331-e10110": [
+      "maid"
+    ],
+    "A27331-e10140": [
+      "ranter"
+    ],
+    "A27331-e10180": [
+      "maid"
+    ],
+    "A27331-e10210": [
+      "ranter"
+    ],
+    "A27331-e10240": [
+      "maid"
+    ],
+    "A27331-e10270": [
+      "ranter"
+    ],
+    "A27331-e10320": [
+      "madam-surelove"
+    ],
+    "A27331-e10350": [
+      "hazard"
+    ],
+    "A27331-e10390": [
+      "madam-surelove"
+    ],
+    "A27331-e10420": [
+      "hazard"
+    ],
+    "A27331-e10470": [
+      "ranter"
+    ],
+    "A27331-e10500": [
+      "hazard"
+    ],
+    "A27331-e10540": [
+      "ranter"
+    ],
+    "A27331-e10570": [
+      "hazard"
+    ],
+    "A27331-e10600": [
+      "ranter"
+    ],
+    "A27331-e10640": [
+      "hazard"
+    ],
+    "A27331-e10670": [
+      "ranter"
+    ],
+    "A27331-e10700": [
+      "hazard"
+    ],
+    "A27331-e10730": [
+      "ranter"
+    ],
+    "A27331-e10770": [
+      "madam-surelove"
+    ],
+    "A27331-e10800": [
+      "hazard"
+    ],
+    "A27331-e10840": [
+      "maid"
+    ],
+    "A27331-e10880": [
+      "madam-surelove"
+    ],
+    "A27331-e10910": [
+      "hazard"
+    ],
+    "A27331-e10950": [
+      "ranter"
+    ],
+    "A27331-e11010": [
+      "friendly"
+    ],
+    "A27331-e11060": [
+      "hazard"
+    ],
+    "A27331-e11100": [
+      "friendly"
+    ],
+    "A27331-e11130": [
+      "hazard"
+    ],
+    "A27331-e11160": [
+      "friendly"
+    ],
+    "A27331-e11200": [
+      "hazard"
+    ],
+    "A27331-e11230": [
+      "friendly"
+    ],
+    "A27331-e11270": [
+      "ranter"
+    ],
+    "A27331-e11300": [
+      "friendly"
+    ],
+    "A27331-e11330": [
+      "ranter"
+    ],
+    "A27331-e11360": [
+      "friendly"
+    ],
+    "A27331-e11400": [
+      "mrs-crisante"
+    ],
+    "A27331-e11440": [
+      "friendly"
+    ],
+    "A27331-e11480": [
+      "ranter"
+    ],
+    "A27331-e11510": [
+      "friendly"
+    ],
+    "A27331-e11540": [
+      "mrs-crisante"
+    ],
+    "A27331-e11580": [
+      "friendly"
+    ],
+    "A27331-e11610": [
+      "mrs-crisante"
+    ],
+    "A27331-e11640": [
+      "friendly"
+    ],
+    "A27331-e11670": [
+      "ranter"
+    ],
+    "A27331-e11720": [
+      "friendly"
+    ],
+    "A27331-e11770": [
+      "hazard"
+    ],
+    "A27331-e11810": [
+      "maid"
+    ],
+    "A27331-e11840": [
+      "madam-surelove"
+    ],
+    "A27331-e11900": [
+      "ranter"
+    ],
+    "A27331-e12070": [
+      "cavarnio"
+    ],
+    "A27331-e12100": [
+      "bacon"
+    ],
+    "A27331-e12140": [
+      "cavarnio"
+    ],
+    "A27331-e12170": [
+      "bacon"
+    ],
+    "A27331-e12200": [
+      "semernia"
+    ],
+    "A27331-e12240": [
+      "cavarnio"
+    ],
+    "A27331-e12270": [
+      "semernia"
+    ],
+    "A27331-e12310": [
+      "bacon"
+    ],
+    "A27331-e12340": [
+      "semernia"
+    ],
+    "A27331-e12380": [
+      "cavarnio"
+    ],
+    "A27331-e12470": [
+      "bacon"
+    ],
+    "A27331-e12560": [
+      "semernia"
+    ],
+    "A27331-e12610": [
+      "semernia"
+    ],
+    "A27331-e12660": [
+      "bacon"
+    ],
+    "A27331-e12730": [
+      "dullman"
+    ],
+    "A27331-e12770": [
+      "cavarnio"
+    ],
+    "A27331-e12820": [
+      "bacon"
+    ],
+    "A27331-e12890": [
+      "dareing"
+    ],
+    "A27331-e12940": [
+      "fearless"
+    ],
+    "A27331-e12970": [
+      "dareing"
+    ],
+    "A27331-e13000": [
+      "bacon"
+    ],
+    "A27331-e13030": [
+      "parson-dunce"
+    ],
+    "A27331-e13060": [
+      "dareing"
+    ],
+    "A27331-e13090": [
+      "bacon"
+    ],
+    "A27331-e13120": [
+      "dullman"
+    ],
+    "A27331-e13150": [
+      "dareing"
+    ],
+    "A27331-e13190": [
+      "bacon"
+    ],
+    "A27331-e13220": [
+      "dareing"
+    ],
+    "A27331-e13250": [
+      "bacon"
+    ],
+    "A27331-e13290": [
+      "parson-dunce"
+    ],
+    "A27331-e13330": [
+      "dareing"
+    ],
+    "A27331-e13360": [
+      "bacon"
+    ],
+    "A27331-e13390": [
+      "dareing"
+    ],
+    "A27331-e13430": [
+      "bacon"
+    ],
+    "A27331-e13460": [
+      "fearless"
+    ],
+    "A27331-e13490": [
+      "dareing"
+    ],
+    "A27331-e13520": [
+      "bacon"
+    ],
+    "A27331-e13580": [
+      "semernia"
+    ],
+    "A27331-e13610": [
+      "bacon"
+    ],
+    "A27331-e13640": [
+      "semernia"
+    ],
+    "A27331-e13680": [
+      "bacon"
+    ],
+    "A27331-e13710": [
+      "semernia"
+    ],
+    "A27331-e13740": [
+      "bacon"
+    ],
+    "A27331-e13770": [
+      "semernia"
+    ],
+    "A27331-e13800": [
+      "bacon"
+    ],
+    "A27331-e13830": [
+      "semernia"
+    ],
+    "A27331-e13860": [
+      "bacon"
+    ],
+    "A27331-e13890": [
+      "semernia"
+    ],
+    "A27331-e13920": [
+      "bacon"
+    ],
+    "A27331-e13950": [
+      "semernia"
+    ],
+    "A27331-e13980": [
+      "bacon"
+    ],
+    "A27331-e14010": [
+      "semernia"
+    ],
+    "A27331-e14040": [
+      "bacon"
+    ],
+    "A27331-e14080": [
+      "semernia"
+    ],
+    "A27331-e14120": [
+      "bacon"
+    ],
+    "A27331-e14150": [
+      "semernia"
+    ],
+    "A27331-e14210": [
+      "bacon"
+    ],
+    "A27331-e14250": [
+      "semernia"
+    ],
+    "A27331-e14290": [
+      "bacon"
+    ],
+    "A27331-e14400": [
+      "madam-surelove"
+    ],
+    "A27331-e14440": [
+      "hazard"
+    ],
+    "A27331-e14470": [
+      "madam-surelove"
+    ],
+    "A27331-e14510": [
+      "hazard"
+    ],
+    "A27331-e14550": [
+      "madam-surelove"
+    ],
+    "A27331-e14580": [
+      "hazard"
+    ],
+    "A27331-e14610": [
+      "madam-surelove"
+    ],
+    "A27331-e14640": [
+      "hazard"
+    ],
+    "A27331-e14670": [
+      "madam-surelove"
+    ],
+    "A27331-e14700": [
+      "hazard"
+    ],
+    "A27331-e14730": [
+      "madam-surelove"
+    ],
+    "A27331-e14760": [
+      "hazard"
+    ],
+    "A27331-e14800": [
+      "madam-surelove"
+    ],
+    "A27331-e14850": [
+      "hazard"
+    ],
+    "A27331-e14910": [
+      "madam-surelove"
+    ],
+    "A27331-e14940": [
+      "hazard"
+    ],
+    "A27331-e14970": [
+      "madam-surelove"
+    ],
+    "A27331-e15010": [
+      "hazard"
+    ],
+    "A27331-e15120": [
+      "dullman"
+    ],
+    "A27331-e15150": [
+      "timerous-cornet"
+    ],
+    "A27331-e15200": [
+      "dullman"
+    ],
+    "A27331-e15240": [
+      "timerous-cornet"
+    ],
+    "A27331-e15270": [
+      "dullman"
+    ],
+    "A27331-e15320": [
+      "mrs-crisante"
+    ],
+    "A27331-e15350": [
+      "dullman"
+    ],
+    "A27331-e15380": [
+      "ranter"
+    ],
+    "A27331-e15410": [
+      "dullman"
+    ],
+    "A27331-e15440": [
+      "timerous-cornet"
+    ],
+    "A27331-e15470": [
+      "parson-dunce"
+    ],
+    "A27331-e15510": [
+      "friendly"
+    ],
+    "A27331-e15550": [
+      "ranter"
+    ],
+    "A27331-e15580": [
+      "timerous-cornet"
+    ],
+    "A27331-e15620": [
+      "ranter"
+    ],
+    "A27331-e15660": [
+      "dullman"
+    ],
+    "A27331-e15690": [
+      "ranter"
+    ],
+    "A27331-e15720": [
+      "timerous-cornet"
+    ],
+    "A27331-e15810": [
+      "dullman"
+    ],
+    "A27331-e15850": [
+      "timerous-cornet"
+    ],
+    "A27331-e15880": [
+      "friendly"
+    ],
+    "A27331-e15940": [
+      "dullman"
+    ],
+    "A27331-e15970": [
+      "timerous-cornet"
+    ],
+    "A27331-e16010": [
+      "dullman"
+    ],
+    "A27331-e16040": [
+      "timerous-cornet"
+    ],
+    "A27331-e16070": [
+      "dullman"
+    ],
+    "A27331-e16110": [
+      "friendly"
+    ],
+    "A27331-e16140": [
+      "timerous-cornet"
+    ],
+    "A27331-e16170": [
+      "dullman"
+    ],
+    "A27331-e16210": [
+      "friendly"
+    ],
+    "A27331-e16250": [
+      "timerous-cornet"
+    ],
+    "A27331-e16280": [
+      "friendly"
+    ],
+    "A27331-e16330": [
+      "dullman"
+    ],
+    "A27331-e16370": [
+      "friendly"
+    ],
+    "A27331-e16400": [
+      "dullman"
+    ],
+    "A27331-e16440": [
+      "friendly"
+    ],
+    "A27331-e16470": [
+      "timerous-cornet"
+    ],
+    "A27331-e16520": [
+      "friendly"
+    ],
+    "A27331-e16550": [
+      "timerous-cornet"
+    ],
+    "A27331-e16590": [
+      "dullman"
+    ],
+    "A27331-e16700": [
+      "whimsey"
+    ],
+    "A27331-e16740": [
+      "boozer"
+    ],
+    "A27331-e16770": [
+      "whimsey"
+    ],
+    "A27331-e16810": [
+      "whiff"
+    ],
+    "A27331-e16840": [
+      "boozer"
+    ],
+    "A27331-e16900": [
+      "whimsey"
+    ],
+    "A27331-e16940": [
+      "whiff"
+    ],
+    "A27331-e16980": [
+      "whimsey"
+    ],
+    "A27331-e17010": [
+      "whiff"
+    ],
+    "A27331-e17040": [
+      "whimsey"
+    ],
+    "A27331-e17070": [
+      "whiff"
+    ],
+    "A27331-e17110": [
+      "whimsey"
+    ],
+    "A27331-e17150": [
+      "whiff"
+    ],
+    "A27331-e17200": [
+      "whimsey"
+    ],
+    "A27331-e17230": [
+      "whiff"
+    ],
+    "A27331-e17260": [
+      "whimsey"
+    ],
+    "A27331-e17290": [
+      "whiff"
+    ],
+    "A27331-e17350": [
+      "bacon"
+    ],
+    "A27331-e17390": [
+      "fearless"
+    ],
+    "A27331-e17420": [
+      "bacon"
+    ],
+    "A27331-e17450": [
+      "fearless"
+    ],
+    "A27331-e17480": [
+      "bacon"
+    ],
+    "A27331-e17520": [
+      "whimsey"
+    ],
+    "A27331-e17570": [
+      "bacon"
+    ],
+    "A27331-e17640": [
+      "whiff"
+    ],
+    "A27331-e17680": [
+      "whimsey"
+    ],
+    "A27331-e17710": [
+      "whiff"
+    ],
+    "A27331-e17740": [
+      "bacon"
+    ],
+    "A27331-e17770": [
+      "whimsey"
+    ],
+    "A27331-e17800": [
+      "whiff"
+    ],
+    "A27331-e17840": [
+      "bacon"
+    ],
+    "A27331-e17870": [
+      "whimsey"
+    ],
+    "A27331-e17900": [
+      "bacon"
+    ],
+    "A27331-e17930": [
+      "whiff"
+    ],
+    "A27331-e17980": [
+      "dareing"
+    ],
+    "A27331-e18070": [
+      "fearless"
+    ],
+    "A27331-e18100": [
+      "whiff"
+    ],
+    "A27331-e18140": [
+      "bacon"
+    ],
+    "A27331-e18170": [
+      "dareing"
+    ],
+    "A27331-e18200": [
+      "bacon"
+    ],
+    "A27331-e18230": [
+      "dareing"
+    ],
+    "A27331-e18260": [
+      "bacon"
+    ],
+    "A27331-e18340": [
+      "whiff"
+    ],
+    "A27331-e18370": [
+      "whimsey"
+    ],
+    "A27331-e18490": [
+      "colonel-wellman"
+    ],
+    "A27331-e18570": [
+      "colonel-downright"
+    ],
+    "A27331-e18610": [
+      "soldier"
+    ],
+    "A27331-e18660": [
+      "colonel-downright"
+    ],
+    "A27331-e18690": [
+      "colonel-wellman"
+    ],
+    "A27331-e18730": [
+      "soldier"
+    ],
+    "A27331-e18770": [
+      "colonel-wellman"
+    ],
+    "A27331-e18800": [
+      "colonel-downright",
+      "dullman",
+      "timerous-cornet",
+      "soldier"
+    ],
+    "A27331-e18830": [
+      "colonel-wellman"
+    ],
+    "A27331-e18860": [
+      "timerous-cornet"
+    ],
+    "A27331-e18890": [
+      "colonel-downright"
+    ],
+    "A27331-e18930": [
+      "messenger"
+    ],
+    "A27331-e18990": [
+      "timerous-cornet"
+    ],
+    "A27331-e19020": [
+      "brag"
+    ],
+    "A27331-e19090": [
+      "timerous-cornet"
+    ],
+    "A27331-e19120": [
+      "colonel-downright"
+    ],
+    "A27331-e19170": [
+      "timerous-cornet"
+    ],
+    "A27331-e19200": [
+      "dullman"
+    ],
+    "A27331-e19230": [
+      "timerous-cornet"
+    ],
+    "A27331-e19260": [
+      "colonel-wellman"
+    ],
+    "A27331-e19290": [
+      "dullman"
+    ],
+    "A27331-e19320": [
+      "brag"
+    ],
+    "A27331-e19350": [
+      "colonel-wellman"
+    ],
+    "A27331-e19380": [
+      "brag"
+    ],
+    "A27331-e19410": [
+      "colonel-wellman"
+    ],
+    "A27331-e19450": [
+      "timerous-cornet"
+    ],
+    "A27331-e19480": [
+      "colonel-wellman"
+    ],
+    "A27331-e19510": [
+      "timerous-cornet"
+    ],
+    "A27331-e19560": [
+      "brag"
+    ],
+    "A27331-e19600": [
+      "timerous-cornet"
+    ],
+    "A27331-e19630": [
+      "dullman"
+    ],
+    "A27331-e19660": [
+      "colonel-wellman"
+    ],
+    "A27331-e19690": [
+      "colonel-downright"
+    ],
+    "A27331-e19720": [
+      "timerous-cornet"
+    ],
+    "A27331-e19790": [
+      "colonel-wellman"
+    ],
+    "A27331-e19830": [
+      "bacon"
+    ],
+    "A27331-e19860": [
+      "colonel-wellman"
+    ],
+    "A27331-e19890": [
+      "rabble-1"
+    ],
+    "A27331-e19920": [
+      "bacon"
+    ],
+    "A27331-e19950": [
+      "rabble-1"
+    ],
+    "A27331-e19990": [
+      "bacon"
+    ],
+    "A27331-e20020": [
+      "colonel-downright"
+    ],
+    "A27331-e20050": [
+      "whiff"
+    ],
+    "A27331-e20090": [
+      "colonel-downright"
+    ],
+    "A27331-e20130": [
+      "whimsey"
+    ],
+    "A27331-e20160": [
+      "colonel-downright"
+    ],
+    "A27331-e20190": [
+      "whimsey"
+    ],
+    "A27331-e20230": [
+      "colonel-wellman"
+    ],
+    "A27331-e20260": [
+      "bacon"
+    ],
+    "A27331-e20290": [
+      "colonel-wellman"
+    ],
+    "A27331-e20320": [
+      "bacon"
+    ],
+    "A27331-e20350": [
+      "colonel-wellman"
+    ],
+    "A27331-e20380": [
+      "bacon"
+    ],
+    "A27331-e20410": [
+      "colonel-wellman"
+    ],
+    "A27331-e20440": [
+      "bacon"
+    ],
+    "A27331-e20470": [
+      "colonel-wellman"
+    ],
+    "A27331-e20500": [
+      "bacon"
+    ],
+    "A27331-e20530": [
+      "timerous-cornet"
+    ],
+    "A27331-e20580": [
+      "bacon"
+    ],
+    "A27331-e20610": [
+      "colonel-downright"
+    ],
+    "A27331-e20640": [
+      "bacon"
+    ],
+    "A27331-e20670": [
+      "colonel-wellman"
+    ],
+    "A27331-e20700": [
+      "bacon"
+    ],
+    "A27331-e20750": [
+      "colonel-downright"
+    ],
+    "A27331-e20790": [
+      "colonel-wellman"
+    ],
+    "A27331-e20820": [
+      "colonel-downright"
+    ],
+    "A27331-e20850": [
+      "colonel-wellman"
+    ],
+    "A27331-e20880": [
+      "timerous-cornet"
+    ],
+    "A27331-e20910": [
+      "colonel-wellman"
+    ],
+    "A27331-e20950": [
+      "bacon"
+    ],
+    "A27331-e20990": [
+      "colonel-wellman"
+    ],
+    "A27331-e21030": [
+      "bacon"
+    ],
+    "A27331-e21120": [
+      "colonel-downright"
+    ],
+    "A27331-e21150": [
+      "rabble-1"
+    ],
+    "A27331-e21190": [
+      "rabble-1"
+    ],
+    "A27331-e21260": [
+      "dullman"
+    ],
+    "A27331-e21290": [
+      "rabble-1"
+    ],
+    "A27331-e21320": [
+      "bacon"
+    ],
+    "A27331-e21360": [
+      "colonel-wellman"
+    ],
+    "A27331-e21410": [
+      "bacon"
+    ],
+    "A27331-e21480": [
+      "colonel-wellman"
+    ],
+    "A27331-e21540": [
+      "timerous-cornet"
+    ],
+    "A27331-e21570": [
+      "dullman"
+    ],
+    "A27331-e21620": [
+      "timerous-cornet"
+    ],
+    "A27331-e21660": [
+      "dullman"
+    ],
+    "A27331-e21700": [
+      "timerous-cornet"
+    ],
+    "A27331-e21810": [
+      "friendly"
+    ],
+    "A27331-e21850": [
+      "dullman"
+    ],
+    "A27331-e21890": [
+      "friendly"
+    ],
+    "A27331-e21920": [
+      "dullman"
+    ],
+    "A27331-e22030": [
+      "timerous-cornet"
+    ],
+    "A27331-e22060": [
+      "bayliffs"
+    ],
+    "A27331-e22100": [
+      "hazard"
+    ],
+    "A27331-e22140": [
+      "timerous-cornet"
+    ],
+    "A27331-e22180": [
+      "hazard"
+    ],
+    "A27331-e22210": [
+      "timerous-cornet"
+    ],
+    "A27331-e22250": [
+      "friendly"
+    ],
+    "A27331-e22290": [
+      "timerous-cornet"
+    ],
+    "A27331-e22320": [
+      "friendly"
+    ],
+    "A27331-e22350": [
+      "hazard"
+    ],
+    "A27331-e22380": [
+      "timerous-cornet"
+    ],
+    "A27331-e22410": [
+      "friendly"
+    ],
+    "A27331-e22440": [
+      "timerous-cornet"
+    ],
+    "A27331-e22530": [
+      "whiff"
+    ],
+    "A27331-e22560": [
+      "whimsey"
+    ],
+    "A27331-e22590": [
+      "clark"
+    ],
+    "A27331-e22630": [
+      "boozer"
+    ],
+    "A27331-e22660": [
+      "whimsey"
+    ],
+    "A27331-e22700": [
+      "whiff"
+    ],
+    "A27331-e22730": [
+      "timerous-cornet"
+    ],
+    "A27331-e22760": [
+      "boozer"
+    ],
+    "A27331-e22820": [
+      "dullman"
+    ],
+    "A27331-e22860": [
+      "clark"
+    ],
+    "A27331-e22910": [
+      "dullman"
+    ],
+    "A27331-e22960": [
+      "whiff"
+    ],
+    "A27331-e23010": [
+      "clark"
+    ],
+    "A27331-e23090": [
+      "dullman"
+    ],
+    "A27331-e23130": [
+      "clark"
+    ],
+    "A27331-e23170": [
+      "grubb"
+    ],
+    "A27331-e23200": [
+      "whimsey"
+    ],
+    "A27331-e23240": [
+      "grubb"
+    ],
+    "A27331-e23310": [
+      "whimsey"
+    ],
+    "A27331-e23340": [
+      "timerous-cornet"
+    ],
+    "A27331-e23370": [
+      "whiff"
+    ],
+    "A27331-e23420": [
+      "whimsey"
+    ],
+    "A27331-e23460": [
+      "dullman"
+    ],
+    "A27331-e23490": [
+      "grubb"
+    ],
+    "A27331-e23530": [
+      "clark"
+    ],
+    "A27331-e23560": [
+      "grubb"
+    ],
+    "A27331-e23590": [
+      "whiff"
+    ],
+    "A27331-e23620": [
+      "dullman"
+    ],
+    "A27331-e23660": [
+      "timerous-cornet"
+    ],
+    "A27331-e23700": [
+      "clark"
+    ],
+    "A27331-e23750": [
+      "timerous-cornet"
+    ],
+    "A27331-e23810": [
+      "whiff"
+    ],
+    "A27331-e23840": [
+      "timerous-cornet"
+    ],
+    "A27331-e23890": [
+      "clark"
+    ],
+    "A27331-e23950": [
+      "whimsey"
+    ],
+    "A27331-e23980": [
+      "mrs-flirt"
+    ],
+    "A27331-e24030": [
+      "timerous-cornet"
+    ],
+    "A27331-e24060": [
+      "hazard"
+    ],
+    "A27331-e24100": [
+      "timerous-cornet"
+    ],
+    "A27331-e24130": [
+      "hazard"
+    ],
+    "A27331-e24160": [
+      "whiff"
+    ],
+    "A27331-e24190": [
+      "timerous-cornet"
+    ],
+    "A27331-e24220": [
+      "hazard"
+    ],
+    "A27331-e24250": [
+      "timerous-cornet"
+    ],
+    "A27331-e24280": [
+      "hazard"
+    ],
+    "A27331-e24310": [
+      "whimsey"
+    ],
+    "A27331-e24340": [
+      "timerous-cornet"
+    ],
+    "A27331-e24390": [
+      "whimsey"
+    ],
+    "A27331-e24430": [
+      "dullman"
+    ],
+    "A27331-e24470": [
+      "hazard"
+    ],
+    "A27331-e24500": [
+      "timerous-cornet"
+    ],
+    "A27331-e24530": [
+      "whiff"
+    ],
+    "A27331-e24560": [
+      "whimsey"
+    ],
+    "A27331-e24590": [
+      "hazard"
+    ],
+    "A27331-e24620": [
+      "whiff"
+    ],
+    "A27331-e24650": [
+      "hazard"
+    ],
+    "A27331-e24680": [
+      "timerous-cornet"
+    ],
+    "A27331-e24710": [
+      "hazard"
+    ],
+    "A27331-e24740": [
+      "dullman"
+    ],
+    "A27331-e24770": [
+      "whimsey"
+    ],
+    "A27331-e24800": [
+      "friendly"
+    ],
+    "A27331-e24840": [
+      "timerous-cornet"
+    ],
+    "A27331-e24880": [
+      "whiff"
+    ],
+    "A27331-e24910": [
+      "whimsey"
+    ],
+    "A27331-e24940": [
+      "timerous-cornet"
+    ],
+    "A27331-e24970": [
+      "whiff"
+    ],
+    "A27331-e25000": [
+      "timerous-cornet"
+    ],
+    "A27331-e25040": [
+      "whimsey"
+    ],
+    "A27331-e25070": [
+      "hazard"
+    ],
+    "A27331-e25100": [
+      "dullman"
+    ],
+    "A27331-e25170": [
+      "hazard"
+    ],
+    "A27331-e25200": [
+      "friendly"
+    ],
+    "A27331-e25230": [
+      "hazard"
+    ],
+    "A27331-e25260": [
+      "friendly"
+    ],
+    "A27331-e25290": [
+      "hazard"
+    ],
+    "A27331-e25320": [
+      "friendly"
+    ],
+    "A27331-e25420": [
+      "colonel-wellman"
+    ],
+    "A27331-e25460": [
+      "colonel-downright"
+    ],
+    "A27331-e25490": [
+      "boozer"
+    ],
+    "A27331-e25540": [
+      "officer"
+    ],
+    "A27331-e25590": [
+      "colonel-downright"
+    ],
+    "A27331-e25620": [
+      "parson-dunce"
+    ],
+    "A27331-e25650": [
+      "colonel-wellman"
+    ],
+    "A27331-e25710": [
+      "friendly"
+    ],
+    "A27331-e25750": [
+      "colonel-wellman"
+    ],
+    "A27331-e25780": [
+      "hazard"
+    ],
+    "A27331-e25840": [
+      "colonel-downright"
+    ],
+    "A27331-e25870": [
+      "timerous-cornet"
+    ],
+    "A27331-e25900": [
+      "dullman"
+    ],
+    "A27331-e25930": [
+      "colonel-wellman"
+    ],
+    "A27331-e25960": [
+      "friendly"
+    ],
+    "A27331-e25990": [
+      "timerous-cornet"
+    ],
+    "A27331-e26020": [
+      "colonel-downright"
+    ],
+    "A27331-e26060": [
+      "dullman"
+    ],
+    "A27331-e26100": [
+      "timerous-cornet"
+    ],
+    "A27331-e26140": [
+      "friendly"
+    ],
+    "A27331-e26170": [
+      "timerous-cornet"
+    ],
+    "A27331-e26250": [
+      "whimsey"
+    ],
+    "A27331-e26280": [
+      "colonel-wellman"
+    ],
+    "A27331-e26310": [
+      "dullman"
+    ],
+    "A27331-e26360": [
+      "colonel-wellman"
+    ],
+    "A27331-e26410": [
+      "whimsey"
+    ],
+    "A27331-e26440": [
+      "colonel-wellman"
+    ],
+    "A27331-e26470": [
+      "whimsey"
+    ],
+    "A27331-e26500": [
+      "colonel-wellman"
+    ],
+    "A27331-e26530": [
+      "whimsey"
+    ],
+    "A27331-e26560": [
+      "colonel-wellman"
+    ],
+    "A27331-e26590": [
+      "whimsey"
+    ],
+    "A27331-e26620": [
+      "friendly"
+    ],
+    "A27331-e26650": [
+      "timerous-cornet"
+    ],
+    "A27331-e26700": [
+      "colonel-downright"
+    ],
+    "A27331-e26760": [
+      "whiff"
+    ],
+    "A27331-e26820": [
+      "seaman"
+    ],
+    "A27331-e26860": [
+      "colonel-wellman"
+    ],
+    "A27331-e26890": [
+      "dullman"
+    ],
+    "A27331-e26920": [
+      "seaman"
+    ],
+    "A27331-e26950": [
+      "colonel-downright"
+    ],
+    "A27331-e27000": [
+      "friendly"
+    ],
+    "A27331-e27030": [
+      "hazard"
+    ],
+    "A27331-e27070": [
+      "colonel-wellman"
+    ],
+    "A27331-e27100": [
+      "whimsey"
+    ],
+    "A27331-e27140": [
+      "timerous-cornet"
+    ],
+    "A27331-e27170": [
+      "colonel-wellman"
+    ],
+    "A27331-e27200": [
+      "whimsey"
+    ],
+    "A27331-e27230": [
+      "timerous-cornet"
+    ],
+    "A27331-e27260": [
+      "whiff"
+    ],
+    "A27331-e27290": [
+      "dullman"
+    ],
+    "A27331-e27350": [
+      "colonel-wellman"
+    ],
+    "A27331-e27440": [
+      "colonel-downright"
+    ],
+    "A27331-e27470": [
+      "dullman"
+    ],
+    "A27331-e27500": [
+      "whimsey"
+    ],
+    "A27331-e27530": [
+      "colonel-wellman"
+    ],
+    "A27331-e27580": [
+      "parson-dunce"
+    ],
+    "A27331-e27650": [
+      "timerous-cornet"
+    ],
+    "A27331-e27680": [
+      "whiff"
+    ],
+    "A27331-e27720": [
+      "timerous-cornet"
+    ],
+    "A27331-e27760": [
+      "whimsey"
+    ],
+    "A27331-e27790": [
+      "timerous-cornet"
+    ],
+    "A27331-e27820": [
+      "parson-dunce"
+    ],
+    "A27331-e27860": [
+      "soldiers"
+    ],
+    "A27331-e27890": [
+      "boozer"
+    ],
+    "A27331-e27940": [
+      "parson-dunce"
+    ],
+    "A27331-e28020": [
+      "soldiers"
+    ],
+    "A27331-e28060": [
+      "soldier"
+    ],
+    "A27331-e28100": [
+      "parson-dunce"
+    ],
+    "A27331-e28130": [
+      "soldier"
+    ],
+    "A27331-e28170": [
+      "soldiers"
+    ],
+    "A27331-e28230": [
+      "boozer"
+    ],
+    "A27331-e28260": [
+      "soldiers"
+    ],
+    "A27331-e28320": [
+      "timerous-cornet"
+    ],
+    "A27331-e28360": [
+      "dullman"
+    ],
+    "A27331-e28390": [
+      "whiff"
+    ],
+    "A27331-e28420": [
+      "whimsey"
+    ],
+    "A27331-e28450": [
+      "parson-dunce"
+    ],
+    "A27331-e28490": [
+      "boozer"
+    ],
+    "A27331-e28600": [
+      "bacon"
+    ],
+    "A27331-e28630": [
+      "parson-dunce"
+    ],
+    "A27331-e28660": [
+      "whimsey"
+    ],
+    "A27331-e28690": [
+      "bacon"
+    ],
+    "A27331-e28720": [
+      "soldiers"
+    ],
+    "A27331-e28750": [
+      "whiff"
+    ],
+    "A27331-e28780": [
+      "timerous-cornet"
+    ],
+    "A27331-e28810": [
+      "bacon"
+    ],
+    "A27331-e28850": [
+      "soldiers"
+    ],
+    "A27331-e28920": [
+      "colonel-downright"
+    ],
+    "A27331-e28950": [
+      "bacon"
+    ],
+    "A27331-e28980": [
+      "parson-dunce"
+    ],
+    "A27331-e29010": [
+      "whimsey"
+    ],
+    "A27331-e29040": [
+      "bacon"
+    ],
+    "A27331-e29140": [
+      "parson-dunce"
+    ],
+    "A27331-e29170": [
+      "whiff"
+    ],
+    "A27331-e29200": [
+      "timerous-cornet"
+    ],
+    "A27331-e29250": [
+      "bacon"
+    ],
+    "A27331-e29280": [
+      "whimsey"
+    ],
+    "A27331-e29310": [
+      "whiff"
+    ],
+    "A27331-e29350": [
+      "bacon"
+    ],
+    "A27331-e29380": [
+      "fearless"
+    ],
+    "A27331-e29420": [
+      "bacon"
+    ],
+    "A27331-e29450": [
+      "soldiers"
+    ],
+    "A27331-e29550": [
+      "bacon"
+    ],
+    "A27331-e29590": [
+      "dareing"
+    ],
+    "A27331-e29620": [
+      "colonel-downright"
+    ],
+    "A27331-e29650": [
+      "bacon"
+    ],
+    "A27331-e29680": [
+      "colonel-downright"
+    ],
+    "A27331-e29720": [
+      "dareing"
+    ],
+    "A27331-e29760": [
+      "bacon"
+    ],
+    "A27331-e29790": [
+      "mrs-crisante"
+    ],
+    "A27331-e29830": [
+      "dareing"
+    ],
+    "A27331-e29860": [
+      "mrs-crisante"
+    ],
+    "A27331-e29890": [
+      "colonel-downright"
+    ],
+    "A27331-e29920": [
+      "bacon"
+    ],
+    "A27331-e29950": [
+      "madam-surelove"
+    ],
+    "A27331-e29980": [
+      "mrs-whimsey"
+    ],
+    "A27331-e30010": [
+      "dareing"
+    ],
+    "A27331-e30050": [
+      "mrs-whiff"
+    ],
+    "A27331-e30080": [
+      "fearless"
+    ],
+    "A27331-e30120": [
+      "dareing"
+    ],
+    "A27331-e30150": [
+      "mrs-crisante"
+    ],
+    "A27331-e30180": [
+      "dareing"
+    ],
+    "A27331-e30220": [
+      "soldier"
+    ],
+    "A27331-e30260": [
+      "bacon"
+    ],
+    "A27331-e30430": [
+      "cavarnio"
+    ],
+    "A27331-e30570": [
+      "cavarnio"
+    ],
+    "A27331-e30600": [
+      "semernia"
+    ],
+    "A27331-e30630": [
+      "cavarnio"
+    ],
+    "A27331-e30670": [
+      "semernia"
+    ],
+    "A27331-e30700": [
+      "cavarnio"
+    ],
+    "A27331-e30740": [
+      "semernia"
+    ],
+    "A27331-e30770": [
+      "cavarnio"
+    ],
+    "A27331-e30800": [
+      "semernia"
+    ],
+    "A27331-e30830": [
+      "cavarnio"
+    ],
+    "A27331-e30870": [
+      "semernia"
+    ],
+    "A27331-e30910": [
+      "cavarnio"
+    ],
+    "A27331-e30940": [
+      "semernia"
+    ],
+    "A27331-e30970": [
+      "cavarnio"
+    ],
+    "A27331-e31000": [
+      "semernia"
+    ],
+    "A27331-e31030": [
+      "cavarnio"
+    ],
+    "A27331-e31090": [
+      "indian"
+    ],
+    "A27331-e31130": [
+      "cavarnio"
+    ],
+    "A27331-e31220": [
+      "semernia"
+    ],
+    "A27331-e31400": [
+      "fearless"
+    ],
+    "A27331-e31440": [
+      "bacon"
+    ],
+    "A27331-e31550": [
+      "cavarnio"
+    ],
+    "A27331-e31640": [
+      "bacon"
+    ],
+    "A27331-e31670": [
+      "dareing"
+    ],
+    "A27331-e31700": [
+      "bacon"
+    ],
+    "A27331-e31730": [
+      "dareing"
+    ],
+    "A27331-e31760": [
+      "bacon"
+    ],
+    "A27331-e31810": [
+      "cavarnio"
+    ],
+    "A27331-e31850": [
+      "bacon"
+    ],
+    "A27331-e31880": [
+      "cavarnio"
+    ],
+    "A27331-e31910": [
+      "bacon"
+    ],
+    "A27331-e31940": [
+      "cavarnio"
+    ],
+    "A27331-e31980": [
+      "bacon"
+    ],
+    "A27331-e32020": [
+      "cavarnio"
+    ],
+    "A27331-e32050": [
+      "dareing"
+    ],
+    "A27331-e32080": [
+      "fearless"
+    ],
+    "A27331-e32110": [
+      "cavarnio"
+    ],
+    "A27331-e32140": [
+      "bacon"
+    ],
+    "A27331-e32170": [
+      "dareing"
+    ],
+    "A27331-e32200": [
+      "fearless"
+    ],
+    "A27331-e32240": [
+      "cavarnio"
+    ],
+    "A27331-e32270": [
+      "bacon"
+    ],
+    "A27331-e32310": [
+      "cavarnio"
+    ],
+    "A27331-e32340": [
+      "bacon"
+    ],
+    "A27331-e32400": [
+      "cavarnio"
+    ],
+    "A27331-e32430": [
+      "bacon"
+    ],
+    "A27331-e32480": [
+      "cavarnio"
+    ],
+    "A27331-e32550": [
+      "bacon"
+    ],
+    "A27331-e32590": [
+      "fearless"
+    ],
+    "A27331-e32620": [
+      "bacon"
+    ],
+    "A27331-e32660": [
+      "soldier"
+    ],
+    "A27331-e32700": [
+      "bacon"
+    ],
+    "A27331-e32770": [
+      "whimsey"
+    ],
+    "A27331-e32800": [
+      "whiff"
+    ],
+    "A27331-e32830": [
+      "whimsey"
+    ],
+    "A27331-e32870": [
+      "whiff"
+    ],
+    "A27331-e32900": [
+      "whimsey"
+    ],
+    "A27331-e32930": [
+      "whiff"
+    ],
+    "A27331-e32970": [
+      "whimsey"
+    ],
+    "A27331-e33000": [
+      "whiff"
+    ],
+    "A27331-e33030": [
+      "whimsey"
+    ],
+    "A27331-e33070": [
+      "whiff"
+    ],
+    "A27331-e33100": [
+      "whimsey"
+    ],
+    "A27331-e33130": [
+      "whiff"
+    ],
+    "A27331-e33160": [
+      "whimsey"
+    ],
+    "A27331-e33190": [
+      "whiff"
+    ],
+    "A27331-e33220": [
+      "whimsey"
+    ],
+    "A27331-e33280": [
+      "dullman"
+    ],
+    "A27331-e33330": [
+      "timerous-cornet"
+    ],
+    "A27331-e33360": [
+      "dullman"
+    ],
+    "A27331-e33400": [
+      "timerous-cornet"
+    ],
+    "A27331-e33430": [
+      "dullman"
+    ],
+    "A27331-e33460": [
+      "timerous-cornet"
+    ],
+    "A27331-e33490": [
+      "dullman"
+    ],
+    "A27331-e33520": [
+      "timerous-cornet"
+    ],
+    "A27331-e33590": [
+      "whimsey"
+    ],
+    "A27331-e33620": [
+      "dullman"
+    ],
+    "A27331-e33650": [
+      "timerous-cornet"
+    ],
+    "A27331-e33690": [
+      "whiff"
+    ],
+    "A27331-e33720": [
+      "timerous-cornet"
+    ],
+    "A27331-e33770": [
+      "whiff"
+    ],
+    "A27331-e33800": [
+      "timerous-cornet"
+    ],
+    "A27331-e33830": [
+      "whiff"
+    ],
+    "A27331-e33860": [
+      "timerous-cornet"
+    ],
+    "A27331-e33900": [
+      "dullman"
+    ],
+    "A27331-e33940": [
+      "whimsey"
+    ],
+    "A27331-e34010": [
+      "ranter"
+    ],
+    "A27331-e34050": [
+      "whiff"
+    ],
+    "A27331-e34120": [
+      "jenny"
+    ],
+    "A27331-e34150": [
+      "ranter"
+    ],
+    "A27331-e34200": [
+      "jenny"
+    ],
+    "A27331-e34230": [
+      "ranter"
+    ],
+    "A27331-e34260": [
+      "jenny"
+    ],
+    "A27331-e34290": [
+      "ranter"
+    ],
+    "A27331-e34330": [
+      "jenny"
+    ],
+    "A27331-e34360": [
+      "ranter"
+    ],
+    "A27331-e34390": [
+      "jenny"
+    ],
+    "A27331-e34420": [
+      "ranter"
+    ],
+    "A27331-e34480": [
+      "fearless"
+    ],
+    "A27331-e34520": [
+      "dareing"
+    ],
+    "A27331-e34550": [
+      "ranter"
+    ],
+    "A27331-e34600": [
+      "dareing"
+    ],
+    "A27331-e34640": [
+      "ranter"
+    ],
+    "A27331-e34670": [
+      "dareing"
+    ],
+    "A27331-e34700": [
+      "ranter"
+    ],
+    "A27331-e34740": [
+      "dareing"
+    ],
+    "A27331-e34770": [
+      "ranter"
+    ],
+    "A27331-e34820": [
+      "dareing"
+    ],
+    "A27331-e34850": [
+      "ranter"
+    ],
+    "A27331-e34880": [
+      "dareing"
+    ],
+    "A27331-e34910": [
+      "ranter"
+    ],
+    "A27331-e34970": [
+      "fearless"
+    ],
+    "A27331-e35030": [
+      "dareing"
+    ],
+    "A27331-e35060": [
+      "ranter"
+    ],
+    "A27331-e35090": [
+      "dareing"
+    ],
+    "A27331-e35190": [
+      "mrs-crisante"
+    ],
+    "A27331-e35230": [
+      "madam-surelove"
+    ],
+    "A27331-e35270": [
+      "mrs-crisante"
+    ],
+    "A27331-e35330": [
+      "dareing"
+    ],
+    "A27331-e35360": [
+      "ranter"
+    ],
+    "A27331-e35400": [
+      "mrs-crisante"
+    ],
+    "A27331-e35530": [
+      "ranter"
+    ],
+    "A27331-e35590": [
+      "dareing"
+    ],
+    "A27331-e35620": [
+      "mrs-crisante"
+    ],
+    "A27331-e35650": [
+      "dareing"
+    ],
+    "A27331-e35680": [
+      "ranter"
+    ],
+    "A27331-e35710": [
+      "dareing"
+    ],
+    "A27331-e35760": [
+      "fearless"
+    ],
+    "A27331-e35820": [
+      "mrs-crisante"
+    ],
+    "A27331-e35850": [
+      "dareing",
+      "ranter"
+    ],
+    "A27331-e35880": [
+      "ranter"
+    ],
+    "A27331-e35910": [
+      "dareing"
+    ],
+    "A27331-e35940": [
+      "fearless"
+    ],
+    "A27331-e35970": [
+      "dareing"
+    ],
+    "A27331-e36000": [
+      "fearless"
+    ],
+    "A27331-e36030": [
+      "dareing"
+    ],
+    "A27331-e36060": [
+      "ranter"
+    ],
+    "A27331-e36090": [
+      "dareing"
+    ],
+    "A27331-e36120": [
+      "ranter"
+    ],
+    "A27331-e36150": [
+      "dareing"
+    ],
+    "A27331-e36180": [
+      "ranter"
+    ],
+    "A27331-e36210": [
+      "dareing"
+    ],
+    "A27331-e36240": [
+      "ranter"
+    ],
+    "A27331-e36280": [
+      "dareing"
+    ],
+    "A27331-e36310": [
+      "ranter"
+    ],
+    "A27331-e36350": [
+      "dareing"
+    ],
+    "A27331-e36380": [
+      "ranter"
+    ],
+    "A27331-e36410": [
+      "dareing"
+    ],
+    "A27331-e36440": [
+      "ranter"
+    ],
+    "A27331-e36470": [
+      "madam-surelove"
+    ],
+    "A27331-e36500": [
+      "mrs-crisante"
+    ],
+    "A27331-e36530": [
+      "dareing"
+    ],
+    "A27331-e36560": [
+      "ranter"
+    ],
+    "A27331-e36590": [
+      "dareing"
+    ],
+    "A27331-e36620": [
+      "ranter"
+    ],
+    "A27331-e36690": [
+      "dareing"
+    ],
+    "A27331-e36730": [
+      "ranter"
+    ],
+    "A27331-e36760": [
+      "dareing"
+    ],
+    "A27331-e36790": [
+      "ranter"
+    ],
+    "A27331-e36910": [
+      "friendly"
+    ],
+    "A27331-e36940": [
+      "boozer"
+    ],
+    "A27331-e36980": [
+      "hazard"
+    ],
+    "A27331-e37010": [
+      "friendly"
+    ],
+    "A27331-e37040": [
+      "boozer"
+    ],
+    "A27331-e37100": [
+      "friendly"
+    ],
+    "A27331-e37130": [
+      "timerous-cornet"
+    ],
+    "A27331-e37160": [
+      "whimsey"
+    ],
+    "A27331-e37190": [
+      "timerous-cornet"
+    ],
+    "A27331-e37220": [
+      "dullman"
+    ],
+    "A27331-e37260": [
+      "friendly"
+    ],
+    "A27331-e37300": [
+      "timerous-cornet"
+    ],
+    "A27331-e37330": [
+      "whiff"
+    ],
+    "A27331-e37380": [
+      "friendly"
+    ],
+    "A27331-e37410": [
+      "whimsey"
+    ],
+    "A27331-e37440": [
+      "timerous-cornet"
+    ],
+    "A27331-e37470": [
+      "dullman"
+    ],
+    "A27331-e37500": [
+      "whiff"
+    ],
+    "A27331-e37530": [
+      "timerous-cornet"
+    ],
+    "A27331-e37560": [
+      "whimsey"
+    ],
+    "A27331-e37590": [
+      "friendly"
+    ],
+    "A27331-e37620": [
+      "timerous-cornet"
+    ],
+    "A27331-e37650": [
+      "friendly"
+    ],
+    "A27331-e37680": [
+      "whimsey"
+    ],
+    "A27331-e37710": [
+      "timerous-cornet"
+    ],
+    "A27331-e37740": [
+      "friendly"
+    ],
+    "A27331-e37780": [
+      "timerous-cornet"
+    ],
+    "A27331-e37820": [
+      "dullman"
+    ],
+    "A27331-e37860": [
+      "friendly"
+    ],
+    "A27331-e37900": [
+      "dullman"
+    ],
+    "A27331-e37950": [
+      "hazard"
+    ],
+    "A27331-e37980": [
+      "dullman"
+    ],
+    "A27331-e38030": [
+      "hazard"
+    ],
+    "A27331-e38060": [
+      "dullman"
+    ],
+    "A27331-e38090": [
+      "friendly"
+    ],
+    "A27331-e38150": [
+      "hazard"
+    ],
+    "A27331-e38180": [
+      "whiff"
+    ],
+    "A27331-e38210": [
+      "hazard"
+    ],
+    "A27331-e38240": [
+      "whiff"
+    ],
+    "A27331-e38280": [
+      "whimsey"
+    ],
+    "A27331-e38310": [
+      "timerous-cornet"
+    ],
+    "A27331-e38340": [
+      "hazard"
+    ],
+    "A27331-e38370": [
+      "dullman"
+    ],
+    "A27331-e38410": [
+      "hazard"
+    ],
+    "A27331-e38440": [
+      "timerous-cornet"
+    ],
+    "A27331-e38480": [
+      "whiff"
+    ],
+    "A27331-e38520": [
+      "hazard"
+    ],
+    "A27331-e38570": [
+      "whiff"
+    ],
+    "A27331-e38620": [
+      "alarm"
+    ],
+    "A27331-e38710": [
+      "dareing"
+    ],
+    "A27331-e38740": [
+      "friendly"
+    ],
+    "A27331-e38770": [
+      "dareing"
+    ],
+    "A27331-e38800": [
+      "friendly"
+    ],
+    "A27331-e38830": [
+      "dareing"
+    ],
+    "A27331-e38860": [
+      "friendly"
+    ],
+    "A27331-e38890": [
+      "dareing"
+    ],
+    "A27331-e38920": [
+      "friendly"
+    ],
+    "A27331-e38950": [
+      "dareing"
+    ],
+    "A27331-e38980": [
+      "friendly"
+    ],
+    "A27331-e39010": [
+      "dareing"
+    ],
+    "A27331-e39130": [
+      "soldier"
+    ],
+    "A27331-e39170": [
+      "bacon"
+    ],
+    "A27331-e39250": [
+      "colonel-wellman"
+    ],
+    "A27331-e39280": [
+      "brag"
+    ],
+    "A27331-e39310": [
+      "colonel-wellman"
+    ],
+    "A27331-e39360": [
+      "brag"
+    ],
+    "A27331-e39390": [
+      "colonel-wellman"
+    ],
+    "A27331-e39420": [
+      "brag"
+    ],
+    "A27331-e39460": [
+      "colonel-wellman"
+    ],
+    "A27331-e39510": [
+      "friendly"
+    ],
+    "A27331-e39540": [
+      "colonel-wellman"
+    ],
+    "A27331-e39570": [
+      "friendly"
+    ],
+    "A27331-e39610": [
+      "colonel-wellman"
+    ],
+    "A27331-e39640": [
+      "friendly"
+    ],
+    "A27331-e39680": [
+      "colonel-wellman"
+    ],
+    "A27331-e39760": [
+      "colonel-wellman"
+    ],
+    "A27331-e39790": [
+      "colonel-downright"
+    ],
+    "A27331-e39820": [
+      "timerous-cornet"
+    ],
+    "A27331-e39850": [
+      "whimsey"
+    ],
+    "A27331-e39880": [
+      "whiff"
+    ],
+    "A27331-e39920": [
+      "mrs-whiff"
+    ],
+    "A27331-e39950": [
+      "friendly"
+    ],
+    "A27331-e40000": [
+      "colonel-wellman"
+    ],
+    "A27331-e40040": [
+      "friendly"
+    ],
+    "A27331-e40070": [
+      "mrs-crisante"
+    ],
+    "A27331-e40110": [
+      "colonel-wellman"
+    ],
+    "A27331-e40140": [
+      "whiff"
+    ],
+    "A27331-e40170": [
+      "whimsey"
+    ],
+    "A27331-e40200": [
+      "timerous-cornet"
+    ],
+    "A27331-e40230": [
+      "colonel-wellman"
+    ],
+    "A27331-e40260": [
+      "dullman"
+    ],
+    "A27331-e40290": [
+      "colonel-wellman"
+    ],
+    "A27331-e40330": [
+      "timerous-cornet"
+    ],
+    "A27331-e40360": [
+      "whiff"
+    ],
+    "A27331-e40390": [
+      "whimsey"
+    ],
+    "A27331-e40480": [
+      "semernia"
+    ],
+    "A27331-e40520": [
+      "cavarnio"
+    ],
+    "A27331-e40550": [
+      "semernia"
+    ],
+    "A27331-e40590": [
+      "anaria"
+    ],
+    "A27331-e40620": [
+      "semernia"
+    ],
+    "A27331-e40650": [
+      "anaria"
+    ],
+    "A27331-e40680": [
+      "semernia"
+    ],
+    "A27331-e40710": [
+      "anaria"
+    ],
+    "A27331-e40740": [
+      "semernia"
+    ],
+    "A27331-e40790": [
+      "anaria"
+    ],
+    "A27331-e40820": [
+      "semernia"
+    ],
+    "A27331-e40850": [
+      "anaria"
+    ],
+    "A27331-e40880": [
+      "semernia"
+    ],
+    "A27331-e40980": [
+      "indian"
+    ],
+    "A27331-e41020": [
+      "cavarnio"
+    ],
+    "A27331-e41050": [
+      "semernia"
+    ],
+    "A27331-e41100": [
+      "bacon"
+    ],
+    "A27331-e41160": [
+      "semernia"
+    ],
+    "A27331-e41220": [
+      "bacon"
+    ],
+    "A27331-e41250": [
+      "semernia"
+    ],
+    "A27331-e41280": [
+      "bacon"
+    ],
+    "A27331-e41310": [
+      "semernia"
+    ],
+    "A27331-e41340": [
+      "bacon"
+    ],
+    "A27331-e41370": [
+      "semernia"
+    ],
+    "A27331-e41400": [
+      "bacon"
+    ],
+    "A27331-e41430": [
+      "semernia"
+    ],
+    "A27331-e41470": [
+      "bacon"
+    ],
+    "A27331-e41550": [
+      "fearless"
+    ],
+    "A27331-e41580": [
+      "bacon"
+    ],
+    "A27331-e41610": [
+      "fearless"
+    ],
+    "A27331-e41650": [
+      "bacon"
+    ],
+    "A27331-e41680": [
+      "semernia"
+    ],
+    "A27331-e41710": [
+      "fearless"
+    ],
+    "A27331-e41740": [
+      "bacon"
+    ],
+    "A27331-e41770": [
+      "semernia"
+    ],
+    "A27331-e41810": [
+      "bacon"
+    ],
+    "A27331-e41850": [
+      "bacon"
+    ],
+    "A27331-e41920": [
+      "colonel-wellman"
+    ],
+    "A27331-e41950": [
+      "colonel-downright"
+    ],
+    "A27331-e41980": [
+      "colonel-wellman"
+    ],
+    "A27331-e42050": [
+      "dareing"
+    ],
+    "A27331-e42090": [
+      "whimsey"
+    ],
+    "A27331-e42140": [
+      "dareing"
+    ],
+    "A27331-e42170": [
+      "whiff"
+    ],
+    "A27331-e42200": [
+      "fearless"
+    ],
+    "A27331-e42230": [
+      "whiff"
+    ],
+    "A27331-e42260": [
+      "whimsey"
+    ],
+    "A27331-e42290": [
+      "whiff"
+    ],
+    "A27331-e42320": [
+      "dareing"
+    ],
+    "A27331-e42410": [
+      "ranter"
+    ],
+    "A27331-e42480": [
+      "timerous-cornet"
+    ],
+    "A27331-e42550": [
+      "hazard"
+    ],
+    "A27331-e42580": [
+      "ranter"
+    ],
+    "A27331-e42620": [
+      "hazard"
+    ],
+    "A27331-e42660": [
+      "dullman"
+    ],
+    "A27331-e42700": [
+      "colonel-wellman"
+    ],
+    "A27331-e42800": [
+      "bacon"
+    ],
+    "A27331-e42830": [
+      "fearless"
+    ],
+    "A27331-e42860": [
+      "bacon"
+    ],
+    "A27331-e42920": [
+      "fearless"
+    ],
+    "A27331-e42960": [
+      "bacon"
+    ],
+    "A27331-e43060": [
+      "fearless"
+    ],
+    "A27331-e43090": [
+      "bacon"
+    ],
+    "A27331-e43140": [
+      "dareing"
+    ],
+    "A27331-e43170": [
+      "fearless"
+    ],
+    "A27331-e43200": [
+      "dareing"
+    ],
+    "A27331-e43230": [
+      "fearless"
+    ],
+    "A27331-e43260": [
+      "bacon"
+    ],
+    "A27331-e43300": [
+      "dareing"
+    ],
+    "A27331-e43330": [
+      "bacon"
+    ],
+    "A27331-e43380": [
+      "dareing"
+    ],
+    "A27331-e43450": [
+      "soldier"
+    ],
+    "A27331-e43480": [
+      "dareing"
+    ],
+    "A27331-e43540": [
+      "dullman"
+    ],
+    "A27331-e43570": [
+      "timerous-cornet"
+    ],
+    "A27331-e43600": [
+      "dareing"
+    ],
+    "A27331-e43670": [
+      "soldier"
+    ],
+    "A27331-e43750": [
+      "dareing"
+    ],
+    "A27331-e43780": [
+      "dullman"
+    ],
+    "A27331-e43810": [
+      "dareing"
+    ],
+    "A27331-e43840": [
+      "timerous-cornet"
+    ],
+    "A27331-e43890": [
+      "dullman"
+    ],
+    "A27331-e43930": [
+      "dareing"
+    ],
+    "A27331-e44080": [
+      "colonel-wellman"
+    ],
+    "A27331-e44120": [
+      "madam-surelove"
+    ],
+    "A27331-e44150": [
+      "colonel-wellman"
+    ],
+    "A27331-e44180": [
+      "hazard"
+    ],
+    "A27331-e44210": [
+      "madam-surelove"
+    ],
+    "A27331-e44260": [
+      "colonel-wellman"
+    ],
+    "A27331-e44290": [
+      "colonel-downright"
+    ],
+    "A27331-e44340": [
+      "friendly"
+    ],
+    "A27331-e44430": [
+      "dareing"
+    ],
+    "A27331-e44460": [
+      "colonel-wellman"
+    ],
+    "A27331-e44490": [
+      "dareing"
+    ],
+    "A27331-e44530": [
+      "hazard"
+    ],
+    "A27331-e44580": [
+      "ranter"
+    ],
+    "A27331-e44610": [
+      "dareing"
+    ],
+    "A27331-e44640": [
+      "madam-surelove",
+	  "colonel-wellman",
+	  "mrs-crisante",
+	  "mrs-flirt",
+	  "colonel-downright",
+	  "hazard",
+	  "friendly",
+	  "boozer",
+	  "brag",
+	  "fearless", 
+	  "parson-dunce"
+    ],
+    "A27331-e44680": [
+      "hazard"
+    ],
+    "A27331-e44710": [
+      "mrs-flirt"
+    ],
+    "A27331-e44740": [
+      "madam-surelove"
+    ],
+    "A27331-e44770": [
+      "mrs-flirt"
+    ],
+    "A27331-e44820": [
+      "colonel-downright"
+    ],
+    "A27331-e44860": [
+      "mrs-flirt"
+    ],
+    "A27331-e44890": [
+      "colonel-wellman"
+    ],
+    "A27331-e44930": [
+      "dullman"
+    ],
+    "A27331-e44960": [
+      "colonel-wellman"
+    ],
+    "A27331-e45030": [
+      "mrs-crisante"
+    ],
+    "A27331-e45060": [
+      "whimsey"
+    ],
+    "A27331-e45110": [
+      "fearless"
+    ],
+    "A27331-e45140": [
+      "colonel-downright"
+    ],
+    "A27331-e45170": [
+      "fearless"
+    ],
+    "A27331-e45200": [
+      "colonel-downright"
+    ],
+    "A27331-e45230": [
+      "whimsey"
+    ],
+    "A27331-e45260": [
+      "whiff"
+    ],
+    "A27331-e45290": [
+      "colonel-wellman"
+    ],
+    "A27331-e45320": [
+      "whimsey"
+    ],
+    "A27331-e45350": [
+      "whiff"
+    ],
+    "A27331-e45390": [
+      "dullman"
+    ],
+    "A27331-e45420": [
+      "timerous-cornet"
+    ],
+    "A27331-e45450": [
+      "colonel-wellman"
+    ]
+  }
+}
