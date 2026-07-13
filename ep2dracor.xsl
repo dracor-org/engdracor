@@ -10,7 +10,7 @@
   exclude-result-prefixes="ep d tei fn map"
   version="3.0">
 
-  <xsl:output method="xml" encoding="utf-8" omit-xml-declaration="yes" indent="yes"/>
+  <xsl:output method="xml" encoding="utf-8" omit-xml-declaration="no" indent="yes"/>
 
   <xsl:param name="authors" select="document('authors.xml')"/>
   <xsl:param name="index" select="document('index.xml')"/>
@@ -155,7 +155,7 @@
   </xsl:template>
 
   <xsl:template
-    match="tei:*[tei:w or tei:pc]"
+    match="tei:*[(tei:w or tei:pc) and local-name() ne ('fw')]"
   >
     <xsl:copy>
       <xsl:apply-templates select="@*|*"/>
@@ -163,7 +163,7 @@
   </xsl:template>
 
   <xsl:template match="tei:TEI">
-    <TEI xml:id="{$meta/@id}" xml:lang="eng">
+    <TEI type="dracor" xml:id="{$meta/@id}" xml:lang="en">
       <xsl:apply-templates/>
     </TEI>
   </xsl:template>
@@ -220,6 +220,24 @@
     </standOff>
   </xsl:template>
 
+  <!-- fix xml:lang -->
+  <xsl:template match="@xml:lang[. eq 'eng']">
+    <xsl:attribute name="xml:lang" select="'en'" />
+  </xsl:template>
+  <xsl:template match="@xml:lang[. eq 'ger']">
+    <xsl:attribute name="xml:lang" select="'de'" />
+  </xsl:template>
+  <xsl:template match="@xml:lang[. eq 'gre']">
+    <!-- the passages occurring are ancient Greek  -->
+    <xsl:attribute name="xml:lang" select="'grc'" />
+  </xsl:template>
+  <xsl:template match="@xml:lang[. eq 'fro']">
+    <xsl:attribute name="xml:lang" select="'fr'" />
+  </xsl:template>
+  <xsl:template match="@xml:lang[. eq 'lat']">
+    <xsl:attribute name="xml:lang" select="'la'" />
+  </xsl:template>
+
   <!-- strip facsimile information -->
   <xsl:template match="tei:facsimile|@facs" />
 
@@ -229,7 +247,12 @@
     <xsl:attribute name="xml:id" select="d:re-prefix(.)"/>
   </xsl:template>
 
-  <xsl:template match="tei:sp[@xml:id]">
+  <!--
+    Handle speeches: this adds @who attributes if there is a JSON files with
+    speaker attributions. Speeches containing only <stage> (and <pb>) element
+    are handled below.
+  -->
+  <xsl:template match="tei:sp[@xml:id and count(*) &gt; count(tei:stage|tei:pb)]">
     <xsl:copy>
       <xsl:choose>
         <xsl:when test="$speakersjson">
@@ -249,6 +272,11 @@
     </xsl:copy>
   </xsl:template>
 
+  <!-- strip tei:sp wrapping only tei:stage (and tei:pb) keeping the children -->
+  <xsl:template match="tei:sp[tei:stage and count(*) eq count(tei:stage|tei:pb)]">
+    <xsl:apply-templates select="tei:stage|tei:pb"/>
+  </xsl:template>
+
   <!-- fix @who references -->
   <xsl:template match="tei:sp/@who">
     <xsl:attribute
@@ -259,20 +287,27 @@
 
   <!-- strip machine generated castlist -->
   <xsl:template match="tei:div[@type='machine-generated_castlist']" />
-
   <!-- strip textual notes -->
   <xsl:template match="tei:div[@type='textual_notes']" />
+  <!-- strip empty back elements -->
+  <xsl:template match="tei:back[empty(* except (
+    tei:div[@type='machine-generated_castlist'],
+    tei:div[@type='textual_notes']
+  ))]"/>
+
+  <!-- strip forme work (fw) -->
+  <xsl:template match="tei:fw" />
 
   <xsl:template name="titles">
     <xsl:variable name="ep-title" select="//tei:xenoData/ep:epHeader/ep:title[1]"/>
     <xsl:choose>
       <xsl:when test="$meta/@title">
-        <title type="main">
+        <title>
           <xsl:value-of select="$meta/@title"/>
         </title>
       </xsl:when>
       <xsl:when test="$ep-title">
-        <title type="main">
+        <title>
           <xsl:value-of select="normalize-space($ep-title)"/>
         </title>
       </xsl:when>
@@ -341,33 +376,81 @@
       <publisher xml:id="dracor">DraCor</publisher>
       <idno type="URL">https://dracor.org/</idno>
       <availability>
-        <licence>
-          <ab>CC0 1.0</ab>
-          <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-        </licence>
+        <licence target="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</licence>
       </availability>
       <idno type="wikidata" xml:base="http://www.wikidata.org/entity/"></idno>
     </publicationStmt>
   </xsl:template>
 
   <xsl:template name="sourceDesc">
+    <!-- pick the biblFull from which to extract originalSource data -->
+    <xsl:variable name="orig">
+      <xsl:choose>
+        <xsl:when test="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull[@n eq 'printed source']">
+          <xsl:copy-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull[@n eq 'printed source'][1]"/>
+        </xsl:when>
+        <xsl:when test="count(//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull) = 1">
+          <xsl:copy-of select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull"/>
+        </xsl:when>
+      </xsl:choose>
+    </xsl:variable>
     <sourceDesc>
       <bibl type="digitalSource">
-        <name>EarlyPrint Project</name>
-        <idno type="URL">
-          <xsl:text>https://texts.earlyprint.org/works/</xsl:text>
-          <xsl:value-of select="$tcpid"/>
-          <xsl:text>.xml</xsl:text>
-        </idno>
-        <!-- FIXME: add source URL (Bitbucket or website?) -->
+        <ref>
+          <xsl:attribute name="target">
+            <xsl:text>https://bitbucket.org/eads004/</xsl:text>
+            <xsl:value-of select="lower-case(substring($tcpid, 1, 3))"/>
+            <xsl:text>/src/master/</xsl:text>
+            <xsl:value-of select="$tcpid"/>
+            <xsl:text>.xml</xsl:text>
+          </xsl:attribute>
+          <xsl:text>EarlyPrint TEI-XML source repositories</xsl:text>
+        </ref>
         <availability>
-          <!-- FIXME? -->
           <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/*"/>
         </availability>
       </bibl>
-      <!-- FIXME: originalSource? -->
+      <xsl:if test="$orig">
+        <bibl type="originalSource">
+          <xsl:apply-templates select="$orig/tei:biblFull/tei:titleStmt/tei:author" mode="trim"/>
+          <xsl:text> </xsl:text>
+          <xsl:apply-templates select="$orig/tei:biblFull/tei:titleStmt/tei:title[not(@type = 'alt')]"/>
+          <xsl:text> </xsl:text>
+          <xsl:apply-templates select="$orig/tei:biblFull/tei:publicationStmt/tei:publisher"/>
+          <xsl:text> </xsl:text>
+          <xsl:apply-templates select="$orig/tei:biblFull/tei:publicationStmt/(tei:pubPlace|tei:date[not(@type) or @type = 'publication_date'])" mode="trim"/>
+          <xsl:text> </xsl:text>
+        </bibl>
+      </xsl:if>
+      <bibl type="web">
+        <ref>
+          <xsl:attribute name="target">
+            <xsl:text>https://texts.earlyprint.org/works/</xsl:text>
+            <xsl:value-of select="$tcpid"/>
+            <xsl:text>.xml</xsl:text>
+          </xsl:attribute>
+          <xsl:text>texts.earlyprint.org</xsl:text>
+        </ref>
+      </bibl>
+      <!-- for now let's include the biblFull elements for reference -->
       <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull"/>
     </sourceDesc>
+  </xsl:template>
+
+  <xsl:template match="tei:biblFull/tei:titleStmt/tei:author" mode="trim">
+    <author>
+      <xsl:value-of select="replace(normalize-space(.), '(d\. [0-9]+|[-0-9]+)\.?$', '')"/>
+    </author>
+  </xsl:template>
+  <xsl:template match="tei:biblFull/tei:publicationStmt/tei:pubPlace" mode="trim">
+    <pubPlace>
+      <xsl:value-of select="replace(normalize-space(.), '\s*:$', '')"/>
+    </pubPlace>
+  </xsl:template>
+  <xsl:template match="tei:biblFull/tei:publicationStmt/tei:date" mode="trim">
+    <date>
+      <xsl:value-of select="replace(normalize-space(.), '\s*\.$', '')"/>
+    </date>
   </xsl:template>
 
   <xsl:template name="profileDesc">
