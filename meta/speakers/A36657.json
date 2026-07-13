@@ -1,0 +1,2386 @@
+{
+  "particDesc": [
+    {
+      "name": "Singer 3",
+      "id": "singer-3",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Singer 2",
+      "id": "singer-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Singer 1",
+      "id": "singer-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Captain",
+      "id": "captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Thebans",
+      "id": "thebans",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Theban 1",
+      "id": "theban-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Oracle",
+      "id": "oracle",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Crowd",
+      "id": "crowd",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Priest 2",
+      "id": "priest-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Priest 1",
+      "id": "priest-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen 3",
+      "id": "citizen-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen 2",
+      "id": "citizen-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen 1",
+      "id": "citizen-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "oedipus",
+      "name": "Oedipus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "adrastus",
+      "name": "Adrastus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "creon",
+      "name": "Creon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "tiresias",
+      "name": "Tiresias",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "haemon",
+      "name": "Haemon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "alcander",
+      "name": "Alcander",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "diocles",
+      "name": "Diocles",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pyracmon",
+      "name": "Pyracmon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "phorbas",
+      "name": "Phorbas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dymas",
+      "name": "Dymas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "aegeon",
+      "name": "Aegeon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ghost-of-lajus",
+      "name": "Ghost of Lajus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "jocasta",
+      "name": "Jocasta",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "eurydice",
+      "name": "Eurydice",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "manto",
+      "name": "Manto",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A36657-e1960": [
+      "alcander"
+    ],
+    "A36657-e2020": [
+      "diocles"
+    ],
+    "A36657-e2080": [
+      "pyracmon"
+    ],
+    "A36657-e2180": [
+      "alcander"
+    ],
+    "A36657-e2250": [
+      "diocles"
+    ],
+    "A36657-e2310": [
+      "pyracmon"
+    ],
+    "A36657-e2400": [
+      "diocles"
+    ],
+    "A36657-e2500": [
+      "alcander"
+    ],
+    "A36657-e2580": [
+      "creon"
+    ],
+    "A36657-e2670": [
+      "diocles"
+    ],
+    "A36657-e2730": [
+      "pyracmon"
+    ],
+    "A36657-e2760": [
+      "alcander"
+    ],
+    "A36657-e2820": [
+      "creon"
+    ],
+    "A36657-e2860": [
+      "diocles"
+    ],
+    "A36657-e2890": [
+      "creon"
+    ],
+    "A36657-e2920": [
+      "alcander"
+    ],
+    "A36657-e2980": [
+      "diocles"
+    ],
+    "A36657-e3010": [
+      "pyracmon"
+    ],
+    "A36657-e3040": [
+      "creon"
+    ],
+    "A36657-e3110": [
+      "diocles"
+    ],
+    "A36657-e3150": [
+      "alcander"
+    ],
+    "A36657-e3180": [
+      "pyracmon"
+    ],
+    "A36657-e3230": [
+      "creon"
+    ],
+    "A36657-e3340": [
+      "diocles"
+    ],
+    "A36657-e3410": [
+      "creon"
+    ],
+    "A36657-e3450": [
+      "diocles"
+    ],
+    "A36657-e3570": [
+      "creon"
+    ],
+    "A36657-e3630": [
+      "alcander"
+    ],
+    "A36657-e3660": [
+      "pyracmon"
+    ],
+    "A36657-e3690": [
+      "alcander"
+    ],
+    "A36657-e3720": [
+      "diocles"
+    ],
+    "A36657-e3780": [
+      "creon"
+    ],
+    "A36657-e3860": [
+      "alcander"
+    ],
+    "A36657-e3910": [
+      "creon"
+    ],
+    "A36657-e3990": [
+      "diocles"
+    ],
+    "A36657-e4060": [
+      "creon"
+    ],
+    "A36657-e4130": [
+      "eurydice"
+    ],
+    "A36657-e4230": [
+      "creon"
+    ],
+    "A36657-e4280": [
+      "eurydice"
+    ],
+    "A36657-e4310": [
+      "creon"
+    ],
+    "A36657-e4350": [
+      "eurydice"
+    ],
+    "A36657-e4390": [
+      "creon"
+    ],
+    "A36657-e4460": [
+      "eurydice"
+    ],
+    "A36657-e4510": [
+      "creon"
+    ],
+    "A36657-e4540": [
+      "eurydice"
+    ],
+    "A36657-e4570": [
+      "creon"
+    ],
+    "A36657-e4600": [
+      "eurydice"
+    ],
+    "A36657-e4660": [
+      "creon"
+    ],
+    "A36657-e4700": [
+      "eurydice"
+    ],
+    "A36657-e4740": [
+      "creon"
+    ],
+    "A36657-e4790": [
+      "eurydice"
+    ],
+    "A36657-e4930": [
+      "creon"
+    ],
+    "A36657-e5060": [
+      "eurydice"
+    ],
+    "A36657-e5170": [
+      "creon"
+    ],
+    "A36657-e5250": [
+      "eurydice"
+    ],
+    "A36657-e5290": [
+      "creon"
+    ],
+    "A36657-e5380": [
+      "eurydice"
+    ],
+    "A36657-e5490": [
+      "creon"
+    ],
+    "A36657-e5730": [
+      "tiresias"
+    ],
+    "A36657-e5820": [
+      "manto"
+    ],
+    "A36657-e5890": [
+      "tiresias"
+    ],
+    "A36657-e6040": [
+      "manto"
+    ],
+    "A36657-e6070": [
+      "tiresias"
+    ],
+    "A36657-e6170": [
+      "creon"
+    ],
+    "A36657-e6230": [
+      "citizen-1"
+    ],
+    "A36657-e6270": [
+      "citizen-2"
+    ],
+    "A36657-e6320": [
+      "crowd"
+    ],
+    "A36657-e6380": [
+      "creon"
+    ],
+    "A36657-e6410": [
+      "diocles"
+    ],
+    "A36657-e6440": [
+      "alcander"
+    ],
+    "A36657-e6480": [
+      "citizen-1"
+    ],
+    "A36657-e6510": [
+      "creon"
+    ],
+    "A36657-e6620": [
+      "citizen-3"
+    ],
+    "A36657-e6670": [
+      "creon"
+    ],
+    "A36657-e6710": [
+      "citizen-1"
+    ],
+    "A36657-e6740": [
+      "citizen-2"
+    ],
+    "A36657-e6810": [
+      "citizen-3"
+    ],
+    "A36657-e6850": [
+      "crowd"
+    ],
+    "A36657-e6880": [
+      "diocles"
+    ],
+    "A36657-e6920": [
+      "crowd"
+    ],
+    "A36657-e6980": [
+      "tiresias"
+    ],
+    "A36657-e7030": [
+      "citizen-1"
+    ],
+    "A36657-e7070": [
+      "tiresias"
+    ],
+    "A36657-e7100": [
+      "citizen-2"
+    ],
+    "A36657-e7150": [
+      "citizen-3"
+    ],
+    "A36657-e7190": [
+      "citizen-2"
+    ],
+    "A36657-e7240": [
+      "tiresias"
+    ],
+    "A36657-e7310": [
+      "citizen-1"
+    ],
+    "A36657-e7350": [
+      "citizen-3"
+    ],
+    "A36657-e7380": [
+      "citizen-2"
+    ],
+    "A36657-e7420": [
+      "citizen-1"
+    ],
+    "A36657-e7450": [
+      "citizen-3"
+    ],
+    "A36657-e7480": [
+      "citizen-2"
+    ],
+    "A36657-e7510": [
+      "tiresias"
+    ],
+    "A36657-e7590": [
+      "citizen-2"
+    ],
+    "A36657-e7630": [
+      "tiresias"
+    ],
+    "A36657-e7730": [
+      "citizen-2"
+    ],
+    "A36657-e7770": [
+      "creon"
+    ],
+    "A36657-e7810": [
+      "diocles"
+    ],
+    "A36657-e7890": [
+      "crowd"
+    ],
+    "A36657-e7920": [
+      "diocles"
+    ],
+    "A36657-e8060": [
+      "crowd"
+    ],
+    "A36657-e8110": [
+      "citizen-1"
+    ],
+    "A36657-e8140": [
+      "citizen-2"
+    ],
+    "A36657-e8170": [
+      "tiresias"
+    ],
+    "A36657-e8330": [
+      "diocles",
+      "alcander",
+      "pyracmon"
+    ],
+    "A36657-e8360": [
+      "tiresias"
+    ],
+    "A36657-e8520": [
+      "crowd"
+    ],
+    "A36657-e8560": [
+      "tiresias"
+    ],
+    "A36657-e8660": [
+      "citizen-1"
+    ],
+    "A36657-e8690": [
+      "tiresias"
+    ],
+    "A36657-e8770": [
+      "haemon"
+    ],
+    "A36657-e8870": [
+      "crowd"
+    ],
+    "A36657-e8910": [
+      "creon"
+    ],
+    "A36657-e9050": [
+      "tiresias"
+    ],
+    "A36657-e9200": [
+      "creon"
+    ],
+    "A36657-e9330": [
+      "oedipus"
+    ],
+    "A36657-e9480": [
+      "adrastus"
+    ],
+    "A36657-e9610": [
+      "creon"
+    ],
+    "A36657-e9640": [
+      "haemon"
+    ],
+    "A36657-e9690": [
+      "oedipus"
+    ],
+    "A36657-e9730": [
+      "adrastus"
+    ],
+    "A36657-e9840": [
+      "oedipus"
+    ],
+    "A36657-e9920": [
+      "adrastus"
+    ],
+    "A36657-e9950": [
+      "oedipus"
+    ],
+    "A36657-e10030": [
+      "adrastus"
+    ],
+    "A36657-e10090": [
+      "creon"
+    ],
+    "A36657-e10200": [
+      "oedipus"
+    ],
+    "A36657-e10260": [
+      "priest-1"
+    ],
+    "A36657-e10400": [
+      "oedipus"
+    ],
+    "A36657-e10470": [
+      "priest-1"
+    ],
+    "A36657-e10500": [
+      "oedipus"
+    ],
+    "A36657-e10620": [
+      "dymas"
+    ],
+    "A36657-e10690": [
+      "oracle"
+    ],
+    "A36657-e10770": [
+      "oedipus"
+    ],
+    "A36657-e10940": [
+      "priest-2"
+    ],
+    "A36657-e10970": [
+      "oedipus"
+    ],
+    "A36657-e11160": [
+      "priest-1"
+    ],
+    "A36657-e11210": [
+      "oedipus"
+    ],
+    "A36657-e11250": [
+      "priest-2"
+    ],
+    "A36657-e11290": [
+      "oedipus"
+    ],
+    "A36657-e11320": [
+      "priest-1"
+    ],
+    "A36657-e11390": [
+      "oedipus"
+    ],
+    "A36657-e11430": [
+      "priest-2"
+    ],
+    "A36657-e11500": [
+      "oedipus"
+    ],
+    "A36657-e11580": [
+      "priest-1"
+    ],
+    "A36657-e11610": [
+      "oedipus"
+    ],
+    "A36657-e11820": [
+      "priest-1",
+      "priest-2"
+    ],
+    "A36657-e11870": [
+      "jocasta"
+    ],
+    "A36657-e11920": [
+      "priest-1",
+      "priest-2"
+    ],
+    "A36657-e11950": [
+      "oedipus"
+    ],
+    "A36657-e12010": [
+      "jocasta"
+    ],
+    "A36657-e12040": [
+      "oedipus"
+    ],
+    "A36657-e12110": [
+      "jocasta"
+    ],
+    "A36657-e12180": [
+      "oedipus"
+    ],
+    "A36657-e12240": [
+      "jocasta"
+    ],
+    "A36657-e12270": [
+      "oedipus"
+    ],
+    "A36657-e12310": [
+      "jocasta"
+    ],
+    "A36657-e12370": [
+      "oedipus"
+    ],
+    "A36657-e12400": [
+      "jocasta"
+    ],
+    "A36657-e12430": [
+      "oedipus"
+    ],
+    "A36657-e12490": [
+      "jocasta"
+    ],
+    "A36657-e12600": [
+      "oedipus"
+    ],
+    "A36657-e12650": [
+      "jocasta"
+    ],
+    "A36657-e12730": [
+      "oedipus"
+    ],
+    "A36657-e12770": [
+      "jocasta"
+    ],
+    "A36657-e12810": [
+      "oedipus"
+    ],
+    "A36657-e12910": [
+      "jocasta"
+    ],
+    "A36657-e12970": [
+      "oedipus"
+    ],
+    "A36657-e13030": [
+      "jocasta"
+    ],
+    "A36657-e13060": [
+      "oedipus"
+    ],
+    "A36657-e13180": [
+      "haemon"
+    ],
+    "A36657-e13310": [
+      "pyracmon"
+    ],
+    "A36657-e13410": [
+      "haemon"
+    ],
+    "A36657-e13530": [
+      "pyracmon"
+    ],
+    "A36657-e13590": [
+      "alcander"
+    ],
+    "A36657-e13640": [
+      "haemon"
+    ],
+    "A36657-e13710": [
+      "oedipus"
+    ],
+    "A36657-e13870": [
+      "adrastus"
+    ],
+    "A36657-e13910": [
+      "oedipus"
+    ],
+    "A36657-e14140": [
+      "adrastus"
+    ],
+    "A36657-e14230": [
+      "alcander"
+    ],
+    "A36657-e14260": [
+      "adrastus"
+    ],
+    "A36657-e14310": [
+      "jocasta"
+    ],
+    "A36657-e14390": [
+      "oedipus"
+    ],
+    "A36657-e14540": [
+      "jocasta"
+    ],
+    "A36657-e14680": [
+      "oedipus"
+    ],
+    "A36657-e14710": [
+      "jocasta"
+    ],
+    "A36657-e14790": [
+      "oedipus"
+    ],
+    "A36657-e14820": [
+      "jocasta"
+    ],
+    "A36657-e14850": [
+      "oedipus"
+    ],
+    "A36657-e14970": [
+      "jocasta"
+    ],
+    "A36657-e15000": [
+      "oedipus"
+    ],
+    "A36657-e15140": [
+      "creon"
+    ],
+    "A36657-e15190": [
+      "oedipus"
+    ],
+    "A36657-e15450": [
+      "tiresias"
+    ],
+    "A36657-e15950": [
+      "tiresias"
+    ],
+    "A36657-e16090": [
+      "oedipus"
+    ],
+    "A36657-e16220": [
+      "tiresias"
+    ],
+    "A36657-e16270": [
+      "oedipus"
+    ],
+    "A36657-e16300": [
+      "creon"
+    ],
+    "A36657-e16420": [
+      "oedipus"
+    ],
+    "A36657-e16460": [
+      "creon"
+    ],
+    "A36657-e16590": [
+      "oedipus"
+    ],
+    "A36657-e16630": [
+      "eurydice"
+    ],
+    "A36657-e16720": [
+      "adrastus"
+    ],
+    "A36657-e16800": [
+      "oedipus"
+    ],
+    "A36657-e16840": [
+      "adrastus"
+    ],
+    "A36657-e16900": [
+      "oedipus"
+    ],
+    "A36657-e16940": [
+      "creon"
+    ],
+    "A36657-e17070": [
+      "eurydice"
+    ],
+    "A36657-e17160": [
+      "adrastus"
+    ],
+    "A36657-e17270": [
+      "creon"
+    ],
+    "A36657-e17360": [
+      "theban-1"
+    ],
+    "A36657-e17390": [
+      "thebans"
+    ],
+    "A36657-e17420": [
+      "oedipus"
+    ],
+    "A36657-e17470": [
+      "theban-1"
+    ],
+    "A36657-e17500": [
+      "oedipus"
+    ],
+    "A36657-e17540": [
+      "tiresias"
+    ],
+    "A36657-e17650": [
+      "oedipus"
+    ],
+    "A36657-e17700": [
+      "tiresias"
+    ],
+    "A36657-e17950": [
+      "oedipus"
+    ],
+    "A36657-e18020": [
+      "jocasta"
+    ],
+    "A36657-e18110": [
+      "oedipus"
+    ],
+    "A36657-e18200": [
+      "pyracmon"
+    ],
+    "A36657-e18230": [
+      "oedipus"
+    ],
+    "A36657-e18270": [
+      "creon"
+    ],
+    "A36657-e18300": [
+      "oedipus"
+    ],
+    "A36657-e18420": [
+      "creon"
+    ],
+    "A36657-e18510": [
+      "alcander"
+    ],
+    "A36657-e18550": [
+      "creon"
+    ],
+    "A36657-e18610": [
+      "pyracmon"
+    ],
+    "A36657-e18690": [
+      "alcander"
+    ],
+    "A36657-e18750": [
+      "creon"
+    ],
+    "A36657-e18860": [
+      "haemon"
+    ],
+    "A36657-e18910": [
+      "creon"
+    ],
+    "A36657-e19030": [
+      "oedipus"
+    ],
+    "A36657-e19410": [
+      "oedipus"
+    ],
+    "A36657-e19550": [
+      "jocasta"
+    ],
+    "A36657-e19640": [
+      "oedipus"
+    ],
+    "A36657-e19770": [
+      "jocasta"
+    ],
+    "A36657-e19880": [
+      "oedipus"
+    ],
+    "A36657-e19920": [
+      "jocasta"
+    ],
+    "A36657-e20010": [
+      "oedipus"
+    ],
+    "A36657-e20180": [
+      "ghost-of-lajus"
+    ],
+    "A36657-e20220": [
+      "oedipus"
+    ],
+    "A36657-e20260": [
+      "jocasta"
+    ],
+    "A36657-e20290": [
+      "ghost-of-lajus"
+    ],
+    "A36657-e20330": [
+      "jocasta"
+    ],
+    "A36657-e20360": [
+      "oedipus"
+    ],
+    "A36657-e20540": [
+      "creon"
+    ],
+    "A36657-e20570": [
+      "diocles"
+    ],
+    "A36657-e20600": [
+      "creon"
+    ],
+    "A36657-e20670": [
+      "diocles"
+    ],
+    "A36657-e20700": [
+      "creon"
+    ],
+    "A36657-e20760": [
+      "diocles"
+    ],
+    "A36657-e20790": [
+      "creon"
+    ],
+    "A36657-e20870": [
+      "diocles"
+    ],
+    "A36657-e20900": [
+      "creon"
+    ],
+    "A36657-e21000": [
+      "diocles"
+    ],
+    "A36657-e21040": [
+      "creon"
+    ],
+    "A36657-e21090": [
+      "diocles"
+    ],
+    "A36657-e21160": [
+      "creon"
+    ],
+    "A36657-e21190": [
+      "diocles"
+    ],
+    "A36657-e21240": [
+      "creon"
+    ],
+    "A36657-e21270": [
+      "diocles"
+    ],
+    "A36657-e21310": [
+      "creon"
+    ],
+    "A36657-e21390": [
+      "eurydice"
+    ],
+    "A36657-e21420": [
+      "creon"
+    ],
+    "A36657-e21460": [
+      "eurydice"
+    ],
+    "A36657-e21510": [
+      "creon"
+    ],
+    "A36657-e21670": [
+      "eurydice"
+    ],
+    "A36657-e21710": [
+      "creon"
+    ],
+    "A36657-e21810": [
+      "eurydice"
+    ],
+    "A36657-e21910": [
+      "creon"
+    ],
+    "A36657-e21950": [
+      "eurydice"
+    ],
+    "A36657-e22000": [
+      "diocles"
+    ],
+    "A36657-e22030": [
+      "eurydice"
+    ],
+    "A36657-e22090": [
+      "diocles"
+    ],
+    "A36657-e22120": [
+      "eurydice"
+    ],
+    "A36657-e22180": [
+      "creon"
+    ],
+    "A36657-e22220": [
+      "eurydice"
+    ],
+    "A36657-e22250": [
+      "diocles"
+    ],
+    "A36657-e22280": [
+      "eurydice"
+    ],
+    "A36657-e22320": [
+      "creon"
+    ],
+    "A36657-e22390": [
+      "eurydice"
+    ],
+    "A36657-e22420": [
+      "creon"
+    ],
+    "A36657-e22470": [
+      "eurydice"
+    ],
+    "A36657-e22500": [
+      "creon"
+    ],
+    "A36657-e22540": [
+      "eurydice"
+    ],
+    "A36657-e22570": [
+      "creon"
+    ],
+    "A36657-e22630": [
+      "eurydice"
+    ],
+    "A36657-e22670": [
+      "creon"
+    ],
+    "A36657-e22820": [
+      "eurydice"
+    ],
+    "A36657-e22950": [
+      "diocles"
+    ],
+    "A36657-e22980": [
+      "eurydice"
+    ],
+    "A36657-e23070": [
+      "adrastus"
+    ],
+    "A36657-e23180": [
+      "creon"
+    ],
+    "A36657-e23230": [
+      "diocles"
+    ],
+    "A36657-e23260": [
+      "creon"
+    ],
+    "A36657-e23290": [
+      "adrastus"
+    ],
+    "A36657-e23320": [
+      "creon"
+    ],
+    "A36657-e23430": [
+      "adrastus"
+    ],
+    "A36657-e23480": [
+      "diocles"
+    ],
+    "A36657-e23510": [
+      "adrastus"
+    ],
+    "A36657-e23610": [
+      "creon"
+    ],
+    "A36657-e23640": [
+      "diocles"
+    ],
+    "A36657-e23670": [
+      "creon"
+    ],
+    "A36657-e23710": [
+      "adrastus"
+    ],
+    "A36657-e23780": [
+      "eurydice"
+    ],
+    "A36657-e23840": [
+      "creon"
+    ],
+    "A36657-e23890": [
+      "eurydice"
+    ],
+    "A36657-e23920": [
+      "creon"
+    ],
+    "A36657-e23950": [
+      "diocles"
+    ],
+    "A36657-e23980": [
+      "creon"
+    ],
+    "A36657-e24050": [
+      "adrastus"
+    ],
+    "A36657-e24080": [
+      "diocles"
+    ],
+    "A36657-e24110": [
+      "adrastus"
+    ],
+    "A36657-e24160": [
+      "creon"
+    ],
+    "A36657-e24200": [
+      "adrastus"
+    ],
+    "A36657-e24240": [
+      "diocles"
+    ],
+    "A36657-e24270": [
+      "creon"
+    ],
+    "A36657-e24310": [
+      "adrastus"
+    ],
+    "A36657-e24350": [
+      "creon"
+    ],
+    "A36657-e24390": [
+      "eurydice"
+    ],
+    "A36657-e24440": [
+      "creon"
+    ],
+    "A36657-e24470": [
+      "eurydice"
+    ],
+    "A36657-e24500": [
+      "creon"
+    ],
+    "A36657-e24550": [
+      "adrastus"
+    ],
+    "A36657-e24580": [
+      "creon"
+    ],
+    "A36657-e24690": [
+      "adrastus"
+    ],
+    "A36657-e24850": [
+      "creon"
+    ],
+    "A36657-e24920": [
+      "eurydice"
+    ],
+    "A36657-e24970": [
+      "haemon"
+    ],
+    "A36657-e25110": [
+      "adrastus"
+    ],
+    "A36657-e25150": [
+      "haemon"
+    ],
+    "A36657-e25250": [
+      "creon"
+    ],
+    "A36657-e25290": [
+      "adrastus"
+    ],
+    "A36657-e25340": [
+      "haemon"
+    ],
+    "A36657-e25470": [
+      "adrastus"
+    ],
+    "A36657-e25500": [
+      "eurydice"
+    ],
+    "A36657-e25530": [
+      "haemon"
+    ],
+    "A36657-e25660": [
+      "tiresias"
+    ],
+    "A36657-e25730": [
+      "eurydice"
+    ],
+    "A36657-e25780": [
+      "tiresias"
+    ],
+    "A36657-e25900": [
+      "eurydice"
+    ],
+    "A36657-e25930": [
+      "tiresias"
+    ],
+    "A36657-e25960": [
+      "adrastus"
+    ],
+    "A36657-e26070": [
+      "tiresias"
+    ],
+    "A36657-e26170": [
+      "priest-1"
+    ],
+    "A36657-e26200": [
+      "tiresias"
+    ],
+    "A36657-e26300": [
+      "priest-1",
+      "priest-2"
+    ],
+    "A36657-e26330": [
+      "tiresias"
+    ],
+    "A36657-e26430": [
+      "priest-1",
+      "priest-2"
+    ],
+    "A36657-e26460": [
+      "tiresias"
+    ],
+    "A36657-e26570": [
+      "priest-1",
+      "priest-2"
+    ],
+    "A36657-e26610": [
+      "manto"
+    ],
+    "A36657-e26640": [
+      "tiresias"
+    ],
+    "A36657-e26690": [
+      "manto"
+    ],
+    "A36657-e26740": [
+      "tiresias"
+    ],
+    "A36657-e26830": [
+      "singer-1"
+    ],
+    "A36657-e26870": [
+      "singer-2"
+    ],
+    "A36657-e26910": [
+      "singer-3"
+    ],
+    "A36657-e26940": [
+      "singer-1"
+    ],
+    "A36657-e26990": [
+      "singer-2"
+    ],
+    "A36657-e27020": [
+      "singer-3"
+    ],
+    "A36657-e27050": [
+      "singer-1"
+    ],
+    "A36657-e27120": [
+      "chorus"
+    ],
+    "A36657-e27160": [
+      "singer-1"
+    ],
+    "A36657-e27210": [
+      "singer-2"
+    ],
+    "A36657-e27240": [
+      "singer-3"
+    ],
+    "A36657-e27310": [
+      "singer-1"
+    ],
+    "A36657-e27380": [
+      "chorus"
+    ],
+    "A36657-e27430": [
+      "singer-1"
+    ],
+    "A36657-e27460": [
+      "singer-2"
+    ],
+    "A36657-e27490": [
+      "singer-3"
+    ],
+    "A36657-e27520": [
+      "singer-1"
+    ],
+    "A36657-e27550": [
+      "singer-2"
+    ],
+    "A36657-e27580": [
+      "singer-3"
+    ],
+    "A36657-e27610": [
+      "tiresias"
+    ],
+    "A36657-e27650": [
+      "chorus"
+    ],
+    "A36657-e27690": [
+      "tiresias"
+    ],
+    "A36657-e27730": [
+      "chorus"
+    ],
+    "A36657-e27770": [
+      "tiresias"
+    ],
+    "A36657-e27810": [
+      "chorus"
+    ],
+    "A36657-e27850": [
+      "tiresias"
+    ],
+    "A36657-e27960": [
+      "ghost-of-lajus"
+    ],
+    "A36657-e28090": [
+      "tiresias"
+    ],
+    "A36657-e28150": [
+      "ghost-of-lajus"
+    ],
+    "A36657-e28180": [
+      "tiresias"
+    ],
+    "A36657-e28210": [
+      "ghost-of-lajus"
+    ],
+    "A36657-e28520": [
+      "oedipus"
+    ],
+    "A36657-e28600": [
+      "tiresias"
+    ],
+    "A36657-e28630": [
+      "oedipus"
+    ],
+    "A36657-e28690": [
+      "adrastus"
+    ],
+    "A36657-e28730": [
+      "eurydice"
+    ],
+    "A36657-e28770": [
+      "tiresias"
+    ],
+    "A36657-e28800": [
+      "oedipus"
+    ],
+    "A36657-e28900": [
+      "tiresias"
+    ],
+    "A36657-e28930": [
+      "oedipus"
+    ],
+    "A36657-e29060": [
+      "tiresias"
+    ],
+    "A36657-e29090": [
+      "oedipus"
+    ],
+    "A36657-e29130": [
+      "tiresias"
+    ],
+    "A36657-e29160": [
+      "oedipus"
+    ],
+    "A36657-e29200": [
+      "tiresias"
+    ],
+    "A36657-e29250": [
+      "oedipus"
+    ],
+    "A36657-e29310": [
+      "tiresias"
+    ],
+    "A36657-e29370": [
+      "oedipus"
+    ],
+    "A36657-e29430": [
+      "tiresias"
+    ],
+    "A36657-e29530": [
+      "oedipus"
+    ],
+    "A36657-e29580": [
+      "tiresias"
+    ],
+    "A36657-e29610": [
+      "oedipus"
+    ],
+    "A36657-e29640": [
+      "tiresias"
+    ],
+    "A36657-e29670": [
+      "oedipus"
+    ],
+    "A36657-e29750": [
+      "tiresias"
+    ],
+    "A36657-e29800": [
+      "oedipus"
+    ],
+    "A36657-e29830": [
+      "tiresias"
+    ],
+    "A36657-e29890": [
+      "oedipus"
+    ],
+    "A36657-e29950": [
+      "adrastus"
+    ],
+    "A36657-e29980": [
+      "oedipus"
+    ],
+    "A36657-e30030": [
+      "creon"
+    ],
+    "A36657-e30100": [
+      "oedipus"
+    ],
+    "A36657-e30130": [
+      "creon"
+    ],
+    "A36657-e30160": [
+      "oedipus"
+    ],
+    "A36657-e30200": [
+      "eurydice"
+    ],
+    "A36657-e30230": [
+      "creon"
+    ],
+    "A36657-e30260": [
+      "adrastus"
+    ],
+    "A36657-e30300": [
+      "creon"
+    ],
+    "A36657-e30330": [
+      "adrastus"
+    ],
+    "A36657-e30360": [
+      "creon"
+    ],
+    "A36657-e30390": [
+      "oedipus"
+    ],
+    "A36657-e30440": [
+      "adrastus"
+    ],
+    "A36657-e30470": [
+      "oedipus"
+    ],
+    "A36657-e30580": [
+      "tiresias"
+    ],
+    "A36657-e30860": [
+      "jocasta"
+    ],
+    "A36657-e30890": [
+      "oedipus"
+    ],
+    "A36657-e30930": [
+      "jocasta"
+    ],
+    "A36657-e30960": [
+      "oedipus"
+    ],
+    "A36657-e31000": [
+      "jocasta"
+    ],
+    "A36657-e31030": [
+      "oedipus"
+    ],
+    "A36657-e31080": [
+      "jocasta"
+    ],
+    "A36657-e31120": [
+      "oedipus"
+    ],
+    "A36657-e31240": [
+      "jocasta"
+    ],
+    "A36657-e31270": [
+      "oedipus"
+    ],
+    "A36657-e31300": [
+      "jocasta"
+    ],
+    "A36657-e31330": [
+      "oedipus"
+    ],
+    "A36657-e31360": [
+      "jocasta"
+    ],
+    "A36657-e31390": [
+      "oedipus"
+    ],
+    "A36657-e31420": [
+      "jocasta"
+    ],
+    "A36657-e31450": [
+      "oedipus"
+    ],
+    "A36657-e31550": [
+      "jocasta"
+    ],
+    "A36657-e31620": [
+      "oedipus"
+    ],
+    "A36657-e31650": [
+      "jocasta"
+    ],
+    "A36657-e31770": [
+      "oedipus"
+    ],
+    "A36657-e31820": [
+      "jocasta"
+    ],
+    "A36657-e31850": [
+      "oedipus"
+    ],
+    "A36657-e31910": [
+      "jocasta"
+    ],
+    "A36657-e31940": [
+      "oedipus"
+    ],
+    "A36657-e31970": [
+      "jocasta"
+    ],
+    "A36657-e32000": [
+      "oedipus"
+    ],
+    "A36657-e32050": [
+      "jocasta"
+    ],
+    "A36657-e32080": [
+      "oedipus"
+    ],
+    "A36657-e32110": [
+      "jocasta"
+    ],
+    "A36657-e32180": [
+      "oedipus"
+    ],
+    "A36657-e32210": [
+      "jocasta"
+    ],
+    "A36657-e32250": [
+      "oedipus"
+    ],
+    "A36657-e32280": [
+      "jocasta"
+    ],
+    "A36657-e32310": [
+      "oedipus"
+    ],
+    "A36657-e32370": [
+      "jocasta"
+    ],
+    "A36657-e32450": [
+      "oedipus"
+    ],
+    "A36657-e32490": [
+      "jocasta"
+    ],
+    "A36657-e32520": [
+      "oedipus"
+    ],
+    "A36657-e32570": [
+      "jocasta"
+    ],
+    "A36657-e32610": [
+      "oedipus"
+    ],
+    "A36657-e32650": [
+      "jocasta"
+    ],
+    "A36657-e32710": [
+      "oedipus"
+    ],
+    "A36657-e32750": [
+      "jocasta"
+    ],
+    "A36657-e32780": [
+      "oedipus"
+    ],
+    "A36657-e32930": [
+      "jocasta"
+    ],
+    "A36657-e32960": [
+      "oedipus"
+    ],
+    "A36657-e33050": [
+      "jocasta"
+    ],
+    "A36657-e33080": [
+      "oedipus"
+    ],
+    "A36657-e33150": [
+      "jocasta"
+    ],
+    "A36657-e33180": [
+      "oedipus"
+    ],
+    "A36657-e33370": [
+      "jocasta"
+    ],
+    "A36657-e33450": [
+      "oedipus"
+    ],
+    "A36657-e33610": [
+      "pyracmon"
+    ],
+    "A36657-e33690": [
+      "creon"
+    ],
+    "A36657-e33870": [
+      "pyracmon"
+    ],
+    "A36657-e33910": [
+      "creon"
+    ],
+    "A36657-e34200": [
+      "pyracmon"
+    ],
+    "A36657-e34250": [
+      "creon"
+    ],
+    "A36657-e34380": [
+      "oedipus"
+    ],
+    "A36657-e34440": [
+      "jocasta"
+    ],
+    "A36657-e34560": [
+      "oedipus"
+    ],
+    "A36657-e34650": [
+      "jocasta"
+    ],
+    "A36657-e34700": [
+      "oedipus"
+    ],
+    "A36657-e34770": [
+      "jocasta"
+    ],
+    "A36657-e34880": [
+      "oedipus"
+    ],
+    "A36657-e34950": [
+      "ghost-of-lajus"
+    ],
+    "A36657-e34990": [
+      "oedipus"
+    ],
+    "A36657-e35240": [
+      "creon"
+    ],
+    "A36657-e35270": [
+      "oedipus"
+    ],
+    "A36657-e35370": [
+      "creon"
+    ],
+    "A36657-e35540": [
+      "oedipus"
+    ],
+    "A36657-e35680": [
+      "adrastus"
+    ],
+    "A36657-e35840": [
+      "oedipus"
+    ],
+    "A36657-e35890": [
+      "adrastus"
+    ],
+    "A36657-e35940": [
+      "oedipus"
+    ],
+    "A36657-e36020": [
+      "alcander"
+    ],
+    "A36657-e36090": [
+      "thebans"
+    ],
+    "A36657-e36120": [
+      "oedipus"
+    ],
+    "A36657-e36300": [
+      "adrastus"
+    ],
+    "A36657-e36340": [
+      "oedipus"
+    ],
+    "A36657-e36470": [
+      "tiresias"
+    ],
+    "A36657-e36600": [
+      "oedipus"
+    ],
+    "A36657-e36690": [
+      "tiresias"
+    ],
+    "A36657-e36730": [
+      "oedipus"
+    ],
+    "A36657-e36760": [
+      "haemon"
+    ],
+    "A36657-e36880": [
+      "oedipus"
+    ],
+    "A36657-e36930": [
+      "haemon"
+    ],
+    "A36657-e37000": [
+      "jocasta"
+    ],
+    "A36657-e37090": [
+      "oedipus"
+    ],
+    "A36657-e37130": [
+      "jocasta"
+    ],
+    "A36657-e37280": [
+      "oedipus"
+    ],
+    "A36657-e37400": [
+      "jocasta"
+    ],
+    "A36657-e37510": [
+      "oedipus"
+    ],
+    "A36657-e37580": [
+      "aegeon"
+    ],
+    "A36657-e37630": [
+      "oedipus"
+    ],
+    "A36657-e37710": [
+      "aegeon"
+    ],
+    "A36657-e37810": [
+      "oedipus"
+    ],
+    "A36657-e38000": [
+      "tiresias"
+    ],
+    "A36657-e38030": [
+      "oedipus"
+    ],
+    "A36657-e38220": [
+      "tiresias"
+    ],
+    "A36657-e38260": [
+      "aegeon"
+    ],
+    "A36657-e38320": [
+      "oedipus"
+    ],
+    "A36657-e38350": [
+      "aegeon"
+    ],
+    "A36657-e38400": [
+      "oedipus"
+    ],
+    "A36657-e38440": [
+      "aegeon"
+    ],
+    "A36657-e38510": [
+      "oedipus"
+    ],
+    "A36657-e38650": [
+      "jocasta"
+    ],
+    "A36657-e38690": [
+      "oedipus"
+    ],
+    "A36657-e38760": [
+      "aegeon"
+    ],
+    "A36657-e38830": [
+      "oedipus"
+    ],
+    "A36657-e38880": [
+      "aegeon"
+    ],
+    "A36657-e38910": [
+      "oedipus"
+    ],
+    "A36657-e39040": [
+      "aegeon"
+    ],
+    "A36657-e39090": [
+      "oedipus"
+    ],
+    "A36657-e39120": [
+      "aegeon"
+    ],
+    "A36657-e39170": [
+      "oedipus"
+    ],
+    "A36657-e39250": [
+      "aegeon"
+    ],
+    "A36657-e39290": [
+      "oedipus"
+    ],
+    "A36657-e39340": [
+      "aegeon"
+    ],
+    "A36657-e39380": [
+      "oedipus"
+    ],
+    "A36657-e39520": [
+      "aegeon"
+    ],
+    "A36657-e39590": [
+      "oedipus"
+    ],
+    "A36657-e39650": [
+      "aegeon"
+    ],
+    "A36657-e39700": [
+      "oedipus"
+    ],
+    "A36657-e39800": [
+      "aegeon"
+    ],
+    "A36657-e39880": [
+      "oedipus"
+    ],
+    "A36657-e39980": [
+      "aegeon"
+    ],
+    "A36657-e40150": [
+      "oedipus"
+    ],
+    "A36657-e40180": [
+      "aegeon"
+    ],
+    "A36657-e40240": [
+      "oedipus"
+    ],
+    "A36657-e40280": [
+      "aegeon"
+    ],
+    "A36657-e40330": [
+      "jocasta"
+    ],
+    "A36657-e40410": [
+      "oedipus"
+    ],
+    "A36657-e40480": [
+      "tiresias"
+    ],
+    "A36657-e40550": [
+      "oedipus"
+    ],
+    "A36657-e40640": [
+      "jocasta"
+    ],
+    "A36657-e40700": [
+      "oedipus"
+    ],
+    "A36657-e40780": [
+      "jocasta"
+    ],
+    "A36657-e40910": [
+      "oedipus"
+    ],
+    "A36657-e40990": [
+      "jocasta"
+    ],
+    "A36657-e41110": [
+      "oedipus"
+    ],
+    "A36657-e41200": [
+      "jocasta"
+    ],
+    "A36657-e41390": [
+      "oedipus"
+    ],
+    "A36657-e41600": [
+      "haemon"
+    ],
+    "A36657-e41630": [
+      "oedipus"
+    ],
+    "A36657-e41670": [
+      "aegeon"
+    ],
+    "A36657-e41720": [
+      "oedipus"
+    ],
+    "A36657-e41820": [
+      "phorbas"
+    ],
+    "A36657-e41860": [
+      "oedipus"
+    ],
+    "A36657-e41890": [
+      "phorbas"
+    ],
+    "A36657-e41950": [
+      "oedipus"
+    ],
+    "A36657-e41990": [
+      "phorbas"
+    ],
+    "A36657-e42040": [
+      "oedipus"
+    ],
+    "A36657-e42150": [
+      "phorbas"
+    ],
+    "A36657-e42180": [
+      "oedipus"
+    ],
+    "A36657-e42220": [
+      "phorbas"
+    ],
+    "A36657-e42250": [
+      "oedipus"
+    ],
+    "A36657-e42330": [
+      "phorbas"
+    ],
+    "A36657-e42370": [
+      "aegeon"
+    ],
+    "A36657-e42470": [
+      "phorbas"
+    ],
+    "A36657-e42530": [
+      "aegeon"
+    ],
+    "A36657-e42570": [
+      "phorbas"
+    ],
+    "A36657-e42610": [
+      "oedipus"
+    ],
+    "A36657-e42660": [
+      "phorbas"
+    ],
+    "A36657-e42690": [
+      "oedipus"
+    ],
+    "A36657-e42740": [
+      "phorbas"
+    ],
+    "A36657-e42780": [
+      "oedipus"
+    ],
+    "A36657-e42810": [
+      "phorbas"
+    ],
+    "A36657-e42840": [
+      "oedipus"
+    ],
+    "A36657-e42870": [
+      "phorbas"
+    ],
+    "A36657-e42920": [
+      "oedipus"
+    ],
+    "A36657-e42970": [
+      "phorbas"
+    ],
+    "A36657-e43010": [
+      "oedipus"
+    ],
+    "A36657-e43040": [
+      "phorbas"
+    ],
+    "A36657-e43070": [
+      "oedipus"
+    ],
+    "A36657-e43100": [
+      "phorbas"
+    ],
+    "A36657-e43150": [
+      "oedipus"
+    ],
+    "A36657-e43220": [
+      "phorbas"
+    ],
+    "A36657-e43250": [
+      "oedipus"
+    ],
+    "A36657-e43280": [
+      "phorbas"
+    ],
+    "A36657-e43310": [
+      "oedipus"
+    ],
+    "A36657-e43340": [
+      "phorbas"
+    ],
+    "A36657-e43380": [
+      "oedipus"
+    ],
+    "A36657-e43440": [
+      "phorbas"
+    ],
+    "A36657-e43480": [
+      "oedipus"
+    ],
+    "A36657-e43530": [
+      "phorbas"
+    ],
+    "A36657-e43590": [
+      "oedipus"
+    ],
+    "A36657-e43620": [
+      "phorbas"
+    ],
+    "A36657-e43650": [
+      "oedipus"
+    ],
+    "A36657-e43710": [
+      "phorbas"
+    ],
+    "A36657-e43740": [
+      "oedipus"
+    ],
+    "A36657-e43780": [
+      "phorbas"
+    ],
+    "A36657-e43830": [
+      "oedipus"
+    ],
+    "A36657-e43910": [
+      "phorbas"
+    ],
+    "A36657-e43950": [
+      "oedipus"
+    ],
+    "A36657-e44030": [
+      "adrastus"
+    ],
+    "A36657-e44120": [
+      "oedipus"
+    ],
+    "A36657-e44290": [
+      "adrastus"
+    ],
+    "A36657-e44340": [
+      "oedipus"
+    ],
+    "A36657-e44520": [
+      "adrastus"
+    ],
+    "A36657-e44570": [
+      "tiresias"
+    ],
+    "A36657-e44640": [
+      "oedipus"
+    ],
+    "A36657-e44730": [
+      "adrastus"
+    ],
+    "A36657-e44780": [
+      "oedipus"
+    ],
+    "A36657-e45040": [
+      "creon"
+    ],
+    "A36657-e45130": [
+      "pyracmon"
+    ],
+    "A36657-e45220": [
+      "alcander"
+    ],
+    "A36657-e45320": [
+      "creon"
+    ],
+    "A36657-e45550": [
+      "haemon"
+    ],
+    "A36657-e45590": [
+      "creon"
+    ],
+    "A36657-e45670": [
+      "haemon"
+    ],
+    "A36657-e45770": [
+      "creon"
+    ],
+    "A36657-e45820": [
+      "haemon"
+    ],
+    "A36657-e46080": [
+      "creon"
+    ],
+    "A36657-e46110": [
+      "haemon"
+    ],
+    "A36657-e46200": [
+      "creon"
+    ],
+    "A36657-e46300": [
+      "alcander"
+    ],
+    "A36657-e46360": [
+      "creon"
+    ],
+    "A36657-e46480": [
+      "adrastus"
+    ],
+    "A36657-e46560": [
+      "eurydice"
+    ],
+    "A36657-e46640": [
+      "adrastus"
+    ],
+    "A36657-e46780": [
+      "creon"
+    ],
+    "A36657-e46880": [
+      "adrastus"
+    ],
+    "A36657-e47030": [
+      "eurydice"
+    ],
+    "A36657-e47180": [
+      "creon"
+    ],
+    "A36657-e47250": [
+      "adrastus"
+    ],
+    "A36657-e47340": [
+      "creon"
+    ],
+    "A36657-e47410": [
+      "adrastus"
+    ],
+    "A36657-e47510": [
+      "oedipus"
+    ],
+    "A36657-e47820": [
+      "jocasta"
+    ],
+    "A36657-e47900": [
+      "oedipus"
+    ],
+    "A36657-e48020": [
+      "jocasta"
+    ],
+    "A36657-e48060": [
+      "oedipus"
+    ],
+    "A36657-e48110": [
+      "jocasta"
+    ],
+    "A36657-e48200": [
+      "oedipus"
+    ],
+    "A36657-e48230": [
+      "jocasta"
+    ],
+    "A36657-e48290": [
+      "oedipus"
+    ],
+    "A36657-e48340": [
+      "jocasta"
+    ],
+    "A36657-e48430": [
+      "oedipus"
+    ],
+    "A36657-e48560": [
+      "jocasta"
+    ],
+    "A36657-e48620": [
+      "oedipus"
+    ],
+    "A36657-e48730": [
+      "jocasta"
+    ],
+    "A36657-e48810": [
+      "oedipus"
+    ],
+    "A36657-e48840": [
+      "jocasta"
+    ],
+    "A36657-e48880": [
+      "oedipus"
+    ],
+    "A36657-e48910": [
+      "jocasta"
+    ],
+    "A36657-e48970": [
+      "ghost-of-lajus"
+    ],
+    "A36657-e49020": [
+      "oedipus"
+    ],
+    "A36657-e49130": [
+      "jocasta"
+    ],
+    "A36657-e49190": [
+      "oedipus"
+    ],
+    "A36657-e49250": [
+      "jocasta"
+    ],
+    "A36657-e49380": [
+      "oedipus"
+    ],
+    "A36657-e49430": [
+      "jocasta"
+    ],
+    "A36657-e49610": [
+      "oedipus"
+    ],
+    "A36657-e49840": [
+      "haemon"
+    ],
+    "A36657-e49920": [
+      "oedipus"
+    ],
+    "A36657-e50080": [
+      "haemon"
+    ],
+    "A36657-e50170": [
+      "tiresias"
+    ],
+    "A36657-e50260": [
+      "haemon"
+    ],
+    "A36657-e50360": [
+      "creon"
+    ],
+    "A36657-e50430": [
+      "adrastus"
+    ],
+    "A36657-e50460": [
+      "creon"
+    ],
+    "A36657-e50540": [
+      "adrastus"
+    ],
+    "A36657-e50570": [
+      "creon"
+    ],
+    "A36657-e50610": [
+      "adrastus"
+    ],
+    "A36657-e50650": [
+      "eurydice"
+    ],
+    "A36657-e50770": [
+      "creon"
+    ],
+    "A36657-e50800": [
+      "adrastus"
+    ],
+    "A36657-e50890": [
+      "creon"
+    ],
+    "A36657-e50920": [
+      "eurydice"
+    ],
+    "A36657-e51020": [
+      "adrastus"
+    ],
+    "A36657-e51060": [
+      "creon"
+    ],
+    "A36657-e51120": [
+      "adrastus"
+    ],
+    "A36657-e51170": [
+      "creon"
+    ],
+    "A36657-e51210": [
+      "adrastus"
+    ],
+    "A36657-e51310": [
+      "creon"
+    ],
+    "A36657-e51420": [
+      "adrastus"
+    ],
+    "A36657-e51450": [
+      "eurydice"
+    ],
+    "A36657-e51490": [
+      "adrastus"
+    ],
+    "A36657-e51540": [
+      "eurydice"
+    ],
+    "A36657-e51570": [
+      "creon"
+    ],
+    "A36657-e51620": [
+      "eurydice"
+    ],
+    "A36657-e51670": [
+      "adrastus"
+    ],
+    "A36657-e51730": [
+      "creon"
+    ],
+    "A36657-e51770": [
+      "adrastus"
+    ],
+    "A36657-e51910": [
+      "creon"
+    ],
+    "A36657-e51990": [
+      "adrastus"
+    ],
+    "A36657-e52160": [
+      "captain"
+    ],
+    "A36657-e52250": [
+      "haemon"
+    ],
+    "A36657-e52380": [
+      "jocasta"
+    ],
+    "A36657-e52540": [
+      "oedipus"
+    ],
+    "A36657-e52590": [
+      "jocasta"
+    ],
+    "A36657-e52770": [
+      "oedipus"
+    ],
+    "A36657-e52830": [
+      "haemon"
+    ],
+    "A36657-e52870": [
+      "oedipus"
+    ],
+    "A36657-e52970": [
+      "haemon"
+    ],
+    "A36657-e53000": [
+      "oedipus"
+    ],
+    "A36657-e53190": [
+      "haemon"
+    ],
+    "A36657-e53240": [
+      "tiresias"
+    ]
+  }
+}

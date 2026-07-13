@@ -1,0 +1,2775 @@
+{
+  "particDesc": [
+    {
+      "name": "Taylors",
+      "id": "taylors",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Guard 2",
+      "id": "guard-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Guard 1",
+      "id": "guard-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen 7",
+      "id": "citizen-7",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Fidler",
+      "id": "fidler",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen 6",
+      "id": "citizen-6",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 5",
+      "id": "citizen-5",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Drawer",
+      "id": "drawer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen 4",
+      "id": "citizen-4",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 3",
+      "id": "citizen-3",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 2",
+      "id": "citizen-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 1",
+      "id": "citizen-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "alexius-comnenius",
+      "name": "Alexius Comnenius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "anna",
+      "name": "Anna",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "maria-caesarissa",
+      "name": "Maria Caesarissa",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "sebastus",
+      "name": "Sebastus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "andronicus-comnenius",
+      "name": "Andronicus Comnenius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "manuel",
+      "name": "Manuel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "conto",
+      "name": "Conto",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "constantinus",
+      "name": "Constantinus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ducas",
+      "name": "Ducas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lapardas",
+      "name": "Lapardas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "stephanus",
+      "name": "Stephanus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "basilius",
+      "name": "Basilius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mamalus",
+      "name": "Mamalus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "philo",
+      "name": "Philo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "isaacius-angelus",
+      "name": "Isaacius Angelus",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A66563-e1350": [
+      "ducas"
+    ],
+    "A66563-e1410": [
+      "lapardas"
+    ],
+    "A66563-e1500": [
+      "ducas"
+    ],
+    "A66563-e1550": [
+      "lapardas"
+    ],
+    "A66563-e1780": [
+      "ducas"
+    ],
+    "A66563-e1830": [
+      "lapardas"
+    ],
+    "A66563-e1880": [
+      "ducas"
+    ],
+    "A66563-e1920": [
+      "lapardas"
+    ],
+    "A66563-e1970": [
+      "ducas"
+    ],
+    "A66563-e2000": [
+      "lapardas"
+    ],
+    "A66563-e2140": [
+      "ducas"
+    ],
+    "A66563-e2170": [
+      "lapardas"
+    ],
+    "A66563-e2250": [
+      "ducas"
+    ],
+    "A66563-e2350": [
+      "lapardas"
+    ],
+    "A66563-e2390": [
+      "ducas"
+    ],
+    "A66563-e2420": [
+      "lapardas"
+    ],
+    "A66563-e2450": [
+      "ducas"
+    ],
+    "A66563-e2500": [
+      "mamalus"
+    ],
+    "A66563-e2530": [
+      "lapardas"
+    ],
+    "A66563-e2570": [
+      "mamalus"
+    ],
+    "A66563-e2630": [
+      "lapardas"
+    ],
+    "A66563-e2750": [
+      "mamalus"
+    ],
+    "A66563-e2790": [
+      "ducas"
+    ],
+    "A66563-e2860": [
+      "lapardas"
+    ],
+    "A66563-e2920": [
+      "mamalus"
+    ],
+    "A66563-e2970": [
+      "ducas"
+    ],
+    "A66563-e3010": [
+      "mamalus"
+    ],
+    "A66563-e3050": [
+      "lapardas"
+    ],
+    "A66563-e3080": [
+      "mamalus"
+    ],
+    "A66563-e3110": [
+      "lapardas"
+    ],
+    "A66563-e3190": [
+      "mamalus"
+    ],
+    "A66563-e3290": [
+      "lapardas"
+    ],
+    "A66563-e3350": [
+      "mamalus"
+    ],
+    "A66563-e3420": [
+      "ducas"
+    ],
+    "A66563-e3460": [
+      "mamalus"
+    ],
+    "A66563-e3520": [
+      "ducas"
+    ],
+    "A66563-e3550": [
+      "mamalus"
+    ],
+    "A66563-e3590": [
+      "ducas"
+    ],
+    "A66563-e3630": [
+      "mamalus"
+    ],
+    "A66563-e3820": [
+      "ducas"
+    ],
+    "A66563-e3860": [
+      "mamalus"
+    ],
+    "A66563-e3970": [
+      "ducas",
+      "lapardas"
+    ],
+    "A66563-e4010": [
+      "lapardas"
+    ],
+    "A66563-e4040": [
+      "ducas"
+    ],
+    "A66563-e4140": [
+      "constantinus"
+    ],
+    "A66563-e4190": [
+      "sebastus"
+    ],
+    "A66563-e4240": [
+      "constantinus"
+    ],
+    "A66563-e4280": [
+      "sebastus"
+    ],
+    "A66563-e4320": [
+      "constantinus"
+    ],
+    "A66563-e4370": [
+      "sebastus"
+    ],
+    "A66563-e4420": [
+      "constantinus"
+    ],
+    "A66563-e4450": [
+      "sebastus"
+    ],
+    "A66563-e4480": [
+      "constantinus"
+    ],
+    "A66563-e4530": [
+      "sebastus"
+    ],
+    "A66563-e4570": [
+      "constantinus"
+    ],
+    "A66563-e4610": [
+      "sebastus"
+    ],
+    "A66563-e4690": [
+      "constantinus"
+    ],
+    "A66563-e4720": [
+      "sebastus"
+    ],
+    "A66563-e4770": [
+      "constantinus"
+    ],
+    "A66563-e4810": [
+      "sebastus"
+    ],
+    "A66563-e4900": [
+      "constantinus"
+    ],
+    "A66563-e5210": [
+      "philo"
+    ],
+    "A66563-e5630": [
+      "manuel"
+    ],
+    "A66563-e6060": [
+      "philo"
+    ],
+    "A66563-e6090": [
+      "manuel"
+    ],
+    "A66563-e6160": [
+      "philo"
+    ],
+    "A66563-e6260": [
+      "manuel"
+    ],
+    "A66563-e6300": [
+      "philo"
+    ],
+    "A66563-e6340": [
+      "manuel"
+    ],
+    "A66563-e6370": [
+      "philo"
+    ],
+    "A66563-e6460": [
+      "manuel"
+    ],
+    "A66563-e6550": [
+      "philo"
+    ],
+    "A66563-e6630": [
+      "manuel"
+    ],
+    "A66563-e6680": [
+      "philo"
+    ],
+    "A66563-e6730": [
+      "manuel"
+    ],
+    "A66563-e6800": [
+      "philo"
+    ],
+    "A66563-e6880": [
+      "manuel"
+    ],
+    "A66563-e6930": [
+      "philo"
+    ],
+    "A66563-e6960": [
+      "manuel"
+    ],
+    "A66563-e7020": [
+      "philo"
+    ],
+    "A66563-e7060": [
+      "manuel"
+    ],
+    "A66563-e7100": [
+      "philo"
+    ],
+    "A66563-e7150": [
+      "manuel"
+    ],
+    "A66563-e7230": [
+      "philo"
+    ],
+    "A66563-e7310": [
+      "manuel"
+    ],
+    "A66563-e7470": [
+      "basilius"
+    ],
+    "A66563-e7500": [
+      "constantinus"
+    ],
+    "A66563-e7540": [
+      "basilius"
+    ],
+    "A66563-e7570": [
+      "stephanus"
+    ],
+    "A66563-e7600": [
+      "constantinus"
+    ],
+    "A66563-e7690": [
+      "stephanus"
+    ],
+    "A66563-e7730": [
+      "basilius"
+    ],
+    "A66563-e7760": [
+      "constantinus"
+    ],
+    "A66563-e7820": [
+      "conto"
+    ],
+    "A66563-e7860": [
+      "constantinus"
+    ],
+    "A66563-e7920": [
+      "conto"
+    ],
+    "A66563-e7960": [
+      "stephanus"
+    ],
+    "A66563-e8000": [
+      "conto"
+    ],
+    "A66563-e8050": [
+      "constantinus"
+    ],
+    "A66563-e8100": [
+      "ducas"
+    ],
+    "A66563-e8130": [
+      "constantinus"
+    ],
+    "A66563-e8250": [
+      "stephanus",
+	  "basilius",
+	  "conto",
+	  "lapardas",
+	  "ducas"
+    ],
+    "A66563-e8300": [
+      "maria-caesarissa"
+    ],
+    "A66563-e8360": [
+      "constantinus"
+    ],
+    "A66563-e8410": [
+      "maria-caesarissa"
+    ],
+    "A66563-e8840": [
+      "conto"
+    ],
+    "A66563-e8870": [
+      "maria-caesarissa"
+    ],
+    "A66563-e8930": [
+      "conto"
+    ],
+    "A66563-e8960": [
+      "lapardas"
+    ],
+    "A66563-e8990": [
+      "ducas"
+    ],
+    "A66563-e9020": [
+      "lapardas"
+    ],
+    "A66563-e9050": [
+      "conto"
+    ],
+    "A66563-e9100": [
+      "basilius"
+    ],
+    "A66563-e9140": [
+      "stephanus"
+    ],
+    "A66563-e9210": [
+      "basilius"
+    ],
+    "A66563-e9250": [
+      "constantinus"
+    ],
+    "A66563-e9290": [
+      "maria-caesarissa"
+    ],
+    "A66563-e9330": [
+      "conto"
+    ],
+    "A66563-e9380": [
+      "maria-caesarissa"
+    ],
+    "A66563-e9640": [
+      "constantinus"
+    ],
+    "A66563-e9690": [
+      "stephanus"
+    ],
+    "A66563-e9730": [
+      "maria-caesarissa"
+    ],
+    "A66563-e9970": [
+      "conto"
+    ],
+    "A66563-e10000": [
+      "lapardas"
+    ],
+    "A66563-e10040": [
+      "ducas"
+    ],
+    "A66563-e10080": [
+      "maria-caesarissa"
+    ],
+    "A66563-e10580": [
+      "sebastus"
+    ],
+    "A66563-e10660": [
+      "alexius-comnenius"
+    ],
+    "A66563-e10690": [
+      "sebastus"
+    ],
+    "A66563-e10720": [
+      "anna"
+    ],
+    "A66563-e10750": [
+      "sebastus"
+    ],
+    "A66563-e10810": [
+      "anna"
+    ],
+    "A66563-e10840": [
+      "sebastus"
+    ],
+    "A66563-e10880": [
+      "alexius-comnenius"
+    ],
+    "A66563-e10910": [
+      "anna"
+    ],
+    "A66563-e10940": [
+      "sebastus"
+    ],
+    "A66563-e10980": [
+      "alexius-comnenius"
+    ],
+    "A66563-e11020": [
+      "sebastus"
+    ],
+    "A66563-e11070": [
+      "anna"
+    ],
+    "A66563-e11110": [
+      "sebastus"
+    ],
+    "A66563-e11140": [
+      "anna"
+    ],
+    "A66563-e11230": [
+      "sebastus"
+    ],
+    "A66563-e11300": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e11410": [
+      "alexius-comnenius"
+    ],
+    "A66563-e11460": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e11560": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e11600": [
+      "alexius-comnenius"
+    ],
+    "A66563-e11680": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e11800": [
+      "alexius-comnenius"
+    ],
+    "A66563-e11840": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e12040": [
+      "philo"
+    ],
+    "A66563-e12090": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e12160": [
+      "philo"
+    ],
+    "A66563-e12230": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e12260": [
+      "philo"
+    ],
+    "A66563-e12370": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e12420": [
+      "philo"
+    ],
+    "A66563-e12720": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e12760": [
+      "philo"
+    ],
+    "A66563-e12800": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e12850": [
+      "philo"
+    ],
+    "A66563-e12900": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e12940": [
+      "philo"
+    ],
+    "A66563-e12990": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e13030": [
+      "philo"
+    ],
+    "A66563-e13070": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e13230": [
+      "philo"
+    ],
+    "A66563-e13280": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e13310": [
+      "philo"
+    ],
+    "A66563-e13340": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e13370": [
+      "philo"
+    ],
+    "A66563-e13410": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e13740": [
+      "manuel"
+    ],
+    "A66563-e13770": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e13870": [
+      "manuel"
+    ],
+    "A66563-e13900": [
+      "philo"
+    ],
+    "A66563-e13950": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e14040": [
+      "manuel"
+    ],
+    "A66563-e14100": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e14220": [
+      "manuel"
+    ],
+    "A66563-e14310": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e14370": [
+      "philo"
+    ],
+    "A66563-e14400": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e14540": [
+      "mamalus"
+    ],
+    "A66563-e14990": [
+	  "constantinus",
+	  "conto",
+	  "lapardas",
+	  "ducas"
+    ],
+    "A66563-e15030": [
+      "mamalus"
+    ],
+    "A66563-e15070": [
+      "maria-caesarissa"
+    ],
+    "A66563-e15120": [
+      "constantinus"
+    ],
+    "A66563-e15160": [
+      "conto"
+    ],
+    "A66563-e15250": [
+      "maria-caesarissa"
+    ],
+    "A66563-e15290": [
+      "ducas"
+    ],
+    "A66563-e15350": [
+      "conto"
+    ],
+    "A66563-e15420": [
+      "maria-caesarissa"
+    ],
+    "A66563-e15480": [
+      "constantinus"
+    ],
+    "A66563-e15530": [
+      "maria-caesarissa"
+    ],
+    "A66563-e15590": [
+      "lapardas"
+    ],
+    "A66563-e15650": [
+      "mamalus"
+    ],
+    "A66563-e15730": [
+      "lapardas"
+    ],
+    "A66563-e15770": [
+      "mamalus"
+    ],
+    "A66563-e15800": [
+      "ducas"
+    ],
+    "A66563-e15830": [
+      "mamalus"
+    ],
+    "A66563-e15870": [
+      "lapardas"
+    ],
+    "A66563-e15920": [
+      "mamalus"
+    ],
+    "A66563-e16050": [
+      "lapardas"
+    ],
+    "A66563-e16100": [
+      "ducas"
+    ],
+    "A66563-e16130": [
+      "mamalus"
+    ],
+    "A66563-e16230": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e16260": [
+      "philo"
+    ],
+    "A66563-e16360": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e16400": [
+      "philo"
+    ],
+    "A66563-e16470": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e16540": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e17000": [
+      "stephanus"
+    ],
+    "A66563-e17050": [
+      "basilius"
+    ],
+    "A66563-e17100": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e17180": [
+      "basilius"
+    ],
+    "A66563-e17220": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e17260": [
+      "stephanus"
+    ],
+    "A66563-e17340": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e17370": [
+      "basilius"
+    ],
+    "A66563-e17410": [
+      "stephanus"
+    ],
+    "A66563-e17440": [
+      "basilius"
+    ],
+    "A66563-e17610": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e17780": [
+      "stephanus"
+    ],
+    "A66563-e17850": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e17890": [
+      "basilius"
+    ],
+    "A66563-e17960": [
+      "stephanus"
+    ],
+    "A66563-e18010": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e18060": [
+      "basilius"
+    ],
+    "A66563-e18090": [
+      "stephanus"
+    ],
+    "A66563-e18140": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e18290": [
+      "philo"
+    ],
+    "A66563-e18320": [
+      "citizen-1"
+    ],
+    "A66563-e18370": [
+      "citizen-2"
+    ],
+    "A66563-e18440": [
+      "citizen-3"
+    ],
+    "A66563-e18490": [
+      "citizen-4"
+    ],
+    "A66563-e18540": [
+      "philo"
+    ],
+    "A66563-e18570": [
+      "citizen-1"
+    ],
+    "A66563-e18640": [
+      "drawer"
+    ],
+    "A66563-e18690": [
+      "citizen-2"
+    ],
+    "A66563-e18740": [
+      "drawer"
+    ],
+    "A66563-e18770": [
+      "citizen-3"
+    ],
+    "A66563-e18810": [
+      "drawer"
+    ],
+    "A66563-e18840": [
+      "citizen-4"
+    ],
+    "A66563-e18910": [
+      "citizen-2"
+    ],
+    "A66563-e18960": [
+      "philo"
+    ],
+    "A66563-e19030": [
+      "citizen-4"
+    ],
+    "A66563-e19080": [
+      "philo"
+    ],
+    "A66563-e19120": [
+      "citizen-2"
+    ],
+    "A66563-e19160": [
+      "philo"
+    ],
+    "A66563-e19200": [
+      "citizen-2"
+    ],
+    "A66563-e19250": [
+      "philo"
+    ],
+    "A66563-e19280": [
+      "citizen-4"
+    ],
+    "A66563-e19330": [
+      "citizen-2"
+    ],
+    "A66563-e19400": [
+      "citizen-3"
+    ],
+    "A66563-e19440": [
+      "citizen-1"
+    ],
+    "A66563-e19500": [
+      "citizen-4"
+    ],
+    "A66563-e19570": [
+      "citizen-3"
+    ],
+    "A66563-e19620": [
+      "philo"
+    ],
+    "A66563-e19710": [
+      "fidler"
+    ],
+    "A66563-e19750": [
+      "philo"
+    ],
+    "A66563-e19780": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3"
+    ],
+    "A66563-e19830": [
+      "citizen-4",
+      "citizen-5",
+      "citizen-6"
+    ],
+    "A66563-e19870": [
+      "citizen-3"
+    ],
+    "A66563-e19910": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6"
+    ],
+    "A66563-e19940": [
+      "fidler"
+    ],
+    "A66563-e19970": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6"
+    ],
+    "A66563-e20230": [
+      "citizen-1"
+    ],
+    "A66563-e20270": [
+      "citizen-6"
+    ],
+    "A66563-e20330": [
+      "citizen-3"
+    ],
+    "A66563-e20380": [
+      "citizen-6"
+    ],
+    "A66563-e20420": [
+      "citizen-3"
+    ],
+    "A66563-e20470": [
+      "citizen-6"
+    ],
+    "A66563-e20510": [
+      "citizen-5"
+    ],
+    "A66563-e20550": [
+      "citizen-6"
+    ],
+    "A66563-e20600": [
+      "philo"
+    ],
+    "A66563-e20660": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6"
+    ],
+    "A66563-e20690": [
+      "citizen-1"
+    ],
+    "A66563-e20730": [
+      "citizen-3"
+    ],
+    "A66563-e20770": [
+      "citizen-4"
+    ],
+    "A66563-e20810": [
+      "citizen-2"
+    ],
+    "A66563-e20850": [
+      "citizen-5"
+    ],
+    "A66563-e20890": [
+      "citizen-6"
+    ],
+    "A66563-e20930": [
+      "philo"
+    ],
+    "A66563-e20990": [
+      "citizen-4"
+    ],
+    "A66563-e21030": [
+      "philo"
+    ],
+    "A66563-e21090": [
+      "citizen-2"
+    ],
+    "A66563-e21130": [
+      "citizen-1"
+    ],
+    "A66563-e21210": [
+      "citizen-4"
+    ],
+    "A66563-e21250": [
+      "philo"
+    ],
+    "A66563-e21280": [
+      "citizen-3"
+    ],
+    "A66563-e21320": [
+      "philo"
+    ],
+    "A66563-e21370": [
+      "citizen-5"
+    ],
+    "A66563-e21410": [
+      "citizen-6"
+    ],
+    "A66563-e21450": [
+      "citizen-5"
+    ],
+    "A66563-e21500": [
+      "citizen-3"
+    ],
+    "A66563-e21560": [
+      "citizen-6"
+    ],
+    "A66563-e21630": [
+      "citizen-2"
+    ],
+    "A66563-e21670": [
+      "taylors"
+    ],
+    "A66563-e21700": [
+      "citizen-2"
+    ],
+    "A66563-e21740": [
+      "philo"
+    ],
+    "A66563-e21800": [
+      "citizen-7"
+    ],
+    "A66563-e21860": [
+      "citizen-2"
+    ],
+    "A66563-e21900": [
+      "philo"
+    ],
+    "A66563-e21930": [
+      "citizen-7"
+    ],
+    "A66563-e21970": [
+      "citizen-3"
+    ],
+    "A66563-e22010": [
+      "citizen-4"
+    ],
+    "A66563-e22050": [
+      "citizen-2"
+    ],
+    "A66563-e22090": [
+      "citizen-7"
+    ],
+    "A66563-e22130": [
+      "philo"
+    ],
+    "A66563-e22170": [
+      "citizen-2"
+    ],
+    "A66563-e22210": [
+      "philo"
+    ],
+    "A66563-e22250": [
+      "citizen-2"
+    ],
+    "A66563-e22290": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6",
+	  "citizen-7"
+    ],
+    "A66563-e22320": [
+      "fidler"
+    ],
+    "A66563-e22350": [
+      "citizen-5"
+    ],
+    "A66563-e22390": [
+      "citizen-1"
+    ],
+    "A66563-e22430": [
+      "citizen-2"
+    ],
+    "A66563-e22470": [
+      "philo"
+    ],
+    "A66563-e22510": [
+      "fidler"
+    ],
+    "A66563-e22540": [
+      "citizen-3"
+    ],
+    "A66563-e22580": [
+      "citizen-4",
+      "citizen-5",
+      "citizen-6"
+    ],
+    "A66563-e22620": [
+      "fidler"
+    ],
+    "A66563-e22660": [
+      "citizen-4",
+      "citizen-5",
+      "citizen-6"
+    ],
+    "A66563-e23110": [
+      "stephanus"
+    ],
+    "A66563-e23150": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e23200": [
+      "stephanus"
+    ],
+    "A66563-e23240": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e23270": [
+      "stephanus"
+    ],
+    "A66563-e23350": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e23420": [
+      "stephanus"
+    ],
+    "A66563-e23470": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e23510": [
+      "stephanus"
+    ],
+    "A66563-e23640": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e23690": [
+      "stephanus"
+    ],
+    "A66563-e23790": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e23840": [
+      "stephanus"
+    ],
+    "A66563-e23970": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e24020": [
+      "stephanus"
+    ],
+    "A66563-e24120": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e24160": [
+      "stephanus"
+    ],
+    "A66563-e24200": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e24260": [
+      "stephanus"
+    ],
+    "A66563-e24370": [
+      "philo"
+    ],
+    "A66563-e24410": [
+      "citizen-2"
+    ],
+    "A66563-e24450": [
+      "philo"
+    ],
+    "A66563-e24490": [
+      "citizen-3"
+    ],
+    "A66563-e24530": [
+      "philo"
+    ],
+    "A66563-e24560": [
+      "citizen-1"
+    ],
+    "A66563-e24620": [
+      "philo"
+    ],
+    "A66563-e24670": [
+      "citizen-4"
+    ],
+    "A66563-e24730": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6",
+	  "citizen-7"
+    ],
+    "A66563-e24780": [
+      "philo"
+    ],
+    "A66563-e24810": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6",
+	  "citizen-7"
+    ],
+    "A66563-e24850": [
+      "philo"
+    ],
+    "A66563-e24880": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6",
+	  "citizen-7"
+    ],
+    "A66563-e24920": [
+      "philo"
+    ],
+    "A66563-e25000": [
+      "citizen-1"
+    ],
+    "A66563-e25040": [
+      "citizen-2"
+    ],
+    "A66563-e25080": [
+      "basilius"
+    ],
+    "A66563-e25150": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6",
+	  "citizen-7"
+    ],
+    "A66563-e25180": [
+      "citizen-1"
+    ],
+    "A66563-e25220": [
+      "citizen-2"
+    ],
+    "A66563-e25260": [
+      "citizen-5"
+    ],
+    "A66563-e25310": [
+      "philo"
+    ],
+    "A66563-e25350": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6",
+	  "citizen-7"
+    ],
+    "A66563-e25380": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e25410": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+	  "citizen-4",
+      "citizen-5",
+      "citizen-6",
+	  "citizen-7"
+    ],
+    "A66563-e25450": [
+      "basilius"
+    ],
+    "A66563-e25650": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e25910": [
+      "philo"
+    ],
+    "A66563-e25980": [
+      "citizen-5"
+    ],
+    "A66563-e26020": [
+      "citizen-1"
+    ],
+    "A66563-e26060": [
+      "basilius"
+    ],
+    "A66563-e26150": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e26480": [
+      "philo"
+    ],
+    "A66563-e26530": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e26820": [
+      "conto"
+    ],
+    "A66563-e26860": [
+      "lapardas"
+    ],
+    "A66563-e26920": [
+      "ducas"
+    ],
+    "A66563-e26990": [
+      "conto"
+    ],
+    "A66563-e27020": [
+      "lapardas"
+    ],
+    "A66563-e27070": [
+      "conto"
+    ],
+    "A66563-e27110": [
+      "ducas"
+    ],
+    "A66563-e27160": [
+      "lapardas"
+    ],
+    "A66563-e27200": [
+      "conto"
+    ],
+    "A66563-e27230": [
+      "ducas"
+    ],
+    "A66563-e27270": [
+      "maria-caesarissa"
+    ],
+    "A66563-e27310": [
+      "lapardas"
+    ],
+    "A66563-e27350": [
+      "maria-caesarissa"
+    ],
+    "A66563-e27390": [
+      "ducas"
+    ],
+    "A66563-e27420": [
+      "mamalus"
+    ],
+    "A66563-e27460": [
+      "constantinus"
+    ],
+    "A66563-e27520": [
+      "mamalus"
+    ],
+    "A66563-e27570": [
+      "maria-caesarissa"
+    ],
+    "A66563-e27610": [
+      "constantinus"
+    ],
+    "A66563-e27650": [
+      "conto"
+    ],
+    "A66563-e27690": [
+      "constantinus"
+    ],
+    "A66563-e27720": [
+      "mamalus"
+    ],
+    "A66563-e27810": [
+      "maria-caesarissa"
+    ],
+    "A66563-e27850": [
+      "mamalus"
+    ],
+    "A66563-e27950": [
+      "maria-caesarissa"
+    ],
+    "A66563-e28000": [
+      "mamalus"
+    ],
+    "A66563-e28080": [
+      "lapardas"
+    ],
+    "A66563-e28110": [
+      "mamalus"
+    ],
+    "A66563-e28150": [
+      "lapardas"
+    ],
+    "A66563-e28190": [
+      "maria-caesarissa"
+    ],
+    "A66563-e28230": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e28280": [
+      "maria-caesarissa"
+    ],
+    "A66563-e28310": [
+      "mamalus"
+    ],
+    "A66563-e28360": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e28420": [
+      "maria-caesarissa"
+    ],
+    "A66563-e28450": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e28790": [
+      "lapardas"
+    ],
+    "A66563-e28830": [
+      "conto"
+    ],
+    "A66563-e28860": [
+      "ducas",
+	  "maria-caesarissa",
+	  "constantinus",
+	  "mamalus"
+    ],
+    "A66563-e28900": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e28940": [
+      "lapardas",
+	  "conto",
+	  "ducas",
+	  "maria-caesarissa",
+	  "constantinus",
+	  "mamalus"
+    ],
+    "A66563-e28990": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e29060": [
+      "maria-caesarissa"
+    ],
+    "A66563-e29110": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e29160": [
+      "maria-caesarissa"
+    ],
+    "A66563-e29190": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e29240": [
+      "maria-caesarissa"
+    ],
+    "A66563-e29270": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e29320": [
+      "maria-caesarissa"
+    ],
+    "A66563-e29360": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e29410": [
+      "maria-caesarissa"
+    ],
+    "A66563-e29510": [
+      "manuel"
+    ],
+    "A66563-e29560": [
+      "philo"
+    ],
+    "A66563-e29610": [
+      "manuel"
+    ],
+    "A66563-e29640": [
+      "philo"
+    ],
+    "A66563-e29710": [
+      "manuel"
+    ],
+    "A66563-e29740": [
+      "philo"
+    ],
+    "A66563-e29770": [
+      "manuel"
+    ],
+    "A66563-e29810": [
+      "philo"
+    ],
+    "A66563-e29850": [
+      "manuel"
+    ],
+    "A66563-e29890": [
+      "philo"
+    ],
+    "A66563-e30240": [
+      "manuel"
+    ],
+    "A66563-e30290": [
+      "philo"
+    ],
+    "A66563-e30360": [
+      "manuel"
+    ],
+    "A66563-e30400": [
+      "philo"
+    ],
+    "A66563-e30530": [
+      "manuel"
+    ],
+    "A66563-e30560": [
+      "philo"
+    ],
+    "A66563-e30600": [
+      "manuel"
+    ],
+    "A66563-e30640": [
+      "philo"
+    ],
+    "A66563-e30710": [
+      "manuel"
+    ],
+    "A66563-e30760": [
+      "philo"
+    ],
+    "A66563-e30810": [
+      "manuel"
+    ],
+    "A66563-e30900": [
+      "philo"
+    ],
+    "A66563-e30930": [
+      "manuel"
+    ],
+    "A66563-e31100": [
+      "philo"
+    ],
+    "A66563-e31140": [
+      "manuel"
+    ],
+    "A66563-e31360": [
+      "philo"
+    ],
+    "A66563-e31540": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e31570": [
+      "stephanus"
+    ],
+    "A66563-e31620": [
+      "basilius"
+    ],
+    "A66563-e31690": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e31760": [
+      "stephanus"
+    ],
+    "A66563-e31790": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e31840": [
+      "basilius"
+    ],
+    "A66563-e31890": [
+      "stephanus"
+    ],
+    "A66563-e31950": [
+      "stephanus"
+    ],
+    "A66563-e32020": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e32070": [
+      "basilius"
+    ],
+    "A66563-e32140": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e32180": [
+      "stephanus"
+    ],
+    "A66563-e32240": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e32300": [
+      "stephanus"
+    ],
+    "A66563-e32380": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e32540": [
+      "alexius-comnenius"
+    ],
+    "A66563-e32590": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e32730": [
+      "alexius-comnenius"
+    ],
+    "A66563-e32770": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e32810": [
+      "alexius-comnenius"
+    ],
+    "A66563-e32870": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e32910": [
+      "alexius-comnenius"
+    ],
+    "A66563-e32940": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e32970": [
+      "alexius-comnenius"
+    ],
+    "A66563-e33000": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e33040": [
+      "alexius-comnenius"
+    ],
+    "A66563-e33130": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e33220": [
+      "alexius-comnenius"
+    ],
+    "A66563-e33250": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e33290": [
+      "alexius-comnenius"
+    ],
+    "A66563-e33320": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e33360": [
+      "alexius-comnenius"
+    ],
+    "A66563-e33410": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e33480": [
+      "alexius-comnenius"
+    ],
+    "A66563-e33510": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e33600": [
+      "alexius-comnenius"
+    ],
+    "A66563-e33640": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e34010": [
+      "manuel"
+    ],
+    "A66563-e34040": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e34080": [
+      "manuel"
+    ],
+    "A66563-e34150": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e34230": [
+      "manuel"
+    ],
+    "A66563-e34280": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e34340": [
+      "manuel"
+    ],
+    "A66563-e34400": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e34480": [
+      "manuel"
+    ],
+    "A66563-e34580": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e34610": [
+      "manuel"
+    ],
+    "A66563-e34640": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e34960": [
+      "stephanus"
+    ],
+    "A66563-e34990": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e35050": [
+      "philo"
+    ],
+    "A66563-e35090": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e35140": [
+      "philo"
+    ],
+    "A66563-e35230": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e35340": [
+      "conto"
+    ],
+    "A66563-e35400": [
+      "lapardas"
+    ],
+    "A66563-e35460": [
+      "ducas"
+    ],
+    "A66563-e35510": [
+      "constantinus"
+    ],
+    "A66563-e35550": [
+      "mamalus"
+    ],
+    "A66563-e35590": [
+      "constantinus"
+    ],
+    "A66563-e35660": [
+      "lapardas"
+    ],
+    "A66563-e35720": [
+      "constantinus"
+    ],
+    "A66563-e35760": [
+      "conto"
+    ],
+    "A66563-e35790": [
+      "mamalus"
+    ],
+    "A66563-e35830": [
+      "constantinus"
+    ],
+    "A66563-e35900": [
+      "mamalus"
+    ],
+    "A66563-e35970": [
+      "lapardas"
+    ],
+    "A66563-e36010": [
+      "mamalus"
+    ],
+    "A66563-e36180": [
+      "conto",
+      "constantinus",
+      "lapardas",
+      "ducas"
+    ],
+    "A66563-e36210": [
+      "mamalus"
+    ],
+    "A66563-e36250": [
+      "conto",
+      "constantinus",
+      "lapardas",
+      "ducas"
+    ],
+    "A66563-e36280": [
+      "mamalus"
+    ],
+    "A66563-e36410": [
+      "constantinus"
+    ],
+    "A66563-e36460": [
+      "mamalus"
+    ],
+    "A66563-e36520": [
+      "constantinus"
+    ],
+    "A66563-e36560": [
+      "mamalus"
+    ],
+    "A66563-e36630": [
+      "constantinus"
+    ],
+    "A66563-e36660": [
+      "conto",
+      "lapardas",
+      "ducas"
+    ],
+    "A66563-e36720": [
+      "constantinus"
+    ],
+    "A66563-e36750": [
+      "maria-caesarissa"
+    ],
+    "A66563-e36780": [
+      "conto",
+      "constantinus",
+      "lapardas",
+      "ducas",
+	  "mamalus"
+    ],
+    "A66563-e36810": [
+      "maria-caesarissa"
+    ],
+    "A66563-e36880": [
+      "constantinus"
+    ],
+    "A66563-e36920": [
+      "maria-caesarissa"
+    ],
+    "A66563-e37120": [
+      "constantinus"
+    ],
+    "A66563-e37150": [
+      "maria-caesarissa"
+    ],
+    "A66563-e37270": [
+      "mamalus"
+    ],
+    "A66563-e37340": [
+      "constantinus"
+    ],
+    "A66563-e37370": [
+      "maria-caesarissa"
+    ],
+    "A66563-e37410": [
+      "lapardas",
+      "ducas"
+    ],
+    "A66563-e37440": [
+      "maria-caesarissa"
+    ],
+    "A66563-e37490": [
+      "constantinus"
+    ],
+    "A66563-e37550": [
+      "philo"
+    ],
+    "A66563-e37580": [
+      "maria-caesarissa"
+    ],
+    "A66563-e37610": [
+      "philo"
+    ],
+    "A66563-e37650": [
+      "constantinus"
+    ],
+    "A66563-e37690": [
+      "philo"
+    ],
+    "A66563-e38070": [
+      "anna"
+    ],
+    "A66563-e38110": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e38270": [
+      "anna"
+    ],
+    "A66563-e38340": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e38380": [
+      "anna"
+    ],
+    "A66563-e38410": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e38470": [
+      "anna"
+    ],
+    "A66563-e38590": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e38710": [
+      "anna"
+    ],
+    "A66563-e38740": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e38790": [
+      "anna"
+    ],
+    "A66563-e38820": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e38860": [
+      "anna"
+    ],
+    "A66563-e38910": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e38960": [
+      "anna"
+    ],
+    "A66563-e38990": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39070": [
+      "anna"
+    ],
+    "A66563-e39100": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39210": [
+      "anna"
+    ],
+    "A66563-e39240": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39270": [
+      "anna"
+    ],
+    "A66563-e39300": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39330": [
+      "anna"
+    ],
+    "A66563-e39370": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39450": [
+      "anna"
+    ],
+    "A66563-e39480": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39550": [
+      "anna"
+    ],
+    "A66563-e39580": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39670": [
+      "anna"
+    ],
+    "A66563-e39700": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39800": [
+      "anna"
+    ],
+    "A66563-e39840": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e39900": [
+      "anna"
+    ],
+    "A66563-e39990": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e40090": [
+      "stephanus"
+    ],
+    "A66563-e40270": [
+      "philo"
+    ],
+    "A66563-e40330": [
+      "stephanus"
+    ],
+    "A66563-e40500": [
+      "stephanus"
+    ],
+    "A66563-e40570": [
+      "philo"
+    ],
+    "A66563-e40600": [
+      "stephanus"
+    ],
+    "A66563-e40700": [
+      "philo"
+    ],
+    "A66563-e40750": [
+      "stephanus"
+    ],
+    "A66563-e41100": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e41250": [
+      "philo"
+    ],
+    "A66563-e41280": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e41320": [
+      "philo"
+    ],
+    "A66563-e41350": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e41400": [
+      "philo"
+    ],
+    "A66563-e41500": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e41710": [
+      "basilius"
+    ],
+    "A66563-e41750": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e41790": [
+      "basilius"
+    ],
+    "A66563-e41910": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e41940": [
+      "stephanus"
+    ],
+    "A66563-e42070": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42130": [
+      "stephanus"
+    ],
+    "A66563-e42170": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42210": [
+      "stephanus"
+    ],
+    "A66563-e42240": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42300": [
+      "stephanus"
+    ],
+    "A66563-e42340": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42380": [
+      "basilius"
+    ],
+    "A66563-e42430": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42460": [
+      "basilius"
+    ],
+    "A66563-e42490": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42530": [
+      "stephanus"
+    ],
+    "A66563-e42600": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42650": [
+      "constantinus"
+    ],
+    "A66563-e42690": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42730": [
+      "basilius"
+    ],
+    "A66563-e42760": [
+      "constantinus"
+    ],
+    "A66563-e42800": [
+      "stephanus"
+    ],
+    "A66563-e42830": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42860": [
+      "guard-1"
+    ],
+    "A66563-e42900": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e42980": [
+      "stephanus"
+    ],
+    "A66563-e43020": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43050": [
+      "guard-2"
+    ],
+    "A66563-e43090": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43120": [
+      "guard-2"
+    ],
+    "A66563-e43170": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43220": [
+      "guard-2"
+    ],
+    "A66563-e43260": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43290": [
+      "stephanus"
+    ],
+    "A66563-e43400": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43430": [
+      "stephanus"
+    ],
+    "A66563-e43470": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43500": [
+      "stephanus"
+    ],
+    "A66563-e43530": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43560": [
+      "stephanus"
+    ],
+    "A66563-e43600": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43650": [
+      "stephanus"
+    ],
+    "A66563-e43690": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e43740": [
+      "stephanus"
+    ],
+    "A66563-e43770": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e44020": [
+      "stephanus"
+    ],
+    "A66563-e44060": [
+      "constantinus"
+    ],
+    "A66563-e44160": [
+      "stephanus"
+    ],
+    "A66563-e44210": [
+      "constantinus"
+    ],
+    "A66563-e44260": [
+      "stephanus"
+    ],
+    "A66563-e44360": [
+      "constantinus"
+    ],
+    "A66563-e44400": [
+      "stephanus"
+    ],
+    "A66563-e44520": [
+      "constantinus"
+    ],
+    "A66563-e44570": [
+      "stephanus"
+    ],
+    "A66563-e44760": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e44940": [
+      "stephanus"
+    ],
+    "A66563-e44990": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e45030": [
+      "stephanus"
+    ],
+    "A66563-e45070": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e45140": [
+      "stephanus"
+    ],
+    "A66563-e45180": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e45220": [
+      "stephanus"
+    ],
+    "A66563-e45270": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e45440": [
+      "stephanus"
+    ],
+    "A66563-e45550": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e45700": [
+      "stephanus"
+    ],
+    "A66563-e45750": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e45900": [
+      "citizen-1"
+    ],
+    "A66563-e45940": [
+      "citizen-2"
+    ],
+    "A66563-e45980": [
+      "citizen-7"
+    ],
+    "A66563-e46020": [
+      "citizen-3"
+    ],
+    "A66563-e46060": [
+      "citizen-5"
+    ],
+    "A66563-e46100": [
+      "citizen-6"
+    ],
+    "A66563-e46140": [
+      "citizen-4"
+    ],
+    "A66563-e46180": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e46220": [
+      "citizen-1"
+    ],
+    "A66563-e46270": [
+      "citizen-2"
+    ],
+    "A66563-e46310": [
+      "citizen-5"
+    ],
+    "A66563-e46360": [
+      "citizen-6"
+    ],
+    "A66563-e46400": [
+      "citizen-5"
+    ],
+    "A66563-e46440": [
+      "citizen-1"
+    ],
+    "A66563-e46490": [
+      "citizen-2"
+    ],
+    "A66563-e46540": [
+      "citizen-4"
+    ],
+    "A66563-e46580": [
+      "citizen-6"
+    ],
+    "A66563-e46620": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e46660": [
+      "citizen-1"
+    ],
+    "A66563-e46700": [
+      "citizen-2"
+    ],
+    "A66563-e46740": [
+      "citizen-3"
+    ],
+    "A66563-e46780": [
+      "citizen-4"
+    ],
+    "A66563-e46820": [
+      "citizen-5"
+    ],
+    "A66563-e46860": [
+      "citizen-6"
+    ],
+    "A66563-e46900": [
+      "citizen-2"
+    ],
+    "A66563-e46940": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e46990": [
+      "philo"
+    ],
+    "A66563-e47020": [
+      "citizen-3"
+    ],
+    "A66563-e47060": [
+      "philo"
+    ],
+    "A66563-e47090": [
+      "citizen-2"
+    ],
+    "A66563-e47130": [
+      "philo"
+    ],
+    "A66563-e47160": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e47190": [
+      "philo"
+    ],
+    "A66563-e47230": [
+      "citizen-5"
+    ],
+    "A66563-e47270": [
+      "citizen-6"
+    ],
+    "A66563-e47310": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e47340": [
+      "philo"
+    ],
+    "A66563-e47370": [
+      "citizen-2"
+    ],
+    "A66563-e47410": [
+      "citizen-5"
+    ],
+    "A66563-e47450": [
+      "citizen-3"
+    ],
+    "A66563-e47490": [
+      "citizen-4"
+    ],
+    "A66563-e47530": [
+      "citizen-5"
+    ],
+    "A66563-e47570": [
+      "philo"
+    ],
+    "A66563-e47600": [
+      "citizen-2"
+    ],
+    "A66563-e47640": [
+      "citizen-3"
+    ],
+    "A66563-e47680": [
+      "philo"
+    ],
+    "A66563-e47720": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e47760": [
+      "philo"
+    ],
+    "A66563-e47810": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e47860": [
+      "citizen-1"
+    ],
+    "A66563-e47900": [
+      "citizen-3"
+    ],
+    "A66563-e47950": [
+      "constantinus"
+    ],
+    "A66563-e48020": [
+      "citizen-1"
+    ],
+    "A66563-e48060": [
+      "citizen-2"
+    ],
+    "A66563-e48110": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e48140": [
+      "citizen-3"
+    ],
+    "A66563-e48180": [
+      "citizen-6"
+    ],
+    "A66563-e48220": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e48270": [
+      "isaacius-angelus"
+    ],
+    "A66563-e48360": [
+      "citizen-3"
+    ],
+    "A66563-e48410": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e48440": [
+      "citizen-4"
+    ],
+    "A66563-e48480": [
+      "isaacius-angelus"
+    ],
+    "A66563-e48690": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e48730": [
+      "citizen-6"
+    ],
+    "A66563-e48770": [
+      "isaacius-angelus"
+    ],
+    "A66563-e49100": [
+      "citizen-7"
+    ],
+    "A66563-e49140": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e49180": [
+      "citizen-3"
+    ],
+    "A66563-e49230": [
+      "citizen-5"
+    ],
+    "A66563-e49270": [
+      "citizen-1",
+	  "citizen-2",
+	  "citizen-3",
+	  "citizen-4",
+	  "citizen-5",
+	  "citizen-6"
+    ],
+    "A66563-e49370": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e49400": [
+      "stephanus"
+    ],
+    "A66563-e49450": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e50530": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+      "citizen-4",
+      "citizen-5",
+      "citizen-6",
+      "citizen-7"
+    ],
+    "A66563-e50560": [
+      "citizen-1"
+    ],
+    "A66563-e50600": [
+      "citizen-2"
+    ],
+    "A66563-e50650": [
+      "citizen-3"
+    ],
+    "A66563-e50690": [
+      "citizen-4"
+    ],
+    "A66563-e50730": [
+      "citizen-5"
+    ],
+    "A66563-e50770": [
+      "citizen-3"
+    ],
+    "A66563-e50810": [
+      "citizen-2"
+    ],
+    "A66563-e50840": [
+      "citizen-4"
+    ],
+    "A66563-e50880": [
+      "citizen-6"
+    ],
+    "A66563-e50920": [
+      "citizen-1"
+    ],
+    "A66563-e50960": [
+      "citizen-6"
+    ],
+    "A66563-e51010": [
+      "citizen-1"
+    ],
+    "A66563-e51050": [
+      "citizen-2"
+    ],
+    "A66563-e51090": [
+      "citizen-3"
+    ],
+    "A66563-e51130": [
+      "citizen-4"
+    ],
+    "A66563-e51170": [
+      "citizen-5"
+    ],
+    "A66563-e51210": [
+      "philo"
+    ],
+    "A66563-e51240": [
+      "citizen-3"
+    ],
+    "A66563-e51290": [
+      "citizen-2"
+    ],
+    "A66563-e51330": [
+      "citizen-5"
+    ],
+    "A66563-e51370": [
+      "citizen-6"
+    ],
+    "A66563-e51500": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e51550": [
+      "servant"
+    ],
+    "A66563-e51590": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e51620": [
+      "servant"
+    ],
+    "A66563-e51710": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e51970": [
+      "citizen-1"
+    ],
+    "A66563-e52010": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e52040": [
+      "citizen-2"
+    ],
+    "A66563-e52120": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e52160": [
+      "servant"
+    ],
+    "A66563-e52240": [
+      "andronicus-comnenius"
+    ],
+    "A66563-e52360": [
+      "constantinus"
+    ],
+    "A66563-e52420": [
+      "citizen-6"
+    ],
+    "A66563-e52480": [
+      "constantinus"
+    ],
+    "A66563-e52530": [
+      "citizen-7"
+    ],
+    "A66563-e52590": [
+      "citizen-3"
+    ],
+    "A66563-e52630": [
+      "citizen-4"
+    ],
+    "A66563-e52670": [
+      "citizen-5"
+    ],
+    "A66563-e52710": [
+      "citizen-3"
+    ],
+    "A66563-e52770": [
+      "citizen-5"
+    ],
+    "A66563-e52890": [
+      "manuel"
+    ],
+    "A66563-e53260": [
+      "stephanus"
+    ],
+    "A66563-e53300": [
+      "manuel"
+    ],
+    "A66563-e53360": [
+      "stephanus"
+    ],
+    "A66563-e53420": [
+      "manuel"
+    ],
+    "A66563-e53500": [
+      "constantinus"
+    ],
+    "A66563-e53560": [
+      "stephanus"
+    ],
+    "A66563-e53620": [
+      "manuel"
+    ],
+    "A66563-e53690": [
+      "constantinus"
+    ],
+    "A66563-e53760": [
+      "manuel"
+    ],
+    "A66563-e53810": [
+      "constantinus"
+    ],
+    "A66563-e53900": [
+      "servant"
+    ],
+    "A66563-e53950": [
+      "constantinus"
+    ],
+    "A66563-e53980": [
+      "servant"
+    ],
+    "A66563-e54270": [
+      "constantinus"
+    ],
+    "A66563-e54440": [
+      "isaacius-angelus"
+    ],
+    "A66563-e54480": [
+      "constantinus"
+    ],
+    "A66563-e54510": [
+      "isaacius-angelus"
+    ],
+    "A66563-e54550": [
+      "constantinus"
+    ],
+    "A66563-e54580": [
+      "isaacius-angelus"
+    ],
+    "A66563-e54610": [
+      "constantinus"
+    ],
+    "A66563-e54670": [
+      "isaacius-angelus"
+    ],
+    "A66563-e54760": [
+      "constantinus"
+    ],
+    "A66563-e54790": [
+      "isaacius-angelus"
+    ],
+    "A66563-e54880": [
+      "constantinus"
+    ],
+    "A66563-e54940": [
+      "isaacius-angelus"
+    ]
+  }
+}

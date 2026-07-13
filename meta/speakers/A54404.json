@@ -1,0 +1,910 @@
+{
+  "particDesc": [
+    {
+      "name": "Shepherdesses",
+      "id": "shepherdesses",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Cupids",
+      "id": "cupids",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Corybant 3",
+      "id": "corybant-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Corybant 2",
+      "id": "corybant-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Corybant 1",
+      "id": "corybant-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Furies",
+      "id": "furies",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Ariadne",
+      "id": "ariadne",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Corybants",
+      "id": "corybants",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Hoboyes ",
+      "id": "hoboyes",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cliton",
+      "id": "cliton",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Po",
+      "id": "po",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Seine ",
+      "id": "seine",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tyber",
+      "id": "tyber",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Thamis",
+      "id": "thamis",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bacchus",
+      "name": "Bacchus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "euphrosine",
+      "name": "Euphrosine",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "silene",
+      "name": "Silene",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bellona",
+      "name": "Bellona",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "diana",
+      "name": "Diana",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "thetis",
+      "name": "Thetis",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "hercules",
+      "name": "Hercules",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "megera",
+      "name": "Megera",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "cloris",
+      "name": "Cloris",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "phillis",
+      "name": "Phillis",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "damon",
+      "name": "Damon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bacchantes",
+      "name": "Bacchantes",
+      "isGroup": true,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A54404-e1550": [
+      "thamis"
+    ],
+    "A54404-e1720": [
+      "tyber"
+    ],
+    "A54404-e1870": [
+      "seine"
+    ],
+    "A54404-e2010": [
+      "thamis"
+    ],
+    "A54404-e2070": [
+      "tyber"
+    ],
+    "A54404-e2120": [
+      "seine"
+    ],
+    "A54404-e2160": [
+      "tyber"
+    ],
+    "A54404-e2210": [
+      "thamis"
+    ],
+    "A54404-e2280": [
+      "tyber"
+    ],
+    "A54404-e2320": [
+      "seine"
+    ],
+    "A54404-e2360": [
+      "thamis",
+      "tyber",
+      "seine"
+    ],
+    "A54404-e2450": [
+      "po"
+    ],
+    "A54404-e2640": [
+      "thamis"
+    ],
+    "A54404-e2780": [
+      "po",
+      "thamis",
+      "seine",
+      "tyber"
+    ],
+    "A54404-e2940": [
+      "cliton"
+    ],
+    "A54404-e3090": [
+      "cliton"
+    ],
+    "A54404-e3270": [
+      "silene",
+      "cliton",
+      "bacchantes",
+      "corybants",
+      "hoboyes"
+    ],
+    "A54404-e3310": [
+      "silene"
+    ],
+    "A54404-e3440": [
+      "silene"
+    ],
+    "A54404-e3500": [
+      "cliton",
+      "corybants"
+    ],
+    "A54404-e3540": [
+      "silene"
+    ],
+    "A54404-e3570": [
+      "cliton",
+      "corybants"
+    ],
+    "A54404-e3650": [
+      "bacchus"
+    ],
+    "A54404-e3710": [
+      "corybants"
+    ],
+    "A54404-e3760": [
+      "venus",
+      "euphrosine"
+    ],
+    "A54404-e3810": [
+      "corybants"
+    ],
+    "A54404-e3850": [
+      "venus",
+      "euphrosine"
+    ],
+    "A54404-e3890": [
+      "corybants"
+    ],
+    "A54404-e3920": [
+      "venus"
+    ],
+    "A54404-e3950": [
+      "corybants"
+    ],
+    "A54404-e4000": [
+      "bacchus"
+    ],
+    "A54404-e4080": [
+      "bacchus"
+    ],
+    "A54404-e4300": [
+      "venus"
+    ],
+    "A54404-e4410": [
+      "euphrosine"
+    ],
+    "A54404-e4470": [
+      "venus",
+      "euphrosine"
+    ],
+    "A54404-e4570": [
+      "silene",
+      "corybants"
+    ],
+    "A54404-e4640": [
+      "corybants"
+    ],
+    "A54404-e4690": [
+      "silene"
+    ],
+    "A54404-e4740": [
+      "corybants"
+    ],
+    "A54404-e4780": [
+      "silene"
+    ],
+    "A54404-e4830": [
+      "silene",
+      "cliton",
+      "bacchantes",
+      "corybants",
+      "hoboyes"
+    ],
+    "A54404-e5010": [
+      "mars"
+    ],
+    "A54404-e5050": [
+      "bellona"
+    ],
+    "A54404-e5090": [
+      "mars"
+    ],
+    "A54404-e5140": [
+      "bellona"
+    ],
+    "A54404-e5200": [
+      "mars"
+    ],
+    "A54404-e5260": [
+      "bellona"
+    ],
+    "A54404-e5370": [
+      "mars"
+    ],
+    "A54404-e5600": [
+      "bellona"
+    ],
+    "A54404-e5860": [
+      "cloris"
+    ],
+    "A54404-e6000": [
+      "phillis"
+    ],
+    "A54404-e6100": [
+      "phillis"
+    ],
+    "A54404-e6240": [
+      "damon"
+    ],
+    "A54404-e6300": [
+      "cloris"
+    ],
+    "A54404-e6340": [
+      "damon"
+    ],
+    "A54404-e6380": [
+      "cloris"
+    ],
+    "A54404-e6430": [
+      "damon"
+    ],
+    "A54404-e6470": [
+      "cloris"
+    ],
+    "A54404-e6510": [
+      "damon"
+    ],
+    "A54404-e6550": [
+      "cloris"
+    ],
+    "A54404-e6690": [
+      "ariadne"
+    ],
+    "A54404-e6830": [
+      "silene"
+    ],
+    "A54404-e6900": [
+      "ariadne"
+    ],
+    "A54404-e7030": [
+      "silene"
+    ],
+    "A54404-e7100": [
+      "ariadne"
+    ],
+    "A54404-e7210": [
+      "silene"
+    ],
+    "A54404-e7240": [
+      "cliton"
+    ],
+    "A54404-e7270": [
+      "bacchus"
+    ],
+    "A54404-e7300": [
+      "silene"
+    ],
+    "A54404-e7330": [
+      "cliton"
+    ],
+    "A54404-e7360": [
+      "silene"
+    ],
+    "A54404-e7400": [
+      "ariadne"
+    ],
+    "A54404-e7570": [
+      "bacchus"
+    ],
+    "A54404-e7730": [
+      "cliton"
+    ],
+    "A54404-e7770": [
+      "cloris"
+    ],
+    "A54404-e7810": [
+      "silene"
+    ],
+    "A54404-e7840": [
+      "cloris"
+    ],
+    "A54404-e7870": [
+      "cliton",
+      "silene"
+    ],
+    "A54404-e7910": [
+      "cloris"
+    ],
+    "A54404-e7960": [
+      "cliton",
+      "silene"
+    ],
+    "A54404-e8000": [
+      "cloris"
+    ],
+    "A54404-e8130": [
+      "cloris"
+    ],
+    "A54404-e8220": [
+      "megera"
+    ],
+    "A54404-e8300": [
+      "bellona"
+    ],
+    "A54404-e8650": [
+      "bacchus"
+    ],
+    "A54404-e8810": [
+      "ariadne"
+    ],
+    "A54404-e8850": [
+      "bacchus"
+    ],
+    "A54404-e8900": [
+      "ariadne"
+    ],
+    "A54404-e8930": [
+      "bacchus"
+    ],
+    "A54404-e8970": [
+      "ariadne"
+    ],
+    "A54404-e9000": [
+      "bacchus"
+    ],
+    "A54404-e9040": [
+      "ariadne"
+    ],
+    "A54404-e9100": [
+      "bacchus"
+    ],
+    "A54404-e9130": [
+      "ariadne"
+    ],
+    "A54404-e9160": [
+      "bacchus"
+    ],
+    "A54404-e9190": [
+      "ariadne"
+    ],
+    "A54404-e9220": [
+      "bacchus"
+    ],
+    "A54404-e9250": [
+      "ariadne"
+    ],
+    "A54404-e9290": [
+      "bacchus"
+    ],
+    "A54404-e9320": [
+      "ariadne"
+    ],
+    "A54404-e9350": [
+      "bacchus"
+    ],
+    "A54404-e9380": [
+      "ariadne"
+    ],
+    "A54404-e9420": [
+      "bacchus"
+    ],
+    "A54404-e9460": [
+      "ariadne"
+    ],
+    "A54404-e9550": [
+      "venus"
+    ],
+    "A54404-e9590": [
+      "euphrosine"
+    ],
+    "A54404-e9630": [
+      "venus"
+    ],
+    "A54404-e9720": [
+      "bacchus"
+    ],
+    "A54404-e9790": [
+      "venus"
+    ],
+    "A54404-e9820": [
+      "bacchus"
+    ],
+    "A54404-e9850": [
+      "venus",
+      "euphrosine"
+    ],
+    "A54404-e9940": [
+      "bacchus"
+    ],
+    "A54404-e10070": [
+      "mars",
+      "bellona",
+      "furies"
+    ],
+    "A54404-e10120": [
+      "bellona"
+    ],
+    "A54404-e10180": [
+      "mars"
+    ],
+    "A54404-e10240": [
+      "mars",
+      "bellona",
+      "furies"
+    ],
+    "A54404-e10290": [
+      "mars"
+    ],
+    "A54404-e10370": [
+      "bellona"
+    ],
+    "A54404-e10480": [
+      "mars",
+      "bellona"
+    ],
+    "A54404-e10510": [
+      "apollo",
+      "diana",
+      "hercules"
+    ],
+    "A54404-e10550": [
+      "bellona"
+    ],
+    "A54404-e10580": [
+      "apollo",
+      "diana",
+      "hercules"
+    ],
+    "A54404-e10610": [
+      "mars"
+    ],
+    "A54404-e10640": [
+      "bellona"
+    ],
+    "A54404-e10690": [
+      "bacchus",
+      "silene",
+      "bellona",
+      "furies",
+      "apollo",
+      "diana",
+      "hercules"
+    ],
+    "A54404-e10770": [
+      "mars"
+    ],
+    "A54404-e10910": [
+      "ariadne"
+    ],
+    "A54404-e10960": [
+      "bacchus"
+    ],
+    "A54404-e11020": [
+      "mars"
+    ],
+    "A54404-e11050": [
+      "bacchus"
+    ],
+    "A54404-e11110": [
+      "bellona"
+    ],
+    "A54404-e11140": [
+      "euphrosine"
+    ],
+    "A54404-e11170": [
+      "bellona"
+    ],
+    "A54404-e11200": [
+      "euphrosine"
+    ],
+    "A54404-e11230": [
+      "bellona"
+    ],
+    "A54404-e11260": [
+      "bacchus"
+    ],
+    "A54404-e11380": [
+      "mars"
+    ],
+    "A54404-e11420": [
+      "diana",
+      "apollo"
+    ],
+    "A54404-e11890": [
+      "damon"
+    ],
+    "A54404-e12080": [
+      "cloris"
+    ],
+    "A54404-e12170": [
+      "cliton"
+    ],
+    "A54404-e12260": [
+      "cloris",
+      "cliton"
+    ],
+    "A54404-e12380": [
+      "damon"
+    ],
+    "A54404-e12420": [
+      "cliton",
+      "cloris"
+    ],
+    "A54404-e12450": [
+      "damon"
+    ],
+    "A54404-e12480": [
+      "cliton"
+    ],
+    "A54404-e12520": [
+      "damon"
+    ],
+    "A54404-e12550": [
+      "cloris",
+      "cliton"
+    ],
+    "A54404-e12630": [
+      "ariadne"
+    ],
+    "A54404-e12660": [
+      "cliton"
+    ],
+    "A54404-e12690": [
+      "ariadne"
+    ],
+    "A54404-e12730": [
+      "phillis"
+    ],
+    "A54404-e12880": [
+      "venus"
+    ],
+    "A54404-e12930": [
+      "ariadne"
+    ],
+    "A54404-e12960": [
+      "venus"
+    ],
+    "A54404-e13010": [
+      "ariadne"
+    ],
+    "A54404-e13050": [
+      "venus"
+    ],
+    "A54404-e13100": [
+      "cloris"
+    ],
+    "A54404-e13160": [
+      "ariadne"
+    ],
+    "A54404-e13300": [
+      "bacchus"
+    ],
+    "A54404-e13340": [
+      "ariadne"
+    ],
+    "A54404-e13380": [
+      "bacchus"
+    ],
+    "A54404-e13410": [
+      "ariadne"
+    ],
+    "A54404-e13440": [
+      "bacchus"
+    ],
+    "A54404-e13470": [
+      "ariadne"
+    ],
+    "A54404-e13500": [
+      "bacchus"
+    ],
+    "A54404-e13540": [
+      "ariadne"
+    ],
+    "A54404-e13570": [
+      "bacchus"
+    ],
+    "A54404-e13600": [
+      "ariadne"
+    ],
+    "A54404-e13630": [
+      "bacchus"
+    ],
+    "A54404-e13660": [
+      "ariadne"
+    ],
+    "A54404-e13690": [
+      "bacchus"
+    ],
+    "A54404-e13720": [
+      "ariadne"
+    ],
+    "A54404-e13750": [
+      "bacchus"
+    ],
+    "A54404-e13780": [
+      "ariadne"
+    ],
+    "A54404-e13810": [
+      "cliton",
+      "euphrosine"
+    ],
+    "A54404-e13920": [
+      "silene"
+    ],
+    "A54404-e13960": [
+      "venus"
+    ],
+    "A54404-e13990": [
+      "silene"
+    ],
+    "A54404-e14040": [
+      "venus"
+    ],
+    "A54404-e14080": [
+      "euphrosine"
+    ],
+    "A54404-e14110": [
+      "silene"
+    ],
+    "A54404-e14150": [
+      "euphrosine"
+    ],
+    "A54404-e14190": [
+      "venus"
+    ],
+    "A54404-e14230": [
+      "bacchus"
+    ],
+    "A54404-e14260": [
+      "silene",
+      "cliton",
+      "bacchantes",
+      "corybants",
+      "hoboyes"
+    ],
+    "A54404-e14300": [
+      "silene",
+      "corybants"
+    ],
+    "A54404-e14470": [
+      "corybant-1"
+    ],
+    "A54404-e14540": [
+      "corybant-2"
+    ],
+    "A54404-e14600": [
+      "corybant-3"
+    ],
+    "A54404-e14710": [
+      "silene"
+    ],
+    "A54404-e14870": [
+      "bacchus",
+      "ariadne"
+    ],
+    "A54404-e14920": [
+      "ariadne"
+    ],
+    "A54404-e14950": [
+      "bacchus"
+    ],
+    "A54404-e15000": [
+      "ariadne"
+    ],
+    "A54404-e15090": [
+      "phillis"
+    ],
+    "A54404-e15170": [
+      "corybant-1"
+    ],
+    "A54404-e15230": [
+      "cloris"
+    ],
+    "A54404-e15350": [
+      "ariadne"
+    ],
+    "A54404-e15400": [
+      "silene"
+    ],
+    "A54404-e15530": [
+      "silene"
+    ],
+    "A54404-e15680": [
+      "damon"
+    ],
+    "A54404-e15740": [
+      "cliton"
+    ],
+    "A54404-e15830": [
+      "damon"
+    ],
+    "A54404-e15870": [
+      "cliton"
+    ],
+    "A54404-e15910": [
+      "damon"
+    ],
+    "A54404-e15940": [
+      "cloris"
+    ],
+    "A54404-e15970": [
+      "silene",
+      "cliton",
+      "bacchantes",
+      "corybants",
+      "hoboyes"
+    ],
+    "A54404-e16140": [
+      "venus"
+    ],
+    "A54404-e16220": [
+      "euphrosine"
+    ],
+    "A54404-e16320": [
+      "venus",
+      "euphrosine"
+    ],
+    "A54404-e16360": [
+      "damon"
+    ],
+    "A54404-e16390": [
+      "cloris"
+    ],
+    "A54404-e16430": [
+      "euphrosine"
+    ],
+    "A54404-e16460": [
+      "silene"
+    ],
+    "A54404-e16500": [
+      "venus"
+    ],
+    "A54404-e16530": [
+      "silene",
+      "cliton",
+      "bacchantes",
+      "corybants",
+      "hoboyes"
+    ],
+    "A54404-e16570": [
+      "venus",
+      "euphrosine"
+    ],
+    "A54404-e16600": [
+      "silene",
+      "cliton",
+      "corybants",
+      "damon"
+    ],
+    "A54404-e16630": [
+      "bacchus",
+      "ariadne",
+      "venus",
+      "euphrosine",
+      "silene",
+      "cliton",
+      "cloris",
+      "corybants",
+      "hoboyes",
+      "cupids"
+    ]
+  }
+}

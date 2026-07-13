@@ -1,0 +1,2711 @@
+{
+  "particDesc": [
+    {
+      "name": "Footman",
+      "id": "footman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mrs. Snare",
+      "id": "mrs-snare",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rashley",
+      "name": "Rashley",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ranger",
+      "name": "Ranger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "perrgrine-bubble",
+      "name": "Perrgrine Bubble",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "old-fumble",
+      "name": "Old Fumble",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-roger-petulant",
+      "name": "Sir Roger Petulant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sneak",
+      "name": "Sneak",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "spatterdash",
+      "name": "Spatterdash",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ieremy",
+      "name": "Ieremy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "apothecary",
+      "name": "Apothecary",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "id": "emillia",
+      "name": "Emillia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "maria",
+      "name": "Maria",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "cordelia",
+      "name": "Cordelia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "betty",
+      "name": "Betty",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "governess",
+      "name": "Governess",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A36975-e2640": [
+      "rashley"
+    ],
+    "A36975-e2670": [
+      "emillia"
+    ],
+    "A36975-e2710": [
+      "rashley"
+    ],
+    "A36975-e2740": [
+      "emillia"
+    ],
+    "A36975-e2770": [
+      "rashley"
+    ],
+    "A36975-e2800": [
+      "emillia"
+    ],
+    "A36975-e2830": [
+      "rashley"
+    ],
+    "A36975-e2860": [
+      "emillia"
+    ],
+    "A36975-e2900": [
+      "rashley"
+    ],
+    "A36975-e2930": [
+      "emillia"
+    ],
+    "A36975-e2970": [
+      "rashley"
+    ],
+    "A36975-e3010": [
+      "emillia"
+    ],
+    "A36975-e3040": [
+      "rashley"
+    ],
+    "A36975-e3090": [
+      "betty"
+    ],
+    "A36975-e3130": [
+      "emillia"
+    ],
+    "A36975-e3180": [
+      "ranger"
+    ],
+    "A36975-e3230": [
+      "emillia"
+    ],
+    "A36975-e3260": [
+      "ranger"
+    ],
+    "A36975-e3290": [
+      "emillia"
+    ],
+    "A36975-e3320": [
+      "ranger"
+    ],
+    "A36975-e3350": [
+      "rashley"
+    ],
+    "A36975-e3380": [
+      "emillia"
+    ],
+    "A36975-e3410": [
+      "ranger"
+    ],
+    "A36975-e3440": [
+      "emillia"
+    ],
+    "A36975-e3470": [
+      "ranger"
+    ],
+    "A36975-e3500": [
+      "rashley"
+    ],
+    "A36975-e3540": [
+      "ranger"
+    ],
+    "A36975-e3570": [
+      "emillia"
+    ],
+    "A36975-e3600": [
+      "rashley"
+    ],
+    "A36975-e3630": [
+      "ranger"
+    ],
+    "A36975-e3660": [
+      "emillia"
+    ],
+    "A36975-e3690": [
+      "rashley"
+    ],
+    "A36975-e3770": [
+      "betty"
+    ],
+    "A36975-e3800": [
+      "ranger"
+    ],
+    "A36975-e3830": [
+      "emillia"
+    ],
+    "A36975-e3870": [
+      "rashley"
+    ],
+    "A36975-e3920": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e3990": [
+      "emillia"
+    ],
+    "A36975-e4020": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4050": [
+      "ranger"
+    ],
+    "A36975-e4080": [
+      "emillia"
+    ],
+    "A36975-e4110": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4160": [
+      "ranger"
+    ],
+    "A36975-e4190": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4230": [
+      "ranger"
+    ],
+    "A36975-e4260": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4310": [
+      "rashley"
+    ],
+    "A36975-e4340": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4370": [
+      "emillia"
+    ],
+    "A36975-e4420": [
+      "rashley"
+    ],
+    "A36975-e4450": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4480": [
+      "rashley"
+    ],
+    "A36975-e4520": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4570": [
+      "rashley"
+    ],
+    "A36975-e4600": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4630": [
+      "rashley"
+    ],
+    "A36975-e4660": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4690": [
+      "ranger"
+    ],
+    "A36975-e4720": [
+      "emillia"
+    ],
+    "A36975-e4750": [
+      "ranger"
+    ],
+    "A36975-e4780": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4830": [
+      "ranger"
+    ],
+    "A36975-e4860": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e4910": [
+      "emillia"
+    ],
+    "A36975-e4940": [
+      "ranger"
+    ],
+    "A36975-e4980": [
+      "rashley"
+    ],
+    "A36975-e5030": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5070": [
+      "ranger"
+    ],
+    "A36975-e5100": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5130": [
+      "ranger"
+    ],
+    "A36975-e5160": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5200": [
+      "ranger"
+    ],
+    "A36975-e5230": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5260": [
+      "ranger"
+    ],
+    "A36975-e5300": [
+      "rashley"
+    ],
+    "A36975-e5330": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5360": [
+      "emillia"
+    ],
+    "A36975-e5390": [
+      "ranger"
+    ],
+    "A36975-e5420": [
+      "rashley"
+    ],
+    "A36975-e5450": [
+      "ranger"
+    ],
+    "A36975-e5480": [
+      "rashley"
+    ],
+    "A36975-e5510": [
+      "emillia"
+    ],
+    "A36975-e5540": [
+      "rashley"
+    ],
+    "A36975-e5570": [
+      "ranger"
+    ],
+    "A36975-e5620": [
+      "rashley"
+    ],
+    "A36975-e5650": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5690": [
+      "emillia"
+    ],
+    "A36975-e5730": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5760": [
+      "ranger"
+    ],
+    "A36975-e5790": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5840": [
+      "ranger"
+    ],
+    "A36975-e5870": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5910": [
+      "ranger"
+    ],
+    "A36975-e5940": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e5970": [
+      "ranger"
+    ],
+    "A36975-e6030": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e6060": [
+      "rashley"
+    ],
+    "A36975-e6090": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e6130": [
+      "footman"
+    ],
+    "A36975-e6180": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e6220": [
+      "emillia"
+    ],
+    "A36975-e6250": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e6290": [
+      "emillia"
+    ],
+    "A36975-e6320": [
+      "rashley"
+    ],
+    "A36975-e6350": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e6400": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e6480": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e6550": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e6620": [
+      "sneak"
+    ],
+    "A36975-e6650": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e6690": [
+      "sneak"
+    ],
+    "A36975-e6720": [
+      "old-fumble"
+    ],
+    "A36975-e6760": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e6790": [
+      "old-fumble"
+    ],
+    "A36975-e6820": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e6870": [
+      "old-fumble"
+    ],
+    "A36975-e6930": [
+      "sneak"
+    ],
+    "A36975-e6960": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e6990": [
+      "old-fumble"
+    ],
+    "A36975-e7020": [
+      "cordelia"
+    ],
+    "A36975-e7050": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e7090": [
+      "rashley"
+    ],
+    "A36975-e7120": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e7170": [
+      "rashley"
+    ],
+    "A36975-e7200": [
+      "sneak"
+    ],
+    "A36975-e7230": [
+      "cordelia"
+    ],
+    "A36975-e7260": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e7300": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e7770": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e7800": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e7830": [
+      "old-fumble"
+    ],
+    "A36975-e7860": [
+      "rashley"
+    ],
+    "A36975-e7890": [
+      "old-fumble"
+    ],
+    "A36975-e7930": [
+      "rashley"
+    ],
+    "A36975-e7960": [
+      "old-fumble"
+    ],
+    "A36975-e7990": [
+      "perrgrine-bubble",
+      "sir-roger-petulant",
+      "sneak",
+      "old-fumble",
+      "cordelia",
+      "rashley"
+    ],
+    "A36975-e8020": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e8070": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e8150": [
+      "rashley"
+    ],
+    "A36975-e8200": [
+      "emillia"
+    ],
+    "A36975-e8230": [
+      "rashley"
+    ],
+    "A36975-e8260": [
+      "emillia"
+    ],
+    "A36975-e8290": [
+      "rashley"
+    ],
+    "A36975-e8400": [
+      "ranger"
+    ],
+    "A36975-e8430": [
+      "maria"
+    ],
+    "A36975-e8460": [
+      "ranger"
+    ],
+    "A36975-e8490": [
+      "maria"
+    ],
+    "A36975-e8520": [
+      "ranger"
+    ],
+    "A36975-e8550": [
+      "maria"
+    ],
+    "A36975-e8580": [
+      "ranger"
+    ],
+    "A36975-e8620": [
+      "maria"
+    ],
+    "A36975-e8650": [
+      "ranger"
+    ],
+    "A36975-e8690": [
+      "maria"
+    ],
+    "A36975-e8720": [
+      "ranger"
+    ],
+    "A36975-e8750": [
+      "maria"
+    ],
+    "A36975-e8780": [
+      "ranger"
+    ],
+    "A36975-e8810": [
+      "maria"
+    ],
+    "A36975-e8840": [
+      "ranger"
+    ],
+    "A36975-e8870": [
+      "maria"
+    ],
+    "A36975-e8900": [
+      "ranger"
+    ],
+    "A36975-e8930": [
+      "maria"
+    ],
+    "A36975-e8960": [
+      "ranger"
+    ],
+    "A36975-e8990": [
+      "maria"
+    ],
+    "A36975-e9020": [
+      "ranger"
+    ],
+    "A36975-e9050": [
+      "maria"
+    ],
+    "A36975-e9110": [
+      "ranger"
+    ],
+    "A36975-e9240": [
+      "emillia"
+    ],
+    "A36975-e9290": [
+      "rashley"
+    ],
+    "A36975-e9320": [
+      "emillia"
+    ],
+    "A36975-e9360": [
+      "rashley"
+    ],
+    "A36975-e9410": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e9460": [
+      "rashley"
+    ],
+    "A36975-e9510": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e9550": [
+      "rashley"
+    ],
+    "A36975-e9580": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e9620": [
+      "rashley"
+    ],
+    "A36975-e9650": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e9690": [
+      "rashley"
+    ],
+    "A36975-e9720": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e9760": [
+      "rashley"
+    ],
+    "A36975-e9790": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e9840": [
+      "rashley"
+    ],
+    "A36975-e9870": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e9920": [
+      "rashley"
+    ],
+    "A36975-e9960": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e9990": [
+      "rashley"
+    ],
+    "A36975-e10020": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e10060": [
+      "rashley"
+    ],
+    "A36975-e10090": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e10120": [
+      "rashley"
+    ],
+    "A36975-e10150": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e10180": [
+      "rashley"
+    ],
+    "A36975-e10210": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e10240": [
+      "rashley"
+    ],
+    "A36975-e10270": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e10300": [
+      "rashley"
+    ],
+    "A36975-e10390": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e10430": [
+      "cordelia"
+    ],
+    "A36975-e10460": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e10500": [
+      "cordelia"
+    ],
+    "A36975-e10530": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e10560": [
+      "cordelia"
+    ],
+    "A36975-e10590": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e10640": [
+      "sneak"
+    ],
+    "A36975-e10680": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e10730": [
+      "cordelia"
+    ],
+    "A36975-e10770": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e10810": [
+      "sneak"
+    ],
+    "A36975-e10840": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e10870": [
+      "cordelia"
+    ],
+    "A36975-e10900": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e10950": [
+      "cordelia"
+    ],
+    "A36975-e10980": [
+      "sneak"
+    ],
+    "A36975-e11020": [
+      "cordelia"
+    ],
+    "A36975-e11050": [
+      "sneak"
+    ],
+    "A36975-e11080": [
+      "cordelia"
+    ],
+    "A36975-e11120": [
+      "sneak"
+    ],
+    "A36975-e11150": [
+      "cordelia"
+    ],
+    "A36975-e11180": [
+      "sneak"
+    ],
+    "A36975-e11210": [
+      "cordelia"
+    ],
+    "A36975-e11240": [
+      "sneak"
+    ],
+    "A36975-e11270": [
+      "cordelia"
+    ],
+    "A36975-e11300": [
+      "sneak"
+    ],
+    "A36975-e11330": [
+      "cordelia"
+    ],
+    "A36975-e11380": [
+      "old-fumble"
+    ],
+    "A36975-e11410": [
+      "sneak"
+    ],
+    "A36975-e11440": [
+      "old-fumble"
+    ],
+    "A36975-e11480": [
+      "sneak"
+    ],
+    "A36975-e11510": [
+      "cordelia"
+    ],
+    "A36975-e11540": [
+      "sneak"
+    ],
+    "A36975-e11570": [
+      "old-fumble"
+    ],
+    "A36975-e11610": [
+      "sneak"
+    ],
+    "A36975-e11640": [
+      "cordelia"
+    ],
+    "A36975-e11670": [
+      "sneak"
+    ],
+    "A36975-e11710": [
+      "old-fumble"
+    ],
+    "A36975-e11740": [
+      "cordelia"
+    ],
+    "A36975-e11770": [
+      "sneak"
+    ],
+    "A36975-e11800": [
+      "cordelia"
+    ],
+    "A36975-e11830": [
+      "sneak"
+    ],
+    "A36975-e11860": [
+      "old-fumble"
+    ],
+    "A36975-e11890": [
+      "cordelia"
+    ],
+    "A36975-e11920": [
+      "old-fumble"
+    ],
+    "A36975-e11980": [
+      "betty"
+    ],
+    "A36975-e12020": [
+      "sneak"
+    ],
+    "A36975-e12060": [
+      "betty"
+    ],
+    "A36975-e12090": [
+      "sneak"
+    ],
+    "A36975-e12120": [
+      "betty"
+    ],
+    "A36975-e12170": [
+      "sneak"
+    ],
+    "A36975-e12210": [
+      "cordelia"
+    ],
+    "A36975-e12240": [
+      "sneak"
+    ],
+    "A36975-e12280": [
+      "cordelia"
+    ],
+    "A36975-e12310": [
+      "old-fumble"
+    ],
+    "A36975-e12350": [
+      "cordelia"
+    ],
+    "A36975-e12380": [
+      "old-fumble"
+    ],
+    "A36975-e12490": [
+      "emillia"
+    ],
+    "A36975-e12520": [
+      "maria"
+    ],
+    "A36975-e12550": [
+      "emillia"
+    ],
+    "A36975-e12580": [
+      "maria"
+    ],
+    "A36975-e12610": [
+      "emillia"
+    ],
+    "A36975-e12640": [
+      "maria"
+    ],
+    "A36975-e12670": [
+      "emillia"
+    ],
+    "A36975-e12700": [
+      "maria"
+    ],
+    "A36975-e12730": [
+      "emillia"
+    ],
+    "A36975-e12760": [
+      "maria"
+    ],
+    "A36975-e12790": [
+      "emillia"
+    ],
+    "A36975-e12820": [
+      "maria"
+    ],
+    "A36975-e12880": [
+      "emillia"
+    ],
+    "A36975-e12910": [
+      "maria"
+    ],
+    "A36975-e12940": [
+      "emillia"
+    ],
+    "A36975-e12970": [
+      "maria"
+    ],
+    "A36975-e13000": [
+      "emillia"
+    ],
+    "A36975-e13030": [
+      "maria"
+    ],
+    "A36975-e13070": [
+      "emillia"
+    ],
+    "A36975-e13100": [
+      "maria"
+    ],
+    "A36975-e13130": [
+      "emillia"
+    ],
+    "A36975-e13160": [
+      "maria"
+    ],
+    "A36975-e13190": [
+      "emillia"
+    ],
+    "A36975-e13230": [
+      "maria"
+    ],
+    "A36975-e13260": [
+      "emillia"
+    ],
+    "A36975-e13290": [
+      "maria"
+    ],
+    "A36975-e13320": [
+      "emillia"
+    ],
+    "A36975-e13350": [
+      "maria"
+    ],
+    "A36975-e13380": [
+      "emillia"
+    ],
+    "A36975-e13410": [
+      "maria"
+    ],
+    "A36975-e13440": [
+      "emillia"
+    ],
+    "A36975-e13470": [
+      "maria"
+    ],
+    "A36975-e13500": [
+      "emillia"
+    ],
+    "A36975-e13530": [
+      "maria"
+    ],
+    "A36975-e13560": [
+      "emillia"
+    ],
+    "A36975-e13590": [
+      "maria"
+    ],
+    "A36975-e13620": [
+      "emillia"
+    ],
+    "A36975-e13660": [
+      "maria"
+    ],
+    "A36975-e13750": [
+      "sneak"
+    ],
+    "A36975-e13790": [
+      "mrs-snare"
+    ],
+    "A36975-e13830": [
+      "sneak"
+    ],
+    "A36975-e13860": [
+      "mrs-snare"
+    ],
+    "A36975-e13900": [
+      "sneak"
+    ],
+    "A36975-e13930": [
+      "mrs-snare"
+    ],
+    "A36975-e13960": [
+      "sneak"
+    ],
+    "A36975-e14000": [
+      "mrs-snare"
+    ],
+    "A36975-e14030": [
+      "sneak"
+    ],
+    "A36975-e14080": [
+      "betty"
+    ],
+    "A36975-e14120": [
+      "sneak"
+    ],
+    "A36975-e14150": [
+      "betty"
+    ],
+    "A36975-e14180": [
+      "sneak"
+    ],
+    "A36975-e14250": [
+      "ranger"
+    ],
+    "A36975-e14280": [
+      "emillia"
+    ],
+    "A36975-e14310": [
+      "ranger"
+    ],
+    "A36975-e14340": [
+      "emillia"
+    ],
+    "A36975-e14370": [
+      "ranger"
+    ],
+    "A36975-e14410": [
+      "emillia"
+    ],
+    "A36975-e14440": [
+      "ranger"
+    ],
+    "A36975-e14500": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e14540": [
+      "rashley"
+    ],
+    "A36975-e14580": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e14620": [
+      "old-fumble"
+    ],
+    "A36975-e14650": [
+      "emillia"
+    ],
+    "A36975-e14710": [
+      "rashley"
+    ],
+    "A36975-e14740": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e14770": [
+      "ranger"
+    ],
+    "A36975-e14800": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e14850": [
+      "rashley"
+    ],
+    "A36975-e14880": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e14910": [
+      "emillia"
+    ],
+    "A36975-e14940": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e14980": [
+      "ranger"
+    ],
+    "A36975-e15050": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e15080": [
+      "ranger"
+    ],
+    "A36975-e15110": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e15150": [
+      "ranger"
+    ],
+    "A36975-e15180": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e15240": [
+      "emillia"
+    ],
+    "A36975-e15270": [
+      "ranger"
+    ],
+    "A36975-e15300": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e15340": [
+      "rashley"
+    ],
+    "A36975-e15380": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e15410": [
+      "old-fumble"
+    ],
+    "A36975-e15440": [
+      "emillia"
+    ],
+    "A36975-e15470": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e15510": [
+      "ranger"
+    ],
+    "A36975-e15540": [
+      "rashley"
+    ],
+    "A36975-e15580": [
+      "ranger"
+    ],
+    "A36975-e15620": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e15690": [
+      "ranger"
+    ],
+    "A36975-e15750": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e15800": [
+      "maria"
+    ],
+    "A36975-e15850": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e15880": [
+      "maria"
+    ],
+    "A36975-e15910": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e15950": [
+      "ranger"
+    ],
+    "A36975-e15980": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16010": [
+      "maria"
+    ],
+    "A36975-e16050": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16090": [
+      "ranger"
+    ],
+    "A36975-e16120": [
+      "betty"
+    ],
+    "A36975-e16160": [
+      "maria"
+    ],
+    "A36975-e16210": [
+      "ranger"
+    ],
+    "A36975-e16240": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16280": [
+      "ranger"
+    ],
+    "A36975-e16320": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16350": [
+      "ranger"
+    ],
+    "A36975-e16380": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16420": [
+      "maria"
+    ],
+    "A36975-e16450": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16480": [
+      "ranger"
+    ],
+    "A36975-e16510": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16540": [
+      "maria"
+    ],
+    "A36975-e16570": [
+      "ranger"
+    ],
+    "A36975-e16620": [
+      "maria"
+    ],
+    "A36975-e16660": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16700": [
+      "ranger"
+    ],
+    "A36975-e16740": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16770": [
+      "maria"
+    ],
+    "A36975-e16800": [
+      "ranger"
+    ],
+    "A36975-e16830": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16860": [
+      "maria"
+    ],
+    "A36975-e16890": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e16920": [
+      "ranger"
+    ],
+    "A36975-e16990": [
+      "emillia"
+    ],
+    "A36975-e17020": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e17060": [
+      "emillia"
+    ],
+    "A36975-e17130": [
+      "rashley"
+    ],
+    "A36975-e17160": [
+      "emillia"
+    ],
+    "A36975-e17190": [
+      "rashley"
+    ],
+    "A36975-e17230": [
+      "emillia"
+    ],
+    "A36975-e17260": [
+      "rashley"
+    ],
+    "A36975-e17310": [
+      "betty"
+    ],
+    "A36975-e17360": [
+      "emillia"
+    ],
+    "A36975-e17390": [
+      "rashley"
+    ],
+    "A36975-e17420": [
+      "emillia"
+    ],
+    "A36975-e17470": [
+      "betty"
+    ],
+    "A36975-e17500": [
+      "emillia"
+    ],
+    "A36975-e17560": [
+      "rashley"
+    ],
+    "A36975-e17630": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e17670": [
+      "servant"
+    ],
+    "A36975-e17700": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e17730": [
+      "old-fumble"
+    ],
+    "A36975-e17770": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e17800": [
+      "cordelia"
+    ],
+    "A36975-e17830": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e17860": [
+      "old-fumble"
+    ],
+    "A36975-e17910": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e17940": [
+      "old-fumble"
+    ],
+    "A36975-e17990": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e18030": [
+      "old-fumble"
+    ],
+    "A36975-e18070": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e18100": [
+      "old-fumble"
+    ],
+    "A36975-e18140": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e18180": [
+      "old-fumble"
+    ],
+    "A36975-e18300": [
+      "betty"
+    ],
+    "A36975-e18330": [
+      "ranger"
+    ],
+    "A36975-e18360": [
+      "betty"
+    ],
+    "A36975-e18400": [
+      "ranger"
+    ],
+    "A36975-e18430": [
+      "betty"
+    ],
+    "A36975-e18510": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e18550": [
+      "ranger"
+    ],
+    "A36975-e18580": [
+      "maria"
+    ],
+    "A36975-e18620": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e18660": [
+      "ranger"
+    ],
+    "A36975-e18690": [
+      "maria"
+    ],
+    "A36975-e18730": [
+      "ranger"
+    ],
+    "A36975-e18760": [
+      "maria"
+    ],
+    "A36975-e18790": [
+      "ranger"
+    ],
+    "A36975-e18840": [
+      "maria"
+    ],
+    "A36975-e18890": [
+      "ranger"
+    ],
+    "A36975-e18950": [
+      "maria"
+    ],
+    "A36975-e18980": [
+      "emillia"
+    ],
+    "A36975-e19010": [
+      "maria"
+    ],
+    "A36975-e19040": [
+      "ranger"
+    ],
+    "A36975-e19120": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e19160": [
+      "mrs-snare"
+    ],
+    "A36975-e19200": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e19260": [
+      "ranger"
+    ],
+    "A36975-e19310": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e19340": [
+      "emillia"
+    ],
+    "A36975-e19370": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e19400": [
+      "emillia"
+    ],
+    "A36975-e19430": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e19470": [
+      "emillia"
+    ],
+    "A36975-e19510": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e19550": [
+      "ranger"
+    ],
+    "A36975-e19610": [
+      "emillia"
+    ],
+    "A36975-e19640": [
+      "maria"
+    ],
+    "A36975-e19700": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e19740": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e19810": [
+      "ranger"
+    ],
+    "A36975-e19860": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e19900": [
+      "emillia"
+    ],
+    "A36975-e19930": [
+      "rashley"
+    ],
+    "A36975-e19960": [
+      "sneak"
+    ],
+    "A36975-e20010": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e20060": [
+      "rashley"
+    ],
+    "A36975-e20100": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e20200": [
+      "ranger"
+    ],
+    "A36975-e20230": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e20290": [
+      "maria"
+    ],
+    "A36975-e20320": [
+      "ranger"
+    ],
+    "A36975-e20360": [
+      "maria"
+    ],
+    "A36975-e20390": [
+      "ranger"
+    ],
+    "A36975-e20420": [
+      "maria"
+    ],
+    "A36975-e20450": [
+      "ranger"
+    ],
+    "A36975-e20490": [
+      "maria"
+    ],
+    "A36975-e20610": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e20640": [
+      "sneak"
+    ],
+    "A36975-e20670": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e20710": [
+      "sneak"
+    ],
+    "A36975-e20740": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e20770": [
+      "sneak"
+    ],
+    "A36975-e20800": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e20830": [
+      "sneak"
+    ],
+    "A36975-e20860": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e20890": [
+      "sneak"
+    ],
+    "A36975-e20930": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e20960": [
+      "sneak"
+    ],
+    "A36975-e20990": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21020": [
+      "sneak"
+    ],
+    "A36975-e21060": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21100": [
+      "sneak"
+    ],
+    "A36975-e21130": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21170": [
+      "sneak"
+    ],
+    "A36975-e21200": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21250": [
+      "sneak"
+    ],
+    "A36975-e21280": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21330": [
+      "sneak"
+    ],
+    "A36975-e21370": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21410": [
+      "sneak"
+    ],
+    "A36975-e21440": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21480": [
+      "sneak"
+    ],
+    "A36975-e21510": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21540": [
+      "sneak"
+    ],
+    "A36975-e21570": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21610": [
+      "servant"
+    ],
+    "A36975-e21660": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21690": [
+      "servant"
+    ],
+    "A36975-e21720": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e21780": [
+      "sneak"
+    ],
+    "A36975-e21860": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e21900": [
+      "rashley"
+    ],
+    "A36975-e21970": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e22010": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e22090": [
+      "rashley"
+    ],
+    "A36975-e22140": [
+      "ranger"
+    ],
+    "A36975-e22210": [
+      "maria"
+    ],
+    "A36975-e22240": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e22270": [
+      "old-fumble"
+    ],
+    "A36975-e22310": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e22340": [
+      "ranger"
+    ],
+    "A36975-e22370": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e22400": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e22430": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e22480": [
+      "ranger"
+    ],
+    "A36975-e22520": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e22840": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e22870": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e22900": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e22950": [
+      "servant"
+    ],
+    "A36975-e22980": [
+      "ranger"
+    ],
+    "A36975-e23010": [
+      "maria"
+    ],
+    "A36975-e23050": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23160": [
+      "ranger"
+    ],
+    "A36975-e23200": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23230": [
+      "maria"
+    ],
+    "A36975-e23260": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23290": [
+      "maria"
+    ],
+    "A36975-e23320": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23350": [
+      "maria"
+    ],
+    "A36975-e23380": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23410": [
+      "maria"
+    ],
+    "A36975-e23440": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23480": [
+      "maria"
+    ],
+    "A36975-e23510": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23540": [
+      "maria"
+    ],
+    "A36975-e23570": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23610": [
+      "maria"
+    ],
+    "A36975-e23650": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e23720": [
+      "ranger"
+    ],
+    "A36975-e23750": [
+      "governess"
+    ],
+    "A36975-e23780": [
+      "ranger"
+    ],
+    "A36975-e23810": [
+      "governess"
+    ],
+    "A36975-e23840": [
+      "ranger"
+    ],
+    "A36975-e23870": [
+      "governess"
+    ],
+    "A36975-e23900": [
+      "ranger"
+    ],
+    "A36975-e23930": [
+      "governess"
+    ],
+    "A36975-e23960": [
+      "ranger"
+    ],
+    "A36975-e23990": [
+      "governess"
+    ],
+    "A36975-e24080": [
+      "old-fumble"
+    ],
+    "A36975-e24120": [
+      "spatterdash"
+    ],
+    "A36975-e24150": [
+      "old-fumble"
+    ],
+    "A36975-e24180": [
+      "spatterdash"
+    ],
+    "A36975-e24210": [
+      "old-fumble"
+    ],
+    "A36975-e24240": [
+      "spatterdash"
+    ],
+    "A36975-e24270": [
+      "old-fumble"
+    ],
+    "A36975-e24300": [
+      "spatterdash"
+    ],
+    "A36975-e24330": [
+      "old-fumble"
+    ],
+    "A36975-e24370": [
+      "spatterdash"
+    ],
+    "A36975-e24400": [
+      "old-fumble"
+    ],
+    "A36975-e24440": [
+      "spatterdash"
+    ],
+    "A36975-e24490": [
+      "old-fumble"
+    ],
+    "A36975-e24540": [
+      "spatterdash"
+    ],
+    "A36975-e24590": [
+      "old-fumble"
+    ],
+    "A36975-e24640": [
+      "spatterdash"
+    ],
+    "A36975-e24680": [
+      "old-fumble"
+    ],
+    "A36975-e24710": [
+      "spatterdash"
+    ],
+    "A36975-e24750": [
+      "old-fumble"
+    ],
+    "A36975-e24790": [
+      "spatterdash"
+    ],
+    "A36975-e24820": [
+      "old-fumble"
+    ],
+    "A36975-e24850": [
+      "spatterdash"
+    ],
+    "A36975-e24880": [
+      "old-fumble"
+    ],
+    "A36975-e24910": [
+      "spatterdash"
+    ],
+    "A36975-e24950": [
+      "old-fumble"
+    ],
+    "A36975-e24990": [
+      "spatterdash"
+    ],
+    "A36975-e25020": [
+      "old-fumble"
+    ],
+    "A36975-e25050": [
+      "spatterdash"
+    ],
+    "A36975-e25080": [
+      "old-fumble"
+    ],
+    "A36975-e25110": [
+      "spatterdash"
+    ],
+    "A36975-e25170": [
+      "old-fumble"
+    ],
+    "A36975-e25280": [
+      "maria"
+    ],
+    "A36975-e25310": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e25340": [
+      "maria"
+    ],
+    "A36975-e25370": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e25400": [
+      "maria"
+    ],
+    "A36975-e25430": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e25470": [
+      "maria"
+    ],
+    "A36975-e25500": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e25570": [
+      "emillia"
+    ],
+    "A36975-e25600": [
+      "rashley"
+    ],
+    "A36975-e25660": [
+      "ranger"
+    ],
+    "A36975-e25700": [
+      "rashley"
+    ],
+    "A36975-e25730": [
+      "ranger"
+    ],
+    "A36975-e25760": [
+      "emillia"
+    ],
+    "A36975-e25790": [
+      "ranger"
+    ],
+    "A36975-e25820": [
+      "rashley"
+    ],
+    "A36975-e25850": [
+      "emillia"
+    ],
+    "A36975-e25890": [
+      "ranger"
+    ],
+    "A36975-e25920": [
+      "rashley"
+    ],
+    "A36975-e25960": [
+      "emillia"
+    ],
+    "A36975-e25990": [
+      "ranger"
+    ],
+    "A36975-e26020": [
+      "rashley"
+    ],
+    "A36975-e26050": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e26080": [
+      "maria"
+    ],
+    "A36975-e26110": [
+      "emillia"
+    ],
+    "A36975-e26150": [
+      "ranger"
+    ],
+    "A36975-e26200": [
+      "rashley"
+    ],
+    "A36975-e26230": [
+      "emillia"
+    ],
+    "A36975-e26260": [
+      "ranger"
+    ],
+    "A36975-e26290": [
+      "emillia"
+    ],
+    "A36975-e26330": [
+      "ranger"
+    ],
+    "A36975-e26360": [
+      "ranger"
+    ],
+    "A36975-e26400": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e26430": [
+      "rashley"
+    ],
+    "A36975-e26460": [
+      "emillia"
+    ],
+    "A36975-e26490": [
+      "rashley"
+    ],
+    "A36975-e26550": [
+      "ranger"
+    ],
+    "A36975-e26610": [
+      "emillia"
+    ],
+    "A36975-e26650": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e26680": [
+      "ranger"
+    ],
+    "A36975-e26710": [
+      "emillia"
+    ],
+    "A36975-e26760": [
+      "ranger"
+    ],
+    "A36975-e26790": [
+      "emillia"
+    ],
+    "A36975-e26820": [
+      "ranger"
+    ],
+    "A36975-e26860": [
+      "emillia"
+    ],
+    "A36975-e26920": [
+      "ranger"
+    ],
+    "A36975-e26950": [
+      "emillia"
+    ],
+    "A36975-e26980": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e27020": [
+      "maria"
+    ],
+    "A36975-e27070": [
+      "ranger"
+    ],
+    "A36975-e27110": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e27140": [
+      "ranger"
+    ],
+    "A36975-e27170": [
+      "emillia"
+    ],
+    "A36975-e27200": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e27240": [
+      "ranger"
+    ],
+    "A36975-e27270": [
+      "maria"
+    ],
+    "A36975-e27310": [
+      "ranger"
+    ],
+    "A36975-e27340": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e27370": [
+      "emillia"
+    ],
+    "A36975-e27420": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e27450": [
+      "ranger"
+    ],
+    "A36975-e27480": [
+      "emillia"
+    ],
+    "A36975-e27520": [
+      "ranger"
+    ],
+    "A36975-e27550": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e27590": [
+      "emillia"
+    ],
+    "A36975-e27620": [
+      "ranger"
+    ],
+    "A36975-e27650": [
+      "emillia"
+    ],
+    "A36975-e27680": [
+      "ranger"
+    ],
+    "A36975-e27730": [
+      "maria"
+    ],
+    "A36975-e27760": [
+      "ranger"
+    ],
+    "A36975-e27790": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e27830": [
+      "emillia"
+    ],
+    "A36975-e27860": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e27900": [
+      "rashley"
+    ],
+    "A36975-e27930": [
+      "ranger"
+    ],
+    "A36975-e27970": [
+      "maria"
+    ],
+    "A36975-e28000": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e28040": [
+      "ranger"
+    ],
+    "A36975-e28070": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e28100": [
+      "emillia"
+    ],
+    "A36975-e28140": [
+      "rashley"
+    ],
+    "A36975-e28170": [
+      "emillia"
+    ],
+    "A36975-e28210": [
+      "rashley"
+    ],
+    "A36975-e28250": [
+      "ranger"
+    ],
+    "A36975-e28280": [
+      "rashley"
+    ],
+    "A36975-e28310": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e28340": [
+      "rashley"
+    ],
+    "A36975-e28380": [
+      "emillia"
+    ],
+    "A36975-e28420": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e28480": [
+      "ranger"
+    ],
+    "A36975-e28550": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e28580": [
+      "emillia"
+    ],
+    "A36975-e28610": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e28650": [
+      "rashley"
+    ],
+    "A36975-e28680": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e28740": [
+      "maria"
+    ],
+    "A36975-e28790": [
+      "rashley"
+    ],
+    "A36975-e28900": [
+      "cordelia"
+    ],
+    "A36975-e28950": [
+      "old-fumble"
+    ],
+    "A36975-e28990": [
+      "cordelia"
+    ],
+    "A36975-e29020": [
+      "old-fumble"
+    ],
+    "A36975-e29070": [
+      "cordelia"
+    ],
+    "A36975-e29110": [
+      "old-fumble"
+    ],
+    "A36975-e29290": [
+      "cordelia"
+    ],
+    "A36975-e29330": [
+      "old-fumble"
+    ],
+    "A36975-e29380": [
+      "cordelia"
+    ],
+    "A36975-e29410": [
+      "old-fumble"
+    ],
+    "A36975-e29470": [
+      "governess"
+    ],
+    "A36975-e29510": [
+      "cordelia"
+    ],
+    "A36975-e29560": [
+      "governess"
+    ],
+    "A36975-e29590": [
+      "cordelia"
+    ],
+    "A36975-e29630": [
+      "old-fumble"
+    ],
+    "A36975-e29680": [
+      "governess"
+    ],
+    "A36975-e29710": [
+      "old-fumble"
+    ],
+    "A36975-e29740": [
+      "governess"
+    ],
+    "A36975-e29830": [
+      "cordelia"
+    ],
+    "A36975-e29870": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e29900": [
+      "cordelia"
+    ],
+    "A36975-e29930": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e29990": [
+      "cordelia"
+    ],
+    "A36975-e30030": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e30070": [
+      "maria"
+    ],
+    "A36975-e30170": [
+      "sneak"
+    ],
+    "A36975-e30200": [
+      "apothecary"
+    ],
+    "A36975-e30230": [
+      "sneak"
+    ],
+    "A36975-e30290": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e30320": [
+      "sneak"
+    ],
+    "A36975-e30350": [
+      "apothecary"
+    ],
+    "A36975-e30380": [
+      "cordelia"
+    ],
+    "A36975-e30420": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e30460": [
+      "cordelia"
+    ],
+    "A36975-e30500": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e30540": [
+      "cordelia"
+    ],
+    "A36975-e30580": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e30610": [
+      "sneak"
+    ],
+    "A36975-e30640": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e30670": [
+      "sneak"
+    ],
+    "A36975-e30710": [
+      "apothecary"
+    ],
+    "A36975-e30740": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e30770": [
+      "apothecary"
+    ],
+    "A36975-e30800": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e30840": [
+      "apothecary"
+    ],
+    "A36975-e30870": [
+      "sneak"
+    ],
+    "A36975-e30910": [
+      "apothecary"
+    ],
+    "A36975-e30990": [
+      "rashley"
+    ],
+    "A36975-e31020": [
+      "emillia"
+    ],
+    "A36975-e31050": [
+      "betty"
+    ],
+    "A36975-e31080": [
+      "emillia"
+    ],
+    "A36975-e31120": [
+      "rashley"
+    ],
+    "A36975-e31150": [
+      "emillia"
+    ],
+    "A36975-e31180": [
+      "rashley"
+    ],
+    "A36975-e31210": [
+      "emillia"
+    ],
+    "A36975-e31240": [
+      "rashley"
+    ],
+    "A36975-e31270": [
+      "emillia"
+    ],
+    "A36975-e31300": [
+      "rashley"
+    ],
+    "A36975-e31360": [
+      "maria"
+    ],
+    "A36975-e31390": [
+      "emillia"
+    ],
+    "A36975-e31420": [
+      "rashley"
+    ],
+    "A36975-e31450": [
+      "emillia"
+    ],
+    "A36975-e31480": [
+      "maria"
+    ],
+    "A36975-e31510": [
+      "rashley"
+    ],
+    "A36975-e31540": [
+      "emillia"
+    ],
+    "A36975-e31570": [
+      "maria"
+    ],
+    "A36975-e31600": [
+      "emillia"
+    ],
+    "A36975-e31630": [
+      "maria"
+    ],
+    "A36975-e31660": [
+      "emillia"
+    ],
+    "A36975-e31710": [
+      "maria"
+    ],
+    "A36975-e31750": [
+      "emillia"
+    ],
+    "A36975-e31790": [
+      "maria"
+    ],
+    "A36975-e31830": [
+      "rashley"
+    ],
+    "A36975-e31860": [
+      "emillia"
+    ],
+    "A36975-e31890": [
+      "maria"
+    ],
+    "A36975-e31920": [
+      "emillia"
+    ],
+    "A36975-e31970": [
+      "rashley"
+    ],
+    "A36975-e32010": [
+      "emillia"
+    ],
+    "A36975-e32060": [
+      "maria"
+    ],
+    "A36975-e32090": [
+      "rashley"
+    ],
+    "A36975-e32120": [
+      "emillia"
+    ],
+    "A36975-e32160": [
+      "maria"
+    ],
+    "A36975-e32220": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32260": [
+      "maria"
+    ],
+    "A36975-e32300": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32330": [
+      "maria"
+    ],
+    "A36975-e32360": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32390": [
+      "maria"
+    ],
+    "A36975-e32420": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32490": [
+      "ranger"
+    ],
+    "A36975-e32520": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32550": [
+      "ranger"
+    ],
+    "A36975-e32590": [
+      "betty"
+    ],
+    "A36975-e32620": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32670": [
+      "ranger"
+    ],
+    "A36975-e32700": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32730": [
+      "ranger"
+    ],
+    "A36975-e32760": [
+      "maria"
+    ],
+    "A36975-e32790": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32820": [
+      "maria"
+    ],
+    "A36975-e32850": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32890": [
+      "ranger"
+    ],
+    "A36975-e32920": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e32960": [
+      "maria"
+    ],
+    "A36975-e32990": [
+      "ranger"
+    ],
+    "A36975-e33090": [
+      "emillia"
+    ],
+    "A36975-e33120": [
+      "betty"
+    ],
+    "A36975-e33150": [
+      "rashley"
+    ],
+    "A36975-e33180": [
+      "emillia"
+    ],
+    "A36975-e33240": [
+      "rashley"
+    ],
+    "A36975-e33270": [
+      "ieremy"
+    ],
+    "A36975-e33310": [
+      "emillia"
+    ],
+    "A36975-e33370": [
+      "betty"
+    ],
+    "A36975-e33400": [
+      "rashley"
+    ],
+    "A36975-e33430": [
+      "emillia"
+    ],
+    "A36975-e33500": [
+      "ieremy"
+    ],
+    "A36975-e33540": [
+      "betty"
+    ],
+    "A36975-e33570": [
+      "ieremy"
+    ],
+    "A36975-e33620": [
+      "betty"
+    ],
+    "A36975-e33680": [
+      "ranger"
+    ],
+    "A36975-e33710": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e33740": [
+      "maria"
+    ],
+    "A36975-e33770": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e33810": [
+      "ieremy"
+    ],
+    "A36975-e33840": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e33880": [
+      "ieremy"
+    ],
+    "A36975-e33920": [
+      "maria"
+    ],
+    "A36975-e33970": [
+      "ranger"
+    ],
+    "A36975-e34000": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34030": [
+      "betty"
+    ],
+    "A36975-e34060": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34100": [
+      "ranger"
+    ],
+    "A36975-e34130": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34160": [
+      "maria"
+    ],
+    "A36975-e34190": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34220": [
+      "ranger"
+    ],
+    "A36975-e34250": [
+      "maria"
+    ],
+    "A36975-e34280": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34360": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e34390": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34420": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e34450": [
+      "cordelia"
+    ],
+    "A36975-e34480": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e34530": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34590": [
+      "old-fumble"
+    ],
+    "A36975-e34640": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34680": [
+      "old-fumble"
+    ],
+    "A36975-e34710": [
+      "cordelia"
+    ],
+    "A36975-e34740": [
+      "old-fumble"
+    ],
+    "A36975-e34770": [
+      "cordelia"
+    ],
+    "A36975-e34800": [
+      "old-fumble"
+    ],
+    "A36975-e34840": [
+      "governess"
+    ],
+    "A36975-e34870": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34900": [
+      "governess"
+    ],
+    "A36975-e34930": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e34980": [
+      "betty"
+    ],
+    "A36975-e35020": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e35060": [
+      "betty"
+    ],
+    "A36975-e35110": [
+      "maria"
+    ],
+    "A36975-e35140": [
+      "betty"
+    ],
+    "A36975-e35170": [
+      "maria"
+    ],
+    "A36975-e35200": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e35240": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e35280": [
+      "ranger"
+    ],
+    "A36975-e35310": [
+      "maria"
+    ],
+    "A36975-e35350": [
+      "betty"
+    ],
+    "A36975-e35440": [
+      "emillia"
+    ],
+    "A36975-e35470": [
+      "rashley"
+    ],
+    "A36975-e35540": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e35580": [
+      "ranger"
+    ],
+    "A36975-e35610": [
+      "emillia"
+    ],
+    "A36975-e35640": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e35670": [
+      "rashley"
+    ],
+    "A36975-e35710": [
+      "emillia"
+    ],
+    "A36975-e35740": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e35780": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e35810": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e35840": [
+      "ranger"
+    ],
+    "A36975-e35870": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e35900": [
+      "emillia"
+    ],
+    "A36975-e35940": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e35970": [
+      "maria"
+    ],
+    "A36975-e36000": [
+      "ranger"
+    ],
+    "A36975-e36030": [
+      "emillia"
+    ],
+    "A36975-e36070": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e36110": [
+      "rashley"
+    ],
+    "A36975-e36150": [
+      "sir-roger-petulant"
+    ],
+    "A36975-e36180": [
+      "cordelia"
+    ],
+    "A36975-e36210": [
+      "perrgrine-bubble"
+    ],
+    "A36975-e36280": [
+      "old-fumble"
+    ],
+    "A36975-e36310": [
+      "ranger"
+    ],
+    "A36975-e36340": [
+      "maria"
+    ],
+    "A36975-e36370": [
+      "ranger"
+    ]
+  }
+}

@@ -1,0 +1,4073 @@
+{
+  "particDesc": [
+    {
+      "name": "Stirquilutio",
+      "id": "stirquilutio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Doctor Hurnatio",
+      "id": "doctor-hurnatio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Doctor 3",
+      "id": "doctor-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Doctor 2",
+      "id": "doctor-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Doctor 1",
+      "id": "doctor-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer 2",
+      "id": "officer-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer 1",
+      "id": "officer-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Conjurer",
+      "id": "conjurer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Apothecary",
+      "id": "apothecary",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Apprentice",
+      "id": "apprentice",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Countryman",
+      "id": "countryman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Seaman's Wife",
+      "id": "seaman's-wife",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Boy 2",
+      "id": "boy-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boy 1",
+      "id": "boy-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Doctor ",
+      "id": "doctor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Neighbour",
+      "id": "neighbour",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "gernette",
+      "name": "Gernette ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "olinda",
+      "name": "Olinda ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "suqre-softhead",
+      "name": "Suqre Softhead",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "leander",
+      "name": "Leander ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "drench",
+      "name": "Drench",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "isabel",
+      "name": "Isabel",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "jarvis",
+      "name": "Jarvis ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "mrs-nibby",
+      "name": "Mrs. Nibby ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "mr-othentick",
+      "name": "Mr. Othentick",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A48031-e1050": [
+      "servant"
+    ],
+    "A48031-e1080": [
+      "jarvis"
+    ],
+    "A48031-e1120": [
+      "servant"
+    ],
+    "A48031-e1150": [
+      "jarvis"
+    ],
+    "A48031-e1180": [
+      "servant"
+    ],
+    "A48031-e1210": [
+      "jarvis"
+    ],
+    "A48031-e1250": [
+      "servant"
+    ],
+    "A48031-e1280": [
+      "jarvis"
+    ],
+    "A48031-e1360": [
+      "gernette"
+    ],
+    "A48031-e1390": [
+      "suqre-softhead"
+    ],
+    "A48031-e1420": [
+      "mrs-nibby"
+    ],
+    "A48031-e1460": [
+      "suqre-softhead"
+    ],
+    "A48031-e1490": [
+      "mrs-nibby"
+    ],
+    "A48031-e1520": [
+      "suqre-softhead"
+    ],
+    "A48031-e1550": [
+      "mrs-nibby"
+    ],
+    "A48031-e1580": [
+      "suqre-softhead"
+    ],
+    "A48031-e1610": [
+      "mrs-nibby"
+    ],
+    "A48031-e1640": [
+      "gernette"
+    ],
+    "A48031-e1670": [
+      "mrs-nibby"
+    ],
+    "A48031-e1700": [
+      "suqre-softhead"
+    ],
+    "A48031-e1740": [
+      "mrs-nibby"
+    ],
+    "A48031-e1770": [
+      "suqre-softhead"
+    ],
+    "A48031-e1810": [
+      "jarvis"
+    ],
+    "A48031-e1850": [
+      "mrs-nibby"
+    ],
+    "A48031-e1900": [
+      "suqre-softhead"
+    ],
+    "A48031-e1970": [
+      "gernette"
+    ],
+    "A48031-e2000": [
+      "olinda"
+    ],
+    "A48031-e2030": [
+      "suqre-softhead"
+    ],
+    "A48031-e2060": [
+      "gernette"
+    ],
+    "A48031-e2090": [
+      "suqre-softhead"
+    ],
+    "A48031-e2120": [
+      "gernette"
+    ],
+    "A48031-e2150": [
+      "suqre-softhead"
+    ],
+    "A48031-e2190": [
+      "gernette"
+    ],
+    "A48031-e2220": [
+      "suqre-softhead"
+    ],
+    "A48031-e2250": [
+      "gernette"
+    ],
+    "A48031-e2280": [
+      "mrs-nibby"
+    ],
+    "A48031-e2320": [
+      "suqre-softhead"
+    ],
+    "A48031-e2350": [
+      "jarvis"
+    ],
+    "A48031-e2380": [
+      "mrs-nibby"
+    ],
+    "A48031-e2410": [
+      "gernette"
+    ],
+    "A48031-e2440": [
+      "suqre-softhead"
+    ],
+    "A48031-e2510": [
+      "jarvis"
+    ],
+    "A48031-e2540": [
+      "suqre-softhead"
+    ],
+    "A48031-e2570": [
+      "jarvis"
+    ],
+    "A48031-e2600": [
+      "suqre-softhead"
+    ],
+    "A48031-e2630": [
+      "jarvis"
+    ],
+    "A48031-e2660": [
+      "suqre-softhead"
+    ],
+    "A48031-e2690": [
+      "jarvis"
+    ],
+    "A48031-e2720": [
+      "suqre-softhead"
+    ],
+    "A48031-e2800": [
+      "drench"
+    ],
+    "A48031-e2840": [
+      "isabel"
+    ],
+    "A48031-e2870": [
+      "drench"
+    ],
+    "A48031-e2900": [
+      "isabel"
+    ],
+    "A48031-e2930": [
+      "drench"
+    ],
+    "A48031-e2970": [
+      "isabel"
+    ],
+    "A48031-e3000": [
+      "drench"
+    ],
+    "A48031-e3040": [
+      "isabel"
+    ],
+    "A48031-e3070": [
+      "drench"
+    ],
+    "A48031-e3100": [
+      "isabel"
+    ],
+    "A48031-e3140": [
+      "drench"
+    ],
+    "A48031-e3170": [
+      "isabel"
+    ],
+    "A48031-e3200": [
+      "drench"
+    ],
+    "A48031-e3230": [
+      "isabel"
+    ],
+    "A48031-e3280": [
+      "drench"
+    ],
+    "A48031-e3310": [
+      "isabel"
+    ],
+    "A48031-e3340": [
+      "drench"
+    ],
+    "A48031-e3370": [
+      "isabel"
+    ],
+    "A48031-e3410": [
+      "drench"
+    ],
+    "A48031-e3440": [
+      "isabel"
+    ],
+    "A48031-e3470": [
+      "drench"
+    ],
+    "A48031-e3500": [
+      "isabel"
+    ],
+    "A48031-e3530": [
+      "drench"
+    ],
+    "A48031-e3560": [
+      "isabel"
+    ],
+    "A48031-e3590": [
+      "drench"
+    ],
+    "A48031-e3630": [
+      "isabel"
+    ],
+    "A48031-e3660": [
+      "drench"
+    ],
+    "A48031-e3700": [
+      "isabel"
+    ],
+    "A48031-e3730": [
+      "neighbour"
+    ],
+    "A48031-e3780": [
+      "isabel"
+    ],
+    "A48031-e3810": [
+      "neighbour"
+    ],
+    "A48031-e3840": [
+      "isabel"
+    ],
+    "A48031-e3870": [
+      "drench"
+    ],
+    "A48031-e3900": [
+      "neighbour"
+    ],
+    "A48031-e3930": [
+      "drench"
+    ],
+    "A48031-e3970": [
+      "neighbour"
+    ],
+    "A48031-e4000": [
+      "isabel"
+    ],
+    "A48031-e4030": [
+      "drench"
+    ],
+    "A48031-e4070": [
+      "neighbour"
+    ],
+    "A48031-e4110": [
+      "drench"
+    ],
+    "A48031-e4140": [
+      "isabel"
+    ],
+    "A48031-e4170": [
+      "drench"
+    ],
+    "A48031-e4220": [
+      "isabel"
+    ],
+    "A48031-e4280": [
+      "suqre-softhead"
+    ],
+    "A48031-e4310": [
+      "jarvis"
+    ],
+    "A48031-e4340": [
+      "isabel"
+    ],
+    "A48031-e4380": [
+      "suqre-softhead"
+    ],
+    "A48031-e4410": [
+      "jarvis"
+    ],
+    "A48031-e4440": [
+      "suqre-softhead"
+    ],
+    "A48031-e4470": [
+      "isabel"
+    ],
+    "A48031-e4500": [
+      "suqre-softhead"
+    ],
+    "A48031-e4530": [
+      "isabel"
+    ],
+    "A48031-e4560": [
+      "suqre-softhead"
+    ],
+    "A48031-e4590": [
+      "isabel"
+    ],
+    "A48031-e4620": [
+      "suqre-softhead"
+    ],
+    "A48031-e4650": [
+      "isabel"
+    ],
+    "A48031-e4680": [
+      "suqre-softhead"
+    ],
+    "A48031-e4710": [
+      "isabel"
+    ],
+    "A48031-e4750": [
+      "suqre-softhead"
+    ],
+    "A48031-e4780": [
+      "isabel"
+    ],
+    "A48031-e4810": [
+      "suqre-softhead"
+    ],
+    "A48031-e4850": [
+      "isabel"
+    ],
+    "A48031-e4880": [
+      "jarvis"
+    ],
+    "A48031-e4910": [
+      "suqre-softhead"
+    ],
+    "A48031-e4940": [
+      "isabel"
+    ],
+    "A48031-e4970": [
+      "suqre-softhead"
+    ],
+    "A48031-e5000": [
+      "isabel"
+    ],
+    "A48031-e5030": [
+      "suqre-softhead"
+    ],
+    "A48031-e5060": [
+      "isabel"
+    ],
+    "A48031-e5090": [
+      "suqre-softhead"
+    ],
+    "A48031-e5120": [
+      "isabel"
+    ],
+    "A48031-e5150": [
+      "jarvis"
+    ],
+    "A48031-e5180": [
+      "isabel"
+    ],
+    "A48031-e5210": [
+      "jarvis"
+    ],
+    "A48031-e5240": [
+      "suqre-softhead"
+    ],
+    "A48031-e5280": [
+      "jarvis"
+    ],
+    "A48031-e5310": [
+      "isabel"
+    ],
+    "A48031-e5340": [
+      "jarvis"
+    ],
+    "A48031-e5370": [
+      "isabel"
+    ],
+    "A48031-e5420": [
+      "jarvis"
+    ],
+    "A48031-e5450": [
+      "suqre-softhead"
+    ],
+    "A48031-e5480": [
+      "jarvis"
+    ],
+    "A48031-e5510": [
+      "suqre-softhead"
+    ],
+    "A48031-e5540": [
+      "jarvis"
+    ],
+    "A48031-e5570": [
+      "suqre-softhead"
+    ],
+    "A48031-e5600": [
+      "jarvis"
+    ],
+    "A48031-e5640": [
+      "drench"
+    ],
+    "A48031-e5670": [
+      "suqre-softhead"
+    ],
+    "A48031-e5700": [
+      "jarvis"
+    ],
+    "A48031-e5730": [
+      "drench"
+    ],
+    "A48031-e5760": [
+      "jarvis"
+    ],
+    "A48031-e5790": [
+      "drench"
+    ],
+    "A48031-e5820": [
+      "suqre-softhead"
+    ],
+    "A48031-e5850": [
+      "jarvis"
+    ],
+    "A48031-e5880": [
+      "drench"
+    ],
+    "A48031-e5910": [
+      "suqre-softhead"
+    ],
+    "A48031-e5940": [
+      "jarvis"
+    ],
+    "A48031-e5980": [
+      "drench"
+    ],
+    "A48031-e6010": [
+      "suqre-softhead"
+    ],
+    "A48031-e6040": [
+      "drench"
+    ],
+    "A48031-e6070": [
+      "suqre-softhead"
+    ],
+    "A48031-e6110": [
+      "jarvis"
+    ],
+    "A48031-e6140": [
+      "suqre-softhead"
+    ],
+    "A48031-e6170": [
+      "drench"
+    ],
+    "A48031-e6200": [
+      "suqre-softhead"
+    ],
+    "A48031-e6230": [
+      "drench"
+    ],
+    "A48031-e6260": [
+      "jarvis"
+    ],
+    "A48031-e6290": [
+      "drench"
+    ],
+    "A48031-e6320": [
+      "jarvis"
+    ],
+    "A48031-e6350": [
+      "suqre-softhead"
+    ],
+    "A48031-e6380": [
+      "drench"
+    ],
+    "A48031-e6410": [
+      "jarvis"
+    ],
+    "A48031-e6440": [
+      "suqre-softhead"
+    ],
+    "A48031-e6480": [
+      "drench"
+    ],
+    "A48031-e6520": [
+      "jarvis"
+    ],
+    "A48031-e6550": [
+      "drench"
+    ],
+    "A48031-e6580": [
+      "jarvis"
+    ],
+    "A48031-e6620": [
+      "drench"
+    ],
+    "A48031-e6670": [
+      "isabel"
+    ],
+    "A48031-e6720": [
+      "drench"
+    ],
+    "A48031-e6750": [
+      "jarvis"
+    ],
+    "A48031-e6780": [
+      "drench"
+    ],
+    "A48031-e6810": [
+      "jarvis"
+    ],
+    "A48031-e6840": [
+      "drench"
+    ],
+    "A48031-e6880": [
+      "suqre-softhead"
+    ],
+    "A48031-e6910": [
+      "drench"
+    ],
+    "A48031-e6940": [
+      "jarvis"
+    ],
+    "A48031-e6970": [
+      "drench"
+    ],
+    "A48031-e7000": [
+      "jarvis"
+    ],
+    "A48031-e7030": [
+      "drench"
+    ],
+    "A48031-e7060": [
+      "jarvis"
+    ],
+    "A48031-e7090": [
+      "suqre-softhead"
+    ],
+    "A48031-e7130": [
+      "jarvis"
+    ],
+    "A48031-e7160": [
+      "suqre-softhead"
+    ],
+    "A48031-e7190": [
+      "jarvis"
+    ],
+    "A48031-e7220": [
+      "drench"
+    ],
+    "A48031-e7250": [
+      "jarvis"
+    ],
+    "A48031-e7280": [
+      "suqre-softhead"
+    ],
+    "A48031-e7330": [
+      "drench"
+    ],
+    "A48031-e7360": [
+      "suqre-softhead"
+    ],
+    "A48031-e7390": [
+      "drench"
+    ],
+    "A48031-e7440": [
+      "suqre-softhead"
+    ],
+    "A48031-e7470": [
+      "drench"
+    ],
+    "A48031-e7500": [
+      "jarvis"
+    ],
+    "A48031-e7530": [
+      "drench"
+    ],
+    "A48031-e7560": [
+      "jarvis"
+    ],
+    "A48031-e7590": [
+      "drench"
+    ],
+    "A48031-e7620": [
+      "jarvis"
+    ],
+    "A48031-e7650": [
+      "drench"
+    ],
+    "A48031-e7680": [
+      "suqre-softhead"
+    ],
+    "A48031-e7720": [
+      "jarvis"
+    ],
+    "A48031-e7750": [
+      "drench"
+    ],
+    "A48031-e7780": [
+      "suqre-softhead"
+    ],
+    "A48031-e7810": [
+      "drench"
+    ],
+    "A48031-e7960": [
+      "gernette"
+    ],
+    "A48031-e7990": [
+      "jarvis"
+    ],
+    "A48031-e8030": [
+      "suqre-softhead"
+    ],
+    "A48031-e8070": [
+      "jarvis"
+    ],
+    "A48031-e8100": [
+      "nurse"
+    ],
+    "A48031-e8130": [
+      "jarvis"
+    ],
+    "A48031-e8160": [
+      "nurse"
+    ],
+    "A48031-e8190": [
+      "gernette"
+    ],
+    "A48031-e8220": [
+      "jarvis"
+    ],
+    "A48031-e8250": [
+      "suqre-softhead"
+    ],
+    "A48031-e8280": [
+      "nurse"
+    ],
+    "A48031-e8310": [
+      "gernette"
+    ],
+    "A48031-e8340": [
+      "nurse"
+    ],
+    "A48031-e8370": [
+      "gernette"
+    ],
+    "A48031-e8400": [
+      "nurse"
+    ],
+    "A48031-e8430": [
+      "suqre-softhead"
+    ],
+    "A48031-e8460": [
+      "nurse"
+    ],
+    "A48031-e8490": [
+      "suqre-softhead"
+    ],
+    "A48031-e8520": [
+      "nurse"
+    ],
+    "A48031-e8550": [
+      "jarvis"
+    ],
+    "A48031-e8580": [
+      "nurse"
+    ],
+    "A48031-e8620": [
+      "gernette"
+    ],
+    "A48031-e8660": [
+      "nurse"
+    ],
+    "A48031-e8700": [
+      "gernette"
+    ],
+    "A48031-e8740": [
+      "nurse"
+    ],
+    "A48031-e8770": [
+      "jarvis"
+    ],
+    "A48031-e8800": [
+      "nurse"
+    ],
+    "A48031-e8860": [
+      "gernette"
+    ],
+    "A48031-e8900": [
+      "nurse"
+    ],
+    "A48031-e8940": [
+      "gernette"
+    ],
+    "A48031-e8970": [
+      "nurse"
+    ],
+    "A48031-e9000": [
+      "suqre-softhead"
+    ],
+    "A48031-e9030": [
+      "nurse"
+    ],
+    "A48031-e9060": [
+      "gernette"
+    ],
+    "A48031-e9090": [
+      "nurse"
+    ],
+    "A48031-e9120": [
+      "jarvis"
+    ],
+    "A48031-e9150": [
+      "nurse"
+    ],
+    "A48031-e9180": [
+      "gernette"
+    ],
+    "A48031-e9210": [
+      "jarvis"
+    ],
+    "A48031-e9240": [
+      "suqre-softhead"
+    ],
+    "A48031-e9270": [
+      "jarvis"
+    ],
+    "A48031-e9300": [
+      "suqre-softhead"
+    ],
+    "A48031-e9340": [
+      "gernette"
+    ],
+    "A48031-e9370": [
+      "suqre-softhead"
+    ],
+    "A48031-e9410": [
+      "gernette"
+    ],
+    "A48031-e9460": [
+      "doctor"
+    ],
+    "A48031-e9500": [
+      "gernette"
+    ],
+    "A48031-e9540": [
+      "doctor"
+    ],
+    "A48031-e9570": [
+      "gernette"
+    ],
+    "A48031-e9600": [
+      "doctor"
+    ],
+    "A48031-e9630": [
+      "gernette"
+    ],
+    "A48031-e9660": [
+      "doctor"
+    ],
+    "A48031-e9690": [
+      "gernette"
+    ],
+    "A48031-e9730": [
+      "doctor"
+    ],
+    "A48031-e9770": [
+      "gernette"
+    ],
+    "A48031-e9810": [
+      "doctor"
+    ],
+    "A48031-e9840": [
+      "jarvis"
+    ],
+    "A48031-e9870": [
+      "doctor"
+    ],
+    "A48031-e9900": [
+      "jarvis"
+    ],
+    "A48031-e9930": [
+      "doctor"
+    ],
+    "A48031-e9960": [
+      "jarvis"
+    ],
+    "A48031-e9990": [
+      "doctor"
+    ],
+    "A48031-e10030": [
+      "nurse"
+    ],
+    "A48031-e10060": [
+      "jarvis"
+    ],
+    "A48031-e10090": [
+      "doctor"
+    ],
+    "A48031-e10120": [
+      "jarvis"
+    ],
+    "A48031-e10150": [
+      "doctor"
+    ],
+    "A48031-e10180": [
+      "jarvis"
+    ],
+    "A48031-e10210": [
+      "doctor"
+    ],
+    "A48031-e10240": [
+      "nurse"
+    ],
+    "A48031-e10270": [
+      "doctor"
+    ],
+    "A48031-e10300": [
+      "nurse"
+    ],
+    "A48031-e10330": [
+      "jarvis"
+    ],
+    "A48031-e10360": [
+      "doctor"
+    ],
+    "A48031-e10390": [
+      "nurse"
+    ],
+    "A48031-e10420": [
+      "jarvis"
+    ],
+    "A48031-e10450": [
+      "doctor"
+    ],
+    "A48031-e10480": [
+      "jarvis"
+    ],
+    "A48031-e10510": [
+      "doctor"
+    ],
+    "A48031-e10540": [
+      "jarvis"
+    ],
+    "A48031-e10570": [
+      "doctor"
+    ],
+    "A48031-e10600": [
+      "nurse"
+    ],
+    "A48031-e10630": [
+      "doctor"
+    ],
+    "A48031-e10660": [
+      "nurse"
+    ],
+    "A48031-e10690": [
+      "jarvis"
+    ],
+    "A48031-e10720": [
+      "doctor"
+    ],
+    "A48031-e10750": [
+      "nurse"
+    ],
+    "A48031-e10780": [
+      "jarvis"
+    ],
+    "A48031-e10810": [
+      "nurse"
+    ],
+    "A48031-e10840": [
+      "jarvis"
+    ],
+    "A48031-e10900": [
+      "gernette"
+    ],
+    "A48031-e10930": [
+      "doctor"
+    ],
+    "A48031-e10960": [
+      "gernette"
+    ],
+    "A48031-e10990": [
+      "doctor"
+    ],
+    "A48031-e11020": [
+      "gernette"
+    ],
+    "A48031-e11050": [
+      "doctor"
+    ],
+    "A48031-e11080": [
+      "nurse"
+    ],
+    "A48031-e11110": [
+      "jarvis"
+    ],
+    "A48031-e11140": [
+      "gernette"
+    ],
+    "A48031-e11170": [
+      "doctor"
+    ],
+    "A48031-e11210": [
+      "suqre-softhead"
+    ],
+    "A48031-e11240": [
+      "nurse"
+    ],
+    "A48031-e11270": [
+      "jarvis"
+    ],
+    "A48031-e11300": [
+      "gernette"
+    ],
+    "A48031-e11330": [
+      "doctor"
+    ],
+    "A48031-e11370": [
+      "gernette"
+    ],
+    "A48031-e11410": [
+      "doctor"
+    ],
+    "A48031-e11450": [
+      "gernette"
+    ],
+    "A48031-e11480": [
+      "doctor"
+    ],
+    "A48031-e11510": [
+      "jarvis"
+    ],
+    "A48031-e11540": [
+      "doctor"
+    ],
+    "A48031-e11580": [
+      "nurse"
+    ],
+    "A48031-e11610": [
+      "jarvis"
+    ],
+    "A48031-e11640": [
+      "nurse"
+    ],
+    "A48031-e11670": [
+      "gernette"
+    ],
+    "A48031-e11700": [
+      "doctor"
+    ],
+    "A48031-e11730": [
+      "gernette"
+    ],
+    "A48031-e11760": [
+      "doctor"
+    ],
+    "A48031-e11790": [
+      "nurse"
+    ],
+    "A48031-e11820": [
+      "jarvis"
+    ],
+    "A48031-e11850": [
+      "nurse"
+    ],
+    "A48031-e11880": [
+      "gernette"
+    ],
+    "A48031-e11910": [
+      "doctor"
+    ],
+    "A48031-e11950": [
+      "boy-1"
+    ],
+    "A48031-e11990": [
+      "suqre-softhead"
+    ],
+    "A48031-e12040": [
+      "gernette"
+    ],
+    "A48031-e12080": [
+      "doctor"
+    ],
+    "A48031-e12110": [
+      "gernette"
+    ],
+    "A48031-e12140": [
+      "doctor"
+    ],
+    "A48031-e12190": [
+      "gernette"
+    ],
+    "A48031-e12220": [
+      "doctor"
+    ],
+    "A48031-e12250": [
+      "gernette"
+    ],
+    "A48031-e12280": [
+      "doctor"
+    ],
+    "A48031-e12330": [
+      "nurse"
+    ],
+    "A48031-e12360": [
+      "jarvis"
+    ],
+    "A48031-e12390": [
+      "nurse"
+    ],
+    "A48031-e12420": [
+      "gernette"
+    ],
+    "A48031-e12450": [
+      "doctor"
+    ],
+    "A48031-e12540": [
+      "nurse"
+    ],
+    "A48031-e12590": [
+      "jarvis"
+    ],
+    "A48031-e12620": [
+      "nurse"
+    ],
+    "A48031-e12670": [
+      "gernette"
+    ],
+    "A48031-e12710": [
+      "doctor"
+    ],
+    "A48031-e12740": [
+      "gernette"
+    ],
+    "A48031-e12770": [
+      "doctor"
+    ],
+    "A48031-e12800": [
+      "nurse"
+    ],
+    "A48031-e12830": [
+      "jarvis"
+    ],
+    "A48031-e12860": [
+      "nurse"
+    ],
+    "A48031-e12890": [
+      "jarvis"
+    ],
+    "A48031-e12920": [
+      "nurse"
+    ],
+    "A48031-e12950": [
+      "gernette"
+    ],
+    "A48031-e12980": [
+      "doctor"
+    ],
+    "A48031-e13010": [
+      "gernette"
+    ],
+    "A48031-e13040": [
+      "doctor"
+    ],
+    "A48031-e13070": [
+      "nurse"
+    ],
+    "A48031-e13100": [
+      "jarvis"
+    ],
+    "A48031-e13130": [
+      "nurse"
+    ],
+    "A48031-e13160": [
+      "doctor"
+    ],
+    "A48031-e13190": [
+      "nurse"
+    ],
+    "A48031-e13220": [
+      "doctor"
+    ],
+    "A48031-e13250": [
+      "jarvis"
+    ],
+    "A48031-e13280": [
+      "doctor"
+    ],
+    "A48031-e13310": [
+      "jarvis"
+    ],
+    "A48031-e13340": [
+      "gernette"
+    ],
+    "A48031-e13370": [
+      "doctor"
+    ],
+    "A48031-e13400": [
+      "jarvis"
+    ],
+    "A48031-e13430": [
+      "gernette"
+    ],
+    "A48031-e13460": [
+      "jarvis"
+    ],
+    "A48031-e13490": [
+      "doctor"
+    ],
+    "A48031-e13520": [
+      "nurse"
+    ],
+    "A48031-e13550": [
+      "doctor"
+    ],
+    "A48031-e13610": [
+      "leander"
+    ],
+    "A48031-e13650": [
+      "boy-1"
+    ],
+    "A48031-e13680": [
+      "leander"
+    ],
+    "A48031-e13730": [
+      "suqre-softhead"
+    ],
+    "A48031-e13760": [
+      "boy-2"
+    ],
+    "A48031-e13790": [
+      "suqre-softhead"
+    ],
+    "A48031-e13820": [
+      "boy-2"
+    ],
+    "A48031-e13850": [
+      "leander"
+    ],
+    "A48031-e13880": [
+      "suqre-softhead"
+    ],
+    "A48031-e13910": [
+      "leander"
+    ],
+    "A48031-e13940": [
+      "suqre-softhead"
+    ],
+    "A48031-e13970": [
+      "leander"
+    ],
+    "A48031-e14000": [
+      "suqre-softhead"
+    ],
+    "A48031-e14030": [
+      "leander"
+    ],
+    "A48031-e14060": [
+      "suqre-softhead"
+    ],
+    "A48031-e14090": [
+      "leander"
+    ],
+    "A48031-e14120": [
+      "suqre-softhead"
+    ],
+    "A48031-e14150": [
+      "leander"
+    ],
+    "A48031-e14180": [
+      "suqre-softhead"
+    ],
+    "A48031-e14210": [
+      "leander"
+    ],
+    "A48031-e14240": [
+      "suqre-softhead"
+    ],
+    "A48031-e14270": [
+      "leander"
+    ],
+    "A48031-e14300": [
+      "suqre-softhead"
+    ],
+    "A48031-e14330": [
+      "boy-2"
+    ],
+    "A48031-e14380": [
+      "suqre-softhead"
+    ],
+    "A48031-e14410": [
+      "leander"
+    ],
+    "A48031-e14440": [
+      "suqre-softhead"
+    ],
+    "A48031-e14470": [
+      "leander"
+    ],
+    "A48031-e14500": [
+      "suqre-softhead"
+    ],
+    "A48031-e14540": [
+      "leander"
+    ],
+    "A48031-e14570": [
+      "boy-1"
+    ],
+    "A48031-e14620": [
+      "doctor"
+    ],
+    "A48031-e14650": [
+      "leander"
+    ],
+    "A48031-e14680": [
+      "doctor"
+    ],
+    "A48031-e14710": [
+      "leander"
+    ],
+    "A48031-e14740": [
+      "doctor"
+    ],
+    "A48031-e14780": [
+      "leander"
+    ],
+    "A48031-e14810": [
+      "doctor"
+    ],
+    "A48031-e14840": [
+      "leander"
+    ],
+    "A48031-e14870": [
+      "doctor"
+    ],
+    "A48031-e14900": [
+      "leander"
+    ],
+    "A48031-e14930": [
+      "doctor"
+    ],
+    "A48031-e14960": [
+      "leander"
+    ],
+    "A48031-e14990": [
+      "doctor"
+    ],
+    "A48031-e15020": [
+      "leander"
+    ],
+    "A48031-e15060": [
+      "doctor"
+    ],
+    "A48031-e15100": [
+      "leander"
+    ],
+    "A48031-e15130": [
+      "doctor"
+    ],
+    "A48031-e15160": [
+      "leander"
+    ],
+    "A48031-e15190": [
+      "doctor"
+    ],
+    "A48031-e15270": [
+      "leander"
+    ],
+    "A48031-e15300": [
+      "doctor"
+    ],
+    "A48031-e15330": [
+      "leander"
+    ],
+    "A48031-e15360": [
+      "doctor"
+    ],
+    "A48031-e15390": [
+      "leander"
+    ],
+    "A48031-e15420": [
+      "doctor"
+    ],
+    "A48031-e15460": [
+      "leander"
+    ],
+    "A48031-e15500": [
+      "doctor"
+    ],
+    "A48031-e15530": [
+      "leander"
+    ],
+    "A48031-e15560": [
+      "doctor"
+    ],
+    "A48031-e15680": [
+      "leander"
+    ],
+    "A48031-e15710": [
+      "doctor"
+    ],
+    "A48031-e15740": [
+      "leander"
+    ],
+    "A48031-e15770": [
+      "doctor"
+    ],
+    "A48031-e15800": [
+      "leander"
+    ],
+    "A48031-e15830": [
+      "doctor"
+    ],
+    "A48031-e15860": [
+      "leander"
+    ],
+    "A48031-e15890": [
+      "doctor"
+    ],
+    "A48031-e15920": [
+      "leander"
+    ],
+    "A48031-e15950": [
+      "doctor"
+    ],
+    "A48031-e15980": [
+      "leander"
+    ],
+    "A48031-e16010": [
+      "doctor"
+    ],
+    "A48031-e16050": [
+      "leander"
+    ],
+    "A48031-e16080": [
+      "doctor"
+    ],
+    "A48031-e16120": [
+      "leander"
+    ],
+    "A48031-e16160": [
+      "doctor"
+    ],
+    "A48031-e16200": [
+      "seaman's-wife"
+    ],
+    "A48031-e16230": [
+      "doctor"
+    ],
+    "A48031-e16260": [
+      "seaman's-wife"
+    ],
+    "A48031-e16290": [
+      "doctor"
+    ],
+    "A48031-e16320": [
+      "seaman's-wife"
+    ],
+    "A48031-e16350": [
+      "doctor"
+    ],
+    "A48031-e16380": [
+      "seaman's-wife"
+    ],
+    "A48031-e16410": [
+      "doctor"
+    ],
+    "A48031-e16450": [
+      "countryman"
+    ],
+    "A48031-e16480": [
+      "doctor"
+    ],
+    "A48031-e16510": [
+      "countryman"
+    ],
+    "A48031-e16540": [
+      "doctor"
+    ],
+    "A48031-e16570": [
+      "countryman"
+    ],
+    "A48031-e16600": [
+      "doctor"
+    ],
+    "A48031-e16630": [
+      "countryman"
+    ],
+    "A48031-e16660": [
+      "doctor"
+    ],
+    "A48031-e16690": [
+      "countryman"
+    ],
+    "A48031-e16720": [
+      "doctor"
+    ],
+    "A48031-e16750": [
+      "countryman"
+    ],
+    "A48031-e16780": [
+      "doctor"
+    ],
+    "A48031-e16810": [
+      "countryman"
+    ],
+    "A48031-e16850": [
+      "doctor"
+    ],
+    "A48031-e16880": [
+      "apprentice"
+    ],
+    "A48031-e16910": [
+      "doctor"
+    ],
+    "A48031-e16940": [
+      "apprentice"
+    ],
+    "A48031-e16970": [
+      "doctor"
+    ],
+    "A48031-e17000": [
+      "apprentice"
+    ],
+    "A48031-e17030": [
+      "doctor"
+    ],
+    "A48031-e17060": [
+      "apprentice"
+    ],
+    "A48031-e17090": [
+      "doctor"
+    ],
+    "A48031-e17120": [
+      "apprentice"
+    ],
+    "A48031-e17150": [
+      "doctor"
+    ],
+    "A48031-e17180": [
+      "apprentice"
+    ],
+    "A48031-e17210": [
+      "doctor"
+    ],
+    "A48031-e17240": [
+      "apprentice"
+    ],
+    "A48031-e17270": [
+      "doctor"
+    ],
+    "A48031-e17300": [
+      "apprentice"
+    ],
+    "A48031-e17330": [
+      "doctor"
+    ],
+    "A48031-e17370": [
+      "leander"
+    ],
+    "A48031-e17410": [
+      "doctor"
+    ],
+    "A48031-e17440": [
+      "suqre-softhead"
+    ],
+    "A48031-e17470": [
+      "doctor"
+    ],
+    "A48031-e17500": [
+      "suqre-softhead"
+    ],
+    "A48031-e17530": [
+      "doctor"
+    ],
+    "A48031-e17560": [
+      "suqre-softhead"
+    ],
+    "A48031-e17600": [
+      "leander"
+    ],
+    "A48031-e17640": [
+      "suqre-softhead"
+    ],
+    "A48031-e17670": [
+      "leander"
+    ],
+    "A48031-e17700": [
+      "suqre-softhead"
+    ],
+    "A48031-e17730": [
+      "leander"
+    ],
+    "A48031-e17760": [
+      "suqre-softhead"
+    ],
+    "A48031-e17790": [
+      "doctor"
+    ],
+    "A48031-e17820": [
+      "leander"
+    ],
+    "A48031-e17850": [
+      "suqre-softhead"
+    ],
+    "A48031-e17880": [
+      "leander"
+    ],
+    "A48031-e17920": [
+      "suqre-softhead"
+    ],
+    "A48031-e17970": [
+      "doctor"
+    ],
+    "A48031-e18000": [
+      "suqre-softhead"
+    ],
+    "A48031-e18030": [
+      "leander"
+    ],
+    "A48031-e18060": [
+      "suqre-softhead"
+    ],
+    "A48031-e18110": [
+      "leander"
+    ],
+    "A48031-e18150": [
+      "doctor"
+    ],
+    "A48031-e18180": [
+      "suqre-softhead"
+    ],
+    "A48031-e18210": [
+      "leander"
+    ],
+    "A48031-e18240": [
+      "suqre-softhead"
+    ],
+    "A48031-e18270": [
+      "doctor"
+    ],
+    "A48031-e18300": [
+      "suqre-softhead"
+    ],
+    "A48031-e18330": [
+      "doctor"
+    ],
+    "A48031-e18360": [
+      "suqre-softhead"
+    ],
+    "A48031-e18400": [
+      "leander"
+    ],
+    "A48031-e18430": [
+      "suqre-softhead"
+    ],
+    "A48031-e18460": [
+      "doctor"
+    ],
+    "A48031-e18490": [
+      "suqre-softhead"
+    ],
+    "A48031-e18520": [
+      "doctor"
+    ],
+    "A48031-e18560": [
+      "suqre-softhead"
+    ],
+    "A48031-e18590": [
+      "doctor"
+    ],
+    "A48031-e18630": [
+      "suqre-softhead"
+    ],
+    "A48031-e18670": [
+      "leander"
+    ],
+    "A48031-e18700": [
+      "suqre-softhead"
+    ],
+    "A48031-e18750": [
+      "doctor"
+    ],
+    "A48031-e18780": [
+      "suqre-softhead"
+    ],
+    "A48031-e18830": [
+      "doctor"
+    ],
+    "A48031-e18890": [
+      "leander"
+    ],
+    "A48031-e18920": [
+      "isabel"
+    ],
+    "A48031-e18950": [
+      "leander"
+    ],
+    "A48031-e18980": [
+      "isabel"
+    ],
+    "A48031-e19010": [
+      "leander"
+    ],
+    "A48031-e19040": [
+      "isabel"
+    ],
+    "A48031-e19070": [
+      "doctor"
+    ],
+    "A48031-e19100": [
+      "isabel"
+    ],
+    "A48031-e19130": [
+      "leander"
+    ],
+    "A48031-e19170": [
+      "isabel"
+    ],
+    "A48031-e19210": [
+      "doctor"
+    ],
+    "A48031-e19260": [
+      "isabel"
+    ],
+    "A48031-e19290": [
+      "doctor"
+    ],
+    "A48031-e19320": [
+      "leander"
+    ],
+    "A48031-e19350": [
+      "isabel"
+    ],
+    "A48031-e19380": [
+      "leander"
+    ],
+    "A48031-e19410": [
+      "doctor"
+    ],
+    "A48031-e19440": [
+      "leander"
+    ],
+    "A48031-e19470": [
+      "isabel"
+    ],
+    "A48031-e19500": [
+      "leander"
+    ],
+    "A48031-e19530": [
+      "doctor"
+    ],
+    "A48031-e19560": [
+      "leander"
+    ],
+    "A48031-e19590": [
+      "isabel"
+    ],
+    "A48031-e19620": [
+      "leander"
+    ],
+    "A48031-e19660": [
+      "isabel"
+    ],
+    "A48031-e19690": [
+      "leander"
+    ],
+    "A48031-e19740": [
+      "isabel"
+    ],
+    "A48031-e19790": [
+      "doctor"
+    ],
+    "A48031-e19840": [
+      "nurse"
+    ],
+    "A48031-e19880": [
+      "doctor"
+    ],
+    "A48031-e19910": [
+      "nurse"
+    ],
+    "A48031-e19940": [
+      "doctor"
+    ],
+    "A48031-e19970": [
+      "nurse"
+    ],
+    "A48031-e20000": [
+      "doctor"
+    ],
+    "A48031-e20030": [
+      "nurse"
+    ],
+    "A48031-e20060": [
+      "doctor"
+    ],
+    "A48031-e20100": [
+      "nurse"
+    ],
+    "A48031-e20160": [
+      "doctor"
+    ],
+    "A48031-e20190": [
+      "nurse"
+    ],
+    "A48031-e20220": [
+      "doctor"
+    ],
+    "A48031-e20250": [
+      "nurse"
+    ],
+    "A48031-e20280": [
+      "jarvis"
+    ],
+    "A48031-e20310": [
+      "isabel"
+    ],
+    "A48031-e20340": [
+      "jarvis"
+    ],
+    "A48031-e20370": [
+      "isabel"
+    ],
+    "A48031-e20400": [
+      "jarvis"
+    ],
+    "A48031-e20430": [
+      "nurse"
+    ],
+    "A48031-e20460": [
+      "isabel"
+    ],
+    "A48031-e20490": [
+      "jarvis"
+    ],
+    "A48031-e20520": [
+      "isabel"
+    ],
+    "A48031-e20550": [
+      "jarvis"
+    ],
+    "A48031-e20580": [
+      "isabel"
+    ],
+    "A48031-e20610": [
+      "jarvis"
+    ],
+    "A48031-e20660": [
+      "nurse"
+    ],
+    "A48031-e20690": [
+      "doctor"
+    ],
+    "A48031-e20730": [
+      "jarvis"
+    ],
+    "A48031-e20780": [
+      "gernette"
+    ],
+    "A48031-e20810": [
+      "jarvis"
+    ],
+    "A48031-e20840": [
+      "nurse"
+    ],
+    "A48031-e20870": [
+      "doctor"
+    ],
+    "A48031-e20900": [
+      "gernette"
+    ],
+    "A48031-e20950": [
+      "jarvis"
+    ],
+    "A48031-e20980": [
+      "nurse"
+    ],
+    "A48031-e21010": [
+      "jarvis"
+    ],
+    "A48031-e21040": [
+      "nurse"
+    ],
+    "A48031-e21070": [
+      "doctor"
+    ],
+    "A48031-e21120": [
+      "gernette"
+    ],
+    "A48031-e21150": [
+      "jarvis"
+    ],
+    "A48031-e21180": [
+      "doctor"
+    ],
+    "A48031-e21220": [
+      "gernette"
+    ],
+    "A48031-e21270": [
+      "jarvis"
+    ],
+    "A48031-e21300": [
+      "doctor"
+    ],
+    "A48031-e21330": [
+      "gernette"
+    ],
+    "A48031-e21360": [
+      "doctor"
+    ],
+    "A48031-e21390": [
+      "gernette"
+    ],
+    "A48031-e21420": [
+      "doctor"
+    ],
+    "A48031-e21450": [
+      "gernette"
+    ],
+    "A48031-e21480": [
+      "doctor"
+    ],
+    "A48031-e21510": [
+      "gernette"
+    ],
+    "A48031-e21540": [
+      "doctor"
+    ],
+    "A48031-e21570": [
+      "gernette"
+    ],
+    "A48031-e21610": [
+      "doctor"
+    ],
+    "A48031-e21640": [
+      "gernette"
+    ],
+    "A48031-e21670": [
+      "doctor"
+    ],
+    "A48031-e21700": [
+      "gernette"
+    ],
+    "A48031-e21730": [
+      "doctor"
+    ],
+    "A48031-e21760": [
+      "gernette"
+    ],
+    "A48031-e21790": [
+      "apothecary"
+    ],
+    "A48031-e21820": [
+      "doctor"
+    ],
+    "A48031-e21850": [
+      "gernette"
+    ],
+    "A48031-e21900": [
+      "doctor"
+    ],
+    "A48031-e21930": [
+      "gernette"
+    ],
+    "A48031-e21960": [
+      "doctor"
+    ],
+    "A48031-e22000": [
+      "apothecary"
+    ],
+    "A48031-e22030": [
+      "doctor"
+    ],
+    "A48031-e22070": [
+      "gernette"
+    ],
+    "A48031-e22100": [
+      "doctor"
+    ],
+    "A48031-e22130": [
+      "gernette"
+    ],
+    "A48031-e22160": [
+      "doctor"
+    ],
+    "A48031-e22190": [
+      "gernette"
+    ],
+    "A48031-e22220": [
+      "doctor"
+    ],
+    "A48031-e22260": [
+      "gernette"
+    ],
+    "A48031-e22290": [
+      "doctor"
+    ],
+    "A48031-e22350": [
+      "gernette"
+    ],
+    "A48031-e22390": [
+      "doctor"
+    ],
+    "A48031-e22420": [
+      "gernette"
+    ],
+    "A48031-e22450": [
+      "apothecary"
+    ],
+    "A48031-e22480": [
+      "gernette"
+    ],
+    "A48031-e22510": [
+      "apothecary"
+    ],
+    "A48031-e22540": [
+      "gernette"
+    ],
+    "A48031-e22570": [
+      "doctor"
+    ],
+    "A48031-e22600": [
+      "apothecary"
+    ],
+    "A48031-e22630": [
+      "doctor"
+    ],
+    "A48031-e22660": [
+      "apothecary"
+    ],
+    "A48031-e22690": [
+      "gernette"
+    ],
+    "A48031-e22720": [
+      "doctor"
+    ],
+    "A48031-e22750": [
+      "gernette"
+    ],
+    "A48031-e22780": [
+      "doctor"
+    ],
+    "A48031-e22810": [
+      "gernette"
+    ],
+    "A48031-e22840": [
+      "doctor"
+    ],
+    "A48031-e22880": [
+      "olinda"
+    ],
+    "A48031-e22910": [
+      "apothecary"
+    ],
+    "A48031-e22940": [
+      "olinda"
+    ],
+    "A48031-e22970": [
+      "gernette"
+    ],
+    "A48031-e23000": [
+      "doctor"
+    ],
+    "A48031-e23030": [
+      "apothecary"
+    ],
+    "A48031-e23060": [
+      "gernette"
+    ],
+    "A48031-e23090": [
+      "apothecary"
+    ],
+    "A48031-e23120": [
+      "gernette"
+    ],
+    "A48031-e23150": [
+      "apothecary"
+    ],
+    "A48031-e23180": [
+      "gernette"
+    ],
+    "A48031-e23210": [
+      "doctor"
+    ],
+    "A48031-e23240": [
+      "gernette"
+    ],
+    "A48031-e23270": [
+      "doctor"
+    ],
+    "A48031-e23300": [
+      "gernette"
+    ],
+    "A48031-e23330": [
+      "apothecary"
+    ],
+    "A48031-e23370": [
+      "olinda"
+    ],
+    "A48031-e23410": [
+      "gernette"
+    ],
+    "A48031-e23440": [
+      "doctor"
+    ],
+    "A48031-e23470": [
+      "gernette"
+    ],
+    "A48031-e23500": [
+      "olinda"
+    ],
+    "A48031-e23540": [
+      "gernette"
+    ],
+    "A48031-e23570": [
+      "doctor"
+    ],
+    "A48031-e23600": [
+      "olinda"
+    ],
+    "A48031-e23630": [
+      "gernette"
+    ],
+    "A48031-e23660": [
+      "doctor"
+    ],
+    "A48031-e23690": [
+      "olinda"
+    ],
+    "A48031-e23720": [
+      "gernette"
+    ],
+    "A48031-e23750": [
+      "olinda"
+    ],
+    "A48031-e23780": [
+      "gernette"
+    ],
+    "A48031-e23810": [
+      "doctor"
+    ],
+    "A48031-e23840": [
+      "olinda"
+    ],
+    "A48031-e23870": [
+      "doctor"
+    ],
+    "A48031-e23900": [
+      "apothecary"
+    ],
+    "A48031-e23930": [
+      "olinda"
+    ],
+    "A48031-e23960": [
+      "gernette"
+    ],
+    "A48031-e23990": [
+      "olinda"
+    ],
+    "A48031-e24020": [
+      "gernette"
+    ],
+    "A48031-e24050": [
+      "olinda"
+    ],
+    "A48031-e24080": [
+      "gernette"
+    ],
+    "A48031-e24110": [
+      "olinda"
+    ],
+    "A48031-e24150": [
+      "gernette"
+    ],
+    "A48031-e24190": [
+      "olinda"
+    ],
+    "A48031-e24240": [
+      "gernette"
+    ],
+    "A48031-e24270": [
+      "doctor"
+    ],
+    "A48031-e24300": [
+      "olinda"
+    ],
+    "A48031-e24350": [
+      "apothecary"
+    ],
+    "A48031-e24380": [
+      "gernette"
+    ],
+    "A48031-e24420": [
+      "doctor"
+    ],
+    "A48031-e24460": [
+      "gernette"
+    ],
+    "A48031-e24490": [
+      "olinda"
+    ],
+    "A48031-e24540": [
+      "apothecary"
+    ],
+    "A48031-e24570": [
+      "gernette"
+    ],
+    "A48031-e24600": [
+      "doctor"
+    ],
+    "A48031-e24630": [
+      "gernette"
+    ],
+    "A48031-e24660": [
+      "apothecary"
+    ],
+    "A48031-e24690": [
+      "gernette"
+    ],
+    "A48031-e24720": [
+      "apothecary"
+    ],
+    "A48031-e24760": [
+      "gernette"
+    ],
+    "A48031-e24800": [
+      "doctor"
+    ],
+    "A48031-e24830": [
+      "olinda"
+    ],
+    "A48031-e24860": [
+      "gernette"
+    ],
+    "A48031-e24890": [
+      "apothecary"
+    ],
+    "A48031-e24930": [
+      "olinda"
+    ],
+    "A48031-e24970": [
+      "apothecary"
+    ],
+    "A48031-e25020": [
+      "doctor"
+    ],
+    "A48031-e25050": [
+      "gernette"
+    ],
+    "A48031-e25090": [
+      "doctor"
+    ],
+    "A48031-e25130": [
+      "olinda"
+    ],
+    "A48031-e25180": [
+      "nurse"
+    ],
+    "A48031-e25210": [
+      "gernette"
+    ],
+    "A48031-e25240": [
+      "nurse"
+    ],
+    "A48031-e25270": [
+      "gernette"
+    ],
+    "A48031-e25300": [
+      "nurse"
+    ],
+    "A48031-e25420": [
+      "olinda"
+    ],
+    "A48031-e25450": [
+      "mrs-nibby"
+    ],
+    "A48031-e25490": [
+      "olinda"
+    ],
+    "A48031-e25520": [
+      "mrs-nibby"
+    ],
+    "A48031-e25550": [
+      "olinda"
+    ],
+    "A48031-e25580": [
+      "mrs-nibby"
+    ],
+    "A48031-e25610": [
+      "olinda"
+    ],
+    "A48031-e25640": [
+      "mrs-nibby"
+    ],
+    "A48031-e25670": [
+      "olinda"
+    ],
+    "A48031-e25710": [
+      "mrs-nibby"
+    ],
+    "A48031-e25790": [
+      "gernette"
+    ],
+    "A48031-e25820": [
+      "suqre-softhead"
+    ],
+    "A48031-e25850": [
+      "gernette"
+    ],
+    "A48031-e25880": [
+      "suqre-softhead"
+    ],
+    "A48031-e25910": [
+      "gernette"
+    ],
+    "A48031-e25940": [
+      "suqre-softhead"
+    ],
+    "A48031-e25970": [
+      "gernette"
+    ],
+    "A48031-e26000": [
+      "servant"
+    ],
+    "A48031-e26030": [
+      "gernette"
+    ],
+    "A48031-e26070": [
+      "suqre-softhead"
+    ],
+    "A48031-e26100": [
+      "gernette"
+    ],
+    "A48031-e26130": [
+      "suqre-softhead"
+    ],
+    "A48031-e26160": [
+      "gernette"
+    ],
+    "A48031-e26190": [
+      "suqre-softhead"
+    ],
+    "A48031-e26240": [
+      "olinda"
+    ],
+    "A48031-e26270": [
+      "suqre-softhead"
+    ],
+    "A48031-e26300": [
+      "olinda"
+    ],
+    "A48031-e26330": [
+      "suqre-softhead"
+    ],
+    "A48031-e26370": [
+      "olinda"
+    ],
+    "A48031-e26400": [
+      "suqre-softhead"
+    ],
+    "A48031-e26450": [
+      "olinda"
+    ],
+    "A48031-e26480": [
+      "suqre-softhead"
+    ],
+    "A48031-e26510": [
+      "olinda"
+    ],
+    "A48031-e26540": [
+      "suqre-softhead"
+    ],
+    "A48031-e26580": [
+      "olinda"
+    ],
+    "A48031-e26610": [
+      "suqre-softhead"
+    ],
+    "A48031-e26640": [
+      "olinda"
+    ],
+    "A48031-e26670": [
+      "suqre-softhead"
+    ],
+    "A48031-e26710": [
+      "mrs-nibby"
+    ],
+    "A48031-e26740": [
+      "suqre-softhead"
+    ],
+    "A48031-e26770": [
+      "nurse"
+    ],
+    "A48031-e26810": [
+      "suqre-softhead"
+    ],
+    "A48031-e26840": [
+      "olinda"
+    ],
+    "A48031-e26870": [
+      "suqre-softhead"
+    ],
+    "A48031-e26910": [
+      "olinda"
+    ],
+    "A48031-e26940": [
+      "conjurer"
+    ],
+    "A48031-e26970": [
+      "olinda"
+    ],
+    "A48031-e27010": [
+      "conjurer"
+    ],
+    "A48031-e27060": [
+      "olinda"
+    ],
+    "A48031-e27100": [
+      "conjurer"
+    ],
+    "A48031-e27130": [
+      "suqre-softhead"
+    ],
+    "A48031-e27160": [
+      "conjurer"
+    ],
+    "A48031-e27190": [
+      "suqre-softhead"
+    ],
+    "A48031-e27220": [
+      "conjurer"
+    ],
+    "A48031-e27250": [
+      "suqre-softhead"
+    ],
+    "A48031-e27280": [
+      "conjurer"
+    ],
+    "A48031-e27310": [
+      "suqre-softhead"
+    ],
+    "A48031-e27410": [
+      "jarvis"
+    ],
+    "A48031-e27440": [
+      "isabel"
+    ],
+    "A48031-e27470": [
+      "jarvis"
+    ],
+    "A48031-e27500": [
+      "isabel"
+    ],
+    "A48031-e27530": [
+      "jarvis"
+    ],
+    "A48031-e27560": [
+      "isabel"
+    ],
+    "A48031-e27590": [
+      "jarvis"
+    ],
+    "A48031-e27620": [
+      "nurse"
+    ],
+    "A48031-e27650": [
+      "isabel"
+    ],
+    "A48031-e27680": [
+      "nurse"
+    ],
+    "A48031-e27710": [
+      "isabel"
+    ],
+    "A48031-e27740": [
+      "nurse"
+    ],
+    "A48031-e27770": [
+      "isabel"
+    ],
+    "A48031-e27800": [
+      "nurse"
+    ],
+    "A48031-e27830": [
+      "jarvis"
+    ],
+    "A48031-e27860": [
+      "nurse"
+    ],
+    "A48031-e27890": [
+      "isabel"
+    ],
+    "A48031-e27920": [
+      "jarvis"
+    ],
+    "A48031-e27980": [
+      "nurse"
+    ],
+    "A48031-e28040": [
+      "apothecary"
+    ],
+    "A48031-e28070": [
+      "doctor"
+    ],
+    "A48031-e28100": [
+      "apothecary"
+    ],
+    "A48031-e28130": [
+      "doctor"
+    ],
+    "A48031-e28160": [
+      "apothecary"
+    ],
+    "A48031-e28190": [
+      "doctor"
+    ],
+    "A48031-e28230": [
+      "apothecary"
+    ],
+    "A48031-e28260": [
+      "doctor"
+    ],
+    "A48031-e28310": [
+      "apothecary"
+    ],
+    "A48031-e28340": [
+      "doctor"
+    ],
+    "A48031-e28370": [
+      "apothecary"
+    ],
+    "A48031-e28410": [
+      "nurse"
+    ],
+    "A48031-e28440": [
+      "doctor"
+    ],
+    "A48031-e28470": [
+      "nurse"
+    ],
+    "A48031-e28500": [
+      "doctor"
+    ],
+    "A48031-e28530": [
+      "apothecary"
+    ],
+    "A48031-e28560": [
+      "doctor"
+    ],
+    "A48031-e28590": [
+      "apothecary"
+    ],
+    "A48031-e28620": [
+      "doctor"
+    ],
+    "A48031-e28670": [
+      "apothecary"
+    ],
+    "A48031-e28710": [
+      "doctor"
+    ],
+    "A48031-e28750": [
+      "nurse"
+    ],
+    "A48031-e28780": [
+      "doctor"
+    ],
+    "A48031-e28810": [
+      "nurse"
+    ],
+    "A48031-e28840": [
+      "doctor"
+    ],
+    "A48031-e28870": [
+      "nurse"
+    ],
+    "A48031-e28900": [
+      "doctor"
+    ],
+    "A48031-e28930": [
+      "nurse"
+    ],
+    "A48031-e28960": [
+      "doctor"
+    ],
+    "A48031-e28990": [
+      "nurse"
+    ],
+    "A48031-e29020": [
+      "doctor"
+    ],
+    "A48031-e29050": [
+      "nurse"
+    ],
+    "A48031-e29080": [
+      "doctor"
+    ],
+    "A48031-e29110": [
+      "nurse"
+    ],
+    "A48031-e29140": [
+      "doctor"
+    ],
+    "A48031-e29180": [
+      "nurse"
+    ],
+    "A48031-e29210": [
+      "doctor"
+    ],
+    "A48031-e29240": [
+      "nurse"
+    ],
+    "A48031-e29270": [
+      "doctor"
+    ],
+    "A48031-e29300": [
+      "nurse"
+    ],
+    "A48031-e29330": [
+      "doctor"
+    ],
+    "A48031-e29370": [
+      "nurse"
+    ],
+    "A48031-e29400": [
+      "doctor"
+    ],
+    "A48031-e29430": [
+      "nurse"
+    ],
+    "A48031-e29460": [
+      "doctor"
+    ],
+    "A48031-e29490": [
+      "nurse"
+    ],
+    "A48031-e29530": [
+      "doctor"
+    ],
+    "A48031-e29580": [
+      "apothecary"
+    ],
+    "A48031-e29610": [
+      "doctor"
+    ],
+    "A48031-e29640": [
+      "officer-1"
+    ],
+    "A48031-e29670": [
+      "doctor"
+    ],
+    "A48031-e29700": [
+      "officer-2"
+    ],
+    "A48031-e29730": [
+      "officer-1"
+    ],
+    "A48031-e29760": [
+      "doctor"
+    ],
+    "A48031-e29790": [
+      "officer-2"
+    ],
+    "A48031-e29830": [
+      "doctor"
+    ],
+    "A48031-e29860": [
+      "officer-1"
+    ],
+    "A48031-e29890": [
+      "doctor"
+    ],
+    "A48031-e29920": [
+      "officer-1"
+    ],
+    "A48031-e29950": [
+      "doctor"
+    ],
+    "A48031-e29980": [
+      "apothecary"
+    ],
+    "A48031-e30010": [
+      "officer-1"
+    ],
+    "A48031-e30070": [
+      "apothecary"
+    ],
+    "A48031-e30100": [
+      "doctor"
+    ],
+    "A48031-e30140": [
+      "apothecary"
+    ],
+    "A48031-e30170": [
+      "doctor"
+    ],
+    "A48031-e30230": [
+      "mrs-nibby"
+    ],
+    "A48031-e30260": [
+      "gernette"
+    ],
+    "A48031-e30290": [
+      "mrs-nibby"
+    ],
+    "A48031-e30320": [
+      "gernette"
+    ],
+    "A48031-e30350": [
+      "mrs-nibby"
+    ],
+    "A48031-e30380": [
+      "gernette"
+    ],
+    "A48031-e30410": [
+      "nurse"
+    ],
+    "A48031-e30440": [
+      "mrs-nibby"
+    ],
+    "A48031-e30470": [
+      "nurse"
+    ],
+    "A48031-e30500": [
+      "mrs-nibby",
+      "nurse"
+    ],
+    "A48031-e30530": [
+      "gernette"
+    ],
+    "A48031-e30560": [
+      "mrs-nibby"
+    ],
+    "A48031-e30590": [
+      "nurse"
+    ],
+    "A48031-e30620": [
+      "gernette"
+    ],
+    "A48031-e30650": [
+      "nurse"
+    ],
+    "A48031-e30680": [
+      "gernette"
+    ],
+    "A48031-e30710": [
+      "mrs-nibby"
+    ],
+    "A48031-e30740": [
+      "nurse"
+    ],
+    "A48031-e30770": [
+      "mrs-nibby"
+    ],
+    "A48031-e30800": [
+      "gernette"
+    ],
+    "A48031-e30830": [
+      "mrs-nibby"
+    ],
+    "A48031-e30860": [
+      "nurse"
+    ],
+    "A48031-e30890": [
+      "mrs-nibby"
+    ],
+    "A48031-e30920": [
+      "mrs-nibby"
+    ],
+    "A48031-e30950": [
+      "mrs-nibby"
+    ],
+    "A48031-e30980": [
+      "nurse"
+    ],
+    "A48031-e31010": [
+      "mrs-nibby"
+    ],
+    "A48031-e31040": [
+      "nurse"
+    ],
+    "A48031-e31070": [
+      "gernette"
+    ],
+    "A48031-e31100": [
+      "mrs-nibby"
+    ],
+    "A48031-e31140": [
+      "nurse"
+    ],
+    "A48031-e31180": [
+      "mrs-nibby"
+    ],
+    "A48031-e31210": [
+      "nurse"
+    ],
+    "A48031-e31240": [
+      "mrs-nibby"
+    ],
+    "A48031-e31290": [
+      "jarvis"
+    ],
+    "A48031-e31320": [
+      "gernette"
+    ],
+    "A48031-e31350": [
+      "isabel"
+    ],
+    "A48031-e31380": [
+      "jarvis"
+    ],
+    "A48031-e31410": [
+      "isabel"
+    ],
+    "A48031-e31440": [
+      "gernette"
+    ],
+    "A48031-e31470": [
+      "isabel"
+    ],
+    "A48031-e31500": [
+      "gernette"
+    ],
+    "A48031-e31530": [
+      "isabel"
+    ],
+    "A48031-e31560": [
+      "gernette"
+    ],
+    "A48031-e31590": [
+      "isabel"
+    ],
+    "A48031-e31620": [
+      "gernette"
+    ],
+    "A48031-e31650": [
+      "isabel"
+    ],
+    "A48031-e31680": [
+      "gernette"
+    ],
+    "A48031-e31710": [
+      "nurse"
+    ],
+    "A48031-e31740": [
+      "gernette"
+    ],
+    "A48031-e31770": [
+      "isabel"
+    ],
+    "A48031-e31820": [
+      "officer-2"
+    ],
+    "A48031-e31870": [
+      "gernette"
+    ],
+    "A48031-e31900": [
+      "nurse"
+    ],
+    "A48031-e31930": [
+      "officer-1"
+    ],
+    "A48031-e31970": [
+      "isabel"
+    ],
+    "A48031-e32010": [
+      "mrs-nibby"
+    ],
+    "A48031-e32060": [
+      "gernette"
+    ],
+    "A48031-e32090": [
+      "officer-1"
+    ],
+    "A48031-e32160": [
+      "gernette"
+    ],
+    "A48031-e32190": [
+      "jarvis"
+    ],
+    "A48031-e32220": [
+      "nurse"
+    ],
+    "A48031-e32250": [
+      "jarvis"
+    ],
+    "A48031-e32280": [
+      "gernette"
+    ],
+    "A48031-e32320": [
+      "doctor"
+    ],
+    "A48031-e32350": [
+      "gernette"
+    ],
+    "A48031-e32380": [
+      "doctor"
+    ],
+    "A48031-e32410": [
+      "gernette"
+    ],
+    "A48031-e32440": [
+      "doctor"
+    ],
+    "A48031-e32470": [
+      "gernette"
+    ],
+    "A48031-e32510": [
+      "doctor"
+    ],
+    "A48031-e32550": [
+      "nurse"
+    ],
+    "A48031-e32580": [
+      "doctor"
+    ],
+    "A48031-e32610": [
+      "gernette"
+    ],
+    "A48031-e32640": [
+      "doctor"
+    ],
+    "A48031-e32680": [
+      "apothecary"
+    ],
+    "A48031-e32710": [
+      "jarvis"
+    ],
+    "A48031-e32740": [
+      "nurse"
+    ],
+    "A48031-e32770": [
+      "doctor"
+    ],
+    "A48031-e32800": [
+      "apothecary"
+    ],
+    "A48031-e32830": [
+      "gernette"
+    ],
+    "A48031-e32860": [
+      "jarvis"
+    ],
+    "A48031-e32890": [
+      "gernette"
+    ],
+    "A48031-e32920": [
+      "doctor"
+    ],
+    "A48031-e32950": [
+      "jarvis"
+    ],
+    "A48031-e32980": [
+      "doctor"
+    ],
+    "A48031-e33010": [
+      "gernette"
+    ],
+    "A48031-e33040": [
+      "jarvis"
+    ],
+    "A48031-e33070": [
+      "doctor"
+    ],
+    "A48031-e33100": [
+      "jarvis"
+    ],
+    "A48031-e33130": [
+      "doctor"
+    ],
+    "A48031-e33160": [
+      "nurse"
+    ],
+    "A48031-e33210": [
+      "apothecary"
+    ],
+    "A48031-e33250": [
+      "doctor"
+    ],
+    "A48031-e33290": [
+      "gernette"
+    ],
+    "A48031-e33320": [
+      "apothecary"
+    ],
+    "A48031-e33350": [
+      "gernette"
+    ],
+    "A48031-e33380": [
+      "doctor"
+    ],
+    "A48031-e33410": [
+      "gernette"
+    ],
+    "A48031-e33440": [
+      "apothecary"
+    ],
+    "A48031-e33470": [
+      "gernette"
+    ],
+    "A48031-e33500": [
+      "doctor"
+    ],
+    "A48031-e33530": [
+      "gernette"
+    ],
+    "A48031-e33560": [
+      "nurse"
+    ],
+    "A48031-e33590": [
+      "doctor"
+    ],
+    "A48031-e33620": [
+      "nurse"
+    ],
+    "A48031-e33650": [
+      "gernette"
+    ],
+    "A48031-e33680": [
+      "doctor"
+    ],
+    "A48031-e33710": [
+      "gernette",
+      "doctor",
+      "apothecary",
+      "nurse"
+    ],
+    "A48031-e33750": [
+      "doctor"
+    ],
+    "A48031-e33780": [
+      "apothecary"
+    ],
+    "A48031-e33810": [
+      "doctor"
+    ],
+    "A48031-e33850": [
+      "gernette"
+    ],
+    "A48031-e33880": [
+      "nurse"
+    ],
+    "A48031-e33910": [
+      "gernette"
+    ],
+    "A48031-e33940": [
+      "nurse"
+    ],
+    "A48031-e33970": [
+      "gernette"
+    ],
+    "A48031-e34000": [
+      "nurse"
+    ],
+    "A48031-e34030": [
+      "gernette"
+    ],
+    "A48031-e34060": [
+      "nurse"
+    ],
+    "A48031-e34090": [
+      "gernette"
+    ],
+    "A48031-e34150": [
+      "mrs-nibby"
+    ],
+    "A48031-e34180": [
+      "nurse"
+    ],
+    "A48031-e34210": [
+      "gernette"
+    ],
+    "A48031-e34240": [
+      "nurse"
+    ],
+    "A48031-e34270": [
+      "mrs-nibby"
+    ],
+    "A48031-e34300": [
+      "gernette"
+    ],
+    "A48031-e34330": [
+      "mrs-nibby"
+    ],
+    "A48031-e34360": [
+      "gernette"
+    ],
+    "A48031-e34400": [
+      "mrs-nibby"
+    ],
+    "A48031-e34430": [
+      "nurse"
+    ],
+    "A48031-e34470": [
+      "mrs-nibby"
+    ],
+    "A48031-e34500": [
+      "gernette"
+    ],
+    "A48031-e34540": [
+      "mrs-nibby"
+    ],
+    "A48031-e34570": [
+      "gernette"
+    ],
+    "A48031-e34600": [
+      "mrs-nibby"
+    ],
+    "A48031-e34630": [
+      "mrs-nibby",
+      "gernette",
+      "nurse"
+    ],
+    "A48031-e34670": [
+      "gernette"
+    ],
+    "A48031-e34700": [
+      "mrs-nibby"
+    ],
+    "A48031-e34730": [
+      "gernette"
+    ],
+    "A48031-e34760": [
+      "mrs-nibby"
+    ],
+    "A48031-e34790": [
+      "gernette"
+    ],
+    "A48031-e34820": [
+      "mrs-nibby"
+    ],
+    "A48031-e34850": [
+      "gernette"
+    ],
+    "A48031-e34880": [
+      "mrs-nibby"
+    ],
+    "A48031-e34910": [
+      "gernette"
+    ],
+    "A48031-e34940": [
+      "mrs-nibby"
+    ],
+    "A48031-e34970": [
+      "gernette"
+    ],
+    "A48031-e35000": [
+      "mrs-nibby"
+    ],
+    "A48031-e35030": [
+      "gernette"
+    ],
+    "A48031-e35080": [
+      "nurse"
+    ],
+    "A48031-e35200": [
+      "leander"
+    ],
+    "A48031-e35230": [
+      "doctor"
+    ],
+    "A48031-e35260": [
+      "mr-othentick"
+    ],
+    "A48031-e35290": [
+      "leander"
+    ],
+    "A48031-e35320": [
+      "doctor"
+    ],
+    "A48031-e35350": [
+      "mr-othentick"
+    ],
+    "A48031-e35380": [
+      "doctor"
+    ],
+    "A48031-e35410": [
+      "mr-othentick"
+    ],
+    "A48031-e35440": [
+      "doctor"
+    ],
+    "A48031-e35470": [
+      "mr-othentick"
+    ],
+    "A48031-e35500": [
+      "doctor"
+    ],
+    "A48031-e35530": [
+      "mr-othentick"
+    ],
+    "A48031-e35560": [
+      "leander"
+    ],
+    "A48031-e35610": [
+      "mr-othentick"
+    ],
+    "A48031-e35640": [
+      "doctor"
+    ],
+    "A48031-e35670": [
+      "mr-othentick"
+    ],
+    "A48031-e35700": [
+      "doctor"
+    ],
+    "A48031-e35730": [
+      "mr-othentick"
+    ],
+    "A48031-e35760": [
+      "doctor"
+    ],
+    "A48031-e35790": [
+      "leander"
+    ],
+    "A48031-e35820": [
+      "doctor"
+    ],
+    "A48031-e35850": [
+      "leander"
+    ],
+    "A48031-e35880": [
+      "doctor"
+    ],
+    "A48031-e35910": [
+      "leander"
+    ],
+    "A48031-e35950": [
+      "nurse"
+    ],
+    "A48031-e35980": [
+      "doctor"
+    ],
+    "A48031-e36020": [
+      "nurse"
+    ],
+    "A48031-e36060": [
+      "leander"
+    ],
+    "A48031-e36090": [
+      "doctor"
+    ],
+    "A48031-e36120": [
+      "leander"
+    ],
+    "A48031-e36160": [
+      "doctor"
+    ],
+    "A48031-e36190": [
+      "mr-othentick"
+    ],
+    "A48031-e36250": [
+      "doctor"
+    ],
+    "A48031-e36280": [
+      "leander"
+    ],
+    "A48031-e36310": [
+      "doctor"
+    ],
+    "A48031-e36340": [
+      "leander"
+    ],
+    "A48031-e36370": [
+      "doctor"
+    ],
+    "A48031-e36400": [
+      "leander"
+    ],
+    "A48031-e36430": [
+      "doctor"
+    ],
+    "A48031-e36470": [
+      "nurse"
+    ],
+    "A48031-e36500": [
+      "doctor"
+    ],
+    "A48031-e36530": [
+      "nurse"
+    ],
+    "A48031-e36560": [
+      "doctor"
+    ],
+    "A48031-e36590": [
+      "nurse"
+    ],
+    "A48031-e36620": [
+      "leander"
+    ],
+    "A48031-e36650": [
+      "nurse"
+    ],
+    "A48031-e36680": [
+      "doctor"
+    ],
+    "A48031-e36710": [
+      "nurse"
+    ],
+    "A48031-e36750": [
+      "leander"
+    ],
+    "A48031-e36780": [
+      "mr-othentick"
+    ],
+    "A48031-e36810": [
+      "doctor"
+    ],
+    "A48031-e36840": [
+      "mr-othentick"
+    ],
+    "A48031-e36870": [
+      "doctor"
+    ],
+    "A48031-e36900": [
+      "mr-othentick"
+    ],
+    "A48031-e36930": [
+      "doctor"
+    ],
+    "A48031-e37010": [
+      "gernette"
+    ],
+    "A48031-e37040": [
+      "doctor-1"
+    ],
+    "A48031-e37070": [
+      "gernette"
+    ],
+    "A48031-e37100": [
+      "doctor-2"
+    ],
+    "A48031-e37130": [
+      "doctor-3"
+    ],
+    "A48031-e37160": [
+      "gernette"
+    ],
+    "A48031-e37190": [
+      "doctor-1"
+    ],
+    "A48031-e37220": [
+      "gernette"
+    ],
+    "A48031-e37280": [
+      "doctor-2"
+    ],
+    "A48031-e37330": [
+      "gernette"
+    ],
+    "A48031-e37370": [
+      "doctor-1"
+    ],
+    "A48031-e37410": [
+      "gernette"
+    ],
+    "A48031-e37440": [
+      "doctor-3"
+    ],
+    "A48031-e37470": [
+      "doctor-1"
+    ],
+    "A48031-e37500": [
+      "doctor-2"
+    ],
+    "A48031-e37540": [
+      "doctor-3"
+    ],
+    "A48031-e37570": [
+      "doctor-1"
+    ],
+    "A48031-e37610": [
+      "doctor-2"
+    ],
+    "A48031-e37660": [
+      "doctor-3"
+    ],
+    "A48031-e37690": [
+      "doctor-2"
+    ],
+    "A48031-e37720": [
+      "gernette"
+    ],
+    "A48031-e37750": [
+      "doctor-2"
+    ],
+    "A48031-e37790": [
+      "servant"
+    ],
+    "A48031-e37820": [
+      "gernette"
+    ],
+    "A48031-e37850": [
+      "doctor-1"
+    ],
+    "A48031-e37880": [
+      "doctor-2"
+    ],
+    "A48031-e37910": [
+      "doctor-3"
+    ],
+    "A48031-e37940": [
+      "gernette"
+    ],
+    "A48031-e37970": [
+      "doctor-3"
+    ],
+    "A48031-e38030": [
+      "gernette"
+    ],
+    "A48031-e38060": [
+      "doctor"
+    ],
+    "A48031-e38090": [
+      "doctor-3"
+    ],
+    "A48031-e38120": [
+      "doctor"
+    ],
+    "A48031-e38160": [
+      "stirquilutio"
+    ],
+    "A48031-e38190": [
+      "doctor"
+    ],
+    "A48031-e38220": [
+      "doctor-2"
+    ],
+    "A48031-e38260": [
+      "doctor"
+    ],
+    "A48031-e38310": [
+      "stirquilutio"
+    ],
+    "A48031-e38340": [
+      "doctor"
+    ],
+    "A48031-e38370": [
+      "doctor-2"
+    ],
+    "A48031-e38400": [
+      "doctor"
+    ],
+    "A48031-e38440": [
+      "stirquilutio"
+    ],
+    "A48031-e38470": [
+      "doctor"
+    ],
+    "A48031-e38500": [
+      "doctor-3"
+    ],
+    "A48031-e38530": [
+      "doctor"
+    ],
+    "A48031-e38560": [
+      "stirquilutio"
+    ],
+    "A48031-e38590": [
+      "doctor"
+    ],
+    "A48031-e38630": [
+      "doctor-2"
+    ],
+    "A48031-e38670": [
+      "doctor"
+    ],
+    "A48031-e38700": [
+      "doctor-1"
+    ],
+    "A48031-e38730": [
+      "doctor"
+    ],
+    "A48031-e38760": [
+      "doctor-3"
+    ],
+    "A48031-e38790": [
+      "doctor"
+    ],
+    "A48031-e38830": [
+      "stirquilutio"
+    ],
+    "A48031-e38900": [
+      "doctor"
+    ],
+    "A48031-e38940": [
+      "doctor-2"
+    ],
+    "A48031-e38970": [
+      "doctor"
+    ],
+    "A48031-e39000": [
+      "stirquilutio"
+    ],
+    "A48031-e39030": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e39060": [
+      "doctor"
+    ],
+    "A48031-e39090": [
+      "gernette"
+    ],
+    "A48031-e39120": [
+      "doctor-3"
+    ],
+    "A48031-e39150": [
+      "doctor"
+    ],
+    "A48031-e39180": [
+      "doctor-2"
+    ],
+    "A48031-e39210": [
+      "doctor-3"
+    ],
+    "A48031-e39240": [
+      "doctor-2"
+    ],
+    "A48031-e39270": [
+      "doctor"
+    ],
+    "A48031-e39310": [
+      "stirquilutio"
+    ],
+    "A48031-e39350": [
+      "doctor"
+    ],
+    "A48031-e39380": [
+      "stirquilutio"
+    ],
+    "A48031-e39410": [
+      "doctor-3"
+    ],
+    "A48031-e39440": [
+      "doctor-2"
+    ],
+    "A48031-e39470": [
+      "doctor"
+    ],
+    "A48031-e39500": [
+      "doctor-2"
+    ],
+    "A48031-e39530": [
+      "doctor"
+    ],
+    "A48031-e39560": [
+      "doctor-2"
+    ],
+    "A48031-e39590": [
+      "doctor"
+    ],
+    "A48031-e39620": [
+      "doctor-2"
+    ],
+    "A48031-e39650": [
+      "doctor"
+    ],
+    "A48031-e39700": [
+      "nurse"
+    ],
+    "A48031-e39730": [
+      "doctor-3"
+    ],
+    "A48031-e39760": [
+      "doctor"
+    ],
+    "A48031-e39800": [
+      "nurse"
+    ],
+    "A48031-e39830": [
+      "doctor"
+    ],
+    "A48031-e39860": [
+      "nurse"
+    ],
+    "A48031-e39890": [
+      "doctor-2"
+    ],
+    "A48031-e39920": [
+      "doctor-3"
+    ],
+    "A48031-e39950": [
+      "doctor-2"
+    ],
+    "A48031-e39980": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e40010": [
+      "doctor"
+    ],
+    "A48031-e40040": [
+      "gernette"
+    ],
+    "A48031-e40070": [
+      "doctor"
+    ],
+    "A48031-e40100": [
+      "gernette"
+    ],
+    "A48031-e40130": [
+      "doctor"
+    ],
+    "A48031-e40160": [
+      "doctor-2"
+    ],
+    "A48031-e40190": [
+      "doctor"
+    ],
+    "A48031-e40220": [
+      "gernette"
+    ],
+    "A48031-e40250": [
+      "nurse"
+    ],
+    "A48031-e40280": [
+      "gernette"
+    ],
+    "A48031-e40310": [
+      "nurse"
+    ],
+    "A48031-e40340": [
+      "gernette"
+    ],
+    "A48031-e40370": [
+      "nurse"
+    ],
+    "A48031-e40400": [
+      "doctor"
+    ],
+    "A48031-e40430": [
+      "gernette"
+    ],
+    "A48031-e40460": [
+      "nurse"
+    ],
+    "A48031-e40500": [
+      "mrs-nibby"
+    ],
+    "A48031-e40530": [
+      "gernette"
+    ],
+    "A48031-e40560": [
+      "nurse"
+    ],
+    "A48031-e40590": [
+      "doctor-2"
+    ],
+    "A48031-e40620": [
+      "gernette"
+    ],
+    "A48031-e40650": [
+      "doctor-2"
+    ],
+    "A48031-e40680": [
+      "doctor-3"
+    ],
+    "A48031-e40710": [
+      "doctor"
+    ],
+    "A48031-e40740": [
+      "doctor-2"
+    ],
+    "A48031-e40770": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e40800": [
+      "gernette"
+    ],
+    "A48031-e40830": [
+      "nurse"
+    ],
+    "A48031-e40880": [
+      "doctor"
+    ],
+    "A48031-e40920": [
+      "gernette"
+    ],
+    "A48031-e40950": [
+      "doctor"
+    ],
+    "A48031-e40990": [
+      "gernette"
+    ],
+    "A48031-e41020": [
+      "doctor"
+    ],
+    "A48031-e41060": [
+      "gernette"
+    ],
+    "A48031-e41110": [
+      "olinda"
+    ],
+    "A48031-e41150": [
+      "gernette"
+    ],
+    "A48031-e41190": [
+      "mrs-nibby"
+    ],
+    "A48031-e41220": [
+      "gernette"
+    ],
+    "A48031-e41250": [
+      "olinda"
+    ],
+    "A48031-e41290": [
+      "doctor"
+    ],
+    "A48031-e41320": [
+      "doctor-2"
+    ],
+    "A48031-e41360": [
+      "olinda"
+    ],
+    "A48031-e41410": [
+      "doctor"
+    ],
+    "A48031-e41460": [
+      "olinda"
+    ],
+    "A48031-e41500": [
+      "doctor"
+    ],
+    "A48031-e41540": [
+      "olinda"
+    ],
+    "A48031-e41580": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e41610": [
+      "gernette"
+    ],
+    "A48031-e41640": [
+      "doctor"
+    ],
+    "A48031-e41670": [
+      "gernette"
+    ],
+    "A48031-e41700": [
+      "olinda"
+    ],
+    "A48031-e41730": [
+      "doctor-2"
+    ],
+    "A48031-e41760": [
+      "olinda"
+    ],
+    "A48031-e41790": [
+      "doctor"
+    ],
+    "A48031-e41830": [
+      "gernette"
+    ],
+    "A48031-e41860": [
+      "doctor"
+    ],
+    "A48031-e41890": [
+      "doctor-2"
+    ],
+    "A48031-e41920": [
+      "doctor"
+    ],
+    "A48031-e41950": [
+      "olinda"
+    ],
+    "A48031-e41980": [
+      "doctor"
+    ],
+    "A48031-e42010": [
+      "gernette"
+    ],
+    "A48031-e42040": [
+      "doctor"
+    ],
+    "A48031-e42070": [
+      "gernette"
+    ],
+    "A48031-e42100": [
+      "doctor"
+    ],
+    "A48031-e42130": [
+      "gernette"
+    ],
+    "A48031-e42160": [
+      "olinda"
+    ],
+    "A48031-e42200": [
+      "doctor"
+    ],
+    "A48031-e42230": [
+      "gernette"
+    ],
+    "A48031-e42260": [
+      "doctor"
+    ],
+    "A48031-e42290": [
+      "gernette"
+    ],
+    "A48031-e42320": [
+      "doctor-3"
+    ],
+    "A48031-e42350": [
+      "doctor"
+    ],
+    "A48031-e42390": [
+      "doctor-2"
+    ],
+    "A48031-e42420": [
+      "gernette"
+    ],
+    "A48031-e42450": [
+      "nurse"
+    ],
+    "A48031-e42480": [
+      "gernette"
+    ],
+    "A48031-e42510": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e42540": [
+      "olinda"
+    ],
+    "A48031-e42580": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e42620": [
+      "nurse"
+    ],
+    "A48031-e42650": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e42680": [
+      "gernette"
+    ],
+    "A48031-e42710": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e42740": [
+      "gernette"
+    ],
+    "A48031-e42770": [
+      "olinda"
+    ],
+    "A48031-e42810": [
+      "gernette"
+    ],
+    "A48031-e42840": [
+      "doctor"
+    ],
+    "A48031-e42870": [
+      "gernette"
+    ],
+    "A48031-e42900": [
+      "doctor"
+    ],
+    "A48031-e42960": [
+      "gernette"
+    ],
+    "A48031-e42990": [
+      "doctor"
+    ],
+    "A48031-e43030": [
+      "gernette",
+      "nurse",
+      "drench",
+      "apothecary",
+      "doctor-2",
+      "doctor-3",
+      "doctor-hurnatio",
+      "olinda",
+      "doctor"
+    ],
+    "A48031-e43060": [
+      "doctor-2"
+    ],
+    "A48031-e43090": [
+      "doctor-hurnatio"
+    ],
+    "A48031-e43120": [
+      "doctor-2"
+    ],
+    "A48031-e43150": [
+      "gernette"
+    ],
+    "A48031-e43180": [
+      "olinda"
+    ],
+    "A48031-e43210": [
+      "gernette"
+    ],
+    "A48031-e43260": [
+      "leander"
+    ],
+    "A48031-e43290": [
+      "gernette"
+    ],
+    "A48031-e43330": [
+      "leander"
+    ],
+    "A48031-e43360": [
+      "gernette"
+    ],
+    "A48031-e43400": [
+      "olinda"
+    ],
+    "A48031-e43430": [
+      "leander"
+    ],
+    "A48031-e43460": [
+      "gernette"
+    ],
+    "A48031-e43490": [
+      "leander"
+    ],
+    "A48031-e43520": [
+      "gernette"
+    ],
+    "A48031-e43570": [
+      "olinda"
+    ],
+    "A48031-e43610": [
+      "doctor"
+    ],
+    "A48031-e43640": [
+      "nurse"
+    ],
+    "A48031-e43670": [
+      "doctor"
+    ],
+    "A48031-e43700": [
+      "nurse"
+    ],
+    "A48031-e43750": [
+      "jarvis"
+    ],
+    "A48031-e43780": [
+      "doctor"
+    ],
+    "A48031-e43810": [
+      "isabel"
+    ],
+    "A48031-e43840": [
+      "doctor"
+    ],
+    "A48031-e43870": [
+      "leander"
+    ],
+    "A48031-e43900": [
+      "doctor"
+    ],
+    "A48031-e43940": [
+      "gernette"
+    ],
+    "A48031-e43980": [
+      "olinda"
+    ],
+    "A48031-e44010": [
+      "mrs-nibby"
+    ],
+    "A48031-e44040": [
+      "suqre-softhead"
+    ],
+    "A48031-e44090": [
+      "mrs-nibby"
+    ],
+    "A48031-e44120": [
+      "nurse"
+    ],
+    "A48031-e44150": [
+      "mrs-nibby"
+    ],
+    "A48031-e44180": [
+      "suqre-softhead"
+    ],
+    "A48031-e44220": [
+      "leander"
+    ],
+    "A48031-e44250": [
+      "suqre-softhead"
+    ],
+    "A48031-e44280": [
+      "leander"
+    ],
+    "A48031-e44310": [
+      "suqre-softhead"
+    ],
+    "A48031-e44340": [
+      "leander"
+    ],
+    "A48031-e44390": [
+      "doctor"
+    ],
+    "A48031-e44430": [
+      "leander"
+    ],
+    "A48031-e44500": [
+      "mr-othentick"
+    ]
+  }
+}

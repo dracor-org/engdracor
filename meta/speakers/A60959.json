@@ -1,0 +1,2821 @@
+{
+  "particDesc": [
+    {
+      "name": "Women",
+      "id": "women",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Servants",
+      "id": "servants",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Nurse",
+      "id": "nurse",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "count-baldwin",
+      "name": "Count Baldwin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "biron",
+      "name": "Biron",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "villeroy",
+      "name": "Villeroy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "frederick",
+      "name": "Frederick",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "fernando",
+      "name": "Fernando",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "fabian",
+      "name": "Fabian ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "jaqueline",
+      "name": "Jaqueline ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sampson",
+      "name": "Sampson",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "isabella's-son",
+      "name": "Isabella's Son",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bellford",
+      "name": "Bellford",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pedro",
+      "name": "Pedro",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "isabella",
+      "name": "Isabella",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "julia",
+      "name": "Julia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A60959-e2230": [
+      "fabian"
+    ],
+    "A60959-e2260": [
+      "frederick"
+    ],
+    "A60959-e2300": [
+      "fabian"
+    ],
+    "A60959-e2330": [
+      "frederick"
+    ],
+    "A60959-e2360": [
+      "fabian"
+    ],
+    "A60959-e2390": [
+      "frederick"
+    ],
+    "A60959-e2420": [
+      "fabian"
+    ],
+    "A60959-e2470": [
+      "frederick"
+    ],
+    "A60959-e2520": [
+      "jaqueline"
+    ],
+    "A60959-e2550": [
+      "fabian"
+    ],
+    "A60959-e2580": [
+      "jaqueline"
+    ],
+    "A60959-e2640": [
+      "frederick"
+    ],
+    "A60959-e2700": [
+      "fabian"
+    ],
+    "A60959-e2790": [
+      "fernando"
+    ],
+    "A60959-e2830": [
+      "frederick"
+    ],
+    "A60959-e2870": [
+      "fernando"
+    ],
+    "A60959-e2900": [
+      "frederick"
+    ],
+    "A60959-e2930": [
+      "fernando"
+    ],
+    "A60959-e2960": [
+      "frederick"
+    ],
+    "A60959-e2990": [
+      "fernando"
+    ],
+    "A60959-e3030": [
+      "frederick"
+    ],
+    "A60959-e3060": [
+      "fernando"
+    ],
+    "A60959-e3090": [
+      "frederick"
+    ],
+    "A60959-e3120": [
+      "fernando"
+    ],
+    "A60959-e3150": [
+      "frederick"
+    ],
+    "A60959-e3180": [
+      "fernando"
+    ],
+    "A60959-e3220": [
+      "frederick"
+    ],
+    "A60959-e3250": [
+      "fernando"
+    ],
+    "A60959-e3280": [
+      "frederick"
+    ],
+    "A60959-e3310": [
+      "fernando"
+    ],
+    "A60959-e3340": [
+      "frederick"
+    ],
+    "A60959-e3370": [
+      "fernando"
+    ],
+    "A60959-e3410": [
+      "frederick"
+    ],
+    "A60959-e3460": [
+      "fernando"
+    ],
+    "A60959-e3490": [
+      "jaqueline"
+    ],
+    "A60959-e3520": [
+      "fernando"
+    ],
+    "A60959-e3550": [
+      "jaqueline"
+    ],
+    "A60959-e3580": [
+      "fernando"
+    ],
+    "A60959-e3610": [
+      "jaqueline"
+    ],
+    "A60959-e3640": [
+      "fernando"
+    ],
+    "A60959-e3690": [
+      "jaqueline"
+    ],
+    "A60959-e3800": [
+      "fernando"
+    ],
+    "A60959-e3830": [
+      "frederick"
+    ],
+    "A60959-e3860": [
+      "jaqueline"
+    ],
+    "A60959-e3910": [
+      "frederick"
+    ],
+    "A60959-e4000": [
+      "fernando"
+    ],
+    "A60959-e4050": [
+      "frederick"
+    ],
+    "A60959-e4080": [
+      "fernando"
+    ],
+    "A60959-e4130": [
+      "jaqueline"
+    ],
+    "A60959-e4170": [
+      "fernando"
+    ],
+    "A60959-e4200": [
+      "jaqueline"
+    ],
+    "A60959-e4230": [
+      "fernando"
+    ],
+    "A60959-e4260": [
+      "jaqueline"
+    ],
+    "A60959-e4290": [
+      "fernando"
+    ],
+    "A60959-e4320": [
+      "jaqueline"
+    ],
+    "A60959-e4350": [
+      "fernando"
+    ],
+    "A60959-e4380": [
+      "frederick"
+    ],
+    "A60959-e4410": [
+      "fernando"
+    ],
+    "A60959-e4450": [
+      "jaqueline"
+    ],
+    "A60959-e4480": [
+      "fernando"
+    ],
+    "A60959-e4510": [
+      "jaqueline"
+    ],
+    "A60959-e4540": [
+      "fernando"
+    ],
+    "A60959-e4580": [
+      "jaqueline"
+    ],
+    "A60959-e4610": [
+      "frederick"
+    ],
+    "A60959-e4640": [
+      "jaqueline"
+    ],
+    "A60959-e4680": [
+      "frederick"
+    ],
+    "A60959-e4790": [
+      "carlos"
+    ],
+    "A60959-e4820": [
+      "villeroy"
+    ],
+    "A60959-e4860": [
+      "carlos"
+    ],
+    "A60959-e4900": [
+      "villeroy"
+    ],
+    "A60959-e4930": [
+      "carlos"
+    ],
+    "A60959-e4960": [
+      "villeroy"
+    ],
+    "A60959-e4990": [
+      "carlos"
+    ],
+    "A60959-e5020": [
+      "villeroy"
+    ],
+    "A60959-e5050": [
+      "carlos"
+    ],
+    "A60959-e5090": [
+      "villeroy"
+    ],
+    "A60959-e5120": [
+      "carlos"
+    ],
+    "A60959-e5150": [
+      "villeroy"
+    ],
+    "A60959-e5190": [
+      "carlos"
+    ],
+    "A60959-e5240": [
+      "frederick"
+    ],
+    "A60959-e5270": [
+      "carlos"
+    ],
+    "A60959-e5310": [
+      "frederick"
+    ],
+    "A60959-e5340": [
+      "carlos"
+    ],
+    "A60959-e5370": [
+      "frederick"
+    ],
+    "A60959-e5400": [
+      "carlos"
+    ],
+    "A60959-e5430": [
+      "frederick"
+    ],
+    "A60959-e5500": [
+      "carlos"
+    ],
+    "A60959-e5610": [
+      "julia"
+    ],
+    "A60959-e5640": [
+      "victoria"
+    ],
+    "A60959-e5690": [
+      "fernando"
+    ],
+    "A60959-e5730": [
+      "julia"
+    ],
+    "A60959-e5770": [
+      "fernando"
+    ],
+    "A60959-e5800": [
+      "victoria"
+    ],
+    "A60959-e5850": [
+      "fernando"
+    ],
+    "A60959-e5880": [
+      "julia"
+    ],
+    "A60959-e5910": [
+      "fernando"
+    ],
+    "A60959-e5940": [
+      "julia"
+    ],
+    "A60959-e5970": [
+      "fernando"
+    ],
+    "A60959-e6050": [
+      "victoria"
+    ],
+    "A60959-e6080": [
+      "fernando"
+    ],
+    "A60959-e6110": [
+      "victoria"
+    ],
+    "A60959-e6170": [
+      "fernando"
+    ],
+    "A60959-e6200": [
+      "julia"
+    ],
+    "A60959-e6240": [
+      "fernando"
+    ],
+    "A60959-e6280": [
+      "victoria"
+    ],
+    "A60959-e6330": [
+      "fernando"
+    ],
+    "A60959-e6370": [
+      "victoria"
+    ],
+    "A60959-e6410": [
+      "fernando"
+    ],
+    "A60959-e6450": [
+      "victoria"
+    ],
+    "A60959-e6480": [
+      "fernando"
+    ],
+    "A60959-e6510": [
+      "victoria"
+    ],
+    "A60959-e6550": [
+      "fernando"
+    ],
+    "A60959-e6580": [
+      "victoria"
+    ],
+    "A60959-e6610": [
+      "fernando"
+    ],
+    "A60959-e6780": [
+      "isabella"
+    ],
+    "A60959-e6830": [
+      "villeroy"
+    ],
+    "A60959-e6860": [
+      "isabella"
+    ],
+    "A60959-e6890": [
+      "villeroy"
+    ],
+    "A60959-e7030": [
+      "isabella"
+    ],
+    "A60959-e7060": [
+      "villeroy"
+    ],
+    "A60959-e7160": [
+      "isabella"
+    ],
+    "A60959-e7230": [
+      "isabella's-son"
+    ],
+    "A60959-e7290": [
+      "isabella"
+    ],
+    "A60959-e7340": [
+      "villeroy"
+    ],
+    "A60959-e7500": [
+      "isabella"
+    ],
+    "A60959-e7590": [
+      "villeroy"
+    ],
+    "A60959-e7660": [
+      "isabella"
+    ],
+    "A60959-e7810": [
+      "sampson"
+    ],
+    "A60959-e7840": [
+      "isabella"
+    ],
+    "A60959-e7880": [
+      "sampson"
+    ],
+    "A60959-e7910": [
+      "isabella"
+    ],
+    "A60959-e7950": [
+      "sampson"
+    ],
+    "A60959-e8020": [
+      "isabella"
+    ],
+    "A60959-e8050": [
+      "sampson"
+    ],
+    "A60959-e8090": [
+      "nurse"
+    ],
+    "A60959-e8120": [
+      "sampson"
+    ],
+    "A60959-e8150": [
+      "isabella"
+    ],
+    "A60959-e8180": [
+      "nurse"
+    ],
+    "A60959-e8270": [
+      "sampson"
+    ],
+    "A60959-e8300": [
+      "nurse"
+    ],
+    "A60959-e8330": [
+      "sampson"
+    ],
+    "A60959-e8360": [
+      "nurse"
+    ],
+    "A60959-e8400": [
+      "sampson"
+    ],
+    "A60959-e8440": [
+      "nurse"
+    ],
+    "A60959-e8480": [
+      "sampson"
+    ],
+    "A60959-e8510": [
+      "nurse"
+    ],
+    "A60959-e8550": [
+      "sampson"
+    ],
+    "A60959-e8580": [
+      "nurse"
+    ],
+    "A60959-e8640": [
+      "sampson"
+    ],
+    "A60959-e8690": [
+      "nurse"
+    ],
+    "A60959-e8770": [
+      "sampson"
+    ],
+    "A60959-e8800": [
+      "nurse"
+    ],
+    "A60959-e8830": [
+      "sampson"
+    ],
+    "A60959-e8860": [
+      "nurse"
+    ],
+    "A60959-e8940": [
+      "sampson"
+    ],
+    "A60959-e8970": [
+      "nurse"
+    ],
+    "A60959-e9000": [
+      "sampson"
+    ],
+    "A60959-e9040": [
+      "nurse"
+    ],
+    "A60959-e9080": [
+      "sampson"
+    ],
+    "A60959-e9140": [
+      "count-baldwin"
+    ],
+    "A60959-e9210": [
+      "isabella"
+    ],
+    "A60959-e9260": [
+      "count-baldwin"
+    ],
+    "A60959-e9370": [
+      "isabella"
+    ],
+    "A60959-e9400": [
+      "count-baldwin"
+    ],
+    "A60959-e9450": [
+      "isabella"
+    ],
+    "A60959-e9480": [
+      "count-baldwin"
+    ],
+    "A60959-e9520": [
+      "isabella"
+    ],
+    "A60959-e9550": [
+      "count-baldwin"
+    ],
+    "A60959-e9630": [
+      "isabella"
+    ],
+    "A60959-e9670": [
+      "count-baldwin"
+    ],
+    "A60959-e9710": [
+      "isabella"
+    ],
+    "A60959-e9920": [
+      "count-baldwin"
+    ],
+    "A60959-e10030": [
+      "isabella"
+    ],
+    "A60959-e10150": [
+      "count-baldwin"
+    ],
+    "A60959-e10340": [
+      "isabella"
+    ],
+    "A60959-e10370": [
+      "count-baldwin"
+    ],
+    "A60959-e10550": [
+      "isabella"
+    ],
+    "A60959-e10600": [
+      "count-baldwin"
+    ],
+    "A60959-e10650": [
+      "isabella"
+    ],
+    "A60959-e10710": [
+      "count-baldwin"
+    ],
+    "A60959-e10760": [
+      "isabella"
+    ],
+    "A60959-e10870": [
+      "count-baldwin"
+    ],
+    "A60959-e10930": [
+      "sampson"
+    ],
+    "A60959-e10960": [
+      "count-baldwin"
+    ],
+    "A60959-e11030": [
+      "sampson"
+    ],
+    "A60959-e11060": [
+      "count-baldwin"
+    ],
+    "A60959-e11240": [
+      "carlos"
+    ],
+    "A60959-e11310": [
+      "villeroy"
+    ],
+    "A60959-e11410": [
+      "carlos"
+    ],
+    "A60959-e11470": [
+      "villeroy"
+    ],
+    "A60959-e11500": [
+      "carlos"
+    ],
+    "A60959-e11530": [
+      "villeroy"
+    ],
+    "A60959-e11560": [
+      "carlos"
+    ],
+    "A60959-e11590": [
+      "villeroy"
+    ],
+    "A60959-e11730": [
+      "carlos"
+    ],
+    "A60959-e11770": [
+      "villeroy"
+    ],
+    "A60959-e11820": [
+      "carlos"
+    ],
+    "A60959-e11890": [
+      "frederick"
+    ],
+    "A60959-e11920": [
+      "carlos"
+    ],
+    "A60959-e11970": [
+      "frederick"
+    ],
+    "A60959-e12010": [
+      "jaqueline"
+    ],
+    "A60959-e12040": [
+      "frederick"
+    ],
+    "A60959-e12080": [
+      "jaqueline"
+    ],
+    "A60959-e12130": [
+      "frederick"
+    ],
+    "A60959-e12170": [
+      "fabian"
+    ],
+    "A60959-e12210": [
+      "frederick"
+    ],
+    "A60959-e12250": [
+      "fabian"
+    ],
+    "A60959-e12280": [
+      "frederick"
+    ],
+    "A60959-e12310": [
+      "fabian"
+    ],
+    "A60959-e12340": [
+      "frederick"
+    ],
+    "A60959-e12370": [
+      "fabian"
+    ],
+    "A60959-e12400": [
+      "frederick"
+    ],
+    "A60959-e12430": [
+      "fabian"
+    ],
+    "A60959-e12460": [
+      "jaqueline"
+    ],
+    "A60959-e12490": [
+      "fabian"
+    ],
+    "A60959-e12540": [
+      "jaqueline"
+    ],
+    "A60959-e12570": [
+      "fabian"
+    ],
+    "A60959-e12600": [
+      "frederick"
+    ],
+    "A60959-e12630": [
+      "fabian"
+    ],
+    "A60959-e12670": [
+      "jaqueline"
+    ],
+    "A60959-e12700": [
+      "fabian"
+    ],
+    "A60959-e12810": [
+      "isabella"
+    ],
+    "A60959-e12980": [
+      "nurse"
+    ],
+    "A60959-e13010": [
+      "isabella"
+    ],
+    "A60959-e13120": [
+      "nurse"
+    ],
+    "A60959-e13150": [
+      "isabella"
+    ],
+    "A60959-e13270": [
+      "sampson"
+    ],
+    "A60959-e13310": [
+      "isabella"
+    ],
+    "A60959-e13600": [
+      "nurse"
+    ],
+    "A60959-e13680": [
+      "isabella"
+    ],
+    "A60959-e13730": [
+      "carlos"
+    ],
+    "A60959-e13870": [
+      "isabella"
+    ],
+    "A60959-e13920": [
+      "carlos"
+    ],
+    "A60959-e13960": [
+      "isabella"
+    ],
+    "A60959-e14190": [
+      "villeroy"
+    ],
+    "A60959-e14300": [
+      "villeroy"
+    ],
+    "A60959-e14330": [
+      "carlos"
+    ],
+    "A60959-e14400": [
+      "isabella"
+    ],
+    "A60959-e14470": [
+      "carlos"
+    ],
+    "A60959-e14500": [
+      "isabella"
+    ],
+    "A60959-e14570": [
+      "isabella"
+    ],
+    "A60959-e14650": [
+      "villeroy"
+    ],
+    "A60959-e14700": [
+      "isabella"
+    ],
+    "A60959-e14790": [
+      "villeroy"
+    ],
+    "A60959-e14820": [
+      "isabella"
+    ],
+    "A60959-e14870": [
+      "carlos"
+    ],
+    "A60959-e14900": [
+      "isabella"
+    ],
+    "A60959-e14930": [
+      "carlos"
+    ],
+    "A60959-e14980": [
+      "isabella"
+    ],
+    "A60959-e15010": [
+      "carlos"
+    ],
+    "A60959-e15040": [
+      "isabella"
+    ],
+    "A60959-e15070": [
+      "villeroy"
+    ],
+    "A60959-e15160": [
+      "isabella"
+    ],
+    "A60959-e15200": [
+      "villeroy"
+    ],
+    "A60959-e15350": [
+      "isabella"
+    ],
+    "A60959-e15390": [
+      "villeroy"
+    ],
+    "A60959-e15440": [
+      "carlos"
+    ],
+    "A60959-e15470": [
+      "villeroy"
+    ],
+    "A60959-e15530": [
+      "carlos"
+    ],
+    "A60959-e15630": [
+      "isabella"
+    ],
+    "A60959-e15660": [
+      "carlos"
+    ],
+    "A60959-e15720": [
+      "nurse"
+    ],
+    "A60959-e15760": [
+      "carlos"
+    ],
+    "A60959-e15830": [
+      "nurse"
+    ],
+    "A60959-e15870": [
+      "carlos"
+    ],
+    "A60959-e15900": [
+      "isabella"
+    ],
+    "A60959-e15980": [
+      "villeroy"
+    ],
+    "A60959-e16010": [
+      "isabella"
+    ],
+    "A60959-e16120": [
+      "villeroy"
+    ],
+    "A60959-e16150": [
+      "isabella"
+    ],
+    "A60959-e16230": [
+      "villeroy"
+    ],
+    "A60959-e16290": [
+      "isabella"
+    ],
+    "A60959-e16320": [
+      "villeroy"
+    ],
+    "A60959-e16400": [
+      "isabella"
+    ],
+    "A60959-e16450": [
+      "villeroy"
+    ],
+    "A60959-e16480": [
+      "isabella"
+    ],
+    "A60959-e16530": [
+      "villeroy"
+    ],
+    "A60959-e16680": [
+      "isabella"
+    ],
+    "A60959-e16740": [
+      "villeroy"
+    ],
+    "A60959-e16790": [
+      "carlos"
+    ],
+    "A60959-e16820": [
+      "villeroy"
+    ],
+    "A60959-e16850": [
+      "carlos"
+    ],
+    "A60959-e16890": [
+      "villeroy"
+    ],
+    "A60959-e17020": [
+      "frederick"
+    ],
+    "A60959-e17050": [
+      "jaqueline"
+    ],
+    "A60959-e17080": [
+      "frederick"
+    ],
+    "A60959-e17110": [
+      "jaqueline"
+    ],
+    "A60959-e17140": [
+      "frederick"
+    ],
+    "A60959-e17170": [
+      "jaqueline"
+    ],
+    "A60959-e17210": [
+      "frederick"
+    ],
+    "A60959-e17240": [
+      "jaqueline"
+    ],
+    "A60959-e17280": [
+      "frederick"
+    ],
+    "A60959-e17330": [
+      "victoria"
+    ],
+    "A60959-e17360": [
+      "frederick"
+    ],
+    "A60959-e17400": [
+      "victoria"
+    ],
+    "A60959-e17450": [
+      "jaqueline"
+    ],
+    "A60959-e17500": [
+      "jaqueline"
+    ],
+    "A60959-e17540": [
+      "frederick"
+    ],
+    "A60959-e17570": [
+      "victoria"
+    ],
+    "A60959-e17600": [
+      "jaqueline"
+    ],
+    "A60959-e17630": [
+      "victoria"
+    ],
+    "A60959-e17700": [
+      "jaqueline"
+    ],
+    "A60959-e17750": [
+      "frederick"
+    ],
+    "A60959-e17800": [
+      "victoria"
+    ],
+    "A60959-e17870": [
+      "frederick"
+    ],
+    "A60959-e17900": [
+      "victoria"
+    ],
+    "A60959-e17950": [
+      "fernando"
+    ],
+    "A60959-e17980": [
+      "victoria"
+    ],
+    "A60959-e18010": [
+      "fernando"
+    ],
+    "A60959-e18040": [
+      "jaqueline"
+    ],
+    "A60959-e18070": [
+      "frederick"
+    ],
+    "A60959-e18100": [
+      "jaqueline"
+    ],
+    "A60959-e18150": [
+      "frederick"
+    ],
+    "A60959-e18200": [
+      "fernando"
+    ],
+    "A60959-e18240": [
+      "fernando"
+    ],
+    "A60959-e18280": [
+      "jaqueline"
+    ],
+    "A60959-e18310": [
+      "fernando"
+    ],
+    "A60959-e18350": [
+      "jaqueline"
+    ],
+    "A60959-e18390": [
+      "frederick"
+    ],
+    "A60959-e18420": [
+      "fernando"
+    ],
+    "A60959-e18470": [
+      "frederick"
+    ],
+    "A60959-e18500": [
+      "fernando"
+    ],
+    "A60959-e18540": [
+      "frederick"
+    ],
+    "A60959-e18590": [
+      "jaqueline"
+    ],
+    "A60959-e18630": [
+      "fernando"
+    ],
+    "A60959-e18670": [
+      "jaqueline"
+    ],
+    "A60959-e18720": [
+      "fernando"
+    ],
+    "A60959-e18750": [
+      "jaqueline"
+    ],
+    "A60959-e18790": [
+      "fernando"
+    ],
+    "A60959-e18880": [
+      "frederick"
+    ],
+    "A60959-e18910": [
+      "jaqueline"
+    ],
+    "A60959-e18940": [
+      "frederick"
+    ],
+    "A60959-e18970": [
+      "fernando"
+    ],
+    "A60959-e19000": [
+      "jaqueline"
+    ],
+    "A60959-e19030": [
+      "frederick"
+    ],
+    "A60959-e19070": [
+      "fernando"
+    ],
+    "A60959-e19100": [
+      "jaqueline"
+    ],
+    "A60959-e19130": [
+      "fernando"
+    ],
+    "A60959-e19160": [
+      "frederick"
+    ],
+    "A60959-e19190": [
+      "fernando"
+    ],
+    "A60959-e19270": [
+      "victoria"
+    ],
+    "A60959-e19300": [
+      "frederick"
+    ],
+    "A60959-e19330": [
+      "fernando"
+    ],
+    "A60959-e19370": [
+      "victoria"
+    ],
+    "A60959-e19400": [
+      "jaqueline"
+    ],
+    "A60959-e19430": [
+      "frederick"
+    ],
+    "A60959-e19500": [
+      "fernando"
+    ],
+    "A60959-e19540": [
+      "servants"
+    ],
+    "A60959-e19570": [
+      "fernando"
+    ],
+    "A60959-e19610": [
+      "servants"
+    ],
+    "A60959-e19680": [
+      "jaqueline"
+    ],
+    "A60959-e19710": [
+      "victoria"
+    ],
+    "A60959-e19740": [
+      "frederick"
+    ],
+    "A60959-e19770": [
+      "victoria"
+    ],
+    "A60959-e19800": [
+      "frederick"
+    ],
+    "A60959-e19830": [
+      "jaqueline"
+    ],
+    "A60959-e19860": [
+      "victoria"
+    ],
+    "A60959-e19890": [
+      "frederick"
+    ],
+    "A60959-e19920": [
+      "victoria"
+    ],
+    "A60959-e19950": [
+      "jaqueline"
+    ],
+    "A60959-e19990": [
+      "victoria"
+    ],
+    "A60959-e20030": [
+      "frederick"
+    ],
+    "A60959-e20070": [
+      "jaqueline"
+    ],
+    "A60959-e20110": [
+      "frederick"
+    ],
+    "A60959-e20150": [
+      "victoria"
+    ],
+    "A60959-e20180": [
+      "jaqueline"
+    ],
+    "A60959-e20210": [
+      "victoria"
+    ],
+    "A60959-e20250": [
+      "frederick"
+    ],
+    "A60959-e20280": [
+      "victoria"
+    ],
+    "A60959-e20310": [
+      "frederick"
+    ],
+    "A60959-e20340": [
+      "jaqueline"
+    ],
+    "A60959-e20380": [
+      "victoria"
+    ],
+    "A60959-e20420": [
+      "frederick"
+    ],
+    "A60959-e20450": [
+      "jaqueline"
+    ],
+    "A60959-e20480": [
+      "frederick"
+    ],
+    "A60959-e20520": [
+      "victoria"
+    ],
+    "A60959-e20550": [
+      "frederick"
+    ],
+    "A60959-e20610": [
+      "victoria"
+    ],
+    "A60959-e20640": [
+      "frederick"
+    ],
+    "A60959-e20680": [
+      "victoria"
+    ],
+    "A60959-e20710": [
+      "frederick"
+    ],
+    "A60959-e20740": [
+      "jaqueline"
+    ],
+    "A60959-e20780": [
+      "frederick"
+    ],
+    "A60959-e20830": [
+      "victoria"
+    ],
+    "A60959-e20860": [
+      "frederick"
+    ],
+    "A60959-e20890": [
+      "victoria"
+    ],
+    "A60959-e20920": [
+      "frederick"
+    ],
+    "A60959-e20970": [
+      "victoria"
+    ],
+    "A60959-e21010": [
+      "frederick"
+    ],
+    "A60959-e21050": [
+      "victoria"
+    ],
+    "A60959-e21080": [
+      "frederick"
+    ],
+    "A60959-e21110": [
+      "victoria"
+    ],
+    "A60959-e21140": [
+      "frederick"
+    ],
+    "A60959-e21170": [
+      "victoria"
+    ],
+    "A60959-e21200": [
+      "frederick"
+    ],
+    "A60959-e21240": [
+      "victoria"
+    ],
+    "A60959-e21270": [
+      "frederick"
+    ],
+    "A60959-e21300": [
+      "victoria"
+    ],
+    "A60959-e21330": [
+      "frederick"
+    ],
+    "A60959-e21440": [
+      "fernando"
+    ],
+    "A60959-e21470": [
+      "fabian"
+    ],
+    "A60959-e21500": [
+      "fernando"
+    ],
+    "A60959-e21530": [
+      "fabian"
+    ],
+    "A60959-e21560": [
+      "fernando"
+    ],
+    "A60959-e21590": [
+      "fabian"
+    ],
+    "A60959-e21620": [
+      "fernando"
+    ],
+    "A60959-e21650": [
+      "fabian"
+    ],
+    "A60959-e21680": [
+      "fernando"
+    ],
+    "A60959-e21710": [
+      "fabian"
+    ],
+    "A60959-e21740": [
+      "fernando"
+    ],
+    "A60959-e21770": [
+      "fabian"
+    ],
+    "A60959-e21800": [
+      "fernando"
+    ],
+    "A60959-e21830": [
+      "fabian"
+    ],
+    "A60959-e21860": [
+      "fernando"
+    ],
+    "A60959-e21890": [
+      "fabian"
+    ],
+    "A60959-e21920": [
+      "fernando"
+    ],
+    "A60959-e22040": [
+      "julia"
+    ],
+    "A60959-e22070": [
+      "fernando"
+    ],
+    "A60959-e22100": [
+      "julia"
+    ],
+    "A60959-e22130": [
+      "fernando"
+    ],
+    "A60959-e22160": [
+      "julia"
+    ],
+    "A60959-e22190": [
+      "fernando"
+    ],
+    "A60959-e22220": [
+      "julia"
+    ],
+    "A60959-e22250": [
+      "fernando"
+    ],
+    "A60959-e22280": [
+      "julia"
+    ],
+    "A60959-e22310": [
+      "fernando"
+    ],
+    "A60959-e22340": [
+      "julia"
+    ],
+    "A60959-e22370": [
+      "fernando"
+    ],
+    "A60959-e22400": [
+      "julia"
+    ],
+    "A60959-e22430": [
+      "fabian"
+    ],
+    "A60959-e22470": [
+      "fernando"
+    ],
+    "A60959-e22500": [
+      "fabian"
+    ],
+    "A60959-e22540": [
+      "fernando"
+    ],
+    "A60959-e22570": [
+      "julia"
+    ],
+    "A60959-e22600": [
+      "fabian"
+    ],
+    "A60959-e22630": [
+      "fernando"
+    ],
+    "A60959-e22660": [
+      "fabian"
+    ],
+    "A60959-e22690": [
+      "fernando"
+    ],
+    "A60959-e22800": [
+      "carlos"
+    ],
+    "A60959-e22830": [
+      "victoria"
+    ],
+    "A60959-e22860": [
+      "frederick"
+    ],
+    "A60959-e22890": [
+      "victoria"
+    ],
+    "A60959-e22920": [
+      "frederick"
+    ],
+    "A60959-e22950": [
+      "victoria"
+    ],
+    "A60959-e22980": [
+      "frederick"
+    ],
+    "A60959-e23020": [
+      "carlos"
+    ],
+    "A60959-e23060": [
+      "victoria"
+    ],
+    "A60959-e23090": [
+      "frederick"
+    ],
+    "A60959-e23120": [
+      "victoria"
+    ],
+    "A60959-e23150": [
+      "frederick"
+    ],
+    "A60959-e23180": [
+      "victoria"
+    ],
+    "A60959-e23210": [
+      "frederick"
+    ],
+    "A60959-e23280": [
+      "carlos"
+    ],
+    "A60959-e23310": [
+      "frederick"
+    ],
+    "A60959-e23340": [
+      "carlos"
+    ],
+    "A60959-e23370": [
+      "frederick"
+    ],
+    "A60959-e23400": [
+      "carlos"
+    ],
+    "A60959-e23450": [
+      "victoria"
+    ],
+    "A60959-e23500": [
+      "carlos"
+    ],
+    "A60959-e23530": [
+      "victoria"
+    ],
+    "A60959-e23850": [
+      "villeroy"
+    ],
+    "A60959-e23920": [
+      "carlos",
+      "frederick"
+    ],
+    "A60959-e23950": [
+      "villeroy"
+    ],
+    "A60959-e24220": [
+      "frederick"
+    ],
+    "A60959-e24250": [
+      "villeroy"
+    ],
+    "A60959-e24340": [
+      "carlos"
+    ],
+    "A60959-e24380": [
+      "villeroy"
+    ],
+    "A60959-e24480": [
+      "victoria"
+    ],
+    "A60959-e24520": [
+      "villeroy"
+    ],
+    "A60959-e24610": [
+      "carlos"
+    ],
+    "A60959-e24640": [
+      "villeroy"
+    ],
+    "A60959-e24670": [
+      "victoria"
+    ],
+    "A60959-e24730": [
+      "villeroy"
+    ],
+    "A60959-e24780": [
+      "carlos"
+    ],
+    "A60959-e24810": [
+      "victoria"
+    ],
+    "A60959-e24850": [
+      "frederick"
+    ],
+    "A60959-e24890": [
+      "victoria"
+    ],
+    "A60959-e24930": [
+      "carlos"
+    ],
+    "A60959-e24980": [
+      "frederick"
+    ],
+    "A60959-e25020": [
+      "villeroy"
+    ],
+    "A60959-e25100": [
+      "frederick"
+    ],
+    "A60959-e25130": [
+      "carlos"
+    ],
+    "A60959-e25160": [
+      "villeroy"
+    ],
+    "A60959-e25210": [
+      "carlos"
+    ],
+    "A60959-e25240": [
+      "villeroy"
+    ],
+    "A60959-e25290": [
+      "frederick"
+    ],
+    "A60959-e25320": [
+      "villeroy"
+    ],
+    "A60959-e25440": [
+      "sampson"
+    ],
+    "A60959-e25500": [
+      "nurse"
+    ],
+    "A60959-e25530": [
+      "sampson"
+    ],
+    "A60959-e25570": [
+      "nurse"
+    ],
+    "A60959-e25620": [
+      "sampson"
+    ],
+    "A60959-e25710": [
+      "nurse"
+    ],
+    "A60959-e25750": [
+      "sampson"
+    ],
+    "A60959-e25780": [
+      "nurse"
+    ],
+    "A60959-e25850": [
+      "villeroy"
+    ],
+    "A60959-e25880": [
+      "fabian"
+    ],
+    "A60959-e25940": [
+      "villeroy"
+    ],
+    "A60959-e25970": [
+      "fabian"
+    ],
+    "A60959-e26010": [
+      "villeroy"
+    ],
+    "A60959-e26210": [
+      "isabella"
+    ],
+    "A60959-e26250": [
+      "villeroy"
+    ],
+    "A60959-e26340": [
+      "isabella"
+    ],
+    "A60959-e26380": [
+      "villeroy"
+    ],
+    "A60959-e26470": [
+      "isabella"
+    ],
+    "A60959-e26520": [
+      "villeroy"
+    ],
+    "A60959-e26570": [
+      "carlos"
+    ],
+    "A60959-e26600": [
+      "frederick"
+    ],
+    "A60959-e26660": [
+      "villeroy"
+    ],
+    "A60959-e26740": [
+      "victoria"
+    ],
+    "A60959-e26770": [
+      "carlos"
+    ],
+    "A60959-e26800": [
+      "frederick"
+    ],
+    "A60959-e26840": [
+      "carlos"
+    ],
+    "A60959-e26910": [
+      "villeroy"
+    ],
+    "A60959-e26950": [
+      "carlos"
+    ],
+    "A60959-e26980": [
+      "villeroy"
+    ],
+    "A60959-e27040": [
+      "fernando"
+    ],
+    "A60959-e27110": [
+      "villeroy"
+    ],
+    "A60959-e27150": [
+      "fernando"
+    ],
+    "A60959-e27180": [
+      "julia"
+    ],
+    "A60959-e27210": [
+      "victoria"
+    ],
+    "A60959-e27240": [
+      "julia"
+    ],
+    "A60959-e27270": [
+      "fernando"
+    ],
+    "A60959-e27300": [
+      "villeroy"
+    ],
+    "A60959-e27330": [
+      "fernando"
+    ],
+    "A60959-e27360": [
+      "villeroy"
+    ],
+    "A60959-e27390": [
+      "fernando"
+    ],
+    "A60959-e27460": [
+      "victoria"
+    ],
+    "A60959-e27490": [
+      "fernando"
+    ],
+    "A60959-e27520": [
+      "victoria"
+    ],
+    "A60959-e27560": [
+      "fernando"
+    ],
+    "A60959-e27590": [
+      "victoria"
+    ],
+    "A60959-e27620": [
+      "fernando"
+    ],
+    "A60959-e27650": [
+      "victoria"
+    ],
+    "A60959-e27680": [
+      "fernando"
+    ],
+    "A60959-e27710": [
+      "victoria"
+    ],
+    "A60959-e27740": [
+      "fernando"
+    ],
+    "A60959-e27770": [
+      "victoria"
+    ],
+    "A60959-e27800": [
+      "fernando"
+    ],
+    "A60959-e27830": [
+      "victoria"
+    ],
+    "A60959-e27860": [
+      "fernando"
+    ],
+    "A60959-e27890": [
+      "victoria"
+    ],
+    "A60959-e27920": [
+      "fernando"
+    ],
+    "A60959-e27950": [
+      "victoria"
+    ],
+    "A60959-e27980": [
+      "fernando"
+    ],
+    "A60959-e28010": [
+      "julia"
+    ],
+    "A60959-e28040": [
+      "fernando"
+    ],
+    "A60959-e28080": [
+      "villeroy"
+    ],
+    "A60959-e28120": [
+      "fernando"
+    ],
+    "A60959-e28150": [
+      "frederick"
+    ],
+    "A60959-e28180": [
+      "fernando"
+    ],
+    "A60959-e28220": [
+      "frederick"
+    ],
+    "A60959-e28250": [
+      "fernando"
+    ],
+    "A60959-e28300": [
+      "villeroy"
+    ],
+    "A60959-e28340": [
+      "fernando"
+    ],
+    "A60959-e28380": [
+      "carlos"
+    ],
+    "A60959-e28410": [
+      "fernando"
+    ],
+    "A60959-e28450": [
+      "victoria"
+    ],
+    "A60959-e28480": [
+      "villeroy"
+    ],
+    "A60959-e28510": [
+      "frederick"
+    ],
+    "A60959-e28540": [
+      "fernando"
+    ],
+    "A60959-e28570": [
+      "fabian"
+    ],
+    "A60959-e28630": [
+      "carlos"
+    ],
+    "A60959-e28680": [
+      "frederick"
+    ],
+    "A60959-e28710": [
+      "villeroy"
+    ],
+    "A60959-e29020": [
+      "villeroy"
+    ],
+    "A60959-e29050": [
+      "isabella"
+    ],
+    "A60959-e29090": [
+      "villeroy"
+    ],
+    "A60959-e29430": [
+      "fabian"
+    ],
+    "A60959-e29480": [
+      "julia"
+    ],
+    "A60959-e29510": [
+      "victoria"
+    ],
+    "A60959-e29540": [
+      "fabian"
+    ],
+    "A60959-e29570": [
+      "carlos"
+    ],
+    "A60959-e29620": [
+      "julia"
+    ],
+    "A60959-e29660": [
+      "carlos"
+    ],
+    "A60959-e29700": [
+      "julia"
+    ],
+    "A60959-e29730": [
+      "carlos"
+    ],
+    "A60959-e29760": [
+      "julia"
+    ],
+    "A60959-e29790": [
+      "carlos"
+    ],
+    "A60959-e29820": [
+      "julia"
+    ],
+    "A60959-e29850": [
+      "servant"
+    ],
+    "A60959-e29900": [
+      "carlos"
+    ],
+    "A60959-e29940": [
+      "jaqueline"
+    ],
+    "A60959-e29980": [
+      "fabian"
+    ],
+    "A60959-e30060": [
+      "fernando"
+    ],
+    "A60959-e30090": [
+      "jaqueline"
+    ],
+    "A60959-e30130": [
+      "fernando"
+    ],
+    "A60959-e30160": [
+      "jaqueline"
+    ],
+    "A60959-e30190": [
+      "fernando"
+    ],
+    "A60959-e30220": [
+      "jaqueline"
+    ],
+    "A60959-e30250": [
+      "fernando"
+    ],
+    "A60959-e30300": [
+      "jaqueline"
+    ],
+    "A60959-e30350": [
+      "fernando"
+    ],
+    "A60959-e30380": [
+      "jaqueline"
+    ],
+    "A60959-e30410": [
+      "fernando"
+    ],
+    "A60959-e30440": [
+      "jaqueline"
+    ],
+    "A60959-e30470": [
+      "fernando"
+    ],
+    "A60959-e30500": [
+      "jaqueline"
+    ],
+    "A60959-e30530": [
+      "fernando"
+    ],
+    "A60959-e30560": [
+      "jaqueline"
+    ],
+    "A60959-e30620": [
+      "fernando"
+    ],
+    "A60959-e30660": [
+      "jaqueline"
+    ],
+    "A60959-e30730": [
+      "fernando"
+    ],
+    "A60959-e30760": [
+      "jaqueline"
+    ],
+    "A60959-e30820": [
+      "fernando"
+    ],
+    "A60959-e30850": [
+      "jaqueline"
+    ],
+    "A60959-e30880": [
+      "fernando"
+    ],
+    "A60959-e30940": [
+      "jaqueline"
+    ],
+    "A60959-e30990": [
+      "fernando"
+    ],
+    "A60959-e31020": [
+      "jaqueline"
+    ],
+    "A60959-e31050": [
+      "fernando"
+    ],
+    "A60959-e31080": [
+      "jaqueline"
+    ],
+    "A60959-e31110": [
+      "fernando"
+    ],
+    "A60959-e31160": [
+      "jaqueline"
+    ],
+    "A60959-e31230": [
+      "fabian"
+    ],
+    "A60959-e31260": [
+      "julia"
+    ],
+    "A60959-e31290": [
+      "fabian"
+    ],
+    "A60959-e31320": [
+      "fernando"
+    ],
+    "A60959-e31350": [
+      "julia"
+    ],
+    "A60959-e31380": [
+      "fernando"
+    ],
+    "A60959-e31420": [
+      "fabian"
+    ],
+    "A60959-e31470": [
+      "fernando"
+    ],
+    "A60959-e31510": [
+      "fabian"
+    ],
+    "A60959-e31560": [
+      "fernando"
+    ],
+    "A60959-e31600": [
+      "fabian"
+    ],
+    "A60959-e31630": [
+      "fernando"
+    ],
+    "A60959-e31660": [
+      "julia"
+    ],
+    "A60959-e31690": [
+      "fernando"
+    ],
+    "A60959-e31740": [
+      "julia"
+    ],
+    "A60959-e31770": [
+      "fernando"
+    ],
+    "A60959-e31850": [
+      "julia"
+    ],
+    "A60959-e31880": [
+      "fernando"
+    ],
+    "A60959-e31930": [
+      "victoria"
+    ],
+    "A60959-e31960": [
+      "frederick"
+    ],
+    "A60959-e32000": [
+      "fernando"
+    ],
+    "A60959-e32030": [
+      "frederick"
+    ],
+    "A60959-e32060": [
+      "fernando"
+    ],
+    "A60959-e32110": [
+      "victoria"
+    ],
+    "A60959-e32140": [
+      "frederick"
+    ],
+    "A60959-e32180": [
+      "fernando"
+    ],
+    "A60959-e32350": [
+      "biron"
+    ],
+    "A60959-e32390": [
+      "bellford"
+    ],
+    "A60959-e32450": [
+      "biron"
+    ],
+    "A60959-e32560": [
+      "bellford"
+    ],
+    "A60959-e32600": [
+      "biron"
+    ],
+    "A60959-e32650": [
+      "bellford"
+    ],
+    "A60959-e32690": [
+      "biron"
+    ],
+    "A60959-e32730": [
+      "bellford"
+    ],
+    "A60959-e32820": [
+      "sampson"
+    ],
+    "A60959-e32850": [
+      "biron"
+    ],
+    "A60959-e32880": [
+      "sampson"
+    ],
+    "A60959-e32910": [
+      "biron"
+    ],
+    "A60959-e32940": [
+      "sampson"
+    ],
+    "A60959-e32970": [
+      "biron"
+    ],
+    "A60959-e33000": [
+      "sampson"
+    ],
+    "A60959-e33090": [
+      "nurse"
+    ],
+    "A60959-e33170": [
+      "biron"
+    ],
+    "A60959-e33200": [
+      "nurse"
+    ],
+    "A60959-e33230": [
+      "biron"
+    ],
+    "A60959-e33270": [
+      "nurse"
+    ],
+    "A60959-e33330": [
+      "biron"
+    ],
+    "A60959-e33430": [
+      "nurse"
+    ],
+    "A60959-e33470": [
+      "biron"
+    ],
+    "A60959-e33500": [
+      "nurse"
+    ],
+    "A60959-e33600": [
+      "isabella"
+    ],
+    "A60959-e33660": [
+      "nurse"
+    ],
+    "A60959-e33690": [
+      "isabella"
+    ],
+    "A60959-e33810": [
+      "biron"
+    ],
+    "A60959-e33840": [
+      "isabella"
+    ],
+    "A60959-e33870": [
+      "biron"
+    ],
+    "A60959-e33930": [
+      "isabella"
+    ],
+    "A60959-e33960": [
+      "biron"
+    ],
+    "A60959-e34040": [
+      "isabella"
+    ],
+    "A60959-e34080": [
+      "biron"
+    ],
+    "A60959-e34190": [
+      "isabella"
+    ],
+    "A60959-e34310": [
+      "biron"
+    ],
+    "A60959-e34340": [
+      "isabella"
+    ],
+    "A60959-e34400": [
+      "biron"
+    ],
+    "A60959-e34430": [
+      "isabella"
+    ],
+    "A60959-e34540": [
+      "biron"
+    ],
+    "A60959-e34570": [
+      "isabella"
+    ],
+    "A60959-e34610": [
+      "biron"
+    ],
+    "A60959-e34680": [
+      "isabella"
+    ],
+    "A60959-e34720": [
+      "biron"
+    ],
+    "A60959-e34750": [
+      "isabella"
+    ],
+    "A60959-e34820": [
+      "biron"
+    ],
+    "A60959-e34850": [
+      "isabella"
+    ],
+    "A60959-e34900": [
+      "biron"
+    ],
+    "A60959-e34960": [
+      "isabella"
+    ],
+    "A60959-e35000": [
+      "biron"
+    ],
+    "A60959-e35040": [
+      "isabella"
+    ],
+    "A60959-e35090": [
+      "biron"
+    ],
+    "A60959-e35120": [
+      "isabella"
+    ],
+    "A60959-e35160": [
+      "biron"
+    ],
+    "A60959-e35210": [
+      "isabella"
+    ],
+    "A60959-e35240": [
+      "biron"
+    ],
+    "A60959-e35280": [
+      "isabella"
+    ],
+    "A60959-e35310": [
+      "biron"
+    ],
+    "A60959-e35380": [
+      "isabella"
+    ],
+    "A60959-e35430": [
+      "biron"
+    ],
+    "A60959-e35590": [
+      "isabella"
+    ],
+    "A60959-e35630": [
+      "biron"
+    ],
+    "A60959-e35700": [
+      "isabella"
+    ],
+    "A60959-e35730": [
+      "biron"
+    ],
+    "A60959-e35800": [
+      "isabella"
+    ],
+    "A60959-e36370": [
+      "biron"
+    ],
+    "A60959-e36460": [
+      "isabella"
+    ],
+    "A60959-e36520": [
+      "biron"
+    ],
+    "A60959-e36580": [
+      "isabella"
+    ],
+    "A60959-e36620": [
+      "biron"
+    ],
+    "A60959-e36650": [
+      "isabella"
+    ],
+    "A60959-e36710": [
+      "biron"
+    ],
+    "A60959-e36740": [
+      "isabella"
+    ],
+    "A60959-e36830": [
+      "biron"
+    ],
+    "A60959-e36860": [
+      "isabella"
+    ],
+    "A60959-e36890": [
+      "biron"
+    ],
+    "A60959-e36920": [
+      "isabella"
+    ],
+    "A60959-e36950": [
+      "biron"
+    ],
+    "A60959-e36980": [
+      "isabella"
+    ],
+    "A60959-e37030": [
+      "biron"
+    ],
+    "A60959-e37070": [
+      "isabella"
+    ],
+    "A60959-e37110": [
+      "biron"
+    ],
+    "A60959-e37170": [
+      "isabella"
+    ],
+    "A60959-e37210": [
+      "biron"
+    ],
+    "A60959-e37240": [
+      "isabella"
+    ],
+    "A60959-e37280": [
+      "biron"
+    ],
+    "A60959-e37320": [
+      "isabella"
+    ],
+    "A60959-e37350": [
+      "biron"
+    ],
+    "A60959-e37380": [
+      "isabella"
+    ],
+    "A60959-e37410": [
+      "biron"
+    ],
+    "A60959-e37440": [
+      "isabella"
+    ],
+    "A60959-e37470": [
+      "biron"
+    ],
+    "A60959-e37550": [
+      "isabella"
+    ],
+    "A60959-e37580": [
+      "biron"
+    ],
+    "A60959-e37620": [
+      "isabella"
+    ],
+    "A60959-e37660": [
+      "biron"
+    ],
+    "A60959-e37740": [
+      "isabella"
+    ],
+    "A60959-e37890": [
+      "biron"
+    ],
+    "A60959-e37920": [
+      "isabella"
+    ],
+    "A60959-e37970": [
+      "biron"
+    ],
+    "A60959-e38000": [
+      "isabella"
+    ],
+    "A60959-e38040": [
+      "biron"
+    ],
+    "A60959-e38090": [
+      "isabella"
+    ],
+    "A60959-e38240": [
+      "biron"
+    ],
+    "A60959-e38340": [
+      "biron"
+    ],
+    "A60959-e38790": [
+      "nurse"
+    ],
+    "A60959-e38840": [
+      "sampson"
+    ],
+    "A60959-e38900": [
+      "nurse"
+    ],
+    "A60959-e38930": [
+      "sampson"
+    ],
+    "A60959-e38960": [
+      "nurse"
+    ],
+    "A60959-e38990": [
+      "sampson"
+    ],
+    "A60959-e39030": [
+      "nurse"
+    ],
+    "A60959-e39070": [
+      "sampson"
+    ],
+    "A60959-e39100": [
+      "nurse"
+    ],
+    "A60959-e39130": [
+      "sampson"
+    ],
+    "A60959-e39220": [
+      "isabella"
+    ],
+    "A60959-e39770": [
+      "biron"
+    ],
+    "A60959-e39830": [
+      "isabella"
+    ],
+    "A60959-e39860": [
+      "biron"
+    ],
+    "A60959-e39890": [
+      "isabella"
+    ],
+    "A60959-e40070": [
+      "biron"
+    ],
+    "A60959-e40110": [
+      "isabella"
+    ],
+    "A60959-e40170": [
+      "biron"
+    ],
+    "A60959-e40200": [
+      "isabella"
+    ],
+    "A60959-e40280": [
+      "biron"
+    ],
+    "A60959-e40310": [
+      "isabella"
+    ],
+    "A60959-e40410": [
+      "biron"
+    ],
+    "A60959-e40520": [
+      "nurse"
+    ],
+    "A60959-e40560": [
+      "biron"
+    ],
+    "A60959-e40680": [
+      "carlos"
+    ],
+    "A60959-e40920": [
+      "biron"
+    ],
+    "A60959-e41000": [
+      "villeroy"
+    ],
+    "A60959-e41060": [
+      "servant"
+    ],
+    "A60959-e41110": [
+      "villeroy"
+    ],
+    "A60959-e41180": [
+      "isabella"
+    ],
+    "A60959-e41370": [
+      "villeroy"
+    ],
+    "A60959-e41430": [
+      "isabella"
+    ],
+    "A60959-e41520": [
+      "villeroy"
+    ],
+    "A60959-e41550": [
+      "isabella"
+    ],
+    "A60959-e41620": [
+      "villeroy"
+    ],
+    "A60959-e41650": [
+      "isabella"
+    ],
+    "A60959-e41740": [
+      "villeroy"
+    ],
+    "A60959-e41770": [
+      "isabella"
+    ],
+    "A60959-e41870": [
+      "villeroy"
+    ],
+    "A60959-e41950": [
+      "biron"
+    ],
+    "A60959-e41980": [
+      "villeroy"
+    ],
+    "A60959-e42030": [
+      "biron"
+    ],
+    "A60959-e42150": [
+      "villeroy"
+    ],
+    "A60959-e42190": [
+      "biron"
+    ],
+    "A60959-e42260": [
+      "villeroy"
+    ],
+    "A60959-e42290": [
+      "biron"
+    ],
+    "A60959-e42340": [
+      "villeroy"
+    ],
+    "A60959-e42460": [
+      "isabella"
+    ],
+    "A60959-e42620": [
+      "villeroy"
+    ],
+    "A60959-e42670": [
+      "isabella"
+    ],
+    "A60959-e42760": [
+      "villeroy"
+    ],
+    "A60959-e42810": [
+      "isabella"
+    ],
+    "A60959-e42880": [
+      "villeroy"
+    ],
+    "A60959-e43020": [
+      "count-baldwin"
+    ],
+    "A60959-e43060": [
+      "carlos"
+    ],
+    "A60959-e43100": [
+      "villeroy"
+    ],
+    "A60959-e43130": [
+      "carlos"
+    ],
+    "A60959-e43190": [
+      "villeroy"
+    ],
+    "A60959-e43240": [
+      "carlos"
+    ],
+    "A60959-e43270": [
+      "villeroy"
+    ],
+    "A60959-e43300": [
+      "carlos"
+    ],
+    "A60959-e43380": [
+      "bellford"
+    ],
+    "A60959-e43420": [
+      "frederick"
+    ],
+    "A60959-e43480": [
+      "carlos"
+    ],
+    "A60959-e43530": [
+      "count-baldwin"
+    ],
+    "A60959-e43560": [
+      "villeroy"
+    ],
+    "A60959-e43630": [
+      "bellford"
+    ],
+    "A60959-e43660": [
+      "frederick"
+    ],
+    "A60959-e43690": [
+      "carlos"
+    ],
+    "A60959-e43870": [
+      "bellford"
+    ],
+    "A60959-e43900": [
+      "carlos"
+    ],
+    "A60959-e43930": [
+      "frederick"
+    ],
+    "A60959-e43960": [
+      "carlos"
+    ],
+    "A60959-e43990": [
+      "count-baldwin"
+    ],
+    "A60959-e44020": [
+      "carlos"
+    ],
+    "A60959-e44060": [
+      "villeroy"
+    ],
+    "A60959-e44110": [
+      "frederick"
+    ],
+    "A60959-e44160": [
+      "villeroy"
+    ],
+    "A60959-e44200": [
+      "pedro"
+    ],
+    "A60959-e44240": [
+      "villeroy"
+    ],
+    "A60959-e44290": [
+      "pedro"
+    ],
+    "A60959-e44320": [
+      "villeroy"
+    ],
+    "A60959-e44360": [
+      "pedro"
+    ],
+    "A60959-e44390": [
+      "villeroy"
+    ],
+    "A60959-e44420": [
+      "pedro"
+    ],
+    "A60959-e44450": [
+      "villeroy"
+    ],
+    "A60959-e44480": [
+      "pedro"
+    ],
+    "A60959-e44520": [
+      "villeroy"
+    ],
+    "A60959-e44550": [
+      "count-baldwin"
+    ],
+    "A60959-e44580": [
+      "villeroy"
+    ],
+    "A60959-e44630": [
+      "count-baldwin"
+    ],
+    "A60959-e44660": [
+      "pedro"
+    ],
+    "A60959-e44690": [
+      "count-baldwin"
+    ],
+    "A60959-e44740": [
+      "pedro"
+    ],
+    "A60959-e44770": [
+      "count-baldwin"
+    ],
+    "A60959-e44800": [
+      "pedro"
+    ],
+    "A60959-e44840": [
+      "count-baldwin"
+    ],
+    "A60959-e44870": [
+      "frederick"
+    ],
+    "A60959-e44900": [
+      "pedro"
+    ],
+    "A60959-e44930": [
+      "count-baldwin"
+    ],
+    "A60959-e44990": [
+      "frederick"
+    ],
+    "A60959-e45020": [
+      "count-baldwin"
+    ],
+    "A60959-e45080": [
+      "villeroy"
+    ],
+    "A60959-e45160": [
+      "count-baldwin"
+    ],
+    "A60959-e45190": [
+      "bellford"
+    ],
+    "A60959-e45230": [
+      "count-baldwin"
+    ],
+    "A60959-e45340": [
+      "villeroy"
+    ],
+    "A60959-e45370": [
+      "count-baldwin"
+    ],
+    "A60959-e45440": [
+      "carlos"
+    ],
+    "A60959-e45470": [
+      "count-baldwin"
+    ],
+    "A60959-e45510": [
+      "carlos"
+    ],
+    "A60959-e45540": [
+      "count-baldwin"
+    ],
+    "A60959-e45580": [
+      "carlos"
+    ],
+    "A60959-e45610": [
+      "bellford"
+    ],
+    "A60959-e45700": [
+      "carlos"
+    ],
+    "A60959-e45730": [
+      "bellford"
+    ],
+    "A60959-e45780": [
+      "count-baldwin"
+    ],
+    "A60959-e45810": [
+      "bellford"
+    ],
+    "A60959-e45890": [
+      "count-baldwin"
+    ],
+    "A60959-e45930": [
+      "carlos"
+    ],
+    "A60959-e45980": [
+      "bellford"
+    ],
+    "A60959-e46040": [
+      "count-baldwin"
+    ],
+    "A60959-e46100": [
+      "carlos"
+    ],
+    "A60959-e46140": [
+      "bellford"
+    ],
+    "A60959-e46180": [
+      "carlos"
+    ],
+    "A60959-e46220": [
+      "bellford"
+    ],
+    "A60959-e46250": [
+      "carlos"
+    ],
+    "A60959-e46290": [
+      "count-baldwin"
+    ],
+    "A60959-e46320": [
+      "carlos"
+    ],
+    "A60959-e46440": [
+      "count-baldwin"
+    ],
+    "A60959-e46540": [
+      "villeroy"
+    ],
+    "A60959-e46590": [
+      "carlos"
+    ],
+    "A60959-e46620": [
+      "frederick"
+    ],
+    "A60959-e46650": [
+      "carlos"
+    ],
+    "A60959-e46710": [
+      "bellford"
+    ],
+    "A60959-e46740": [
+      "carlos"
+    ],
+    "A60959-e46780": [
+      "count-baldwin"
+    ],
+    "A60959-e46950": [
+      "villeroy"
+    ],
+    "A60959-e47000": [
+      "isabella"
+    ],
+    "A60959-e47150": [
+      "women"
+    ],
+    "A60959-e47180": [
+      "villeroy"
+    ],
+    "A60959-e47210": [
+      "count-baldwin"
+    ],
+    "A60959-e47240": [
+      "isabella"
+    ],
+    "A60959-e47310": [
+      "isabella's-son"
+    ],
+    "A60959-e47360": [
+      "isabella"
+    ],
+    "A60959-e47420": [
+      "isabella's-son"
+    ],
+    "A60959-e47450": [
+      "count-baldwin"
+    ],
+    "A60959-e47490": [
+      "isabella"
+    ],
+    "A60959-e47600": [
+      "villeroy"
+    ],
+    "A60959-e47630": [
+      "count-baldwin"
+    ],
+    "A60959-e47700": [
+      "villeroy"
+    ],
+    "A60959-e47730": [
+      "count-baldwin"
+    ],
+    "A60959-e47780": [
+      "isabella"
+    ],
+    "A60959-e47910": [
+      "villeroy"
+    ],
+    "A60959-e48030": [
+      "count-baldwin"
+    ]
+  }
+}

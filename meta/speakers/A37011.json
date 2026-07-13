@@ -1,0 +1,2967 @@
+{
+  "particDesc": [
+    {
+      "name": "Countryman 2",
+      "id": "countryman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Madam Squeamish",
+      "id": "madam-squeamish",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Countryman 1",
+      "id": "countryman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Mad-woman",
+      "id": "mad-woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Mad-man",
+      "id": "mad-man",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Dr. Guiacum",
+      "id": "dr-guiacum",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-charles-romance",
+      "name": "Sir Charles Romance",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-quibble-quere",
+      "name": "Sir Quibble Quere",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "tom-romance",
+      "name": "Tom Romance",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "frederick",
+      "name": "Frederick",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rice-ap-shinkin",
+      "name": "Rice ap Shinkin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dick-stockjobb",
+      "name": "Dick Stockjobb",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hotspur",
+      "name": "Hotspur",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "quickwit",
+      "name": "Quickwit",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cunnington",
+      "name": "Cunnington",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "christopher",
+      "name": "Christopher",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "numps",
+      "name": "Numps",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "fulvia",
+      "name": "Fulvia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "sophronia",
+      "name": "Sophronia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "mrs-stockjobb",
+      "name": "Mrs. Stockjobb",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "marmalette",
+      "name": "Marmalette",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A37011-e2080": [
+      "mad-man"
+    ],
+    "A37011-e2180": [
+      "mad-woman"
+    ],
+    "A37011-e2290": [
+      "mad-man"
+    ],
+    "A37011-e2430": [
+      "mad-woman"
+    ],
+    "A37011-e2510": [
+      "mad-man"
+    ],
+    "A37011-e2590": [
+      "mad-woman"
+    ],
+    "A37011-e2690": [
+      "mad-man"
+    ],
+    "A37011-e2780": [
+      "mad-woman",
+      "mad-man"
+    ],
+    "A37011-e2860": [
+      "mad-woman"
+    ],
+    "A37011-e2950": [
+      "mad-man"
+    ],
+    "A37011-e3050": [
+      "mad-woman"
+    ],
+    "A37011-e3140": [
+      "mad-man"
+    ],
+    "A37011-e3200": [
+      "mad-woman"
+    ],
+    "A37011-e3250": [
+      "mad-man"
+    ],
+    "A37011-e3280": [
+      "chorus"
+    ],
+    "A37011-e4310": [
+      "cunnington"
+    ],
+    "A37011-e4350": [
+      "quickwit"
+    ],
+    "A37011-e4390": [
+      "cunnington"
+    ],
+    "A37011-e4420": [
+      "quickwit"
+    ],
+    "A37011-e4460": [
+      "cunnington"
+    ],
+    "A37011-e4510": [
+      "quickwit"
+    ],
+    "A37011-e4560": [
+      "cunnington"
+    ],
+    "A37011-e4590": [
+      "quickwit"
+    ],
+    "A37011-e4620": [
+      "cunnington"
+    ],
+    "A37011-e4670": [
+      "quickwit"
+    ],
+    "A37011-e4740": [
+      "cunnington"
+    ],
+    "A37011-e4770": [
+      "quickwit"
+    ],
+    "A37011-e4850": [
+      "cunnington"
+    ],
+    "A37011-e4880": [
+      "quickwit"
+    ],
+    "A37011-e4930": [
+      "cunnington"
+    ],
+    "A37011-e5060": [
+      "frederick"
+    ],
+    "A37011-e5110": [
+      "quickwit"
+    ],
+    "A37011-e5140": [
+      "frederick"
+    ],
+    "A37011-e5180": [
+      "quickwit"
+    ],
+    "A37011-e5210": [
+      "frederick"
+    ],
+    "A37011-e5290": [
+      "quickwit"
+    ],
+    "A37011-e5330": [
+      "frederick"
+    ],
+    "A37011-e5410": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e5450": [
+      "frederick"
+    ],
+    "A37011-e5480": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e5540": [
+      "frederick"
+    ],
+    "A37011-e5580": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e5620": [
+      "quickwit"
+    ],
+    "A37011-e5650": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e5690": [
+      "frederick"
+    ],
+    "A37011-e5730": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e5770": [
+      "frederick"
+    ],
+    "A37011-e5800": [
+      "quickwit"
+    ],
+    "A37011-e5860": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e5910": [
+      "frederick"
+    ],
+    "A37011-e5940": [
+      "quickwit"
+    ],
+    "A37011-e5970": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e6070": [
+      "quickwit"
+    ],
+    "A37011-e6100": [
+      "frederick"
+    ],
+    "A37011-e6140": [
+      "quickwit"
+    ],
+    "A37011-e6190": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e6240": [
+      "quickwit"
+    ],
+    "A37011-e6280": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e6350": [
+      "quickwit"
+    ],
+    "A37011-e6380": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e6430": [
+      "quickwit"
+    ],
+    "A37011-e6470": [
+      "frederick"
+    ],
+    "A37011-e6510": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e6550": [
+      "quickwit"
+    ],
+    "A37011-e6580": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e6630": [
+      "frederick"
+    ],
+    "A37011-e6680": [
+      "quickwit"
+    ],
+    "A37011-e6710": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e6820": [
+      "quickwit"
+    ],
+    "A37011-e6850": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e7010": [
+      "quickwit"
+    ],
+    "A37011-e7040": [
+      "frederick"
+    ],
+    "A37011-e7090": [
+      "quickwit"
+    ],
+    "A37011-e7150": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e7240": [
+      "sir-charles-romance"
+    ],
+    "A37011-e7280": [
+      "dr-guiacum"
+    ],
+    "A37011-e7310": [
+      "sir-charles-romance"
+    ],
+    "A37011-e7360": [
+      "dr-guiacum"
+    ],
+    "A37011-e7390": [
+      "sir-charles-romance"
+    ],
+    "A37011-e7430": [
+      "dr-guiacum"
+    ],
+    "A37011-e7460": [
+      "sir-charles-romance"
+    ],
+    "A37011-e7500": [
+      "dr-guiacum"
+    ],
+    "A37011-e7530": [
+      "sir-charles-romance"
+    ],
+    "A37011-e7600": [
+      "tom-romance"
+    ],
+    "A37011-e7680": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e7740": [
+      "hotspur"
+    ],
+    "A37011-e7820": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e7870": [
+      "tom-romance"
+    ],
+    "A37011-e7920": [
+      "hotspur"
+    ],
+    "A37011-e7950": [
+      "sir-charles-romance"
+    ],
+    "A37011-e8020": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e8070": [
+      "hotspur"
+    ],
+    "A37011-e8100": [
+      "sir-charles-romance"
+    ],
+    "A37011-e8160": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e8210": [
+      "hotspur"
+    ],
+    "A37011-e8240": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e8290": [
+      "tom-romance"
+    ],
+    "A37011-e8340": [
+      "hotspur"
+    ],
+    "A37011-e8370": [
+      "tom-romance"
+    ],
+    "A37011-e8400": [
+      "hotspur"
+    ],
+    "A37011-e8430": [
+      "sir-charles-romance"
+    ],
+    "A37011-e8480": [
+      "tom-romance"
+    ],
+    "A37011-e8580": [
+      "hotspur"
+    ],
+    "A37011-e8610": [
+      "tom-romance"
+    ],
+    "A37011-e8670": [
+      "hotspur"
+    ],
+    "A37011-e8700": [
+      "sir-charles-romance"
+    ],
+    "A37011-e8760": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e8790": [
+      "tom-romance"
+    ],
+    "A37011-e8970": [
+      "sir-charles-romance"
+    ],
+    "A37011-e9010": [
+      "hotspur"
+    ],
+    "A37011-e9050": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e9170": [
+      "hotspur"
+    ],
+    "A37011-e9200": [
+      "sir-charles-romance"
+    ],
+    "A37011-e9240": [
+      "tom-romance"
+    ],
+    "A37011-e9290": [
+      "hotspur"
+    ],
+    "A37011-e9320": [
+      "sir-charles-romance"
+    ],
+    "A37011-e9360": [
+      "hotspur"
+    ],
+    "A37011-e9410": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e9470": [
+      "tom-romance"
+    ],
+    "A37011-e9500": [
+      "sir-charles-romance"
+    ],
+    "A37011-e9560": [
+      "hotspur"
+    ],
+    "A37011-e9590": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e9630": [
+      "tom-romance"
+    ],
+    "A37011-e9660": [
+      "sir-charles-romance"
+    ],
+    "A37011-e9710": [
+      "hotspur"
+    ],
+    "A37011-e9770": [
+      "sir-charles-romance"
+    ],
+    "A37011-e9840": [
+      "tom-romance"
+    ],
+    "A37011-e9970": [
+      "frederick"
+    ],
+    "A37011-e10020": [
+      "hotspur"
+    ],
+    "A37011-e10060": [
+      "quickwit"
+    ],
+    "A37011-e10100": [
+      "frederick"
+    ],
+    "A37011-e10140": [
+      "quickwit"
+    ],
+    "A37011-e10180": [
+      "numps"
+    ],
+    "A37011-e10210": [
+      "frederick"
+    ],
+    "A37011-e10250": [
+      "hotspur"
+    ],
+    "A37011-e10290": [
+      "frederick"
+    ],
+    "A37011-e10330": [
+      "quickwit"
+    ],
+    "A37011-e10360": [
+      "frederick"
+    ],
+    "A37011-e10390": [
+      "hotspur"
+    ],
+    "A37011-e10420": [
+      "quickwit"
+    ],
+    "A37011-e10470": [
+      "frederick"
+    ],
+    "A37011-e10500": [
+      "hotspur"
+    ],
+    "A37011-e10540": [
+      "frederick"
+    ],
+    "A37011-e10590": [
+      "hotspur"
+    ],
+    "A37011-e10620": [
+      "frederick"
+    ],
+    "A37011-e10670": [
+      "hotspur"
+    ],
+    "A37011-e10710": [
+      "frederick"
+    ],
+    "A37011-e10810": [
+      "hotspur"
+    ],
+    "A37011-e10870": [
+      "frederick"
+    ],
+    "A37011-e10920": [
+      "hotspur"
+    ],
+    "A37011-e10970": [
+      "frederick"
+    ],
+    "A37011-e11030": [
+      "hotspur"
+    ],
+    "A37011-e11060": [
+      "madam-squeamish"
+    ],
+    "A37011-e11100": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e11180": [
+      "madam-squeamish"
+    ],
+    "A37011-e11210": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e11250": [
+      "madam-squeamish"
+    ],
+    "A37011-e11290": [
+      "hotspur"
+    ],
+    "A37011-e11350": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e11390": [
+      "madam-squeamish"
+    ],
+    "A37011-e11420": [
+      "hotspur"
+    ],
+    "A37011-e11450": [
+      "madam-squeamish"
+    ],
+    "A37011-e11510": [
+      "sophronia"
+    ],
+    "A37011-e11550": [
+      "madam-squeamish"
+    ],
+    "A37011-e11600": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e11640": [
+      "sophronia"
+    ],
+    "A37011-e11690": [
+      "madam-squeamish"
+    ],
+    "A37011-e11720": [
+      "sophronia"
+    ],
+    "A37011-e11760": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e11820": [
+      "sophronia"
+    ],
+    "A37011-e11860": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e11980": [
+      "madam-squeamish"
+    ],
+    "A37011-e12010": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e12060": [
+      "sophronia"
+    ],
+    "A37011-e12110": [
+      "hotspur"
+    ],
+    "A37011-e12140": [
+      "sophronia"
+    ],
+    "A37011-e12170": [
+      "hotspur"
+    ],
+    "A37011-e12200": [
+      "sophronia"
+    ],
+    "A37011-e12230": [
+      "hotspur"
+    ],
+    "A37011-e12260": [
+      "sophronia"
+    ],
+    "A37011-e12290": [
+      "hotspur"
+    ],
+    "A37011-e12320": [
+      "sophronia"
+    ],
+    "A37011-e12380": [
+      "hotspur"
+    ],
+    "A37011-e12410": [
+      "sophronia"
+    ],
+    "A37011-e12440": [
+      "hotspur"
+    ],
+    "A37011-e12510": [
+      "dick-stockjobb"
+    ],
+    "A37011-e12610": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e12690": [
+      "sophronia"
+    ],
+    "A37011-e12740": [
+      "dick-stockjobb"
+    ],
+    "A37011-e12800": [
+      "madam-squeamish"
+    ],
+    "A37011-e12830": [
+      "hotspur"
+    ],
+    "A37011-e12860": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e12900": [
+      "sophronia"
+    ],
+    "A37011-e12930": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e12970": [
+      "dick-stockjobb"
+    ],
+    "A37011-e13010": [
+      "sophronia"
+    ],
+    "A37011-e13100": [
+      "dick-stockjobb"
+    ],
+    "A37011-e13130": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e13170": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e13220": [
+      "madam-squeamish"
+    ],
+    "A37011-e13250": [
+      "hotspur"
+    ],
+    "A37011-e13290": [
+      "dick-stockjobb"
+    ],
+    "A37011-e13420": [
+      "marmalette"
+    ],
+    "A37011-e13450": [
+      "cunnington"
+    ],
+    "A37011-e13480": [
+      "marmalette"
+    ],
+    "A37011-e13510": [
+      "cunnington"
+    ],
+    "A37011-e13540": [
+      "marmalette"
+    ],
+    "A37011-e13580": [
+      "cunnington"
+    ],
+    "A37011-e13660": [
+      "marmalette"
+    ],
+    "A37011-e13690": [
+      "cunnington"
+    ],
+    "A37011-e13720": [
+      "marmalette"
+    ],
+    "A37011-e13750": [
+      "cunnington"
+    ],
+    "A37011-e13830": [
+      "dr-guiacum"
+    ],
+    "A37011-e13870": [
+      "numps"
+    ],
+    "A37011-e13920": [
+      "tom-romance"
+    ],
+    "A37011-e13950": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e14010": [
+      "tom-romance"
+    ],
+    "A37011-e14040": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e14080": [
+      "sir-charles-romance"
+    ],
+    "A37011-e14120": [
+      "dr-guiacum"
+    ],
+    "A37011-e14200": [
+      "sir-charles-romance"
+    ],
+    "A37011-e14250": [
+      "dr-guiacum"
+    ],
+    "A37011-e14310": [
+      "sir-charles-romance"
+    ],
+    "A37011-e14350": [
+      "dr-guiacum"
+    ],
+    "A37011-e14420": [
+      "christopher"
+    ],
+    "A37011-e14450": [
+      "tom-romance"
+    ],
+    "A37011-e14480": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e14520": [
+      "dr-guiacum"
+    ],
+    "A37011-e14580": [
+      "fulvia"
+    ],
+    "A37011-e14630": [
+      "dr-guiacum"
+    ],
+    "A37011-e14680": [
+      "marmalette"
+    ],
+    "A37011-e14720": [
+      "sir-charles-romance"
+    ],
+    "A37011-e14760": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e14800": [
+      "tom-romance"
+    ],
+    "A37011-e14840": [
+      "fulvia"
+    ],
+    "A37011-e14880": [
+      "dr-guiacum"
+    ],
+    "A37011-e14910": [
+      "fulvia"
+    ],
+    "A37011-e14960": [
+      "tom-romance"
+    ],
+    "A37011-e15000": [
+      "dr-guiacum"
+    ],
+    "A37011-e15050": [
+      "fulvia"
+    ],
+    "A37011-e15090": [
+      "dr-guiacum"
+    ],
+    "A37011-e15150": [
+      "fulvia"
+    ],
+    "A37011-e15200": [
+      "dr-guiacum"
+    ],
+    "A37011-e15240": [
+      "fulvia"
+    ],
+    "A37011-e15270": [
+      "dr-guiacum"
+    ],
+    "A37011-e15310": [
+      "sir-charles-romance"
+    ],
+    "A37011-e15350": [
+      "dr-guiacum"
+    ],
+    "A37011-e15380": [
+      "tom-romance"
+    ],
+    "A37011-e15420": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e15450": [
+      "fulvia"
+    ],
+    "A37011-e15500": [
+      "dr-guiacum"
+    ],
+    "A37011-e15540": [
+      "fulvia"
+    ],
+    "A37011-e15620": [
+      "dr-guiacum"
+    ],
+    "A37011-e15650": [
+      "fulvia"
+    ],
+    "A37011-e15690": [
+      "dr-guiacum"
+    ],
+    "A37011-e15720": [
+      "fulvia"
+    ],
+    "A37011-e15760": [
+      "dr-guiacum"
+    ],
+    "A37011-e15790": [
+      "fulvia"
+    ],
+    "A37011-e15820": [
+      "dr-guiacum"
+    ],
+    "A37011-e15850": [
+      "fulvia"
+    ],
+    "A37011-e15880": [
+      "dr-guiacum"
+    ],
+    "A37011-e15910": [
+      "fulvia"
+    ],
+    "A37011-e16020": [
+      "dr-guiacum"
+    ],
+    "A37011-e16110": [
+      "dr-guiacum"
+    ],
+    "A37011-e16150": [
+      "quickwit"
+    ],
+    "A37011-e16250": [
+      "numps"
+    ],
+    "A37011-e16280": [
+      "dr-guiacum"
+    ],
+    "A37011-e16310": [
+      "sir-charles-romance"
+    ],
+    "A37011-e16350": [
+      "dr-guiacum"
+    ],
+    "A37011-e16380": [
+      "quickwit"
+    ],
+    "A37011-e16430": [
+      "dr-guiacum"
+    ],
+    "A37011-e16460": [
+      "quickwit"
+    ],
+    "A37011-e16490": [
+      "dr-guiacum"
+    ],
+    "A37011-e16520": [
+      "quickwit"
+    ],
+    "A37011-e16570": [
+      "numps"
+    ],
+    "A37011-e16610": [
+      "tom-romance"
+    ],
+    "A37011-e16650": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e16680": [
+      "quickwit"
+    ],
+    "A37011-e16790": [
+      "dr-guiacum"
+    ],
+    "A37011-e16830": [
+      "fulvia"
+    ],
+    "A37011-e16870": [
+      "quickwit"
+    ],
+    "A37011-e16950": [
+      "fulvia"
+    ],
+    "A37011-e17030": [
+      "quickwit"
+    ],
+    "A37011-e17060": [
+      "fulvia"
+    ],
+    "A37011-e17090": [
+      "quickwit"
+    ],
+    "A37011-e17120": [
+      "fulvia"
+    ],
+    "A37011-e17150": [
+      "quickwit"
+    ],
+    "A37011-e17180": [
+      "fulvia"
+    ],
+    "A37011-e17210": [
+      "quickwit"
+    ],
+    "A37011-e17240": [
+      "fulvia"
+    ],
+    "A37011-e17270": [
+      "quickwit"
+    ],
+    "A37011-e17320": [
+      "fulvia"
+    ],
+    "A37011-e17370": [
+      "quickwit"
+    ],
+    "A37011-e17420": [
+      "dr-guiacum"
+    ],
+    "A37011-e17450": [
+      "quickwit"
+    ],
+    "A37011-e17480": [
+      "sir-charles-romance"
+    ],
+    "A37011-e17520": [
+      "quickwit"
+    ],
+    "A37011-e17570": [
+      "sir-charles-romance"
+    ],
+    "A37011-e17630": [
+      "tom-romance"
+    ],
+    "A37011-e17660": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e17710": [
+      "dr-guiacum"
+    ],
+    "A37011-e17760": [
+      "quickwit"
+    ],
+    "A37011-e17790": [
+      "dr-guiacum"
+    ],
+    "A37011-e17850": [
+      "quickwit"
+    ],
+    "A37011-e17880": [
+      "fulvia"
+    ],
+    "A37011-e17920": [
+      "numps"
+    ],
+    "A37011-e17950": [
+      "quickwit"
+    ],
+    "A37011-e17980": [
+      "fulvia"
+    ],
+    "A37011-e18010": [
+      "quickwit"
+    ],
+    "A37011-e18040": [
+      "fulvia"
+    ],
+    "A37011-e18070": [
+      "quickwit"
+    ],
+    "A37011-e18100": [
+      "fulvia"
+    ],
+    "A37011-e18320": [
+      "cunnington"
+    ],
+    "A37011-e18350": [
+      "marmalette"
+    ],
+    "A37011-e18380": [
+      "cunnington"
+    ],
+    "A37011-e18410": [
+      "marmalette"
+    ],
+    "A37011-e18460": [
+      "cunnington"
+    ],
+    "A37011-e18560": [
+      "marmalette"
+    ],
+    "A37011-e18590": [
+      "cunnington"
+    ],
+    "A37011-e18660": [
+      "marmalette"
+    ],
+    "A37011-e18690": [
+      "cunnington"
+    ],
+    "A37011-e18720": [
+      "marmalette"
+    ],
+    "A37011-e18760": [
+      "cunnington"
+    ],
+    "A37011-e18790": [
+      "marmalette"
+    ],
+    "A37011-e18820": [
+      "cunnington"
+    ],
+    "A37011-e18880": [
+      "marmalette"
+    ],
+    "A37011-e18920": [
+      "cunnington"
+    ],
+    "A37011-e18980": [
+      "marmalette"
+    ],
+    "A37011-e19030": [
+      "cunnington"
+    ],
+    "A37011-e19070": [
+      "marmalette"
+    ],
+    "A37011-e19160": [
+      "quickwit"
+    ],
+    "A37011-e19190": [
+      "fulvia"
+    ],
+    "A37011-e19220": [
+      "quickwit"
+    ],
+    "A37011-e19270": [
+      "fulvia"
+    ],
+    "A37011-e19310": [
+      "numps"
+    ],
+    "A37011-e19350": [
+      "fulvia"
+    ],
+    "A37011-e19410": [
+      "numps"
+    ],
+    "A37011-e19470": [
+      "quickwit"
+    ],
+    "A37011-e19540": [
+      "marmalette"
+    ],
+    "A37011-e19580": [
+      "quickwit"
+    ],
+    "A37011-e19620": [
+      "marmalette"
+    ],
+    "A37011-e19660": [
+      "quickwit"
+    ],
+    "A37011-e19690": [
+      "marmalette"
+    ],
+    "A37011-e19720": [
+      "quickwit"
+    ],
+    "A37011-e19750": [
+      "marmalette"
+    ],
+    "A37011-e19780": [
+      "quickwit"
+    ],
+    "A37011-e19810": [
+      "marmalette"
+    ],
+    "A37011-e19840": [
+      "quickwit"
+    ],
+    "A37011-e19890": [
+      "marmalette"
+    ],
+    "A37011-e19920": [
+      "quickwit"
+    ],
+    "A37011-e19950": [
+      "marmalette"
+    ],
+    "A37011-e19980": [
+      "quickwit"
+    ],
+    "A37011-e20010": [
+      "marmalette"
+    ],
+    "A37011-e20040": [
+      "quickwit"
+    ],
+    "A37011-e20080": [
+      "marmalette"
+    ],
+    "A37011-e20120": [
+      "quickwit"
+    ],
+    "A37011-e20160": [
+      "marmalette"
+    ],
+    "A37011-e20190": [
+      "quickwit"
+    ],
+    "A37011-e20220": [
+      "servant"
+    ],
+    "A37011-e20260": [
+      "quickwit"
+    ],
+    "A37011-e20300": [
+      "marmalette"
+    ],
+    "A37011-e20340": [
+      "quickwit"
+    ],
+    "A37011-e20380": [
+      "servant"
+    ],
+    "A37011-e20420": [
+      "quickwit"
+    ],
+    "A37011-e20450": [
+      "marmalette"
+    ],
+    "A37011-e20480": [
+      "quickwit"
+    ],
+    "A37011-e20510": [
+      "servant"
+    ],
+    "A37011-e20560": [
+      "quickwit"
+    ],
+    "A37011-e20590": [
+      "servant"
+    ],
+    "A37011-e20630": [
+      "quickwit"
+    ],
+    "A37011-e20660": [
+      "marmalette"
+    ],
+    "A37011-e20710": [
+      "quickwit"
+    ],
+    "A37011-e20770": [
+      "fulvia"
+    ],
+    "A37011-e20810": [
+      "quickwit"
+    ],
+    "A37011-e20840": [
+      "fulvia"
+    ],
+    "A37011-e20880": [
+      "quickwit"
+    ],
+    "A37011-e20920": [
+      "fulvia"
+    ],
+    "A37011-e20970": [
+      "numps"
+    ],
+    "A37011-e21020": [
+      "quickwit"
+    ],
+    "A37011-e21050": [
+      "fulvia"
+    ],
+    "A37011-e21090": [
+      "quickwit"
+    ],
+    "A37011-e21130": [
+      "fulvia"
+    ],
+    "A37011-e21160": [
+      "marmalette"
+    ],
+    "A37011-e21250": [
+      "quickwit"
+    ],
+    "A37011-e21290": [
+      "numps"
+    ],
+    "A37011-e21330": [
+      "quickwit"
+    ],
+    "A37011-e21370": [
+      "numps"
+    ],
+    "A37011-e21460": [
+      "fulvia"
+    ],
+    "A37011-e21500": [
+      "quickwit"
+    ],
+    "A37011-e21530": [
+      "fulvia"
+    ],
+    "A37011-e21570": [
+      "numps"
+    ],
+    "A37011-e21630": [
+      "dr-guiacum"
+    ],
+    "A37011-e21690": [
+      "quickwit"
+    ],
+    "A37011-e21760": [
+      "dr-guiacum"
+    ],
+    "A37011-e21800": [
+      "sir-charles-romance"
+    ],
+    "A37011-e21860": [
+      "fulvia"
+    ],
+    "A37011-e21910": [
+      "sir-charles-romance"
+    ],
+    "A37011-e21950": [
+      "dr-guiacum"
+    ],
+    "A37011-e21980": [
+      "fulvia"
+    ],
+    "A37011-e22020": [
+      "dr-guiacum"
+    ],
+    "A37011-e22060": [
+      "quickwit"
+    ],
+    "A37011-e22100": [
+      "dr-guiacum"
+    ],
+    "A37011-e22160": [
+      "numps"
+    ],
+    "A37011-e22220": [
+      "dr-guiacum"
+    ],
+    "A37011-e22250": [
+      "quickwit"
+    ],
+    "A37011-e22290": [
+      "numps"
+    ],
+    "A37011-e22320": [
+      "sir-charles-romance"
+    ],
+    "A37011-e22370": [
+      "fulvia"
+    ],
+    "A37011-e22430": [
+      "dr-guiacum"
+    ],
+    "A37011-e22480": [
+      "sir-charles-romance"
+    ],
+    "A37011-e22540": [
+      "quickwit"
+    ],
+    "A37011-e22580": [
+      "dr-guiacum"
+    ],
+    "A37011-e22610": [
+      "numps"
+    ],
+    "A37011-e22660": [
+      "sir-charles-romance"
+    ],
+    "A37011-e22710": [
+      "dr-guiacum"
+    ],
+    "A37011-e22750": [
+      "sir-charles-romance"
+    ],
+    "A37011-e22880": [
+      "dick-stockjobb"
+    ],
+    "A37011-e22930": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e22970": [
+      "dick-stockjobb"
+    ],
+    "A37011-e23000": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23050": [
+      "dick-stockjobb"
+    ],
+    "A37011-e23100": [
+      "cunnington"
+    ],
+    "A37011-e23130": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23170": [
+      "cunnington"
+    ],
+    "A37011-e23210": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23250": [
+      "cunnington"
+    ],
+    "A37011-e23280": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23320": [
+      "cunnington"
+    ],
+    "A37011-e23350": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23400": [
+      "cunnington"
+    ],
+    "A37011-e23430": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23470": [
+      "cunnington"
+    ],
+    "A37011-e23500": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23540": [
+      "cunnington"
+    ],
+    "A37011-e23570": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23620": [
+      "cunnington"
+    ],
+    "A37011-e23650": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23690": [
+      "cunnington"
+    ],
+    "A37011-e23730": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23770": [
+      "cunnington"
+    ],
+    "A37011-e23800": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23840": [
+      "cunnington"
+    ],
+    "A37011-e23870": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23910": [
+      "cunnington"
+    ],
+    "A37011-e23940": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e23980": [
+      "cunnington"
+    ],
+    "A37011-e24010": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e24050": [
+      "cunnington"
+    ],
+    "A37011-e24080": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e24150": [
+      "tom-romance"
+    ],
+    "A37011-e24200": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e24250": [
+      "cunnington"
+    ],
+    "A37011-e24280": [
+      "tom-romance"
+    ],
+    "A37011-e24310": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e24400": [
+      "cunnington"
+    ],
+    "A37011-e24430": [
+      "tom-romance"
+    ],
+    "A37011-e24470": [
+      "tom-romance"
+    ],
+    "A37011-e24550": [
+      "madam-squeamish"
+    ],
+    "A37011-e24580": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e24630": [
+      "cunnington"
+    ],
+    "A37011-e24660": [
+      "madam-squeamish"
+    ],
+    "A37011-e24690": [
+      "tom-romance"
+    ],
+    "A37011-e24740": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e24790": [
+      "hotspur"
+    ],
+    "A37011-e24830": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e24870": [
+      "madam-squeamish"
+    ],
+    "A37011-e24900": [
+      "dick-stockjobb"
+    ],
+    "A37011-e24930": [
+      "tom-romance"
+    ],
+    "A37011-e24980": [
+      "tom-romance"
+    ],
+    "A37011-e25010": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e25070": [
+      "tom-romance"
+    ],
+    "A37011-e25100": [
+      "hotspur"
+    ],
+    "A37011-e25130": [
+      "dick-stockjobb"
+    ],
+    "A37011-e25250": [
+      "frederick"
+    ],
+    "A37011-e25290": [
+      "quickwit"
+    ],
+    "A37011-e25340": [
+      "frederick"
+    ],
+    "A37011-e25380": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e25420": [
+      "quickwit"
+    ],
+    "A37011-e25500": [
+      "frederick"
+    ],
+    "A37011-e25550": [
+      "sophronia"
+    ],
+    "A37011-e25580": [
+      "frederick"
+    ],
+    "A37011-e25610": [
+      "sophronia"
+    ],
+    "A37011-e25640": [
+      "frederick"
+    ],
+    "A37011-e25670": [
+      "sophronia"
+    ],
+    "A37011-e25700": [
+      "frederick"
+    ],
+    "A37011-e25730": [
+      "sophronia"
+    ],
+    "A37011-e25760": [
+      "frederick"
+    ],
+    "A37011-e25800": [
+      "sophronia"
+    ],
+    "A37011-e25860": [
+      "frederick"
+    ],
+    "A37011-e25900": [
+      "sophronia"
+    ],
+    "A37011-e25930": [
+      "frederick"
+    ],
+    "A37011-e25960": [
+      "sophronia"
+    ],
+    "A37011-e25990": [
+      "frederick"
+    ],
+    "A37011-e26050": [
+      "sophronia"
+    ],
+    "A37011-e26370": [
+      "madam-squeamish"
+    ],
+    "A37011-e26400": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e26440": [
+      "madam-squeamish"
+    ],
+    "A37011-e26480": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e26540": [
+      "madam-squeamish"
+    ],
+    "A37011-e26570": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e26620": [
+      "madam-squeamish"
+    ],
+    "A37011-e26660": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e26700": [
+      "madam-squeamish"
+    ],
+    "A37011-e26760": [
+      "dick-stockjobb"
+    ],
+    "A37011-e26810": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e26860": [
+      "hotspur"
+    ],
+    "A37011-e26890": [
+      "dick-stockjobb"
+    ],
+    "A37011-e26950": [
+      "madam-squeamish"
+    ],
+    "A37011-e26980": [
+      "dick-stockjobb"
+    ],
+    "A37011-e27020": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e27060": [
+      "madam-squeamish"
+    ],
+    "A37011-e27100": [
+      "tom-romance"
+    ],
+    "A37011-e27150": [
+      "hotspur"
+    ],
+    "A37011-e27200": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e27290": [
+      "hotspur"
+    ],
+    "A37011-e27340": [
+      "dick-stockjobb"
+    ],
+    "A37011-e27420": [
+      "madam-squeamish"
+    ],
+    "A37011-e27460": [
+      "dick-stockjobb"
+    ],
+    "A37011-e27530": [
+      "tom-romance"
+    ],
+    "A37011-e27580": [
+      "hotspur"
+    ],
+    "A37011-e27620": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e27700": [
+      "dick-stockjobb"
+    ],
+    "A37011-e27740": [
+      "hotspur"
+    ],
+    "A37011-e27790": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e27920": [
+      "madam-squeamish"
+    ],
+    "A37011-e27960": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e28000": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28030": [
+      "hotspur"
+    ],
+    "A37011-e28080": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28130": [
+      "hotspur"
+    ],
+    "A37011-e28190": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28220": [
+      "hotspur"
+    ],
+    "A37011-e28250": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28280": [
+      "hotspur"
+    ],
+    "A37011-e28320": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28370": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e28410": [
+      "hotspur"
+    ],
+    "A37011-e28450": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28500": [
+      "hotspur"
+    ],
+    "A37011-e28550": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28580": [
+      "hotspur"
+    ],
+    "A37011-e28610": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28670": [
+      "hotspur"
+    ],
+    "A37011-e28700": [
+      "dick-stockjobb"
+    ],
+    "A37011-e28760": [
+      "hotspur"
+    ],
+    "A37011-e28850": [
+      "quickwit"
+    ],
+    "A37011-e28890": [
+      "marmalette"
+    ],
+    "A37011-e28930": [
+      "quickwit"
+    ],
+    "A37011-e28960": [
+      "marmalette"
+    ],
+    "A37011-e29000": [
+      "quickwit"
+    ],
+    "A37011-e29030": [
+      "marmalette"
+    ],
+    "A37011-e29070": [
+      "quickwit"
+    ],
+    "A37011-e29100": [
+      "marmalette"
+    ],
+    "A37011-e29140": [
+      "quickwit"
+    ],
+    "A37011-e29180": [
+      "marmalette"
+    ],
+    "A37011-e29230": [
+      "quickwit"
+    ],
+    "A37011-e29270": [
+      "marmalette"
+    ],
+    "A37011-e29330": [
+      "quickwit"
+    ],
+    "A37011-e29370": [
+      "marmalette"
+    ],
+    "A37011-e29410": [
+      "quickwit"
+    ],
+    "A37011-e29440": [
+      "marmalette"
+    ],
+    "A37011-e29470": [
+      "quickwit"
+    ],
+    "A37011-e29510": [
+      "marmalette"
+    ],
+    "A37011-e29540": [
+      "quickwit"
+    ],
+    "A37011-e29570": [
+      "marmalette"
+    ],
+    "A37011-e29640": [
+      "quickwit"
+    ],
+    "A37011-e29730": [
+      "marmalette"
+    ],
+    "A37011-e29770": [
+      "cunnington"
+    ],
+    "A37011-e29820": [
+      "marmalette"
+    ],
+    "A37011-e29850": [
+      "cunnington"
+    ],
+    "A37011-e29910": [
+      "quickwit"
+    ],
+    "A37011-e30000": [
+      "fulvia"
+    ],
+    "A37011-e30180": [
+      "christopher"
+    ],
+    "A37011-e30210": [
+      "fulvia"
+    ],
+    "A37011-e30240": [
+      "christopher"
+    ],
+    "A37011-e30270": [
+      "fulvia"
+    ],
+    "A37011-e30300": [
+      "christopher"
+    ],
+    "A37011-e30330": [
+      "fulvia"
+    ],
+    "A37011-e30360": [
+      "christopher"
+    ],
+    "A37011-e30400": [
+      "fulvia"
+    ],
+    "A37011-e30430": [
+      "christopher"
+    ],
+    "A37011-e30460": [
+      "fulvia"
+    ],
+    "A37011-e30490": [
+      "christopher"
+    ],
+    "A37011-e30560": [
+      "cunnington"
+    ],
+    "A37011-e30590": [
+      "dr-guiacum"
+    ],
+    "A37011-e30640": [
+      "cunnington"
+    ],
+    "A37011-e30700": [
+      "dr-guiacum"
+    ],
+    "A37011-e30740": [
+      "cunnington"
+    ],
+    "A37011-e30770": [
+      "dr-guiacum"
+    ],
+    "A37011-e30810": [
+      "cunnington"
+    ],
+    "A37011-e30840": [
+      "marmalette"
+    ],
+    "A37011-e30870": [
+      "cunnington"
+    ],
+    "A37011-e30900": [
+      "fulvia"
+    ],
+    "A37011-e30930": [
+      "dr-guiacum"
+    ],
+    "A37011-e30980": [
+      "cunnington"
+    ],
+    "A37011-e31020": [
+      "dr-guiacum"
+    ],
+    "A37011-e31060": [
+      "fulvia"
+    ],
+    "A37011-e31090": [
+      "dr-guiacum"
+    ],
+    "A37011-e31120": [
+      "cunnington"
+    ],
+    "A37011-e31160": [
+      "dr-guiacum"
+    ],
+    "A37011-e31200": [
+      "cunnington"
+    ],
+    "A37011-e31230": [
+      "dr-guiacum"
+    ],
+    "A37011-e31260": [
+      "cunnington"
+    ],
+    "A37011-e31300": [
+      "dr-guiacum"
+    ],
+    "A37011-e31350": [
+      "fulvia"
+    ],
+    "A37011-e31380": [
+      "cunnington"
+    ],
+    "A37011-e31410": [
+      "dr-guiacum"
+    ],
+    "A37011-e31440": [
+      "cunnington"
+    ],
+    "A37011-e31480": [
+      "dr-guiacum"
+    ],
+    "A37011-e31520": [
+      "cunnington"
+    ],
+    "A37011-e31550": [
+      "dr-guiacum"
+    ],
+    "A37011-e31620": [
+      "cunnington"
+    ],
+    "A37011-e31650": [
+      "dr-guiacum"
+    ],
+    "A37011-e31680": [
+      "quickwit"
+    ],
+    "A37011-e31710": [
+      "cunnington"
+    ],
+    "A37011-e31740": [
+      "quickwit"
+    ],
+    "A37011-e31780": [
+      "dr-guiacum"
+    ],
+    "A37011-e31810": [
+      "quickwit"
+    ],
+    "A37011-e31840": [
+      "marmalette"
+    ],
+    "A37011-e31880": [
+      "quickwit"
+    ],
+    "A37011-e31930": [
+      "fulvia"
+    ],
+    "A37011-e31970": [
+      "quickwit"
+    ],
+    "A37011-e32010": [
+      "dr-guiacum"
+    ],
+    "A37011-e32050": [
+      "quickwit"
+    ],
+    "A37011-e32090": [
+      "quickwit"
+    ],
+    "A37011-e32150": [
+      "dr-guiacum"
+    ],
+    "A37011-e32190": [
+      "quickwit"
+    ],
+    "A37011-e32220": [
+      "fulvia"
+    ],
+    "A37011-e32260": [
+      "quickwit"
+    ],
+    "A37011-e32310": [
+      "dr-guiacum"
+    ],
+    "A37011-e32410": [
+      "tom-romance"
+    ],
+    "A37011-e32440": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e32480": [
+      "tom-romance"
+    ],
+    "A37011-e32510": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e32590": [
+      "tom-romance"
+    ],
+    "A37011-e32630": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e32660": [
+      "sir-charles-romance"
+    ],
+    "A37011-e32700": [
+      "sophronia"
+    ],
+    "A37011-e32740": [
+      "sir-charles-romance"
+    ],
+    "A37011-e32780": [
+      "sophronia"
+    ],
+    "A37011-e32810": [
+      "sir-charles-romance"
+    ],
+    "A37011-e32850": [
+      "sophronia"
+    ],
+    "A37011-e32890": [
+      "tom-romance"
+    ],
+    "A37011-e32950": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33000": [
+      "sophronia"
+    ],
+    "A37011-e33030": [
+      "tom-romance"
+    ],
+    "A37011-e33070": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e33100": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33140": [
+      "sophronia"
+    ],
+    "A37011-e33180": [
+      "tom-romance"
+    ],
+    "A37011-e33220": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33270": [
+      "tom-romance"
+    ],
+    "A37011-e33310": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33350": [
+      "tom-romance"
+    ],
+    "A37011-e33390": [
+      "sophronia"
+    ],
+    "A37011-e33470": [
+      "dr-guiacum"
+    ],
+    "A37011-e33510": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33550": [
+      "dr-guiacum"
+    ],
+    "A37011-e33580": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33620": [
+      "dr-guiacum"
+    ],
+    "A37011-e33650": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33690": [
+      "dr-guiacum"
+    ],
+    "A37011-e33730": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33790": [
+      "dr-guiacum"
+    ],
+    "A37011-e33830": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33870": [
+      "sophronia"
+    ],
+    "A37011-e33900": [
+      "sir-charles-romance"
+    ],
+    "A37011-e33960": [
+      "sophronia"
+    ],
+    "A37011-e34010": [
+      "sir-charles-romance"
+    ],
+    "A37011-e34050": [
+      "dr-guiacum"
+    ],
+    "A37011-e34090": [
+      "tom-romance"
+    ],
+    "A37011-e34120": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e34170": [
+      "sophronia"
+    ],
+    "A37011-e34200": [
+      "tom-romance"
+    ],
+    "A37011-e34230": [
+      "dr-guiacum"
+    ],
+    "A37011-e34260": [
+      "sophronia"
+    ],
+    "A37011-e34340": [
+      "cunnington"
+    ],
+    "A37011-e34370": [
+      "dr-guiacum"
+    ],
+    "A37011-e34400": [
+      "sir-charles-romance"
+    ],
+    "A37011-e34450": [
+      "cunnington"
+    ],
+    "A37011-e34490": [
+      "sir-charles-romance"
+    ],
+    "A37011-e34530": [
+      "sophronia"
+    ],
+    "A37011-e34560": [
+      "cunnington"
+    ],
+    "A37011-e34600": [
+      "sophronia"
+    ],
+    "A37011-e34630": [
+      "cunnington"
+    ],
+    "A37011-e34660": [
+      "sophronia"
+    ],
+    "A37011-e34690": [
+      "cunnington"
+    ],
+    "A37011-e34720": [
+      "sophronia"
+    ],
+    "A37011-e34760": [
+      "cunnington"
+    ],
+    "A37011-e34800": [
+      "sir-charles-romance"
+    ],
+    "A37011-e34840": [
+      "cunnington"
+    ],
+    "A37011-e34880": [
+      "sir-charles-romance"
+    ],
+    "A37011-e34920": [
+      "sophronia"
+    ],
+    "A37011-e34960": [
+      "dr-guiacum"
+    ],
+    "A37011-e35070": [
+      "frederick"
+    ],
+    "A37011-e35120": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e35170": [
+      "fulvia"
+    ],
+    "A37011-e35220": [
+      "frederick"
+    ],
+    "A37011-e35250": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e35290": [
+      "frederick"
+    ],
+    "A37011-e35320": [
+      "quickwit"
+    ],
+    "A37011-e35350": [
+      "fulvia"
+    ],
+    "A37011-e35380": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e35420": [
+      "fulvia"
+    ],
+    "A37011-e35450": [
+      "frederick"
+    ],
+    "A37011-e35480": [
+      "marmalette"
+    ],
+    "A37011-e35520": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e35570": [
+      "quickwit"
+    ],
+    "A37011-e35610": [
+      "fulvia"
+    ],
+    "A37011-e35640": [
+      "frederick"
+    ],
+    "A37011-e35700": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e35740": [
+      "frederick"
+    ],
+    "A37011-e35770": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e35810": [
+      "quickwit"
+    ],
+    "A37011-e35850": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e35900": [
+      "quickwit"
+    ],
+    "A37011-e35930": [
+      "frederick"
+    ],
+    "A37011-e35960": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e36020": [
+      "sir-charles-romance"
+    ],
+    "A37011-e36060": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e36150": [
+      "sir-charles-romance"
+    ],
+    "A37011-e36190": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e36370": [
+      "frederick"
+    ],
+    "A37011-e36400": [
+      "quickwit"
+    ],
+    "A37011-e36440": [
+      "marmalette"
+    ],
+    "A37011-e36500": [
+      "quickwit"
+    ],
+    "A37011-e36550": [
+      "frederick"
+    ],
+    "A37011-e36580": [
+      "quickwit"
+    ],
+    "A37011-e36620": [
+      "marmalette"
+    ],
+    "A37011-e36650": [
+      "frederick"
+    ],
+    "A37011-e36760": [
+      "sophronia"
+    ],
+    "A37011-e36790": [
+      "fulvia"
+    ],
+    "A37011-e36850": [
+      "sophronia"
+    ],
+    "A37011-e36900": [
+      "fulvia"
+    ],
+    "A37011-e36930": [
+      "sophronia"
+    ],
+    "A37011-e36960": [
+      "fulvia"
+    ],
+    "A37011-e36990": [
+      "sophronia"
+    ],
+    "A37011-e37020": [
+      "fulvia"
+    ],
+    "A37011-e37050": [
+      "sophronia"
+    ],
+    "A37011-e37080": [
+      "fulvia"
+    ],
+    "A37011-e37110": [
+      "sophronia"
+    ],
+    "A37011-e37160": [
+      "fulvia"
+    ],
+    "A37011-e37200": [
+      "sophronia"
+    ],
+    "A37011-e37230": [
+      "fulvia"
+    ],
+    "A37011-e37260": [
+      "sophronia"
+    ],
+    "A37011-e37290": [
+      "fulvia"
+    ],
+    "A37011-e37330": [
+      "sophronia"
+    ],
+    "A37011-e37360": [
+      "fulvia"
+    ],
+    "A37011-e37390": [
+      "sophronia"
+    ],
+    "A37011-e37420": [
+      "fulvia"
+    ],
+    "A37011-e37460": [
+      "sophronia"
+    ],
+    "A37011-e37490": [
+      "fulvia"
+    ],
+    "A37011-e37520": [
+      "sophronia"
+    ],
+    "A37011-e37550": [
+      "fulvia"
+    ],
+    "A37011-e37580": [
+      "sophronia"
+    ],
+    "A37011-e37610": [
+      "fulvia"
+    ],
+    "A37011-e37640": [
+      "sophronia"
+    ],
+    "A37011-e37740": [
+      "fulvia"
+    ],
+    "A37011-e37800": [
+      "sir-charles-romance"
+    ],
+    "A37011-e37840": [
+      "fulvia"
+    ],
+    "A37011-e37880": [
+      "sir-charles-romance"
+    ],
+    "A37011-e37920": [
+      "fulvia"
+    ],
+    "A37011-e37950": [
+      "dick-stockjobb"
+    ],
+    "A37011-e37990": [
+      "sir-charles-romance"
+    ],
+    "A37011-e38030": [
+      "fulvia"
+    ],
+    "A37011-e38070": [
+      "sir-charles-romance"
+    ],
+    "A37011-e38140": [
+      "dick-stockjobb"
+    ],
+    "A37011-e38200": [
+      "hotspur"
+    ],
+    "A37011-e38240": [
+      "dick-stockjobb"
+    ],
+    "A37011-e38270": [
+      "hotspur"
+    ],
+    "A37011-e38300": [
+      "dick-stockjobb"
+    ],
+    "A37011-e38340": [
+      "hotspur"
+    ],
+    "A37011-e38370": [
+      "dick-stockjobb"
+    ],
+    "A37011-e38420": [
+      "hotspur"
+    ],
+    "A37011-e38450": [
+      "dick-stockjobb"
+    ],
+    "A37011-e38540": [
+      "tom-romance"
+    ],
+    "A37011-e38580": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e38650": [
+      "tom-romance"
+    ],
+    "A37011-e38710": [
+      "hotspur"
+    ],
+    "A37011-e38740": [
+      "dick-stockjobb"
+    ],
+    "A37011-e38770": [
+      "tom-romance"
+    ],
+    "A37011-e38810": [
+      "hotspur"
+    ],
+    "A37011-e38860": [
+      "dick-stockjobb"
+    ],
+    "A37011-e38890": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e38920": [
+      "hotspur"
+    ],
+    "A37011-e38950": [
+      "dick-stockjobb"
+    ],
+    "A37011-e38980": [
+      "tom-romance"
+    ],
+    "A37011-e39010": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39040": [
+      "tom-romance"
+    ],
+    "A37011-e39070": [
+      "hotspur"
+    ],
+    "A37011-e39100": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39140": [
+      "hotspur"
+    ],
+    "A37011-e39180": [
+      "tom-romance"
+    ],
+    "A37011-e39210": [
+      "hotspur"
+    ],
+    "A37011-e39240": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39290": [
+      "hotspur"
+    ],
+    "A37011-e39320": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39350": [
+      "tom-romance"
+    ],
+    "A37011-e39410": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e39460": [
+      "hotspur"
+    ],
+    "A37011-e39490": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39530": [
+      "hotspur"
+    ],
+    "A37011-e39580": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39640": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e39690": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39720": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e39760": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39850": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e39890": [
+      "hotspur"
+    ],
+    "A37011-e39930": [
+      "dick-stockjobb"
+    ],
+    "A37011-e39990": [
+      "tom-romance"
+    ],
+    "A37011-e40040": [
+      "dick-stockjobb"
+    ],
+    "A37011-e40140": [
+      "hotspur"
+    ],
+    "A37011-e40200": [
+      "tom-romance"
+    ],
+    "A37011-e40240": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e40280": [
+      "tom-romance"
+    ],
+    "A37011-e40340": [
+      "mrs-stockjobb"
+    ],
+    "A37011-e40490": [
+      "cunnington"
+    ],
+    "A37011-e40520": [
+      "quickwit"
+    ],
+    "A37011-e40550": [
+      "cunnington"
+    ],
+    "A37011-e40590": [
+      "quickwit"
+    ],
+    "A37011-e40630": [
+      "cunnington"
+    ],
+    "A37011-e40660": [
+      "quickwit"
+    ],
+    "A37011-e40690": [
+      "quickwit"
+    ],
+    "A37011-e40720": [
+      "cunnington"
+    ],
+    "A37011-e40810": [
+      "quickwit"
+    ],
+    "A37011-e40860": [
+      "numps"
+    ],
+    "A37011-e40910": [
+      "cunnington"
+    ],
+    "A37011-e40950": [
+      "numps"
+    ],
+    "A37011-e40990": [
+      "quickwit"
+    ],
+    "A37011-e41030": [
+      "numps"
+    ],
+    "A37011-e41070": [
+      "quickwit"
+    ],
+    "A37011-e41100": [
+      "numps"
+    ],
+    "A37011-e41130": [
+      "quickwit"
+    ],
+    "A37011-e41170": [
+      "numps"
+    ],
+    "A37011-e41200": [
+      "quickwit"
+    ],
+    "A37011-e41240": [
+      "numps"
+    ],
+    "A37011-e41290": [
+      "quickwit"
+    ],
+    "A37011-e41370": [
+      "cunnington"
+    ],
+    "A37011-e41410": [
+      "quickwit"
+    ],
+    "A37011-e41440": [
+      "cunnington"
+    ],
+    "A37011-e41470": [
+      "quickwit"
+    ],
+    "A37011-e41500": [
+      "cunnington"
+    ],
+    "A37011-e41550": [
+      "quickwit"
+    ],
+    "A37011-e41590": [
+      "cunnington"
+    ],
+    "A37011-e41630": [
+      "numps"
+    ],
+    "A37011-e41660": [
+      "cunnington"
+    ],
+    "A37011-e41690": [
+      "quickwit"
+    ],
+    "A37011-e41720": [
+      "countryman-1"
+    ],
+    "A37011-e41760": [
+      "quickwit"
+    ],
+    "A37011-e41790": [
+      "numps"
+    ],
+    "A37011-e41820": [
+      "cunnington"
+    ],
+    "A37011-e41850": [
+      "countryman-1",
+      "countryman-2",
+      "numps"
+    ],
+    "A37011-e41880": [
+      "quickwit"
+    ],
+    "A37011-e41920": [
+      "cunnington"
+    ],
+    "A37011-e41950": [
+      "quickwit"
+    ],
+    "A37011-e41980": [
+      "numps"
+    ],
+    "A37011-e42020": [
+      "countryman-2"
+    ],
+    "A37011-e42060": [
+      "quickwit"
+    ],
+    "A37011-e42090": [
+      "countryman-1"
+    ],
+    "A37011-e42120": [
+      "cunnington"
+    ],
+    "A37011-e42160": [
+      "quickwit"
+    ],
+    "A37011-e42280": [
+      "hotspur"
+    ],
+    "A37011-e42310": [
+      "tom-romance"
+    ],
+    "A37011-e42340": [
+      "hotspur"
+    ],
+    "A37011-e42380": [
+      "tom-romance"
+    ],
+    "A37011-e42420": [
+      "hotspur"
+    ],
+    "A37011-e42460": [
+      "sir-charles-romance"
+    ],
+    "A37011-e42510": [
+      "tom-romance"
+    ],
+    "A37011-e42560": [
+      "dr-guiacum"
+    ],
+    "A37011-e42600": [
+      "sir-charles-romance"
+    ],
+    "A37011-e42650": [
+      "hotspur"
+    ],
+    "A37011-e42720": [
+      "madam-squeamish"
+    ],
+    "A37011-e42760": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e42800": [
+      "sir-charles-romance"
+    ],
+    "A37011-e42850": [
+      "madam-squeamish"
+    ],
+    "A37011-e42890": [
+      "tom-romance"
+    ],
+    "A37011-e42940": [
+      "madam-squeamish"
+    ],
+    "A37011-e42970": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e43000": [
+      "tom-romance"
+    ],
+    "A37011-e43040": [
+      "madam-squeamish"
+    ],
+    "A37011-e43080": [
+      "tom-romance"
+    ],
+    "A37011-e43110": [
+      "sir-charles-romance"
+    ],
+    "A37011-e43160": [
+      "madam-squeamish"
+    ],
+    "A37011-e43210": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e43240": [
+      "madam-squeamish"
+    ],
+    "A37011-e43280": [
+      "rice-ap-shinkin"
+    ],
+    "A37011-e43340": [
+      "madam-squeamish"
+    ],
+    "A37011-e43370": [
+      "sir-charles-romance"
+    ],
+    "A37011-e43470": [
+      "fulvia"
+    ],
+    "A37011-e43500": [
+      "sophronia"
+    ],
+    "A37011-e43560": [
+      "dr-guiacum"
+    ],
+    "A37011-e43600": [
+      "sir-charles-romance"
+    ],
+    "A37011-e43740": [
+      "dr-guiacum"
+    ],
+    "A37011-e43770": [
+      "sir-charles-romance"
+    ],
+    "A37011-e43840": [
+      "marmalette"
+    ],
+    "A37011-e43940": [
+      "fulvia"
+    ],
+    "A37011-e43980": [
+      "sir-charles-romance"
+    ],
+    "A37011-e44020": [
+      "tom-romance"
+    ],
+    "A37011-e44070": [
+      "fulvia"
+    ],
+    "A37011-e44140": [
+      "quickwit"
+    ],
+    "A37011-e44170": [
+      "fulvia"
+    ],
+    "A37011-e44220": [
+      "frederick"
+    ],
+    "A37011-e44250": [
+      "sophronia"
+    ],
+    "A37011-e44280": [
+      "frederick"
+    ],
+    "A37011-e44310": [
+      "fulvia"
+    ],
+    "A37011-e44350": [
+      "sir-charles-romance"
+    ],
+    "A37011-e44400": [
+      "tom-romance"
+    ],
+    "A37011-e44430": [
+      "dr-guiacum"
+    ],
+    "A37011-e44470": [
+      "fulvia"
+    ],
+    "A37011-e44580": [
+      "dr-guiacum"
+    ],
+    "A37011-e44620": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e44660": [
+      "fulvia"
+    ],
+    "A37011-e44740": [
+      "frederick"
+    ],
+    "A37011-e44780": [
+      "fulvia"
+    ],
+    "A37011-e44810": [
+      "sophronia"
+    ],
+    "A37011-e44870": [
+      "frederick"
+    ],
+    "A37011-e44920": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e44960": [
+      "fulvia"
+    ],
+    "A37011-e44990": [
+      "tom-romance"
+    ],
+    "A37011-e45030": [
+      "sir-quibble-quere"
+    ],
+    "A37011-e45100": [
+      "fulvia"
+    ],
+    "A37011-e45140": [
+      "sir-charles-romance"
+    ],
+    "A37011-e45190": [
+      "dr-guiacum"
+    ],
+    "A37011-e45220": [
+      "fulvia"
+    ],
+    "A37011-e45280": [
+      "sir-charles-romance"
+    ],
+    "A37011-e45330": [
+      "fulvia"
+    ],
+    "A37011-e45360": [
+      "sir-charles-romance"
+    ],
+    "A37011-e45400": [
+      "tom-romance"
+    ],
+    "A37011-e45430": [
+      "sir-charles-romance"
+    ],
+    "A37011-e45470": [
+      "dr-guiacum"
+    ],
+    "A37011-e45510": [
+      "hotspur"
+    ],
+    "A37011-e45540": [
+      "fulvia"
+    ],
+    "A37011-e45600": [
+      "quickwit"
+    ],
+    "A37011-e45630": [
+      "marmalette"
+    ],
+    "A37011-e45660": [
+      "quickwit"
+    ],
+    "A37011-e45690": [
+      "marmalette"
+    ],
+    "A37011-e45720": [
+      "fulvia"
+    ],
+    "A37011-e45750": [
+      "sophronia"
+    ],
+    "A37011-e45780": [
+      "fulvia"
+    ]
+  }
+}

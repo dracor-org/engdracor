@@ -1,0 +1,834 @@
+{
+  "particDesc": [
+    {
+      "id": "agamemnon",
+      "name": "Agamemnon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "achilles",
+      "name": "Achilles",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "vlysses",
+      "name": "Vlysses",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "arcas",
+      "name": "Arcas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "eurybates",
+      "name": "Eurybates",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "calchas",
+      "name": "Calchas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "clytemnestra",
+      "name": "Clytemnestra",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "iphigenia",
+      "name": "Iphigenia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "eriphile",
+      "name": "Eriphile",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "aegina",
+      "name": "Aegina",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "doris",
+      "name": "Doris",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A57093-e3760": [
+      "agamemnon"
+    ],
+    "A57093-e3940": [
+      "arcas"
+    ],
+    "A57093-e4050": [
+      "agamemnon"
+    ],
+    "A57093-e4190": [
+      "arcas"
+    ],
+    "A57093-e4220": [
+      "agamemnon"
+    ],
+    "A57093-e4530": [
+      "arcas"
+    ],
+    "A57093-e4590": [
+      "agamemnon"
+    ],
+    "A57093-e4720": [
+      "arcas"
+    ],
+    "A57093-e4750": [
+      "agamemnon"
+    ],
+    "A57093-e4900": [
+      "arcas"
+    ],
+    "A57093-e4940": [
+      "agamemnon"
+    ],
+    "A57093-e5290": [
+      "arcas"
+    ],
+    "A57093-e5380": [
+      "agamemnon"
+    ],
+    "A57093-e5500": [
+      "achilles"
+    ],
+    "A57093-e5620": [
+      "agamemnon"
+    ],
+    "A57093-e5660": [
+      "achilles"
+    ],
+    "A57093-e5690": [
+      "agamemnon"
+    ],
+    "A57093-e5750": [
+      "vlysses"
+    ],
+    "A57093-e5950": [
+      "achilles"
+    ],
+    "A57093-e6180": [
+      "agamemnon"
+    ],
+    "A57093-e6250": [
+      "vlysses"
+    ],
+    "A57093-e6280": [
+      "achilles"
+    ],
+    "A57093-e6310": [
+      "agamemnon"
+    ],
+    "A57093-e6360": [
+      "achilles"
+    ],
+    "A57093-e6760": [
+      "agamemnon"
+    ],
+    "A57093-e6950": [
+      "eurybates"
+    ],
+    "A57093-e6980": [
+      "agamemnon"
+    ],
+    "A57093-e7010": [
+      "eurybates"
+    ],
+    "A57093-e7080": [
+      "agamemnon"
+    ],
+    "A57093-e7110": [
+      "eurybates"
+    ],
+    "A57093-e7280": [
+      "agamemnon"
+    ],
+    "A57093-e7420": [
+      "vlysses"
+    ],
+    "A57093-e7680": [
+      "agamemnon"
+    ],
+    "A57093-e7750": [
+      "vlysses"
+    ],
+    "A57093-e7800": [
+      "agamemnon"
+    ],
+    "A57093-e7920": [
+      "vlysses"
+    ],
+    "A57093-e8030": [
+      "eriphile"
+    ],
+    "A57093-e8100": [
+      "doris"
+    ],
+    "A57093-e8290": [
+      "eriphile"
+    ],
+    "A57093-e8460": [
+      "doris"
+    ],
+    "A57093-e8540": [
+      "eriphile"
+    ],
+    "A57093-e8740": [
+      "doris"
+    ],
+    "A57093-e8900": [
+      "eriphile"
+    ],
+    "A57093-e8940": [
+      "doris"
+    ],
+    "A57093-e8970": [
+      "eriphile"
+    ],
+    "A57093-e9110": [
+      "doris"
+    ],
+    "A57093-e9140": [
+      "eriphile"
+    ],
+    "A57093-e9300": [
+      "doris"
+    ],
+    "A57093-e9330": [
+      "eriphile"
+    ],
+    "A57093-e9600": [
+      "doris"
+    ],
+    "A57093-e9680": [
+      "eriphile"
+    ],
+    "A57093-e9860": [
+      "doris"
+    ],
+    "A57093-e9910": [
+      "iphigenia"
+    ],
+    "A57093-e10010": [
+      "agamemnon"
+    ],
+    "A57093-e10060": [
+      "iphigenia"
+    ],
+    "A57093-e10180": [
+      "agamemnon"
+    ],
+    "A57093-e10220": [
+      "iphigenia"
+    ],
+    "A57093-e10270": [
+      "agamemnon"
+    ],
+    "A57093-e10310": [
+      "iphigenia"
+    ],
+    "A57093-e10360": [
+      "agamemnon"
+    ],
+    "A57093-e10410": [
+      "iphigenia"
+    ],
+    "A57093-e10550": [
+      "agamemnon"
+    ],
+    "A57093-e10580": [
+      "iphigenia"
+    ],
+    "A57093-e10610": [
+      "agamemnon"
+    ],
+    "A57093-e10640": [
+      "iphigenia"
+    ],
+    "A57093-e10700": [
+      "agamemnon"
+    ],
+    "A57093-e10730": [
+      "iphigenia"
+    ],
+    "A57093-e10760": [
+      "agamemnon"
+    ],
+    "A57093-e10790": [
+      "iphigenia"
+    ],
+    "A57093-e10830": [
+      "agamemnon"
+    ],
+    "A57093-e10860": [
+      "iphigenia"
+    ],
+    "A57093-e10890": [
+      "agamemnon"
+    ],
+    "A57093-e10920": [
+      "iphigenia"
+    ],
+    "A57093-e10960": [
+      "agamemnon"
+    ],
+    "A57093-e10990": [
+      "iphigenia"
+    ],
+    "A57093-e11020": [
+      "agamemnon"
+    ],
+    "A57093-e11080": [
+      "iphigenia"
+    ],
+    "A57093-e11150": [
+      "eriphile"
+    ],
+    "A57093-e11280": [
+      "iphigenia"
+    ],
+    "A57093-e11550": [
+      "clytemnestra"
+    ],
+    "A57093-e11690": [
+      "eriphile"
+    ],
+    "A57093-e11720": [
+      "clytemnestra"
+    ],
+    "A57093-e12000": [
+      "iphigenia"
+    ],
+    "A57093-e12120": [
+      "eriphile"
+    ],
+    "A57093-e12160": [
+      "iphigenia"
+    ],
+    "A57093-e12270": [
+      "eriphile"
+    ],
+    "A57093-e12320": [
+      "iphigenia"
+    ],
+    "A57093-e12350": [
+      "eriphile"
+    ],
+    "A57093-e12380": [
+      "iphigenia"
+    ],
+    "A57093-e12450": [
+      "eriphile"
+    ],
+    "A57093-e12530": [
+      "iphigenia"
+    ],
+    "A57093-e12750": [
+      "eriphile"
+    ],
+    "A57093-e12900": [
+      "iphigenia"
+    ],
+    "A57093-e13070": [
+      "achilles"
+    ],
+    "A57093-e13160": [
+      "iphigenia"
+    ],
+    "A57093-e13230": [
+      "achilles"
+    ],
+    "A57093-e13350": [
+      "eriphile"
+    ],
+    "A57093-e13410": [
+      "achilles"
+    ],
+    "A57093-e13450": [
+      "eriphile"
+    ],
+    "A57093-e13540": [
+      "achilles"
+    ],
+    "A57093-e13720": [
+      "eriphile"
+    ],
+    "A57093-e13960": [
+      "clytemnestra"
+    ],
+    "A57093-e14130": [
+      "agamemnon"
+    ],
+    "A57093-e14370": [
+      "clytemnestra"
+    ],
+    "A57093-e14470": [
+      "agamemnon"
+    ],
+    "A57093-e14520": [
+      "clytemnestra"
+    ],
+    "A57093-e14630": [
+      "agamemnon"
+    ],
+    "A57093-e14690": [
+      "clytemnestra"
+    ],
+    "A57093-e14760": [
+      "agamemnon"
+    ],
+    "A57093-e14850": [
+      "clytemnestra"
+    ],
+    "A57093-e15030": [
+      "achilles"
+    ],
+    "A57093-e15120": [
+      "clytemnestra"
+    ],
+    "A57093-e15150": [
+      "achilles"
+    ],
+    "A57093-e15450": [
+      "iphigenia"
+    ],
+    "A57093-e15730": [
+      "eriphile"
+    ],
+    "A57093-e15810": [
+      "achilles"
+    ],
+    "A57093-e15840": [
+      "eriphile"
+    ],
+    "A57093-e16020": [
+      "achilles"
+    ],
+    "A57093-e16130": [
+      "arcas"
+    ],
+    "A57093-e16220": [
+      "achilles"
+    ],
+    "A57093-e16270": [
+      "clytemnestra"
+    ],
+    "A57093-e16310": [
+      "arcas"
+    ],
+    "A57093-e16370": [
+      "achilles"
+    ],
+    "A57093-e16410": [
+      "arcas"
+    ],
+    "A57093-e16490": [
+      "clytemnestra"
+    ],
+    "A57093-e16540": [
+      "achilles"
+    ],
+    "A57093-e16570": [
+      "arcas"
+    ],
+    "A57093-e16620": [
+      "clytemnestra"
+    ],
+    "A57093-e16650": [
+      "achilles"
+    ],
+    "A57093-e16680": [
+      "arcas"
+    ],
+    "A57093-e16720": [
+      "achilles"
+    ],
+    "A57093-e16760": [
+      "clytemnestra"
+    ],
+    "A57093-e16790": [
+      "iphigenia"
+    ],
+    "A57093-e16820": [
+      "eriphile"
+    ],
+    "A57093-e16850": [
+      "achilles"
+    ],
+    "A57093-e16900": [
+      "arcas"
+    ],
+    "A57093-e16990": [
+      "clytemnestra"
+    ],
+    "A57093-e17020": [
+      "iphigenia"
+    ],
+    "A57093-e17050": [
+      "clytemnestra"
+    ],
+    "A57093-e17100": [
+      "iphigenia"
+    ],
+    "A57093-e17150": [
+      "arcas"
+    ],
+    "A57093-e17190": [
+      "clytemnestra"
+    ],
+    "A57093-e17240": [
+      "achilles"
+    ],
+    "A57093-e17290": [
+      "clytemnestra"
+    ],
+    "A57093-e17550": [
+      "achilles"
+    ],
+    "A57093-e17740": [
+      "iphigenia"
+    ],
+    "A57093-e17780": [
+      "achilles"
+    ],
+    "A57093-e18010": [
+      "iphigenia"
+    ],
+    "A57093-e18040": [
+      "achilles"
+    ],
+    "A57093-e18190": [
+      "iphigenia"
+    ],
+    "A57093-e18260": [
+      "achilles"
+    ],
+    "A57093-e18300": [
+      "iphigenia"
+    ],
+    "A57093-e18500": [
+      "achilles"
+    ],
+    "A57093-e18640": [
+      "iphigenia"
+    ],
+    "A57093-e19160": [
+      "doris"
+    ],
+    "A57093-e19270": [
+      "iphigenia"
+    ],
+    "A57093-e19530": [
+      "doris"
+    ],
+    "A57093-e19600": [
+      "eriphile"
+    ],
+    "A57093-e19740": [
+      "doris"
+    ],
+    "A57093-e19770": [
+      "eriphile"
+    ],
+    "A57093-e19950": [
+      "doris"
+    ],
+    "A57093-e19980": [
+      "eriphile"
+    ],
+    "A57093-e20070": [
+      "doris"
+    ],
+    "A57093-e20100": [
+      "eriphile"
+    ],
+    "A57093-e20270": [
+      "doris"
+    ],
+    "A57093-e20320": [
+      "eriphile"
+    ],
+    "A57093-e20410": [
+      "clytemnestra"
+    ],
+    "A57093-e20580": [
+      "agamemnon"
+    ],
+    "A57093-e20690": [
+      "clytemnestra"
+    ],
+    "A57093-e20730": [
+      "agamemnon"
+    ],
+    "A57093-e20760": [
+      "clytemnestra"
+    ],
+    "A57093-e20790": [
+      "agamemnon"
+    ],
+    "A57093-e20840": [
+      "clytemnestra"
+    ],
+    "A57093-e20870": [
+      "agamemnon"
+    ],
+    "A57093-e20940": [
+      "clytemnestra"
+    ],
+    "A57093-e21010": [
+      "agamemnon"
+    ],
+    "A57093-e21090": [
+      "iphigenia"
+    ],
+    "A57093-e21200": [
+      "agamemnon"
+    ],
+    "A57093-e21230": [
+      "iphigenia"
+    ],
+    "A57093-e21470": [
+      "agamemnon"
+    ],
+    "A57093-e21500": [
+      "iphigenia"
+    ],
+    "A57093-e21710": [
+      "agamemnon"
+    ],
+    "A57093-e22040": [
+      "clytemnestra"
+    ],
+    "A57093-e22190": [
+      "agamemnon"
+    ],
+    "A57093-e22230": [
+      "clytemnestra"
+    ],
+    "A57093-e22350": [
+      "agamemnon"
+    ],
+    "A57093-e22390": [
+      "clytemnestra"
+    ],
+    "A57093-e22690": [
+      "agamemnon"
+    ],
+    "A57093-e22730": [
+      "clytemnestra"
+    ],
+    "A57093-e23210": [
+      "achilles"
+    ],
+    "A57093-e23370": [
+      "agamemnon"
+    ],
+    "A57093-e23450": [
+      "achilles"
+    ],
+    "A57093-e23490": [
+      "agamemnon"
+    ],
+    "A57093-e23520": [
+      "achilles"
+    ],
+    "A57093-e23590": [
+      "agamemnon"
+    ],
+    "A57093-e23630": [
+      "achilles"
+    ],
+    "A57093-e23670": [
+      "agamemnon"
+    ],
+    "A57093-e23740": [
+      "achilles"
+    ],
+    "A57093-e23830": [
+      "agamemnon"
+    ],
+    "A57093-e23890": [
+      "achilles"
+    ],
+    "A57093-e23930": [
+      "agamemnon"
+    ],
+    "A57093-e24060": [
+      "achilles"
+    ],
+    "A57093-e24570": [
+      "agamemnon"
+    ],
+    "A57093-e24790": [
+      "achilles"
+    ],
+    "A57093-e24950": [
+      "agamemnon"
+    ],
+    "A57093-e25090": [
+      "eurybates"
+    ],
+    "A57093-e25120": [
+      "agamemnon"
+    ],
+    "A57093-e25780": [
+      "clytemnestra"
+    ],
+    "A57093-e25830": [
+      "iphigenia"
+    ],
+    "A57093-e25870": [
+      "agamemnon"
+    ],
+    "A57093-e25950": [
+      "eriphile"
+    ],
+    "A57093-e25990": [
+      "doris"
+    ],
+    "A57093-e26030": [
+      "eriphile"
+    ],
+    "A57093-e26210": [
+      "iphigenia"
+    ],
+    "A57093-e26330": [
+      "aegina"
+    ],
+    "A57093-e26370": [
+      "iphigenia"
+    ],
+    "A57093-e26480": [
+      "aegina"
+    ],
+    "A57093-e26510": [
+      "iphigenia"
+    ],
+    "A57093-e26620": [
+      "aegina"
+    ],
+    "A57093-e26650": [
+      "iphigenia"
+    ],
+    "A57093-e26740": [
+      "achilles"
+    ],
+    "A57093-e26960": [
+      "iphigenia"
+    ],
+    "A57093-e27000": [
+      "achilles"
+    ],
+    "A57093-e27060": [
+      "iphigenia"
+    ],
+    "A57093-e27210": [
+      "achilles"
+    ],
+    "A57093-e27280": [
+      "iphigenia"
+    ],
+    "A57093-e27530": [
+      "achilles"
+    ],
+    "A57093-e27670": [
+      "iphigenia"
+    ],
+    "A57093-e27720": [
+      "achilles"
+    ],
+    "A57093-e27870": [
+      "iphigenia"
+    ],
+    "A57093-e28030": [
+      "clytemnestra"
+    ],
+    "A57093-e28170": [
+      "iphigenia"
+    ],
+    "A57093-e28400": [
+      "clytemnestra"
+    ],
+    "A57093-e28440": [
+      "iphigenia"
+    ],
+    "A57093-e28490": [
+      "clytemnestra"
+    ],
+    "A57093-e28530": [
+      "iphigenia"
+    ],
+    "A57093-e28690": [
+      "arcas"
+    ],
+    "A57093-e28750": [
+      "clytemnestra"
+    ],
+    "A57093-e28850": [
+      "achilles"
+    ],
+    "A57093-e28900": [
+      "clytemnestra"
+    ],
+    "A57093-e28970": [
+      "achilles"
+    ],
+    "A57093-e29050": [
+      "clytemnestra"
+    ],
+    "A57093-e30160": [
+      "calchas"
+    ],
+    "A57093-e30260": [
+      "eriphile"
+    ],
+    "A57093-e30360": [
+      "achilles"
+    ],
+    "A57093-e30410": [
+      "calchas"
+    ],
+    "A57093-e30790": [
+      "eriphile"
+    ],
+    "A57093-e30970": [
+      "iphigenia"
+    ],
+    "A57093-e31030": [
+      "calchas"
+    ],
+    "A57093-e31110": [
+      "agamemnon"
+    ],
+    "A57093-e31150": [
+      "achilles"
+    ],
+    "A57093-e31280": [
+      "agamemnon"
+    ],
+    "A57093-e31460": [
+      "achilles"
+    ],
+    "A57093-e31540": [
+      "calchas"
+    ]
+  }
+}

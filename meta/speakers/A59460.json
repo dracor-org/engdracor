@@ -1,0 +1,4355 @@
+{
+  "particDesc": [
+    {
+      "name": "Bully",
+      "id": "bully",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lover 2",
+      "id": "lover-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Lover 1",
+      "id": "lover-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Wife",
+      "id": "wife",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Husband",
+      "id": "husband",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Sergeant",
+      "id": "sergeant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Creditor 2",
+      "id": "creditor-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Creditor 1",
+      "id": "creditor-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Carpenter",
+      "id": "carpenter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Actor",
+      "id": "actor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Scrivener 2",
+      "id": "scrivener-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Scrivener",
+      "id": "scrivener",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man 4",
+      "id": "man-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man 3",
+      "id": "man-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man 2",
+      "id": "man-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man 1",
+      "id": "man-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Orange Woman",
+      "id": "orange-woman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Door-keeper",
+      "id": "door-keeper",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Theodosia",
+      "id": "theodosia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Citizen 2",
+      "id": "citizen-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 1",
+      "id": "citizen-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Councel",
+      "id": "councel",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "name": "Scrivener 1",
+      "id": "scrivener-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lady Busy",
+      "id": "lady-busy",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Footman",
+      "id": "footman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bellamour",
+      "name": "Bellamour",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "carlos",
+      "name": "Carlos",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "stanmore",
+      "name": "Stanmore",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "selfish",
+      "name": "Selfish",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "old-maggot",
+      "name": "Old Maggot",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "young-maggot",
+      "name": "Young Maggot",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "prig",
+      "name": "Prig",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lump",
+      "name": "Lump",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "isabella",
+      "name": "Isabella",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "gartrude",
+      "name": "Gartrude",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lady-cheatly",
+      "name": "Lady Cheatly",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "steward",
+      "name": "Steward",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A59460-e1440": [
+      "stanmore"
+    ],
+    "A59460-e1480": [
+      "bellamour"
+    ],
+    "A59460-e1510": [
+      "stanmore"
+    ],
+    "A59460-e1540": [
+      "bellamour"
+    ],
+    "A59460-e1580": [
+      "stanmore"
+    ],
+    "A59460-e1640": [
+      "bellamour"
+    ],
+    "A59460-e1670": [
+      "stanmore"
+    ],
+    "A59460-e1720": [
+      "bellamour"
+    ],
+    "A59460-e1760": [
+      "stanmore"
+    ],
+    "A59460-e1790": [
+      "bellamour"
+    ],
+    "A59460-e1860": [
+      "stanmore"
+    ],
+    "A59460-e1910": [
+      "bellamour"
+    ],
+    "A59460-e1950": [
+      "stanmore"
+    ],
+    "A59460-e1990": [
+      "bellamour"
+    ],
+    "A59460-e2030": [
+      "stanmore"
+    ],
+    "A59460-e2070": [
+      "bellamour"
+    ],
+    "A59460-e2100": [
+      "stanmore"
+    ],
+    "A59460-e2130": [
+      "bellamour"
+    ],
+    "A59460-e2170": [
+      "stanmore"
+    ],
+    "A59460-e2200": [
+      "bellamour"
+    ],
+    "A59460-e2270": [
+      "stanmore"
+    ],
+    "A59460-e2310": [
+      "carlos"
+    ],
+    "A59460-e2350": [
+      "stanmore"
+    ],
+    "A59460-e2380": [
+      "carlos"
+    ],
+    "A59460-e2450": [
+      "bellamour"
+    ],
+    "A59460-e2490": [
+      "carlos"
+    ],
+    "A59460-e2520": [
+      "bellamour"
+    ],
+    "A59460-e2560": [
+      "carlos"
+    ],
+    "A59460-e2600": [
+      "stanmore"
+    ],
+    "A59460-e2630": [
+      "carlos"
+    ],
+    "A59460-e2660": [
+      "bellamour"
+    ],
+    "A59460-e2690": [
+      "carlos"
+    ],
+    "A59460-e2750": [
+      "stanmore"
+    ],
+    "A59460-e2780": [
+      "carlos"
+    ],
+    "A59460-e2810": [
+      "bellamour"
+    ],
+    "A59460-e2840": [
+      "carlos"
+    ],
+    "A59460-e2870": [
+      "stanmore"
+    ],
+    "A59460-e2910": [
+      "bellamour"
+    ],
+    "A59460-e2950": [
+      "stanmore"
+    ],
+    "A59460-e2980": [
+      "carlos"
+    ],
+    "A59460-e3010": [
+      "bellamour"
+    ],
+    "A59460-e3060": [
+      "stanmore"
+    ],
+    "A59460-e3090": [
+      "carlos"
+    ],
+    "A59460-e3120": [
+      "bellamour"
+    ],
+    "A59460-e3150": [
+      "stanmore"
+    ],
+    "A59460-e3180": [
+      "bellamour"
+    ],
+    "A59460-e3220": [
+      "carlos"
+    ],
+    "A59460-e3260": [
+      "stanmore"
+    ],
+    "A59460-e3290": [
+      "carlos"
+    ],
+    "A59460-e3340": [
+      "footman"
+    ],
+    "A59460-e3380": [
+      "bellamour"
+    ],
+    "A59460-e3450": [
+      "selfish"
+    ],
+    "A59460-e3490": [
+      "bellamour"
+    ],
+    "A59460-e3520": [
+      "selfish"
+    ],
+    "A59460-e3560": [
+      "bellamour"
+    ],
+    "A59460-e3590": [
+      "selfish"
+    ],
+    "A59460-e3640": [
+      "bellamour"
+    ],
+    "A59460-e3670": [
+      "selfish"
+    ],
+    "A59460-e3710": [
+      "bellamour"
+    ],
+    "A59460-e3750": [
+      "selfish"
+    ],
+    "A59460-e3780": [
+      "bellamour"
+    ],
+    "A59460-e3830": [
+      "selfish"
+    ],
+    "A59460-e3860": [
+      "bellamour"
+    ],
+    "A59460-e3890": [
+      "selfish"
+    ],
+    "A59460-e3920": [
+      "carlos"
+    ],
+    "A59460-e3960": [
+      "stanmore"
+    ],
+    "A59460-e3990": [
+      "carlos"
+    ],
+    "A59460-e4020": [
+      "selfish"
+    ],
+    "A59460-e4080": [
+      "carlos"
+    ],
+    "A59460-e4110": [
+      "bellamour"
+    ],
+    "A59460-e4150": [
+      "carlos"
+    ],
+    "A59460-e4180": [
+      "stanmore"
+    ],
+    "A59460-e4210": [
+      "bellamour"
+    ],
+    "A59460-e4260": [
+      "young-maggot"
+    ],
+    "A59460-e4300": [
+      "bellamour"
+    ],
+    "A59460-e4330": [
+      "young-maggot"
+    ],
+    "A59460-e4360": [
+      "bellamour"
+    ],
+    "A59460-e4390": [
+      "young-maggot"
+    ],
+    "A59460-e4420": [
+      "bellamour"
+    ],
+    "A59460-e4450": [
+      "young-maggot"
+    ],
+    "A59460-e4480": [
+      "carlos"
+    ],
+    "A59460-e4510": [
+      "young-maggot"
+    ],
+    "A59460-e4580": [
+      "stanmore"
+    ],
+    "A59460-e4610": [
+      "bellamour"
+    ],
+    "A59460-e4640": [
+      "young-maggot"
+    ],
+    "A59460-e4670": [
+      "carlos"
+    ],
+    "A59460-e4700": [
+      "young-maggot"
+    ],
+    "A59460-e4730": [
+      "carlos"
+    ],
+    "A59460-e4760": [
+      "young-maggot"
+    ],
+    "A59460-e4810": [
+      "footman"
+    ],
+    "A59460-e4850": [
+      "young-maggot"
+    ],
+    "A59460-e4880": [
+      "bellamour"
+    ],
+    "A59460-e4910": [
+      "carlos"
+    ],
+    "A59460-e4950": [
+      "stanmore"
+    ],
+    "A59460-e4980": [
+      "bellamour"
+    ],
+    "A59460-e5030": [
+      "prig"
+    ],
+    "A59460-e5120": [
+      "stanmore"
+    ],
+    "A59460-e5150": [
+      "prig"
+    ],
+    "A59460-e5220": [
+      "bellamour"
+    ],
+    "A59460-e5250": [
+      "prig"
+    ],
+    "A59460-e5300": [
+      "bellamour"
+    ],
+    "A59460-e5330": [
+      "prig"
+    ],
+    "A59460-e5360": [
+      "bellamour"
+    ],
+    "A59460-e5390": [
+      "prig"
+    ],
+    "A59460-e5420": [
+      "stanmore"
+    ],
+    "A59460-e5450": [
+      "prig"
+    ],
+    "A59460-e5520": [
+      "young-maggot"
+    ],
+    "A59460-e5550": [
+      "prig"
+    ],
+    "A59460-e5580": [
+      "young-maggot"
+    ],
+    "A59460-e5610": [
+      "prig"
+    ],
+    "A59460-e5640": [
+      "bellamour"
+    ],
+    "A59460-e5670": [
+      "prig"
+    ],
+    "A59460-e5700": [
+      "stanmore"
+    ],
+    "A59460-e5730": [
+      "prig"
+    ],
+    "A59460-e5760": [
+      "bellamour"
+    ],
+    "A59460-e5790": [
+      "prig"
+    ],
+    "A59460-e5820": [
+      "carlos"
+    ],
+    "A59460-e5850": [
+      "prig"
+    ],
+    "A59460-e5890": [
+      "young-maggot"
+    ],
+    "A59460-e5920": [
+      "prig"
+    ],
+    "A59460-e5950": [
+      "bellamour"
+    ],
+    "A59460-e5980": [
+      "young-maggot"
+    ],
+    "A59460-e6010": [
+      "stanmore"
+    ],
+    "A59460-e6040": [
+      "young-maggot"
+    ],
+    "A59460-e6070": [
+      "carlos"
+    ],
+    "A59460-e6100": [
+      "prig"
+    ],
+    "A59460-e6130": [
+      "carlos"
+    ],
+    "A59460-e6170": [
+      "young-maggot"
+    ],
+    "A59460-e6200": [
+      "prig"
+    ],
+    "A59460-e6230": [
+      "young-maggot"
+    ],
+    "A59460-e6260": [
+      "prig"
+    ],
+    "A59460-e6290": [
+      "young-maggot"
+    ],
+    "A59460-e6320": [
+      "carlos"
+    ],
+    "A59460-e6350": [
+      "prig"
+    ],
+    "A59460-e6380": [
+      "young-maggot"
+    ],
+    "A59460-e6410": [
+      "prig"
+    ],
+    "A59460-e6440": [
+      "young-maggot"
+    ],
+    "A59460-e6480": [
+      "carlos"
+    ],
+    "A59460-e6510": [
+      "young-maggot"
+    ],
+    "A59460-e6690": [
+      "prig"
+    ],
+    "A59460-e6720": [
+      "bellamour"
+    ],
+    "A59460-e6940": [
+      "young-maggot"
+    ],
+    "A59460-e6970": [
+      "prig"
+    ],
+    "A59460-e7020": [
+      "bellamour"
+    ],
+    "A59460-e7070": [
+      "young-maggot"
+    ],
+    "A59460-e7100": [
+      "bellamour"
+    ],
+    "A59460-e7170": [
+      "old-maggot"
+    ],
+    "A59460-e7200": [
+      "bellamour"
+    ],
+    "A59460-e7230": [
+      "old-maggot"
+    ],
+    "A59460-e7260": [
+      "carlos"
+    ],
+    "A59460-e7290": [
+      "old-maggot"
+    ],
+    "A59460-e7360": [
+      "stanmore"
+    ],
+    "A59460-e7390": [
+      "old-maggot"
+    ],
+    "A59460-e7420": [
+      "carlos"
+    ],
+    "A59460-e7450": [
+      "young-maggot"
+    ],
+    "A59460-e7540": [
+      "old-maggot"
+    ],
+    "A59460-e7570": [
+      "bellamour"
+    ],
+    "A59460-e7610": [
+      "old-maggot"
+    ],
+    "A59460-e7640": [
+      "young-maggot"
+    ],
+    "A59460-e7670": [
+      "old-maggot"
+    ],
+    "A59460-e7700": [
+      "young-maggot"
+    ],
+    "A59460-e7730": [
+      "old-maggot"
+    ],
+    "A59460-e7760": [
+      "carlos"
+    ],
+    "A59460-e7790": [
+      "bellamour"
+    ],
+    "A59460-e7820": [
+      "stanmore"
+    ],
+    "A59460-e7900": [
+      "lump"
+    ],
+    "A59460-e7930": [
+      "lady-cheatly"
+    ],
+    "A59460-e7960": [
+      "lump"
+    ],
+    "A59460-e7990": [
+      "lady-cheatly"
+    ],
+    "A59460-e8020": [
+      "lump"
+    ],
+    "A59460-e8050": [
+      "lady-cheatly"
+    ],
+    "A59460-e8080": [
+      "lump"
+    ],
+    "A59460-e8110": [
+      "lady-cheatly"
+    ],
+    "A59460-e8140": [
+      "lump"
+    ],
+    "A59460-e8170": [
+      "lady-cheatly"
+    ],
+    "A59460-e8210": [
+      "lump"
+    ],
+    "A59460-e8240": [
+      "lady-cheatly"
+    ],
+    "A59460-e8270": [
+      "lump"
+    ],
+    "A59460-e8320": [
+      "lady-cheatly"
+    ],
+    "A59460-e8360": [
+      "lump"
+    ],
+    "A59460-e8400": [
+      "lady-cheatly"
+    ],
+    "A59460-e8430": [
+      "lump"
+    ],
+    "A59460-e8460": [
+      "lady-cheatly"
+    ],
+    "A59460-e8500": [
+      "lump"
+    ],
+    "A59460-e8550": [
+      "lady-cheatly"
+    ],
+    "A59460-e8580": [
+      "lump"
+    ],
+    "A59460-e8640": [
+      "lady-cheatly"
+    ],
+    "A59460-e8670": [
+      "lump"
+    ],
+    "A59460-e8700": [
+      "lady-cheatly"
+    ],
+    "A59460-e8730": [
+      "lump"
+    ],
+    "A59460-e8760": [
+      "lady-cheatly"
+    ],
+    "A59460-e8790": [
+      "lump"
+    ],
+    "A59460-e8820": [
+      "lady-cheatly"
+    ],
+    "A59460-e8850": [
+      "lump"
+    ],
+    "A59460-e8900": [
+      "lady-cheatly"
+    ],
+    "A59460-e8970": [
+      "steward"
+    ],
+    "A59460-e9000": [
+      "lady-cheatly"
+    ],
+    "A59460-e9040": [
+      "steward"
+    ],
+    "A59460-e9070": [
+      "lady-cheatly"
+    ],
+    "A59460-e9100": [
+      "steward"
+    ],
+    "A59460-e9140": [
+      "lady-cheatly"
+    ],
+    "A59460-e9170": [
+      "steward"
+    ],
+    "A59460-e9230": [
+      "lady-cheatly"
+    ],
+    "A59460-e9260": [
+      "steward"
+    ],
+    "A59460-e9290": [
+      "lady-cheatly"
+    ],
+    "A59460-e9400": [
+      "lady-cheatly"
+    ],
+    "A59460-e9430": [
+      "lady-busy"
+    ],
+    "A59460-e9480": [
+      "lady-cheatly"
+    ],
+    "A59460-e9510": [
+      "lady-busy"
+    ],
+    "A59460-e9550": [
+      "lady-cheatly"
+    ],
+    "A59460-e9580": [
+      "lady-busy"
+    ],
+    "A59460-e9610": [
+      "lady-cheatly"
+    ],
+    "A59460-e9640": [
+      "lady-busy"
+    ],
+    "A59460-e9680": [
+      "lady-cheatly"
+    ],
+    "A59460-e9710": [
+      "lady-busy"
+    ],
+    "A59460-e9740": [
+      "lady-cheatly"
+    ],
+    "A59460-e9770": [
+      "lady-busy"
+    ],
+    "A59460-e9800": [
+      "lady-cheatly"
+    ],
+    "A59460-e9860": [
+      "lady-busy"
+    ],
+    "A59460-e9890": [
+      "isabella"
+    ],
+    "A59460-e9920": [
+      "lady-busy"
+    ],
+    "A59460-e9960": [
+      "selfish"
+    ],
+    "A59460-e9990": [
+      "lady-busy"
+    ],
+    "A59460-e10020": [
+      "selfish"
+    ],
+    "A59460-e10050": [
+      "lady-busy"
+    ],
+    "A59460-e10080": [
+      "selfish"
+    ],
+    "A59460-e10110": [
+      "lady-busy"
+    ],
+    "A59460-e10140": [
+      "selfish"
+    ],
+    "A59460-e10180": [
+      "lady-busy"
+    ],
+    "A59460-e10210": [
+      "selfish"
+    ],
+    "A59460-e10240": [
+      "lady-busy"
+    ],
+    "A59460-e10270": [
+      "selfish"
+    ],
+    "A59460-e10300": [
+      "lady-busy"
+    ],
+    "A59460-e10330": [
+      "selfish"
+    ],
+    "A59460-e10360": [
+      "lady-cheatly"
+    ],
+    "A59460-e10400": [
+      "lady-busy"
+    ],
+    "A59460-e10430": [
+      "selfish"
+    ],
+    "A59460-e10460": [
+      "lady-busy"
+    ],
+    "A59460-e10490": [
+      "selfish"
+    ],
+    "A59460-e10520": [
+      "lady-busy"
+    ],
+    "A59460-e10560": [
+      "selfish"
+    ],
+    "A59460-e10600": [
+      "gartrude"
+    ],
+    "A59460-e10630": [
+      "lady-busy"
+    ],
+    "A59460-e10670": [
+      "selfish"
+    ],
+    "A59460-e10700": [
+      "lady-cheatly"
+    ],
+    "A59460-e10740": [
+      "lady-busy"
+    ],
+    "A59460-e10790": [
+      "selfish"
+    ],
+    "A59460-e10820": [
+      "lady-cheatly"
+    ],
+    "A59460-e10850": [
+      "lady-busy"
+    ],
+    "A59460-e10890": [
+      "selfish"
+    ],
+    "A59460-e10920": [
+      "gartrude"
+    ],
+    "A59460-e10950": [
+      "lady-busy"
+    ],
+    "A59460-e10990": [
+      "lady-cheatly"
+    ],
+    "A59460-e11030": [
+      "gartrude"
+    ],
+    "A59460-e11060": [
+      "lady-busy"
+    ],
+    "A59460-e11110": [
+      "gartrude"
+    ],
+    "A59460-e11140": [
+      "selfish"
+    ],
+    "A59460-e11180": [
+      "gartrude"
+    ],
+    "A59460-e11240": [
+      "steward"
+    ],
+    "A59460-e11270": [
+      "lady-cheatly"
+    ],
+    "A59460-e11330": [
+      "lady-busy"
+    ],
+    "A59460-e11420": [
+      "scrivener"
+    ],
+    "A59460-e11450": [
+      "lady-cheatly"
+    ],
+    "A59460-e11480": [
+      "councel"
+    ],
+    "A59460-e11510": [
+      "lady-cheatly"
+    ],
+    "A59460-e11580": [
+      "steward"
+    ],
+    "A59460-e11610": [
+      "lady-cheatly"
+    ],
+    "A59460-e11650": [
+      "old-maggot"
+    ],
+    "A59460-e11680": [
+      "bellamour"
+    ],
+    "A59460-e11710": [
+      "old-maggot"
+    ],
+    "A59460-e11750": [
+      "stanmore"
+    ],
+    "A59460-e11780": [
+      "old-maggot"
+    ],
+    "A59460-e11810": [
+      "carlos"
+    ],
+    "A59460-e11840": [
+      "old-maggot"
+    ],
+    "A59460-e11900": [
+      "bellamour"
+    ],
+    "A59460-e11930": [
+      "old-maggot"
+    ],
+    "A59460-e11970": [
+      "bellamour"
+    ],
+    "A59460-e12000": [
+      "old-maggot"
+    ],
+    "A59460-e12050": [
+      "lady-cheatly"
+    ],
+    "A59460-e12080": [
+      "old-maggot"
+    ],
+    "A59460-e12110": [
+      "citizen-1"
+    ],
+    "A59460-e12150": [
+      "citizen-2"
+    ],
+    "A59460-e12190": [
+      "steward"
+    ],
+    "A59460-e12220": [
+      "lady-cheatly"
+    ],
+    "A59460-e12250": [
+      "steward"
+    ],
+    "A59460-e12280": [
+      "citizen-1"
+    ],
+    "A59460-e12320": [
+      "lady-cheatly"
+    ],
+    "A59460-e12350": [
+      "bellamour"
+    ],
+    "A59460-e12380": [
+      "lady-cheatly"
+    ],
+    "A59460-e12410": [
+      "stanmore"
+    ],
+    "A59460-e12460": [
+      "lady-cheatly"
+    ],
+    "A59460-e12500": [
+      "old-maggot"
+    ],
+    "A59460-e12550": [
+      "prig"
+    ],
+    "A59460-e12580": [
+      "lady-cheatly"
+    ],
+    "A59460-e12620": [
+      "prig"
+    ],
+    "A59460-e12680": [
+      "carlos"
+    ],
+    "A59460-e12710": [
+      "prig"
+    ],
+    "A59460-e12740": [
+      "carlos"
+    ],
+    "A59460-e12770": [
+      "prig"
+    ],
+    "A59460-e12850": [
+      "bellamour"
+    ],
+    "A59460-e12880": [
+      "prig"
+    ],
+    "A59460-e12910": [
+      "stanmore"
+    ],
+    "A59460-e12940": [
+      "prig"
+    ],
+    "A59460-e13000": [
+      "bellamour"
+    ],
+    "A59460-e13030": [
+      "prig"
+    ],
+    "A59460-e13120": [
+      "bellamour"
+    ],
+    "A59460-e13160": [
+      "prig"
+    ],
+    "A59460-e13250": [
+      "carlos"
+    ],
+    "A59460-e13280": [
+      "prig"
+    ],
+    "A59460-e13330": [
+      "old-maggot"
+    ],
+    "A59460-e13360": [
+      "lady-cheatly"
+    ],
+    "A59460-e13400": [
+      "old-maggot"
+    ],
+    "A59460-e13430": [
+      "lady-cheatly"
+    ],
+    "A59460-e13470": [
+      "old-maggot"
+    ],
+    "A59460-e13520": [
+      "prig"
+    ],
+    "A59460-e13550": [
+      "bellamour"
+    ],
+    "A59460-e13580": [
+      "prig"
+    ],
+    "A59460-e13630": [
+      "lady-cheatly"
+    ],
+    "A59460-e13670": [
+      "prig"
+    ],
+    "A59460-e13730": [
+      "lady-cheatly"
+    ],
+    "A59460-e13760": [
+      "prig"
+    ],
+    "A59460-e13800": [
+      "lady-cheatly"
+    ],
+    "A59460-e13830": [
+      "prig"
+    ],
+    "A59460-e13860": [
+      "lady-cheatly"
+    ],
+    "A59460-e13890": [
+      "prig"
+    ],
+    "A59460-e13940": [
+      "lady-cheatly"
+    ],
+    "A59460-e13970": [
+      "prig"
+    ],
+    "A59460-e14040": [
+      "steward"
+    ],
+    "A59460-e14070": [
+      "lady-cheatly"
+    ],
+    "A59460-e14120": [
+      "prig"
+    ],
+    "A59460-e14170": [
+      "steward"
+    ],
+    "A59460-e14200": [
+      "prig"
+    ],
+    "A59460-e14270": [
+      "carlos"
+    ],
+    "A59460-e14320": [
+      "bellamour"
+    ],
+    "A59460-e14350": [
+      "carlos"
+    ],
+    "A59460-e14390": [
+      "stanmore"
+    ],
+    "A59460-e14420": [
+      "bellamour"
+    ],
+    "A59460-e14480": [
+      "carlos"
+    ],
+    "A59460-e14510": [
+      "theodosia"
+    ],
+    "A59460-e14560": [
+      "carlos"
+    ],
+    "A59460-e14590": [
+      "theodosia"
+    ],
+    "A59460-e14620": [
+      "carlos"
+    ],
+    "A59460-e14650": [
+      "theodosia"
+    ],
+    "A59460-e14700": [
+      "gartrude"
+    ],
+    "A59460-e14750": [
+      "bellamour"
+    ],
+    "A59460-e14790": [
+      "stanmore"
+    ],
+    "A59460-e14840": [
+      "bellamour"
+    ],
+    "A59460-e14870": [
+      "selfish"
+    ],
+    "A59460-e14910": [
+      "theodosia"
+    ],
+    "A59460-e14970": [
+      "carlos"
+    ],
+    "A59460-e15000": [
+      "theodosia"
+    ],
+    "A59460-e15030": [
+      "carlos"
+    ],
+    "A59460-e15070": [
+      "theodosia"
+    ],
+    "A59460-e15100": [
+      "carlos"
+    ],
+    "A59460-e15130": [
+      "theodosia"
+    ],
+    "A59460-e15170": [
+      "carlos"
+    ],
+    "A59460-e15200": [
+      "theodosia"
+    ],
+    "A59460-e15230": [
+      "carlos"
+    ],
+    "A59460-e15260": [
+      "theodosia"
+    ],
+    "A59460-e15300": [
+      "carlos"
+    ],
+    "A59460-e15330": [
+      "theodosia"
+    ],
+    "A59460-e15360": [
+      "carlos"
+    ],
+    "A59460-e15390": [
+      "theodosia"
+    ],
+    "A59460-e15420": [
+      "carlos"
+    ],
+    "A59460-e15450": [
+      "theodosia"
+    ],
+    "A59460-e15480": [
+      "carlos"
+    ],
+    "A59460-e15510": [
+      "theodosia"
+    ],
+    "A59460-e15580": [
+      "carlos"
+    ],
+    "A59460-e15620": [
+      "theodosia"
+    ],
+    "A59460-e15650": [
+      "carlos"
+    ],
+    "A59460-e15690": [
+      "theodosia"
+    ],
+    "A59460-e15720": [
+      "carlos"
+    ],
+    "A59460-e15760": [
+      "theodosia"
+    ],
+    "A59460-e15790": [
+      "carlos"
+    ],
+    "A59460-e15820": [
+      "theodosia"
+    ],
+    "A59460-e15910": [
+      "young-maggot"
+    ],
+    "A59460-e15940": [
+      "selfish"
+    ],
+    "A59460-e15970": [
+      "young-maggot"
+    ],
+    "A59460-e16000": [
+      "selfish"
+    ],
+    "A59460-e16030": [
+      "young-maggot"
+    ],
+    "A59460-e16060": [
+      "selfish"
+    ],
+    "A59460-e16090": [
+      "young-maggot"
+    ],
+    "A59460-e16150": [
+      "selfish"
+    ],
+    "A59460-e16180": [
+      "young-maggot"
+    ],
+    "A59460-e16210": [
+      "selfish"
+    ],
+    "A59460-e16280": [
+      "young-maggot"
+    ],
+    "A59460-e16310": [
+      "selfish"
+    ],
+    "A59460-e16350": [
+      "young-maggot"
+    ],
+    "A59460-e16380": [
+      "selfish"
+    ],
+    "A59460-e16410": [
+      "young-maggot"
+    ],
+    "A59460-e16440": [
+      "selfish"
+    ],
+    "A59460-e16470": [
+      "young-maggot"
+    ],
+    "A59460-e16530": [
+      "young-maggot"
+    ],
+    "A59460-e16560": [
+      "selfish"
+    ],
+    "A59460-e16590": [
+      "young-maggot"
+    ],
+    "A59460-e16620": [
+      "selfish"
+    ],
+    "A59460-e16650": [
+      "young-maggot"
+    ],
+    "A59460-e16680": [
+      "selfish"
+    ],
+    "A59460-e16710": [
+      "theodosia"
+    ],
+    "A59460-e16740": [
+      "selfish"
+    ],
+    "A59460-e16770": [
+      "carlos"
+    ],
+    "A59460-e16800": [
+      "theodosia"
+    ],
+    "A59460-e16830": [
+      "bellamour"
+    ],
+    "A59460-e16860": [
+      "theodosia"
+    ],
+    "A59460-e16930": [
+      "gartrude"
+    ],
+    "A59460-e16970": [
+      "stanmore"
+    ],
+    "A59460-e17000": [
+      "gartrude"
+    ],
+    "A59460-e17060": [
+      "bellamour"
+    ],
+    "A59460-e17090": [
+      "stanmore"
+    ],
+    "A59460-e17140": [
+      "selfish"
+    ],
+    "A59460-e17180": [
+      "young-maggot"
+    ],
+    "A59460-e17210": [
+      "selfish"
+    ],
+    "A59460-e17250": [
+      "gartrude"
+    ],
+    "A59460-e17310": [
+      "selfish"
+    ],
+    "A59460-e17340": [
+      "selfish"
+    ],
+    "A59460-e17400": [
+      "stanmore"
+    ],
+    "A59460-e17440": [
+      "selfish"
+    ],
+    "A59460-e17500": [
+      "prig"
+    ],
+    "A59460-e17540": [
+      "young-maggot"
+    ],
+    "A59460-e17570": [
+      "prig"
+    ],
+    "A59460-e17600": [
+      "selfish"
+    ],
+    "A59460-e17660": [
+      "prig"
+    ],
+    "A59460-e17690": [
+      "carlos"
+    ],
+    "A59460-e17720": [
+      "prig"
+    ],
+    "A59460-e17760": [
+      "young-maggot"
+    ],
+    "A59460-e17790": [
+      "bellamour"
+    ],
+    "A59460-e17830": [
+      "prig"
+    ],
+    "A59460-e17880": [
+      "lady-cheatly"
+    ],
+    "A59460-e17930": [
+      "selfish"
+    ],
+    "A59460-e17970": [
+      "prig"
+    ],
+    "A59460-e18130": [
+      "young-maggot"
+    ],
+    "A59460-e18160": [
+      "prig"
+    ],
+    "A59460-e18200": [
+      "selfish"
+    ],
+    "A59460-e18240": [
+      "carlos"
+    ],
+    "A59460-e18270": [
+      "selfish"
+    ],
+    "A59460-e18310": [
+      "selfish"
+    ],
+    "A59460-e18350": [
+      "theodosia"
+    ],
+    "A59460-e18380": [
+      "selfish"
+    ],
+    "A59460-e18410": [
+      "carlos"
+    ],
+    "A59460-e18440": [
+      "selfish"
+    ],
+    "A59460-e18480": [
+      "lady-cheatly"
+    ],
+    "A59460-e18510": [
+      "selfish"
+    ],
+    "A59460-e18540": [
+      "prig"
+    ],
+    "A59460-e18570": [
+      "selfish"
+    ],
+    "A59460-e18620": [
+      "bellamour"
+    ],
+    "A59460-e18670": [
+      "selfish"
+    ],
+    "A59460-e18720": [
+      "carlos"
+    ],
+    "A59460-e18790": [
+      "selfish"
+    ],
+    "A59460-e18850": [
+      "gartrude"
+    ],
+    "A59460-e18890": [
+      "bellamour"
+    ],
+    "A59460-e18920": [
+      "carlos"
+    ],
+    "A59460-e18960": [
+      "selfish"
+    ],
+    "A59460-e19000": [
+      "lady-cheatly"
+    ],
+    "A59460-e19030": [
+      "young-maggot"
+    ],
+    "A59460-e19060": [
+      "prig"
+    ],
+    "A59460-e19100": [
+      "selfish"
+    ],
+    "A59460-e19150": [
+      "bellamour"
+    ],
+    "A59460-e19190": [
+      "carlos"
+    ],
+    "A59460-e19220": [
+      "young-maggot"
+    ],
+    "A59460-e19270": [
+      "prig"
+    ],
+    "A59460-e19310": [
+      "young-maggot"
+    ],
+    "A59460-e19340": [
+      "prig"
+    ],
+    "A59460-e19370": [
+      "young-maggot"
+    ],
+    "A59460-e19410": [
+      "stanmore"
+    ],
+    "A59460-e19440": [
+      "prig"
+    ],
+    "A59460-e19480": [
+      "young-maggot"
+    ],
+    "A59460-e19570": [
+      "lump"
+    ],
+    "A59460-e19630": [
+      "selfish"
+    ],
+    "A59460-e19690": [
+      "gartrude"
+    ],
+    "A59460-e19720": [
+      "lump"
+    ],
+    "A59460-e19750": [
+      "lady-cheatly"
+    ],
+    "A59460-e19780": [
+      "lump"
+    ],
+    "A59460-e19810": [
+      "old-maggot"
+    ],
+    "A59460-e19840": [
+      "lump"
+    ],
+    "A59460-e19870": [
+      "old-maggot"
+    ],
+    "A59460-e19900": [
+      "lady-cheatly"
+    ],
+    "A59460-e19940": [
+      "prig"
+    ],
+    "A59460-e19990": [
+      "old-maggot"
+    ],
+    "A59460-e20020": [
+      "lump"
+    ],
+    "A59460-e20050": [
+      "old-maggot"
+    ],
+    "A59460-e20090": [
+      "prig"
+    ],
+    "A59460-e20140": [
+      "lady-cheatly"
+    ],
+    "A59460-e20170": [
+      "lump"
+    ],
+    "A59460-e20230": [
+      "lady-cheatly"
+    ],
+    "A59460-e20260": [
+      "lump"
+    ],
+    "A59460-e20300": [
+      "lady-cheatly"
+    ],
+    "A59460-e20330": [
+      "lump"
+    ],
+    "A59460-e20380": [
+      "steward"
+    ],
+    "A59460-e20420": [
+      "lump"
+    ],
+    "A59460-e20450": [
+      "lady-cheatly"
+    ],
+    "A59460-e20480": [
+      "lump"
+    ],
+    "A59460-e20520": [
+      "lady-cheatly"
+    ],
+    "A59460-e20550": [
+      "lump"
+    ],
+    "A59460-e20580": [
+      "lady-cheatly"
+    ],
+    "A59460-e20610": [
+      "lump"
+    ],
+    "A59460-e20680": [
+      "lady-cheatly"
+    ],
+    "A59460-e20750": [
+      "bellamour"
+    ],
+    "A59460-e20780": [
+      "selfish"
+    ],
+    "A59460-e20810": [
+      "bellamour"
+    ],
+    "A59460-e20840": [
+      "selfish"
+    ],
+    "A59460-e20870": [
+      "bellamour"
+    ],
+    "A59460-e20900": [
+      "selfish"
+    ],
+    "A59460-e20930": [
+      "bellamour"
+    ],
+    "A59460-e20960": [
+      "selfish"
+    ],
+    "A59460-e20990": [
+      "bellamour"
+    ],
+    "A59460-e21030": [
+      "selfish"
+    ],
+    "A59460-e21060": [
+      "bellamour"
+    ],
+    "A59460-e21090": [
+      "selfish"
+    ],
+    "A59460-e21120": [
+      "bellamour"
+    ],
+    "A59460-e21160": [
+      "selfish"
+    ],
+    "A59460-e21190": [
+      "bellamour"
+    ],
+    "A59460-e21220": [
+      "selfish"
+    ],
+    "A59460-e21250": [
+      "bellamour"
+    ],
+    "A59460-e21280": [
+      "selfish"
+    ],
+    "A59460-e21310": [
+      "bellamour"
+    ],
+    "A59460-e21340": [
+      "selfish"
+    ],
+    "A59460-e21370": [
+      "bellamour"
+    ],
+    "A59460-e21400": [
+      "selfish"
+    ],
+    "A59460-e21430": [
+      "bellamour"
+    ],
+    "A59460-e21460": [
+      "selfish"
+    ],
+    "A59460-e21490": [
+      "bellamour"
+    ],
+    "A59460-e21520": [
+      "selfish"
+    ],
+    "A59460-e21550": [
+      "bellamour"
+    ],
+    "A59460-e21580": [
+      "selfish"
+    ],
+    "A59460-e21630": [
+      "lady-busy"
+    ],
+    "A59460-e21660": [
+      "bellamour"
+    ],
+    "A59460-e21690": [
+      "lady-busy"
+    ],
+    "A59460-e21740": [
+      "selfish"
+    ],
+    "A59460-e21770": [
+      "lady-busy"
+    ],
+    "A59460-e21800": [
+      "selfish"
+    ],
+    "A59460-e21850": [
+      "bellamour"
+    ],
+    "A59460-e21880": [
+      "lady-busy"
+    ],
+    "A59460-e21910": [
+      "bellamour"
+    ],
+    "A59460-e21990": [
+      "stanmore"
+    ],
+    "A59460-e22020": [
+      "lady-busy"
+    ],
+    "A59460-e22100": [
+      "gartrude"
+    ],
+    "A59460-e22130": [
+      "lady-busy"
+    ],
+    "A59460-e22160": [
+      "gartrude"
+    ],
+    "A59460-e22200": [
+      "lady-busy"
+    ],
+    "A59460-e22240": [
+      "gartrude"
+    ],
+    "A59460-e22280": [
+      "lady-busy"
+    ],
+    "A59460-e22320": [
+      "gartrude"
+    ],
+    "A59460-e22350": [
+      "lady-busy"
+    ],
+    "A59460-e22390": [
+      "gartrude"
+    ],
+    "A59460-e22440": [
+      "lady-busy"
+    ],
+    "A59460-e22490": [
+      "gartrude"
+    ],
+    "A59460-e22540": [
+      "selfish"
+    ],
+    "A59460-e22590": [
+      "gartrude"
+    ],
+    "A59460-e22640": [
+      "stanmore"
+    ],
+    "A59460-e22700": [
+      "lady-busy"
+    ],
+    "A59460-e22760": [
+      "stanmore"
+    ],
+    "A59460-e22790": [
+      "selfish"
+    ],
+    "A59460-e22830": [
+      "stanmore"
+    ],
+    "A59460-e22860": [
+      "selfish"
+    ],
+    "A59460-e22920": [
+      "stanmore"
+    ],
+    "A59460-e22950": [
+      "selfish"
+    ],
+    "A59460-e23020": [
+      "gartrude"
+    ],
+    "A59460-e23050": [
+      "stanmore"
+    ],
+    "A59460-e23090": [
+      "gartrude"
+    ],
+    "A59460-e23120": [
+      "stanmore"
+    ],
+    "A59460-e23170": [
+      "selfish"
+    ],
+    "A59460-e23210": [
+      "gartrude"
+    ],
+    "A59460-e23250": [
+      "stanmore"
+    ],
+    "A59460-e23280": [
+      "gartrude"
+    ],
+    "A59460-e23320": [
+      "stanmore"
+    ],
+    "A59460-e23360": [
+      "gartrude"
+    ],
+    "A59460-e23390": [
+      "stanmore"
+    ],
+    "A59460-e23420": [
+      "selfish"
+    ],
+    "A59460-e23460": [
+      "gartrude"
+    ],
+    "A59460-e23490": [
+      "selfish"
+    ],
+    "A59460-e23520": [
+      "gartrude"
+    ],
+    "A59460-e23550": [
+      "selfish"
+    ],
+    "A59460-e23580": [
+      "gartrude"
+    ],
+    "A59460-e23610": [
+      "stanmore"
+    ],
+    "A59460-e23640": [
+      "selfish"
+    ],
+    "A59460-e23670": [
+      "stanmore"
+    ],
+    "A59460-e23710": [
+      "gartrude"
+    ],
+    "A59460-e23750": [
+      "selfish"
+    ],
+    "A59460-e23780": [
+      "gartrude"
+    ],
+    "A59460-e23810": [
+      "stanmore"
+    ],
+    "A59460-e23840": [
+      "selfish"
+    ],
+    "A59460-e23870": [
+      "stanmore"
+    ],
+    "A59460-e23900": [
+      "selfish"
+    ],
+    "A59460-e23950": [
+      "gartrude"
+    ],
+    "A59460-e24020": [
+      "lady-cheatly"
+    ],
+    "A59460-e24070": [
+      "gartrude"
+    ],
+    "A59460-e24100": [
+      "stanmore"
+    ],
+    "A59460-e24160": [
+      "old-maggot"
+    ],
+    "A59460-e24190": [
+      "lady-cheatly"
+    ],
+    "A59460-e24220": [
+      "old-maggot"
+    ],
+    "A59460-e24270": [
+      "steward"
+    ],
+    "A59460-e24300": [
+      "old-maggot"
+    ],
+    "A59460-e24350": [
+      "steward"
+    ],
+    "A59460-e24380": [
+      "lady-cheatly"
+    ],
+    "A59460-e24420": [
+      "steward"
+    ],
+    "A59460-e24450": [
+      "lady-cheatly"
+    ],
+    "A59460-e24480": [
+      "steward"
+    ],
+    "A59460-e24510": [
+      "lady-cheatly"
+    ],
+    "A59460-e24540": [
+      "steward"
+    ],
+    "A59460-e24570": [
+      "lady-cheatly"
+    ],
+    "A59460-e24600": [
+      "steward"
+    ],
+    "A59460-e24640": [
+      "lady-cheatly"
+    ],
+    "A59460-e24680": [
+      "steward"
+    ],
+    "A59460-e24740": [
+      "lady-cheatly"
+    ],
+    "A59460-e24790": [
+      "steward"
+    ],
+    "A59460-e24830": [
+      "lady-cheatly"
+    ],
+    "A59460-e24860": [
+      "steward"
+    ],
+    "A59460-e24910": [
+      "lady-cheatly"
+    ],
+    "A59460-e24970": [
+      "steward"
+    ],
+    "A59460-e25000": [
+      "lady-cheatly"
+    ],
+    "A59460-e25050": [
+      "steward"
+    ],
+    "A59460-e25080": [
+      "lady-cheatly"
+    ],
+    "A59460-e25110": [
+      "steward"
+    ],
+    "A59460-e25140": [
+      "lady-cheatly"
+    ],
+    "A59460-e25170": [
+      "steward"
+    ],
+    "A59460-e25200": [
+      "lady-cheatly"
+    ],
+    "A59460-e25230": [
+      "steward"
+    ],
+    "A59460-e25270": [
+      "lady-cheatly"
+    ],
+    "A59460-e25300": [
+      "steward"
+    ],
+    "A59460-e25350": [
+      "lady-cheatly"
+    ],
+    "A59460-e25390": [
+      "steward"
+    ],
+    "A59460-e25420": [
+      "lady-cheatly"
+    ],
+    "A59460-e25480": [
+      "lady-cheatly"
+    ],
+    "A59460-e25510": [
+      "prig"
+    ],
+    "A59460-e25540": [
+      "lady-cheatly"
+    ],
+    "A59460-e25570": [
+      "prig"
+    ],
+    "A59460-e25600": [
+      "lady-cheatly"
+    ],
+    "A59460-e25640": [
+      "prig"
+    ],
+    "A59460-e25670": [
+      "lady-cheatly"
+    ],
+    "A59460-e25710": [
+      "prig"
+    ],
+    "A59460-e25750": [
+      "lady-cheatly"
+    ],
+    "A59460-e25780": [
+      "prig"
+    ],
+    "A59460-e25820": [
+      "lady-cheatly"
+    ],
+    "A59460-e25860": [
+      "prig"
+    ],
+    "A59460-e25890": [
+      "lady-cheatly"
+    ],
+    "A59460-e25920": [
+      "prig"
+    ],
+    "A59460-e25950": [
+      "lady-cheatly"
+    ],
+    "A59460-e25980": [
+      "prig"
+    ],
+    "A59460-e26010": [
+      "lady-cheatly"
+    ],
+    "A59460-e26060": [
+      "prig"
+    ],
+    "A59460-e26150": [
+      "theodosia"
+    ],
+    "A59460-e26190": [
+      "selfish"
+    ],
+    "A59460-e26220": [
+      "theodosia"
+    ],
+    "A59460-e26260": [
+      "selfish"
+    ],
+    "A59460-e26300": [
+      "theodosia"
+    ],
+    "A59460-e26330": [
+      "selfish"
+    ],
+    "A59460-e26370": [
+      "theodosia"
+    ],
+    "A59460-e26400": [
+      "selfish"
+    ],
+    "A59460-e26440": [
+      "theodosia"
+    ],
+    "A59460-e26470": [
+      "selfish"
+    ],
+    "A59460-e26510": [
+      "theodosia"
+    ],
+    "A59460-e26540": [
+      "selfish"
+    ],
+    "A59460-e26610": [
+      "theodosia"
+    ],
+    "A59460-e26660": [
+      "gartrude"
+    ],
+    "A59460-e26720": [
+      "young-maggot"
+    ],
+    "A59460-e26760": [
+      "prig"
+    ],
+    "A59460-e26820": [
+      "stanmore"
+    ],
+    "A59460-e26860": [
+      "carlos"
+    ],
+    "A59460-e26940": [
+      "stanmore"
+    ],
+    "A59460-e26970": [
+      "carlos"
+    ],
+    "A59460-e27000": [
+      "stanmore"
+    ],
+    "A59460-e27040": [
+      "carlos"
+    ],
+    "A59460-e27090": [
+      "stanmore"
+    ],
+    "A59460-e27120": [
+      "carlos"
+    ],
+    "A59460-e27150": [
+      "prig"
+    ],
+    "A59460-e27190": [
+      "young-maggot"
+    ],
+    "A59460-e27240": [
+      "gartrude"
+    ],
+    "A59460-e27310": [
+      "selfish"
+    ],
+    "A59460-e27340": [
+      "theodosia"
+    ],
+    "A59460-e27380": [
+      "selfish"
+    ],
+    "A59460-e27410": [
+      "theodosia"
+    ],
+    "A59460-e27440": [
+      "selfish"
+    ],
+    "A59460-e27480": [
+      "theodosia"
+    ],
+    "A59460-e27510": [
+      "selfish"
+    ],
+    "A59460-e27540": [
+      "gartrude"
+    ],
+    "A59460-e27580": [
+      "theodosia"
+    ],
+    "A59460-e27610": [
+      "selfish"
+    ],
+    "A59460-e27640": [
+      "theodosia"
+    ],
+    "A59460-e27670": [
+      "selfish"
+    ],
+    "A59460-e27730": [
+      "theodosia"
+    ],
+    "A59460-e27760": [
+      "young-maggot"
+    ],
+    "A59460-e27810": [
+      "prig"
+    ],
+    "A59460-e27840": [
+      "theodosia"
+    ],
+    "A59460-e27870": [
+      "young-maggot"
+    ],
+    "A59460-e27900": [
+      "prig"
+    ],
+    "A59460-e27930": [
+      "theodosia"
+    ],
+    "A59460-e27960": [
+      "young-maggot"
+    ],
+    "A59460-e27990": [
+      "prig"
+    ],
+    "A59460-e28020": [
+      "young-maggot"
+    ],
+    "A59460-e28050": [
+      "prig"
+    ],
+    "A59460-e28080": [
+      "theodosia"
+    ],
+    "A59460-e28110": [
+      "prig"
+    ],
+    "A59460-e28140": [
+      "selfish"
+    ],
+    "A59460-e28170": [
+      "prig"
+    ],
+    "A59460-e28210": [
+      "young-maggot"
+    ],
+    "A59460-e28240": [
+      "prig"
+    ],
+    "A59460-e28270": [
+      "theodosia"
+    ],
+    "A59460-e28310": [
+      "prig"
+    ],
+    "A59460-e28340": [
+      "selfish"
+    ],
+    "A59460-e28370": [
+      "young-maggot"
+    ],
+    "A59460-e28400": [
+      "theodosia"
+    ],
+    "A59460-e28430": [
+      "young-maggot"
+    ],
+    "A59460-e28460": [
+      "prig"
+    ],
+    "A59460-e28490": [
+      "carlos"
+    ],
+    "A59460-e28530": [
+      "gartrude"
+    ],
+    "A59460-e28570": [
+      "carlos"
+    ],
+    "A59460-e28620": [
+      "gartrude"
+    ],
+    "A59460-e28670": [
+      "carlos"
+    ],
+    "A59460-e28740": [
+      "prig"
+    ],
+    "A59460-e28770": [
+      "selfish"
+    ],
+    "A59460-e28800": [
+      "prig"
+    ],
+    "A59460-e28830": [
+      "carlos"
+    ],
+    "A59460-e28860": [
+      "prig"
+    ],
+    "A59460-e28900": [
+      "theodosia"
+    ],
+    "A59460-e28930": [
+      "prig"
+    ],
+    "A59460-e28960": [
+      "carlos"
+    ],
+    "A59460-e28990": [
+      "prig"
+    ],
+    "A59460-e29050": [
+      "theodosia"
+    ],
+    "A59460-e29080": [
+      "carlos"
+    ],
+    "A59460-e29110": [
+      "theodosia"
+    ],
+    "A59460-e29140": [
+      "carlos"
+    ],
+    "A59460-e29170": [
+      "theodosia"
+    ],
+    "A59460-e29200": [
+      "carlos"
+    ],
+    "A59460-e29230": [
+      "theodosia"
+    ],
+    "A59460-e29260": [
+      "carlos"
+    ],
+    "A59460-e29290": [
+      "selfish"
+    ],
+    "A59460-e29320": [
+      "carlos"
+    ],
+    "A59460-e29400": [
+      "carlos"
+    ],
+    "A59460-e29430": [
+      "theodosia"
+    ],
+    "A59460-e29460": [
+      "carlos"
+    ],
+    "A59460-e29490": [
+      "theodosia"
+    ],
+    "A59460-e29520": [
+      "carlos"
+    ],
+    "A59460-e29550": [
+      "theodosia"
+    ],
+    "A59460-e29580": [
+      "carlos"
+    ],
+    "A59460-e29610": [
+      "theodosia"
+    ],
+    "A59460-e29640": [
+      "carlos"
+    ],
+    "A59460-e29670": [
+      "theodosia"
+    ],
+    "A59460-e29700": [
+      "carlos"
+    ],
+    "A59460-e29730": [
+      "theodosia"
+    ],
+    "A59460-e29760": [
+      "carlos"
+    ],
+    "A59460-e29790": [
+      "theodosia"
+    ],
+    "A59460-e29820": [
+      "carlos"
+    ],
+    "A59460-e29850": [
+      "theodosia"
+    ],
+    "A59460-e29890": [
+      "carlos"
+    ],
+    "A59460-e29930": [
+      "theodosia"
+    ],
+    "A59460-e29960": [
+      "carlos"
+    ],
+    "A59460-e29990": [
+      "theodosia"
+    ],
+    "A59460-e30020": [
+      "selfish"
+    ],
+    "A59460-e30060": [
+      "theodosia"
+    ],
+    "A59460-e30090": [
+      "gartrude"
+    ],
+    "A59460-e30150": [
+      "young-maggot"
+    ],
+    "A59460-e30190": [
+      "old-maggot"
+    ],
+    "A59460-e30220": [
+      "young-maggot"
+    ],
+    "A59460-e30250": [
+      "old-maggot"
+    ],
+    "A59460-e30280": [
+      "young-maggot"
+    ],
+    "A59460-e30310": [
+      "theodosia"
+    ],
+    "A59460-e30340": [
+      "young-maggot"
+    ],
+    "A59460-e30370": [
+      "old-maggot"
+    ],
+    "A59460-e30410": [
+      "young-maggot"
+    ],
+    "A59460-e30440": [
+      "old-maggot"
+    ],
+    "A59460-e30490": [
+      "carlos"
+    ],
+    "A59460-e30520": [
+      "young-maggot"
+    ],
+    "A59460-e30560": [
+      "old-maggot"
+    ],
+    "A59460-e30590": [
+      "young-maggot"
+    ],
+    "A59460-e30630": [
+      "old-maggot"
+    ],
+    "A59460-e30670": [
+      "young-maggot"
+    ],
+    "A59460-e30700": [
+      "selfish"
+    ],
+    "A59460-e30740": [
+      "old-maggot"
+    ],
+    "A59460-e30820": [
+      "young-maggot"
+    ],
+    "A59460-e30850": [
+      "theodosia"
+    ],
+    "A59460-e30880": [
+      "gartrude"
+    ],
+    "A59460-e30910": [
+      "old-maggot"
+    ],
+    "A59460-e30960": [
+      "young-maggot"
+    ],
+    "A59460-e31010": [
+      "carlos"
+    ],
+    "A59460-e31040": [
+      "selfish"
+    ],
+    "A59460-e31140": [
+      "selfish"
+    ],
+    "A59460-e31180": [
+      "gartrude"
+    ],
+    "A59460-e31210": [
+      "selfish"
+    ],
+    "A59460-e31240": [
+      "gartrude"
+    ],
+    "A59460-e31270": [
+      "selfish"
+    ],
+    "A59460-e31300": [
+      "carlos"
+    ],
+    "A59460-e31330": [
+      "theodosia"
+    ],
+    "A59460-e31380": [
+      "carlos"
+    ],
+    "A59460-e31410": [
+      "bellamour"
+    ],
+    "A59460-e31460": [
+      "stanmore"
+    ],
+    "A59460-e31500": [
+      "young-maggot"
+    ],
+    "A59460-e31540": [
+      "selfish"
+    ],
+    "A59460-e31600": [
+      "carlos"
+    ],
+    "A59460-e31630": [
+      "door-keeper"
+    ],
+    "A59460-e31660": [
+      "carlos"
+    ],
+    "A59460-e31710": [
+      "prig"
+    ],
+    "A59460-e31740": [
+      "lady-cheatly"
+    ],
+    "A59460-e31770": [
+      "prig"
+    ],
+    "A59460-e31800": [
+      "lady-cheatly"
+    ],
+    "A59460-e31850": [
+      "orange-woman"
+    ],
+    "A59460-e31880": [
+      "bully"
+    ],
+    "A59460-e31920": [
+      "prig"
+    ],
+    "A59460-e31950": [
+      "selfish"
+    ],
+    "A59460-e31980": [
+      "carlos"
+    ],
+    "A59460-e32020": [
+      "door-keeper"
+    ],
+    "A59460-e32050": [
+      "selfish"
+    ],
+    "A59460-e32090": [
+      "bellamour"
+    ],
+    "A59460-e32140": [
+      "young-maggot"
+    ],
+    "A59460-e32170": [
+      "bully"
+    ],
+    "A59460-e32210": [
+      "man-2"
+    ],
+    "A59460-e32250": [
+      "man-3"
+    ],
+    "A59460-e32310": [
+      "man-1"
+    ],
+    "A59460-e32360": [
+      "young-maggot"
+    ],
+    "A59460-e32390": [
+      "prig"
+    ],
+    "A59460-e32430": [
+      "door-keeper"
+    ],
+    "A59460-e32460": [
+      "man-3"
+    ],
+    "A59460-e32500": [
+      "door-keeper"
+    ],
+    "A59460-e32540": [
+      "man-4"
+    ],
+    "A59460-e32580": [
+      "door-keeper"
+    ],
+    "A59460-e32620": [
+      "man-4"
+    ],
+    "A59460-e32660": [
+      "door-keeper"
+    ],
+    "A59460-e32700": [
+      "man-3"
+    ],
+    "A59460-e32740": [
+      "theodosia"
+    ],
+    "A59460-e32770": [
+      "carlos"
+    ],
+    "A59460-e32800": [
+      "door-keeper"
+    ],
+    "A59460-e32860": [
+      "carlos"
+    ],
+    "A59460-e32900": [
+      "young-maggot"
+    ],
+    "A59460-e32930": [
+      "prig"
+    ],
+    "A59460-e32980": [
+      "selfish"
+    ],
+    "A59460-e33010": [
+      "bellamour"
+    ],
+    "A59460-e33040": [
+      "stanmore"
+    ],
+    "A59460-e33070": [
+      "young-maggot"
+    ],
+    "A59460-e33110": [
+      "selfish"
+    ],
+    "A59460-e33180": [
+      "lover-1"
+    ],
+    "A59460-e33210": [
+      "wife"
+    ],
+    "A59460-e33240": [
+      "lover-1"
+    ],
+    "A59460-e33270": [
+      "wife"
+    ],
+    "A59460-e33300": [
+      "lover-1"
+    ],
+    "A59460-e33330": [
+      "wife"
+    ],
+    "A59460-e33360": [
+      "lover-1"
+    ],
+    "A59460-e33390": [
+      "theodosia"
+    ],
+    "A59460-e33420": [
+      "carlos"
+    ],
+    "A59460-e33450": [
+      "young-maggot"
+    ],
+    "A59460-e33480": [
+      "selfish"
+    ],
+    "A59460-e33510": [
+      "prig"
+    ],
+    "A59460-e33540": [
+      "young-maggot"
+    ],
+    "A59460-e33570": [
+      "man-1"
+    ],
+    "A59460-e33610": [
+      "man-2"
+    ],
+    "A59460-e33650": [
+      "man-1"
+    ],
+    "A59460-e33690": [
+      "lover-1"
+    ],
+    "A59460-e33720": [
+      "wife"
+    ],
+    "A59460-e33750": [
+      "lover-1"
+    ],
+    "A59460-e33780": [
+      "wife"
+    ],
+    "A59460-e33840": [
+      "bellamour"
+    ],
+    "A59460-e33880": [
+      "young-maggot"
+    ],
+    "A59460-e33910": [
+      "selfish"
+    ],
+    "A59460-e33950": [
+      "bellamour"
+    ],
+    "A59460-e33980": [
+      "carlos"
+    ],
+    "A59460-e34010": [
+      "theodosia"
+    ],
+    "A59460-e34040": [
+      "husband"
+    ],
+    "A59460-e34090": [
+      "stanmore"
+    ],
+    "A59460-e34120": [
+      "man-1"
+    ],
+    "A59460-e34160": [
+      "man-2"
+    ],
+    "A59460-e34210": [
+      "man-3"
+    ],
+    "A59460-e34250": [
+      "man-4"
+    ],
+    "A59460-e34290": [
+      "selfish"
+    ],
+    "A59460-e34320": [
+      "prig"
+    ],
+    "A59460-e34390": [
+      "lover-2"
+    ],
+    "A59460-e34450": [
+      "lover-1"
+    ],
+    "A59460-e34490": [
+      "wife"
+    ],
+    "A59460-e34520": [
+      "lover-2"
+    ],
+    "A59460-e34590": [
+      "wife"
+    ],
+    "A59460-e34620": [
+      "lover-1"
+    ],
+    "A59460-e34660": [
+      "young-maggot"
+    ],
+    "A59460-e34690": [
+      "husband"
+    ],
+    "A59460-e34730": [
+      "wife"
+    ],
+    "A59460-e34760": [
+      "young-maggot"
+    ],
+    "A59460-e34790": [
+      "lover-1"
+    ],
+    "A59460-e34830": [
+      "husband"
+    ],
+    "A59460-e34860": [
+      "wife"
+    ],
+    "A59460-e34890": [
+      "husband"
+    ],
+    "A59460-e34920": [
+      "wife"
+    ],
+    "A59460-e34950": [
+      "husband"
+    ],
+    "A59460-e34980": [
+      "wife"
+    ],
+    "A59460-e35010": [
+      "husband"
+    ],
+    "A59460-e35040": [
+      "wife"
+    ],
+    "A59460-e35070": [
+      "lover-1"
+    ],
+    "A59460-e35110": [
+      "husband"
+    ],
+    "A59460-e35140": [
+      "wife"
+    ],
+    "A59460-e35170": [
+      "husband"
+    ],
+    "A59460-e35200": [
+      "wife"
+    ],
+    "A59460-e35230": [
+      "husband"
+    ],
+    "A59460-e35260": [
+      "wife"
+    ],
+    "A59460-e35290": [
+      "husband"
+    ],
+    "A59460-e35320": [
+      "wife"
+    ],
+    "A59460-e35350": [
+      "husband"
+    ],
+    "A59460-e35380": [
+      "lover-2"
+    ],
+    "A59460-e35440": [
+      "lover-2"
+    ],
+    "A59460-e35480": [
+      "wife"
+    ],
+    "A59460-e35510": [
+      "husband"
+    ],
+    "A59460-e35540": [
+      "young-maggot"
+    ],
+    "A59460-e35570": [
+      "husband"
+    ],
+    "A59460-e35600": [
+      "wife"
+    ],
+    "A59460-e35630": [
+      "husband"
+    ],
+    "A59460-e35660": [
+      "wife"
+    ],
+    "A59460-e35690": [
+      "selfish"
+    ],
+    "A59460-e35730": [
+      "selfish"
+    ],
+    "A59460-e35760": [
+      "bellamour"
+    ],
+    "A59460-e35790": [
+      "lover-2"
+    ],
+    "A59460-e35840": [
+      "lover-1"
+    ],
+    "A59460-e35890": [
+      "lover-2"
+    ],
+    "A59460-e35940": [
+      "husband"
+    ],
+    "A59460-e36000": [
+      "man-1"
+    ],
+    "A59460-e36060": [
+      "man-2"
+    ],
+    "A59460-e36110": [
+      "carlos"
+    ],
+    "A59460-e36160": [
+      "selfish"
+    ],
+    "A59460-e36200": [
+      "bellamour"
+    ],
+    "A59460-e36260": [
+      "carlos"
+    ],
+    "A59460-e36330": [
+      "theodosia"
+    ],
+    "A59460-e36360": [
+      "carlos"
+    ],
+    "A59460-e36390": [
+      "theodosia"
+    ],
+    "A59460-e36420": [
+      "carlos"
+    ],
+    "A59460-e36450": [
+      "selfish"
+    ],
+    "A59460-e36490": [
+      "carlos"
+    ],
+    "A59460-e36520": [
+      "gartrude"
+    ],
+    "A59460-e36560": [
+      "carlos"
+    ],
+    "A59460-e36590": [
+      "lady-busy"
+    ],
+    "A59460-e36620": [
+      "lady-cheatly"
+    ],
+    "A59460-e36650": [
+      "theodosia"
+    ],
+    "A59460-e36690": [
+      "carlos"
+    ],
+    "A59460-e36720": [
+      "selfish"
+    ],
+    "A59460-e36790": [
+      "actor"
+    ],
+    "A59460-e36820": [
+      "carlos"
+    ],
+    "A59460-e36860": [
+      "theodosia"
+    ],
+    "A59460-e36890": [
+      "carlos"
+    ],
+    "A59460-e36920": [
+      "theodosia"
+    ],
+    "A59460-e36950": [
+      "carlos"
+    ],
+    "A59460-e36980": [
+      "theodosia"
+    ],
+    "A59460-e37050": [
+      "selfish"
+    ],
+    "A59460-e37080": [
+      "gartrude"
+    ],
+    "A59460-e37110": [
+      "selfish"
+    ],
+    "A59460-e37140": [
+      "gartrude"
+    ],
+    "A59460-e37170": [
+      "selfish"
+    ],
+    "A59460-e37200": [
+      "gartrude"
+    ],
+    "A59460-e37230": [
+      "selfish"
+    ],
+    "A59460-e37260": [
+      "gartrude"
+    ],
+    "A59460-e37290": [
+      "selfish"
+    ],
+    "A59460-e37390": [
+      "bellamour"
+    ],
+    "A59460-e37490": [
+      "stanmore"
+    ],
+    "A59460-e37520": [
+      "selfish"
+    ],
+    "A59460-e37600": [
+      "theodosia"
+    ],
+    "A59460-e37630": [
+      "selfish"
+    ],
+    "A59460-e37700": [
+      "old-maggot"
+    ],
+    "A59460-e37740": [
+      "lady-cheatly"
+    ],
+    "A59460-e37770": [
+      "old-maggot"
+    ],
+    "A59460-e37800": [
+      "prig"
+    ],
+    "A59460-e37840": [
+      "old-maggot"
+    ],
+    "A59460-e37870": [
+      "prig"
+    ],
+    "A59460-e37900": [
+      "old-maggot"
+    ],
+    "A59460-e37930": [
+      "lady-cheatly"
+    ],
+    "A59460-e37970": [
+      "prig"
+    ],
+    "A59460-e38020": [
+      "young-maggot"
+    ],
+    "A59460-e38050": [
+      "carlos"
+    ],
+    "A59460-e38080": [
+      "young-maggot"
+    ],
+    "A59460-e38110": [
+      "lady-cheatly"
+    ],
+    "A59460-e38140": [
+      "carpenter"
+    ],
+    "A59460-e38170": [
+      "lady-cheatly"
+    ],
+    "A59460-e38230": [
+      "lady-cheatly"
+    ],
+    "A59460-e38260": [
+      "lump"
+    ],
+    "A59460-e38290": [
+      "lady-cheatly"
+    ],
+    "A59460-e38320": [
+      "lump"
+    ],
+    "A59460-e38350": [
+      "lady-cheatly"
+    ],
+    "A59460-e38380": [
+      "lump"
+    ],
+    "A59460-e38410": [
+      "carlos"
+    ],
+    "A59460-e38440": [
+      "lump"
+    ],
+    "A59460-e38480": [
+      "young-maggot"
+    ],
+    "A59460-e38510": [
+      "lump"
+    ],
+    "A59460-e38540": [
+      "young-maggot"
+    ],
+    "A59460-e38570": [
+      "lump"
+    ],
+    "A59460-e38630": [
+      "young-maggot"
+    ],
+    "A59460-e38660": [
+      "prig"
+    ],
+    "A59460-e38700": [
+      "lady-cheatly"
+    ],
+    "A59460-e38730": [
+      "young-maggot"
+    ],
+    "A59460-e38790": [
+      "lady-cheatly"
+    ],
+    "A59460-e38840": [
+      "prig"
+    ],
+    "A59460-e38870": [
+      "young-maggot"
+    ],
+    "A59460-e38920": [
+      "prig"
+    ],
+    "A59460-e38950": [
+      "young-maggot"
+    ],
+    "A59460-e38980": [
+      "prig"
+    ],
+    "A59460-e39010": [
+      "young-maggot"
+    ],
+    "A59460-e39060": [
+      "bellamour"
+    ],
+    "A59460-e39100": [
+      "prig"
+    ],
+    "A59460-e39140": [
+      "young-maggot"
+    ],
+    "A59460-e39170": [
+      "bellamour"
+    ],
+    "A59460-e39220": [
+      "selfish"
+    ],
+    "A59460-e39260": [
+      "bellamour"
+    ],
+    "A59460-e39320": [
+      "selfish"
+    ],
+    "A59460-e39350": [
+      "bellamour"
+    ],
+    "A59460-e39390": [
+      "selfish"
+    ],
+    "A59460-e39420": [
+      "selfish"
+    ],
+    "A59460-e39450": [
+      "bellamour"
+    ],
+    "A59460-e39480": [
+      "selfish"
+    ],
+    "A59460-e39530": [
+      "selfish"
+    ],
+    "A59460-e39560": [
+      "bellamour"
+    ],
+    "A59460-e39590": [
+      "carpenter"
+    ],
+    "A59460-e39620": [
+      "bellamour"
+    ],
+    "A59460-e39650": [
+      "prig"
+    ],
+    "A59460-e39680": [
+      "young-maggot"
+    ],
+    "A59460-e39730": [
+      "bellamour"
+    ],
+    "A59460-e39760": [
+      "selfish"
+    ],
+    "A59460-e39790": [
+      "bellamour"
+    ],
+    "A59460-e39820": [
+      "selfish"
+    ],
+    "A59460-e39850": [
+      "bellamour"
+    ],
+    "A59460-e39890": [
+      "selfish"
+    ],
+    "A59460-e39930": [
+      "bellamour"
+    ],
+    "A59460-e39960": [
+      "selfish"
+    ],
+    "A59460-e39990": [
+      "bellamour"
+    ],
+    "A59460-e40020": [
+      "selfish"
+    ],
+    "A59460-e40050": [
+      "bellamour"
+    ],
+    "A59460-e40130": [
+      "selfish"
+    ],
+    "A59460-e40160": [
+      "bellamour"
+    ],
+    "A59460-e40190": [
+      "selfish"
+    ],
+    "A59460-e40240": [
+      "bellamour"
+    ],
+    "A59460-e40290": [
+      "stanmore"
+    ],
+    "A59460-e40320": [
+      "gartrude"
+    ],
+    "A59460-e40350": [
+      "stanmore"
+    ],
+    "A59460-e40380": [
+      "gartrude"
+    ],
+    "A59460-e40440": [
+      "stanmore"
+    ],
+    "A59460-e40490": [
+      "old-maggot"
+    ],
+    "A59460-e40540": [
+      "gartrude"
+    ],
+    "A59460-e40570": [
+      "lady-cheatly"
+    ],
+    "A59460-e40600": [
+      "gartrude"
+    ],
+    "A59460-e40640": [
+      "lady-cheatly"
+    ],
+    "A59460-e40670": [
+      "gartrude"
+    ],
+    "A59460-e40700": [
+      "lady-cheatly"
+    ],
+    "A59460-e40730": [
+      "lady-busy"
+    ],
+    "A59460-e40780": [
+      "gartrude"
+    ],
+    "A59460-e40810": [
+      "lady-cheatly"
+    ],
+    "A59460-e40850": [
+      "lady-busy"
+    ],
+    "A59460-e40950": [
+      "stanmore"
+    ],
+    "A59460-e40980": [
+      "lady-busy"
+    ],
+    "A59460-e41050": [
+      "stanmore"
+    ],
+    "A59460-e41080": [
+      "lady-busy"
+    ],
+    "A59460-e41120": [
+      "stanmore"
+    ],
+    "A59460-e41150": [
+      "lady-busy"
+    ],
+    "A59460-e41210": [
+      "stanmore"
+    ],
+    "A59460-e41260": [
+      "lady-busy"
+    ],
+    "A59460-e41300": [
+      "stanmore"
+    ],
+    "A59460-e41340": [
+      "lady-busy"
+    ],
+    "A59460-e41380": [
+      "stanmore"
+    ],
+    "A59460-e41430": [
+      "lady-busy"
+    ],
+    "A59460-e41470": [
+      "stanmore"
+    ],
+    "A59460-e41500": [
+      "gartrude"
+    ],
+    "A59460-e41530": [
+      "lady-busy"
+    ],
+    "A59460-e41560": [
+      "stanmore"
+    ],
+    "A59460-e41590": [
+      "lady-busy"
+    ],
+    "A59460-e41620": [
+      "stanmore"
+    ],
+    "A59460-e41650": [
+      "gartrude"
+    ],
+    "A59460-e41680": [
+      "lady-busy"
+    ],
+    "A59460-e41730": [
+      "gartrude"
+    ],
+    "A59460-e41760": [
+      "lady-busy"
+    ],
+    "A59460-e41790": [
+      "stanmore"
+    ],
+    "A59460-e41830": [
+      "lady-busy"
+    ],
+    "A59460-e41860": [
+      "gartrude"
+    ],
+    "A59460-e41890": [
+      "stanmore"
+    ],
+    "A59460-e41920": [
+      "gartrude"
+    ],
+    "A59460-e41950": [
+      "stanmore"
+    ],
+    "A59460-e41980": [
+      "lady-busy"
+    ],
+    "A59460-e42020": [
+      "stanmore"
+    ],
+    "A59460-e42080": [
+      "lady-busy"
+    ],
+    "A59460-e42120": [
+      "gartrude"
+    ],
+    "A59460-e42160": [
+      "lady-busy"
+    ],
+    "A59460-e42210": [
+      "gartrude"
+    ],
+    "A59460-e42240": [
+      "lady-busy"
+    ],
+    "A59460-e42380": [
+      "prig"
+    ],
+    "A59460-e42520": [
+      "lady-cheatly"
+    ],
+    "A59460-e42560": [
+      "prig"
+    ],
+    "A59460-e42600": [
+      "lady-cheatly"
+    ],
+    "A59460-e42680": [
+      "steward"
+    ],
+    "A59460-e42730": [
+      "lady-cheatly"
+    ],
+    "A59460-e42770": [
+      "steward"
+    ],
+    "A59460-e42800": [
+      "prig"
+    ],
+    "A59460-e42830": [
+      "steward"
+    ],
+    "A59460-e42880": [
+      "lady-cheatly"
+    ],
+    "A59460-e42920": [
+      "steward"
+    ],
+    "A59460-e42960": [
+      "prig"
+    ],
+    "A59460-e42990": [
+      "steward"
+    ],
+    "A59460-e43020": [
+      "prig"
+    ],
+    "A59460-e43050": [
+      "lady-cheatly"
+    ],
+    "A59460-e43090": [
+      "steward"
+    ],
+    "A59460-e43130": [
+      "lady-cheatly"
+    ],
+    "A59460-e43170": [
+      "prig"
+    ],
+    "A59460-e43240": [
+      "steward"
+    ],
+    "A59460-e43270": [
+      "lady-cheatly"
+    ],
+    "A59460-e43330": [
+      "steward"
+    ],
+    "A59460-e43360": [
+      "lady-cheatly"
+    ],
+    "A59460-e43400": [
+      "steward"
+    ],
+    "A59460-e43430": [
+      "lady-cheatly"
+    ],
+    "A59460-e43460": [
+      "steward"
+    ],
+    "A59460-e43520": [
+      "lady-cheatly"
+    ],
+    "A59460-e43560": [
+      "steward"
+    ],
+    "A59460-e43590": [
+      "prig"
+    ],
+    "A59460-e43620": [
+      "steward"
+    ],
+    "A59460-e43650": [
+      "prig"
+    ],
+    "A59460-e43680": [
+      "lady-cheatly"
+    ],
+    "A59460-e43710": [
+      "steward"
+    ],
+    "A59460-e43740": [
+      "prig"
+    ],
+    "A59460-e43770": [
+      "lady-cheatly"
+    ],
+    "A59460-e43800": [
+      "steward"
+    ],
+    "A59460-e43830": [
+      "prig"
+    ],
+    "A59460-e43860": [
+      "steward"
+    ],
+    "A59460-e43890": [
+      "prig"
+    ],
+    "A59460-e43920": [
+      "steward"
+    ],
+    "A59460-e43970": [
+      "prig"
+    ],
+    "A59460-e44000": [
+      "lady-cheatly"
+    ],
+    "A59460-e44030": [
+      "prig"
+    ],
+    "A59460-e44080": [
+      "lady-cheatly"
+    ],
+    "A59460-e44160": [
+      "old-maggot"
+    ],
+    "A59460-e44200": [
+      "lady-cheatly"
+    ],
+    "A59460-e44240": [
+      "old-maggot"
+    ],
+    "A59460-e44280": [
+      "lady-cheatly"
+    ],
+    "A59460-e44350": [
+      "lady-busy"
+    ],
+    "A59460-e44430": [
+      "lady-busy"
+    ],
+    "A59460-e44500": [
+      "young-maggot"
+    ],
+    "A59460-e44540": [
+      "lady-busy"
+    ],
+    "A59460-e44580": [
+      "young-maggot"
+    ],
+    "A59460-e44630": [
+      "lady-busy"
+    ],
+    "A59460-e44670": [
+      "young-maggot"
+    ],
+    "A59460-e44700": [
+      "lady-busy"
+    ],
+    "A59460-e44740": [
+      "young-maggot"
+    ],
+    "A59460-e44780": [
+      "lady-busy"
+    ],
+    "A59460-e44820": [
+      "young-maggot"
+    ],
+    "A59460-e44850": [
+      "lady-busy"
+    ],
+    "A59460-e44890": [
+      "young-maggot"
+    ],
+    "A59460-e44920": [
+      "lady-busy"
+    ],
+    "A59460-e44960": [
+      "young-maggot"
+    ],
+    "A59460-e45000": [
+      "lady-busy"
+    ],
+    "A59460-e45060": [
+      "young-maggot"
+    ],
+    "A59460-e45120": [
+      "lady-busy"
+    ],
+    "A59460-e45160": [
+      "young-maggot"
+    ],
+    "A59460-e45190": [
+      "lady-busy"
+    ],
+    "A59460-e45230": [
+      "young-maggot"
+    ],
+    "A59460-e45280": [
+      "lady-busy"
+    ],
+    "A59460-e45340": [
+      "young-maggot"
+    ],
+    "A59460-e45370": [
+      "gartrude"
+    ],
+    "A59460-e45400": [
+      "young-maggot"
+    ],
+    "A59460-e45430": [
+      "gartrude"
+    ],
+    "A59460-e45460": [
+      "lady-busy"
+    ],
+    "A59460-e45520": [
+      "young-maggot"
+    ],
+    "A59460-e45550": [
+      "gartrude"
+    ],
+    "A59460-e45580": [
+      "lady-busy"
+    ],
+    "A59460-e45670": [
+      "selfish"
+    ],
+    "A59460-e45710": [
+      "selfish"
+    ],
+    "A59460-e45740": [
+      "selfish"
+    ],
+    "A59460-e45770": [
+      "selfish"
+    ],
+    "A59460-e45800": [
+      "selfish"
+    ],
+    "A59460-e45830": [
+      "selfish"
+    ],
+    "A59460-e45870": [
+      "selfish"
+    ],
+    "A59460-e45930": [
+      "selfish"
+    ],
+    "A59460-e45980": [
+      "bellamour"
+    ],
+    "A59460-e46020": [
+      "selfish"
+    ],
+    "A59460-e46060": [
+      "selfish"
+    ],
+    "A59460-e46100": [
+      "bellamour"
+    ],
+    "A59460-e46130": [
+      "selfish"
+    ],
+    "A59460-e46160": [
+      "bellamour"
+    ],
+    "A59460-e46220": [
+      "theodosia"
+    ],
+    "A59460-e46250": [
+      "carlos"
+    ],
+    "A59460-e46280": [
+      "theodosia"
+    ],
+    "A59460-e46320": [
+      "carlos"
+    ],
+    "A59460-e46350": [
+      "theodosia"
+    ],
+    "A59460-e46380": [
+      "carlos"
+    ],
+    "A59460-e46410": [
+      "theodosia"
+    ],
+    "A59460-e46440": [
+      "carlos"
+    ],
+    "A59460-e46470": [
+      "theodosia"
+    ],
+    "A59460-e46500": [
+      "carlos"
+    ],
+    "A59460-e46530": [
+      "theodosia"
+    ],
+    "A59460-e46570": [
+      "carlos"
+    ],
+    "A59460-e46600": [
+      "theodosia"
+    ],
+    "A59460-e46630": [
+      "carlos"
+    ],
+    "A59460-e46660": [
+      "theodosia"
+    ],
+    "A59460-e46690": [
+      "carlos"
+    ],
+    "A59460-e46720": [
+      "theodosia"
+    ],
+    "A59460-e46780": [
+      "selfish"
+    ],
+    "A59460-e46810": [
+      "carlos"
+    ],
+    "A59460-e46840": [
+      "carlos"
+    ],
+    "A59460-e46870": [
+      "theodosia"
+    ],
+    "A59460-e46900": [
+      "selfish"
+    ],
+    "A59460-e46930": [
+      "carlos"
+    ],
+    "A59460-e46960": [
+      "theodosia"
+    ],
+    "A59460-e47000": [
+      "carlos"
+    ],
+    "A59460-e47070": [
+      "bellamour"
+    ],
+    "A59460-e47100": [
+      "selfish"
+    ],
+    "A59460-e47150": [
+      "bellamour"
+    ],
+    "A59460-e47180": [
+      "selfish"
+    ],
+    "A59460-e47220": [
+      "bellamour"
+    ],
+    "A59460-e47280": [
+      "bellamour"
+    ],
+    "A59460-e47310": [
+      "selfish"
+    ],
+    "A59460-e47360": [
+      "bellamour"
+    ],
+    "A59460-e47390": [
+      "selfish"
+    ],
+    "A59460-e47480": [
+      "bellamour"
+    ],
+    "A59460-e47510": [
+      "selfish"
+    ],
+    "A59460-e47550": [
+      "bellamour"
+    ],
+    "A59460-e47580": [
+      "selfish"
+    ],
+    "A59460-e47610": [
+      "bellamour"
+    ],
+    "A59460-e47670": [
+      "selfish"
+    ],
+    "A59460-e47750": [
+      "lady-cheatly"
+    ],
+    "A59460-e47780": [
+      "old-maggot"
+    ],
+    "A59460-e47810": [
+      "lady-cheatly"
+    ],
+    "A59460-e47840": [
+      "old-maggot"
+    ],
+    "A59460-e47870": [
+      "lady-cheatly"
+    ],
+    "A59460-e47940": [
+      "prig"
+    ],
+    "A59460-e47970": [
+      "old-maggot"
+    ],
+    "A59460-e48000": [
+      "prig"
+    ],
+    "A59460-e48030": [
+      "lady-cheatly"
+    ],
+    "A59460-e48070": [
+      "prig"
+    ],
+    "A59460-e48110": [
+      "old-maggot"
+    ],
+    "A59460-e48160": [
+      "scrivener-1"
+    ],
+    "A59460-e48210": [
+      "scrivener-2"
+    ],
+    "A59460-e48250": [
+      "lady-cheatly"
+    ],
+    "A59460-e48280": [
+      "scrivener-1"
+    ],
+    "A59460-e48320": [
+      "scrivener-2"
+    ],
+    "A59460-e48360": [
+      "lady-cheatly"
+    ],
+    "A59460-e48390": [
+      "old-maggot"
+    ],
+    "A59460-e48420": [
+      "prig"
+    ],
+    "A59460-e48450": [
+      "lady-cheatly"
+    ],
+    "A59460-e48480": [
+      "prig"
+    ],
+    "A59460-e48510": [
+      "lady-cheatly"
+    ],
+    "A59460-e48560": [
+      "citizen-1"
+    ],
+    "A59460-e48600": [
+      "citizen-2"
+    ],
+    "A59460-e48640": [
+      "citizen-1"
+    ],
+    "A59460-e48680": [
+      "citizen-2"
+    ],
+    "A59460-e48720": [
+      "lady-cheatly"
+    ],
+    "A59460-e48750": [
+      "citizen-2"
+    ],
+    "A59460-e48790": [
+      "prig"
+    ],
+    "A59460-e48820": [
+      "old-maggot"
+    ],
+    "A59460-e48850": [
+      "scrivener-2"
+    ],
+    "A59460-e48890": [
+      "citizen-2"
+    ],
+    "A59460-e48950": [
+      "lump"
+    ],
+    "A59460-e48980": [
+      "lady-cheatly"
+    ],
+    "A59460-e49030": [
+      "lump"
+    ],
+    "A59460-e49090": [
+      "scrivener-1"
+    ],
+    "A59460-e49130": [
+      "citizen-1"
+    ],
+    "A59460-e49170": [
+      "old-maggot"
+    ],
+    "A59460-e49200": [
+      "lump"
+    ],
+    "A59460-e49250": [
+      "citizen-1"
+    ],
+    "A59460-e49290": [
+      "citizen-2"
+    ],
+    "A59460-e49330": [
+      "lump"
+    ],
+    "A59460-e49360": [
+      "lady-cheatly"
+    ],
+    "A59460-e49390": [
+      "lump"
+    ],
+    "A59460-e49420": [
+      "prig"
+    ],
+    "A59460-e49460": [
+      "steward"
+    ],
+    "A59460-e49500": [
+      "lady-cheatly"
+    ],
+    "A59460-e49530": [
+      "steward"
+    ],
+    "A59460-e49570": [
+      "lady-cheatly"
+    ],
+    "A59460-e49600": [
+      "steward"
+    ],
+    "A59460-e49630": [
+      "citizen-1"
+    ],
+    "A59460-e49670": [
+      "citizen-2"
+    ],
+    "A59460-e49710": [
+      "lady-cheatly"
+    ],
+    "A59460-e49740": [
+      "lump"
+    ],
+    "A59460-e49770": [
+      "steward"
+    ],
+    "A59460-e49800": [
+      "lump",
+      "lady-cheatly",
+      "prig",
+      "old-maggot",
+      "scrivener-1",
+      "citizen-1",
+      "citizen-2"
+    ],
+    "A59460-e49830": [
+      "steward"
+    ],
+    "A59460-e49870": [
+      "lady-cheatly"
+    ],
+    "A59460-e49900": [
+      "old-maggot"
+    ],
+    "A59460-e49930": [
+      "steward"
+    ],
+    "A59460-e49970": [
+      "old-maggot"
+    ],
+    "A59460-e50000": [
+      "steward"
+    ],
+    "A59460-e50030": [
+      "lady-cheatly"
+    ],
+    "A59460-e50080": [
+      "prig"
+    ],
+    "A59460-e50110": [
+      "lady-cheatly"
+    ],
+    "A59460-e50140": [
+      "lump"
+    ],
+    "A59460-e50170": [
+      "steward"
+    ],
+    "A59460-e50200": [
+      "old-maggot"
+    ],
+    "A59460-e50230": [
+      "citizen-1"
+    ],
+    "A59460-e50270": [
+      "citizen-2"
+    ],
+    "A59460-e50310": [
+      "steward"
+    ],
+    "A59460-e50340": [
+      "scrivener-1"
+    ],
+    "A59460-e50380": [
+      "scrivener-2"
+    ],
+    "A59460-e50420": [
+      "steward"
+    ],
+    "A59460-e50450": [
+      "lump"
+    ],
+    "A59460-e50480": [
+      "citizen-1"
+    ],
+    "A59460-e50520": [
+      "citizen-2"
+    ],
+    "A59460-e50560": [
+      "steward"
+    ],
+    "A59460-e50590": [
+      "lump"
+    ],
+    "A59460-e50630": [
+      "prig"
+    ],
+    "A59460-e50660": [
+      "scrivener-1"
+    ],
+    "A59460-e50700": [
+      "scrivener-2"
+    ],
+    "A59460-e50760": [
+      "sergeant"
+    ],
+    "A59460-e50810": [
+      "steward"
+    ],
+    "A59460-e50840": [
+      "lady-cheatly"
+    ],
+    "A59460-e50870": [
+      "citizen-2"
+    ],
+    "A59460-e50910": [
+      "lump",
+      "lady-cheatly",
+      "prig",
+      "old-maggot",
+      "scrivener-1",
+      "citizen-1",
+      "citizen-2",
+      "scrivener-2",
+      "sergeant"
+    ],
+    "A59460-e50940": [
+      "lump"
+    ],
+    "A59460-e50970": [
+      "lady-cheatly"
+    ],
+    "A59460-e51020": [
+      "creditor-1"
+    ],
+    "A59460-e51060": [
+      "creditor-2"
+    ],
+    "A59460-e51110": [
+      "lady-cheatly"
+    ],
+    "A59460-e51140": [
+      "lump"
+    ],
+    "A59460-e51170": [
+      "lady-cheatly"
+    ],
+    "A59460-e51200": [
+      "creditor-1"
+    ],
+    "A59460-e51240": [
+      "prig"
+    ],
+    "A59460-e51270": [
+      "citizen-1"
+    ],
+    "A59460-e51310": [
+      "lump"
+    ],
+    "A59460-e51350": [
+      "lady-cheatly"
+    ],
+    "A59460-e51420": [
+      "selfish"
+    ],
+    "A59460-e51460": [
+      "bellamour"
+    ],
+    "A59460-e51490": [
+      "selfish"
+    ],
+    "A59460-e51520": [
+      "bellamour"
+    ],
+    "A59460-e51550": [
+      "selfish"
+    ],
+    "A59460-e51590": [
+      "bellamour"
+    ],
+    "A59460-e51620": [
+      "selfish"
+    ],
+    "A59460-e51660": [
+      "bellamour"
+    ],
+    "A59460-e51690": [
+      "selfish"
+    ],
+    "A59460-e51720": [
+      "bellamour"
+    ],
+    "A59460-e51750": [
+      "selfish"
+    ],
+    "A59460-e51780": [
+      "bellamour"
+    ],
+    "A59460-e51810": [
+      "selfish"
+    ],
+    "A59460-e51850": [
+      "bellamour"
+    ],
+    "A59460-e51880": [
+      "selfish"
+    ],
+    "A59460-e51920": [
+      "bellamour"
+    ],
+    "A59460-e51970": [
+      "lady-cheatly"
+    ],
+    "A59460-e52000": [
+      "bellamour"
+    ],
+    "A59460-e52030": [
+      "lady-cheatly"
+    ],
+    "A59460-e52090": [
+      "lady-busy"
+    ],
+    "A59460-e52120": [
+      "lady-cheatly"
+    ],
+    "A59460-e52180": [
+      "lady-busy"
+    ],
+    "A59460-e52210": [
+      "stanmore"
+    ],
+    "A59460-e52250": [
+      "young-maggot"
+    ],
+    "A59460-e52280": [
+      "lady-busy"
+    ],
+    "A59460-e52310": [
+      "lady-cheatly"
+    ],
+    "A59460-e52360": [
+      "selfish"
+    ],
+    "A59460-e52400": [
+      "gartrude"
+    ],
+    "A59460-e52430": [
+      "selfish"
+    ],
+    "A59460-e52460": [
+      "young-maggot"
+    ],
+    "A59460-e52490": [
+      "selfish"
+    ],
+    "A59460-e52540": [
+      "young-maggot"
+    ],
+    "A59460-e52580": [
+      "old-maggot"
+    ],
+    "A59460-e52620": [
+      "young-maggot"
+    ],
+    "A59460-e52650": [
+      "old-maggot"
+    ],
+    "A59460-e52680": [
+      "prig"
+    ],
+    "A59460-e52720": [
+      "old-maggot"
+    ],
+    "A59460-e52750": [
+      "prig"
+    ],
+    "A59460-e52780": [
+      "lady-cheatly"
+    ],
+    "A59460-e52810": [
+      "prig"
+    ],
+    "A59460-e52840": [
+      "old-maggot"
+    ],
+    "A59460-e52870": [
+      "lady-cheatly"
+    ],
+    "A59460-e52900": [
+      "prig"
+    ],
+    "A59460-e52930": [
+      "lady-cheatly"
+    ],
+    "A59460-e52970": [
+      "old-maggot"
+    ],
+    "A59460-e53000": [
+      "lady-cheatly"
+    ],
+    "A59460-e53030": [
+      "prig"
+    ],
+    "A59460-e53060": [
+      "old-maggot"
+    ],
+    "A59460-e53090": [
+      "young-maggot"
+    ],
+    "A59460-e53130": [
+      "prig"
+    ],
+    "A59460-e53170": [
+      "old-maggot"
+    ],
+    "A59460-e53200": [
+      "young-maggot"
+    ],
+    "A59460-e53230": [
+      "old-maggot"
+    ],
+    "A59460-e53290": [
+      "stanmore"
+    ],
+    "A59460-e53420": [
+      "old-maggot"
+    ],
+    "A59460-e53450": [
+      "lady-cheatly"
+    ],
+    "A59460-e53480": [
+      "old-maggot"
+    ],
+    "A59460-e53510": [
+      "theodosia"
+    ],
+    "A59460-e53540": [
+      "carlos"
+    ],
+    "A59460-e53570": [
+      "theodosia"
+    ],
+    "A59460-e53600": [
+      "carlos"
+    ],
+    "A59460-e53630": [
+      "selfish"
+    ],
+    "A59460-e53660": [
+      "theodosia"
+    ],
+    "A59460-e53690": [
+      "carlos"
+    ],
+    "A59460-e53720": [
+      "selfish"
+    ],
+    "A59460-e53750": [
+      "theodosia"
+    ],
+    "A59460-e53780": [
+      "carlos"
+    ],
+    "A59460-e53810": [
+      "theodosia"
+    ],
+    "A59460-e53840": [
+      "carlos"
+    ],
+    "A59460-e53870": [
+      "stanmore"
+    ],
+    "A59460-e53900": [
+      "selfish"
+    ],
+    "A59460-e53930": [
+      "lump"
+    ]
+  }
+}

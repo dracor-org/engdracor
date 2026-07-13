@@ -1,0 +1,1854 @@
+{
+  "particDesc": [
+    {
+      "name": "Priests",
+      "id": "priests",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Gentleman",
+      "id": "gentleman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Queen",
+      "id": "queen",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Keeper",
+      "id": "keeper",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rich Woman",
+      "id": "rich-woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 1",
+      "id": "woman-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Captain",
+      "id": "captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tereus",
+      "id": "tereus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tantalus",
+      "id": "tantalus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Megaera",
+      "id": "megaera",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "atreus",
+      "name": "Atreus ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "thyestes",
+      "name": "Thyestes ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "philisthenes",
+      "name": "Philisthenes ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "peneus",
+      "name": "Peneus ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "aerope",
+      "name": "Aerope ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "antigone",
+      "name": "Antigone",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A35299-e1500": [
+      "tantalus"
+    ],
+    "A35299-e1570": [
+      "megaera"
+    ],
+    "A35299-e1610": [
+      "tantalus"
+    ],
+    "A35299-e1660": [
+      "megaera"
+    ],
+    "A35299-e1910": [
+      "tantalus"
+    ],
+    "A35299-e1990": [
+      "megaera"
+    ],
+    "A35299-e2040": [
+      "tantalus"
+    ],
+    "A35299-e2080": [
+      "megaera"
+    ],
+    "A35299-e2540": [
+      "atreus"
+    ],
+    "A35299-e2770": [
+      "atreus"
+    ],
+    "A35299-e3010": [
+      "atreus"
+    ],
+    "A35299-e3160": [
+      "tereus"
+    ],
+    "A35299-e3190": [
+      "atreus"
+    ],
+    "A35299-e3230": [
+      "atreus"
+    ],
+    "A35299-e3450": [
+      "atreus"
+    ],
+    "A35299-e3480": [
+      "antigone"
+    ],
+    "A35299-e3510": [
+      "atreus"
+    ],
+    "A35299-e3540": [
+      "antigone"
+    ],
+    "A35299-e3570": [
+      "atreus"
+    ],
+    "A35299-e3630": [
+      "antigone"
+    ],
+    "A35299-e3670": [
+      "atreus"
+    ],
+    "A35299-e3720": [
+      "antigone"
+    ],
+    "A35299-e3770": [
+      "atreus"
+    ],
+    "A35299-e3810": [
+      "antigone"
+    ],
+    "A35299-e3880": [
+      "atreus"
+    ],
+    "A35299-e4000": [
+      "antigone"
+    ],
+    "A35299-e4070": [
+      "atreus"
+    ],
+    "A35299-e4290": [
+      "antigone"
+    ],
+    "A35299-e4360": [
+      "atreus"
+    ],
+    "A35299-e4430": [
+      "antigone"
+    ],
+    "A35299-e4460": [
+      "atreus"
+    ],
+    "A35299-e4570": [
+      "antigone"
+    ],
+    "A35299-e4600": [
+      "atreus"
+    ],
+    "A35299-e4710": [
+      "peneus"
+    ],
+    "A35299-e4890": [
+      "atreus"
+    ],
+    "A35299-e4920": [
+      "peneus"
+    ],
+    "A35299-e4980": [
+      "atreus"
+    ],
+    "A35299-e5040": [
+      "peneus"
+    ],
+    "A35299-e5070": [
+      "atreus"
+    ],
+    "A35299-e5190": [
+      "peneus"
+    ],
+    "A35299-e5320": [
+      "atreus"
+    ],
+    "A35299-e5360": [
+      "peneus"
+    ],
+    "A35299-e5410": [
+      "atreus"
+    ],
+    "A35299-e5440": [
+      "peneus"
+    ],
+    "A35299-e5510": [
+      "atreus"
+    ],
+    "A35299-e5590": [
+      "peneus"
+    ],
+    "A35299-e5630": [
+      "atreus"
+    ],
+    "A35299-e5760": [
+      "peneus"
+    ],
+    "A35299-e5790": [
+      "atreus"
+    ],
+    "A35299-e5830": [
+      "peneus"
+    ],
+    "A35299-e5860": [
+      "atreus"
+    ],
+    "A35299-e5910": [
+      "peneus"
+    ],
+    "A35299-e5950": [
+      "atreus"
+    ],
+    "A35299-e5980": [
+      "peneus"
+    ],
+    "A35299-e6010": [
+      "atreus"
+    ],
+    "A35299-e6050": [
+      "peneus"
+    ],
+    "A35299-e6080": [
+      "atreus"
+    ],
+    "A35299-e6120": [
+      "peneus"
+    ],
+    "A35299-e6150": [
+      "atreus"
+    ],
+    "A35299-e6190": [
+      "peneus"
+    ],
+    "A35299-e6240": [
+      "atreus"
+    ],
+    "A35299-e6340": [
+      "peneus"
+    ],
+    "A35299-e6370": [
+      "atreus"
+    ],
+    "A35299-e6410": [
+      "peneus"
+    ],
+    "A35299-e6440": [
+      "atreus"
+    ],
+    "A35299-e6490": [
+      "peneus"
+    ],
+    "A35299-e6520": [
+      "atreus"
+    ],
+    "A35299-e6570": [
+      "peneus"
+    ],
+    "A35299-e6810": [
+      "antigone"
+    ],
+    "A35299-e6940": [
+      "philisthenes"
+    ],
+    "A35299-e6980": [
+      "antigone"
+    ],
+    "A35299-e7180": [
+      "philisthenes"
+    ],
+    "A35299-e7270": [
+      "antigone"
+    ],
+    "A35299-e7300": [
+      "philisthenes"
+    ],
+    "A35299-e7400": [
+      "antigone"
+    ],
+    "A35299-e7440": [
+      "philisthenes"
+    ],
+    "A35299-e7480": [
+      "antigone"
+    ],
+    "A35299-e7610": [
+      "philisthenes"
+    ],
+    "A35299-e7640": [
+      "antigone"
+    ],
+    "A35299-e7740": [
+      "philisthenes"
+    ],
+    "A35299-e7830": [
+      "captain"
+    ],
+    "A35299-e7860": [
+      "philisthenes"
+    ],
+    "A35299-e7890": [
+      "captain"
+    ],
+    "A35299-e7930": [
+      "philisthenes"
+    ],
+    "A35299-e7960": [
+      "captain"
+    ],
+    "A35299-e8070": [
+      "philisthenes"
+    ],
+    "A35299-e8100": [
+      "captain"
+    ],
+    "A35299-e8130": [
+      "philisthenes"
+    ],
+    "A35299-e8170": [
+      "captain"
+    ],
+    "A35299-e8200": [
+      "philisthenes"
+    ],
+    "A35299-e8250": [
+      "captain"
+    ],
+    "A35299-e8280": [
+      "philisthenes"
+    ],
+    "A35299-e8320": [
+      "captain"
+    ],
+    "A35299-e8380": [
+      "philisthenes"
+    ],
+    "A35299-e8420": [
+      "captain"
+    ],
+    "A35299-e8460": [
+      "philisthenes"
+    ],
+    "A35299-e8530": [
+      "antigone"
+    ],
+    "A35299-e8710": [
+      "peneus"
+    ],
+    "A35299-e8840": [
+      "antigone"
+    ],
+    "A35299-e8880": [
+      "peneus"
+    ],
+    "A35299-e8920": [
+      "antigone"
+    ],
+    "A35299-e8970": [
+      "peneus"
+    ],
+    "A35299-e9110": [
+      "antigone"
+    ],
+    "A35299-e9140": [
+      "peneus"
+    ],
+    "A35299-e9170": [
+      "antigone"
+    ],
+    "A35299-e9220": [
+      "peneus"
+    ],
+    "A35299-e9260": [
+      "antigone"
+    ],
+    "A35299-e9290": [
+      "peneus"
+    ],
+    "A35299-e9330": [
+      "antigone"
+    ],
+    "A35299-e9360": [
+      "peneus"
+    ],
+    "A35299-e9390": [
+      "antigone"
+    ],
+    "A35299-e9480": [
+      "peneus"
+    ],
+    "A35299-e9520": [
+      "antigone"
+    ],
+    "A35299-e9560": [
+      "peneus"
+    ],
+    "A35299-e9600": [
+      "antigone"
+    ],
+    "A35299-e9630": [
+      "peneus"
+    ],
+    "A35299-e9690": [
+      "antigone"
+    ],
+    "A35299-e9720": [
+      "peneus"
+    ],
+    "A35299-e9800": [
+      "antigone"
+    ],
+    "A35299-e9840": [
+      "peneus"
+    ],
+    "A35299-e9980": [
+      "atreus"
+    ],
+    "A35299-e10120": [
+      "philisthenes"
+    ],
+    "A35299-e10200": [
+      "atreus"
+    ],
+    "A35299-e10370": [
+      "philisthenes"
+    ],
+    "A35299-e10400": [
+      "atreus"
+    ],
+    "A35299-e10670": [
+      "philisthenes"
+    ],
+    "A35299-e10700": [
+      "atreus"
+    ],
+    "A35299-e10740": [
+      "philisthenes"
+    ],
+    "A35299-e10770": [
+      "atreus"
+    ],
+    "A35299-e10800": [
+      "philisthenes"
+    ],
+    "A35299-e10840": [
+      "atreus"
+    ],
+    "A35299-e10910": [
+      "philisthenes"
+    ],
+    "A35299-e10940": [
+      "atreus"
+    ],
+    "A35299-e11040": [
+      "philisthenes"
+    ],
+    "A35299-e11080": [
+      "atreus"
+    ],
+    "A35299-e11120": [
+      "philisthenes"
+    ],
+    "A35299-e11160": [
+      "atreus"
+    ],
+    "A35299-e11260": [
+      "philisthenes"
+    ],
+    "A35299-e11290": [
+      "atreus"
+    ],
+    "A35299-e11330": [
+      "philisthenes"
+    ],
+    "A35299-e11380": [
+      "atreus"
+    ],
+    "A35299-e11410": [
+      "philisthenes"
+    ],
+    "A35299-e11450": [
+      "atreus"
+    ],
+    "A35299-e11480": [
+      "philisthenes"
+    ],
+    "A35299-e11520": [
+      "atreus"
+    ],
+    "A35299-e11640": [
+      "peneus"
+    ],
+    "A35299-e11680": [
+      "atreus"
+    ],
+    "A35299-e11740": [
+      "peneus"
+    ],
+    "A35299-e11770": [
+      "atreus"
+    ],
+    "A35299-e11830": [
+      "peneus"
+    ],
+    "A35299-e11880": [
+      "atreus"
+    ],
+    "A35299-e11980": [
+      "peneus"
+    ],
+    "A35299-e12020": [
+      "atreus"
+    ],
+    "A35299-e12180": [
+      "philisthenes"
+    ],
+    "A35299-e12210": [
+      "atreus"
+    ],
+    "A35299-e12330": [
+      "philisthenes"
+    ],
+    "A35299-e12370": [
+      "peneus"
+    ],
+    "A35299-e12430": [
+      "atreus"
+    ],
+    "A35299-e12470": [
+      "peneus"
+    ],
+    "A35299-e12520": [
+      "atreus"
+    ],
+    "A35299-e12550": [
+      "philisthenes"
+    ],
+    "A35299-e12600": [
+      "peneus"
+    ],
+    "A35299-e12640": [
+      "atreus"
+    ],
+    "A35299-e12700": [
+      "philisthenes"
+    ],
+    "A35299-e12750": [
+      "peneus"
+    ],
+    "A35299-e12850": [
+      "atreus"
+    ],
+    "A35299-e12890": [
+      "peneus"
+    ],
+    "A35299-e12930": [
+      "atreus"
+    ],
+    "A35299-e13070": [
+      "peneus"
+    ],
+    "A35299-e13100": [
+      "atreus"
+    ],
+    "A35299-e13190": [
+      "philisthenes"
+    ],
+    "A35299-e13220": [
+      "atreus"
+    ],
+    "A35299-e13250": [
+      "peneus"
+    ],
+    "A35299-e13280": [
+      "philisthenes"
+    ],
+    "A35299-e13360": [
+      "atreus"
+    ],
+    "A35299-e13410": [
+      "philisthenes"
+    ],
+    "A35299-e13500": [
+      "peneus"
+    ],
+    "A35299-e13600": [
+      "atreus"
+    ],
+    "A35299-e13650": [
+      "peneus"
+    ],
+    "A35299-e13720": [
+      "atreus"
+    ],
+    "A35299-e13760": [
+      "philisthenes"
+    ],
+    "A35299-e13800": [
+      "atreus"
+    ],
+    "A35299-e13860": [
+      "philisthenes"
+    ],
+    "A35299-e13910": [
+      "atreus"
+    ],
+    "A35299-e14080": [
+      "antigone"
+    ],
+    "A35299-e14320": [
+      "woman-1"
+    ],
+    "A35299-e14350": [
+      "antigone"
+    ],
+    "A35299-e14420": [
+      "woman-1"
+    ],
+    "A35299-e14460": [
+      "keeper"
+    ],
+    "A35299-e14490": [
+      "woman-1"
+    ],
+    "A35299-e14520": [
+      "keeper"
+    ],
+    "A35299-e14550": [
+      "antigone"
+    ],
+    "A35299-e14580": [
+      "keeper"
+    ],
+    "A35299-e14610": [
+      "antigone"
+    ],
+    "A35299-e14640": [
+      "keeper"
+    ],
+    "A35299-e14670": [
+      "antigone"
+    ],
+    "A35299-e14710": [
+      "keeper"
+    ],
+    "A35299-e14750": [
+      "antigone"
+    ],
+    "A35299-e14810": [
+      "queen"
+    ],
+    "A35299-e14850": [
+      "antigone"
+    ],
+    "A35299-e14880": [
+      "queen"
+    ],
+    "A35299-e14930": [
+      "antigone"
+    ],
+    "A35299-e14960": [
+      "queen"
+    ],
+    "A35299-e14990": [
+      "antigone"
+    ],
+    "A35299-e15030": [
+      "queen"
+    ],
+    "A35299-e15100": [
+      "antigone"
+    ],
+    "A35299-e15130": [
+      "queen"
+    ],
+    "A35299-e15280": [
+      "antigone"
+    ],
+    "A35299-e15320": [
+      "queen"
+    ],
+    "A35299-e15390": [
+      "antigone"
+    ],
+    "A35299-e15420": [
+      "queen"
+    ],
+    "A35299-e15490": [
+      "antigone"
+    ],
+    "A35299-e15540": [
+      "queen"
+    ],
+    "A35299-e15590": [
+      "antigone"
+    ],
+    "A35299-e15620": [
+      "queen"
+    ],
+    "A35299-e15710": [
+      "antigone"
+    ],
+    "A35299-e15740": [
+      "queen"
+    ],
+    "A35299-e15920": [
+      "antigone"
+    ],
+    "A35299-e15950": [
+      "queen"
+    ],
+    "A35299-e15980": [
+      "antigone"
+    ],
+    "A35299-e16010": [
+      "queen"
+    ],
+    "A35299-e16100": [
+      "antigone"
+    ],
+    "A35299-e16150": [
+      "queen"
+    ],
+    "A35299-e16230": [
+      "antigone"
+    ],
+    "A35299-e16380": [
+      "keeper"
+    ],
+    "A35299-e16410": [
+      "antigone"
+    ],
+    "A35299-e16440": [
+      "keeper"
+    ],
+    "A35299-e16470": [
+      "antigone"
+    ],
+    "A35299-e16500": [
+      "keeper"
+    ],
+    "A35299-e16530": [
+      "antigone"
+    ],
+    "A35299-e16670": [
+      "queen"
+    ],
+    "A35299-e16770": [
+      "antigone"
+    ],
+    "A35299-e16800": [
+      "queen"
+    ],
+    "A35299-e16870": [
+      "rich-woman"
+    ],
+    "A35299-e16900": [
+      "queen"
+    ],
+    "A35299-e16930": [
+      "rich-woman"
+    ],
+    "A35299-e16990": [
+      "queen"
+    ],
+    "A35299-e17070": [
+      "antigone"
+    ],
+    "A35299-e17110": [
+      "rich-woman"
+    ],
+    "A35299-e17180": [
+      "antigone"
+    ],
+    "A35299-e17230": [
+      "keeper"
+    ],
+    "A35299-e17260": [
+      "queen"
+    ],
+    "A35299-e17350": [
+      "atreus"
+    ],
+    "A35299-e17380": [
+      "queen"
+    ],
+    "A35299-e17470": [
+      "atreus"
+    ],
+    "A35299-e17500": [
+      "queen"
+    ],
+    "A35299-e17540": [
+      "atreus"
+    ],
+    "A35299-e17580": [
+      "queen"
+    ],
+    "A35299-e17640": [
+      "atreus"
+    ],
+    "A35299-e17700": [
+      "queen"
+    ],
+    "A35299-e17730": [
+      "atreus"
+    ],
+    "A35299-e17820": [
+      "queen"
+    ],
+    "A35299-e17860": [
+      "atreus"
+    ],
+    "A35299-e17940": [
+      "queen"
+    ],
+    "A35299-e17980": [
+      "atreus"
+    ],
+    "A35299-e18050": [
+      "queen"
+    ],
+    "A35299-e18080": [
+      "atreus"
+    ],
+    "A35299-e18130": [
+      "queen"
+    ],
+    "A35299-e18160": [
+      "atreus"
+    ],
+    "A35299-e18190": [
+      "queen"
+    ],
+    "A35299-e18220": [
+      "atreus"
+    ],
+    "A35299-e18290": [
+      "queen"
+    ],
+    "A35299-e18340": [
+      "atreus"
+    ],
+    "A35299-e18540": [
+      "antigone"
+    ],
+    "A35299-e18570": [
+      "atreus"
+    ],
+    "A35299-e18620": [
+      "antigone"
+    ],
+    "A35299-e18690": [
+      "atreus"
+    ],
+    "A35299-e18730": [
+      "antigone"
+    ],
+    "A35299-e18760": [
+      "atreus"
+    ],
+    "A35299-e18910": [
+      "antigone"
+    ],
+    "A35299-e18940": [
+      "queen"
+    ],
+    "A35299-e18970": [
+      "atreus"
+    ],
+    "A35299-e19020": [
+      "queen"
+    ],
+    "A35299-e19050": [
+      "antigone"
+    ],
+    "A35299-e19080": [
+      "atreus"
+    ],
+    "A35299-e19250": [
+      "thyestes"
+    ],
+    "A35299-e19550": [
+      "peneus"
+    ],
+    "A35299-e19580": [
+      "philisthenes"
+    ],
+    "A35299-e19610": [
+      "peneus"
+    ],
+    "A35299-e19640": [
+      "philisthenes"
+    ],
+    "A35299-e19670": [
+      "peneus"
+    ],
+    "A35299-e19810": [
+      "thyestes"
+    ],
+    "A35299-e19850": [
+      "philisthenes"
+    ],
+    "A35299-e19880": [
+      "thyestes"
+    ],
+    "A35299-e19910": [
+      "philisthenes"
+    ],
+    "A35299-e19960": [
+      "thyestes"
+    ],
+    "A35299-e19990": [
+      "philisthenes"
+    ],
+    "A35299-e20020": [
+      "thyestes"
+    ],
+    "A35299-e20080": [
+      "philisthenes"
+    ],
+    "A35299-e20140": [
+      "thyestes"
+    ],
+    "A35299-e20230": [
+      "philisthenes"
+    ],
+    "A35299-e20350": [
+      "peneus"
+    ],
+    "A35299-e20440": [
+      "thyestes"
+    ],
+    "A35299-e20470": [
+      "peneus"
+    ],
+    "A35299-e20500": [
+      "thyestes"
+    ],
+    "A35299-e20550": [
+      "peneus"
+    ],
+    "A35299-e20640": [
+      "thyestes"
+    ],
+    "A35299-e20670": [
+      "peneus"
+    ],
+    "A35299-e20710": [
+      "philisthenes"
+    ],
+    "A35299-e20780": [
+      "thyestes"
+    ],
+    "A35299-e20840": [
+      "peneus"
+    ],
+    "A35299-e20870": [
+      "thyestes"
+    ],
+    "A35299-e20910": [
+      "peneus"
+    ],
+    "A35299-e20960": [
+      "thyestes"
+    ],
+    "A35299-e21200": [
+      "peneus"
+    ],
+    "A35299-e21250": [
+      "philisthenes"
+    ],
+    "A35299-e21290": [
+      "thyestes"
+    ],
+    "A35299-e21330": [
+      "peneus"
+    ],
+    "A35299-e21360": [
+      "thyestes"
+    ],
+    "A35299-e21390": [
+      "peneus"
+    ],
+    "A35299-e21440": [
+      "thyestes"
+    ],
+    "A35299-e21470": [
+      "peneus"
+    ],
+    "A35299-e21500": [
+      "thyestes"
+    ],
+    "A35299-e21530": [
+      "peneus"
+    ],
+    "A35299-e21570": [
+      "thyestes"
+    ],
+    "A35299-e21600": [
+      "peneus"
+    ],
+    "A35299-e21640": [
+      "thyestes"
+    ],
+    "A35299-e21670": [
+      "peneus"
+    ],
+    "A35299-e21720": [
+      "thyestes"
+    ],
+    "A35299-e21750": [
+      "peneus"
+    ],
+    "A35299-e21790": [
+      "thyestes"
+    ],
+    "A35299-e21820": [
+      "peneus"
+    ],
+    "A35299-e21870": [
+      "thyestes"
+    ],
+    "A35299-e21900": [
+      "peneus"
+    ],
+    "A35299-e22010": [
+      "thyestes"
+    ],
+    "A35299-e22040": [
+      "peneus"
+    ],
+    "A35299-e22080": [
+      "philisthenes"
+    ],
+    "A35299-e22110": [
+      "thyestes"
+    ],
+    "A35299-e22310": [
+      "thyestes"
+    ],
+    "A35299-e22550": [
+      "philisthenes"
+    ],
+    "A35299-e22580": [
+      "thyestes"
+    ],
+    "A35299-e22620": [
+      "philisthenes"
+    ],
+    "A35299-e22660": [
+      "thyestes"
+    ],
+    "A35299-e22760": [
+      "peneus"
+    ],
+    "A35299-e22790": [
+      "thyestes"
+    ],
+    "A35299-e22830": [
+      "peneus"
+    ],
+    "A35299-e22860": [
+      "thyestes"
+    ],
+    "A35299-e22890": [
+      "peneus"
+    ],
+    "A35299-e22920": [
+      "thyestes"
+    ],
+    "A35299-e22960": [
+      "peneus"
+    ],
+    "A35299-e23000": [
+      "thyestes"
+    ],
+    "A35299-e23030": [
+      "philisthenes"
+    ],
+    "A35299-e23130": [
+      "thyestes"
+    ],
+    "A35299-e23250": [
+      "peneus"
+    ],
+    "A35299-e23330": [
+      "thyestes"
+    ],
+    "A35299-e23400": [
+      "philisthenes"
+    ],
+    "A35299-e23430": [
+      "thyestes"
+    ],
+    "A35299-e23490": [
+      "peneus"
+    ],
+    "A35299-e23530": [
+      "atreus"
+    ],
+    "A35299-e23690": [
+      "thyestes"
+    ],
+    "A35299-e23750": [
+      "atreus"
+    ],
+    "A35299-e23800": [
+      "thyestes"
+    ],
+    "A35299-e23860": [
+      "atreus"
+    ],
+    "A35299-e23940": [
+      "thyestes"
+    ],
+    "A35299-e23990": [
+      "atreus"
+    ],
+    "A35299-e24060": [
+      "thyestes"
+    ],
+    "A35299-e24110": [
+      "atreus"
+    ],
+    "A35299-e24150": [
+      "thyestes"
+    ],
+    "A35299-e24180": [
+      "atreus"
+    ],
+    "A35299-e24220": [
+      "philisthenes"
+    ],
+    "A35299-e24250": [
+      "atreus"
+    ],
+    "A35299-e24280": [
+      "philisthenes"
+    ],
+    "A35299-e24310": [
+      "atreus"
+    ],
+    "A35299-e24350": [
+      "philisthenes"
+    ],
+    "A35299-e24380": [
+      "atreus"
+    ],
+    "A35299-e24440": [
+      "peneus"
+    ],
+    "A35299-e24500": [
+      "atreus"
+    ],
+    "A35299-e24530": [
+      "philisthenes"
+    ],
+    "A35299-e24580": [
+      "atreus"
+    ],
+    "A35299-e24660": [
+      "thyestes"
+    ],
+    "A35299-e24700": [
+      "atreus"
+    ],
+    "A35299-e24760": [
+      "thyestes"
+    ],
+    "A35299-e24810": [
+      "atreus"
+    ],
+    "A35299-e24840": [
+      "thyestes"
+    ],
+    "A35299-e24890": [
+      "atreus"
+    ],
+    "A35299-e24920": [
+      "thyestes"
+    ],
+    "A35299-e24970": [
+      "atreus"
+    ],
+    "A35299-e25040": [
+      "thyestes"
+    ],
+    "A35299-e25070": [
+      "aerope"
+    ],
+    "A35299-e25170": [
+      "atreus"
+    ],
+    "A35299-e25200": [
+      "aerope"
+    ],
+    "A35299-e25290": [
+      "atreus"
+    ],
+    "A35299-e25330": [
+      "aerope"
+    ],
+    "A35299-e25370": [
+      "atreus"
+    ],
+    "A35299-e25400": [
+      "aerope"
+    ],
+    "A35299-e25450": [
+      "atreus"
+    ],
+    "A35299-e25480": [
+      "aerope"
+    ],
+    "A35299-e25510": [
+      "atreus"
+    ],
+    "A35299-e25580": [
+      "thyestes"
+    ],
+    "A35299-e25640": [
+      "atreus"
+    ],
+    "A35299-e25670": [
+      "thyestes"
+    ],
+    "A35299-e25700": [
+      "atreus"
+    ],
+    "A35299-e25780": [
+      "aerope"
+    ],
+    "A35299-e25820": [
+      "thyestes"
+    ],
+    "A35299-e25850": [
+      "atreus"
+    ],
+    "A35299-e26160": [
+      "antigone"
+    ],
+    "A35299-e26190": [
+      "philisthenes"
+    ],
+    "A35299-e26220": [
+      "antigone"
+    ],
+    "A35299-e26280": [
+      "philisthenes"
+    ],
+    "A35299-e26330": [
+      "antigone"
+    ],
+    "A35299-e26370": [
+      "philisthenes"
+    ],
+    "A35299-e26450": [
+      "gentleman"
+    ],
+    "A35299-e26490": [
+      "philisthenes"
+    ],
+    "A35299-e26580": [
+      "atreus"
+    ],
+    "A35299-e26780": [
+      "philisthenes"
+    ],
+    "A35299-e26810": [
+      "priests"
+    ],
+    "A35299-e26840": [
+      "philisthenes"
+    ],
+    "A35299-e26870": [
+      "priests"
+    ],
+    "A35299-e26900": [
+      "philisthenes"
+    ],
+    "A35299-e26930": [
+      "priests"
+    ],
+    "A35299-e26960": [
+      "philisthenes"
+    ],
+    "A35299-e27010": [
+      "priests"
+    ],
+    "A35299-e27040": [
+      "philisthenes"
+    ],
+    "A35299-e27150": [
+      "priests"
+    ],
+    "A35299-e27180": [
+      "philisthenes"
+    ],
+    "A35299-e27210": [
+      "priests"
+    ],
+    "A35299-e27240": [
+      "philisthenes"
+    ],
+    "A35299-e27500": [
+      "priests"
+    ],
+    "A35299-e27530": [
+      "philisthenes"
+    ],
+    "A35299-e27560": [
+      "priests"
+    ],
+    "A35299-e27590": [
+      "philisthenes"
+    ],
+    "A35299-e27620": [
+      "priests"
+    ],
+    "A35299-e27660": [
+      "philisthenes"
+    ],
+    "A35299-e27740": [
+      "philisthenes"
+    ],
+    "A35299-e27780": [
+      "priests"
+    ],
+    "A35299-e27920": [
+      "atreus"
+    ],
+    "A35299-e27950": [
+      "philisthenes"
+    ],
+    "A35299-e27990": [
+      "atreus"
+    ],
+    "A35299-e28020": [
+      "philisthenes"
+    ],
+    "A35299-e28050": [
+      "atreus"
+    ],
+    "A35299-e28090": [
+      "philisthenes"
+    ],
+    "A35299-e28120": [
+      "atreus"
+    ],
+    "A35299-e28190": [
+      "philisthenes"
+    ],
+    "A35299-e28220": [
+      "atreus"
+    ],
+    "A35299-e28310": [
+      "philisthenes"
+    ],
+    "A35299-e28360": [
+      "atreus"
+    ],
+    "A35299-e28420": [
+      "philisthenes"
+    ],
+    "A35299-e28450": [
+      "atreus"
+    ],
+    "A35299-e28520": [
+      "philisthenes"
+    ],
+    "A35299-e28580": [
+      "atreus"
+    ],
+    "A35299-e28620": [
+      "philisthenes"
+    ],
+    "A35299-e28660": [
+      "atreus"
+    ],
+    "A35299-e28690": [
+      "philisthenes"
+    ],
+    "A35299-e28740": [
+      "atreus"
+    ],
+    "A35299-e28770": [
+      "philisthenes"
+    ],
+    "A35299-e28800": [
+      "atreus"
+    ],
+    "A35299-e28890": [
+      "philisthenes"
+    ],
+    "A35299-e28920": [
+      "atreus"
+    ],
+    "A35299-e28950": [
+      "philisthenes"
+    ],
+    "A35299-e28990": [
+      "atreus"
+    ],
+    "A35299-e29020": [
+      "philisthenes"
+    ],
+    "A35299-e29070": [
+      "atreus"
+    ],
+    "A35299-e29110": [
+      "philisthenes"
+    ],
+    "A35299-e29140": [
+      "atreus"
+    ],
+    "A35299-e29180": [
+      "philisthenes"
+    ],
+    "A35299-e29220": [
+      "atreus"
+    ],
+    "A35299-e29250": [
+      "philisthenes"
+    ],
+    "A35299-e29300": [
+      "atreus"
+    ],
+    "A35299-e29340": [
+      "philisthenes"
+    ],
+    "A35299-e29390": [
+      "atreus"
+    ],
+    "A35299-e29420": [
+      "philisthenes"
+    ],
+    "A35299-e29530": [
+      "atreus"
+    ],
+    "A35299-e29580": [
+      "philisthenes"
+    ],
+    "A35299-e29620": [
+      "atreus"
+    ],
+    "A35299-e29660": [
+      "philisthenes"
+    ],
+    "A35299-e29880": [
+      "atreus"
+    ],
+    "A35299-e30130": [
+      "atreus"
+    ],
+    "A35299-e30160": [
+      "thyestes"
+    ],
+    "A35299-e30210": [
+      "atreus"
+    ],
+    "A35299-e30300": [
+      "thyestes"
+    ],
+    "A35299-e30350": [
+      "atreus"
+    ],
+    "A35299-e30390": [
+      "atreus"
+    ],
+    "A35299-e30420": [
+      "thyestes"
+    ],
+    "A35299-e30480": [
+      "atreus"
+    ],
+    "A35299-e30530": [
+      "thyestes"
+    ],
+    "A35299-e30600": [
+      "atreus"
+    ],
+    "A35299-e30660": [
+      "thyestes"
+    ],
+    "A35299-e30830": [
+      "atreus"
+    ],
+    "A35299-e31010": [
+      "thyestes"
+    ],
+    "A35299-e31060": [
+      "atreus"
+    ],
+    "A35299-e31120": [
+      "thyestes"
+    ],
+    "A35299-e31150": [
+      "atreus"
+    ],
+    "A35299-e31180": [
+      "thyestes"
+    ],
+    "A35299-e31210": [
+      "atreus"
+    ],
+    "A35299-e31240": [
+      "thyestes"
+    ],
+    "A35299-e31280": [
+      "atreus"
+    ],
+    "A35299-e31320": [
+      "thyestes"
+    ],
+    "A35299-e31350": [
+      "atreus"
+    ],
+    "A35299-e31380": [
+      "thyestes"
+    ],
+    "A35299-e31410": [
+      "atreus"
+    ],
+    "A35299-e31440": [
+      "thyestes"
+    ],
+    "A35299-e31470": [
+      "atreus"
+    ],
+    "A35299-e31550": [
+      "thyestes"
+    ],
+    "A35299-e31600": [
+      "atreus"
+    ],
+    "A35299-e31630": [
+      "thyestes"
+    ],
+    "A35299-e31680": [
+      "atreus"
+    ],
+    "A35299-e31740": [
+      "thyestes"
+    ],
+    "A35299-e31770": [
+      "atreus"
+    ],
+    "A35299-e31800": [
+      "thyestes"
+    ],
+    "A35299-e31860": [
+      "atreus"
+    ],
+    "A35299-e31900": [
+      "thyestes"
+    ],
+    "A35299-e31930": [
+      "atreus"
+    ],
+    "A35299-e31960": [
+      "thyestes"
+    ],
+    "A35299-e32000": [
+      "atreus"
+    ],
+    "A35299-e32040": [
+      "thyestes"
+    ],
+    "A35299-e32100": [
+      "atreus"
+    ],
+    "A35299-e32190": [
+      "thyestes"
+    ],
+    "A35299-e32250": [
+      "atreus"
+    ],
+    "A35299-e32280": [
+      "thyestes"
+    ],
+    "A35299-e32420": [
+      "atreus"
+    ],
+    "A35299-e32480": [
+      "thyestes"
+    ],
+    "A35299-e32530": [
+      "atreus"
+    ],
+    "A35299-e32560": [
+      "thyestes"
+    ],
+    "A35299-e32600": [
+      "atreus"
+    ],
+    "A35299-e32630": [
+      "thyestes"
+    ],
+    "A35299-e32670": [
+      "atreus"
+    ],
+    "A35299-e32700": [
+      "thyestes"
+    ],
+    "A35299-e32730": [
+      "atreus"
+    ],
+    "A35299-e32770": [
+      "thyestes"
+    ],
+    "A35299-e32800": [
+      "atreus"
+    ],
+    "A35299-e32870": [
+      "thyestes"
+    ],
+    "A35299-e32910": [
+      "atreus"
+    ],
+    "A35299-e33040": [
+      "thyestes"
+    ],
+    "A35299-e33090": [
+      "atreus"
+    ],
+    "A35299-e33180": [
+      "antigone"
+    ],
+    "A35299-e33230": [
+      "atreus"
+    ],
+    "A35299-e33260": [
+      "antigone"
+    ],
+    "A35299-e33300": [
+      "atreus"
+    ],
+    "A35299-e33340": [
+      "antigone"
+    ],
+    "A35299-e33380": [
+      "atreus"
+    ],
+    "A35299-e33450": [
+      "aerope"
+    ],
+    "A35299-e33510": [
+      "atreus"
+    ],
+    "A35299-e33540": [
+      "aerope"
+    ],
+    "A35299-e33640": [
+      "atreus"
+    ],
+    "A35299-e33680": [
+      "aerope"
+    ],
+    "A35299-e33710": [
+      "atreus"
+    ],
+    "A35299-e33740": [
+      "aerope"
+    ],
+    "A35299-e33770": [
+      "atreus"
+    ],
+    "A35299-e33800": [
+      "aerope"
+    ],
+    "A35299-e33830": [
+      "atreus"
+    ],
+    "A35299-e33860": [
+      "aerope"
+    ],
+    "A35299-e33890": [
+      "atreus"
+    ],
+    "A35299-e33920": [
+      "aerope"
+    ],
+    "A35299-e34220": [
+      "atreus"
+    ],
+    "A35299-e34250": [
+      "peneus"
+    ],
+    "A35299-e34300": [
+      "atreus"
+    ],
+    "A35299-e34360": [
+      "peneus"
+    ],
+    "A35299-e34410": [
+      "atreus"
+    ],
+    "A35299-e34460": [
+      "peneus"
+    ],
+    "A35299-e34520": [
+      "atreus"
+    ],
+    "A35299-e34560": [
+      "peneus"
+    ],
+    "A35299-e34620": [
+      "atreus"
+    ],
+    "A35299-e34760": [
+      "antigone"
+    ],
+    "A35299-e34800": [
+      "atreus"
+    ],
+    "A35299-e34830": [
+      "antigone"
+    ],
+    "A35299-e34860": [
+      "atreus"
+    ],
+    "A35299-e34890": [
+      "antigone"
+    ],
+    "A35299-e34920": [
+      "atreus"
+    ],
+    "A35299-e34950": [
+      "antigone"
+    ],
+    "A35299-e35000": [
+      "atreus"
+    ],
+    "A35299-e35040": [
+      "antigone"
+    ],
+    "A35299-e35070": [
+      "atreus"
+    ],
+    "A35299-e35150": [
+      "antigone"
+    ],
+    "A35299-e35190": [
+      "atreus"
+    ],
+    "A35299-e35260": [
+      "thyestes"
+    ],
+    "A35299-e35320": [
+      "atreus"
+    ],
+    "A35299-e35350": [
+      "thyestes"
+    ],
+    "A35299-e35390": [
+      "antigone"
+    ],
+    "A35299-e35440": [
+      "atreus"
+    ],
+    "A35299-e35470": [
+      "antigone"
+    ],
+    "A35299-e35520": [
+      "atreus"
+    ],
+    "A35299-e35550": [
+      "antigone"
+    ],
+    "A35299-e35690": [
+      "atreus"
+    ],
+    "A35299-e35750": [
+      "antigone"
+    ],
+    "A35299-e35860": [
+      "atreus"
+    ],
+    "A35299-e35930": [
+      "thyestes"
+    ],
+    "A35299-e35960": [
+      "atreus"
+    ],
+    "A35299-e36010": [
+      "thyestes"
+    ],
+    "A35299-e36040": [
+      "atreus"
+    ],
+    "A35299-e36090": [
+      "thyestes"
+    ],
+    "A35299-e36140": [
+      "atreus"
+    ],
+    "A35299-e36170": [
+      "thyestes"
+    ],
+    "A35299-e36210": [
+      "atreus"
+    ],
+    "A35299-e36240": [
+      "thyestes"
+    ]
+  }
+}

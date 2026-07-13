@@ -1,0 +1,3015 @@
+{
+  "particDesc": [
+    {
+      "name": "Myrmidons",
+      "id": "myrmidons",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Trojan",
+      "id": "trojan",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Song",
+      "id": "song",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hector",
+      "name": "Hector",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "troilus",
+      "name": "Troilus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "priam",
+      "name": "Priam",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "aeneas",
+      "name": "Aeneas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pandarus",
+      "name": "Pandarus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "calchas",
+      "name": "Calchas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "agamemnon",
+      "name": "Agamemnon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ulysses",
+      "name": "Ulysses",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "achilles",
+      "name": "Achilles",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ajax",
+      "name": "Ajax",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "nestor",
+      "name": "Nestor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "diomedes",
+      "name": "Diomedes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "patroclus",
+      "name": "Patroclus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "menelaus",
+      "name": "Menelaus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "thersites",
+      "name": "Thersites",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cressida",
+      "name": "Cressida",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "andromache",
+      "name": "Andromache",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A36704-e5020": [
+      "agamemnon"
+    ],
+    "A36704-e5150": [
+      "nestor"
+    ],
+    "A36704-e5370": [
+      "ulysses"
+    ],
+    "A36704-e5450": [
+      "agamemnon"
+    ],
+    "A36704-e5480": [
+      "ulysses"
+    ],
+    "A36704-e5720": [
+      "nestor"
+    ],
+    "A36704-e5770": [
+      "diomedes"
+    ],
+    "A36704-e5860": [
+      "agamemnon"
+    ],
+    "A36704-e5900": [
+      "ulysses"
+    ],
+    "A36704-e6040": [
+      "agamemnon"
+    ],
+    "A36704-e6070": [
+      "ulysses"
+    ],
+    "A36704-e6230": [
+      "nestor"
+    ],
+    "A36704-e6310": [
+      "agamemnon"
+    ],
+    "A36704-e6400": [
+      "ulysses"
+    ],
+    "A36704-e6570": [
+      "agamemnon"
+    ],
+    "A36704-e6730": [
+      "troilus"
+    ],
+    "A36704-e6800": [
+      "pandarus"
+    ],
+    "A36704-e6830": [
+      "troilus"
+    ],
+    "A36704-e6900": [
+      "pandarus"
+    ],
+    "A36704-e6930": [
+      "troilus"
+    ],
+    "A36704-e6960": [
+      "pandarus"
+    ],
+    "A36704-e6990": [
+      "troilus"
+    ],
+    "A36704-e7020": [
+      "pandarus"
+    ],
+    "A36704-e7050": [
+      "troilus"
+    ],
+    "A36704-e7080": [
+      "pandarus"
+    ],
+    "A36704-e7110": [
+      "troilus"
+    ],
+    "A36704-e7160": [
+      "pandarus"
+    ],
+    "A36704-e7190": [
+      "troilus"
+    ],
+    "A36704-e7280": [
+      "pandarus"
+    ],
+    "A36704-e7350": [
+      "troilus"
+    ],
+    "A36704-e7440": [
+      "pandarus"
+    ],
+    "A36704-e7470": [
+      "troilus"
+    ],
+    "A36704-e7500": [
+      "pandarus"
+    ],
+    "A36704-e7560": [
+      "troilus"
+    ],
+    "A36704-e7590": [
+      "pandarus"
+    ],
+    "A36704-e7650": [
+      "troilus"
+    ],
+    "A36704-e7690": [
+      "pandarus"
+    ],
+    "A36704-e7750": [
+      "troilus"
+    ],
+    "A36704-e7780": [
+      "pandarus"
+    ],
+    "A36704-e7820": [
+      "troilus"
+    ],
+    "A36704-e7850": [
+      "pandarus"
+    ],
+    "A36704-e7880": [
+      "troilus"
+    ],
+    "A36704-e7920": [
+      "pandarus"
+    ],
+    "A36704-e7960": [
+      "troilus"
+    ],
+    "A36704-e8050": [
+      "aeneas"
+    ],
+    "A36704-e8090": [
+      "troilus"
+    ],
+    "A36704-e8150": [
+      "aeneas"
+    ],
+    "A36704-e8190": [
+      "troilus"
+    ],
+    "A36704-e8220": [
+      "aeneas"
+    ],
+    "A36704-e8290": [
+      "troilus"
+    ],
+    "A36704-e8410": [
+      "cressida"
+    ],
+    "A36704-e8450": [
+      "aeneas"
+    ],
+    "A36704-e8500": [
+      "cressida"
+    ],
+    "A36704-e8530": [
+      "aeneas"
+    ],
+    "A36704-e8670": [
+      "cressida"
+    ],
+    "A36704-e8730": [
+      "pandarus"
+    ],
+    "A36704-e8760": [
+      "cressida"
+    ],
+    "A36704-e8800": [
+      "pandarus"
+    ],
+    "A36704-e8840": [
+      "cressida"
+    ],
+    "A36704-e8870": [
+      "pandarus"
+    ],
+    "A36704-e8930": [
+      "cressida"
+    ],
+    "A36704-e8960": [
+      "pandarus"
+    ],
+    "A36704-e9010": [
+      "cressida"
+    ],
+    "A36704-e9040": [
+      "pandarus"
+    ],
+    "A36704-e9080": [
+      "cressida"
+    ],
+    "A36704-e9130": [
+      "pandarus"
+    ],
+    "A36704-e9180": [
+      "cressida"
+    ],
+    "A36704-e9210": [
+      "pandarus"
+    ],
+    "A36704-e9260": [
+      "cressida"
+    ],
+    "A36704-e9300": [
+      "pandarus"
+    ],
+    "A36704-e9350": [
+      "cressida"
+    ],
+    "A36704-e9380": [
+      "pandarus"
+    ],
+    "A36704-e9440": [
+      "cressida"
+    ],
+    "A36704-e9470": [
+      "pandarus"
+    ],
+    "A36704-e9530": [
+      "cressida"
+    ],
+    "A36704-e9560": [
+      "pandarus"
+    ],
+    "A36704-e9590": [
+      "cressida"
+    ],
+    "A36704-e9620": [
+      "pandarus"
+    ],
+    "A36704-e9670": [
+      "cressida"
+    ],
+    "A36704-e9700": [
+      "pandarus"
+    ],
+    "A36704-e9760": [
+      "cressida"
+    ],
+    "A36704-e9790": [
+      "pandarus"
+    ],
+    "A36704-e9830": [
+      "cressida"
+    ],
+    "A36704-e9860": [
+      "pandarus"
+    ],
+    "A36704-e9900": [
+      "cressida"
+    ],
+    "A36704-e9930": [
+      "pandarus"
+    ],
+    "A36704-e9990": [
+      "cressida"
+    ],
+    "A36704-e10020": [
+      "pandarus"
+    ],
+    "A36704-e10090": [
+      "cressida"
+    ],
+    "A36704-e10120": [
+      "pandarus"
+    ],
+    "A36704-e10310": [
+      "cressida"
+    ],
+    "A36704-e10340": [
+      "pandarus"
+    ],
+    "A36704-e10370": [
+      "cressida"
+    ],
+    "A36704-e10400": [
+      "pandarus"
+    ],
+    "A36704-e10540": [
+      "cressida"
+    ],
+    "A36704-e10570": [
+      "pandarus"
+    ],
+    "A36704-e10650": [
+      "cressida"
+    ],
+    "A36704-e10690": [
+      "pandarus"
+    ],
+    "A36704-e10770": [
+      "cressida"
+    ],
+    "A36704-e10800": [
+      "pandarus"
+    ],
+    "A36704-e10860": [
+      "cressida"
+    ],
+    "A36704-e10890": [
+      "pandarus"
+    ],
+    "A36704-e10980": [
+      "cressida"
+    ],
+    "A36704-e11010": [
+      "pandarus"
+    ],
+    "A36704-e11080": [
+      "cressida"
+    ],
+    "A36704-e11120": [
+      "pandarus"
+    ],
+    "A36704-e11190": [
+      "page"
+    ],
+    "A36704-e11230": [
+      "pandarus"
+    ],
+    "A36704-e11260": [
+      "page"
+    ],
+    "A36704-e11290": [
+      "pandarus"
+    ],
+    "A36704-e11320": [
+      "cressida"
+    ],
+    "A36704-e11350": [
+      "pandarus"
+    ],
+    "A36704-e11390": [
+      "cressida"
+    ],
+    "A36704-e11630": [
+      "priam"
+    ],
+    "A36704-e11720": [
+      "hector"
+    ],
+    "A36704-e11850": [
+      "troilus"
+    ],
+    "A36704-e11940": [
+      "hector"
+    ],
+    "A36704-e11980": [
+      "troilus"
+    ],
+    "A36704-e12010": [
+      "hector"
+    ],
+    "A36704-e12080": [
+      "troilus"
+    ],
+    "A36704-e12220": [
+      "aeneas"
+    ],
+    "A36704-e12310": [
+      "priam"
+    ],
+    "A36704-e12370": [
+      "aeneas"
+    ],
+    "A36704-e12440": [
+      "hector"
+    ],
+    "A36704-e12630": [
+      "troilus"
+    ],
+    "A36704-e12780": [
+      "aeneas"
+    ],
+    "A36704-e12810": [
+      "troilus"
+    ],
+    "A36704-e12860": [
+      "hector"
+    ],
+    "A36704-e12930": [
+      "priam"
+    ],
+    "A36704-e12970": [
+      "hector"
+    ],
+    "A36704-e13020": [
+      "andromache"
+    ],
+    "A36704-e13080": [
+      "hector"
+    ],
+    "A36704-e13110": [
+      "andromache"
+    ],
+    "A36704-e13180": [
+      "priam"
+    ],
+    "A36704-e13220": [
+      "andromache"
+    ],
+    "A36704-e13310": [
+      "hector"
+    ],
+    "A36704-e13360": [
+      "priam"
+    ],
+    "A36704-e13390": [
+      "hector"
+    ],
+    "A36704-e13530": [
+      "priam"
+    ],
+    "A36704-e13600": [
+      "troilus"
+    ],
+    "A36704-e13640": [
+      "aeneas"
+    ],
+    "A36704-e13770": [
+      "priam"
+    ],
+    "A36704-e13800": [
+      "aeneas"
+    ],
+    "A36704-e13860": [
+      "troilus"
+    ],
+    "A36704-e13900": [
+      "hector"
+    ],
+    "A36704-e13980": [
+      "priam"
+    ],
+    "A36704-e14120": [
+      "hector"
+    ],
+    "A36704-e14230": [
+      "priam"
+    ],
+    "A36704-e14330": [
+      "andromache"
+    ],
+    "A36704-e14500": [
+      "hector"
+    ],
+    "A36704-e14560": [
+      "priam"
+    ],
+    "A36704-e14590": [
+      "andromache"
+    ],
+    "A36704-e14690": [
+      "hector"
+    ],
+    "A36704-e14730": [
+      "andromache"
+    ],
+    "A36704-e14850": [
+      "hector"
+    ],
+    "A36704-e15060": [
+      "aeneas"
+    ],
+    "A36704-e15100": [
+      "priam"
+    ],
+    "A36704-e15170": [
+      "pandarus"
+    ],
+    "A36704-e15200": [
+      "cressida"
+    ],
+    "A36704-e15230": [
+      "pandarus"
+    ],
+    "A36704-e15260": [
+      "cressida"
+    ],
+    "A36704-e15290": [
+      "pandarus"
+    ],
+    "A36704-e15320": [
+      "cressida"
+    ],
+    "A36704-e15350": [
+      "pandarus"
+    ],
+    "A36704-e15390": [
+      "cressida"
+    ],
+    "A36704-e15420": [
+      "pandarus"
+    ],
+    "A36704-e15480": [
+      "cressida"
+    ],
+    "A36704-e15510": [
+      "pandarus"
+    ],
+    "A36704-e15540": [
+      "cressida"
+    ],
+    "A36704-e15580": [
+      "pandarus"
+    ],
+    "A36704-e15630": [
+      "cressida"
+    ],
+    "A36704-e15660": [
+      "pandarus"
+    ],
+    "A36704-e15690": [
+      "cressida"
+    ],
+    "A36704-e15730": [
+      "pandarus"
+    ],
+    "A36704-e15760": [
+      "cressida"
+    ],
+    "A36704-e15790": [
+      "pandarus"
+    ],
+    "A36704-e15820": [
+      "cressida"
+    ],
+    "A36704-e15850": [
+      "pandarus"
+    ],
+    "A36704-e15880": [
+      "cressida"
+    ],
+    "A36704-e15910": [
+      "pandarus"
+    ],
+    "A36704-e15980": [
+      "troilus"
+    ],
+    "A36704-e16020": [
+      "pandarus"
+    ],
+    "A36704-e16050": [
+      "troilus"
+    ],
+    "A36704-e16160": [
+      "pandarus"
+    ],
+    "A36704-e16190": [
+      "troilus"
+    ],
+    "A36704-e16220": [
+      "pandarus"
+    ],
+    "A36704-e16250": [
+      "troilus"
+    ],
+    "A36704-e16280": [
+      "pandarus"
+    ],
+    "A36704-e16310": [
+      "troilus"
+    ],
+    "A36704-e16340": [
+      "pandarus"
+    ],
+    "A36704-e16370": [
+      "troilus"
+    ],
+    "A36704-e16400": [
+      "pandarus"
+    ],
+    "A36704-e16430": [
+      "troilus"
+    ],
+    "A36704-e16460": [
+      "pandarus"
+    ],
+    "A36704-e16500": [
+      "troilus"
+    ],
+    "A36704-e16540": [
+      "pandarus"
+    ],
+    "A36704-e16610": [
+      "troilus"
+    ],
+    "A36704-e16650": [
+      "pandarus"
+    ],
+    "A36704-e16700": [
+      "troilus"
+    ],
+    "A36704-e16730": [
+      "pandarus"
+    ],
+    "A36704-e16810": [
+      "troilus"
+    ],
+    "A36704-e16950": [
+      "pandarus"
+    ],
+    "A36704-e16980": [
+      "troilus"
+    ],
+    "A36704-e17090": [
+      "ulysses"
+    ],
+    "A36704-e17130": [
+      "nestor"
+    ],
+    "A36704-e17170": [
+      "ulysses"
+    ],
+    "A36704-e17250": [
+      "nestor"
+    ],
+    "A36704-e17280": [
+      "ulysses"
+    ],
+    "A36704-e17370": [
+      "nestor"
+    ],
+    "A36704-e17460": [
+      "ulysses"
+    ],
+    "A36704-e17610": [
+      "nestor"
+    ],
+    "A36704-e17640": [
+      "ulysses"
+    ],
+    "A36704-e17890": [
+      "nestor"
+    ],
+    "A36704-e17950": [
+      "ulysses"
+    ],
+    "A36704-e18060": [
+      "nestor"
+    ],
+    "A36704-e18090": [
+      "ulysses"
+    ],
+    "A36704-e18190": [
+      "nestor"
+    ],
+    "A36704-e18290": [
+      "ulysses"
+    ],
+    "A36704-e18430": [
+      "nestor"
+    ],
+    "A36704-e18470": [
+      "ulysses"
+    ],
+    "A36704-e18540": [
+      "thersites"
+    ],
+    "A36704-e18570": [
+      "nestor"
+    ],
+    "A36704-e18600": [
+      "thersites"
+    ],
+    "A36704-e18680": [
+      "nestor"
+    ],
+    "A36704-e18710": [
+      "thersites"
+    ],
+    "A36704-e18800": [
+      "nestor"
+    ],
+    "A36704-e18840": [
+      "ulysses"
+    ],
+    "A36704-e18910": [
+      "thersites"
+    ],
+    "A36704-e19060": [
+      "nestor"
+    ],
+    "A36704-e19090": [
+      "thersites"
+    ],
+    "A36704-e19120": [
+      "nestor"
+    ],
+    "A36704-e19150": [
+      "ulysses"
+    ],
+    "A36704-e19270": [
+      "thersites"
+    ],
+    "A36704-e19310": [
+      "ulysses"
+    ],
+    "A36704-e19360": [
+      "thersites"
+    ],
+    "A36704-e19450": [
+      "nestor"
+    ],
+    "A36704-e19480": [
+      "thersites"
+    ],
+    "A36704-e19540": [
+      "nestor"
+    ],
+    "A36704-e19640": [
+      "thersites"
+    ],
+    "A36704-e19720": [
+      "ulysses"
+    ],
+    "A36704-e19890": [
+      "thersites"
+    ],
+    "A36704-e20010": [
+      "ulysses"
+    ],
+    "A36704-e20070": [
+      "thersites"
+    ],
+    "A36704-e20120": [
+      "nestor"
+    ],
+    "A36704-e20160": [
+      "thersites"
+    ],
+    "A36704-e20260": [
+      "thersites"
+    ],
+    "A36704-e20330": [
+      "ajax"
+    ],
+    "A36704-e20360": [
+      "thersites"
+    ],
+    "A36704-e20390": [
+      "ajax"
+    ],
+    "A36704-e20420": [
+      "thersites"
+    ],
+    "A36704-e20450": [
+      "ajax"
+    ],
+    "A36704-e20490": [
+      "thersites"
+    ],
+    "A36704-e20550": [
+      "ajax"
+    ],
+    "A36704-e20590": [
+      "thersites"
+    ],
+    "A36704-e20630": [
+      "ajax"
+    ],
+    "A36704-e20660": [
+      "thersites"
+    ],
+    "A36704-e20690": [
+      "ajax"
+    ],
+    "A36704-e20730": [
+      "thersites"
+    ],
+    "A36704-e20760": [
+      "ajax"
+    ],
+    "A36704-e20790": [
+      "thersites"
+    ],
+    "A36704-e20840": [
+      "achilles"
+    ],
+    "A36704-e20900": [
+      "thersites"
+    ],
+    "A36704-e20940": [
+      "achilles"
+    ],
+    "A36704-e20970": [
+      "thersites"
+    ],
+    "A36704-e21000": [
+      "patroclus"
+    ],
+    "A36704-e21030": [
+      "ajax"
+    ],
+    "A36704-e21060": [
+      "thersites"
+    ],
+    "A36704-e21090": [
+      "ajax"
+    ],
+    "A36704-e21120": [
+      "thersites"
+    ],
+    "A36704-e21160": [
+      "achilles"
+    ],
+    "A36704-e21200": [
+      "thersites"
+    ],
+    "A36704-e21230": [
+      "ajax"
+    ],
+    "A36704-e21260": [
+      "thersites"
+    ],
+    "A36704-e21300": [
+      "achilles"
+    ],
+    "A36704-e21340": [
+      "thersites"
+    ],
+    "A36704-e21400": [
+      "achilles"
+    ],
+    "A36704-e21460": [
+      "ajax"
+    ],
+    "A36704-e21500": [
+      "thersites"
+    ],
+    "A36704-e21530": [
+      "achilles"
+    ],
+    "A36704-e21580": [
+      "ajax"
+    ],
+    "A36704-e21610": [
+      "thersites"
+    ],
+    "A36704-e21640": [
+      "achilles"
+    ],
+    "A36704-e21670": [
+      "thersites"
+    ],
+    "A36704-e21720": [
+      "ajax"
+    ],
+    "A36704-e21770": [
+      "achilles"
+    ],
+    "A36704-e21820": [
+      "ajax"
+    ],
+    "A36704-e21850": [
+      "achilles"
+    ],
+    "A36704-e21890": [
+      "ajax"
+    ],
+    "A36704-e21930": [
+      "thersites"
+    ],
+    "A36704-e21960": [
+      "patroclus"
+    ],
+    "A36704-e21990": [
+      "thersites"
+    ],
+    "A36704-e22020": [
+      "patroclus"
+    ],
+    "A36704-e22050": [
+      "thersites"
+    ],
+    "A36704-e22080": [
+      "achilles"
+    ],
+    "A36704-e22110": [
+      "ajax"
+    ],
+    "A36704-e22140": [
+      "achilles"
+    ],
+    "A36704-e22180": [
+      "ajax"
+    ],
+    "A36704-e22220": [
+      "thersites"
+    ],
+    "A36704-e22260": [
+      "achilles"
+    ],
+    "A36704-e22290": [
+      "ajax"
+    ],
+    "A36704-e22320": [
+      "achilles"
+    ],
+    "A36704-e22350": [
+      "ajax"
+    ],
+    "A36704-e22390": [
+      "thersites"
+    ],
+    "A36704-e22500": [
+      "thersites"
+    ],
+    "A36704-e22590": [
+      "patroclus"
+    ],
+    "A36704-e22640": [
+      "thersites"
+    ],
+    "A36704-e22760": [
+      "thersites"
+    ],
+    "A36704-e22820": [
+      "patroclus"
+    ],
+    "A36704-e22860": [
+      "thersites"
+    ],
+    "A36704-e22910": [
+      "patroclus"
+    ],
+    "A36704-e22940": [
+      "achilles"
+    ],
+    "A36704-e22970": [
+      "thersites"
+    ],
+    "A36704-e23040": [
+      "patroclus"
+    ],
+    "A36704-e23070": [
+      "achilles"
+    ],
+    "A36704-e23110": [
+      "thersites"
+    ],
+    "A36704-e23170": [
+      "patroclus"
+    ],
+    "A36704-e23200": [
+      "thersites"
+    ],
+    "A36704-e23230": [
+      "achilles"
+    ],
+    "A36704-e23270": [
+      "patroclus"
+    ],
+    "A36704-e23320": [
+      "thersites"
+    ],
+    "A36704-e23370": [
+      "achilles"
+    ],
+    "A36704-e23430": [
+      "thersites"
+    ],
+    "A36704-e23460": [
+      "patroclus"
+    ],
+    "A36704-e23490": [
+      "thersites"
+    ],
+    "A36704-e23520": [
+      "achilles"
+    ],
+    "A36704-e23550": [
+      "thersites"
+    ],
+    "A36704-e23610": [
+      "achilles"
+    ],
+    "A36704-e23650": [
+      "thersites"
+    ],
+    "A36704-e23700": [
+      "achilles"
+    ],
+    "A36704-e23770": [
+      "patroclus"
+    ],
+    "A36704-e23820": [
+      "thersites"
+    ],
+    "A36704-e23850": [
+      "patroclus"
+    ],
+    "A36704-e23890": [
+      "thersites"
+    ],
+    "A36704-e23920": [
+      "patroclus"
+    ],
+    "A36704-e23960": [
+      "thersites"
+    ],
+    "A36704-e23990": [
+      "patroclus"
+    ],
+    "A36704-e24030": [
+      "thersites"
+    ],
+    "A36704-e24060": [
+      "patroclus"
+    ],
+    "A36704-e24090": [
+      "thersites"
+    ],
+    "A36704-e24120": [
+      "patroclus"
+    ],
+    "A36704-e24150": [
+      "thersites"
+    ],
+    "A36704-e24180": [
+      "patroclus"
+    ],
+    "A36704-e24210": [
+      "thersites"
+    ],
+    "A36704-e24240": [
+      "achilles"
+    ],
+    "A36704-e24270": [
+      "thersites"
+    ],
+    "A36704-e24310": [
+      "achilles"
+    ],
+    "A36704-e24350": [
+      "thersites"
+    ],
+    "A36704-e24410": [
+      "patroclus"
+    ],
+    "A36704-e24440": [
+      "achilles"
+    ],
+    "A36704-e24490": [
+      "agamemnon"
+    ],
+    "A36704-e24550": [
+      "patroclus"
+    ],
+    "A36704-e24580": [
+      "menelaus"
+    ],
+    "A36704-e24610": [
+      "agamemnon"
+    ],
+    "A36704-e24640": [
+      "patroclus"
+    ],
+    "A36704-e24690": [
+      "diomedes"
+    ],
+    "A36704-e24720": [
+      "ajax"
+    ],
+    "A36704-e24750": [
+      "menelaus"
+    ],
+    "A36704-e24820": [
+      "patroclus"
+    ],
+    "A36704-e24900": [
+      "agamemnon"
+    ],
+    "A36704-e25050": [
+      "patroclus"
+    ],
+    "A36704-e25080": [
+      "agamemnon"
+    ],
+    "A36704-e25140": [
+      "ajax"
+    ],
+    "A36704-e25170": [
+      "agamemnon"
+    ],
+    "A36704-e25200": [
+      "ajax"
+    ],
+    "A36704-e25230": [
+      "diomedes"
+    ],
+    "A36704-e25260": [
+      "ajax"
+    ],
+    "A36704-e25290": [
+      "agamemnon"
+    ],
+    "A36704-e25330": [
+      "ajax"
+    ],
+    "A36704-e25370": [
+      "diomedes"
+    ],
+    "A36704-e25430": [
+      "menelaus"
+    ],
+    "A36704-e25470": [
+      "agamemnon"
+    ],
+    "A36704-e25500": [
+      "menelaus"
+    ],
+    "A36704-e25590": [
+      "agamemnon"
+    ],
+    "A36704-e25630": [
+      "ulysses"
+    ],
+    "A36704-e25780": [
+      "nestor"
+    ],
+    "A36704-e25820": [
+      "ajax"
+    ],
+    "A36704-e25860": [
+      "agamemnon"
+    ],
+    "A36704-e25890": [
+      "ajax"
+    ],
+    "A36704-e25930": [
+      "nestor"
+    ],
+    "A36704-e25960": [
+      "ulysses"
+    ],
+    "A36704-e26000": [
+      "nestor"
+    ],
+    "A36704-e26040": [
+      "ulysses"
+    ],
+    "A36704-e26070": [
+      "ajax"
+    ],
+    "A36704-e26110": [
+      "ulysses"
+    ],
+    "A36704-e26270": [
+      "ajax"
+    ],
+    "A36704-e26300": [
+      "ulysses"
+    ],
+    "A36704-e26330": [
+      "diomedes"
+    ],
+    "A36704-e26370": [
+      "ulysses"
+    ],
+    "A36704-e26440": [
+      "agamemnon"
+    ],
+    "A36704-e26470": [
+      "ulysses"
+    ],
+    "A36704-e26530": [
+      "ajax"
+    ],
+    "A36704-e26630": [
+      "pandarus"
+    ],
+    "A36704-e26660": [
+      "troilus"
+    ],
+    "A36704-e26700": [
+      "pandarus"
+    ],
+    "A36704-e26730": [
+      "troilus"
+    ],
+    "A36704-e26770": [
+      "cressida"
+    ],
+    "A36704-e26800": [
+      "troilus"
+    ],
+    "A36704-e26830": [
+      "cressida"
+    ],
+    "A36704-e26860": [
+      "troilus"
+    ],
+    "A36704-e26920": [
+      "cressida"
+    ],
+    "A36704-e26960": [
+      "pandarus"
+    ],
+    "A36704-e26990": [
+      "cressida"
+    ],
+    "A36704-e27020": [
+      "pandarus"
+    ],
+    "A36704-e27060": [
+      "troilus"
+    ],
+    "A36704-e27090": [
+      "pandarus"
+    ],
+    "A36704-e27120": [
+      "cressida"
+    ],
+    "A36704-e27170": [
+      "troilus"
+    ],
+    "A36704-e27210": [
+      "cressida"
+    ],
+    "A36704-e27290": [
+      "troilus"
+    ],
+    "A36704-e27330": [
+      "pandarus"
+    ],
+    "A36704-e27360": [
+      "cressida"
+    ],
+    "A36704-e27420": [
+      "pandarus"
+    ],
+    "A36704-e27450": [
+      "cressida"
+    ],
+    "A36704-e27480": [
+      "troilus"
+    ],
+    "A36704-e27510": [
+      "cressida"
+    ],
+    "A36704-e27540": [
+      "troilus"
+    ],
+    "A36704-e27570": [
+      "cressida"
+    ],
+    "A36704-e27610": [
+      "troilus"
+    ],
+    "A36704-e27700": [
+      "cressida"
+    ],
+    "A36704-e27730": [
+      "troilus"
+    ],
+    "A36704-e27860": [
+      "cressida"
+    ],
+    "A36704-e27960": [
+      "pandarus"
+    ],
+    "A36704-e28000": [
+      "cressida"
+    ],
+    "A36704-e28040": [
+      "pandarus"
+    ],
+    "A36704-e28070": [
+      "cressida"
+    ],
+    "A36704-e28100": [
+      "pandarus"
+    ],
+    "A36704-e28130": [
+      "troilus"
+    ],
+    "A36704-e28170": [
+      "pandarus"
+    ],
+    "A36704-e28240": [
+      "hector"
+    ],
+    "A36704-e28280": [
+      "aeneas"
+    ],
+    "A36704-e28320": [
+      "diomedes"
+    ],
+    "A36704-e28360": [
+      "hector"
+    ],
+    "A36704-e28440": [
+      "aeneas"
+    ],
+    "A36704-e28500": [
+      "diomedes"
+    ],
+    "A36704-e28580": [
+      "aeneas"
+    ],
+    "A36704-e28680": [
+      "diomedes"
+    ],
+    "A36704-e28710": [
+      "aeneas"
+    ],
+    "A36704-e28770": [
+      "hector"
+    ],
+    "A36704-e28910": [
+      "aeneas"
+    ],
+    "A36704-e28970": [
+      "hector"
+    ],
+    "A36704-e29070": [
+      "aeneas"
+    ],
+    "A36704-e29150": [
+      "hector"
+    ],
+    "A36704-e29200": [
+      "aeneas"
+    ],
+    "A36704-e29300": [
+      "hector"
+    ],
+    "A36704-e29340": [
+      "aeneas"
+    ],
+    "A36704-e29400": [
+      "hector"
+    ],
+    "A36704-e29520": [
+      "aeneas"
+    ],
+    "A36704-e29630": [
+      "pandarus"
+    ],
+    "A36704-e29670": [
+      "servant"
+    ],
+    "A36704-e29700": [
+      "pandarus"
+    ],
+    "A36704-e29740": [
+      "servant"
+    ],
+    "A36704-e29770": [
+      "pandarus"
+    ],
+    "A36704-e29800": [
+      "servant"
+    ],
+    "A36704-e29830": [
+      "pandarus"
+    ],
+    "A36704-e30100": [
+      "pandarus"
+    ],
+    "A36704-e30140": [
+      "song"
+    ],
+    "A36704-e30200": [
+      "troilus"
+    ],
+    "A36704-e30260": [
+      "pandarus"
+    ],
+    "A36704-e30310": [
+      "cressida"
+    ],
+    "A36704-e30350": [
+      "pandarus"
+    ],
+    "A36704-e30390": [
+      "cressida"
+    ],
+    "A36704-e30420": [
+      "pandarus"
+    ],
+    "A36704-e30470": [
+      "cressida"
+    ],
+    "A36704-e30530": [
+      "troilus"
+    ],
+    "A36704-e30560": [
+      "cressida"
+    ],
+    "A36704-e30660": [
+      "pandarus"
+    ],
+    "A36704-e30720": [
+      "hector"
+    ],
+    "A36704-e30760": [
+      "pandarus"
+    ],
+    "A36704-e30800": [
+      "hector"
+    ],
+    "A36704-e30840": [
+      "pandarus"
+    ],
+    "A36704-e30870": [
+      "hector"
+    ],
+    "A36704-e30910": [
+      "pandarus"
+    ],
+    "A36704-e30950": [
+      "hector"
+    ],
+    "A36704-e31090": [
+      "troilus"
+    ],
+    "A36704-e31140": [
+      "hector"
+    ],
+    "A36704-e31210": [
+      "troilus"
+    ],
+    "A36704-e31260": [
+      "hector"
+    ],
+    "A36704-e31320": [
+      "troilus"
+    ],
+    "A36704-e31400": [
+      "hector"
+    ],
+    "A36704-e31450": [
+      "troilus"
+    ],
+    "A36704-e31490": [
+      "hector"
+    ],
+    "A36704-e31520": [
+      "troilus"
+    ],
+    "A36704-e31550": [
+      "hector"
+    ],
+    "A36704-e31640": [
+      "troilus"
+    ],
+    "A36704-e31710": [
+      "hector"
+    ],
+    "A36704-e31760": [
+      "troilus"
+    ],
+    "A36704-e31790": [
+      "hector"
+    ],
+    "A36704-e31820": [
+      "troilus"
+    ],
+    "A36704-e31860": [
+      "hector"
+    ],
+    "A36704-e31890": [
+      "troilus"
+    ],
+    "A36704-e31920": [
+      "hector"
+    ],
+    "A36704-e31970": [
+      "troilus"
+    ],
+    "A36704-e32000": [
+      "hector"
+    ],
+    "A36704-e32030": [
+      "troilus"
+    ],
+    "A36704-e32090": [
+      "hector"
+    ],
+    "A36704-e32210": [
+      "troilus"
+    ],
+    "A36704-e32300": [
+      "hector"
+    ],
+    "A36704-e32340": [
+      "troilus"
+    ],
+    "A36704-e32370": [
+      "hector"
+    ],
+    "A36704-e32430": [
+      "troilus"
+    ],
+    "A36704-e32490": [
+      "hector"
+    ],
+    "A36704-e32580": [
+      "troilus"
+    ],
+    "A36704-e32610": [
+      "hector"
+    ],
+    "A36704-e32650": [
+      "troilus"
+    ],
+    "A36704-e32680": [
+      "hector"
+    ],
+    "A36704-e32710": [
+      "troilus"
+    ],
+    "A36704-e32830": [
+      "hector"
+    ],
+    "A36704-e32920": [
+      "troilus"
+    ],
+    "A36704-e32970": [
+      "hector"
+    ],
+    "A36704-e33020": [
+      "troilus"
+    ],
+    "A36704-e33090": [
+      "hector"
+    ],
+    "A36704-e33130": [
+      "troilus"
+    ],
+    "A36704-e33160": [
+      "hector"
+    ],
+    "A36704-e33190": [
+      "troilus"
+    ],
+    "A36704-e33220": [
+      "hector"
+    ],
+    "A36704-e33250": [
+      "troilus"
+    ],
+    "A36704-e33280": [
+      "hector"
+    ],
+    "A36704-e33330": [
+      "troilus"
+    ],
+    "A36704-e33360": [
+      "hector"
+    ],
+    "A36704-e33390": [
+      "troilus"
+    ],
+    "A36704-e33420": [
+      "hector"
+    ],
+    "A36704-e33450": [
+      "troilus"
+    ],
+    "A36704-e33500": [
+      "hector"
+    ],
+    "A36704-e33540": [
+      "troilus"
+    ],
+    "A36704-e33570": [
+      "hector"
+    ],
+    "A36704-e33600": [
+      "troilus"
+    ],
+    "A36704-e33650": [
+      "hector"
+    ],
+    "A36704-e33680": [
+      "troilus"
+    ],
+    "A36704-e33760": [
+      "hector"
+    ],
+    "A36704-e33830": [
+      "troilus"
+    ],
+    "A36704-e33860": [
+      "hector"
+    ],
+    "A36704-e33890": [
+      "troilus"
+    ],
+    "A36704-e33950": [
+      "hector"
+    ],
+    "A36704-e33980": [
+      "troilus"
+    ],
+    "A36704-e34010": [
+      "hector"
+    ],
+    "A36704-e34060": [
+      "troilus"
+    ],
+    "A36704-e34090": [
+      "hector"
+    ],
+    "A36704-e34120": [
+      "troilus"
+    ],
+    "A36704-e34150": [
+      "hector"
+    ],
+    "A36704-e34190": [
+      "troilus"
+    ],
+    "A36704-e34270": [
+      "hector"
+    ],
+    "A36704-e34300": [
+      "troilus"
+    ],
+    "A36704-e34360": [
+      "hector"
+    ],
+    "A36704-e34440": [
+      "troilus"
+    ],
+    "A36704-e34470": [
+      "hector"
+    ],
+    "A36704-e34610": [
+      "troilus"
+    ],
+    "A36704-e34660": [
+      "hector"
+    ],
+    "A36704-e34720": [
+      "troilus"
+    ],
+    "A36704-e34750": [
+      "hector"
+    ],
+    "A36704-e34780": [
+      "troilus"
+    ],
+    "A36704-e34900": [
+      "hector"
+    ],
+    "A36704-e34980": [
+      "troilus"
+    ],
+    "A36704-e35020": [
+      "hector"
+    ],
+    "A36704-e35050": [
+      "troilus"
+    ],
+    "A36704-e35080": [
+      "hector"
+    ],
+    "A36704-e35110": [
+      "troilus"
+    ],
+    "A36704-e35140": [
+      "hector"
+    ],
+    "A36704-e35210": [
+      "troilus"
+    ],
+    "A36704-e35250": [
+      "hector"
+    ],
+    "A36704-e35280": [
+      "troilus"
+    ],
+    "A36704-e35360": [
+      "hector"
+    ],
+    "A36704-e35440": [
+      "troilus"
+    ],
+    "A36704-e35490": [
+      "hector"
+    ],
+    "A36704-e35530": [
+      "troilus"
+    ],
+    "A36704-e35560": [
+      "hector"
+    ],
+    "A36704-e35590": [
+      "troilus"
+    ],
+    "A36704-e35620": [
+      "hector"
+    ],
+    "A36704-e35650": [
+      "troilus"
+    ],
+    "A36704-e35690": [
+      "hector"
+    ],
+    "A36704-e35770": [
+      "troilus"
+    ],
+    "A36704-e35830": [
+      "hector"
+    ],
+    "A36704-e35970": [
+      "pandarus"
+    ],
+    "A36704-e36040": [
+      "cressida"
+    ],
+    "A36704-e36070": [
+      "pandarus"
+    ],
+    "A36704-e36100": [
+      "cressida"
+    ],
+    "A36704-e36150": [
+      "pandarus"
+    ],
+    "A36704-e36180": [
+      "cressida"
+    ],
+    "A36704-e36210": [
+      "pandarus"
+    ],
+    "A36704-e36270": [
+      "cressida"
+    ],
+    "A36704-e36300": [
+      "pandarus"
+    ],
+    "A36704-e36340": [
+      "cressida"
+    ],
+    "A36704-e36370": [
+      "pandarus"
+    ],
+    "A36704-e36400": [
+      "cressida"
+    ],
+    "A36704-e36490": [
+      "pandarus"
+    ],
+    "A36704-e36520": [
+      "cressida"
+    ],
+    "A36704-e36570": [
+      "pandarus"
+    ],
+    "A36704-e36610": [
+      "troilus"
+    ],
+    "A36704-e36680": [
+      "cressida"
+    ],
+    "A36704-e36710": [
+      "pandarus"
+    ],
+    "A36704-e36740": [
+      "cressida"
+    ],
+    "A36704-e36780": [
+      "troilus"
+    ],
+    "A36704-e36810": [
+      "cressida"
+    ],
+    "A36704-e36850": [
+      "troilus"
+    ],
+    "A36704-e36910": [
+      "cressida"
+    ],
+    "A36704-e36940": [
+      "troilus"
+    ],
+    "A36704-e37020": [
+      "troilus"
+    ],
+    "A36704-e37060": [
+      "pandarus"
+    ],
+    "A36704-e37100": [
+      "troilus"
+    ],
+    "A36704-e37130": [
+      "cressida"
+    ],
+    "A36704-e37160": [
+      "troilus"
+    ],
+    "A36704-e37240": [
+      "cressida"
+    ],
+    "A36704-e37270": [
+      "troilus"
+    ],
+    "A36704-e37300": [
+      "cressida"
+    ],
+    "A36704-e37330": [
+      "troilus"
+    ],
+    "A36704-e37420": [
+      "cressida"
+    ],
+    "A36704-e37450": [
+      "troilus"
+    ],
+    "A36704-e37500": [
+      "cressida"
+    ],
+    "A36704-e37530": [
+      "troilus"
+    ],
+    "A36704-e37640": [
+      "pandarus"
+    ],
+    "A36704-e37720": [
+      "troilus"
+    ],
+    "A36704-e37770": [
+      "pandarus"
+    ],
+    "A36704-e37830": [
+      "cressida"
+    ],
+    "A36704-e37860": [
+      "troilus"
+    ],
+    "A36704-e37900": [
+      "cressida"
+    ],
+    "A36704-e37940": [
+      "troilus"
+    ],
+    "A36704-e38020": [
+      "cressida"
+    ],
+    "A36704-e38070": [
+      "troilus"
+    ],
+    "A36704-e38180": [
+      "cressida"
+    ],
+    "A36704-e38260": [
+      "troilus"
+    ],
+    "A36704-e38450": [
+      "ulysses"
+    ],
+    "A36704-e38530": [
+      "agamemnon"
+    ],
+    "A36704-e38600": [
+      "achilles"
+    ],
+    "A36704-e38650": [
+      "agamemnon"
+    ],
+    "A36704-e38690": [
+      "nestor"
+    ],
+    "A36704-e38720": [
+      "achilles"
+    ],
+    "A36704-e38750": [
+      "nestor"
+    ],
+    "A36704-e38780": [
+      "agamemnon"
+    ],
+    "A36704-e38810": [
+      "menelaus"
+    ],
+    "A36704-e38840": [
+      "achilles"
+    ],
+    "A36704-e38870": [
+      "ajax"
+    ],
+    "A36704-e38910": [
+      "achilles"
+    ],
+    "A36704-e38950": [
+      "ajax"
+    ],
+    "A36704-e38980": [
+      "achilles"
+    ],
+    "A36704-e39010": [
+      "ajax"
+    ],
+    "A36704-e39070": [
+      "achilles"
+    ],
+    "A36704-e39110": [
+      "patroclus"
+    ],
+    "A36704-e39170": [
+      "achilles"
+    ],
+    "A36704-e39250": [
+      "patroclus"
+    ],
+    "A36704-e39390": [
+      "achilles"
+    ],
+    "A36704-e39440": [
+      "patroclus"
+    ],
+    "A36704-e39470": [
+      "achilles"
+    ],
+    "A36704-e39500": [
+      "patroclus"
+    ],
+    "A36704-e39530": [
+      "achilles"
+    ],
+    "A36704-e39590": [
+      "agamemnon"
+    ],
+    "A36704-e39680": [
+      "ajax"
+    ],
+    "A36704-e39780": [
+      "agamemnon"
+    ],
+    "A36704-e39910": [
+      "agamemnon"
+    ],
+    "A36704-e39950": [
+      "aeneas"
+    ],
+    "A36704-e39980": [
+      "achilles"
+    ],
+    "A36704-e40040": [
+      "aeneas"
+    ],
+    "A36704-e40080": [
+      "achilles"
+    ],
+    "A36704-e40120": [
+      "aeneas"
+    ],
+    "A36704-e40240": [
+      "achilles"
+    ],
+    "A36704-e40270": [
+      "agamemnon"
+    ],
+    "A36704-e40380": [
+      "ulysses"
+    ],
+    "A36704-e40510": [
+      "diomedes"
+    ],
+    "A36704-e40550": [
+      "ajax"
+    ],
+    "A36704-e40580": [
+      "aeneas"
+    ],
+    "A36704-e40620": [
+      "hector"
+    ],
+    "A36704-e40650": [
+      "ajax"
+    ],
+    "A36704-e40830": [
+      "ajax"
+    ],
+    "A36704-e40910": [
+      "hector"
+    ],
+    "A36704-e40950": [
+      "ajax"
+    ],
+    "A36704-e40990": [
+      "diomedes"
+    ],
+    "A36704-e41060": [
+      "hector"
+    ],
+    "A36704-e41140": [
+      "agamemnon"
+    ],
+    "A36704-e41240": [
+      "nestor"
+    ],
+    "A36704-e41370": [
+      "hector"
+    ],
+    "A36704-e41430": [
+      "ulysses"
+    ],
+    "A36704-e41470": [
+      "hector"
+    ],
+    "A36704-e41560": [
+      "achilles"
+    ],
+    "A36704-e41630": [
+      "hector"
+    ],
+    "A36704-e41670": [
+      "achilles"
+    ],
+    "A36704-e41710": [
+      "hector"
+    ],
+    "A36704-e41740": [
+      "achilles"
+    ],
+    "A36704-e41770": [
+      "hector"
+    ],
+    "A36704-e41800": [
+      "achilles"
+    ],
+    "A36704-e41840": [
+      "hector"
+    ],
+    "A36704-e41880": [
+      "achilles"
+    ],
+    "A36704-e41960": [
+      "hector"
+    ],
+    "A36704-e42050": [
+      "ajax"
+    ],
+    "A36704-e42140": [
+      "hector"
+    ],
+    "A36704-e42190": [
+      "achilles"
+    ],
+    "A36704-e42250": [
+      "hector"
+    ],
+    "A36704-e42280": [
+      "agamemnon"
+    ],
+    "A36704-e42380": [
+      "troilus"
+    ],
+    "A36704-e42450": [
+      "ulysses"
+    ],
+    "A36704-e42550": [
+      "troilus"
+    ],
+    "A36704-e42610": [
+      "ulysses"
+    ],
+    "A36704-e42690": [
+      "troilus"
+    ],
+    "A36704-e42760": [
+      "achilles"
+    ],
+    "A36704-e42860": [
+      "patroclus"
+    ],
+    "A36704-e42900": [
+      "achilles"
+    ],
+    "A36704-e42940": [
+      "thersites"
+    ],
+    "A36704-e42980": [
+      "achilles"
+    ],
+    "A36704-e43010": [
+      "thersites"
+    ],
+    "A36704-e43050": [
+      "patroclus"
+    ],
+    "A36704-e43080": [
+      "thersites"
+    ],
+    "A36704-e43110": [
+      "patroclus"
+    ],
+    "A36704-e43140": [
+      "thersites"
+    ],
+    "A36704-e43170": [
+      "achilles"
+    ],
+    "A36704-e43310": [
+      "thersites"
+    ],
+    "A36704-e43410": [
+      "agamemnon"
+    ],
+    "A36704-e43440": [
+      "ajax"
+    ],
+    "A36704-e43470": [
+      "hector"
+    ],
+    "A36704-e43500": [
+      "ajax"
+    ],
+    "A36704-e43560": [
+      "achilles"
+    ],
+    "A36704-e43600": [
+      "agamemnon"
+    ],
+    "A36704-e43660": [
+      "menelaus"
+    ],
+    "A36704-e43690": [
+      "hector"
+    ],
+    "A36704-e43730": [
+      "thersites"
+    ],
+    "A36704-e43770": [
+      "achilles"
+    ],
+    "A36704-e43840": [
+      "diomedes"
+    ],
+    "A36704-e43870": [
+      "achilles"
+    ],
+    "A36704-e43900": [
+      "ulysses"
+    ],
+    "A36704-e44000": [
+      "thersites"
+    ],
+    "A36704-e44120": [
+      "calchas"
+    ],
+    "A36704-e44210": [
+      "cressida"
+    ],
+    "A36704-e44240": [
+      "calchas"
+    ],
+    "A36704-e44280": [
+      "cressida"
+    ],
+    "A36704-e44310": [
+      "calchas"
+    ],
+    "A36704-e44450": [
+      "cressida"
+    ],
+    "A36704-e44490": [
+      "calchas"
+    ],
+    "A36704-e44540": [
+      "diomedes"
+    ],
+    "A36704-e44590": [
+      "calchas"
+    ],
+    "A36704-e44630": [
+      "cressida"
+    ],
+    "A36704-e44690": [
+      "calchas"
+    ],
+    "A36704-e44780": [
+      "diomedes"
+    ],
+    "A36704-e44820": [
+      "calchas"
+    ],
+    "A36704-e44870": [
+      "ulysses"
+    ],
+    "A36704-e44940": [
+      "troilus"
+    ],
+    "A36704-e44980": [
+      "diomedes"
+    ],
+    "A36704-e45010": [
+      "cressida"
+    ],
+    "A36704-e45050": [
+      "troilus"
+    ],
+    "A36704-e45080": [
+      "diomedes"
+    ],
+    "A36704-e45110": [
+      "cressida"
+    ],
+    "A36704-e45140": [
+      "troilus"
+    ],
+    "A36704-e45170": [
+      "ulysses"
+    ],
+    "A36704-e45230": [
+      "troilus"
+    ],
+    "A36704-e45270": [
+      "diomedes"
+    ],
+    "A36704-e45300": [
+      "cressida"
+    ],
+    "A36704-e45330": [
+      "troilus"
+    ],
+    "A36704-e45360": [
+      "diomedes"
+    ],
+    "A36704-e45390": [
+      "cressida"
+    ],
+    "A36704-e45420": [
+      "ulysses"
+    ],
+    "A36704-e45460": [
+      "troilus"
+    ],
+    "A36704-e45510": [
+      "thersites"
+    ],
+    "A36704-e45550": [
+      "diomedes"
+    ],
+    "A36704-e45580": [
+      "cressida"
+    ],
+    "A36704-e45610": [
+      "diomedes"
+    ],
+    "A36704-e45650": [
+      "cressida"
+    ],
+    "A36704-e45690": [
+      "troilus"
+    ],
+    "A36704-e45720": [
+      "ulysses"
+    ],
+    "A36704-e45750": [
+      "thersites"
+    ],
+    "A36704-e45780": [
+      "diomedes"
+    ],
+    "A36704-e45810": [
+      "cressida"
+    ],
+    "A36704-e45860": [
+      "diomedes"
+    ],
+    "A36704-e45910": [
+      "cressida"
+    ],
+    "A36704-e45950": [
+      "diomedes"
+    ],
+    "A36704-e45980": [
+      "thersites"
+    ],
+    "A36704-e46020": [
+      "diomedes"
+    ],
+    "A36704-e46050": [
+      "cressida"
+    ],
+    "A36704-e46140": [
+      "ulysses"
+    ],
+    "A36704-e46170": [
+      "troilus"
+    ],
+    "A36704-e46200": [
+      "ulysses"
+    ],
+    "A36704-e46230": [
+      "troilus"
+    ],
+    "A36704-e46270": [
+      "ulysses"
+    ],
+    "A36704-e46300": [
+      "troilus"
+    ],
+    "A36704-e46400": [
+      "thersites"
+    ],
+    "A36704-e46430": [
+      "troilus"
+    ],
+    "A36704-e46530": [
+      "thersites"
+    ],
+    "A36704-e46630": [
+      "aeneas"
+    ],
+    "A36704-e46690": [
+      "ulysses"
+    ],
+    "A36704-e46780": [
+      "troilus"
+    ],
+    "A36704-e46820": [
+      "ulysses"
+    ],
+    "A36704-e46880": [
+      "troilus"
+    ],
+    "A36704-e46950": [
+      "pandarus"
+    ],
+    "A36704-e46990": [
+      "troilus"
+    ],
+    "A36704-e47050": [
+      "aeneas"
+    ],
+    "A36704-e47100": [
+      "pandarus"
+    ],
+    "A36704-e47210": [
+      "troilus"
+    ],
+    "A36704-e47260": [
+      "pandarus"
+    ],
+    "A36704-e47310": [
+      "troilus"
+    ],
+    "A36704-e47350": [
+      "pandarus"
+    ],
+    "A36704-e47380": [
+      "troilus"
+    ],
+    "A36704-e47450": [
+      "pandarus"
+    ],
+    "A36704-e47480": [
+      "troilus"
+    ],
+    "A36704-e47550": [
+      "pandarus"
+    ],
+    "A36704-e47640": [
+      "thersites"
+    ],
+    "A36704-e47680": [
+      "diomedes"
+    ],
+    "A36704-e47730": [
+      "aeneas"
+    ],
+    "A36704-e47780": [
+      "diomedes"
+    ],
+    "A36704-e47810": [
+      "troilus"
+    ],
+    "A36704-e47840": [
+      "thersites"
+    ],
+    "A36704-e47890": [
+      "diomedes"
+    ],
+    "A36704-e47930": [
+      "thersites"
+    ],
+    "A36704-e47970": [
+      "troilus"
+    ],
+    "A36704-e48000": [
+      "thersites"
+    ],
+    "A36704-e48040": [
+      "diomedes"
+    ],
+    "A36704-e48070": [
+      "troilus"
+    ],
+    "A36704-e48100": [
+      "diomedes"
+    ],
+    "A36704-e48140": [
+      "troilus"
+    ],
+    "A36704-e48190": [
+      "diomedes"
+    ],
+    "A36704-e48220": [
+      "thersites"
+    ],
+    "A36704-e48260": [
+      "troilus"
+    ],
+    "A36704-e48340": [
+      "diomedes"
+    ],
+    "A36704-e48470": [
+      "thersites"
+    ],
+    "A36704-e48530": [
+      "troilus"
+    ],
+    "A36704-e48630": [
+      "diomedes"
+    ],
+    "A36704-e48660": [
+      "thersites"
+    ],
+    "A36704-e48700": [
+      "aeneas"
+    ],
+    "A36704-e48750": [
+      "troilus"
+    ],
+    "A36704-e48820": [
+      "diomedes"
+    ],
+    "A36704-e48890": [
+      "thersites"
+    ],
+    "A36704-e48920": [
+      "aeneas"
+    ],
+    "A36704-e49050": [
+      "diomedes"
+    ],
+    "A36704-e49130": [
+      "troilus"
+    ],
+    "A36704-e49210": [
+      "diomedes"
+    ],
+    "A36704-e49240": [
+      "troilus"
+    ],
+    "A36704-e49320": [
+      "diomedes"
+    ],
+    "A36704-e49370": [
+      "troilus"
+    ],
+    "A36704-e49440": [
+      "thersites"
+    ],
+    "A36704-e49550": [
+      "hector"
+    ],
+    "A36704-e49620": [
+      "andromache"
+    ],
+    "A36704-e49660": [
+      "hector"
+    ],
+    "A36704-e49700": [
+      "andromache"
+    ],
+    "A36704-e49730": [
+      "hector"
+    ],
+    "A36704-e49800": [
+      "andromache"
+    ],
+    "A36704-e49830": [
+      "hector"
+    ],
+    "A36704-e49860": [
+      "andromache"
+    ],
+    "A36704-e49890": [
+      "hector"
+    ],
+    "A36704-e49970": [
+      "andromache"
+    ],
+    "A36704-e50000": [
+      "hector"
+    ],
+    "A36704-e50080": [
+      "andromache"
+    ],
+    "A36704-e50160": [
+      "hector"
+    ],
+    "A36704-e50200": [
+      "andromache"
+    ],
+    "A36704-e50300": [
+      "hector"
+    ],
+    "A36704-e50490": [
+      "andromache"
+    ],
+    "A36704-e50520": [
+      "hector"
+    ],
+    "A36704-e50550": [
+      "andromache"
+    ],
+    "A36704-e50660": [
+      "hector"
+    ],
+    "A36704-e50700": [
+      "andromache"
+    ],
+    "A36704-e50770": [
+      "hector"
+    ],
+    "A36704-e50880": [
+      "andromache"
+    ],
+    "A36704-e50960": [
+      "hector"
+    ],
+    "A36704-e51060": [
+      "andromache"
+    ],
+    "A36704-e51180": [
+      "hector"
+    ],
+    "A36704-e51310": [
+      "troilus"
+    ],
+    "A36704-e51410": [
+      "hector"
+    ],
+    "A36704-e51440": [
+      "troilus"
+    ],
+    "A36704-e51520": [
+      "andromache"
+    ],
+    "A36704-e51570": [
+      "troilus"
+    ],
+    "A36704-e51730": [
+      "hector"
+    ],
+    "A36704-e51760": [
+      "troilus"
+    ],
+    "A36704-e51860": [
+      "hector"
+    ],
+    "A36704-e51890": [
+      "troilus"
+    ],
+    "A36704-e51990": [
+      "hector"
+    ],
+    "A36704-e52050": [
+      "troilus"
+    ],
+    "A36704-e52080": [
+      "hector"
+    ],
+    "A36704-e52120": [
+      "andromache"
+    ],
+    "A36704-e52150": [
+      "hector"
+    ],
+    "A36704-e52290": [
+      "troilus"
+    ],
+    "A36704-e52320": [
+      "hector"
+    ],
+    "A36704-e52380": [
+      "andromache"
+    ],
+    "A36704-e52570": [
+      "hector"
+    ],
+    "A36704-e52610": [
+      "troilus"
+    ],
+    "A36704-e52690": [
+      "hector"
+    ],
+    "A36704-e52810": [
+      "agamemnon"
+    ],
+    "A36704-e52900": [
+      "ulysses"
+    ],
+    "A36704-e53010": [
+      "agamemnon"
+    ],
+    "A36704-e53050": [
+      "nestor"
+    ],
+    "A36704-e53140": [
+      "menelaus"
+    ],
+    "A36704-e53170": [
+      "agamemnon"
+    ],
+    "A36704-e53210": [
+      "ulysses"
+    ],
+    "A36704-e53280": [
+      "nestor"
+    ],
+    "A36704-e53350": [
+      "agamemnon"
+    ],
+    "A36704-e53400": [
+      "ulysses"
+    ],
+    "A36704-e53550": [
+      "thersites"
+    ],
+    "A36704-e53580": [
+      "menelaus"
+    ],
+    "A36704-e53610": [
+      "thersites"
+    ],
+    "A36704-e53640": [
+      "ulysses"
+    ],
+    "A36704-e53670": [
+      "thersites"
+    ],
+    "A36704-e53760": [
+      "agamemnon"
+    ],
+    "A36704-e53840": [
+      "ulysses"
+    ],
+    "A36704-e53910": [
+      "thersites"
+    ],
+    "A36704-e54010": [
+      "trojan"
+    ],
+    "A36704-e54040": [
+      "thersites"
+    ],
+    "A36704-e54080": [
+      "trojan"
+    ],
+    "A36704-e54120": [
+      "thersites"
+    ],
+    "A36704-e54150": [
+      "trojan"
+    ],
+    "A36704-e54200": [
+      "thersites"
+    ],
+    "A36704-e54310": [
+      "hector"
+    ],
+    "A36704-e54350": [
+      "thersites"
+    ],
+    "A36704-e54380": [
+      "hector"
+    ],
+    "A36704-e54430": [
+      "thersites"
+    ],
+    "A36704-e54460": [
+      "hector"
+    ],
+    "A36704-e54490": [
+      "thersites"
+    ],
+    "A36704-e54530": [
+      "troilus"
+    ],
+    "A36704-e54570": [
+      "hector"
+    ],
+    "A36704-e54600": [
+      "troilus"
+    ],
+    "A36704-e54640": [
+      "thersites"
+    ],
+    "A36704-e54710": [
+      "troilus"
+    ],
+    "A36704-e54750": [
+      "thersites"
+    ],
+    "A36704-e54790": [
+      "hector"
+    ],
+    "A36704-e54830": [
+      "troilus"
+    ],
+    "A36704-e54860": [
+      "hector"
+    ],
+    "A36704-e54900": [
+      "troilus"
+    ],
+    "A36704-e54940": [
+      "hector"
+    ],
+    "A36704-e55030": [
+      "troilus"
+    ],
+    "A36704-e55060": [
+      "hector"
+    ],
+    "A36704-e55150": [
+      "troilus"
+    ],
+    "A36704-e55180": [
+      "thersites"
+    ],
+    "A36704-e55270": [
+      "achilles"
+    ],
+    "A36704-e55310": [
+      "myrmidons"
+    ],
+    "A36704-e55380": [
+      "achilles"
+    ],
+    "A36704-e55590": [
+      "thersites"
+    ],
+    "A36704-e55630": [
+      "troilus"
+    ],
+    "A36704-e55710": [
+      "thersites"
+    ],
+    "A36704-e55760": [
+      "troilus"
+    ],
+    "A36704-e55810": [
+      "thersites"
+    ],
+    "A36704-e55870": [
+      "troilus"
+    ],
+    "A36704-e56030": [
+      "cressida"
+    ],
+    "A36704-e56060": [
+      "calchas"
+    ],
+    "A36704-e56130": [
+      "cressida"
+    ],
+    "A36704-e56170": [
+      "cressida"
+    ],
+    "A36704-e56210": [
+      "calchas"
+    ],
+    "A36704-e56280": [
+      "cressida"
+    ],
+    "A36704-e56310": [
+      "calchas"
+    ],
+    "A36704-e56400": [
+      "cressida"
+    ],
+    "A36704-e56470": [
+      "troilus"
+    ],
+    "A36704-e56500": [
+      "diomedes"
+    ],
+    "A36704-e56540": [
+      "troilus"
+    ],
+    "A36704-e56570": [
+      "cressida"
+    ],
+    "A36704-e56630": [
+      "troilus"
+    ],
+    "A36704-e56730": [
+      "cressida"
+    ],
+    "A36704-e56800": [
+      "troilus"
+    ],
+    "A36704-e56830": [
+      "cressida"
+    ],
+    "A36704-e56940": [
+      "troilus"
+    ],
+    "A36704-e57050": [
+      "cressida"
+    ],
+    "A36704-e57100": [
+      "diomedes"
+    ],
+    "A36704-e57210": [
+      "cressida"
+    ],
+    "A36704-e57240": [
+      "troilus"
+    ],
+    "A36704-e57280": [
+      "diomedes"
+    ],
+    "A36704-e57360": [
+      "cressida"
+    ],
+    "A36704-e57440": [
+      "diomedes"
+    ],
+    "A36704-e57490": [
+      "troilus"
+    ],
+    "A36704-e57580": [
+      "cressida"
+    ],
+    "A36704-e57680": [
+      "diomedes"
+    ],
+    "A36704-e57710": [
+      "cressida"
+    ],
+    "A36704-e57800": [
+      "troilus"
+    ],
+    "A36704-e57930": [
+      "cressida"
+    ],
+    "A36704-e58020": [
+      "troilus"
+    ],
+    "A36704-e58140": [
+      "diomedes"
+    ],
+    "A36704-e58210": [
+      "troilus"
+    ],
+    "A36704-e58450": [
+      "achilles"
+    ],
+    "A36704-e58500": [
+      "agamemnon"
+    ],
+    "A36704-e58570": [
+      "achilles"
+    ],
+    "A36704-e58680": [
+      "ajax"
+    ],
+    "A36704-e58750": [
+      "ulysses"
+    ]
+  }
+}

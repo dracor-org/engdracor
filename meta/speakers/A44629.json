@@ -1,0 +1,2928 @@
+{
+  "particDesc": [
+    {
+      "name": "Corporal ",
+      "id": "corporal",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Captain",
+      "id": "captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Attendant 2",
+      "id": "attendant-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Attendant 1",
+      "id": "attendant-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 1",
+      "id": "soldier-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Waiter 1",
+      "id": "waiter-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lady",
+      "id": "lady",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Colonel",
+      "id": "colonel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Senator 3",
+      "id": "senator-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Senator 2",
+      "id": "senator-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Senator 1",
+      "id": "senator-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "damocles",
+      "name": "Damocles",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dionysius",
+      "name": "Dionysius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cleander",
+      "name": "Cleander ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "cleomenes",
+      "name": "Cleomenes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "demaratus",
+      "name": "Demaratus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "parmenio",
+      "name": "Parmenio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hugo",
+      "name": "Hugo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "proclus",
+      "name": "Proclus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "strato",
+      "name": "Strato",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "alexius",
+      "name": "Alexius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sicanus",
+      "name": "Sicanus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dorion",
+      "name": "Dorion",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "scrophilus",
+      "name": "Scrophilus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "arisba",
+      "name": "Arisba",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "timandra",
+      "name": "Timandra ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "calanthe",
+      "name": "Calanthe",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A44629-e1040": [
+      "demaratus"
+    ],
+    "A44629-e1070": [
+      "senator-1"
+    ],
+    "A44629-e1100": [
+      "senator-2"
+    ],
+    "A44629-e1170": [
+      "demaratus"
+    ],
+    "A44629-e1200": [
+      "senator-1"
+    ],
+    "A44629-e1250": [
+      "senator-2"
+    ],
+    "A44629-e1330": [
+      "soldier"
+    ],
+    "A44629-e1380": [
+      "strato"
+    ],
+    "A44629-e1410": [
+      "senator-1"
+    ],
+    "A44629-e1440": [
+      "strato"
+    ],
+    "A44629-e1470": [
+      "senator-2"
+    ],
+    "A44629-e1510": [
+      "demaratus"
+    ],
+    "A44629-e1550": [
+      "strato"
+    ],
+    "A44629-e1600": [
+      "senator-1"
+    ],
+    "A44629-e1630": [
+      "strato"
+    ],
+    "A44629-e1700": [
+      "demaratus"
+    ],
+    "A44629-e1730": [
+      "senator-1"
+    ],
+    "A44629-e1780": [
+      "demaratus"
+    ],
+    "A44629-e1820": [
+      "alexius"
+    ],
+    "A44629-e1890": [
+      "demaratus"
+    ],
+    "A44629-e1920": [
+      "alexius"
+    ],
+    "A44629-e1950": [
+      "demaratus"
+    ],
+    "A44629-e1990": [
+      "alexius"
+    ],
+    "A44629-e2040": [
+      "demaratus"
+    ],
+    "A44629-e2070": [
+      "alexius"
+    ],
+    "A44629-e2100": [
+      "senator-1"
+    ],
+    "A44629-e2130": [
+      "alexius"
+    ],
+    "A44629-e2210": [
+      "demaratus"
+    ],
+    "A44629-e2250": [
+      "alexius"
+    ],
+    "A44629-e2280": [
+      "demaratus"
+    ],
+    "A44629-e2310": [
+      "alexius"
+    ],
+    "A44629-e2420": [
+      "damocles"
+    ],
+    "A44629-e2480": [
+      "alexius"
+    ],
+    "A44629-e2540": [
+      "senator-1"
+    ],
+    "A44629-e2580": [
+      "senator-2"
+    ],
+    "A44629-e2610": [
+      "alexius"
+    ],
+    "A44629-e2660": [
+      "demaratus"
+    ],
+    "A44629-e2690": [
+      "senator-1"
+    ],
+    "A44629-e2740": [
+      "demaratus"
+    ],
+    "A44629-e2830": [
+      "cleomenes"
+    ],
+    "A44629-e2890": [
+      "demaratus"
+    ],
+    "A44629-e2930": [
+      "cleomenes"
+    ],
+    "A44629-e2960": [
+      "demaratus"
+    ],
+    "A44629-e3010": [
+      "senator-1"
+    ],
+    "A44629-e3070": [
+      "senator-2"
+    ],
+    "A44629-e3150": [
+      "cleomenes"
+    ],
+    "A44629-e3270": [
+      "demaratus"
+    ],
+    "A44629-e3310": [
+      "hugo"
+    ],
+    "A44629-e3370": [
+      "cleomenes"
+    ],
+    "A44629-e3400": [
+      "hugo"
+    ],
+    "A44629-e3450": [
+      "cleomenes"
+    ],
+    "A44629-e3480": [
+      "hugo"
+    ],
+    "A44629-e3570": [
+      "cleomenes"
+    ],
+    "A44629-e3620": [
+      "hugo"
+    ],
+    "A44629-e3670": [
+      "senator-1"
+    ],
+    "A44629-e3700": [
+      "cleomenes"
+    ],
+    "A44629-e3790": [
+      "hugo"
+    ],
+    "A44629-e3870": [
+      "demaratus"
+    ],
+    "A44629-e3900": [
+      "senator-1"
+    ],
+    "A44629-e3930": [
+      "demaratus"
+    ],
+    "A44629-e4030": [
+      "senator-1"
+    ],
+    "A44629-e4080": [
+      "senator-2"
+    ],
+    "A44629-e4160": [
+      "senator-1"
+    ],
+    "A44629-e4190": [
+      "senator-2"
+    ],
+    "A44629-e4250": [
+      "senator-1"
+    ],
+    "A44629-e4280": [
+      "senator-2"
+    ],
+    "A44629-e4360": [
+      "damocles"
+    ],
+    "A44629-e4440": [
+      "cleomenes"
+    ],
+    "A44629-e4480": [
+      "damocles"
+    ],
+    "A44629-e4560": [
+      "cleomenes"
+    ],
+    "A44629-e4590": [
+      "damocles"
+    ],
+    "A44629-e4660": [
+      "cleomenes"
+    ],
+    "A44629-e4700": [
+      "damocles"
+    ],
+    "A44629-e4750": [
+      "cleomenes"
+    ],
+    "A44629-e4830": [
+      "damocles"
+    ],
+    "A44629-e4910": [
+      "cleomenes"
+    ],
+    "A44629-e4960": [
+      "damocles"
+    ],
+    "A44629-e5000": [
+      "hugo"
+    ],
+    "A44629-e5040": [
+      "damocles"
+    ],
+    "A44629-e5120": [
+      "strato"
+    ],
+    "A44629-e5210": [
+      "damocles"
+    ],
+    "A44629-e5340": [
+      "alexius"
+    ],
+    "A44629-e5380": [
+      "damocles"
+    ],
+    "A44629-e5440": [
+      "hugo"
+    ],
+    "A44629-e5470": [
+      "alexius"
+    ],
+    "A44629-e5510": [
+      "hugo"
+    ],
+    "A44629-e5590": [
+      "proclus"
+    ],
+    "A44629-e5630": [
+      "hugo"
+    ],
+    "A44629-e5700": [
+      "damocles"
+    ],
+    "A44629-e5740": [
+      "hugo"
+    ],
+    "A44629-e5770": [
+      "strato"
+    ],
+    "A44629-e5810": [
+      "damocles"
+    ],
+    "A44629-e5870": [
+      "hugo"
+    ],
+    "A44629-e5900": [
+      "proclus"
+    ],
+    "A44629-e5930": [
+      "damocles"
+    ],
+    "A44629-e5980": [
+      "hugo"
+    ],
+    "A44629-e6030": [
+      "strato"
+    ],
+    "A44629-e6060": [
+      "hugo"
+    ],
+    "A44629-e6100": [
+      "strato"
+    ],
+    "A44629-e6140": [
+      "hugo"
+    ],
+    "A44629-e6210": [
+      "colonel"
+    ],
+    "A44629-e6240": [
+      "hugo"
+    ],
+    "A44629-e6300": [
+      "colonel"
+    ],
+    "A44629-e6340": [
+      "hugo"
+    ],
+    "A44629-e6410": [
+      "calanthe"
+    ],
+    "A44629-e6440": [
+      "demaratus"
+    ],
+    "A44629-e6570": [
+      "calanthe"
+    ],
+    "A44629-e6610": [
+      "demaratus"
+    ],
+    "A44629-e6670": [
+      "calanthe"
+    ],
+    "A44629-e6820": [
+      "demaratus"
+    ],
+    "A44629-e6900": [
+      "calanthe"
+    ],
+    "A44629-e7060": [
+      "demaratus"
+    ],
+    "A44629-e7090": [
+      "calanthe"
+    ],
+    "A44629-e7150": [
+      "demaratus"
+    ],
+    "A44629-e7180": [
+      "calanthe"
+    ],
+    "A44629-e7250": [
+      "demaratus"
+    ],
+    "A44629-e7350": [
+      "calanthe"
+    ],
+    "A44629-e7380": [
+      "demaratus"
+    ],
+    "A44629-e7430": [
+      "calanthe"
+    ],
+    "A44629-e7460": [
+      "demaratus"
+    ],
+    "A44629-e7500": [
+      "calanthe"
+    ],
+    "A44629-e7610": [
+      "damocles"
+    ],
+    "A44629-e7660": [
+      "hugo"
+    ],
+    "A44629-e7760": [
+      "damocles"
+    ],
+    "A44629-e7900": [
+      "hugo"
+    ],
+    "A44629-e7980": [
+      "damocles"
+    ],
+    "A44629-e8010": [
+      "hugo"
+    ],
+    "A44629-e8080": [
+      "damocles"
+    ],
+    "A44629-e8110": [
+      "senator-2"
+    ],
+    "A44629-e8150": [
+      "senator-1"
+    ],
+    "A44629-e8210": [
+      "hugo"
+    ],
+    "A44629-e8270": [
+      "damocles"
+    ],
+    "A44629-e8300": [
+      "hugo"
+    ],
+    "A44629-e8340": [
+      "damocles"
+    ],
+    "A44629-e8580": [
+      "senator-1"
+    ],
+    "A44629-e8610": [
+      "senator-2"
+    ],
+    "A44629-e8650": [
+      "hugo"
+    ],
+    "A44629-e8700": [
+      "damocles"
+    ],
+    "A44629-e8790": [
+      "senator-3"
+    ],
+    "A44629-e8820": [
+      "damocles"
+    ],
+    "A44629-e8890": [
+      "senator-1"
+    ],
+    "A44629-e8950": [
+      "senator-2"
+    ],
+    "A44629-e9070": [
+      "hugo"
+    ],
+    "A44629-e9100": [
+      "senator-3"
+    ],
+    "A44629-e9180": [
+      "senator-1",
+      "senator-2",
+      "senator-3"
+    ],
+    "A44629-e9210": [
+      "hugo"
+    ],
+    "A44629-e9250": [
+      "damocles"
+    ],
+    "A44629-e9290": [
+      "hugo"
+    ],
+    "A44629-e9320": [
+      "senator-3"
+    ],
+    "A44629-e9370": [
+      "senator-2"
+    ],
+    "A44629-e9410": [
+      "damocles"
+    ],
+    "A44629-e9600": [
+      "senator-1"
+    ],
+    "A44629-e9660": [
+      "hugo"
+    ],
+    "A44629-e9700": [
+      "damocles"
+    ],
+    "A44629-e9740": [
+      "hugo"
+    ],
+    "A44629-e9790": [
+      "damocles"
+    ],
+    "A44629-e9860": [
+      "senator-1"
+    ],
+    "A44629-e9890": [
+      "senator-2"
+    ],
+    "A44629-e9980": [
+      "damocles"
+    ],
+    "A44629-e10020": [
+      "hugo"
+    ],
+    "A44629-e10050": [
+      "damocles"
+    ],
+    "A44629-e10140": [
+      "hugo"
+    ],
+    "A44629-e10250": [
+      "proclus"
+    ],
+    "A44629-e10300": [
+      "hugo"
+    ],
+    "A44629-e10360": [
+      "strato"
+    ],
+    "A44629-e10390": [
+      "proclus"
+    ],
+    "A44629-e10420": [
+      "hugo"
+    ],
+    "A44629-e10460": [
+      "strato"
+    ],
+    "A44629-e10500": [
+      "hugo"
+    ],
+    "A44629-e10550": [
+      "proclus"
+    ],
+    "A44629-e10580": [
+      "hugo"
+    ],
+    "A44629-e10630": [
+      "strato"
+    ],
+    "A44629-e10660": [
+      "hugo"
+    ],
+    "A44629-e10790": [
+      "strato"
+    ],
+    "A44629-e10820": [
+      "hugo"
+    ],
+    "A44629-e10880": [
+      "strato"
+    ],
+    "A44629-e10910": [
+      "hugo"
+    ],
+    "A44629-e11020": [
+      "proclus"
+    ],
+    "A44629-e11050": [
+      "hugo"
+    ],
+    "A44629-e11140": [
+      "strato"
+    ],
+    "A44629-e11190": [
+      "proclus"
+    ],
+    "A44629-e11250": [
+      "calanthe"
+    ],
+    "A44629-e11430": [
+      "servant"
+    ],
+    "A44629-e11460": [
+      "calanthe"
+    ],
+    "A44629-e11500": [
+      "servant"
+    ],
+    "A44629-e11540": [
+      "calanthe"
+    ],
+    "A44629-e11570": [
+      "servant"
+    ],
+    "A44629-e11620": [
+      "calanthe"
+    ],
+    "A44629-e11670": [
+      "servant"
+    ],
+    "A44629-e11710": [
+      "calanthe"
+    ],
+    "A44629-e11860": [
+      "cleomenes"
+    ],
+    "A44629-e11890": [
+      "calanthe"
+    ],
+    "A44629-e11930": [
+      "cleomenes"
+    ],
+    "A44629-e11970": [
+      "calanthe"
+    ],
+    "A44629-e12020": [
+      "cleomenes"
+    ],
+    "A44629-e12050": [
+      "calanthe"
+    ],
+    "A44629-e12110": [
+      "cleomenes"
+    ],
+    "A44629-e12160": [
+      "calanthe"
+    ],
+    "A44629-e12190": [
+      "cleomenes"
+    ],
+    "A44629-e12220": [
+      "calanthe"
+    ],
+    "A44629-e12280": [
+      "cleomenes"
+    ],
+    "A44629-e12450": [
+      "calanthe"
+    ],
+    "A44629-e12480": [
+      "cleomenes"
+    ],
+    "A44629-e12520": [
+      "calanthe"
+    ],
+    "A44629-e12550": [
+      "cleomenes"
+    ],
+    "A44629-e12590": [
+      "calanthe"
+    ],
+    "A44629-e12680": [
+      "cleomenes"
+    ],
+    "A44629-e12720": [
+      "calanthe"
+    ],
+    "A44629-e12830": [
+      "cleomenes"
+    ],
+    "A44629-e12860": [
+      "calanthe"
+    ],
+    "A44629-e12990": [
+      "cleomenes"
+    ],
+    "A44629-e13140": [
+      "calanthe"
+    ],
+    "A44629-e13170": [
+      "cleomenes"
+    ],
+    "A44629-e13210": [
+      "calanthe"
+    ],
+    "A44629-e13310": [
+      "cleomenes"
+    ],
+    "A44629-e13400": [
+      "calanthe"
+    ],
+    "A44629-e13430": [
+      "cleomenes"
+    ],
+    "A44629-e13460": [
+      "calanthe"
+    ],
+    "A44629-e13490": [
+      "cleomenes"
+    ],
+    "A44629-e13540": [
+      "hugo"
+    ],
+    "A44629-e13570": [
+      "cleomenes"
+    ],
+    "A44629-e13620": [
+      "damocles"
+    ],
+    "A44629-e13690": [
+      "cleomenes"
+    ],
+    "A44629-e13740": [
+      "damocles"
+    ],
+    "A44629-e13780": [
+      "hugo"
+    ],
+    "A44629-e13830": [
+      "damocles"
+    ],
+    "A44629-e13870": [
+      "cleomenes"
+    ],
+    "A44629-e13900": [
+      "damocles"
+    ],
+    "A44629-e13930": [
+      "calanthe"
+    ],
+    "A44629-e13970": [
+      "damocles"
+    ],
+    "A44629-e14010": [
+      "colonel"
+    ],
+    "A44629-e14050": [
+      "cleomenes"
+    ],
+    "A44629-e14110": [
+      "alexius"
+    ],
+    "A44629-e14160": [
+      "damocles"
+    ],
+    "A44629-e14290": [
+      "calanthe"
+    ],
+    "A44629-e14320": [
+      "cleomenes"
+    ],
+    "A44629-e14350": [
+      "calanthe"
+    ],
+    "A44629-e14380": [
+      "cleomenes"
+    ],
+    "A44629-e14440": [
+      "calanthe"
+    ],
+    "A44629-e14470": [
+      "cleomenes"
+    ],
+    "A44629-e14500": [
+      "calanthe"
+    ],
+    "A44629-e14540": [
+      "cleomenes"
+    ],
+    "A44629-e14650": [
+      "calanthe"
+    ],
+    "A44629-e14700": [
+      "cleomenes"
+    ],
+    "A44629-e14730": [
+      "calanthe"
+    ],
+    "A44629-e14780": [
+      "cleomenes"
+    ],
+    "A44629-e14810": [
+      "calanthe"
+    ],
+    "A44629-e14890": [
+      "cleomenes"
+    ],
+    "A44629-e14920": [
+      "calanthe"
+    ],
+    "A44629-e15030": [
+      "damocles"
+    ],
+    "A44629-e15070": [
+      "cleomenes"
+    ],
+    "A44629-e15110": [
+      "damocles"
+    ],
+    "A44629-e15150": [
+      "calanthe"
+    ],
+    "A44629-e15230": [
+      "hugo"
+    ],
+    "A44629-e15260": [
+      "damocles"
+    ],
+    "A44629-e15290": [
+      "hugo"
+    ],
+    "A44629-e15360": [
+      "damocles"
+    ],
+    "A44629-e15430": [
+      "dionysius"
+    ],
+    "A44629-e15510": [
+      "damocles"
+    ],
+    "A44629-e15690": [
+      "timandra"
+    ],
+    "A44629-e15760": [
+      "damocles"
+    ],
+    "A44629-e15840": [
+      "timandra"
+    ],
+    "A44629-e15870": [
+      "damocles"
+    ],
+    "A44629-e15930": [
+      "timandra"
+    ],
+    "A44629-e15960": [
+      "damocles"
+    ],
+    "A44629-e16020": [
+      "timandra"
+    ],
+    "A44629-e16070": [
+      "damocles"
+    ],
+    "A44629-e16230": [
+      "timandra"
+    ],
+    "A44629-e16280": [
+      "cleander"
+    ],
+    "A44629-e16330": [
+      "damocles"
+    ],
+    "A44629-e16440": [
+      "cleander"
+    ],
+    "A44629-e16470": [
+      "damocles"
+    ],
+    "A44629-e16500": [
+      "cleander"
+    ],
+    "A44629-e16620": [
+      "damocles"
+    ],
+    "A44629-e16700": [
+      "dionysius"
+    ],
+    "A44629-e16730": [
+      "damocles"
+    ],
+    "A44629-e16770": [
+      "dionysius"
+    ],
+    "A44629-e16800": [
+      "damocles"
+    ],
+    "A44629-e16830": [
+      "dionysius"
+    ],
+    "A44629-e16870": [
+      "damocles"
+    ],
+    "A44629-e17210": [
+      "dionysius"
+    ],
+    "A44629-e17280": [
+      "damocles"
+    ],
+    "A44629-e17320": [
+      "dionysius"
+    ],
+    "A44629-e17390": [
+      "damocles"
+    ],
+    "A44629-e17470": [
+      "dionysius"
+    ],
+    "A44629-e17500": [
+      "timandra"
+    ],
+    "A44629-e17540": [
+      "damocles"
+    ],
+    "A44629-e17620": [
+      "timandra"
+    ],
+    "A44629-e17700": [
+      "damocles"
+    ],
+    "A44629-e17770": [
+      "dionysius"
+    ],
+    "A44629-e17810": [
+      "cleomenes"
+    ],
+    "A44629-e17840": [
+      "dionysius"
+    ],
+    "A44629-e18020": [
+      "cleander"
+    ],
+    "A44629-e18110": [
+      "timandra"
+    ],
+    "A44629-e18190": [
+      "cleander"
+    ],
+    "A44629-e18330": [
+      "timandra"
+    ],
+    "A44629-e18360": [
+      "cleander"
+    ],
+    "A44629-e18460": [
+      "timandra"
+    ],
+    "A44629-e18570": [
+      "cleander"
+    ],
+    "A44629-e18610": [
+      "timandra"
+    ],
+    "A44629-e18640": [
+      "cleander"
+    ],
+    "A44629-e18680": [
+      "timandra"
+    ],
+    "A44629-e18720": [
+      "cleander"
+    ],
+    "A44629-e18900": [
+      "timandra"
+    ],
+    "A44629-e18990": [
+      "cleander"
+    ],
+    "A44629-e19070": [
+      "timandra"
+    ],
+    "A44629-e19100": [
+      "cleander"
+    ],
+    "A44629-e19140": [
+      "lady"
+    ],
+    "A44629-e19190": [
+      "cleander"
+    ],
+    "A44629-e19260": [
+      "timandra"
+    ],
+    "A44629-e19310": [
+      "cleander"
+    ],
+    "A44629-e19370": [
+      "dionysius"
+    ],
+    "A44629-e19410": [
+      "cleander"
+    ],
+    "A44629-e19440": [
+      "dionysius"
+    ],
+    "A44629-e19510": [
+      "cleander"
+    ],
+    "A44629-e19550": [
+      "dionysius"
+    ],
+    "A44629-e19600": [
+      "cleander"
+    ],
+    "A44629-e19650": [
+      "dionysius"
+    ],
+    "A44629-e19720": [
+      "timandra"
+    ],
+    "A44629-e19760": [
+      "dionysius"
+    ],
+    "A44629-e19830": [
+      "timandra"
+    ],
+    "A44629-e19980": [
+      "dionysius"
+    ],
+    "A44629-e20020": [
+      "timandra"
+    ],
+    "A44629-e20050": [
+      "dionysius"
+    ],
+    "A44629-e20270": [
+      "timandra"
+    ],
+    "A44629-e20320": [
+      "dionysius"
+    ],
+    "A44629-e20410": [
+      "cleander"
+    ],
+    "A44629-e20440": [
+      "timandra"
+    ],
+    "A44629-e20490": [
+      "cleander"
+    ],
+    "A44629-e20540": [
+      "lady"
+    ],
+    "A44629-e20580": [
+      "timandra"
+    ],
+    "A44629-e20650": [
+      "cleander"
+    ],
+    "A44629-e20750": [
+      "cleander"
+    ],
+    "A44629-e20800": [
+      "timandra"
+    ],
+    "A44629-e20830": [
+      "calanthe"
+    ],
+    "A44629-e20860": [
+      "timandra"
+    ],
+    "A44629-e20890": [
+      "calanthe"
+    ],
+    "A44629-e20950": [
+      "timandra"
+    ],
+    "A44629-e21020": [
+      "calanthe"
+    ],
+    "A44629-e21090": [
+      "timandra"
+    ],
+    "A44629-e21140": [
+      "calanthe"
+    ],
+    "A44629-e21210": [
+      "timandra"
+    ],
+    "A44629-e21240": [
+      "calanthe"
+    ],
+    "A44629-e21300": [
+      "damocles"
+    ],
+    "A44629-e21340": [
+      "calanthe"
+    ],
+    "A44629-e21380": [
+      "timandra"
+    ],
+    "A44629-e21410": [
+      "calanthe"
+    ],
+    "A44629-e21480": [
+      "timandra"
+    ],
+    "A44629-e21530": [
+      "calanthe"
+    ],
+    "A44629-e21570": [
+      "timandra"
+    ],
+    "A44629-e21600": [
+      "calanthe"
+    ],
+    "A44629-e21730": [
+      "timandra"
+    ],
+    "A44629-e21760": [
+      "calanthe"
+    ],
+    "A44629-e21800": [
+      "timandra"
+    ],
+    "A44629-e21840": [
+      "calanthe"
+    ],
+    "A44629-e21890": [
+      "timandra"
+    ],
+    "A44629-e21990": [
+      "calanthe"
+    ],
+    "A44629-e22180": [
+      "timandra"
+    ],
+    "A44629-e22270": [
+      "damocles"
+    ],
+    "A44629-e22320": [
+      "calanthe"
+    ],
+    "A44629-e22350": [
+      "damocles"
+    ],
+    "A44629-e22380": [
+      "timandra"
+    ],
+    "A44629-e22420": [
+      "damocles"
+    ],
+    "A44629-e22570": [
+      "calanthe"
+    ],
+    "A44629-e22650": [
+      "damocles"
+    ],
+    "A44629-e22750": [
+      "cleander"
+    ],
+    "A44629-e22850": [
+      "damocles"
+    ],
+    "A44629-e22930": [
+      "cleander"
+    ],
+    "A44629-e22960": [
+      "damocles"
+    ],
+    "A44629-e23000": [
+      "cleander"
+    ],
+    "A44629-e23090": [
+      "damocles"
+    ],
+    "A44629-e23160": [
+      "hugo"
+    ],
+    "A44629-e23200": [
+      "hugo"
+    ],
+    "A44629-e23230": [
+      "damocles"
+    ],
+    "A44629-e23260": [
+      "hugo"
+    ],
+    "A44629-e23310": [
+      "damocles"
+    ],
+    "A44629-e23340": [
+      "hugo"
+    ],
+    "A44629-e23370": [
+      "damocles"
+    ],
+    "A44629-e23400": [
+      "hugo"
+    ],
+    "A44629-e23430": [
+      "damocles"
+    ],
+    "A44629-e23460": [
+      "hugo"
+    ],
+    "A44629-e23530": [
+      "damocles"
+    ],
+    "A44629-e23560": [
+      "hugo"
+    ],
+    "A44629-e23630": [
+      "damocles"
+    ],
+    "A44629-e23670": [
+      "hugo"
+    ],
+    "A44629-e23710": [
+      "damocles"
+    ],
+    "A44629-e23740": [
+      "hugo"
+    ],
+    "A44629-e23780": [
+      "damocles"
+    ],
+    "A44629-e23810": [
+      "hugo"
+    ],
+    "A44629-e23840": [
+      "damocles"
+    ],
+    "A44629-e23880": [
+      "hugo"
+    ],
+    "A44629-e23910": [
+      "damocles"
+    ],
+    "A44629-e23940": [
+      "hugo"
+    ],
+    "A44629-e23970": [
+      "damocles"
+    ],
+    "A44629-e24000": [
+      "hugo"
+    ],
+    "A44629-e24050": [
+      "damocles"
+    ],
+    "A44629-e24080": [
+      "hugo"
+    ],
+    "A44629-e24130": [
+      "damocles"
+    ],
+    "A44629-e24190": [
+      "hugo"
+    ],
+    "A44629-e24220": [
+      "damocles"
+    ],
+    "A44629-e24280": [
+      "hugo"
+    ],
+    "A44629-e24320": [
+      "damocles"
+    ],
+    "A44629-e24350": [
+      "hugo"
+    ],
+    "A44629-e24480": [
+      "damocles"
+    ],
+    "A44629-e24520": [
+      "hugo"
+    ],
+    "A44629-e24600": [
+      "damocles"
+    ],
+    "A44629-e24630": [
+      "hugo"
+    ],
+    "A44629-e24720": [
+      "damocles"
+    ],
+    "A44629-e24750": [
+      "hugo"
+    ],
+    "A44629-e24790": [
+      "damocles"
+    ],
+    "A44629-e24820": [
+      "hugo"
+    ],
+    "A44629-e24940": [
+      "damocles"
+    ],
+    "A44629-e24990": [
+      "hugo"
+    ],
+    "A44629-e25110": [
+      "damocles"
+    ],
+    "A44629-e25230": [
+      "parmenio"
+    ],
+    "A44629-e25280": [
+      "servant"
+    ],
+    "A44629-e25310": [
+      "parmenio"
+    ],
+    "A44629-e25340": [
+      "servant"
+    ],
+    "A44629-e25420": [
+      "parmenio"
+    ],
+    "A44629-e25570": [
+      "hugo"
+    ],
+    "A44629-e25600": [
+      "strato"
+    ],
+    "A44629-e25630": [
+      "hugo"
+    ],
+    "A44629-e25720": [
+      "servant"
+    ],
+    "A44629-e25780": [
+      "hugo"
+    ],
+    "A44629-e25830": [
+      "proclus"
+    ],
+    "A44629-e25860": [
+      "parmenio"
+    ],
+    "A44629-e25900": [
+      "hugo"
+    ],
+    "A44629-e25930": [
+      "parmenio"
+    ],
+    "A44629-e25960": [
+      "hugo"
+    ],
+    "A44629-e26000": [
+      "parmenio"
+    ],
+    "A44629-e26030": [
+      "strato"
+    ],
+    "A44629-e26060": [
+      "parmenio"
+    ],
+    "A44629-e26100": [
+      "hugo"
+    ],
+    "A44629-e26130": [
+      "parmenio"
+    ],
+    "A44629-e26160": [
+      "hugo"
+    ],
+    "A44629-e26210": [
+      "parmenio"
+    ],
+    "A44629-e26270": [
+      "proclus"
+    ],
+    "A44629-e26300": [
+      "hugo"
+    ],
+    "A44629-e26330": [
+      "parmenio"
+    ],
+    "A44629-e26400": [
+      "hugo"
+    ],
+    "A44629-e26450": [
+      "parmenio"
+    ],
+    "A44629-e26490": [
+      "hugo"
+    ],
+    "A44629-e26520": [
+      "parmenio"
+    ],
+    "A44629-e26570": [
+      "hugo"
+    ],
+    "A44629-e26670": [
+      "proclus"
+    ],
+    "A44629-e26700": [
+      "parmenio"
+    ],
+    "A44629-e26730": [
+      "hugo"
+    ],
+    "A44629-e26810": [
+      "cleomenes"
+    ],
+    "A44629-e26860": [
+      "hugo"
+    ],
+    "A44629-e26960": [
+      "cleomenes"
+    ],
+    "A44629-e26990": [
+      "hugo"
+    ],
+    "A44629-e27040": [
+      "cleomenes"
+    ],
+    "A44629-e27070": [
+      "hugo"
+    ],
+    "A44629-e27100": [
+      "cleomenes"
+    ],
+    "A44629-e27200": [
+      "hugo"
+    ],
+    "A44629-e27250": [
+      "parmenio"
+    ],
+    "A44629-e27290": [
+      "cleomenes"
+    ],
+    "A44629-e27330": [
+      "hugo"
+    ],
+    "A44629-e27400": [
+      "cleomenes"
+    ],
+    "A44629-e27450": [
+      "parmenio"
+    ],
+    "A44629-e27510": [
+      "cleomenes"
+    ],
+    "A44629-e27550": [
+      "hugo"
+    ],
+    "A44629-e27600": [
+      "parmenio"
+    ],
+    "A44629-e27630": [
+      "hugo"
+    ],
+    "A44629-e27670": [
+      "parmenio"
+    ],
+    "A44629-e27700": [
+      "hugo"
+    ],
+    "A44629-e27740": [
+      "cleomenes"
+    ],
+    "A44629-e27770": [
+      "hugo"
+    ],
+    "A44629-e27850": [
+      "cleomenes"
+    ],
+    "A44629-e27890": [
+      "hugo"
+    ],
+    "A44629-e27990": [
+      "cleomenes"
+    ],
+    "A44629-e28070": [
+      "hugo"
+    ],
+    "A44629-e28120": [
+      "cleomenes"
+    ],
+    "A44629-e28180": [
+      "parmenio"
+    ],
+    "A44629-e28210": [
+      "cleomenes"
+    ],
+    "A44629-e28260": [
+      "parmenio"
+    ],
+    "A44629-e28290": [
+      "cleomenes"
+    ],
+    "A44629-e28400": [
+      "scrophilus"
+    ],
+    "A44629-e28430": [
+      "dorion"
+    ],
+    "A44629-e28460": [
+      "scrophilus"
+    ],
+    "A44629-e28490": [
+      "sicanus"
+    ],
+    "A44629-e28540": [
+      "alexius"
+    ],
+    "A44629-e28570": [
+      "sicanus"
+    ],
+    "A44629-e28600": [
+      "alexius"
+    ],
+    "A44629-e28650": [
+      "sicanus"
+    ],
+    "A44629-e28710": [
+      "dorion"
+    ],
+    "A44629-e28750": [
+      "scrophilus"
+    ],
+    "A44629-e28790": [
+      "alexius"
+    ],
+    "A44629-e28820": [
+      "sicanus"
+    ],
+    "A44629-e28910": [
+      "dorion"
+    ],
+    "A44629-e28940": [
+      "sicanus"
+    ],
+    "A44629-e29000": [
+      "dionysius"
+    ],
+    "A44629-e29030": [
+      "sicanus"
+    ],
+    "A44629-e29070": [
+      "dionysius"
+    ],
+    "A44629-e29110": [
+      "scrophilus"
+    ],
+    "A44629-e29190": [
+      "dionysius"
+    ],
+    "A44629-e29220": [
+      "alexius"
+    ],
+    "A44629-e29270": [
+      "dionysius"
+    ],
+    "A44629-e29300": [
+      "alexius"
+    ],
+    "A44629-e29390": [
+      "dionysius"
+    ],
+    "A44629-e29420": [
+      "alexius"
+    ],
+    "A44629-e29490": [
+      "dionysius"
+    ],
+    "A44629-e29530": [
+      "scrophilus"
+    ],
+    "A44629-e29580": [
+      "dorion"
+    ],
+    "A44629-e29650": [
+      "dionysius"
+    ],
+    "A44629-e29690": [
+      "dorion"
+    ],
+    "A44629-e29750": [
+      "dionysius"
+    ],
+    "A44629-e29840": [
+      "scrophilus"
+    ],
+    "A44629-e29870": [
+      "alexius"
+    ],
+    "A44629-e29930": [
+      "hugo"
+    ],
+    "A44629-e29960": [
+      "dionysius"
+    ],
+    "A44629-e30000": [
+      "hugo"
+    ],
+    "A44629-e30050": [
+      "dionysius"
+    ],
+    "A44629-e30080": [
+      "hugo"
+    ],
+    "A44629-e30110": [
+      "dionysius"
+    ],
+    "A44629-e30150": [
+      "hugo"
+    ],
+    "A44629-e30260": [
+      "dionysius"
+    ],
+    "A44629-e30390": [
+      "hugo"
+    ],
+    "A44629-e30440": [
+      "dionysius"
+    ],
+    "A44629-e30480": [
+      "hugo"
+    ],
+    "A44629-e30510": [
+      "dionysius"
+    ],
+    "A44629-e30550": [
+      "hugo"
+    ],
+    "A44629-e30580": [
+      "dionysius"
+    ],
+    "A44629-e30710": [
+      "hugo"
+    ],
+    "A44629-e31240": [
+      "calanthe"
+    ],
+    "A44629-e31320": [
+      "cleander"
+    ],
+    "A44629-e31380": [
+      "calanthe"
+    ],
+    "A44629-e31490": [
+      "cleomenes"
+    ],
+    "A44629-e31550": [
+      "calanthe"
+    ],
+    "A44629-e31620": [
+      "cleomenes"
+    ],
+    "A44629-e31650": [
+      "calanthe"
+    ],
+    "A44629-e31680": [
+      "cleomenes"
+    ],
+    "A44629-e31770": [
+      "calanthe"
+    ],
+    "A44629-e31840": [
+      "cleomenes"
+    ],
+    "A44629-e31910": [
+      "calanthe"
+    ],
+    "A44629-e31970": [
+      "cleomenes"
+    ],
+    "A44629-e32220": [
+      "calanthe"
+    ],
+    "A44629-e32270": [
+      "cleomenes"
+    ],
+    "A44629-e32330": [
+      "calanthe"
+    ],
+    "A44629-e32390": [
+      "parmenio"
+    ],
+    "A44629-e32500": [
+      "calanthe"
+    ],
+    "A44629-e32570": [
+      "cleander"
+    ],
+    "A44629-e32620": [
+      "timandra"
+    ],
+    "A44629-e32670": [
+      "cleander"
+    ],
+    "A44629-e32750": [
+      "timandra"
+    ],
+    "A44629-e32820": [
+      "cleander"
+    ],
+    "A44629-e32880": [
+      "timandra"
+    ],
+    "A44629-e32920": [
+      "cleander"
+    ],
+    "A44629-e32960": [
+      "timandra"
+    ],
+    "A44629-e33000": [
+      "cleander"
+    ],
+    "A44629-e33070": [
+      "timandra"
+    ],
+    "A44629-e33130": [
+      "cleander"
+    ],
+    "A44629-e33170": [
+      "timandra"
+    ],
+    "A44629-e33200": [
+      "cleander"
+    ],
+    "A44629-e33410": [
+      "timandra"
+    ],
+    "A44629-e33450": [
+      "cleander"
+    ],
+    "A44629-e33540": [
+      "lady"
+    ],
+    "A44629-e33600": [
+      "timandra"
+    ],
+    "A44629-e33630": [
+      "cleander"
+    ],
+    "A44629-e33690": [
+      "hugo"
+    ],
+    "A44629-e33730": [
+      "timandra"
+    ],
+    "A44629-e33760": [
+      "hugo"
+    ],
+    "A44629-e33840": [
+      "timandra"
+    ],
+    "A44629-e33870": [
+      "hugo"
+    ],
+    "A44629-e33910": [
+      "timandra"
+    ],
+    "A44629-e33950": [
+      "hugo"
+    ],
+    "A44629-e34010": [
+      "timandra"
+    ],
+    "A44629-e34040": [
+      "hugo"
+    ],
+    "A44629-e34160": [
+      "cleander"
+    ],
+    "A44629-e34250": [
+      "timandra"
+    ],
+    "A44629-e34280": [
+      "cleander"
+    ],
+    "A44629-e34460": [
+      "damocles"
+    ],
+    "A44629-e34750": [
+      "damocles"
+    ],
+    "A44629-e34970": [
+      "waiter-1"
+    ],
+    "A44629-e35000": [
+      "damocles"
+    ],
+    "A44629-e35030": [
+      "waiter-1"
+    ],
+    "A44629-e35080": [
+      "damocles"
+    ],
+    "A44629-e35170": [
+      "hugo"
+    ],
+    "A44629-e35200": [
+      "damocles"
+    ],
+    "A44629-e35230": [
+      "hugo"
+    ],
+    "A44629-e35260": [
+      "damocles"
+    ],
+    "A44629-e35290": [
+      "hugo"
+    ],
+    "A44629-e35320": [
+      "damocles"
+    ],
+    "A44629-e35350": [
+      "hugo"
+    ],
+    "A44629-e35390": [
+      "damocles"
+    ],
+    "A44629-e35420": [
+      "hugo"
+    ],
+    "A44629-e35470": [
+      "damocles"
+    ],
+    "A44629-e35500": [
+      "hugo"
+    ],
+    "A44629-e35550": [
+      "damocles"
+    ],
+    "A44629-e35580": [
+      "hugo"
+    ],
+    "A44629-e35610": [
+      "damocles"
+    ],
+    "A44629-e35640": [
+      "hugo"
+    ],
+    "A44629-e35690": [
+      "damocles"
+    ],
+    "A44629-e35730": [
+      "hugo"
+    ],
+    "A44629-e35810": [
+      "damocles"
+    ],
+    "A44629-e35870": [
+      "hugo"
+    ],
+    "A44629-e35970": [
+      "damocles"
+    ],
+    "A44629-e36020": [
+      "hugo"
+    ],
+    "A44629-e36090": [
+      "damocles"
+    ],
+    "A44629-e36180": [
+      "hugo"
+    ],
+    "A44629-e36220": [
+      "damocles"
+    ],
+    "A44629-e36250": [
+      "hugo"
+    ],
+    "A44629-e36300": [
+      "damocles"
+    ],
+    "A44629-e36360": [
+      "captain"
+    ],
+    "A44629-e36390": [
+      "servant"
+    ],
+    "A44629-e36420": [
+      "captain"
+    ],
+    "A44629-e36460": [
+      "soldier-1"
+    ],
+    "A44629-e36510": [
+      "corporal"
+    ],
+    "A44629-e36570": [
+      "soldier-1"
+    ],
+    "A44629-e36670": [
+      "captain"
+    ],
+    "A44629-e36700": [
+      "servant"
+    ],
+    "A44629-e36730": [
+      "captain"
+    ],
+    "A44629-e36760": [
+      "servant"
+    ],
+    "A44629-e36830": [
+      "captain"
+    ],
+    "A44629-e36930": [
+      "servant"
+    ],
+    "A44629-e36980": [
+      "strato"
+    ],
+    "A44629-e37010": [
+      "captain"
+    ],
+    "A44629-e37040": [
+      "strato"
+    ],
+    "A44629-e37070": [
+      "captain"
+    ],
+    "A44629-e37100": [
+      "strato"
+    ],
+    "A44629-e37130": [
+      "captain"
+    ],
+    "A44629-e37210": [
+      "cleander"
+    ],
+    "A44629-e37290": [
+      "timandra"
+    ],
+    "A44629-e37320": [
+      "cleander"
+    ],
+    "A44629-e37380": [
+      "arisba"
+    ],
+    "A44629-e37430": [
+      "cleander"
+    ],
+    "A44629-e37470": [
+      "soldier-1"
+    ],
+    "A44629-e37500": [
+      "cleander"
+    ],
+    "A44629-e37530": [
+      "soldier-1"
+    ],
+    "A44629-e37620": [
+      "corporal"
+    ],
+    "A44629-e37650": [
+      "cleander"
+    ],
+    "A44629-e37680": [
+      "corporal"
+    ],
+    "A44629-e37710": [
+      "cleander"
+    ],
+    "A44629-e37800": [
+      "timandra"
+    ],
+    "A44629-e37830": [
+      "cleander"
+    ],
+    "A44629-e37880": [
+      "captain"
+    ],
+    "A44629-e37950": [
+      "cleander"
+    ],
+    "A44629-e38020": [
+      "strato"
+    ],
+    "A44629-e38050": [
+      "proclus"
+    ],
+    "A44629-e38080": [
+      "strato"
+    ],
+    "A44629-e38110": [
+      "proclus"
+    ],
+    "A44629-e38140": [
+      "dionysius"
+    ],
+    "A44629-e38220": [
+      "cleander"
+    ],
+    "A44629-e38280": [
+      "dionysius"
+    ],
+    "A44629-e38310": [
+      "cleander"
+    ],
+    "A44629-e38370": [
+      "dionysius"
+    ],
+    "A44629-e38410": [
+      "proclus"
+    ],
+    "A44629-e38510": [
+      "parmenio"
+    ],
+    "A44629-e38570": [
+      "damocles"
+    ],
+    "A44629-e38600": [
+      "timandra"
+    ],
+    "A44629-e38630": [
+      "damocles"
+    ],
+    "A44629-e38690": [
+      "cleander"
+    ],
+    "A44629-e38780": [
+      "damocles"
+    ],
+    "A44629-e38840": [
+      "timandra"
+    ],
+    "A44629-e38880": [
+      "damocles"
+    ],
+    "A44629-e38910": [
+      "cleander"
+    ],
+    "A44629-e38960": [
+      "dionysius"
+    ],
+    "A44629-e39020": [
+      "damocles"
+    ],
+    "A44629-e39090": [
+      "hugo"
+    ],
+    "A44629-e39140": [
+      "cleander"
+    ],
+    "A44629-e39170": [
+      "hugo"
+    ],
+    "A44629-e39200": [
+      "dionysius"
+    ],
+    "A44629-e39230": [
+      "hugo"
+    ],
+    "A44629-e39300": [
+      "cleander"
+    ],
+    "A44629-e39330": [
+      "damocles"
+    ],
+    "A44629-e39370": [
+      "parmenio"
+    ],
+    "A44629-e39400": [
+      "timandra"
+    ],
+    "A44629-e39450": [
+      "dionysius"
+    ],
+    "A44629-e39530": [
+      "damocles"
+    ],
+    "A44629-e39570": [
+      "cleander"
+    ],
+    "A44629-e39690": [
+      "damocles"
+    ],
+    "A44629-e39720": [
+      "cleander"
+    ],
+    "A44629-e39750": [
+      "damocles"
+    ],
+    "A44629-e39800": [
+      "cleander"
+    ],
+    "A44629-e39950": [
+      "cleomenes",
+      "alexius",
+      "timandra",
+      "parmenio",
+      "hugo"
+    ],
+    "A44629-e39980": [
+      "cleander"
+    ],
+    "A44629-e40030": [
+      "damocles"
+    ],
+    "A44629-e40120": [
+      "hugo"
+    ],
+    "A44629-e40180": [
+      "cleomenes"
+    ],
+    "A44629-e40210": [
+      "cleander"
+    ],
+    "A44629-e40260": [
+      "cleomenes"
+    ],
+    "A44629-e40290": [
+      "cleander"
+    ],
+    "A44629-e40330": [
+      "timandra"
+    ],
+    "A44629-e40360": [
+      "cleander"
+    ],
+    "A44629-e40530": [
+      "calanthe"
+    ],
+    "A44629-e40610": [
+      "parmenio"
+    ],
+    "A44629-e40680": [
+      "calanthe"
+    ],
+    "A44629-e40740": [
+      "parmenio"
+    ],
+    "A44629-e40790": [
+      "calanthe"
+    ],
+    "A44629-e40820": [
+      "parmenio"
+    ],
+    "A44629-e40880": [
+      "calanthe"
+    ],
+    "A44629-e40930": [
+      "parmenio"
+    ],
+    "A44629-e40960": [
+      "calanthe"
+    ],
+    "A44629-e41070": [
+      "cleander"
+    ],
+    "A44629-e41100": [
+      "calanthe"
+    ],
+    "A44629-e41130": [
+      "cleander"
+    ],
+    "A44629-e41190": [
+      "calanthe"
+    ],
+    "A44629-e41230": [
+      "cleander"
+    ],
+    "A44629-e41280": [
+      "calanthe"
+    ],
+    "A44629-e41310": [
+      "cleander"
+    ],
+    "A44629-e41400": [
+      "calanthe"
+    ],
+    "A44629-e41440": [
+      "cleander"
+    ],
+    "A44629-e41500": [
+      "calanthe"
+    ],
+    "A44629-e41530": [
+      "cleander"
+    ],
+    "A44629-e41580": [
+      "calanthe"
+    ],
+    "A44629-e41620": [
+      "cleander"
+    ],
+    "A44629-e41680": [
+      "calanthe"
+    ],
+    "A44629-e41740": [
+      "cleander"
+    ],
+    "A44629-e41770": [
+      "calanthe"
+    ],
+    "A44629-e41830": [
+      "cleander"
+    ],
+    "A44629-e41860": [
+      "calanthe"
+    ],
+    "A44629-e41920": [
+      "cleander"
+    ],
+    "A44629-e41950": [
+      "calanthe"
+    ],
+    "A44629-e42060": [
+      "cleander"
+    ],
+    "A44629-e42100": [
+      "calanthe"
+    ],
+    "A44629-e42140": [
+      "calanthe"
+    ],
+    "A44629-e42170": [
+      "cleander"
+    ],
+    "A44629-e42330": [
+      "timandra"
+    ],
+    "A44629-e42360": [
+      "calanthe"
+    ],
+    "A44629-e42410": [
+      "cleander"
+    ],
+    "A44629-e42550": [
+      "calanthe"
+    ],
+    "A44629-e42580": [
+      "timandra"
+    ],
+    "A44629-e42650": [
+      "cleander"
+    ],
+    "A44629-e42710": [
+      "timandra"
+    ],
+    "A44629-e42740": [
+      "cleander"
+    ],
+    "A44629-e42770": [
+      "calanthe"
+    ],
+    "A44629-e42810": [
+      "cleander"
+    ],
+    "A44629-e42970": [
+      "timandra"
+    ],
+    "A44629-e43060": [
+      "cleomenes"
+    ],
+    "A44629-e43090": [
+      "attendant-1"
+    ],
+    "A44629-e43130": [
+      "timandra"
+    ],
+    "A44629-e43170": [
+      "attendant-2"
+    ],
+    "A44629-e43200": [
+      "cleander"
+    ],
+    "A44629-e43240": [
+      "cleomenes"
+    ],
+    "A44629-e43270": [
+      "calanthe"
+    ],
+    "A44629-e43310": [
+      "cleomenes"
+    ],
+    "A44629-e43430": [
+      "parmenio"
+    ],
+    "A44629-e43480": [
+      "cleomenes"
+    ],
+    "A44629-e43510": [
+      "parmenio"
+    ],
+    "A44629-e43570": [
+      "cleomenes"
+    ],
+    "A44629-e43650": [
+      "arisba"
+    ],
+    "A44629-e43690": [
+      "cleomenes"
+    ],
+    "A44629-e43720": [
+      "arisba"
+    ],
+    "A44629-e43750": [
+      "cleomenes"
+    ],
+    "A44629-e43790": [
+      "arisba"
+    ],
+    "A44629-e43850": [
+      "cleomenes"
+    ],
+    "A44629-e43880": [
+      "arisba"
+    ],
+    "A44629-e43910": [
+      "cleomenes"
+    ],
+    "A44629-e43940": [
+      "arisba"
+    ],
+    "A44629-e44000": [
+      "cleomenes"
+    ],
+    "A44629-e44030": [
+      "arisba"
+    ],
+    "A44629-e44070": [
+      "cleomenes"
+    ],
+    "A44629-e44100": [
+      "arisba"
+    ],
+    "A44629-e44190": [
+      "cleomenes"
+    ],
+    "A44629-e44230": [
+      "arisba"
+    ],
+    "A44629-e44290": [
+      "cleomenes"
+    ],
+    "A44629-e44320": [
+      "arisba"
+    ],
+    "A44629-e44350": [
+      "cleomenes"
+    ],
+    "A44629-e44410": [
+      "arisba"
+    ],
+    "A44629-e44440": [
+      "cleomenes"
+    ],
+    "A44629-e44510": [
+      "cleomenes"
+    ],
+    "A44629-e44580": [
+      "timandra"
+    ],
+    "A44629-e44660": [
+      "servant"
+    ],
+    "A44629-e44700": [
+      "timandra"
+    ],
+    "A44629-e44810": [
+      "attendant-1",
+      "attendant-2"
+    ],
+    "A44629-e44870": [
+      "timandra"
+    ],
+    "A44629-e44940": [
+      "dionysius"
+    ],
+    "A44629-e45020": [
+      "cleomenes"
+    ],
+    "A44629-e45100": [
+      "dionysius"
+    ],
+    "A44629-e45140": [
+      "cleomenes"
+    ],
+    "A44629-e45310": [
+      "cleomenes"
+    ],
+    "A44629-e45350": [
+      "damocles"
+    ],
+    "A44629-e45410": [
+      "cleomenes"
+    ],
+    "A44629-e45470": [
+      "damocles"
+    ],
+    "A44629-e45660": [
+      "timandra"
+    ],
+    "A44629-e45750": [
+      "damocles"
+    ],
+    "A44629-e45820": [
+      "timandra"
+    ],
+    "A44629-e45860": [
+      "damocles"
+    ],
+    "A44629-e45910": [
+      "timandra"
+    ],
+    "A44629-e45950": [
+      "damocles"
+    ],
+    "A44629-e46000": [
+      "timandra"
+    ],
+    "A44629-e46030": [
+      "damocles"
+    ],
+    "A44629-e46130": [
+      "hugo"
+    ],
+    "A44629-e46170": [
+      "timandra"
+    ],
+    "A44629-e46230": [
+      "hugo"
+    ],
+    "A44629-e46270": [
+      "damocles"
+    ],
+    "A44629-e46340": [
+      "dionysius"
+    ],
+    "A44629-e46410": [
+      "damocles"
+    ],
+    "A44629-e46470": [
+      "dionysius"
+    ],
+    "A44629-e46520": [
+      "cleomenes"
+    ],
+    "A44629-e46550": [
+      "damocles"
+    ],
+    "A44629-e46580": [
+      "cleomenes"
+    ],
+    "A44629-e46610": [
+      "damocles"
+    ],
+    "A44629-e46640": [
+      "cleomenes"
+    ],
+    "A44629-e46710": [
+      "damocles"
+    ],
+    "A44629-e46740": [
+      "cleomenes"
+    ],
+    "A44629-e46850": [
+      "damocles"
+    ],
+    "A44629-e46880": [
+      "cleomenes"
+    ],
+    "A44629-e46960": [
+      "damocles"
+    ],
+    "A44629-e47000": [
+      "cleomenes"
+    ],
+    "A44629-e47170": [
+      "parmenio"
+    ],
+    "A44629-e47240": [
+      "hugo"
+    ],
+    "A44629-e47360": [
+      "soldier"
+    ],
+    "A44629-e47390": [
+      "hugo"
+    ],
+    "A44629-e47420": [
+      "soldier"
+    ],
+    "A44629-e47470": [
+      "hugo"
+    ],
+    "A44629-e47530": [
+      "soldier"
+    ],
+    "A44629-e47560": [
+      "hugo"
+    ],
+    "A44629-e47600": [
+      "soldier"
+    ],
+    "A44629-e47630": [
+      "hugo"
+    ],
+    "A44629-e47670": [
+      "soldier"
+    ],
+    "A44629-e47700": [
+      "hugo"
+    ],
+    "A44629-e47760": [
+      "soldier"
+    ],
+    "A44629-e47790": [
+      "hugo"
+    ],
+    "A44629-e47820": [
+      "soldier"
+    ],
+    "A44629-e47850": [
+      "hugo"
+    ],
+    "A44629-e47880": [
+      "soldier"
+    ],
+    "A44629-e47950": [
+      "hugo"
+    ],
+    "A44629-e48020": [
+      "soldier"
+    ],
+    "A44629-e48080": [
+      "hugo"
+    ],
+    "A44629-e48120": [
+      "soldier"
+    ],
+    "A44629-e48150": [
+      "hugo"
+    ],
+    "A44629-e48180": [
+      "soldier"
+    ],
+    "A44629-e48210": [
+      "hugo"
+    ],
+    "A44629-e48240": [
+      "cleomenes"
+    ],
+    "A44629-e48330": [
+      "hugo"
+    ],
+    "A44629-e48390": [
+      "cleomenes"
+    ],
+    "A44629-e48470": [
+      "senator-1",
+      "senator-2",
+      "senator-3"
+    ],
+    "A44629-e48540": [
+      "hugo"
+    ],
+    "A44629-e48580": [
+      "soldier"
+    ],
+    "A44629-e48610": [
+      "hugo"
+    ],
+    "A44629-e48640": [
+      "soldier"
+    ],
+    "A44629-e48670": [
+      "hugo"
+    ],
+    "A44629-e48700": [
+      "soldier"
+    ],
+    "A44629-e48740": [
+      "hugo"
+    ],
+    "A44629-e48770": [
+      "soldier"
+    ],
+    "A44629-e48800": [
+      "hugo"
+    ],
+    "A44629-e48830": [
+      "soldier"
+    ],
+    "A44629-e48870": [
+      "hugo"
+    ],
+    "A44629-e48900": [
+      "soldier"
+    ],
+    "A44629-e48950": [
+      "hugo"
+    ],
+    "A44629-e48980": [
+      "soldier"
+    ],
+    "A44629-e49070": [
+      "cleomenes"
+    ],
+    "A44629-e49240": [
+      "senator-1",
+      "senator-2",
+      "senator-3"
+    ],
+    "A44629-e49270": [
+      "cleomenes"
+    ],
+    "A44629-e49330": [
+      "senator-1"
+    ],
+    "A44629-e49360": [
+      "cleomenes"
+    ],
+    "A44629-e49500": [
+      "senator-1"
+    ],
+    "A44629-e49560": [
+      "cleomenes"
+    ],
+    "A44629-e49630": [
+      "calanthe"
+    ],
+    "A44629-e49670": [
+      "senator-1",
+      "senator-2",
+      "senator-3"
+    ],
+    "A44629-e49700": [
+      "cleomenes"
+    ],
+    "A44629-e49750": [
+      "calanthe"
+    ],
+    "A44629-e49830": [
+      "cleomenes"
+    ],
+    "A44629-e49870": [
+      "senator-1",
+      "senator-2",
+      "senator-3"
+    ],
+    "A44629-e49920": [
+      "cleomenes"
+    ],
+    "A44629-e49970": [
+      "calanthe"
+    ],
+    "A44629-e50040": [
+      "cleander"
+    ],
+    "A44629-e50100": [
+      "senator-1",
+      "senator-2",
+      "senator-3"
+    ],
+    "A44629-e50150": [
+      "cleander"
+    ],
+    "A44629-e50190": [
+      "senator-1",
+      "senator-2",
+      "senator-3"
+    ],
+    "A44629-e50260": [
+      "cleander"
+    ],
+    "A44629-e50400": [
+      "cleomenes"
+    ],
+    "A44629-e50480": [
+      "timandra"
+    ],
+    "A44629-e50510": [
+      "calanthe"
+    ],
+    "A44629-e50550": [
+      "timandra"
+    ],
+    "A44629-e50580": [
+      "cleander"
+    ],
+    "A44629-e50630": [
+      "calanthe"
+    ],
+    "A44629-e50680": [
+      "cleander"
+    ],
+    "A44629-e50730": [
+      "calanthe"
+    ],
+    "A44629-e50760": [
+      "cleander"
+    ],
+    "A44629-e50790": [
+      "cleomenes"
+    ],
+    "A44629-e50850": [
+      "cleander"
+    ],
+    "A44629-e50880": [
+      "cleomenes"
+    ],
+    "A44629-e50910": [
+      "cleander"
+    ],
+    "A44629-e51020": [
+      "calanthe"
+    ],
+    "A44629-e51120": [
+      "cleomenes"
+    ],
+    "A44629-e51150": [
+      "cleander"
+    ],
+    "A44629-e51230": [
+      "cleomenes"
+    ],
+    "A44629-e51320": [
+      "damocles"
+    ],
+    "A44629-e51350": [
+      "sicanus"
+    ],
+    "A44629-e51380": [
+      "damocles"
+    ],
+    "A44629-e51410": [
+      "dorion"
+    ],
+    "A44629-e51440": [
+      "damocles"
+    ],
+    "A44629-e51550": [
+      "cleomenes"
+    ],
+    "A44629-e51590": [
+      "damocles"
+    ],
+    "A44629-e51640": [
+      "cleomenes"
+    ],
+    "A44629-e51680": [
+      "damocles"
+    ],
+    "A44629-e51770": [
+      "cleomenes"
+    ],
+    "A44629-e51820": [
+      "hugo"
+    ],
+    "A44629-e51860": [
+      "cleander"
+    ],
+    "A44629-e51890": [
+      "hugo"
+    ],
+    "A44629-e51920": [
+      "cleander"
+    ],
+    "A44629-e51990": [
+      "alexius"
+    ],
+    "A44629-e52030": [
+      "hugo"
+    ],
+    "A44629-e52100": [
+      "damocles"
+    ],
+    "A44629-e52170": [
+      "cleander"
+    ],
+    "A44629-e52200": [
+      "damocles"
+    ],
+    "A44629-e52320": [
+      "alexius"
+    ],
+    "A44629-e52350": [
+      "cleander"
+    ],
+    "A44629-e52450": [
+      "senator-1",
+      "senator-2",
+      "senator-3"
+    ],
+    "A44629-e52490": [
+      "cleander"
+    ],
+    "A44629-e52540": [
+      "cleomenes"
+    ],
+    "A44629-e52600": [
+      "cleander"
+    ],
+    "A44629-e52630": [
+      "cleomenes"
+    ],
+    "A44629-e52700": [
+      "calanthe"
+    ],
+    "A44629-e52730": [
+      "cleander"
+    ],
+    "A44629-e52810": [
+      "cleomenes"
+    ],
+    "A44629-e52850": [
+      "cleander"
+    ]
+  }
+}

@@ -1,9 +1,15 @@
 {
   "particDesc": [
     {
-      "name": "Another God",
-      "id": "another-god",
+      "name": "Other God",
+      "id": "other-god",
       "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Thieves",
+      "id": "thieves",
+      "isGroup": true,
       "sex": "MALE"
     },
     {
@@ -18,24 +24,6 @@
       "isGroup": false,
       "sex": "MALE"
     },
-	{
-      "name": "Gods and Goddesses",
-      "id": "gods-and-goddesses",
-      "isGroup": true,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "Voices",
-      "id": "voices",
-      "isGroup": true,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "A Nymph",
-      "id": "a-nymph",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
     {
       "name": "Watch",
       "id": "watch",
@@ -43,26 +31,110 @@
       "sex": "MALE"
     },
     {
-      "name": "Murderer III",
-      "id": "murderer-iii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-	{
-      "name": "Murderer II",
-      "id": "murderer-ii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-	{
-      "name": "Murderer I",
-      "id": "murderer-i",
+      "name": "Murtherer",
+      "id": "murtherer",
       "isGroup": false,
       "sex": "MALE"
     },
     {
       "name": "Constable",
       "id": "constable",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Man 1",
+      "id": "man-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man 3",
+      "id": "man-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man 2",
+      "id": "man-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Devil",
+      "id": "devil",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Conjurer",
+      "id": "conjurer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Nymph 4",
+      "id": "nymph-4",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nymph 3",
+      "id": "nymph-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nymph 2",
+      "id": "nymph-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nymph 1",
+      "id": "nymph-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Recorders",
+      "id": "recorders",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Clown 4",
+      "id": "clown-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Clown 3",
+      "id": "clown-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Clown 2",
+      "id": "clown-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Clown 1",
+      "id": "clown-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boy",
+      "id": "boy",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -73,134 +145,20 @@
       "sex": "MALE"
     },
     {
-      "name": "Servant III",
-      "id": "servant-iii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Servant II",
-      "id": "servant-ii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Servant I",
-      "id": "servant-i",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Devil",
-      "id": "devil",
-      "isGroup": false,
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
       "sex": "UNKNOWN"
     },
     {
-      "name": "Conjurer",
-      "id": "conjurer",
+      "name": "Footboy 2",
+      "id": "footboy-2",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Hare's comrade III",
-      "id": "hare-s-comrade-iii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Hare's comrade II",
-      "id": "hare-s-comrade-ii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Hare's comrade I",
-      "id": "hare-s-comrade-i",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Watchman II",
-      "id": "watchman-ii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Watchman I",
-      "id": "watchman-i",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Clown IV",
-      "id": "clown-iv",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Clown III",
-      "id": "clown-iii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Clown II",
-      "id": "clown-ii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Clown I",
-      "id": "clown-i",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Boy I",
-      "id": "boy-i",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-	    "name": "Boy II",
-      "id": "boy-ii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Nymph IV",
-      "id": "nymph-iv",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Nymph III",
-      "id": "nymph-iii",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Nymph II",
-      "id": "nymph-ii",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Nymph I",
-      "id": "nymph-i",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Foot-Boy II",
-      "id": "foot-boy-ii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Foot-Boy I",
-      "id": "foot-boy-i",
+      "name": "Footboy 1",
+      "id": "footboy-1",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -372,16 +330,16 @@
       "litus"
     ],
     "A29360-e2280": [
-      "foot-boy-i"
+      "footboy-1"
     ],
     "A29360-e2320": [
-      "foot-boy-ii"
+      "footboy-2"
     ],
     "A29360-e2360": [
-      "foot-boy-i"
+      "footboy-1"
     ],
     "A29360-e2410": [
-      "foot-boy-ii"
+      "footboy-2"
     ],
     "A29360-e2470": [
       "litus"
@@ -390,37 +348,37 @@
       "berania"
     ],
     "A29360-e2730": [
-      "lonus"
+      "losana"
     ],
     "A29360-e2760": [
       "berania"
     ],
     "A29360-e2790": [
-      "lonus"
+      "losana"
     ],
     "A29360-e2900": [
       "berania"
     ],
     "A29360-e2930": [
-      "lonus"
+      "losana"
     ],
     "A29360-e3020": [
       "berania"
     ],
     "A29360-e3070": [
-      "lonus"
+      "losana"
     ],
     "A29360-e3110": [
       "berania"
     ],
     "A29360-e3140": [
-      "lonus"
+      "losana"
     ],
     "A29360-e3240": [
       "berania"
     ],
     "A29360-e3330": [
-      "lonus"
+      "losana"
     ],
     "A29360-e3400": [
       "berania"
@@ -429,19 +387,19 @@
       "litus"
     ],
     "A29360-e3650": [
-      "lonus"
+      "losana"
     ],
     "A29360-e3680": [
       "litus"
     ],
     "A29360-e3710": [
-      "lonus"
+      "losana"
     ],
     "A29360-e3740": [
       "litus"
     ],
     "A29360-e3770": [
-      "lonus"
+      "losana"
     ],
     "A29360-e3810": [
       "litus"
@@ -579,7 +537,7 @@
       "lidorus"
     ],
     "A29360-e6430": [
-      "boy-i"
+      "boy"
     ],
     "A29360-e6470": [
       "lidorus"
@@ -634,7 +592,7 @@
     ],
     "A29360-e7410": [
       "petus",
-	  "lidorus"
+      "lidorus"
     ],
     "A29360-e7440": [
       "occus"
@@ -863,7 +821,7 @@
     ],
     "A29360-e11970": [
       "petus",
-	  "lidorus"
+      "lidorus"
     ],
     "A29360-e12000": [
       "berania"
@@ -1260,7 +1218,7 @@
     ],
     "A29360-e18700": [
       "petus",
-	  "lidorus"
+      "lidorus"
     ],
     "A29360-e18770": [
       "beucer"
@@ -1377,88 +1335,89 @@
       "winifred"
     ],
     "A29360-e20630": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e20670": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e20700": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e20730": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e20760": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e20790": [
-      "clown-ii"
+      "clown-2"
+    ],
+    "A29360-e20820": [
+      "recorders"
     ],
     "A29360-e20870": [
-      "nymph-i"
+      "nymph-1"
     ],
     "A29360-e20910": [
-      "nymph-ii"
+      "nymph-2"
     ],
     "A29360-e20960": [
-      "nymph-iii"
+      "nymph-3"
     ],
     "A29360-e21050": [
-      "nymph-iv"
+      "nymph-4"
     ],
     "A29360-e21130": [
-      "nymph-iv",
-      "nymph-iii",
-      "nymph-ii",
-      "nymph-i"
+      "chorus"
     ],
     "A29360-e21200": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e21240": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e21270": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e21300": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e21330": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e21370": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e21410": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e21440": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e21470": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e21500": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e21530": [
-      "clown-i",
-      "clown-ii"
+      "clown-1",
+      "clown-2"
     ],
     "A29360-e21570": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e21610": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e21640": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e21670": [
-      "clown-i",
-	  "clown-ii",
-	  "clown-iv"
+      "clown-1",
+	  "clown-2",
+	  "clown-3",
+	  "clown-4"
     ],
     "A29360-e21730": [
       "petus"
@@ -1590,28 +1549,28 @@
       "hare"
     ],
     "A29360-e23640": [
-      "hare's-comrade-i"
+      "man-1"
     ],
     "A29360-e23680": [
-      "hare-s-comrade-ii"
+      "man-2"
     ],
     "A29360-e23710": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e23740": [
       "hare"
     ],
     "A29360-e23800": [
-      "hare-s-comrade-ii"
+      "man-2"
     ],
     "A29360-e23840": [
       "hare"
     ],
     "A29360-e23890": [
-      "hare-s-comrade-i"
+      "man-1"
     ],
     "A29360-e23950": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e24020": [
       "hare"
@@ -1632,73 +1591,72 @@
       "occus"
     ],
     "A29360-e24240": [
-      "hare-s-comrade-i"
+      "man-1"
     ],
     "A29360-e24270": [
       "hare"
     ],
     "A29360-e24300": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e24410": [
       "hare"
     ],
     "A29360-e24440": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e24530": [
-      "hare",
-	  "hare-s-comrade-i",
-	  "hare-s-comrade-ii",
-	  "conjurer"
+      "man-1",
+	  "man-2",
+	  "man-3"
     ],
     "A29360-e24560": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e24600": [
-      "hare-s-comrade-ii"
+      "man-2"
     ],
     "A29360-e24670": [
-      "hare-s-comrade-i"
+      "man-1"
     ],
     "A29360-e24770": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e24810": [
       "occus"
     ],
     "A29360-e24840": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e24870": [
       "occus"
     ],
     "A29360-e24900": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e24940": [
       "occus"
     ],
     "A29360-e24970": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e25000": [
       "occus"
     ],
     "A29360-e25030": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e25060": [
       "occus"
     ],
     "A29360-e25120": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e25160": [
       "occus"
     ],
     "A29360-e25240": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e25270": [
       "occus"
@@ -1716,7 +1674,7 @@
       "occus"
     ],
     "A29360-e25510": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e25560": [
       "conjurer"
@@ -1758,13 +1716,13 @@
       "occus"
     ],
     "A29360-e26150": [
-      "hare"
+      "devil"
     ],
     "A29360-e26280": [
       "lonus"
     ],
     "A29360-e26420": [
-      "servant-i"
+      "servant"
     ],
     "A29360-e26510": [
       "lonus"
@@ -1794,13 +1752,13 @@
       "lonus"
     ],
     "A29360-e27030": [
-      "servant-i"
+      "servant"
     ],
     "A29360-e27070": [
       "lonus"
     ],
     "A29360-e27290": [
-      "servant-ii"
+      "servant"
     ],
     "A29360-e27320": [
       "lonus"
@@ -1812,7 +1770,7 @@
       "lonus"
     ],
     "A29360-e27500": [
-      "servant-ii"
+      "servant"
     ],
     "A29360-e27540": [
       "marus"
@@ -1896,46 +1854,46 @@
       "hare"
     ],
     "A29360-e29040": [
-      "hare-s-comrade-ii"
+      "man-2"
     ],
     "A29360-e29080": [
-      "hare-s-comrade-iii"
+      "man-3"
     ],
     "A29360-e29120": [
-      "hare-s-comrade-i"
+      "clown-1"
     ],
     "A29360-e29150": [
-      "hare-s-comrade-ii"
+      "clown-2"
     ],
     "A29360-e29230": [
-      "hare-s-comrade-iii"
+      "clown-3"
     ],
     "A29360-e29260": [
       "hare"
     ],
     "A29360-e29310": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e29350": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e29390": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e29420": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e29450": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e29490": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e29520": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e29550": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e29630": [
       "petus"
@@ -2145,52 +2103,52 @@
       "beucer"
     ],
     "A29360-e33540": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e33580": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e33630": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e33680": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e33730": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e33760": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e33790": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e33850": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e33900": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e33940": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e33970": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e34000": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e34030": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e34070": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e34100": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e34130": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e34220": [
       "beucer"
@@ -2388,25 +2346,25 @@
       "petus"
     ],
     "A29360-e39220": [
-      "servant-iii"
+      "servant"
     ],
     "A29360-e39260": [
       "petus"
     ],
     "A29360-e39510": [
-      "watchman-i"
+      "clown-1"
     ],
     "A29360-e39550": [
-      "watchman-ii"
+      "clown-2"
     ],
     "A29360-e39580": [
-      "watchman-i"
+      "clown-1"
     ],
     "A29360-e39610": [
-      "watchman-ii"
+      "clown-2"
     ],
     "A29360-e39640": [
-      "watchman-i"
+      "clown-1"
     ],
     "A29360-e39710": [
       "marus"
@@ -2445,8 +2403,8 @@
       "king"
     ],
     "A29360-e40170": [
-      "chancellor",
-	  "marus"
+      "petus",
+      "lidorus"
     ],
     "A29360-e40250": [
       "litus"
@@ -2503,110 +2461,110 @@
       "losana"
     ],
     "A29360-e41410": [
-      "murderer-i",
-	  "murderer-ii",
-	  "murderer-iii"
+      "man-1",
+	  "man-2",
+	  "man-3"
     ],
     "A29360-e41440": [
       "losana"
     ],
     "A29360-e41510": [
-      "murderer-i"
+      "man-1"
     ],
     "A29360-e41540": [
-      "murderer-ii"
+      "man-2"
     ],
     "A29360-e41570": [
-      "murderer-iii"
+      "man-3"
     ],
     "A29360-e41600": [
       "losana"
     ],
     "A29360-e41630": [
-      "murderer-i"
+      "man-1"
     ],
     "A29360-e41660": [
-      "murderer-ii"
+      "man-2"
     ],
     "A29360-e41690": [
-      "murderer-iii"
+      "man-3"
     ],
     "A29360-e41730": [
       "losana"
     ],
     "A29360-e41770": [
-      "murderer-i",
-	  "murderer-ii",
-	  "murderer-iii"
+      "man-1",
+	  "man-2",
+	  "man-3"
     ],
     "A29360-e41840": [
       "losana"
     ],
     "A29360-e41890": [
-      "boy-ii"
+      "boy"
     ],
     "A29360-e41960": [
-      "boy-ii"
+      "boy"
     ],
     "A29360-e41990": [
       "petus"
     ],
     "A29360-e42020": [
-      "boy-ii"
+      "boy"
     ],
     "A29360-e42070": [
       "petus"
     ],
     "A29360-e42150": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e42180": [
       "petus"
     ],
     "A29360-e42210": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e42250": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e42290": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e42320": [
       "petus"
     ],
     "A29360-e42360": [
-      "clown-i",
-	  "clown-ii",
-	  "clown-iii",
-	  "clown-iv"
+      "clown-1",
+	  "clown-2",
+	  "clown-3",
+	  "clown-4"
     ],
     "A29360-e42390": [
-      "clown-ii"
+      "clown-2"
     ],
     "A29360-e42420": [
       "petus"
     ],
     "A29360-e42450": [
-      "clown-i"
+      "clown-1"
     ],
     "A29360-e42480": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e42510": [
-      "clown-iii"
+      "clown-3"
     ],
     "A29360-e42540": [
       "petus"
     ],
     "A29360-e42580": [
-      "clown-i",
-	  "clown-ii",
-	  "clown-iii",
-	  "clown-iv"
+      "clown-1",
+	  "clown-2",
+	  "clown-3",
+	  "clown-4"
     ],
     "A29360-e42630": [
-      "clown-iv"
+      "clown-4"
     ],
     "A29360-e42710": [
       "losana"
@@ -2627,9 +2585,7 @@
       "litus"
     ],
     "A29360-e43120": [
-      "murderer-i",
-	  "murderer-ii",
-	  "murderer-iii"
+      "thieves"
     ],
     "A29360-e43180": [
       "petus"
@@ -2647,7 +2603,7 @@
       "petus"
     ],
     "A29360-e43470": [
-      "murderer-i"
+      "murtherer"
     ],
     "A29360-e43500": [
       "constable"
@@ -2659,22 +2615,22 @@
       "lonus"
     ],
     "A29360-e43650": [
-      "a-nymph"
+      "nymph-1"
     ],
     "A29360-e43690": [
-      "voices"
+      "nymph-1"
     ],
     "A29360-e43740": [
-      "a-nymph"
+      "nymph-1"
     ],
     "A29360-e43780": [
-      "voices"
+      "nymph-1"
     ],
     "A29360-e43820": [
-      "a-nymph"
+      "nymph-1"
     ],
     "A29360-e43860": [
-      "voices"
+      "nymph-1"
     ],
     "A29360-e43990": [
       "berania"
@@ -2746,7 +2702,8 @@
       "petus",
 	  "marus",
 	  "berania",
-	  "hacca"
+	  "hacca",
+	  "occus"
     ],
     "A29360-e45480": [
       "petus"
@@ -2800,13 +2757,13 @@
       "hymen"
     ],
     "A29360-e46510": [
-      "gods-and-goddesses"
+      "chorus"
     ],
     "A29360-e46630": [
-      "gods-and-goddesses"
+      "chorus"
     ],
     "A29360-e46670": [
-      "another-god"
+      "other-god"
     ]
   }
 }

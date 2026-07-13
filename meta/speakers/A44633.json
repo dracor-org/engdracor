@@ -1,0 +1,2941 @@
+{
+  "particDesc": [
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Gentlewoman",
+      "id": "gentlewoman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Parson",
+      "id": "parson",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mrs. Crafty 2",
+      "id": "mrs-crafty-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Atkins",
+      "id": "atkins",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Alsworth",
+      "id": "alsworth",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Shopkeeper",
+      "id": "shopkeeper",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lady 1",
+      "id": "lady-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Merchant",
+      "id": "merchant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "French Taylor",
+      "id": "french-taylor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "English Taylor",
+      "id": "english-taylor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "French Lacquie",
+      "id": "french-lacquie",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Milliner",
+      "id": "milliner",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mrs. Crafty",
+      "id": "mrs-crafty",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Boy",
+      "id": "boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mr-welbred",
+      "name": "Mr. Welbred",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mr-comely",
+      "name": "Mr. Comely",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mr-frenchlove",
+      "name": "Mr. Frenchlove",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mr-vaine",
+      "name": "Mr. Vaine",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "jack-arch",
+      "name": "Jack Arch",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "gripe",
+      "name": "Gripe",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hector",
+      "name": "Hector",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "william",
+      "name": "William",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lacquies",
+      "name": "Lacquies",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "id": "porter",
+      "name": "Porter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "servant",
+      "name": "Servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "fidlers",
+      "name": "Fidlers",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "lady-wealthy",
+      "name": "Lady Wealthy",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "elsbeth",
+      "name": "Elsbeth",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "waiting-woman",
+      "name": "Waiting woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A44633-e750": [
+      "mr-welbred"
+    ],
+    "A44633-e790": [
+      "mr-comely"
+    ],
+    "A44633-e820": [
+      "mr-welbred"
+    ],
+    "A44633-e850": [
+      "mr-comely"
+    ],
+    "A44633-e880": [
+      "mr-welbred"
+    ],
+    "A44633-e940": [
+      "mr-comely"
+    ],
+    "A44633-e970": [
+      "mr-welbred"
+    ],
+    "A44633-e1000": [
+      "mr-comely"
+    ],
+    "A44633-e1030": [
+      "mr-welbred"
+    ],
+    "A44633-e1070": [
+      "mr-comely"
+    ],
+    "A44633-e1100": [
+      "mr-welbred"
+    ],
+    "A44633-e1160": [
+      "mr-comely"
+    ],
+    "A44633-e1190": [
+      "mr-vaine"
+    ],
+    "A44633-e1240": [
+      "mr-welbred"
+    ],
+    "A44633-e1280": [
+      "mr-vaine"
+    ],
+    "A44633-e1320": [
+      "mr-comely"
+    ],
+    "A44633-e1350": [
+      "mr-vaine"
+    ],
+    "A44633-e1380": [
+      "boy"
+    ],
+    "A44633-e1420": [
+      "mr-welbred"
+    ],
+    "A44633-e1460": [
+      "mr-vaine"
+    ],
+    "A44633-e1490": [
+      "mr-welbred"
+    ],
+    "A44633-e1520": [
+      "mr-vaine"
+    ],
+    "A44633-e1550": [
+      "mr-welbred"
+    ],
+    "A44633-e1580": [
+      "mr-vaine"
+    ],
+    "A44633-e1610": [
+      "mr-comely"
+    ],
+    "A44633-e1640": [
+      "mr-vaine"
+    ],
+    "A44633-e1670": [
+      "mr-welbred"
+    ],
+    "A44633-e1710": [
+      "mr-vaine"
+    ],
+    "A44633-e1740": [
+      "mr-comely"
+    ],
+    "A44633-e1770": [
+      "mr-vaine"
+    ],
+    "A44633-e1800": [
+      "mr-welbred"
+    ],
+    "A44633-e1860": [
+      "boy"
+    ],
+    "A44633-e1890": [
+      "mr-vaine"
+    ],
+    "A44633-e1920": [
+      "boy"
+    ],
+    "A44633-e1960": [
+      "mr-vaine"
+    ],
+    "A44633-e1990": [
+      "mr-comely"
+    ],
+    "A44633-e2030": [
+      "mr-welbred"
+    ],
+    "A44633-e2090": [
+      "mr-vaine"
+    ],
+    "A44633-e2120": [
+      "boy"
+    ],
+    "A44633-e2150": [
+      "mr-vaine"
+    ],
+    "A44633-e2180": [
+      "boy"
+    ],
+    "A44633-e2210": [
+      "mr-vaine"
+    ],
+    "A44633-e2250": [
+      "boy"
+    ],
+    "A44633-e2320": [
+      "mr-frenchlove"
+    ],
+    "A44633-e2350": [
+      "lacquies"
+    ],
+    "A44633-e2390": [
+      "mr-frenchlove"
+    ],
+    "A44633-e2550": [
+      "french-lacquie"
+    ],
+    "A44633-e2580": [
+      "mr-frenchlove"
+    ],
+    "A44633-e2630": [
+      "mr-welbred"
+    ],
+    "A44633-e2680": [
+      "mr-frenchlove"
+    ],
+    "A44633-e2730": [
+      "mr-welbred"
+    ],
+    "A44633-e2760": [
+      "lady-wealthy"
+    ],
+    "A44633-e2810": [
+      "lady-1"
+    ],
+    "A44633-e2850": [
+      "lady-wealthy"
+    ],
+    "A44633-e2890": [
+      "mr-frenchlove"
+    ],
+    "A44633-e2930": [
+      "mr-welbred"
+    ],
+    "A44633-e2960": [
+      "mr-frenchlove"
+    ],
+    "A44633-e3000": [
+      "mr-welbred"
+    ],
+    "A44633-e3080": [
+      "lady-wealthy"
+    ],
+    "A44633-e3120": [
+      "mr-frenchlove"
+    ],
+    "A44633-e3150": [
+      "lady-wealthy"
+    ],
+    "A44633-e3180": [
+      "mr-frenchlove"
+    ],
+    "A44633-e3210": [
+      "lady-wealthy"
+    ],
+    "A44633-e3250": [
+      "mr-frenchlove"
+    ],
+    "A44633-e3290": [
+      "lady-wealthy"
+    ],
+    "A44633-e3320": [
+      "mr-frenchlove"
+    ],
+    "A44633-e3350": [
+      "mr-welbred"
+    ],
+    "A44633-e3400": [
+      "lady-wealthy"
+    ],
+    "A44633-e3440": [
+      "mr-welbred"
+    ],
+    "A44633-e3480": [
+      "lady-wealthy"
+    ],
+    "A44633-e3510": [
+      "mr-welbred"
+    ],
+    "A44633-e3540": [
+      "lady-wealthy"
+    ],
+    "A44633-e3570": [
+      "mr-welbred"
+    ],
+    "A44633-e3600": [
+      "lady-wealthy"
+    ],
+    "A44633-e3630": [
+      "mr-welbred"
+    ],
+    "A44633-e3660": [
+      "lady-wealthy"
+    ],
+    "A44633-e3690": [
+      "mr-welbred"
+    ],
+    "A44633-e3720": [
+      "lady-wealthy"
+    ],
+    "A44633-e3750": [
+      "mr-welbred"
+    ],
+    "A44633-e3780": [
+      "lady-wealthy"
+    ],
+    "A44633-e3810": [
+      "mr-welbred"
+    ],
+    "A44633-e3840": [
+      "lady-wealthy"
+    ],
+    "A44633-e3870": [
+      "mr-welbred"
+    ],
+    "A44633-e3900": [
+      "lady-wealthy"
+    ],
+    "A44633-e3930": [
+      "mr-welbred"
+    ],
+    "A44633-e3960": [
+      "lady-wealthy"
+    ],
+    "A44633-e3990": [
+      "mr-welbred"
+    ],
+    "A44633-e4020": [
+      "lady-wealthy"
+    ],
+    "A44633-e4050": [
+      "mr-welbred"
+    ],
+    "A44633-e4080": [
+      "lady-wealthy"
+    ],
+    "A44633-e4110": [
+      "mr-welbred"
+    ],
+    "A44633-e4140": [
+      "lady-wealthy"
+    ],
+    "A44633-e4170": [
+      "mr-welbred"
+    ],
+    "A44633-e4200": [
+      "lady-wealthy"
+    ],
+    "A44633-e4270": [
+      "milliner"
+    ],
+    "A44633-e4300": [
+      "french-taylor"
+    ],
+    "A44633-e4330": [
+      "milliner"
+    ],
+    "A44633-e4390": [
+      "french-lacquie"
+    ],
+    "A44633-e4420": [
+      "milliner"
+    ],
+    "A44633-e4450": [
+      "french-taylor"
+    ],
+    "A44633-e4490": [
+      "french-lacquie"
+    ],
+    "A44633-e4540": [
+      "french-taylor"
+    ],
+    "A44633-e4650": [
+      "mr-frenchlove"
+    ],
+    "A44633-e4680": [
+      "english-taylor"
+    ],
+    "A44633-e4730": [
+      "mr-frenchlove"
+    ],
+    "A44633-e4770": [
+      "english-taylor"
+    ],
+    "A44633-e4800": [
+      "mr-frenchlove"
+    ],
+    "A44633-e4840": [
+      "milliner"
+    ],
+    "A44633-e4870": [
+      "english-taylor"
+    ],
+    "A44633-e4910": [
+      "milliner"
+    ],
+    "A44633-e4960": [
+      "french-lacquie"
+    ],
+    "A44633-e5010": [
+      "mr-frenchlove"
+    ],
+    "A44633-e5040": [
+      "english-taylor"
+    ],
+    "A44633-e5090": [
+      "french-taylor"
+    ],
+    "A44633-e5150": [
+      "mr-frenchlove"
+    ],
+    "A44633-e5200": [
+      "french-taylor"
+    ],
+    "A44633-e5230": [
+      "english-taylor"
+    ],
+    "A44633-e5270": [
+      "mr-frenchlove"
+    ],
+    "A44633-e5300": [
+      "english-taylor"
+    ],
+    "A44633-e5340": [
+      "mr-frenchlove"
+    ],
+    "A44633-e5380": [
+      "milliner"
+    ],
+    "A44633-e5410": [
+      "french-taylor"
+    ],
+    "A44633-e5460": [
+      "english-taylor"
+    ],
+    "A44633-e5490": [
+      "milliner"
+    ],
+    "A44633-e5520": [
+      "english-taylor"
+    ],
+    "A44633-e5580": [
+      "mr-frenchlove"
+    ],
+    "A44633-e5610": [
+      "french-taylor"
+    ],
+    "A44633-e5640": [
+      "mr-frenchlove"
+    ],
+    "A44633-e5670": [
+      "french-taylor"
+    ],
+    "A44633-e5720": [
+      "merchant"
+    ],
+    "A44633-e5750": [
+      "english-taylor"
+    ],
+    "A44633-e5780": [
+      "merchant"
+    ],
+    "A44633-e5810": [
+      "milliner"
+    ],
+    "A44633-e5840": [
+      "french-taylor"
+    ],
+    "A44633-e5870": [
+      "english-taylor"
+    ],
+    "A44633-e5910": [
+      "merchant"
+    ],
+    "A44633-e5950": [
+      "french-taylor"
+    ],
+    "A44633-e5990": [
+      "milliner"
+    ],
+    "A44633-e6110": [
+      "mrs-crafty"
+    ],
+    "A44633-e6190": [
+      "shopkeeper"
+    ],
+    "A44633-e6230": [
+      "mrs-crafty"
+    ],
+    "A44633-e6260": [
+      "shopkeeper"
+    ],
+    "A44633-e6300": [
+      "mrs-crafty"
+    ],
+    "A44633-e6360": [
+      "mr-frenchlove"
+    ],
+    "A44633-e6410": [
+      "mrs-crafty"
+    ],
+    "A44633-e6450": [
+      "mr-frenchlove"
+    ],
+    "A44633-e6510": [
+      "mrs-crafty"
+    ],
+    "A44633-e6540": [
+      "mr-frenchlove"
+    ],
+    "A44633-e6570": [
+      "mrs-crafty"
+    ],
+    "A44633-e6600": [
+      "shopkeeper"
+    ],
+    "A44633-e6630": [
+      "mrs-crafty"
+    ],
+    "A44633-e6660": [
+      "mr-frenchlove"
+    ],
+    "A44633-e6690": [
+      "mrs-crafty"
+    ],
+    "A44633-e6720": [
+      "mr-frenchlove"
+    ],
+    "A44633-e6750": [
+      "mrs-crafty"
+    ],
+    "A44633-e6780": [
+      "mr-frenchlove"
+    ],
+    "A44633-e6810": [
+      "mrs-crafty"
+    ],
+    "A44633-e6840": [
+      "mr-frenchlove"
+    ],
+    "A44633-e6870": [
+      "mrs-crafty"
+    ],
+    "A44633-e6900": [
+      "mr-frenchlove"
+    ],
+    "A44633-e6940": [
+      "mrs-crafty"
+    ],
+    "A44633-e6970": [
+      "mr-frenchlove"
+    ],
+    "A44633-e7000": [
+      "mrs-crafty"
+    ],
+    "A44633-e7090": [
+      "milliner"
+    ],
+    "A44633-e7120": [
+      "english-taylor"
+    ],
+    "A44633-e7150": [
+      "milliner"
+    ],
+    "A44633-e7180": [
+      "english-taylor"
+    ],
+    "A44633-e7210": [
+      "milliner"
+    ],
+    "A44633-e7260": [
+      "french-taylor"
+    ],
+    "A44633-e7300": [
+      "merchant"
+    ],
+    "A44633-e7340": [
+      "french-taylor"
+    ],
+    "A44633-e7390": [
+      "english-taylor"
+    ],
+    "A44633-e7420": [
+      "french-taylor"
+    ],
+    "A44633-e7460": [
+      "english-taylor"
+    ],
+    "A44633-e7500": [
+      "french-taylor"
+    ],
+    "A44633-e7540": [
+      "english-taylor"
+    ],
+    "A44633-e7620": [
+      "french-taylor"
+    ],
+    "A44633-e7660": [
+      "english-taylor"
+    ],
+    "A44633-e7700": [
+      "milliner"
+    ],
+    "A44633-e7750": [
+      "french-taylor"
+    ],
+    "A44633-e7830": [
+      "mr-comely"
+    ],
+    "A44633-e7880": [
+      "mr-welbred"
+    ],
+    "A44633-e7940": [
+      "mr-comely"
+    ],
+    "A44633-e7990": [
+      "mrs-crafty"
+    ],
+    "A44633-e8030": [
+      "mr-welbred"
+    ],
+    "A44633-e8070": [
+      "mrs-crafty"
+    ],
+    "A44633-e8110": [
+      "mr-welbred"
+    ],
+    "A44633-e8140": [
+      "mrs-crafty"
+    ],
+    "A44633-e8180": [
+      "mr-welbred"
+    ],
+    "A44633-e8210": [
+      "mrs-crafty"
+    ],
+    "A44633-e8240": [
+      "mr-welbred"
+    ],
+    "A44633-e8270": [
+      "mrs-crafty"
+    ],
+    "A44633-e8340": [
+      "mr-welbred"
+    ],
+    "A44633-e8370": [
+      "mr-comely"
+    ],
+    "A44633-e8430": [
+      "mrs-crafty"
+    ],
+    "A44633-e8500": [
+      "mr-welbred"
+    ],
+    "A44633-e8550": [
+      "mr-comely"
+    ],
+    "A44633-e8610": [
+      "mr-welbred"
+    ],
+    "A44633-e8640": [
+      "lady-wealthy"
+    ],
+    "A44633-e8680": [
+      "mr-welbred"
+    ],
+    "A44633-e8710": [
+      "lady-wealthy"
+    ],
+    "A44633-e8750": [
+      "mr-comely"
+    ],
+    "A44633-e8780": [
+      "lady-wealthy"
+    ],
+    "A44633-e8830": [
+      "mr-comely"
+    ],
+    "A44633-e8880": [
+      "lady-wealthy"
+    ],
+    "A44633-e8910": [
+      "mr-welbred"
+    ],
+    "A44633-e8940": [
+      "lady-wealthy"
+    ],
+    "A44633-e8970": [
+      "mr-welbred"
+    ],
+    "A44633-e9000": [
+      "lady-wealthy"
+    ],
+    "A44633-e9030": [
+      "mr-welbred"
+    ],
+    "A44633-e9060": [
+      "lady-wealthy"
+    ],
+    "A44633-e9090": [
+      "mr-welbred"
+    ],
+    "A44633-e9150": [
+      "lady-wealthy"
+    ],
+    "A44633-e9190": [
+      "mr-comely"
+    ],
+    "A44633-e9230": [
+      "lady-wealthy"
+    ],
+    "A44633-e9270": [
+      "mr-comely"
+    ],
+    "A44633-e9310": [
+      "lady-wealthy"
+    ],
+    "A44633-e9350": [
+      "mr-comely"
+    ],
+    "A44633-e9390": [
+      "lady-wealthy"
+    ],
+    "A44633-e9430": [
+      "mr-welbred"
+    ],
+    "A44633-e9460": [
+      "lady-wealthy"
+    ],
+    "A44633-e9500": [
+      "mr-comely"
+    ],
+    "A44633-e9550": [
+      "mr-frenchlove"
+    ],
+    "A44633-e9590": [
+      "mrs-crafty"
+    ],
+    "A44633-e9620": [
+      "mr-frenchlove"
+    ],
+    "A44633-e9650": [
+      "mrs-crafty"
+    ],
+    "A44633-e9680": [
+      "lady-wealthy"
+    ],
+    "A44633-e9720": [
+      "mr-frenchlove"
+    ],
+    "A44633-e9770": [
+      "mrs-crafty"
+    ],
+    "A44633-e9800": [
+      "mr-frenchlove"
+    ],
+    "A44633-e9830": [
+      "mrs-crafty"
+    ],
+    "A44633-e9860": [
+      "mr-frenchlove"
+    ],
+    "A44633-e9900": [
+      "mrs-crafty"
+    ],
+    "A44633-e9940": [
+      "mr-frenchlove"
+    ],
+    "A44633-e9990": [
+      "mrs-crafty"
+    ],
+    "A44633-e10030": [
+      "lady-wealthy"
+    ],
+    "A44633-e10060": [
+      "mr-frenchlove"
+    ],
+    "A44633-e10090": [
+      "mrs-crafty"
+    ],
+    "A44633-e10120": [
+      "lady-wealthy"
+    ],
+    "A44633-e10200": [
+      "mr-frenchlove"
+    ],
+    "A44633-e10230": [
+      "lady-wealthy"
+    ],
+    "A44633-e10260": [
+      "mrs-crafty"
+    ],
+    "A44633-e10310": [
+      "mr-welbred"
+    ],
+    "A44633-e10360": [
+      "lady-wealthy"
+    ],
+    "A44633-e10390": [
+      "mrs-crafty"
+    ],
+    "A44633-e10420": [
+      "mr-frenchlove"
+    ],
+    "A44633-e10490": [
+      "mr-vaine"
+    ],
+    "A44633-e10520": [
+      "jack-arch"
+    ],
+    "A44633-e10550": [
+      "mr-vaine"
+    ],
+    "A44633-e10580": [
+      "jack-arch"
+    ],
+    "A44633-e10610": [
+      "mr-vaine"
+    ],
+    "A44633-e10650": [
+      "jack-arch"
+    ],
+    "A44633-e10680": [
+      "mr-vaine"
+    ],
+    "A44633-e10710": [
+      "jack-arch"
+    ],
+    "A44633-e10750": [
+      "mr-vaine"
+    ],
+    "A44633-e10780": [
+      "jack-arch"
+    ],
+    "A44633-e10810": [
+      "mr-vaine"
+    ],
+    "A44633-e10840": [
+      "jack-arch"
+    ],
+    "A44633-e10870": [
+      "mr-vaine"
+    ],
+    "A44633-e10900": [
+      "jack-arch"
+    ],
+    "A44633-e10930": [
+      "mr-vaine"
+    ],
+    "A44633-e10960": [
+      "jack-arch"
+    ],
+    "A44633-e11000": [
+      "mr-vaine"
+    ],
+    "A44633-e11030": [
+      "jack-arch"
+    ],
+    "A44633-e11070": [
+      "mr-vaine"
+    ],
+    "A44633-e11100": [
+      "jack-arch"
+    ],
+    "A44633-e11130": [
+      "mr-vaine"
+    ],
+    "A44633-e11180": [
+      "mr-welbred"
+    ],
+    "A44633-e11220": [
+      "mr-vaine"
+    ],
+    "A44633-e11250": [
+      "mr-welbred"
+    ],
+    "A44633-e11280": [
+      "jack-arch"
+    ],
+    "A44633-e11310": [
+      "mr-vaine"
+    ],
+    "A44633-e11340": [
+      "mr-welbred"
+    ],
+    "A44633-e11400": [
+      "mr-vaine"
+    ],
+    "A44633-e11430": [
+      "mr-welbred"
+    ],
+    "A44633-e11470": [
+      "mr-vaine"
+    ],
+    "A44633-e11510": [
+      "mr-welbred"
+    ],
+    "A44633-e11550": [
+      "mr-vaine"
+    ],
+    "A44633-e11610": [
+      "mr-welbred"
+    ],
+    "A44633-e11650": [
+      "mr-welbred"
+    ],
+    "A44633-e11690": [
+      "mr-vaine"
+    ],
+    "A44633-e11750": [
+      "mr-welbred"
+    ],
+    "A44633-e11780": [
+      "mr-vaine"
+    ],
+    "A44633-e11810": [
+      "jack-arch"
+    ],
+    "A44633-e11850": [
+      "mr-vaine"
+    ],
+    "A44633-e11880": [
+      "jack-arch"
+    ],
+    "A44633-e11920": [
+      "mr-vaine"
+    ],
+    "A44633-e11990": [
+      "lady-wealthy"
+    ],
+    "A44633-e12050": [
+      "mr-comely"
+    ],
+    "A44633-e12080": [
+      "lady-wealthy"
+    ],
+    "A44633-e12130": [
+      "alsworth"
+    ],
+    "A44633-e12160": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12190": [
+      "alsworth"
+    ],
+    "A44633-e12220": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12250": [
+      "alsworth"
+    ],
+    "A44633-e12280": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12310": [
+      "alsworth"
+    ],
+    "A44633-e12350": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12380": [
+      "fidlers"
+    ],
+    "A44633-e12410": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12460": [
+      "atkins"
+    ],
+    "A44633-e12490": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12530": [
+      "lady-wealthy"
+    ],
+    "A44633-e12570": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12620": [
+      "lady-wealthy"
+    ],
+    "A44633-e12650": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12680": [
+      "lady-wealthy"
+    ],
+    "A44633-e12740": [
+      "mr-welbred"
+    ],
+    "A44633-e12780": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12810": [
+      "lady-1"
+    ],
+    "A44633-e12860": [
+      "mr-frenchlove"
+    ],
+    "A44633-e12920": [
+      "lady-wealthy"
+    ],
+    "A44633-e12960": [
+      "mr-welbred"
+    ],
+    "A44633-e13010": [
+      "lady-wealthy"
+    ],
+    "A44633-e13080": [
+      "mr-comely"
+    ],
+    "A44633-e13120": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e13160": [
+      "mr-comely"
+    ],
+    "A44633-e13190": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e13230": [
+      "mr-comely"
+    ],
+    "A44633-e13290": [
+      "mr-vaine"
+    ],
+    "A44633-e13330": [
+      "jack-arch"
+    ],
+    "A44633-e13370": [
+      "mr-vaine"
+    ],
+    "A44633-e13420": [
+      "mr-vaine"
+    ],
+    "A44633-e13490": [
+      "jack-arch"
+    ],
+    "A44633-e13530": [
+      "mr-vaine"
+    ],
+    "A44633-e13560": [
+      "hector"
+    ],
+    "A44633-e13600": [
+      "mr-vaine"
+    ],
+    "A44633-e13640": [
+      "hector"
+    ],
+    "A44633-e13670": [
+      "mr-vaine"
+    ],
+    "A44633-e13720": [
+      "jack-arch"
+    ],
+    "A44633-e13750": [
+      "hector"
+    ],
+    "A44633-e13780": [
+      "mr-vaine"
+    ],
+    "A44633-e13810": [
+      "jack-arch"
+    ],
+    "A44633-e13840": [
+      "hector"
+    ],
+    "A44633-e13870": [
+      "jack-arch"
+    ],
+    "A44633-e13900": [
+      "hector"
+    ],
+    "A44633-e13940": [
+      "jack-arch"
+    ],
+    "A44633-e13980": [
+      "hector"
+    ],
+    "A44633-e14030": [
+      "jack-arch"
+    ],
+    "A44633-e14070": [
+      "hector"
+    ],
+    "A44633-e14120": [
+      "jack-arch"
+    ],
+    "A44633-e14160": [
+      "hector"
+    ],
+    "A44633-e14240": [
+      "mr-vaine"
+    ],
+    "A44633-e14270": [
+      "hector"
+    ],
+    "A44633-e14310": [
+      "mr-vaine"
+    ],
+    "A44633-e14340": [
+      "hector"
+    ],
+    "A44633-e14370": [
+      "mr-vaine"
+    ],
+    "A44633-e14410": [
+      "hector"
+    ],
+    "A44633-e14450": [
+      "mr-vaine"
+    ],
+    "A44633-e14480": [
+      "hector"
+    ],
+    "A44633-e14520": [
+      "mr-vaine"
+    ],
+    "A44633-e14560": [
+      "hector"
+    ],
+    "A44633-e14630": [
+      "mr-comely"
+    ],
+    "A44633-e14660": [
+      "mr-vaine"
+    ],
+    "A44633-e14700": [
+      "jack-arch"
+    ],
+    "A44633-e14730": [
+      "mr-vaine"
+    ],
+    "A44633-e14780": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e14830": [
+      "mr-vaine"
+    ],
+    "A44633-e14870": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e14910": [
+      "mr-vaine"
+    ],
+    "A44633-e14940": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e14970": [
+      "mr-vaine"
+    ],
+    "A44633-e15020": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e15050": [
+      "mr-vaine"
+    ],
+    "A44633-e15080": [
+      "mrs-crafty"
+    ],
+    "A44633-e15110": [
+      "mr-vaine"
+    ],
+    "A44633-e15140": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e15170": [
+      "mr-vaine"
+    ],
+    "A44633-e15200": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e15230": [
+      "mr-vaine"
+    ],
+    "A44633-e15280": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e15330": [
+      "mr-comely"
+    ],
+    "A44633-e15360": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e15390": [
+      "mr-comely"
+    ],
+    "A44633-e15450": [
+      "lady-wealthy"
+    ],
+    "A44633-e15480": [
+      "waiting-woman"
+    ],
+    "A44633-e15510": [
+      "lady-wealthy"
+    ],
+    "A44633-e15560": [
+      "waiting-woman"
+    ],
+    "A44633-e15630": [
+      "mr-welbred"
+    ],
+    "A44633-e15660": [
+      "lady-wealthy"
+    ],
+    "A44633-e15690": [
+      "mr-welbred"
+    ],
+    "A44633-e15720": [
+      "lady-wealthy"
+    ],
+    "A44633-e15750": [
+      "mr-welbred"
+    ],
+    "A44633-e15780": [
+      "lady-wealthy"
+    ],
+    "A44633-e15810": [
+      "mr-welbred"
+    ],
+    "A44633-e15840": [
+      "lady-wealthy"
+    ],
+    "A44633-e15870": [
+      "mr-welbred"
+    ],
+    "A44633-e15900": [
+      "lady-wealthy"
+    ],
+    "A44633-e15960": [
+      "parson"
+    ],
+    "A44633-e16000": [
+      "lady-wealthy"
+    ],
+    "A44633-e16030": [
+      "mr-welbred"
+    ],
+    "A44633-e16060": [
+      "lady-wealthy"
+    ],
+    "A44633-e16100": [
+      "mr-welbred"
+    ],
+    "A44633-e16130": [
+      "lady-wealthy"
+    ],
+    "A44633-e16170": [
+      "mr-welbred"
+    ],
+    "A44633-e16200": [
+      "lady-wealthy"
+    ],
+    "A44633-e16240": [
+      "mr-welbred"
+    ],
+    "A44633-e16300": [
+      "lady-wealthy"
+    ],
+    "A44633-e16350": [
+      "mr-welbred"
+    ],
+    "A44633-e16380": [
+      "parson"
+    ],
+    "A44633-e16410": [
+      "lady-wealthy"
+    ],
+    "A44633-e16450": [
+      "mr-welbred"
+    ],
+    "A44633-e16480": [
+      "lady-wealthy"
+    ],
+    "A44633-e16520": [
+      "parson"
+    ],
+    "A44633-e16550": [
+      "mr-welbred"
+    ],
+    "A44633-e16580": [
+      "lady-wealthy"
+    ],
+    "A44633-e16620": [
+      "mr-welbred"
+    ],
+    "A44633-e16650": [
+      "lady-wealthy"
+    ],
+    "A44633-e16690": [
+      "mr-welbred"
+    ],
+    "A44633-e16720": [
+      "lady-wealthy"
+    ],
+    "A44633-e16790": [
+      "waiting-woman"
+    ],
+    "A44633-e16890": [
+      "english-taylor"
+    ],
+    "A44633-e16950": [
+      "mr-frenchlove"
+    ],
+    "A44633-e16990": [
+      "french-taylor"
+    ],
+    "A44633-e17020": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17050": [
+      "french-taylor"
+    ],
+    "A44633-e17100": [
+      "mr-comely"
+    ],
+    "A44633-e17160": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17190": [
+      "mr-comely"
+    ],
+    "A44633-e17220": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17250": [
+      "mr-comely"
+    ],
+    "A44633-e17280": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17310": [
+      "french-taylor"
+    ],
+    "A44633-e17340": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17370": [
+      "french-taylor"
+    ],
+    "A44633-e17410": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17440": [
+      "english-taylor"
+    ],
+    "A44633-e17510": [
+      "mr-welbred"
+    ],
+    "A44633-e17570": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17600": [
+      "mr-welbred"
+    ],
+    "A44633-e17630": [
+      "mr-vaine"
+    ],
+    "A44633-e17670": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17720": [
+      "mr-vaine"
+    ],
+    "A44633-e17760": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17790": [
+      "mr-vaine"
+    ],
+    "A44633-e17830": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17860": [
+      "mr-vaine"
+    ],
+    "A44633-e17890": [
+      "mr-frenchlove"
+    ],
+    "A44633-e17920": [
+      "mr-vaine"
+    ],
+    "A44633-e17970": [
+      "mr-frenchlove"
+    ],
+    "A44633-e18000": [
+      "mr-welbred"
+    ],
+    "A44633-e18050": [
+      "mr-frenchlove"
+    ],
+    "A44633-e18090": [
+      "mr-vaine"
+    ],
+    "A44633-e18120": [
+      "mr-frenchlove"
+    ],
+    "A44633-e18150": [
+      "mr-vaine"
+    ],
+    "A44633-e18200": [
+      "mr-frenchlove"
+    ],
+    "A44633-e18230": [
+      "mr-vaine"
+    ],
+    "A44633-e18260": [
+      "mr-frenchlove"
+    ],
+    "A44633-e18290": [
+      "mr-vaine"
+    ],
+    "A44633-e18320": [
+      "mr-frenchlove"
+    ],
+    "A44633-e18360": [
+      "mr-welbred"
+    ],
+    "A44633-e18400": [
+      "mr-comely"
+    ],
+    "A44633-e18460": [
+      "mr-vaine"
+    ],
+    "A44633-e18530": [
+      "mr-frenchlove"
+    ],
+    "A44633-e18570": [
+      "mr-welbred"
+    ],
+    "A44633-e18610": [
+      "mr-vaine"
+    ],
+    "A44633-e18640": [
+      "mr-comely"
+    ],
+    "A44633-e18730": [
+      "mrs-crafty"
+    ],
+    "A44633-e18760": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e18790": [
+      "mrs-crafty"
+    ],
+    "A44633-e18820": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e18850": [
+      "mrs-crafty"
+    ],
+    "A44633-e18880": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e18910": [
+      "mrs-crafty"
+    ],
+    "A44633-e18980": [
+      "mr-frenchlove"
+    ],
+    "A44633-e19010": [
+      "mr-vaine"
+    ],
+    "A44633-e19040": [
+      "mr-frenchlove"
+    ],
+    "A44633-e19090": [
+      "mr-welbred"
+    ],
+    "A44633-e19120": [
+      "mr-frenchlove"
+    ],
+    "A44633-e19150": [
+      "mr-vaine"
+    ],
+    "A44633-e19200": [
+      "mr-comely"
+    ],
+    "A44633-e19230": [
+      "mr-vaine"
+    ],
+    "A44633-e19260": [
+      "mr-frenchlove"
+    ],
+    "A44633-e19320": [
+      "mr-welbred"
+    ],
+    "A44633-e19360": [
+      "mr-frenchlove"
+    ],
+    "A44633-e19390": [
+      "mr-comely"
+    ],
+    "A44633-e19420": [
+      "mr-vaine"
+    ],
+    "A44633-e19450": [
+      "mr-welbred"
+    ],
+    "A44633-e19490": [
+      "mr-comely"
+    ],
+    "A44633-e19550": [
+      "mr-frenchlove"
+    ],
+    "A44633-e19580": [
+      "mrs-crafty"
+    ],
+    "A44633-e19620": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e19650": [
+      "mrs-crafty"
+    ],
+    "A44633-e19690": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e19750": [
+      "mrs-crafty"
+    ],
+    "A44633-e19780": [
+      "mr-frenchlove"
+    ],
+    "A44633-e19810": [
+      "mrs-crafty"
+    ],
+    "A44633-e19840": [
+      "mr-frenchlove"
+    ],
+    "A44633-e19870": [
+      "mrs-crafty"
+    ],
+    "A44633-e19920": [
+      "mr-welbred"
+    ],
+    "A44633-e19950": [
+      "mrs-crafty"
+    ],
+    "A44633-e19980": [
+      "mr-welbred"
+    ],
+    "A44633-e20010": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e20050": [
+      "mr-welbred"
+    ],
+    "A44633-e20110": [
+      "mr-frenchlove"
+    ],
+    "A44633-e20150": [
+      "mr-vaine"
+    ],
+    "A44633-e20180": [
+      "mrs-crafty"
+    ],
+    "A44633-e20260": [
+      "mr-vaine"
+    ],
+    "A44633-e20300": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e20330": [
+      "mrs-crafty"
+    ],
+    "A44633-e20440": [
+      "mr-welbred"
+    ],
+    "A44633-e20480": [
+      "mr-welbred"
+    ],
+    "A44633-e20510": [
+      "porter"
+    ],
+    "A44633-e20540": [
+      "mr-welbred"
+    ],
+    "A44633-e20580": [
+      "mr-welbred"
+    ],
+    "A44633-e20610": [
+      "gentlewoman"
+    ],
+    "A44633-e20640": [
+      "mr-welbred"
+    ],
+    "A44633-e20680": [
+      "gentlewoman"
+    ],
+    "A44633-e20710": [
+      "mr-welbred"
+    ],
+    "A44633-e20740": [
+      "gentlewoman"
+    ],
+    "A44633-e20770": [
+      "mr-welbred"
+    ],
+    "A44633-e20800": [
+      "gentlewoman"
+    ],
+    "A44633-e20830": [
+      "mr-welbred"
+    ],
+    "A44633-e20860": [
+      "gentlewoman"
+    ],
+    "A44633-e20890": [
+      "mr-welbred"
+    ],
+    "A44633-e20920": [
+      "gentlewoman"
+    ],
+    "A44633-e20950": [
+      "mr-welbred"
+    ],
+    "A44633-e21000": [
+      "lady-wealthy"
+    ],
+    "A44633-e21050": [
+      "mr-welbred"
+    ],
+    "A44633-e21080": [
+      "lady-wealthy"
+    ],
+    "A44633-e21120": [
+      "mr-welbred"
+    ],
+    "A44633-e21150": [
+      "lady-wealthy"
+    ],
+    "A44633-e21180": [
+      "mr-welbred"
+    ],
+    "A44633-e21210": [
+      "lady-wealthy"
+    ],
+    "A44633-e21240": [
+      "mr-welbred"
+    ],
+    "A44633-e21340": [
+      "mr-comely"
+    ],
+    "A44633-e21400": [
+      "mr-welbred"
+    ],
+    "A44633-e21440": [
+      "mr-comely"
+    ],
+    "A44633-e21470": [
+      "mr-welbred"
+    ],
+    "A44633-e21500": [
+      "mr-comely"
+    ],
+    "A44633-e21560": [
+      "lady-wealthy"
+    ],
+    "A44633-e21600": [
+      "mr-comely"
+    ],
+    "A44633-e21630": [
+      "lady-wealthy"
+    ],
+    "A44633-e21660": [
+      "mr-comely"
+    ],
+    "A44633-e21690": [
+      "lady-wealthy"
+    ],
+    "A44633-e21720": [
+      "mr-comely"
+    ],
+    "A44633-e22060": [
+      "lady-wealthy"
+    ],
+    "A44633-e22110": [
+      "mr-comely"
+    ],
+    "A44633-e22150": [
+      "lady-1"
+    ],
+    "A44633-e22180": [
+      "lady-wealthy"
+    ],
+    "A44633-e22240": [
+      "mr-comely"
+    ],
+    "A44633-e22280": [
+      "mr-welbred"
+    ],
+    "A44633-e22310": [
+      "mr-comely"
+    ],
+    "A44633-e22350": [
+      "mr-welbred"
+    ],
+    "A44633-e22380": [
+      "mr-comely"
+    ],
+    "A44633-e22410": [
+      "mr-welbred"
+    ],
+    "A44633-e22440": [
+      "mr-comely"
+    ],
+    "A44633-e22560": [
+      "mr-welbred"
+    ],
+    "A44633-e22590": [
+      "mr-comely"
+    ],
+    "A44633-e22620": [
+      "william"
+    ],
+    "A44633-e22680": [
+      "mr-comely"
+    ],
+    "A44633-e22710": [
+      "william"
+    ],
+    "A44633-e22740": [
+      "mr-comely"
+    ],
+    "A44633-e22770": [
+      "william"
+    ],
+    "A44633-e22800": [
+      "mr-comely"
+    ],
+    "A44633-e22830": [
+      "william"
+    ],
+    "A44633-e22870": [
+      "mr-comely"
+    ],
+    "A44633-e22910": [
+      "william"
+    ],
+    "A44633-e22960": [
+      "mr-comely"
+    ],
+    "A44633-e23000": [
+      "elsbeth"
+    ],
+    "A44633-e23040": [
+      "mr-comely"
+    ],
+    "A44633-e23080": [
+      "elsbeth"
+    ],
+    "A44633-e23140": [
+      "mr-comely"
+    ],
+    "A44633-e23180": [
+      "elsbeth"
+    ],
+    "A44633-e23210": [
+      "mr-comely"
+    ],
+    "A44633-e23240": [
+      "william"
+    ],
+    "A44633-e23280": [
+      "mr-comely"
+    ],
+    "A44633-e23330": [
+      "elsbeth"
+    ],
+    "A44633-e23360": [
+      "mr-comely"
+    ],
+    "A44633-e23410": [
+      "william"
+    ],
+    "A44633-e23450": [
+      "mr-comely"
+    ],
+    "A44633-e23500": [
+      "william"
+    ],
+    "A44633-e23560": [
+      "mr-comely"
+    ],
+    "A44633-e23600": [
+      "william"
+    ],
+    "A44633-e23630": [
+      "mr-comely"
+    ],
+    "A44633-e23660": [
+      "elsbeth"
+    ],
+    "A44633-e23720": [
+      "william"
+    ],
+    "A44633-e23770": [
+      "mr-comely"
+    ],
+    "A44633-e23820": [
+      "william"
+    ],
+    "A44633-e23880": [
+      "mr-comely"
+    ],
+    "A44633-e23910": [
+      "william"
+    ],
+    "A44633-e23950": [
+      "mr-comely"
+    ],
+    "A44633-e23980": [
+      "elsbeth"
+    ],
+    "A44633-e24010": [
+      "mr-comely"
+    ],
+    "A44633-e24040": [
+      "william"
+    ],
+    "A44633-e24080": [
+      "elsbeth"
+    ],
+    "A44633-e24150": [
+      "servant"
+    ],
+    "A44633-e24180": [
+      "mr-comely"
+    ],
+    "A44633-e24260": [
+      "mr-welbred"
+    ],
+    "A44633-e24300": [
+      "gripe"
+    ],
+    "A44633-e24330": [
+      "mr-welbred"
+    ],
+    "A44633-e24360": [
+      "gripe"
+    ],
+    "A44633-e24390": [
+      "mr-welbred"
+    ],
+    "A44633-e24420": [
+      "gripe"
+    ],
+    "A44633-e24470": [
+      "mr-welbred"
+    ],
+    "A44633-e24510": [
+      "gentlewoman"
+    ],
+    "A44633-e24540": [
+      "mr-welbred"
+    ],
+    "A44633-e24570": [
+      "gentlewoman"
+    ],
+    "A44633-e24600": [
+      "gripe"
+    ],
+    "A44633-e24630": [
+      "mr-welbred"
+    ],
+    "A44633-e24670": [
+      "gripe"
+    ],
+    "A44633-e24720": [
+      "lady-wealthy"
+    ],
+    "A44633-e24760": [
+      "mr-welbred"
+    ],
+    "A44633-e24790": [
+      "lady-wealthy"
+    ],
+    "A44633-e24820": [
+      "mr-welbred"
+    ],
+    "A44633-e24850": [
+      "lady-wealthy"
+    ],
+    "A44633-e24890": [
+      "mr-welbred"
+    ],
+    "A44633-e24920": [
+      "lady-wealthy"
+    ],
+    "A44633-e24950": [
+      "mr-welbred"
+    ],
+    "A44633-e24980": [
+      "lady-wealthy"
+    ],
+    "A44633-e25010": [
+      "mr-welbred"
+    ],
+    "A44633-e25040": [
+      "lady-wealthy"
+    ],
+    "A44633-e25070": [
+      "mr-welbred"
+    ],
+    "A44633-e25100": [
+      "lady-wealthy"
+    ],
+    "A44633-e25130": [
+      "mr-welbred"
+    ],
+    "A44633-e25160": [
+      "lady-wealthy"
+    ],
+    "A44633-e25190": [
+      "mr-welbred"
+    ],
+    "A44633-e25220": [
+      "lady-wealthy"
+    ],
+    "A44633-e25250": [
+      "mr-welbred"
+    ],
+    "A44633-e25300": [
+      "lady-1"
+    ],
+    "A44633-e25330": [
+      "lady-wealthy"
+    ],
+    "A44633-e25360": [
+      "lady-1"
+    ],
+    "A44633-e25400": [
+      "lady-wealthy"
+    ],
+    "A44633-e25430": [
+      "mr-welbred"
+    ],
+    "A44633-e25460": [
+      "lady-1"
+    ],
+    "A44633-e25490": [
+      "lady-wealthy"
+    ],
+    "A44633-e25550": [
+      "mr-comely"
+    ],
+    "A44633-e25580": [
+      "lady-wealthy"
+    ],
+    "A44633-e25610": [
+      "mr-comely"
+    ],
+    "A44633-e25640": [
+      "lady-wealthy"
+    ],
+    "A44633-e25680": [
+      "mr-comely"
+    ],
+    "A44633-e25710": [
+      "lady-wealthy"
+    ],
+    "A44633-e25750": [
+      "mr-comely"
+    ],
+    "A44633-e25800": [
+      "lady-wealthy"
+    ],
+    "A44633-e25840": [
+      "mr-comely"
+    ],
+    "A44633-e25890": [
+      "lady-wealthy"
+    ],
+    "A44633-e25930": [
+      "mr-comely"
+    ],
+    "A44633-e25960": [
+      "lady-wealthy"
+    ],
+    "A44633-e26000": [
+      "mr-comely"
+    ],
+    "A44633-e26030": [
+      "lady-wealthy"
+    ],
+    "A44633-e26070": [
+      "mr-comely"
+    ],
+    "A44633-e26100": [
+      "lady-wealthy"
+    ],
+    "A44633-e26140": [
+      "mr-comely"
+    ],
+    "A44633-e26170": [
+      "lady-wealthy"
+    ],
+    "A44633-e26200": [
+      "mr-comely"
+    ],
+    "A44633-e26230": [
+      "lady-wealthy"
+    ],
+    "A44633-e26270": [
+      "mr-comely"
+    ],
+    "A44633-e26330": [
+      "lady-wealthy",
+      "lady-1"
+    ],
+    "A44633-e26370": [
+      "mr-comely"
+    ],
+    "A44633-e26400": [
+      "lady-wealthy"
+    ],
+    "A44633-e26450": [
+      "mr-comely"
+    ],
+    "A44633-e26490": [
+      "lady-wealthy"
+    ],
+    "A44633-e26530": [
+      "mr-comely"
+    ],
+    "A44633-e26560": [
+      "lady-wealthy"
+    ],
+    "A44633-e26590": [
+      "mr-comely"
+    ],
+    "A44633-e26620": [
+      "lady-wealthy"
+    ],
+    "A44633-e26650": [
+      "mr-comely"
+    ],
+    "A44633-e26700": [
+      "lady-wealthy"
+    ],
+    "A44633-e26730": [
+      "mr-comely"
+    ],
+    "A44633-e26760": [
+      "lady-wealthy"
+    ],
+    "A44633-e26820": [
+      "mr-comely"
+    ],
+    "A44633-e26850": [
+      "lady-wealthy"
+    ],
+    "A44633-e26880": [
+      "mr-comely"
+    ],
+    "A44633-e26910": [
+      "lady-wealthy"
+    ],
+    "A44633-e26960": [
+      "mr-comely"
+    ],
+    "A44633-e27000": [
+      "mr-welbred"
+    ],
+    "A44633-e27030": [
+      "mr-comely"
+    ],
+    "A44633-e27060": [
+      "mr-welbred"
+    ],
+    "A44633-e27090": [
+      "mr-comely"
+    ],
+    "A44633-e27180": [
+      "mr-vaine"
+    ],
+    "A44633-e27220": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27250": [
+      "mr-vaine"
+    ],
+    "A44633-e27280": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27320": [
+      "mr-vaine"
+    ],
+    "A44633-e27350": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27400": [
+      "mr-vaine"
+    ],
+    "A44633-e27450": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27480": [
+      "mr-vaine"
+    ],
+    "A44633-e27510": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27560": [
+      "mr-vaine"
+    ],
+    "A44633-e27590": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27620": [
+      "mr-vaine"
+    ],
+    "A44633-e27660": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27690": [
+      "mrs-crafty"
+    ],
+    "A44633-e27720": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27750": [
+      "mrs-crafty"
+    ],
+    "A44633-e27780": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e27860": [
+      "mr-vaine"
+    ],
+    "A44633-e27890": [
+      "mrs-crafty"
+    ],
+    "A44633-e27930": [
+      "mr-frenchlove"
+    ],
+    "A44633-e27960": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e28000": [
+      "mr-vaine"
+    ],
+    "A44633-e28030": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e28070": [
+      "mrs-crafty"
+    ],
+    "A44633-e28100": [
+      "mr-vaine"
+    ],
+    "A44633-e28140": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28170": [
+      "mrs-crafty"
+    ],
+    "A44633-e28200": [
+      "mr-vaine"
+    ],
+    "A44633-e28230": [
+      "mrs-crafty"
+    ],
+    "A44633-e28260": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28290": [
+      "mr-vaine"
+    ],
+    "A44633-e28330": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28370": [
+      "mr-vaine"
+    ],
+    "A44633-e28400": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28440": [
+      "mrs-crafty"
+    ],
+    "A44633-e28470": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28510": [
+      "mrs-crafty"
+    ],
+    "A44633-e28550": [
+      "mr-vaine"
+    ],
+    "A44633-e28580": [
+      "mrs-crafty-2"
+    ],
+    "A44633-e28610": [
+      "mr-vaine"
+    ],
+    "A44633-e28640": [
+      "mrs-crafty"
+    ],
+    "A44633-e28680": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28710": [
+      "mr-vaine"
+    ],
+    "A44633-e28750": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28780": [
+      "mrs-crafty"
+    ],
+    "A44633-e28810": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28840": [
+      "mrs-crafty"
+    ],
+    "A44633-e28900": [
+      "mr-frenchlove"
+    ],
+    "A44633-e28930": [
+      "jack-arch"
+    ],
+    "A44633-e28970": [
+      "mr-vaine"
+    ],
+    "A44633-e29010": [
+      "jack-arch"
+    ],
+    "A44633-e29060": [
+      "mr-welbred"
+    ],
+    "A44633-e29130": [
+      "mr-vaine"
+    ],
+    "A44633-e29160": [
+      "mr-welbred"
+    ],
+    "A44633-e29190": [
+      "mr-vaine"
+    ],
+    "A44633-e29220": [
+      "mr-welbred"
+    ],
+    "A44633-e29250": [
+      "mr-vaine"
+    ],
+    "A44633-e29280": [
+      "jack-arch"
+    ],
+    "A44633-e29320": [
+      "mr-vaine"
+    ],
+    "A44633-e29350": [
+      "mr-welbred"
+    ],
+    "A44633-e29390": [
+      "mr-vaine"
+    ],
+    "A44633-e29460": [
+      "mr-welbred"
+    ],
+    "A44633-e29530": [
+      "gripe"
+    ],
+    "A44633-e29560": [
+      "mr-welbred"
+    ],
+    "A44633-e29590": [
+      "gripe"
+    ],
+    "A44633-e29620": [
+      "mr-welbred"
+    ],
+    "A44633-e29680": [
+      "gentlewoman"
+    ],
+    "A44633-e29710": [
+      "mr-welbred"
+    ],
+    "A44633-e29740": [
+      "gripe"
+    ],
+    "A44633-e29770": [
+      "mr-welbred"
+    ],
+    "A44633-e29800": [
+      "gentlewoman"
+    ],
+    "A44633-e29850": [
+      "porter"
+    ],
+    "A44633-e29890": [
+      "lady-wealthy"
+    ],
+    "A44633-e29930": [
+      "mr-welbred"
+    ],
+    "A44633-e29960": [
+      "lady-wealthy"
+    ],
+    "A44633-e29990": [
+      "mr-welbred"
+    ],
+    "A44633-e30020": [
+      "lady-wealthy"
+    ],
+    "A44633-e30070": [
+      "mr-welbred"
+    ],
+    "A44633-e30130": [
+      "lady-wealthy"
+    ],
+    "A44633-e30160": [
+      "lady-1"
+    ],
+    "A44633-e30190": [
+      "mr-welbred"
+    ],
+    "A44633-e30220": [
+      "lady-wealthy"
+    ],
+    "A44633-e30260": [
+      "mr-welbred"
+    ],
+    "A44633-e30290": [
+      "lady-wealthy"
+    ],
+    "A44633-e30320": [
+      "mr-welbred"
+    ],
+    "A44633-e30350": [
+      "lady-wealthy"
+    ],
+    "A44633-e30390": [
+      "mr-welbred"
+    ],
+    "A44633-e30420": [
+      "lady-wealthy"
+    ],
+    "A44633-e30460": [
+      "mr-welbred"
+    ],
+    "A44633-e30490": [
+      "lady-wealthy"
+    ],
+    "A44633-e30540": [
+      "mr-welbred"
+    ],
+    "A44633-e30590": [
+      "lady-wealthy"
+    ],
+    "A44633-e30620": [
+      "mr-welbred"
+    ],
+    "A44633-e30650": [
+      "lady-wealthy"
+    ],
+    "A44633-e30720": [
+      "mr-welbred"
+    ],
+    "A44633-e30770": [
+      "lady-wealthy"
+    ],
+    "A44633-e30820": [
+      "mr-welbred"
+    ],
+    "A44633-e30850": [
+      "lady-wealthy"
+    ],
+    "A44633-e30890": [
+      "mr-welbred"
+    ],
+    "A44633-e30920": [
+      "lady-wealthy"
+    ],
+    "A44633-e30970": [
+      "mr-welbred"
+    ],
+    "A44633-e31000": [
+      "lady-wealthy"
+    ],
+    "A44633-e31040": [
+      "mr-welbred"
+    ],
+    "A44633-e31070": [
+      "lady-wealthy"
+    ],
+    "A44633-e31180": [
+      "mr-comely"
+    ],
+    "A44633-e31240": [
+      "elsbeth"
+    ],
+    "A44633-e31300": [
+      "mr-comely"
+    ],
+    "A44633-e31340": [
+      "elsbeth"
+    ],
+    "A44633-e31380": [
+      "mr-comely"
+    ],
+    "A44633-e31410": [
+      "elsbeth"
+    ],
+    "A44633-e31460": [
+      "mr-comely"
+    ],
+    "A44633-e31490": [
+      "elsbeth"
+    ],
+    "A44633-e31530": [
+      "mr-comely"
+    ],
+    "A44633-e31580": [
+      "elsbeth"
+    ],
+    "A44633-e31610": [
+      "mr-comely"
+    ],
+    "A44633-e31640": [
+      "elsbeth"
+    ],
+    "A44633-e31670": [
+      "mr-comely"
+    ],
+    "A44633-e31700": [
+      "elsbeth"
+    ],
+    "A44633-e31740": [
+      "mr-comely"
+    ],
+    "A44633-e31790": [
+      "elsbeth"
+    ],
+    "A44633-e31880": [
+      "william"
+    ],
+    "A44633-e31930": [
+      "mr-comely"
+    ],
+    "A44633-e31960": [
+      "elsbeth"
+    ],
+    "A44633-e32020": [
+      "william"
+    ],
+    "A44633-e32060": [
+      "mr-comely"
+    ],
+    "A44633-e32100": [
+      "william"
+    ],
+    "A44633-e32150": [
+      "elsbeth"
+    ],
+    "A44633-e32200": [
+      "mr-comely"
+    ],
+    "A44633-e32230": [
+      "william"
+    ],
+    "A44633-e32260": [
+      "mr-comely"
+    ],
+    "A44633-e32290": [
+      "william"
+    ],
+    "A44633-e32330": [
+      "mr-comely"
+    ],
+    "A44633-e32360": [
+      "william"
+    ],
+    "A44633-e32400": [
+      "elsbeth"
+    ],
+    "A44633-e32440": [
+      "william"
+    ],
+    "A44633-e32500": [
+      "mr-comely"
+    ],
+    "A44633-e32550": [
+      "mr-welbred"
+    ],
+    "A44633-e32580": [
+      "mr-comely"
+    ],
+    "A44633-e32610": [
+      "mr-welbred"
+    ],
+    "A44633-e32640": [
+      "mr-comely"
+    ],
+    "A44633-e32670": [
+      "mr-welbred"
+    ],
+    "A44633-e32700": [
+      "mr-comely"
+    ],
+    "A44633-e32730": [
+      "mr-welbred"
+    ],
+    "A44633-e32760": [
+      "mr-comely"
+    ],
+    "A44633-e32810": [
+      "mr-welbred"
+    ],
+    "A44633-e32880": [
+      "lady-wealthy"
+    ],
+    "A44633-e32910": [
+      "mr-welbred"
+    ],
+    "A44633-e32950": [
+      "lady-wealthy"
+    ],
+    "A44633-e32990": [
+      "mr-welbred"
+    ],
+    "A44633-e33020": [
+      "lady-wealthy"
+    ],
+    "A44633-e33060": [
+      "mr-welbred"
+    ],
+    "A44633-e33090": [
+      "lady-wealthy"
+    ],
+    "A44633-e33130": [
+      "mr-welbred"
+    ],
+    "A44633-e33160": [
+      "lady-wealthy"
+    ],
+    "A44633-e33240": [
+      "mr-welbred"
+    ],
+    "A44633-e33280": [
+      "lady-wealthy"
+    ],
+    "A44633-e33330": [
+      "mr-welbred"
+    ],
+    "A44633-e33360": [
+      "lady-wealthy"
+    ],
+    "A44633-e33400": [
+      "mr-welbred"
+    ],
+    "A44633-e33430": [
+      "lady-wealthy"
+    ],
+    "A44633-e33470": [
+      "mr-welbred"
+    ],
+    "A44633-e33500": [
+      "lady-wealthy"
+    ],
+    "A44633-e33550": [
+      "mr-welbred"
+    ],
+    "A44633-e33590": [
+      "lady-wealthy"
+    ],
+    "A44633-e33670": [
+      "lady-wealthy"
+    ],
+    "A44633-e33700": [
+      "mr-welbred"
+    ],
+    "A44633-e33730": [
+      "lady-wealthy"
+    ],
+    "A44633-e33770": [
+      "mr-welbred"
+    ],
+    "A44633-e33800": [
+      "lady-wealthy"
+    ],
+    "A44633-e33850": [
+      "mr-welbred"
+    ],
+    "A44633-e33880": [
+      "lady-wealthy"
+    ],
+    "A44633-e33920": [
+      "mr-welbred"
+    ],
+    "A44633-e33950": [
+      "lady-wealthy"
+    ],
+    "A44633-e33990": [
+      "lady-wealthy"
+    ],
+    "A44633-e34030": [
+      "lady-wealthy"
+    ],
+    "A44633-e34070": [
+      "mr-welbred"
+    ],
+    "A44633-e34100": [
+      "lady-wealthy"
+    ],
+    "A44633-e34150": [
+      "mr-welbred"
+    ],
+    "A44633-e34180": [
+      "lady-wealthy"
+    ],
+    "A44633-e34220": [
+      "mr-welbred"
+    ],
+    "A44633-e34330": [
+      "mr-comely"
+    ],
+    "A44633-e34370": [
+      "elsbeth"
+    ],
+    "A44633-e34400": [
+      "mr-comely"
+    ],
+    "A44633-e34440": [
+      "elsbeth"
+    ],
+    "A44633-e34490": [
+      "mr-comely"
+    ],
+    "A44633-e34580": [
+      "william"
+    ],
+    "A44633-e34650": [
+      "mr-frenchlove"
+    ],
+    "A44633-e34690": [
+      "william"
+    ],
+    "A44633-e34730": [
+      "mr-frenchlove"
+    ],
+    "A44633-e34760": [
+      "william"
+    ],
+    "A44633-e34870": [
+      "lady-wealthy"
+    ],
+    "A44633-e34910": [
+      "gentlewoman"
+    ],
+    "A44633-e34950": [
+      "lady-wealthy"
+    ],
+    "A44633-e34990": [
+      "lady-1"
+    ],
+    "A44633-e35040": [
+      "lady-wealthy"
+    ],
+    "A44633-e35090": [
+      "mr-comely"
+    ],
+    "A44633-e35130": [
+      "lady-wealthy"
+    ],
+    "A44633-e35200": [
+      "boy"
+    ],
+    "A44633-e35260": [
+      "lady-wealthy"
+    ],
+    "A44633-e35300": [
+      "lady-1"
+    ],
+    "A44633-e35340": [
+      "lady-wealthy"
+    ],
+    "A44633-e35370": [
+      "lady-1"
+    ],
+    "A44633-e35400": [
+      "lady-wealthy"
+    ],
+    "A44633-e35450": [
+      "lady-1"
+    ],
+    "A44633-e35480": [
+      "lady-wealthy"
+    ],
+    "A44633-e35560": [
+      "mr-welbred"
+    ],
+    "A44633-e35620": [
+      "lady-wealthy"
+    ],
+    "A44633-e35650": [
+      "mr-welbred"
+    ],
+    "A44633-e35690": [
+      "lady-wealthy"
+    ],
+    "A44633-e35720": [
+      "mr-welbred"
+    ],
+    "A44633-e35750": [
+      "lady-wealthy"
+    ],
+    "A44633-e35790": [
+      "mr-welbred"
+    ],
+    "A44633-e35820": [
+      "lady-wealthy"
+    ],
+    "A44633-e35860": [
+      "mr-welbred"
+    ],
+    "A44633-e35890": [
+      "mr-comely"
+    ],
+    "A44633-e35920": [
+      "lady-wealthy"
+    ],
+    "A44633-e35990": [
+      "mr-comely"
+    ],
+    "A44633-e36020": [
+      "mr-welbred"
+    ],
+    "A44633-e36050": [
+      "mr-comely"
+    ],
+    "A44633-e36090": [
+      "mr-welbred"
+    ],
+    "A44633-e36120": [
+      "mr-comely"
+    ],
+    "A44633-e36150": [
+      "mr-welbred"
+    ],
+    "A44633-e36210": [
+      "mr-comely"
+    ],
+    "A44633-e36260": [
+      "mr-welbred"
+    ],
+    "A44633-e36290": [
+      "lady-wealthy"
+    ],
+    "A44633-e36380": [
+      "lady-wealthy"
+    ],
+    "A44633-e36440": [
+      "page"
+    ],
+    "A44633-e36480": [
+      "mr-comely"
+    ],
+    "A44633-e36540": [
+      "elsbeth"
+    ],
+    "A44633-e36580": [
+      "lady-wealthy"
+    ],
+    "A44633-e36610": [
+      "mr-comely"
+    ],
+    "A44633-e36640": [
+      "elsbeth"
+    ],
+    "A44633-e36680": [
+      "mr-frenchlove"
+    ],
+    "A44633-e36720": [
+      "mrs-crafty"
+    ],
+    "A44633-e36780": [
+      "mr-frenchlove"
+    ],
+    "A44633-e36810": [
+      "english-taylor"
+    ],
+    "A44633-e36850": [
+      "mr-frenchlove"
+    ],
+    "A44633-e36920": [
+      "mr-vaine"
+    ],
+    "A44633-e37000": [
+      "mr-frenchlove"
+    ],
+    "A44633-e37030": [
+      "mr-comely"
+    ],
+    "A44633-e37070": [
+      "elsbeth"
+    ],
+    "A44633-e37110": [
+      "mr-comely"
+    ],
+    "A44633-e37150": [
+      "lady-wealthy"
+    ],
+    "A44633-e37180": [
+      "mr-welbred"
+    ],
+    "A44633-e37210": [
+      "mr-frenchlove"
+    ],
+    "A44633-e37250": [
+      "jack-arch"
+    ],
+    "A44633-e37280": [
+      "mr-vaine"
+    ],
+    "A44633-e37310": [
+      "mr-comely"
+    ]
+  }
+}

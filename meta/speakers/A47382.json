@@ -1,0 +1,1866 @@
+{
+  "particDesc": [
+    {
+      "name": "Soldier 2",
+      "id": "soldier-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer",
+      "id": "officer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 1",
+      "id": "soldier-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Youth 4",
+      "id": "youth-4",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Youth 3",
+      "id": "youth-3",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Youth 2",
+      "id": "youth-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Youth 1",
+      "id": "youth-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Second Angel",
+      "id": "second-angel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "First Angel",
+      "id": "first-angel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Doctor",
+      "id": "doctor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Captain",
+      "id": "captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldiers",
+      "id": "soldiers",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger ",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Hortensius",
+      "id": "hortensius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "zeno",
+      "name": "Zeno",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "longinus",
+      "name": "Longinus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "old-basiliscus",
+      "name": "Old Basiliscus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "harmatius",
+      "name": "Harmatius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "young-basiliscus",
+      "name": "Young Basiliscus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "the-patriarck",
+      "name": "The Patriarck",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pelagius",
+      "name": "Pelagius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sebastianus",
+      "name": "Sebastianus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "urbitius",
+      "name": "Urbitius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "anastasius",
+      "name": "Anastasius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "proclus",
+      "name": "Proclus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "phylargus",
+      "name": "Phylargus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "castor",
+      "name": "Castor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "euphemian",
+      "name": "Euphemian",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "gazeus",
+      "name": "Gazeus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "erastus",
+      "name": "Erastus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "musician",
+      "name": "Musician",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "children",
+      "name": "Children",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "the-empress",
+      "name": "The Empress",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "eirene",
+      "name": "Eirene",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A47382-e1090": [
+      "old-basiliscus"
+    ],
+    "A47382-e1580": [
+      "zeno"
+    ],
+    "A47382-e1900": [
+      "euphemian"
+    ],
+    "A47382-e2100": [
+      "zeno"
+    ],
+    "A47382-e2150": [
+      "euphemian"
+    ],
+    "A47382-e2300": [
+      "zeno"
+    ],
+    "A47382-e2450": [
+      "euphemian"
+    ],
+    "A47382-e2480": [
+      "zeno"
+    ],
+    "A47382-e2520": [
+      "euphemian"
+    ],
+    "A47382-e2560": [
+      "zeno"
+    ],
+    "A47382-e2820": [
+      "zeno"
+    ],
+    "A47382-e2850": [
+      "euphemian"
+    ],
+    "A47382-e2880": [
+      "zeno"
+    ],
+    "A47382-e2950": [
+      "euphemian"
+    ],
+    "A47382-e2990": [
+      "zeno"
+    ],
+    "A47382-e3020": [
+      "euphemian"
+    ],
+    "A47382-e3050": [
+      "zeno"
+    ],
+    "A47382-e3120": [
+      "euphemian"
+    ],
+    "A47382-e3170": [
+      "zeno"
+    ],
+    "A47382-e3260": [
+      "longinus"
+    ],
+    "A47382-e3290": [
+      "zeno"
+    ],
+    "A47382-e3320": [
+      "longinus"
+    ],
+    "A47382-e3350": [
+      "zeno"
+    ],
+    "A47382-e3380": [
+      "longinus"
+    ],
+    "A47382-e3420": [
+      "zeno"
+    ],
+    "A47382-e3460": [
+      "longinus"
+    ],
+    "A47382-e3500": [
+      "zeno"
+    ],
+    "A47382-e3530": [
+      "longinus"
+    ],
+    "A47382-e3620": [
+      "zeno"
+    ],
+    "A47382-e3700": [
+      "longinus"
+    ],
+    "A47382-e3750": [
+      "zeno"
+    ],
+    "A47382-e3790": [
+      "longinus"
+    ],
+    "A47382-e3820": [
+      "zeno"
+    ],
+    "A47382-e3900": [
+      "longinus"
+    ],
+    "A47382-e3990": [
+      "longinus"
+    ],
+    "A47382-e4250": [
+      "zeno"
+    ],
+    "A47382-e4320": [
+      "longinus"
+    ],
+    "A47382-e4370": [
+      "zeno"
+    ],
+    "A47382-e4580": [
+      "young-basiliscus"
+    ],
+    "A47382-e4620": [
+      "zeno"
+    ],
+    "A47382-e4650": [
+      "young-basiliscus"
+    ],
+    "A47382-e4680": [
+      "zeno"
+    ],
+    "A47382-e4710": [
+      "young-basiliscus"
+    ],
+    "A47382-e4740": [
+      "zeno"
+    ],
+    "A47382-e4810": [
+      "longinus"
+    ],
+    "A47382-e4890": [
+      "young-basiliscus"
+    ],
+    "A47382-e5050": [
+      "zeno"
+    ],
+    "A47382-e5080": [
+      "young-basiliscus"
+    ],
+    "A47382-e5130": [
+      "zeno"
+    ],
+    "A47382-e5230": [
+      "hortensius"
+    ],
+    "A47382-e5300": [
+      "sebastianus"
+    ],
+    "A47382-e5340": [
+      "proclus"
+    ],
+    "A47382-e5380": [
+      "phylargus"
+    ],
+    "A47382-e5440": [
+      "longinus"
+    ],
+    "A47382-e5490": [
+      "zeno"
+    ],
+    "A47382-e5530": [
+      "the-patriarck"
+    ],
+    "A47382-e5770": [
+      "longinus"
+    ],
+    "A47382-e5810": [
+      "zeno"
+    ],
+    "A47382-e5890": [
+      "pelagius"
+    ],
+    "A47382-e6080": [
+      "longinus"
+    ],
+    "A47382-e6120": [
+      "hortensius"
+    ],
+    "A47382-e6150": [
+      "longinus"
+    ],
+    "A47382-e6230": [
+      "pelagius"
+    ],
+    "A47382-e6310": [
+      "zeno"
+    ],
+    "A47382-e6360": [
+      "pelagius"
+    ],
+    "A47382-e6400": [
+      "zeno"
+    ],
+    "A47382-e6480": [
+      "pelagius"
+    ],
+    "A47382-e6540": [
+      "zeno"
+    ],
+    "A47382-e6680": [
+      "pelagius"
+    ],
+    "A47382-e6860": [
+      "the-patriarck"
+    ],
+    "A47382-e6950": [
+      "messenger"
+    ],
+    "A47382-e7040": [
+      "pelagius"
+    ],
+    "A47382-e7140": [
+      "the-patriarck"
+    ],
+    "A47382-e7260": [
+      "eirene"
+    ],
+    "A47382-e7460": [
+      "servant"
+    ],
+    "A47382-e7490": [
+      "eirene"
+    ],
+    "A47382-e7550": [
+      "zeno"
+    ],
+    "A47382-e7620": [
+      "eirene"
+    ],
+    "A47382-e7670": [
+      "zeno"
+    ],
+    "A47382-e7800": [
+      "eirene"
+    ],
+    "A47382-e7870": [
+      "zeno"
+    ],
+    "A47382-e7940": [
+      "eirene"
+    ],
+    "A47382-e7990": [
+      "zeno"
+    ],
+    "A47382-e8050": [
+      "eirene"
+    ],
+    "A47382-e8110": [
+      "zeno"
+    ],
+    "A47382-e8150": [
+      "eirene"
+    ],
+    "A47382-e8260": [
+      "zeno"
+    ],
+    "A47382-e8350": [
+      "urbitius"
+    ],
+    "A47382-e8710": [
+      "longinus"
+    ],
+    "A47382-e8890": [
+      "musician"
+    ],
+    "A47382-e8920": [
+      "longinus"
+    ],
+    "A47382-e8970": [
+      "musician"
+    ],
+    "A47382-e9000": [
+      "longinus"
+    ],
+    "A47382-e9050": [
+      "musician"
+    ],
+    "A47382-e9080": [
+      "longinus"
+    ],
+    "A47382-e9170": [
+      "musician"
+    ],
+    "A47382-e9200": [
+      "longinus"
+    ],
+    "A47382-e9490": [
+      "anastasius"
+    ],
+    "A47382-e9950": [
+      "urbitius"
+    ],
+    "A47382-e9980": [
+      "anastasius"
+    ],
+    "A47382-e10010": [
+      "urbitius"
+    ],
+    "A47382-e10040": [
+      "anastasius"
+    ],
+    "A47382-e10070": [
+      "urbitius"
+    ],
+    "A47382-e10110": [
+      "anastasius"
+    ],
+    "A47382-e10140": [
+      "urbitius"
+    ],
+    "A47382-e10300": [
+      "anastasius"
+    ],
+    "A47382-e10390": [
+      "anastasius"
+    ],
+    "A47382-e10430": [
+      "gazeus"
+    ],
+    "A47382-e10480": [
+      "anastasius"
+    ],
+    "A47382-e10510": [
+      "gazeus"
+    ],
+    "A47382-e10560": [
+      "anastasius"
+    ],
+    "A47382-e10600": [
+      "gazeus"
+    ],
+    "A47382-e10660": [
+      "anastasius"
+    ],
+    "A47382-e10690": [
+      "gazeus"
+    ],
+    "A47382-e10720": [
+      "anastasius"
+    ],
+    "A47382-e10860": [
+      "gazeus"
+    ],
+    "A47382-e10890": [
+      "children"
+    ],
+    "A47382-e10920": [
+      "gazeus"
+    ],
+    "A47382-e10950": [
+      "children"
+    ],
+    "A47382-e10980": [
+      "longinus"
+    ],
+    "A47382-e11120": [
+      "children"
+    ],
+    "A47382-e11150": [
+      "longinus"
+    ],
+    "A47382-e11180": [
+      "gazeus"
+    ],
+    "A47382-e11230": [
+      "children"
+    ],
+    "A47382-e11270": [
+      "longinus"
+    ],
+    "A47382-e11310": [
+      "gazeus"
+    ],
+    "A47382-e11340": [
+      "longinus"
+    ],
+    "A47382-e11370": [
+      "gazeus"
+    ],
+    "A47382-e11400": [
+      "longinus"
+    ],
+    "A47382-e11430": [
+      "gazeus"
+    ],
+    "A47382-e11460": [
+      "longinus"
+    ],
+    "A47382-e11500": [
+      "gazeus"
+    ],
+    "A47382-e11540": [
+      "longinus"
+    ],
+    "A47382-e11610": [
+      "children"
+    ],
+    "A47382-e11640": [
+      "longinus"
+    ],
+    "A47382-e11670": [
+      "children"
+    ],
+    "A47382-e11720": [
+      "gazeus"
+    ],
+    "A47382-e11890": [
+      "longinus"
+    ],
+    "A47382-e12020": [
+      "gazeus"
+    ],
+    "A47382-e12060": [
+      "longinus"
+    ],
+    "A47382-e12090": [
+      "gazeus"
+    ],
+    "A47382-e12130": [
+      "longinus"
+    ],
+    "A47382-e12190": [
+      "gazeus"
+    ],
+    "A47382-e12270": [
+      "longinus"
+    ],
+    "A47382-e12380": [
+      "zeno"
+    ],
+    "A47382-e12420": [
+      "longinus"
+    ],
+    "A47382-e12540": [
+      "zeno"
+    ],
+    "A47382-e12600": [
+      "longinus"
+    ],
+    "A47382-e12630": [
+      "zeno"
+    ],
+    "A47382-e12660": [
+      "longinus"
+    ],
+    "A47382-e12730": [
+      "zeno"
+    ],
+    "A47382-e12820": [
+      "longinus"
+    ],
+    "A47382-e12950": [
+      "zeno"
+    ],
+    "A47382-e13020": [
+      "longinus"
+    ],
+    "A47382-e13330": [
+      "eirene"
+    ],
+    "A47382-e13490": [
+      "zeno"
+    ],
+    "A47382-e13590": [
+      "eirene"
+    ],
+    "A47382-e13710": [
+      "zeno"
+    ],
+    "A47382-e13940": [
+      "eirene"
+    ],
+    "A47382-e14030": [
+      "zeno"
+    ],
+    "A47382-e14130": [
+      "anastasius"
+    ],
+    "A47382-e14170": [
+      "eirene"
+    ],
+    "A47382-e14250": [
+      "anastasius"
+    ],
+    "A47382-e14360": [
+      "eirene"
+    ],
+    "A47382-e14450": [
+      "young-basiliscus"
+    ],
+    "A47382-e14640": [
+      "anastasius"
+    ],
+    "A47382-e14760": [
+      "eirene"
+    ],
+    "A47382-e14920": [
+      "sebastianus"
+    ],
+    "A47382-e14960": [
+      "zeno"
+    ],
+    "A47382-e14990": [
+      "sebastianus"
+    ],
+    "A47382-e15020": [
+      "zeno"
+    ],
+    "A47382-e15050": [
+      "sebastianus"
+    ],
+    "A47382-e15080": [
+      "longinus"
+    ],
+    "A47382-e15130": [
+      "urbitius"
+    ],
+    "A47382-e15170": [
+      "longinus"
+    ],
+    "A47382-e15200": [
+      "zeno"
+    ],
+    "A47382-e15230": [
+      "urbitius"
+    ],
+    "A47382-e15260": [
+      "longinus"
+    ],
+    "A47382-e15290": [
+      "urbitius"
+    ],
+    "A47382-e15330": [
+      "zeno"
+    ],
+    "A47382-e15400": [
+      "longinus"
+    ],
+    "A47382-e15430": [
+      "zeno"
+    ],
+    "A47382-e15480": [
+      "anastasius"
+    ],
+    "A47382-e15520": [
+      "zeno"
+    ],
+    "A47382-e15550": [
+      "anastasius"
+    ],
+    "A47382-e15580": [
+      "zeno"
+    ],
+    "A47382-e15610": [
+      "anastasius"
+    ],
+    "A47382-e15650": [
+      "zeno"
+    ],
+    "A47382-e15680": [
+      "urbitius"
+    ],
+    "A47382-e15760": [
+      "longinus"
+    ],
+    "A47382-e15790": [
+      "urbitius"
+    ],
+    "A47382-e15830": [
+      "zeno"
+    ],
+    "A47382-e15900": [
+      "urbitius"
+    ],
+    "A47382-e15950": [
+      "anastasius"
+    ],
+    "A47382-e16100": [
+      "urbitius"
+    ],
+    "A47382-e16130": [
+      "anastasius"
+    ],
+    "A47382-e16200": [
+      "urbitius"
+    ],
+    "A47382-e16240": [
+      "anastasius"
+    ],
+    "A47382-e16430": [
+      "harmatius"
+    ],
+    "A47382-e16600": [
+      "urbitius"
+    ],
+    "A47382-e16690": [
+      "harmatius"
+    ],
+    "A47382-e16720": [
+      "urbitius"
+    ],
+    "A47382-e16830": [
+      "harmatius"
+    ],
+    "A47382-e16900": [
+      "harmatius"
+    ],
+    "A47382-e16930": [
+      "young-basiliscus"
+    ],
+    "A47382-e16970": [
+      "harmatius"
+    ],
+    "A47382-e17010": [
+      "anastasius"
+    ],
+    "A47382-e17040": [
+      "harmatius"
+    ],
+    "A47382-e17070": [
+      "anastasius"
+    ],
+    "A47382-e17100": [
+      "harmatius"
+    ],
+    "A47382-e17140": [
+      "anastasius"
+    ],
+    "A47382-e17190": [
+      "young-basiliscus"
+    ],
+    "A47382-e17240": [
+      "urbitius"
+    ],
+    "A47382-e17270": [
+      "young-basiliscus"
+    ],
+    "A47382-e17340": [
+      "harmatius"
+    ],
+    "A47382-e17450": [
+      "anastasius"
+    ],
+    "A47382-e17490": [
+      "harmatius"
+    ],
+    "A47382-e17730": [
+      "urbitius"
+    ],
+    "A47382-e17880": [
+      "harmatius"
+    ],
+    "A47382-e17920": [
+      "urbitius"
+    ],
+    "A47382-e18000": [
+      "harmatius"
+    ],
+    "A47382-e18030": [
+      "urbitius"
+    ],
+    "A47382-e18110": [
+      "anastasius"
+    ],
+    "A47382-e18140": [
+      "urbitius"
+    ],
+    "A47382-e18200": [
+      "harmatius"
+    ],
+    "A47382-e18230": [
+      "urbitius"
+    ],
+    "A47382-e18360": [
+      "harmatius"
+    ],
+    "A47382-e18550": [
+      "anastasius"
+    ],
+    "A47382-e18710": [
+      "castor",
+      "soldiers"
+    ],
+    "A47382-e18750": [
+      "castor"
+    ],
+    "A47382-e18840": [
+      "urbitius"
+    ],
+    "A47382-e18870": [
+      "zeno"
+    ],
+    "A47382-e19080": [
+      "urbitius"
+    ],
+    "A47382-e19160": [
+      "sebastianus"
+    ],
+    "A47382-e19240": [
+      "zeno"
+    ],
+    "A47382-e19310": [
+      "longinus"
+    ],
+    "A47382-e19340": [
+      "zeno"
+    ],
+    "A47382-e19430": [
+      "longinus"
+    ],
+    "A47382-e19460": [
+      "zeno"
+    ],
+    "A47382-e19580": [
+      "zeno"
+    ],
+    "A47382-e19640": [
+      "longinus"
+    ],
+    "A47382-e19680": [
+      "zeno"
+    ],
+    "A47382-e19740": [
+      "harmatius"
+    ],
+    "A47382-e19840": [
+      "zeno"
+    ],
+    "A47382-e19910": [
+      "urbitius"
+    ],
+    "A47382-e19940": [
+      "longinus"
+    ],
+    "A47382-e19970": [
+      "zeno"
+    ],
+    "A47382-e20050": [
+      "zeno"
+    ],
+    "A47382-e20090": [
+      "mars"
+    ],
+    "A47382-e20290": [
+      "zeno"
+    ],
+    "A47382-e20350": [
+      "harmatius"
+    ],
+    "A47382-e20420": [
+      "mars"
+    ],
+    "A47382-e20480": [
+      "harmatius"
+    ],
+    "A47382-e20580": [
+      "zeno"
+    ],
+    "A47382-e20610": [
+      "mars"
+    ],
+    "A47382-e20680": [
+      "captain"
+    ],
+    "A47382-e20730": [
+      "mars"
+    ],
+    "A47382-e20820": [
+      "longinus"
+    ],
+    "A47382-e20850": [
+      "zeno"
+    ],
+    "A47382-e20910": [
+      "harmatius"
+    ],
+    "A47382-e20950": [
+      "zeno"
+    ],
+    "A47382-e20990": [
+      "harmatius"
+    ],
+    "A47382-e21020": [
+      "zeno"
+    ],
+    "A47382-e21050": [
+      "longinus"
+    ],
+    "A47382-e21100": [
+      "harmatius"
+    ],
+    "A47382-e21130": [
+      "longinus"
+    ],
+    "A47382-e21160": [
+      "zeno"
+    ],
+    "A47382-e21200": [
+      "urbitius"
+    ],
+    "A47382-e21330": [
+      "longinus"
+    ],
+    "A47382-e21380": [
+      "harmatius"
+    ],
+    "A47382-e21590": [
+      "young-basiliscus"
+    ],
+    "A47382-e21630": [
+      "harmatius"
+    ],
+    "A47382-e21690": [
+      "zeno"
+    ],
+    "A47382-e21730": [
+      "longinus"
+    ],
+    "A47382-e21760": [
+      "zeno"
+    ],
+    "A47382-e21790": [
+      "longinus"
+    ],
+    "A47382-e21820": [
+      "zeno"
+    ],
+    "A47382-e21960": [
+      "urbitius"
+    ],
+    "A47382-e22010": [
+      "zeno"
+    ],
+    "A47382-e22070": [
+      "longinus"
+    ],
+    "A47382-e22130": [
+      "zeno"
+    ],
+    "A47382-e22160": [
+      "longinus"
+    ],
+    "A47382-e22190": [
+      "zeno"
+    ],
+    "A47382-e22230": [
+      "longinus"
+    ],
+    "A47382-e22330": [
+      "the-empress"
+    ],
+    "A47382-e22410": [
+      "the-patriarck"
+    ],
+    "A47382-e22510": [
+      "the-empress"
+    ],
+    "A47382-e22620": [
+      "urbitius"
+    ],
+    "A47382-e22680": [
+      "anastasius"
+    ],
+    "A47382-e22780": [
+      "the-patriarck"
+    ],
+    "A47382-e22830": [
+      "the-empress"
+    ],
+    "A47382-e22890": [
+      "the-patriarck"
+    ],
+    "A47382-e22950": [
+      "the-empress"
+    ],
+    "A47382-e23070": [
+      "doctor"
+    ],
+    "A47382-e23140": [
+      "the-empress"
+    ],
+    "A47382-e23230": [
+      "urbitius"
+    ],
+    "A47382-e23300": [
+      "anastasius"
+    ],
+    "A47382-e23440": [
+      "urbitius"
+    ],
+    "A47382-e23480": [
+      "anastasius"
+    ],
+    "A47382-e23730": [
+      "castor"
+    ],
+    "A47382-e23770": [
+      "urbitius"
+    ],
+    "A47382-e23800": [
+      "castor"
+    ],
+    "A47382-e23830": [
+      "urbitius"
+    ],
+    "A47382-e23860": [
+      "castor"
+    ],
+    "A47382-e23890": [
+      "urbitius"
+    ],
+    "A47382-e23920": [
+      "castor"
+    ],
+    "A47382-e23960": [
+      "urbitius"
+    ],
+    "A47382-e24000": [
+      "castor"
+    ],
+    "A47382-e24040": [
+      "urbitius"
+    ],
+    "A47382-e24070": [
+      "castor"
+    ],
+    "A47382-e24170": [
+      "urbitius"
+    ],
+    "A47382-e24200": [
+      "castor"
+    ],
+    "A47382-e24250": [
+      "urbitius"
+    ],
+    "A47382-e24350": [
+      "castor"
+    ],
+    "A47382-e24410": [
+      "urbitius"
+    ],
+    "A47382-e24520": [
+      "castor"
+    ],
+    "A47382-e24560": [
+      "urbitius"
+    ],
+    "A47382-e24730": [
+      "castor"
+    ],
+    "A47382-e24770": [
+      "soldiers"
+    ],
+    "A47382-e24810": [
+      "castor"
+    ],
+    "A47382-e24850": [
+      "soldiers"
+    ],
+    "A47382-e24890": [
+      "urbitius"
+    ],
+    "A47382-e24980": [
+      "castor"
+    ],
+    "A47382-e25090": [
+      "pelagius"
+    ],
+    "A47382-e25300": [
+      "first-angel"
+    ],
+    "A47382-e25360": [
+      "second-angel"
+    ],
+    "A47382-e25420": [
+      "chorus"
+    ],
+    "A47382-e25550": [
+      "anastasius"
+    ],
+    "A47382-e25620": [
+      "longinus"
+    ],
+    "A47382-e26140": [
+      "longinus"
+    ],
+    "A47382-e26200": [
+      "zeno"
+    ],
+    "A47382-e26230": [
+      "sebastianus"
+    ],
+    "A47382-e26260": [
+      "anastasius"
+    ],
+    "A47382-e26330": [
+      "pelagius"
+    ],
+    "A47382-e26370": [
+      "zeno"
+    ],
+    "A47382-e26430": [
+      "pelagius"
+    ],
+    "A47382-e26460": [
+      "longinus"
+    ],
+    "A47382-e26490": [
+      "sebastianus"
+    ],
+    "A47382-e26520": [
+      "zeno"
+    ],
+    "A47382-e26610": [
+      "pelagius"
+    ],
+    "A47382-e26690": [
+      "zeno"
+    ],
+    "A47382-e26740": [
+      "pelagius"
+    ],
+    "A47382-e26810": [
+      "zeno"
+    ],
+    "A47382-e26870": [
+      "pelagius"
+    ],
+    "A47382-e26970": [
+      "zeno"
+    ],
+    "A47382-e27000": [
+      "longinus"
+    ],
+    "A47382-e27120": [
+      "pelagius"
+    ],
+    "A47382-e27150": [
+      "longinus"
+    ],
+    "A47382-e27230": [
+      "zeno"
+    ],
+    "A47382-e27260": [
+      "longinus"
+    ],
+    "A47382-e27290": [
+      "zeno"
+    ],
+    "A47382-e27330": [
+      "longinus"
+    ],
+    "A47382-e27400": [
+      "zeno"
+    ],
+    "A47382-e27480": [
+      "urbitius"
+    ],
+    "A47382-e27590": [
+      "zeno"
+    ],
+    "A47382-e27690": [
+      "longinus"
+    ],
+    "A47382-e27840": [
+      "zeno"
+    ],
+    "A47382-e27870": [
+      "doctor"
+    ],
+    "A47382-e27960": [
+      "zeno"
+    ],
+    "A47382-e27990": [
+      "doctor"
+    ],
+    "A47382-e28040": [
+      "zeno"
+    ],
+    "A47382-e28120": [
+      "doctor"
+    ],
+    "A47382-e28160": [
+      "zeno"
+    ],
+    "A47382-e28240": [
+      "eirene"
+    ],
+    "A47382-e28300": [
+      "zeno"
+    ],
+    "A47382-e28350": [
+      "eirene"
+    ],
+    "A47382-e28390": [
+      "zeno"
+    ],
+    "A47382-e28460": [
+      "eirene"
+    ],
+    "A47382-e28490": [
+      "zeno"
+    ],
+    "A47382-e28630": [
+      "eirene"
+    ],
+    "A47382-e28690": [
+      "zeno"
+    ],
+    "A47382-e28730": [
+      "eirene"
+    ],
+    "A47382-e28830": [
+      "zeno"
+    ],
+    "A47382-e29140": [
+      "zeno"
+    ],
+    "A47382-e29320": [
+      "sebastianus"
+    ],
+    "A47382-e29380": [
+      "youth-1"
+    ],
+    "A47382-e29430": [
+      "youth-2"
+    ],
+    "A47382-e29480": [
+      "youth-3"
+    ],
+    "A47382-e29520": [
+      "youth-4"
+    ],
+    "A47382-e29560": [
+      "pelagius"
+    ],
+    "A47382-e29590": [
+      "proclus"
+    ],
+    "A47382-e29620": [
+      "phylargus"
+    ],
+    "A47382-e29650": [
+      "hortensius"
+    ],
+    "A47382-e29680": [
+      "longinus"
+    ],
+    "A47382-e29720": [
+      "zeno"
+    ],
+    "A47382-e29780": [
+      "proclus"
+    ],
+    "A47382-e29920": [
+      "longinus"
+    ],
+    "A47382-e30050": [
+      "pelagius"
+    ],
+    "A47382-e30170": [
+      "sebastianus"
+    ],
+    "A47382-e30200": [
+      "pelagius"
+    ],
+    "A47382-e30240": [
+      "sebastianus"
+    ],
+    "A47382-e30270": [
+      "pelagius"
+    ],
+    "A47382-e30330": [
+      "proclus"
+    ],
+    "A47382-e30410": [
+      "longinus"
+    ],
+    "A47382-e30440": [
+      "proclus"
+    ],
+    "A47382-e30470": [
+      "longinus"
+    ],
+    "A47382-e30500": [
+      "proclus"
+    ],
+    "A47382-e30550": [
+      "zeno"
+    ],
+    "A47382-e30590": [
+      "longinus"
+    ],
+    "A47382-e30620": [
+      "pelagius"
+    ],
+    "A47382-e30660": [
+      "longinus"
+    ],
+    "A47382-e30700": [
+      "phylargus"
+    ],
+    "A47382-e30740": [
+      "zeno"
+    ],
+    "A47382-e30820": [
+      "longinus",
+      "sebastianus"
+    ],
+    "A47382-e30850": [
+      "zeno"
+    ],
+    "A47382-e30880": [
+      "pelagius"
+    ],
+    "A47382-e30980": [
+      "zeno"
+    ],
+    "A47382-e31010": [
+      "longinus"
+    ],
+    "A47382-e31070": [
+      "pelagius"
+    ],
+    "A47382-e31170": [
+      "longinus"
+    ],
+    "A47382-e31200": [
+      "zeno"
+    ],
+    "A47382-e31230": [
+      "longinus"
+    ],
+    "A47382-e31310": [
+      "officer"
+    ],
+    "A47382-e31340": [
+      "pelagius"
+    ],
+    "A47382-e31380": [
+      "officer"
+    ],
+    "A47382-e31410": [
+      "pelagius"
+    ],
+    "A47382-e31480": [
+      "officer"
+    ],
+    "A47382-e31510": [
+      "soldier-1"
+    ],
+    "A47382-e31540": [
+      "officer"
+    ],
+    "A47382-e31570": [
+      "soldier-1"
+    ],
+    "A47382-e31600": [
+      "officer"
+    ],
+    "A47382-e31630": [
+      "soldier-1"
+    ],
+    "A47382-e31710": [
+      "officer"
+    ],
+    "A47382-e31880": [
+      "sebastianus"
+    ],
+    "A47382-e31950": [
+      "zeno"
+    ],
+    "A47382-e31980": [
+      "longinus"
+    ],
+    "A47382-e32010": [
+      "zeno"
+    ],
+    "A47382-e32040": [
+      "longinus"
+    ],
+    "A47382-e32090": [
+      "zeno"
+    ],
+    "A47382-e32120": [
+      "longinus"
+    ],
+    "A47382-e32210": [
+      "longinus"
+    ],
+    "A47382-e32280": [
+      "sebastianus"
+    ],
+    "A47382-e32320": [
+      "longinus"
+    ],
+    "A47382-e32410": [
+      "anastasius"
+    ],
+    "A47382-e32460": [
+      "zeno"
+    ],
+    "A47382-e32600": [
+      "anastasius"
+    ],
+    "A47382-e32630": [
+      "zeno"
+    ],
+    "A47382-e32760": [
+      "anastasius"
+    ],
+    "A47382-e32830": [
+      "urbitius"
+    ],
+    "A47382-e32860": [
+      "anastasius"
+    ],
+    "A47382-e32910": [
+      "urbitius"
+    ],
+    "A47382-e32990": [
+      "urbitius"
+    ],
+    "A47382-e33020": [
+      "soldier-1"
+    ],
+    "A47382-e33050": [
+      "urbitius"
+    ],
+    "A47382-e33080": [
+      "soldier-1"
+    ],
+    "A47382-e33110": [
+      "urbitius"
+    ],
+    "A47382-e33270": [
+      "zeno"
+    ],
+    "A47382-e33300": [
+      "longinus"
+    ],
+    "A47382-e33350": [
+      "sebastianus"
+    ],
+    "A47382-e33430": [
+      "sebastianus"
+    ],
+    "A47382-e33490": [
+      "zeno"
+    ],
+    "A47382-e33550": [
+      "longinus"
+    ],
+    "A47382-e33610": [
+      "zeno"
+    ],
+    "A47382-e33690": [
+      "anastasius"
+    ],
+    "A47382-e34010": [
+      "the-patriarck"
+    ],
+    "A47382-e34050": [
+      "zeno"
+    ],
+    "A47382-e34090": [
+      "longinus"
+    ],
+    "A47382-e34130": [
+      "zeno"
+    ],
+    "A47382-e34210": [
+      "the-patriarck"
+    ],
+    "A47382-e34300": [
+      "zeno"
+    ],
+    "A47382-e34340": [
+      "longinus"
+    ],
+    "A47382-e34400": [
+      "old-basiliscus"
+    ],
+    "A47382-e34440": [
+      "zeno"
+    ],
+    "A47382-e34470": [
+      "old-basiliscus"
+    ],
+    "A47382-e34510": [
+      "zeno"
+    ],
+    "A47382-e34580": [
+      "sebastianus"
+    ],
+    "A47382-e34620": [
+      "young-basiliscus"
+    ],
+    "A47382-e34670": [
+      "zeno"
+    ],
+    "A47382-e34800": [
+      "young-basiliscus"
+    ],
+    "A47382-e34830": [
+      "zeno"
+    ],
+    "A47382-e35020": [
+      "old-basiliscus"
+    ],
+    "A47382-e35080": [
+      "zeno"
+    ],
+    "A47382-e35110": [
+      "longinus"
+    ],
+    "A47382-e35140": [
+      "zeno"
+    ],
+    "A47382-e35170": [
+      "longinus"
+    ],
+    "A47382-e35200": [
+      "zeno"
+    ],
+    "A47382-e35270": [
+      "sebastianus"
+    ],
+    "A47382-e35320": [
+      "longinus"
+    ],
+    "A47382-e35380": [
+      "anastasius"
+    ],
+    "A47382-e35480": [
+      "soldier-1"
+    ],
+    "A47382-e35540": [
+      "longinus"
+    ],
+    "A47382-e35570": [
+      "zeno"
+    ],
+    "A47382-e35650": [
+      "anastasius"
+    ],
+    "A47382-e35760": [
+      "longinus"
+    ],
+    "A47382-e35880": [
+      "anastasius"
+    ],
+    "A47382-e35920": [
+      "longinus"
+    ],
+    "A47382-e36030": [
+      "urbitius"
+    ],
+    "A47382-e36090": [
+      "urbitius",
+      "officer",
+      "soldiers"
+    ],
+    "A47382-e36130": [
+      "anastasius"
+    ],
+    "A47382-e36270": [
+      "urbitius"
+    ],
+    "A47382-e36410": [
+      "anastasius"
+    ],
+    "A47382-e36490": [
+      "castor"
+    ],
+    "A47382-e36520": [
+      "officer",
+      "soldiers",
+      "castor"
+    ],
+    "A47382-e36560": [
+      "anastasius"
+    ],
+    "A47382-e36730": [
+      "the-empress"
+    ],
+    "A47382-e36760": [
+      "eirene"
+    ],
+    "A47382-e36820": [
+      "the-empress"
+    ],
+    "A47382-e36910": [
+      "eirene"
+    ],
+    "A47382-e36990": [
+      "the-empress"
+    ],
+    "A47382-e37030": [
+      "eirene"
+    ],
+    "A47382-e37150": [
+      "the-empress"
+    ],
+    "A47382-e37260": [
+      "eirene"
+    ],
+    "A47382-e37380": [
+      "the-empress"
+    ],
+    "A47382-e37460": [
+      "eirene"
+    ],
+    "A47382-e37560": [
+      "anastasius"
+    ],
+    "A47382-e37660": [
+      "the-empress"
+    ],
+    "A47382-e37810": [
+      "anastasius"
+    ],
+    "A47382-e37880": [
+      "eirene"
+    ],
+    "A47382-e37920": [
+      "the-empress"
+    ],
+    "A47382-e37980": [
+      "anastasius"
+    ],
+    "A47382-e38060": [
+      "zeno"
+    ],
+    "A47382-e38290": [
+      "soldier-1"
+    ],
+    "A47382-e38330": [
+      "zeno"
+    ],
+    "A47382-e38360": [
+      "soldier-2"
+    ],
+    "A47382-e38400": [
+      "zeno"
+    ],
+    "A47382-e38430": [
+      "soldier-1"
+    ],
+    "A47382-e38470": [
+      "zeno"
+    ],
+    "A47382-e38510": [
+      "soldier-2"
+    ],
+    "A47382-e38560": [
+      "zeno"
+    ],
+    "A47382-e38610": [
+      "soldier-1"
+    ],
+    "A47382-e38650": [
+      "zeno"
+    ],
+    "A47382-e38680": [
+      "soldier-2"
+    ],
+    "A47382-e38740": [
+      "zeno"
+    ],
+    "A47382-e38780": [
+      "soldier-1"
+    ],
+    "A47382-e38830": [
+      "zeno"
+    ],
+    "A47382-e38920": [
+      "soldier-2"
+    ],
+    "A47382-e38960": [
+      "zeno"
+    ],
+    "A47382-e38990": [
+      "soldier-1"
+    ],
+    "A47382-e39060": [
+      "zeno"
+    ],
+    "A47382-e39120": [
+      "soldier-2"
+    ],
+    "A47382-e39160": [
+      "zeno"
+    ],
+    "A47382-e39190": [
+      "soldier-1"
+    ],
+    "A47382-e39230": [
+      "zeno"
+    ],
+    "A47382-e39410": [
+      "soldier-2"
+    ],
+    "A47382-e39450": [
+      "zeno"
+    ],
+    "A47382-e39480": [
+      "soldier-1"
+    ],
+    "A47382-e39520": [
+      "zeno"
+    ],
+    "A47382-e39550": [
+      "soldier-2"
+    ],
+    "A47382-e39590": [
+      "zeno"
+    ],
+    "A47382-e39620": [
+      "soldier-2"
+    ],
+    "A47382-e39660": [
+      "zeno"
+    ],
+    "A47382-e39710": [
+      "soldier-1"
+    ],
+    "A47382-e39750": [
+      "zeno"
+    ],
+    "A47382-e39890": [
+      "old-basiliscus"
+    ]
+  }
+}

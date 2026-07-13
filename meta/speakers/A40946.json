@@ -1,0 +1,936 @@
+{
+  "particDesc": [
+    {
+      "name": "Capt. Swear-at",
+      "id": "capt-swear-at",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Surribus",
+      "id": "surribus",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "name": "Constable",
+      "id": "constable",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Venire Facias",
+      "id": "venire-facias",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "name": "Intelligence",
+      "id": "intelligence",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lieut. Well-meaning",
+      "id": "lieut-well-meaning",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Honesty",
+      "id": "capt-honesty",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mrs. Sorrow",
+      "id": "mrs-sorrow",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Capt. Kick-a-Tan",
+      "id": "capt-kick-a-tan",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Flutterer",
+      "id": "capt-flutterer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Ignorance",
+      "id": "capt-ignorance",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Priviledge",
+      "id": "capt-priviledge",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Indigent",
+      "id": "capt-indigent",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Sir Empty-Scull",
+      "id": "sir-empty-scull",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Tripan",
+      "id": "capt-tripan",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Want-Credit",
+      "id": "capt-want-credit",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tryer",
+      "id": "tryer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Practice",
+      "id": "practice",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bishop",
+      "id": "bishop",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cryer",
+      "id": "cryer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Sir Edward Lack-Latine",
+      "id": "sir-edward-lack-latine",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Proserpine",
+      "id": "proserpine",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Instrument",
+      "id": "instrument",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Col. Plunder",
+      "id": "col-plunder",
+      "isGroup": false,
+	  "sex": "MALE"
+    },
+    {
+      "name": "Capt. Spunge",
+      "id": "capt-spunge",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tipstaff",
+      "id": "tipstaff",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Bluster",
+      "id": "capt-bluster",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Pittfall",
+      "id": "pittfall",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Size Ace",
+      "id": "size-ace",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Sir Foulmouth",
+      "id": "sir-foulmouth",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Pluto",
+      "id": "pluto",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Capt. Bub",
+      "id": "capt-bub",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Brandy",
+      "id": "brandy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Shackles",
+      "id": "shackles",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A40946-e2670": [
+      "shackles"
+    ],
+    "A40946-e2700": [
+      "capt-bub"
+    ],
+    "A40946-e2730": [
+      "shackles"
+    ],
+    "A40946-e2770": [
+      "capt-bub"
+    ],
+    "A40946-e2820": [
+      "brandy"
+    ],
+    "A40946-e2870": [
+      "shackles"
+    ],
+    "A40946-e2990": [
+      "pluto"
+    ],
+    "A40946-e3040": [
+      "sir-foulmouth"
+    ],
+    "A40946-e3100": [
+      "pluto"
+    ],
+    "A40946-e3150": [
+      "sir-foulmouth"
+    ],
+    "A40946-e3230": [
+      "pluto"
+    ],
+    "A40946-e3360": [
+      "size-ace"
+    ],
+    "A40946-e3480": [
+      "pittfall"
+    ],
+    "A40946-e3590": [
+      "capt-bluster"
+    ],
+    "A40946-e3700": [
+      "tipstaff"
+    ],
+    "A40946-e3790": [
+      "capt-spunge"
+    ],
+    "A40946-e3860": [
+      "tipstaff"
+    ],
+    "A40946-e3890": [
+      "col-plunder"
+    ],
+    "A40946-e3970": [
+      "col-plunder",
+      "capt-bluster",
+      "capt-ignorance",
+      "capt-spunge",
+      "tipstaff"
+    ],
+    "A40946-e4060": [
+      "pluto"
+    ],
+    "A40946-e4090": [
+      "instrument"
+    ],
+    "A40946-e4140": [
+      "proserpine"
+    ],
+    "A40946-e4220": [
+      "pluto"
+    ],
+    "A40946-e4320": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e4350": [
+      "pluto"
+    ],
+    "A40946-e4380": [
+      "bishop"
+    ],
+    "A40946-e4410": [
+      "pluto"
+    ],
+    "A40946-e4460": [
+      "proserpine"
+    ],
+    "A40946-e4490": [
+      "pluto"
+    ],
+    "A40946-e4520": [
+      "proserpine"
+    ],
+    "A40946-e4550": [
+      "pluto"
+    ],
+    "A40946-e4600": [
+      "cryer"
+    ],
+    "A40946-e4810": [
+      "proserpine"
+    ],
+    "A40946-e4840": [
+      "pluto"
+    ],
+    "A40946-e4870": [
+      "proserpine"
+    ],
+    "A40946-e4900": [
+      "pluto"
+    ],
+    "A40946-e4930": [
+      "proserpine"
+    ],
+    "A40946-e4960": [
+      "pluto"
+    ],
+    "A40946-e5010": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e5050": [
+      "pluto"
+    ],
+    "A40946-e5080": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e5120": [
+      "pluto"
+    ],
+    "A40946-e5160": [
+      "practice"
+    ],
+    "A40946-e5200": [
+      "pluto"
+    ],
+    "A40946-e5290": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e5390": [
+      "pluto"
+    ],
+    "A40946-e5460": [
+      "practice"
+    ],
+    "A40946-e5510": [
+      "pluto"
+    ],
+    "A40946-e5550": [
+      "instrument"
+    ],
+    "A40946-e5590": [
+      "tipstaff"
+    ],
+    "A40946-e5640": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e5750": [
+      "size-ace"
+    ],
+    "A40946-e5810": [
+      "pittfall"
+    ],
+    "A40946-e5840": [
+      "size-ace"
+    ],
+    "A40946-e5880": [
+      "pittfall"
+    ],
+    "A40946-e6000": [
+      "size-ace"
+    ],
+    "A40946-e6040": [
+      "pittfall"
+    ],
+    "A40946-e6080": [
+      "tryer"
+    ],
+    "A40946-e6150": [
+      "pluto"
+    ],
+    "A40946-e6280": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e6320": [
+      "pluto"
+    ],
+    "A40946-e6350": [
+      "tipstaff"
+    ],
+    "A40946-e6450": [
+      "capt-bluster",
+      "col-plunder",
+      "capt-want-credit",
+      "capt-tripan"
+    ],
+    "A40946-e6520": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e6650": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e6720": [
+      "practice"
+    ],
+    "A40946-e6790": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e6830": [
+      "pluto"
+    ],
+    "A40946-e6870": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e6920": [
+      "instrument"
+    ],
+    "A40946-e6950": [
+      "pluto"
+    ],
+    "A40946-e7000": [
+      "capt-bluster",
+      "capt-want-credit",
+      "col-plunder",
+      "capt-tripan",
+      "capt-indigent",
+      "capt-kick-a-tan",
+      "capt-priviledge",
+      "capt-spunge",
+      "capt-ignorance",
+      "capt-flutterer"
+    ],
+    "A40946-e7030": [
+      "capt-bluster"
+    ],
+    "A40946-e7080": [
+      "pluto",
+      "sir-edward-lack-latine",
+      "instrument"
+    ],
+    "A40946-e7150": [
+      "sir-empty-scull"
+    ],
+    "A40946-e7190": [
+      "capt-bluster",
+      "capt-want-credit",
+      "col-plunder",
+      "capt-tripan",
+      "capt-indigent",
+      "capt-kick-a-tan",
+      "capt-priviledge",
+      "capt-spunge",
+      "capt-ignorance",
+      "capt-flutterer"
+    ],
+    "A40946-e7220": [
+      "tipstaff"
+    ],
+    "A40946-e7260": [
+      "capt-want-credit"
+    ],
+    "A40946-e7300": [
+      "capt-indigent"
+    ],
+    "A40946-e7350": [
+      "capt-bluster"
+    ],
+    "A40946-e7410": [
+      "capt-bluster",
+      "capt-want-credit",
+      "col-plunder",
+      "capt-tripan",
+      "capt-indigent",
+      "capt-kick-a-tan",
+      "capt-priviledge",
+      "capt-spunge",
+      "capt-ignorance",
+      "capt-flutterer"
+    ],
+    "A40946-e7450": [
+      "pluto"
+    ],
+    "A40946-e7500": [
+      "proserpine"
+    ],
+    "A40946-e7540": [
+      "capt-priviledge"
+    ],
+    "A40946-e7710": [
+      "capt-ignorance"
+    ],
+    "A40946-e7750": [
+      "capt-want-credit"
+    ],
+    "A40946-e7810": [
+      "capt-flutterer"
+    ],
+    "A40946-e7880": [
+      "proserpine"
+    ],
+    "A40946-e7920": [
+      "col-plunder"
+    ],
+    "A40946-e8010": [
+      "capt-kick-a-tan"
+    ],
+    "A40946-e8100": [
+      "pluto"
+    ],
+    "A40946-e8130": [
+      "capt-bluster"
+    ],
+    "A40946-e8170": [
+      "pluto"
+    ],
+    "A40946-e8200": [
+      "capt-bluster"
+    ],
+    "A40946-e8270": [
+      "shackles"
+    ],
+    "A40946-e8310": [
+      "pluto"
+    ],
+    "A40946-e8340": [
+      "shackles"
+    ],
+    "A40946-e8390": [
+      "pluto"
+    ],
+    "A40946-e8420": [
+      "shackles"
+    ],
+    "A40946-e8540": [
+      "mrs-sorrow"
+    ],
+    "A40946-e8570": [
+      "shackles"
+    ],
+    "A40946-e8600": [
+      "brandy"
+    ],
+    "A40946-e8630": [
+      "mrs-sorrow"
+    ],
+    "A40946-e8670": [
+      "shackles"
+    ],
+    "A40946-e8720": [
+      "mrs-sorrow"
+    ],
+    "A40946-e8760": [
+      "shackles"
+    ],
+    "A40946-e8800": [
+      "servant"
+    ],
+    "A40946-e8850": [
+      "mrs-sorrow"
+    ],
+    "A40946-e8920": [
+      "mrs-sorrow"
+    ],
+    "A40946-e8960": [
+      "shackles"
+    ],
+    "A40946-e8990": [
+      "mrs-sorrow"
+    ],
+    "A40946-e9040": [
+      "shackles"
+    ],
+    "A40946-e9070": [
+      "mrs-sorrow"
+    ],
+    "A40946-e9110": [
+      "shackles"
+    ],
+    "A40946-e9140": [
+      "mrs-sorrow"
+    ],
+    "A40946-e9180": [
+      "shackles"
+    ],
+    "A40946-e9260": [
+      "brandy"
+    ],
+    "A40946-e9330": [
+      "capt-honesty"
+    ],
+    "A40946-e9400": [
+      "lieut-well-meaning"
+    ],
+    "A40946-e9460": [
+      "mrs-sorrow"
+    ],
+    "A40946-e9500": [
+      "capt-honesty"
+    ],
+    "A40946-e9560": [
+      "mrs-sorrow"
+    ],
+    "A40946-e9630": [
+      "shackles"
+    ],
+    "A40946-e9740": [
+      "tipstaff"
+    ],
+    "A40946-e9790": [
+      "pluto"
+    ],
+    "A40946-e9820": [
+      "capt-swear-at"
+    ],
+    "A40946-e9870": [
+      "pluto"
+    ],
+    "A40946-e9900": [
+      "capt-swear-at"
+    ],
+    "A40946-e9950": [
+      "pluto"
+    ],
+    "A40946-e10010": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e10100": [
+      "tipstaff"
+    ],
+    "A40946-e10150": [
+      "constable"
+    ],
+    "A40946-e10190": [
+      "tipstaff"
+    ],
+    "A40946-e10230": [
+      "surribus"
+    ],
+    "A40946-e10260": [
+      "constable"
+    ],
+    "A40946-e10300": [
+      "surribus"
+    ],
+    "A40946-e10330": [
+      "constable"
+    ],
+    "A40946-e10370": [
+      "surribus"
+    ],
+    "A40946-e10480": [
+      "surribus"
+    ],
+    "A40946-e10570": [
+      "pluto"
+    ],
+    "A40946-e10620": [
+      "surribus"
+    ],
+    "A40946-e10800": [
+      "shackles"
+    ],
+    "A40946-e10900": [
+      "pluto"
+    ],
+    "A40946-e10930": [
+      "proserpine"
+    ],
+    "A40946-e10960": [
+      "pluto"
+    ],
+    "A40946-e11080": [
+      "pluto"
+    ],
+    "A40946-e11120": [
+      "constable"
+    ],
+    "A40946-e11180": [
+      "pluto"
+    ],
+    "A40946-e11210": [
+      "constable"
+    ],
+    "A40946-e11250": [
+      "pluto"
+    ],
+    "A40946-e11290": [
+      "proserpine"
+    ],
+    "A40946-e11340": [
+      "constable"
+    ],
+    "A40946-e11400": [
+      "pluto"
+    ],
+    "A40946-e11470": [
+      "proserpine"
+    ],
+    "A40946-e11510": [
+      "constable"
+    ],
+    "A40946-e11630": [
+      "venire-facias"
+    ],
+    "A40946-e11790": [
+      "pluto"
+    ],
+    "A40946-e11870": [
+      "proserpine"
+    ],
+    "A40946-e11990": [
+      "pluto"
+    ],
+    "A40946-e12110": [
+      "proserpine"
+    ],
+    "A40946-e12160": [
+      "pluto"
+    ],
+    "A40946-e12230": [
+      "intelligence"
+    ],
+    "A40946-e12300": [
+      "pluto"
+    ],
+    "A40946-e12330": [
+      "intelligence"
+    ],
+    "A40946-e12730": [
+      "pluto"
+    ],
+    "A40946-e12770": [
+      "intelligence"
+    ],
+    "A40946-e12830": [
+      "proserpine"
+    ],
+    "A40946-e12890": [
+      "pluto"
+    ],
+    "A40946-e12930": [
+      "intelligence"
+    ],
+    "A40946-e13040": [
+      "pluto"
+    ],
+    "A40946-e13090": [
+      "practice"
+    ],
+    "A40946-e13120": [
+      "pluto"
+    ],
+    "A40946-e13160": [
+      "practice"
+    ],
+    "A40946-e13230": [
+      "pluto"
+    ],
+    "A40946-e13260": [
+      "practice"
+    ],
+    "A40946-e13290": [
+      "pluto"
+    ],
+    "A40946-e13330": [
+      "practice"
+    ],
+    "A40946-e14340": [
+      "pluto"
+    ],
+    "A40946-e14400": [
+      "shackles"
+    ],
+    "A40946-e14460": [
+      "brandy"
+    ],
+    "A40946-e14500": [
+      "pluto"
+    ],
+    "A40946-e14540": [
+      "capt-bub"
+    ],
+    "A40946-e14590": [
+      "pluto"
+    ],
+    "A40946-e14620": [
+      "bishop"
+    ],
+    "A40946-e14650": [
+      "pluto"
+    ],
+    "A40946-e14710": [
+      "practice"
+    ],
+    "A40946-e14890": [
+      "pluto"
+    ],
+    "A40946-e14920": [
+      "practice"
+    ],
+    "A40946-e15010": [
+      "pluto"
+    ],
+    "A40946-e15050": [
+      "practice"
+    ],
+    "A40946-e15080": [
+      "pluto"
+    ],
+    "A40946-e15110": [
+      "practice"
+    ],
+    "A40946-e15200": [
+      "pluto"
+    ],
+    "A40946-e15230": [
+      "practice"
+    ],
+    "A40946-e15270": [
+      "pluto"
+    ],
+    "A40946-e15350": [
+      "practice"
+    ],
+    "A40946-e15390": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e15430": [
+      "pluto"
+    ],
+    "A40946-e15460": [
+      "practice"
+    ],
+    "A40946-e15490": [
+      "pluto"
+    ],
+    "A40946-e15520": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e15550": [
+      "bishop"
+    ],
+    "A40946-e15580": [
+      "instrument"
+    ],
+    "A40946-e15620": [
+      "pluto"
+    ],
+    "A40946-e15680": [
+      "shackles"
+    ],
+    "A40946-e15710": [
+      "pluto"
+    ],
+    "A40946-e15750": [
+      "shackles"
+    ],
+    "A40946-e15780": [
+      "pluto"
+    ],
+    "A40946-e15810": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e15870": [
+      "pluto"
+    ],
+    "A40946-e15900": [
+      "instrument"
+    ],
+    "A40946-e15930": [
+      "pluto"
+    ],
+    "A40946-e15990": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e16040": [
+      "pluto"
+    ],
+    "A40946-e16070": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e16170": [
+      "pluto"
+    ],
+    "A40946-e16230": [
+      "sir-edward-lack-latine"
+    ],
+    "A40946-e16260": [
+      "pluto"
+    ],
+    "A40946-e16290": [
+      "practice"
+    ],
+    "A40946-e16320": [
+      "pluto"
+    ],
+    "A40946-e16350": [
+      "instrument"
+    ],
+    "A40946-e16390": [
+      "bishop"
+    ],
+    "A40946-e16510": [
+      "bishop"
+    ],
+    "A40946-e16540": [
+      "pluto"
+    ],
+    "A40946-e16730": [
+      "bishop"
+    ],
+    "A40946-e16760": [
+      "pluto"
+    ],
+    "A40946-e16810": [
+      "bishop"
+    ],
+    "A40946-e16840": [
+      "pluto"
+    ]
+  }
+}

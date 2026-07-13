@@ -1,0 +1,2142 @@
+{
+  "particDesc": [
+    {
+      "name": "Senators",
+      "id": "senators",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man",
+      "id": "man",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Woman ",
+      "id": "woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Martius",
+      "id": "martius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mutius",
+      "id": "mutius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Quintus",
+      "id": "quintus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "saturninus",
+      "name": "Saturninus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bassianus",
+      "name": "Bassianus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "titus-andronicus",
+      "name": "Titus Andronicus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "marcus-andronicus",
+      "name": "Marcus Andronicus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "emillius",
+      "name": "Emillius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lucius",
+      "name": "Lucius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "junius",
+      "name": "Junius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lavinia",
+      "name": "Lavinia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "roman-captain",
+      "name": "Roman Captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "tamora",
+      "name": "Tamora",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "alarbus",
+      "name": "Alarbus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "aron",
+      "name": "Aron",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "goth",
+      "name": "Goth",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "demetrius",
+      "name": "Demetrius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "chiron",
+      "name": "Chiron",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A59525-e2770": [
+      "saturninus"
+    ],
+    "A59525-e2880": [
+      "bassianus"
+    ],
+    "A59525-e3030": [
+      "marcus-andronicus"
+    ],
+    "A59525-e3360": [
+      "saturninus"
+    ],
+    "A59525-e3390": [
+      "bassianus"
+    ],
+    "A59525-e3540": [
+      "saturninus"
+    ],
+    "A59525-e3650": [
+      "bassianus"
+    ],
+    "A59525-e3720": [
+      "roman-captain"
+    ],
+    "A59525-e3930": [
+      "titus-andronicus"
+    ],
+    "A59525-e4260": [
+      "lucius"
+    ],
+    "A59525-e4340": [
+      "titus-andronicus"
+    ],
+    "A59525-e4380": [
+      "tamora"
+    ],
+    "A59525-e4590": [
+      "titus-andronicus"
+    ],
+    "A59525-e4660": [
+      "lucius"
+    ],
+    "A59525-e4740": [
+      "titus-andronicus"
+    ],
+    "A59525-e4960": [
+      "marcus-andronicus"
+    ],
+    "A59525-e5020": [
+      "quintus"
+    ],
+    "A59525-e5100": [
+      "tamora"
+    ],
+    "A59525-e5140": [
+      "chiron"
+    ],
+    "A59525-e5180": [
+      "demetrius"
+    ],
+    "A59525-e5300": [
+      "aron"
+    ],
+    "A59525-e5470": [
+      "lavinia"
+    ],
+    "A59525-e5600": [
+      "titus-andronicus"
+    ],
+    "A59525-e5800": [
+      "titus-andronicus"
+    ],
+    "A59525-e5970": [
+      "marcus-andronicus"
+    ],
+    "A59525-e6010": [
+      "titus-andronicus"
+    ],
+    "A59525-e6050": [
+      "marcus-andronicus"
+    ],
+    "A59525-e6200": [
+      "titus-andronicus"
+    ],
+    "A59525-e6370": [
+      "marcus-andronicus"
+    ],
+    "A59525-e6490": [
+      "titus-andronicus"
+    ],
+    "A59525-e6660": [
+      "marcus-andronicus"
+    ],
+    "A59525-e6690": [
+      "saturninus"
+    ],
+    "A59525-e6720": [
+      "titus-andronicus"
+    ],
+    "A59525-e6760": [
+      "saturninus"
+    ],
+    "A59525-e6880": [
+      "lucius"
+    ],
+    "A59525-e6940": [
+      "titus-andronicus"
+    ],
+    "A59525-e6980": [
+      "bassianus"
+    ],
+    "A59525-e7060": [
+      "titus-andronicus"
+    ],
+    "A59525-e7130": [
+      "emillius"
+    ],
+    "A59525-e7200": [
+      "marcus-andronicus"
+    ],
+    "A59525-e7230": [
+      "emillius",
+      "marcus-andronicus"
+    ],
+    "A59525-e7260": [
+      "titus-andronicus"
+    ],
+    "A59525-e7390": [
+      "marcus-andronicus"
+    ],
+    "A59525-e7490": [
+      "saturninus"
+    ],
+    "A59525-e7670": [
+      "titus-andronicus"
+    ],
+    "A59525-e7800": [
+      "saturninus"
+    ],
+    "A59525-e7900": [
+      "bassianus"
+    ],
+    "A59525-e8000": [
+      "titus-andronicus"
+    ],
+    "A59525-e8060": [
+      "saturninus"
+    ],
+    "A59525-e8160": [
+      "tamora"
+    ],
+    "A59525-e8240": [
+      "saturninus"
+    ],
+    "A59525-e8310": [
+      "saturninus"
+    ],
+    "A59525-e8400": [
+      "titus-andronicus"
+    ],
+    "A59525-e8440": [
+      "bassianus"
+    ],
+    "A59525-e8570": [
+      "saturninus"
+    ],
+    "A59525-e8610": [
+      "marcus-andronicus"
+    ],
+    "A59525-e8640": [
+      "lucius"
+    ],
+    "A59525-e8680": [
+      "titus-andronicus"
+    ],
+    "A59525-e8730": [
+      "bassianus"
+    ],
+    "A59525-e8760": [
+      "mutius"
+    ],
+    "A59525-e8830": [
+      "titus-andronicus"
+    ],
+    "A59525-e8890": [
+      "saturninus"
+    ],
+    "A59525-e9030": [
+      "mutius"
+    ],
+    "A59525-e9060": [
+      "titus-andronicus"
+    ],
+    "A59525-e9110": [
+      "mutius"
+    ],
+    "A59525-e9160": [
+      "lucius"
+    ],
+    "A59525-e9200": [
+      "titus-andronicus"
+    ],
+    "A59525-e9260": [
+      "lucius"
+    ],
+    "A59525-e9340": [
+      "saturninus"
+    ],
+    "A59525-e9450": [
+      "titus-andronicus"
+    ],
+    "A59525-e9480": [
+      "saturninus"
+    ],
+    "A59525-e9560": [
+      "titus-andronicus"
+    ],
+    "A59525-e9590": [
+      "saturninus"
+    ],
+    "A59525-e9810": [
+      "tamora"
+    ],
+    "A59525-e9940": [
+      "saturninus"
+    ],
+    "A59525-e9980": [
+      "tamora"
+    ],
+    "A59525-e10030": [
+      "aron"
+    ],
+    "A59525-e10100": [
+      "saturninus"
+    ],
+    "A59525-e10240": [
+      "titus-andronicus"
+    ],
+    "A59525-e10330": [
+      "marcus-andronicus"
+    ],
+    "A59525-e10380": [
+      "titus-andronicus"
+    ],
+    "A59525-e10440": [
+      "lucius"
+    ],
+    "A59525-e10490": [
+      "titus-andronicus"
+    ],
+    "A59525-e10580": [
+      "marcus-andronicus"
+    ],
+    "A59525-e10640": [
+      "quintus"
+    ],
+    "A59525-e10670": [
+      "titus-andronicus"
+    ],
+    "A59525-e10700": [
+      "martius"
+    ],
+    "A59525-e10730": [
+      "titus-andronicus"
+    ],
+    "A59525-e10760": [
+      "marcus-andronicus"
+    ],
+    "A59525-e10820": [
+      "titus-andronicus"
+    ],
+    "A59525-e10890": [
+      "quintus"
+    ],
+    "A59525-e10950": [
+      "marcus-andronicus"
+    ],
+    "A59525-e10980": [
+      "lucius"
+    ],
+    "A59525-e11010": [
+      "titus-andronicus"
+    ],
+    "A59525-e11040": [
+      "marcus-andronicus"
+    ],
+    "A59525-e11080": [
+      "lucius"
+    ],
+    "A59525-e11110": [
+      "marcus-andronicus"
+    ],
+    "A59525-e11290": [
+      "titus-andronicus"
+    ],
+    "A59525-e11380": [
+      "lucius"
+    ],
+    "A59525-e11430": [
+      "marcus-andronicus"
+    ],
+    "A59525-e11480": [
+      "martius"
+    ],
+    "A59525-e11520": [
+      "quintus"
+    ],
+    "A59525-e11590": [
+      "saturninus"
+    ],
+    "A59525-e11650": [
+      "bassianus"
+    ],
+    "A59525-e11700": [
+      "saturninus"
+    ],
+    "A59525-e11750": [
+      "bassianus"
+    ],
+    "A59525-e11820": [
+      "saturninus"
+    ],
+    "A59525-e11850": [
+      "bassianus"
+    ],
+    "A59525-e12030": [
+      "tamora"
+    ],
+    "A59525-e12090": [
+      "saturninus"
+    ],
+    "A59525-e12130": [
+      "tamora"
+    ],
+    "A59525-e12260": [
+      "bassianus"
+    ],
+    "A59525-e12300": [
+      "aron"
+    ],
+    "A59525-e12440": [
+      "bassianus"
+    ],
+    "A59525-e12470": [
+      "aron"
+    ],
+    "A59525-e12510": [
+      "tamora"
+    ],
+    "A59525-e12660": [
+      "bassianus"
+    ],
+    "A59525-e12700": [
+      "saturninus"
+    ],
+    "A59525-e12740": [
+      "titus-andronicus"
+    ],
+    "A59525-e12780": [
+      "tamora"
+    ],
+    "A59525-e12970": [
+      "bassianus"
+    ],
+    "A59525-e13010": [
+      "martius"
+    ],
+    "A59525-e13060": [
+      "quintus"
+    ],
+    "A59525-e13090": [
+      "marcus-andronicus"
+    ],
+    "A59525-e13130": [
+      "bassianus"
+    ],
+    "A59525-e13180": [
+      "saturninus"
+    ],
+    "A59525-e13420": [
+      "aron"
+    ],
+    "A59525-e13700": [
+      "demetrius"
+    ],
+    "A59525-e13750": [
+      "chiron"
+    ],
+    "A59525-e13870": [
+      "demetrius"
+    ],
+    "A59525-e13900": [
+      "chiron"
+    ],
+    "A59525-e13930": [
+      "demetrius"
+    ],
+    "A59525-e13960": [
+      "chiron"
+    ],
+    "A59525-e13990": [
+      "demetrius"
+    ],
+    "A59525-e14020": [
+      "chiron"
+    ],
+    "A59525-e14050": [
+      "demetrius"
+    ],
+    "A59525-e14080": [
+      "chiron"
+    ],
+    "A59525-e14110": [
+      "demetrius"
+    ],
+    "A59525-e14140": [
+      "chiron"
+    ],
+    "A59525-e14170": [
+      "demetrius"
+    ],
+    "A59525-e14200": [
+      "chiron"
+    ],
+    "A59525-e14230": [
+      "demetrius"
+    ],
+    "A59525-e14270": [
+      "aron"
+    ],
+    "A59525-e14400": [
+      "demetrius"
+    ],
+    "A59525-e14440": [
+      "chiron"
+    ],
+    "A59525-e14490": [
+      "aron"
+    ],
+    "A59525-e14640": [
+      "chiron"
+    ],
+    "A59525-e14690": [
+      "demetrius"
+    ],
+    "A59525-e14740": [
+      "aron"
+    ],
+    "A59525-e14820": [
+      "chiron"
+    ],
+    "A59525-e14860": [
+      "aron"
+    ],
+    "A59525-e14890": [
+      "demetrius"
+    ],
+    "A59525-e14960": [
+      "chiron"
+    ],
+    "A59525-e15010": [
+      "aron"
+    ],
+    "A59525-e15070": [
+      "chiron"
+    ],
+    "A59525-e15100": [
+      "aron"
+    ],
+    "A59525-e15150": [
+      "demetrius"
+    ],
+    "A59525-e15180": [
+      "chiron"
+    ],
+    "A59525-e15210": [
+      "aron"
+    ],
+    "A59525-e15250": [
+      "demetrius"
+    ],
+    "A59525-e15290": [
+      "aron"
+    ],
+    "A59525-e15320": [
+      "chiron"
+    ],
+    "A59525-e15350": [
+      "aron"
+    ],
+    "A59525-e15380": [
+      "demetrius"
+    ],
+    "A59525-e15410": [
+      "chiron"
+    ],
+    "A59525-e15440": [
+      "aron"
+    ],
+    "A59525-e15470": [
+      "chiron"
+    ],
+    "A59525-e15500": [
+      "demetrius"
+    ],
+    "A59525-e15530": [
+      "aron"
+    ],
+    "A59525-e15600": [
+      "demetrius"
+    ],
+    "A59525-e15630": [
+      "chiron"
+    ],
+    "A59525-e15660": [
+      "aron"
+    ],
+    "A59525-e15900": [
+      "chiron"
+    ],
+    "A59525-e15930": [
+      "demetrius"
+    ],
+    "A59525-e16040": [
+      "aron"
+    ],
+    "A59525-e16180": [
+      "chiron"
+    ],
+    "A59525-e16210": [
+      "demetrius"
+    ],
+    "A59525-e16300": [
+      "aron"
+    ],
+    "A59525-e16510": [
+      "tamora"
+    ],
+    "A59525-e16770": [
+      "aron"
+    ],
+    "A59525-e17070": [
+      "tamora"
+    ],
+    "A59525-e17110": [
+      "aron"
+    ],
+    "A59525-e17170": [
+      "tamora"
+    ],
+    "A59525-e17200": [
+      "aron"
+    ],
+    "A59525-e17270": [
+      "bassianus"
+    ],
+    "A59525-e17320": [
+      "tamora"
+    ],
+    "A59525-e17350": [
+      "bassianus"
+    ],
+    "A59525-e17390": [
+      "lavinia"
+    ],
+    "A59525-e17420": [
+      "bassianus"
+    ],
+    "A59525-e17490": [
+      "tamora"
+    ],
+    "A59525-e17520": [
+      "bassianus"
+    ],
+    "A59525-e17580": [
+      "tamora"
+    ],
+    "A59525-e17610": [
+      "bassianus"
+    ],
+    "A59525-e17670": [
+      "tamora"
+    ],
+    "A59525-e17710": [
+      "lavinia"
+    ],
+    "A59525-e17750": [
+      "bassianus"
+    ],
+    "A59525-e17790": [
+      "tamora"
+    ],
+    "A59525-e17820": [
+      "bassianus"
+    ],
+    "A59525-e17870": [
+      "demetrius"
+    ],
+    "A59525-e17900": [
+      "chiron"
+    ],
+    "A59525-e17930": [
+      "tamora"
+    ],
+    "A59525-e18110": [
+      "lavinia"
+    ],
+    "A59525-e18140": [
+      "bassianus"
+    ],
+    "A59525-e18180": [
+      "tamora"
+    ],
+    "A59525-e18280": [
+      "demetrius"
+    ],
+    "A59525-e18330": [
+      "chiron"
+    ],
+    "A59525-e18380": [
+      "bassianus"
+    ],
+    "A59525-e18440": [
+      "lavinia"
+    ],
+    "A59525-e18500": [
+      "demetrius"
+    ],
+    "A59525-e18640": [
+      "chiron"
+    ],
+    "A59525-e18680": [
+      "demetrius"
+    ],
+    "A59525-e18730": [
+      "lavinia"
+    ],
+    "A59525-e18760": [
+      "chiron"
+    ],
+    "A59525-e18810": [
+      "lavinia"
+    ],
+    "A59525-e18850": [
+      "tamora"
+    ],
+    "A59525-e18880": [
+      "lavinia"
+    ],
+    "A59525-e18910": [
+      "demetrius"
+    ],
+    "A59525-e18960": [
+      "lavinia"
+    ],
+    "A59525-e19050": [
+      "chiron"
+    ],
+    "A59525-e19080": [
+      "lavinia"
+    ],
+    "A59525-e19170": [
+      "tamora"
+    ],
+    "A59525-e19200": [
+      "lavinia"
+    ],
+    "A59525-e19250": [
+      "tamora"
+    ],
+    "A59525-e19370": [
+      "lavinia"
+    ],
+    "A59525-e19440": [
+      "tamora"
+    ],
+    "A59525-e19480": [
+      "chiron"
+    ],
+    "A59525-e19520": [
+      "tamora"
+    ],
+    "A59525-e19550": [
+      "lavinia"
+    ],
+    "A59525-e19600": [
+      "demetrius"
+    ],
+    "A59525-e19670": [
+      "tamora"
+    ],
+    "A59525-e19780": [
+      "martius"
+    ],
+    "A59525-e19840": [
+      "quintus"
+    ],
+    "A59525-e19950": [
+      "quintus"
+    ],
+    "A59525-e20000": [
+      "martius"
+    ],
+    "A59525-e20050": [
+      "quintus"
+    ],
+    "A59525-e20090": [
+      "martius"
+    ],
+    "A59525-e20140": [
+      "quintus"
+    ],
+    "A59525-e20170": [
+      "martius"
+    ],
+    "A59525-e20200": [
+      "quintus"
+    ],
+    "A59525-e20250": [
+      "martius"
+    ],
+    "A59525-e20290": [
+      "quintus"
+    ],
+    "A59525-e20320": [
+      "martius"
+    ],
+    "A59525-e20380": [
+      "quintus"
+    ],
+    "A59525-e20410": [
+      "martius"
+    ],
+    "A59525-e20440": [
+      "quintus"
+    ],
+    "A59525-e20480": [
+      "martius"
+    ],
+    "A59525-e20520": [
+      "quintus"
+    ],
+    "A59525-e20570": [
+      "martius"
+    ],
+    "A59525-e20600": [
+      "quintus"
+    ],
+    "A59525-e20680": [
+      "martius"
+    ],
+    "A59525-e20870": [
+      "saturninus"
+    ],
+    "A59525-e20910": [
+      "aron"
+    ],
+    "A59525-e20960": [
+      "martius"
+    ],
+    "A59525-e20990": [
+      "quintus"
+    ],
+    "A59525-e21020": [
+      "saturninus"
+    ],
+    "A59525-e21050": [
+      "martius"
+    ],
+    "A59525-e21120": [
+      "saturninus"
+    ],
+    "A59525-e21160": [
+      "martius"
+    ],
+    "A59525-e21200": [
+      "saturninus"
+    ],
+    "A59525-e21300": [
+      "tamora"
+    ],
+    "A59525-e21330": [
+      "saturninus"
+    ],
+    "A59525-e21370": [
+      "tamora"
+    ],
+    "A59525-e21410": [
+      "saturninus"
+    ],
+    "A59525-e21460": [
+      "tamora"
+    ],
+    "A59525-e21530": [
+      "saturninus"
+    ],
+    "A59525-e21750": [
+      "saturninus"
+    ],
+    "A59525-e21900": [
+      "titus-andronicus"
+    ],
+    "A59525-e21960": [
+      "saturninus"
+    ],
+    "A59525-e22000": [
+      "tamora"
+    ],
+    "A59525-e22040": [
+      "titus-andronicus"
+    ],
+    "A59525-e22100": [
+      "saturninus"
+    ],
+    "A59525-e22140": [
+      "aron"
+    ],
+    "A59525-e22180": [
+      "saturninus"
+    ],
+    "A59525-e22290": [
+      "tamora"
+    ],
+    "A59525-e22320": [
+      "saturninus"
+    ],
+    "A59525-e22360": [
+      "martius"
+    ],
+    "A59525-e22390": [
+      "quintus"
+    ],
+    "A59525-e22420": [
+      "saturninus"
+    ],
+    "A59525-e22460": [
+      "tamora"
+    ],
+    "A59525-e22510": [
+      "lucius"
+    ],
+    "A59525-e22540": [
+      "titus-andronicus"
+    ],
+    "A59525-e22630": [
+      "aron"
+    ],
+    "A59525-e22730": [
+      "demetrius"
+    ],
+    "A59525-e22770": [
+      "chiron"
+    ],
+    "A59525-e22810": [
+      "demetrius"
+    ],
+    "A59525-e22850": [
+      "chiron"
+    ],
+    "A59525-e22890": [
+      "demetrius"
+    ],
+    "A59525-e22970": [
+      "marcus-andronicus"
+    ],
+    "A59525-e23510": [
+      "titus-andronicus"
+    ],
+    "A59525-e23850": [
+      "lucius"
+    ],
+    "A59525-e23900": [
+      "titus-andronicus"
+    ],
+    "A59525-e23950": [
+      "lucius"
+    ],
+    "A59525-e23980": [
+      "titus-andronicus"
+    ],
+    "A59525-e24110": [
+      "lucius"
+    ],
+    "A59525-e24160": [
+      "titus-andronicus"
+    ],
+    "A59525-e24330": [
+      "marcus-andronicus"
+    ],
+    "A59525-e24380": [
+      "titus-andronicus"
+    ],
+    "A59525-e24410": [
+      "marcus-andronicus"
+    ],
+    "A59525-e24460": [
+      "titus-andronicus"
+    ],
+    "A59525-e24500": [
+      "lucius"
+    ],
+    "A59525-e24530": [
+      "titus-andronicus"
+    ],
+    "A59525-e24680": [
+      "lucius"
+    ],
+    "A59525-e24710": [
+      "marcus-andronicus"
+    ],
+    "A59525-e24780": [
+      "lucius"
+    ],
+    "A59525-e24810": [
+      "marcus-andronicus"
+    ],
+    "A59525-e24870": [
+      "titus-andronicus"
+    ],
+    "A59525-e25160": [
+      "marcus-andronicus"
+    ],
+    "A59525-e25200": [
+      "titus-andronicus"
+    ],
+    "A59525-e25440": [
+      "lucius"
+    ],
+    "A59525-e25480": [
+      "marcus-andronicus"
+    ],
+    "A59525-e25550": [
+      "titus-andronicus"
+    ],
+    "A59525-e25610": [
+      "lucius"
+    ],
+    "A59525-e25680": [
+      "titus-andronicus"
+    ],
+    "A59525-e25790": [
+      "aron"
+    ],
+    "A59525-e25920": [
+      "titus-andronicus"
+    ],
+    "A59525-e25990": [
+      "lucius"
+    ],
+    "A59525-e26060": [
+      "marcus-andronicus"
+    ],
+    "A59525-e26150": [
+      "marcus-andronicus"
+    ],
+    "A59525-e26180": [
+      "titus-andronicus"
+    ],
+    "A59525-e26220": [
+      "lucius"
+    ],
+    "A59525-e26270": [
+      "marcus-andronicus"
+    ],
+    "A59525-e26310": [
+      "aron"
+    ],
+    "A59525-e26360": [
+      "titus-andronicus"
+    ],
+    "A59525-e26400": [
+      "aron"
+    ],
+    "A59525-e26430": [
+      "titus-andronicus"
+    ],
+    "A59525-e26540": [
+      "marcus-andronicus"
+    ],
+    "A59525-e26580": [
+      "titus-andronicus"
+    ],
+    "A59525-e26730": [
+      "aron"
+    ],
+    "A59525-e26860": [
+      "lucius"
+    ],
+    "A59525-e26890": [
+      "marcus-andronicus"
+    ],
+    "A59525-e26930": [
+      "aron"
+    ],
+    "A59525-e27000": [
+      "lucius"
+    ],
+    "A59525-e27050": [
+      "marcus-andronicus"
+    ],
+    "A59525-e27080": [
+      "lucius"
+    ],
+    "A59525-e27110": [
+      "marcus-andronicus"
+    ],
+    "A59525-e27140": [
+      "lucius"
+    ],
+    "A59525-e27170": [
+      "titus-andronicus"
+    ],
+    "A59525-e27260": [
+      "aron"
+    ],
+    "A59525-e27340": [
+      "titus-andronicus"
+    ],
+    "A59525-e27480": [
+      "marcus-andronicus"
+    ],
+    "A59525-e27530": [
+      "lucius"
+    ],
+    "A59525-e27560": [
+      "titus-andronicus"
+    ],
+    "A59525-e27670": [
+      "lucius"
+    ],
+    "A59525-e27700": [
+      "titus-andronicus"
+    ],
+    "A59525-e27740": [
+      "marcus-andronicus"
+    ],
+    "A59525-e27790": [
+      "titus-andronicus"
+    ],
+    "A59525-e27830": [
+      "lucius"
+    ],
+    "A59525-e27910": [
+      "titus-andronicus"
+    ],
+    "A59525-e28020": [
+      "junius"
+    ],
+    "A59525-e28080": [
+      "titus-andronicus"
+    ],
+    "A59525-e28130": [
+      "junius"
+    ],
+    "A59525-e28160": [
+      "titus-andronicus"
+    ],
+    "A59525-e28230": [
+      "junius"
+    ],
+    "A59525-e28340": [
+      "titus-andronicus"
+    ],
+    "A59525-e28420": [
+      "lavinia"
+    ],
+    "A59525-e28470": [
+      "titus-andronicus"
+    ],
+    "A59525-e28520": [
+      "lavinia"
+    ],
+    "A59525-e28550": [
+      "titus-andronicus"
+    ],
+    "A59525-e28580": [
+      "lavinia"
+    ],
+    "A59525-e28610": [
+      "titus-andronicus"
+    ],
+    "A59525-e28640": [
+      "lavinia"
+    ],
+    "A59525-e28680": [
+      "titus-andronicus"
+    ],
+    "A59525-e28710": [
+      "lavinia"
+    ],
+    "A59525-e28750": [
+      "titus-andronicus"
+    ],
+    "A59525-e28780": [
+      "lavinia"
+    ],
+    "A59525-e28810": [
+      "titus-andronicus"
+    ],
+    "A59525-e28840": [
+      "lavinia"
+    ],
+    "A59525-e28880": [
+      "titus-andronicus"
+    ],
+    "A59525-e28920": [
+      "lavinia"
+    ],
+    "A59525-e29120": [
+      "lavinia"
+    ],
+    "A59525-e29150": [
+      "titus-andronicus"
+    ],
+    "A59525-e29180": [
+      "junius"
+    ],
+    "A59525-e29220": [
+      "titus-andronicus"
+    ],
+    "A59525-e29430": [
+      "titus-andronicus"
+    ],
+    "A59525-e29520": [
+      "junius"
+    ],
+    "A59525-e29570": [
+      "titus-andronicus"
+    ],
+    "A59525-e29650": [
+      "marcus-andronicus"
+    ],
+    "A59525-e29700": [
+      "lucius"
+    ],
+    "A59525-e29740": [
+      "titus-andronicus"
+    ],
+    "A59525-e29790": [
+      "marcus-andronicus"
+    ],
+    "A59525-e29870": [
+      "titus-andronicus"
+    ],
+    "A59525-e29960": [
+      "lucius"
+    ],
+    "A59525-e30030": [
+      "marcus-andronicus"
+    ],
+    "A59525-e30070": [
+      "titus-andronicus"
+    ],
+    "A59525-e30100": [
+      "marcus-andronicus"
+    ],
+    "A59525-e30240": [
+      "titus-andronicus"
+    ],
+    "A59525-e30270": [
+      "marcus-andronicus"
+    ],
+    "A59525-e30300": [
+      "titus-andronicus"
+    ],
+    "A59525-e30420": [
+      "lucius"
+    ],
+    "A59525-e30450": [
+      "junius"
+    ],
+    "A59525-e30500": [
+      "marcus-andronicus"
+    ],
+    "A59525-e30560": [
+      "lucius"
+    ],
+    "A59525-e30590": [
+      "marcus-andronicus"
+    ],
+    "A59525-e30630": [
+      "lucius"
+    ],
+    "A59525-e30690": [
+      "titus-andronicus"
+    ],
+    "A59525-e30730": [
+      "marcus-andronicus"
+    ],
+    "A59525-e30800": [
+      "titus-andronicus"
+    ],
+    "A59525-e30890": [
+      "lucius"
+    ],
+    "A59525-e30920": [
+      "marcus-andronicus"
+    ],
+    "A59525-e30950": [
+      "lavinia"
+    ],
+    "A59525-e30980": [
+      "marcus-andronicus"
+    ],
+    "A59525-e31010": [
+      "lavinia"
+    ],
+    "A59525-e31040": [
+      "marcus-andronicus"
+    ],
+    "A59525-e31070": [
+      "lavinia"
+    ],
+    "A59525-e31110": [
+      "marcus-andronicus"
+    ],
+    "A59525-e31260": [
+      "titus-andronicus"
+    ],
+    "A59525-e31380": [
+      "marcus-andronicus",
+      "lucius",
+      "junius"
+    ],
+    "A59525-e31410": [
+      "titus-andronicus"
+    ],
+    "A59525-e31530": [
+      "lucius"
+    ],
+    "A59525-e31820": [
+      "woman"
+    ],
+    "A59525-e31920": [
+      "demetrius"
+    ],
+    "A59525-e31960": [
+      "woman"
+    ],
+    "A59525-e32020": [
+      "chiron"
+    ],
+    "A59525-e32050": [
+      "demetrius"
+    ],
+    "A59525-e32090": [
+      "woman"
+    ],
+    "A59525-e32340": [
+      "aron"
+    ],
+    "A59525-e32370": [
+      "chiron"
+    ],
+    "A59525-e32400": [
+      "demetrius"
+    ],
+    "A59525-e32430": [
+      "aron"
+    ],
+    "A59525-e32470": [
+      "demetrius"
+    ],
+    "A59525-e32500": [
+      "aron"
+    ],
+    "A59525-e32690": [
+      "demetrius"
+    ],
+    "A59525-e32730": [
+      "aron"
+    ],
+    "A59525-e32860": [
+      "chiron"
+    ],
+    "A59525-e32890": [
+      "aron"
+    ],
+    "A59525-e32960": [
+      "demetrius"
+    ],
+    "A59525-e32990": [
+      "aron"
+    ],
+    "A59525-e33090": [
+      "chiron"
+    ],
+    "A59525-e33140": [
+      "demetrius"
+    ],
+    "A59525-e33190": [
+      "aron"
+    ],
+    "A59525-e33310": [
+      "demetrius"
+    ],
+    "A59525-e33350": [
+      "aron"
+    ],
+    "A59525-e33380": [
+      "demetrius"
+    ],
+    "A59525-e33430": [
+      "aron"
+    ],
+    "A59525-e33470": [
+      "woman"
+    ],
+    "A59525-e33500": [
+      "aron"
+    ],
+    "A59525-e33530": [
+      "woman"
+    ],
+    "A59525-e33560": [
+      "aron"
+    ],
+    "A59525-e33590": [
+      "woman"
+    ],
+    "A59525-e33640": [
+      "aron"
+    ],
+    "A59525-e33670": [
+      "chiron"
+    ],
+    "A59525-e33710": [
+      "aron"
+    ],
+    "A59525-e33740": [
+      "demetrius"
+    ],
+    "A59525-e33770": [
+      "aron"
+    ],
+    "A59525-e33820": [
+      "chiron"
+    ],
+    "A59525-e33850": [
+      "aron"
+    ],
+    "A59525-e33940": [
+      "demetrius"
+    ],
+    "A59525-e33970": [
+      "chiron"
+    ],
+    "A59525-e34040": [
+      "man"
+    ],
+    "A59525-e34160": [
+      "saturninus"
+    ],
+    "A59525-e34430": [
+      "tamora"
+    ],
+    "A59525-e34610": [
+      "saturninus"
+    ],
+    "A59525-e34720": [
+      "tamora"
+    ],
+    "A59525-e35010": [
+      "chiron",
+      "demetrius",
+      "marcus-andronicus",
+      "emillius",
+      "senators"
+    ],
+    "A59525-e35070": [
+      "tamora"
+    ],
+    "A59525-e35160": [
+      "demetrius"
+    ],
+    "A59525-e35240": [
+      "saturninus"
+    ],
+    "A59525-e35270": [
+      "chiron"
+    ],
+    "A59525-e35310": [
+      "tamora"
+    ],
+    "A59525-e35340": [
+      "demetrius"
+    ],
+    "A59525-e35460": [
+      "saturninus"
+    ],
+    "A59525-e35550": [
+      "tamora"
+    ],
+    "A59525-e35630": [
+      "saturninus"
+    ],
+    "A59525-e35740": [
+      "tamora"
+    ],
+    "A59525-e35770": [
+      "titus-andronicus"
+    ],
+    "A59525-e35820": [
+      "saturninus"
+    ],
+    "A59525-e35860": [
+      "chiron"
+    ],
+    "A59525-e35900": [
+      "demetrius"
+    ],
+    "A59525-e35930": [
+      "titus-andronicus"
+    ],
+    "A59525-e35960": [
+      "tamora"
+    ],
+    "A59525-e36010": [
+      "titus-andronicus"
+    ],
+    "A59525-e36060": [
+      "saturninus"
+    ],
+    "A59525-e36090": [
+      "titus-andronicus"
+    ],
+    "A59525-e36380": [
+      "saturninus"
+    ],
+    "A59525-e36420": [
+      "tamora"
+    ],
+    "A59525-e36460": [
+      "titus-andronicus"
+    ],
+    "A59525-e36520": [
+      "saturninus"
+    ],
+    "A59525-e36550": [
+      "tamora"
+    ],
+    "A59525-e36580": [
+      "titus-andronicus"
+    ],
+    "A59525-e36660": [
+      "saturninus"
+    ],
+    "A59525-e36690": [
+      "tamora"
+    ],
+    "A59525-e36770": [
+      "saturninus"
+    ],
+    "A59525-e36820": [
+      "tamora"
+    ],
+    "A59525-e36900": [
+      "saturninus"
+    ],
+    "A59525-e36930": [
+      "titus-andronicus"
+    ],
+    "A59525-e37090": [
+      "tamora"
+    ],
+    "A59525-e37140": [
+      "titus-andronicus"
+    ],
+    "A59525-e37190": [
+      "tamora"
+    ],
+    "A59525-e37250": [
+      "titus-andronicus"
+    ],
+    "A59525-e37340": [
+      "tamora"
+    ],
+    "A59525-e37390": [
+      "titus-andronicus"
+    ],
+    "A59525-e37420": [
+      "tamora"
+    ],
+    "A59525-e37470": [
+      "titus-andronicus"
+    ],
+    "A59525-e37630": [
+      "tamora"
+    ],
+    "A59525-e37690": [
+      "titus-andronicus"
+    ],
+    "A59525-e37740": [
+      "tamora"
+    ],
+    "A59525-e37780": [
+      "titus-andronicus"
+    ],
+    "A59525-e37930": [
+      "tamora"
+    ],
+    "A59525-e38170": [
+      "titus-andronicus"
+    ],
+    "A59525-e38210": [
+      "tamora"
+    ],
+    "A59525-e38260": [
+      "titus-andronicus"
+    ],
+    "A59525-e38290": [
+      "tamora"
+    ],
+    "A59525-e38370": [
+      "titus-andronicus"
+    ],
+    "A59525-e38440": [
+      "tamora"
+    ],
+    "A59525-e38470": [
+      "demetrius"
+    ],
+    "A59525-e38500": [
+      "chiron"
+    ],
+    "A59525-e38550": [
+      "tamora"
+    ],
+    "A59525-e38580": [
+      "titus-andronicus"
+    ],
+    "A59525-e38620": [
+      "junius"
+    ],
+    "A59525-e38650": [
+      "titus-andronicus"
+    ],
+    "A59525-e38690": [
+      "junius"
+    ],
+    "A59525-e38740": [
+      "titus-andronicus"
+    ],
+    "A59525-e38780": [
+      "junius"
+    ],
+    "A59525-e38830": [
+      "titus-andronicus"
+    ],
+    "A59525-e38890": [
+      "junius"
+    ],
+    "A59525-e38940": [
+      "demetrius"
+    ],
+    "A59525-e39060": [
+      "titus-andronicus"
+    ],
+    "A59525-e39140": [
+      "junius"
+    ],
+    "A59525-e39180": [
+      "demetrius"
+    ],
+    "A59525-e39240": [
+      "chiron"
+    ],
+    "A59525-e39280": [
+      "demetrius"
+    ],
+    "A59525-e39350": [
+      "chiron"
+    ],
+    "A59525-e39410": [
+      "junius"
+    ],
+    "A59525-e39440": [
+      "demetrius"
+    ],
+    "A59525-e39470": [
+      "junius"
+    ],
+    "A59525-e39500": [
+      "chiron"
+    ],
+    "A59525-e39530": [
+      "junius"
+    ],
+    "A59525-e39560": [
+      "demetrius"
+    ],
+    "A59525-e39590": [
+      "junius"
+    ],
+    "A59525-e39640": [
+      "demetrius"
+    ],
+    "A59525-e39670": [
+      "junius"
+    ],
+    "A59525-e39740": [
+      "chiron"
+    ],
+    "A59525-e39770": [
+      "junius"
+    ],
+    "A59525-e39830": [
+      "chiron"
+    ],
+    "A59525-e39860": [
+      "junius"
+    ],
+    "A59525-e39890": [
+      "demetrius"
+    ],
+    "A59525-e39980": [
+      "chiron"
+    ],
+    "A59525-e40030": [
+      "demetrius"
+    ],
+    "A59525-e40070": [
+      "chiron"
+    ],
+    "A59525-e40120": [
+      "demetrius"
+    ],
+    "A59525-e40150": [
+      "chiron"
+    ],
+    "A59525-e40210": [
+      "demetrius"
+    ],
+    "A59525-e40240": [
+      "chiron"
+    ],
+    "A59525-e40310": [
+      "junius"
+    ],
+    "A59525-e40340": [
+      "chiron"
+    ],
+    "A59525-e40370": [
+      "junius"
+    ],
+    "A59525-e40400": [
+      "demetrius"
+    ],
+    "A59525-e40430": [
+      "junius"
+    ],
+    "A59525-e40460": [
+      "demetrius"
+    ],
+    "A59525-e40490": [
+      "chiron"
+    ],
+    "A59525-e40530": [
+      "junius"
+    ],
+    "A59525-e40610": [
+      "lucius"
+    ],
+    "A59525-e40750": [
+      "roman-captain"
+    ],
+    "A59525-e40870": [
+      "lucius"
+    ],
+    "A59525-e40930": [
+      "marcus-andronicus"
+    ],
+    "A59525-e41040": [
+      "lucius"
+    ],
+    "A59525-e41090": [
+      "roman-captain"
+    ],
+    "A59525-e41120": [
+      "marcus-andronicus"
+    ],
+    "A59525-e41210": [
+      "demetrius"
+    ],
+    "A59525-e41250": [
+      "junius"
+    ],
+    "A59525-e41290": [
+      "chiron"
+    ],
+    "A59525-e41340": [
+      "junius"
+    ],
+    "A59525-e41390": [
+      "demetrius"
+    ],
+    "A59525-e41450": [
+      "chiron"
+    ],
+    "A59525-e41480": [
+      "junius"
+    ],
+    "A59525-e41530": [
+      "demetrius"
+    ],
+    "A59525-e41560": [
+      "junius"
+    ],
+    "A59525-e41620": [
+      "chiron"
+    ],
+    "A59525-e41650": [
+      "titus-andronicus"
+    ],
+    "A59525-e41680": [
+      "demetrius"
+    ],
+    "A59525-e41710": [
+      "titus-andronicus"
+    ],
+    "A59525-e42140": [
+      "marcus-andronicus"
+    ],
+    "A59525-e42180": [
+      "lucius"
+    ],
+    "A59525-e42210": [
+      "marcus-andronicus"
+    ],
+    "A59525-e42320": [
+      "lucius"
+    ],
+    "A59525-e42380": [
+      "titus-andronicus"
+    ],
+    "A59525-e42510": [
+      "goth"
+    ],
+    "A59525-e42540": [
+      "titus-andronicus"
+    ],
+    "A59525-e42610": [
+      "goth"
+    ],
+    "A59525-e42660": [
+      "titus-andronicus"
+    ],
+    "A59525-e42710": [
+      "goth"
+    ],
+    "A59525-e42750": [
+      "lucius"
+    ],
+    "A59525-e42780": [
+      "goth"
+    ],
+    "A59525-e42860": [
+      "titus-andronicus"
+    ],
+    "A59525-e42890": [
+      "goth"
+    ],
+    "A59525-e43030": [
+      "marcus-andronicus"
+    ],
+    "A59525-e43060": [
+      "goth"
+    ],
+    "A59525-e43150": [
+      "titus-andronicus"
+    ],
+    "A59525-e43200": [
+      "lucius"
+    ],
+    "A59525-e43250": [
+      "titus-andronicus"
+    ],
+    "A59525-e43350": [
+      "lucius"
+    ],
+    "A59525-e43390": [
+      "marcus-andronicus"
+    ],
+    "A59525-e43430": [
+      "titus-andronicus"
+    ],
+    "A59525-e43480": [
+      "lucius"
+    ],
+    "A59525-e43520": [
+      "marcus-andronicus"
+    ],
+    "A59525-e43600": [
+      "saturninus"
+    ],
+    "A59525-e43630": [
+      "lucius"
+    ],
+    "A59525-e43680": [
+      "saturninus"
+    ],
+    "A59525-e43720": [
+      "marcus-andronicus"
+    ],
+    "A59525-e43820": [
+      "titus-andronicus"
+    ],
+    "A59525-e43890": [
+      "tamora"
+    ],
+    "A59525-e43930": [
+      "titus-andronicus"
+    ],
+    "A59525-e44010": [
+      "tamora"
+    ],
+    "A59525-e44050": [
+      "titus-andronicus"
+    ],
+    "A59525-e44080": [
+      "saturninus"
+    ],
+    "A59525-e44110": [
+      "titus-andronicus"
+    ],
+    "A59525-e44180": [
+      "saturninus"
+    ],
+    "A59525-e44220": [
+      "titus-andronicus"
+    ],
+    "A59525-e44250": [
+      "saturninus"
+    ],
+    "A59525-e44290": [
+      "titus-andronicus"
+    ],
+    "A59525-e44390": [
+      "saturninus"
+    ],
+    "A59525-e44420": [
+      "tamora"
+    ],
+    "A59525-e44450": [
+      "titus-andronicus"
+    ],
+    "A59525-e44560": [
+      "saturninus"
+    ],
+    "A59525-e44590": [
+      "titus-andronicus"
+    ],
+    "A59525-e44630": [
+      "saturninus"
+    ],
+    "A59525-e44660": [
+      "tamora"
+    ],
+    "A59525-e44690": [
+      "saturninus"
+    ],
+    "A59525-e44720": [
+      "tamora"
+    ],
+    "A59525-e44750": [
+      "titus-andronicus"
+    ],
+    "A59525-e44810": [
+      "tamora"
+    ],
+    "A59525-e44850": [
+      "titus-andronicus"
+    ],
+    "A59525-e45060": [
+      "aron"
+    ],
+    "A59525-e45090": [
+      "saturninus"
+    ],
+    "A59525-e45140": [
+      "tamora"
+    ],
+    "A59525-e45200": [
+      "titus-andronicus"
+    ],
+    "A59525-e45280": [
+      "tamora"
+    ],
+    "A59525-e45310": [
+      "titus-andronicus"
+    ],
+    "A59525-e45360": [
+      "tamora"
+    ],
+    "A59525-e45390": [
+      "titus-andronicus"
+    ],
+    "A59525-e45480": [
+      "saturninus"
+    ],
+    "A59525-e45530": [
+      "lucius"
+    ],
+    "A59525-e45600": [
+      "marcus-andronicus"
+    ],
+    "A59525-e45680": [
+      "emillius"
+    ],
+    "A59525-e45720": [
+      "marcus-andronicus"
+    ],
+    "A59525-e45840": [
+      "aron"
+    ],
+    "A59525-e45880": [
+      "tamora"
+    ],
+    "A59525-e45930": [
+      "aron"
+    ],
+    "A59525-e46000": [
+      "marcus-andronicus"
+    ],
+    "A59525-e46030": [
+      "aron"
+    ],
+    "A59525-e46060": [
+      "marcus-andronicus"
+    ],
+    "A59525-e46090": [
+      "aron"
+    ],
+    "A59525-e46200": [
+      "marcus-andronicus"
+    ],
+    "A59525-e46230": [
+      "aron"
+    ],
+    "A59525-e46270": [
+      "lucius"
+    ],
+    "A59525-e46310": [
+      "aron"
+    ],
+    "A59525-e46340": [
+      "saturninus"
+    ],
+    "A59525-e46370": [
+      "aron"
+    ],
+    "A59525-e46450": [
+      "marcus-andronicus"
+    ],
+    "A59525-e46480": [
+      "aron"
+    ],
+    "A59525-e46640": [
+      "saturninus"
+    ],
+    "A59525-e46680": [
+      "tamora"
+    ],
+    "A59525-e46750": [
+      "aron"
+    ],
+    "A59525-e46780": [
+      "tamora"
+    ],
+    "A59525-e46830": [
+      "aron"
+    ],
+    "A59525-e46880": [
+      "saturninus"
+    ],
+    "A59525-e46940": [
+      "marcus-andronicus"
+    ],
+    "A59525-e47110": [
+      "emillius"
+    ],
+    "A59525-e47200": [
+      "marcus-andronicus",
+      "emillius",
+      "senators"
+    ],
+    "A59525-e47250": [
+      "lucius"
+    ],
+    "A59525-e47380": [
+      "marcus-andronicus"
+    ],
+    "A59525-e47430": [
+      "lucius"
+    ],
+    "A59525-e47480": [
+      "emillius"
+    ],
+    "A59525-e47540": [
+      "lucius"
+    ],
+    "A59525-e47610": [
+      "aron"
+    ],
+    "A59525-e47700": [
+      "marcus-andronicus"
+    ],
+    "A59525-e47750": [
+      "lucius"
+    ]
+  }
+}

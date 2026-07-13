@@ -1,0 +1,1770 @@
+{
+  "particDesc": [
+    {
+      "name": "Shepherd 2",
+      "id": "shepherd-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Shepherd 1",
+      "id": "shepherd-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Shepherdess 2",
+      "id": "shepherdess-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Shepherdess 1",
+      "id": "shepherdess-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Jupiter",
+      "id": "jupiter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Two Furies",
+      "id": "two-furies",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Iris",
+      "id": "iris",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Ixion",
+      "id": "ixion",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mercury",
+      "id": "mercury",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Juno",
+      "id": "juno",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Ruffian 2",
+      "id": "ruffian-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ruffian 1",
+      "id": "ruffian-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen",
+      "id": "citizen",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Court Lady",
+      "id": "court-lady",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Mr. Peregrine",
+      "id": "mr-peregrine",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Critic",
+      "id": "critic",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Poet",
+      "id": "poet",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Florella",
+      "id": "florella",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "frederico",
+      "name": "Frederico",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "alousia",
+      "name": "Alousia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "alfonso",
+      "name": "Alfonso",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "fidalbo",
+      "name": "Fidalbo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rodrigo",
+      "name": "Rodrigo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "a-fryer",
+      "name": "A Fryer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "amidea",
+      "name": "Amidea",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "page",
+      "name": "Page",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A58113-e250": [
+      "critic"
+    ],
+    "A58113-e280": [
+      "poet"
+    ],
+    "A58113-e320": [
+      "poet"
+    ],
+    "A58113-e350": [
+      "critic"
+    ],
+    "A58113-e380": [
+      "critic"
+    ],
+    "A58113-e420": [
+      "poet"
+    ],
+    "A58113-e480": [
+      "critic"
+    ],
+    "A58113-e520": [
+      "poet"
+    ],
+    "A58113-e550": [
+      "mr-peregrine"
+    ],
+    "A58113-e580": [
+      "critic"
+    ],
+    "A58113-e620": [
+      "mr-peregrine"
+    ],
+    "A58113-e650": [
+      "critic"
+    ],
+    "A58113-e680": [
+      "mr-peregrine"
+    ],
+    "A58113-e710": [
+      "critic"
+    ],
+    "A58113-e740": [
+      "mr-peregrine"
+    ],
+    "A58113-e770": [
+      "critic"
+    ],
+    "A58113-e800": [
+      "mr-peregrine"
+    ],
+    "A58113-e830": [
+      "critic"
+    ],
+    "A58113-e860": [
+      "mr-peregrine"
+    ],
+    "A58113-e890": [
+      "poet"
+    ],
+    "A58113-e920": [
+      "mr-peregrine"
+    ],
+    "A58113-e970": [
+      "critic"
+    ],
+    "A58113-e1000": [
+      "poet"
+    ],
+    "A58113-e1040": [
+      "mr-peregrine"
+    ],
+    "A58113-e1070": [
+      "critic"
+    ],
+    "A58113-e1100": [
+      "mr-peregrine"
+    ],
+    "A58113-e1130": [
+      "poet"
+    ],
+    "A58113-e1160": [
+      "critic"
+    ],
+    "A58113-e1190": [
+      "poet"
+    ],
+    "A58113-e1230": [
+      "mr-peregrine"
+    ],
+    "A58113-e1260": [
+      "poet"
+    ],
+    "A58113-e1310": [
+      "mr-peregrine"
+    ],
+    "A58113-e1350": [
+      "critic"
+    ],
+    "A58113-e1380": [
+      "mr-peregrine"
+    ],
+    "A58113-e1410": [
+      "critic"
+    ],
+    "A58113-e1440": [
+      "poet"
+    ],
+    "A58113-e1470": [
+      "mr-peregrine"
+    ],
+    "A58113-e1500": [
+      "poet"
+    ],
+    "A58113-e1530": [
+      "critic"
+    ],
+    "A58113-e1560": [
+      "mr-peregrine"
+    ],
+    "A58113-e1590": [
+      "poet"
+    ],
+    "A58113-e1640": [
+      "critic"
+    ],
+    "A58113-e1680": [
+      "mr-peregrine"
+    ],
+    "A58113-e1720": [
+      "critic"
+    ],
+    "A58113-e1760": [
+      "mr-peregrine",
+      "poet"
+    ],
+    "A58113-e1800": [
+      "poet"
+    ],
+    "A58113-e1830": [
+      "critic"
+    ],
+    "A58113-e1870": [
+      "poet"
+    ],
+    "A58113-e1900": [
+      "mr-peregrine"
+    ],
+    "A58113-e1940": [
+      "poet"
+    ],
+    "A58113-e2760": [
+      "rodrigo"
+    ],
+    "A58113-e2790": [
+      "alousia"
+    ],
+    "A58113-e2920": [
+      "frederico"
+    ],
+    "A58113-e2960": [
+      "alousia"
+    ],
+    "A58113-e3010": [
+      "frederico"
+    ],
+    "A58113-e3100": [
+      "alousia"
+    ],
+    "A58113-e3150": [
+      "frederico"
+    ],
+    "A58113-e3210": [
+      "alousia"
+    ],
+    "A58113-e3290": [
+      "frederico"
+    ],
+    "A58113-e3320": [
+      "alousia"
+    ],
+    "A58113-e3390": [
+      "frederico"
+    ],
+    "A58113-e3450": [
+      "alousia"
+    ],
+    "A58113-e3500": [
+      "frederico"
+    ],
+    "A58113-e3570": [
+      "alousia"
+    ],
+    "A58113-e3610": [
+      "frederico"
+    ],
+    "A58113-e3670": [
+      "alousia"
+    ],
+    "A58113-e3700": [
+      "frederico"
+    ],
+    "A58113-e3770": [
+      "alousia"
+    ],
+    "A58113-e4110": [
+      "shepherdess-1"
+    ],
+    "A58113-e4190": [
+      "chorus"
+    ],
+    "A58113-e4230": [
+      "shepherdess-2"
+    ],
+    "A58113-e4290": [
+      "chorus"
+    ],
+    "A58113-e4330": [
+      "shepherd-1"
+    ],
+    "A58113-e4390": [
+      "chorus"
+    ],
+    "A58113-e4430": [
+      "shepherd-2"
+    ],
+    "A58113-e4490": [
+      "chorus"
+    ],
+    "A58113-e4530": [
+      "shepherd-1"
+    ],
+    "A58113-e4590": [
+      "chorus"
+    ],
+    "A58113-e4650": [
+      "court-lady"
+    ],
+    "A58113-e4710": [
+      "court-lady",
+      "citizen"
+    ],
+    "A58113-e4750": [
+      "court-lady"
+    ],
+    "A58113-e4810": [
+      "court-lady",
+      "citizen"
+    ],
+    "A58113-e4850": [
+      "citizen"
+    ],
+    "A58113-e4910": [
+      "citizen",
+      "court-lady"
+    ],
+    "A58113-e4980": [
+      "court-lady"
+    ],
+    "A58113-e5080": [
+      "chorus"
+    ],
+    "A58113-e5140": [
+      "shepherd-1",
+      "shepherd-2"
+    ],
+    "A58113-e5220": [
+      "citizen"
+    ],
+    "A58113-e5360": [
+      "chorus"
+    ],
+    "A58113-e5410": [
+      "page"
+    ],
+    "A58113-e5450": [
+      "frederico"
+    ],
+    "A58113-e5480": [
+      "alousia"
+    ],
+    "A58113-e5510": [
+      "frederico"
+    ],
+    "A58113-e5560": [
+      "alousia"
+    ],
+    "A58113-e5590": [
+      "frederico"
+    ],
+    "A58113-e5680": [
+      "alfonso"
+    ],
+    "A58113-e5740": [
+      "frederico"
+    ],
+    "A58113-e5780": [
+      "alfonso"
+    ],
+    "A58113-e5830": [
+      "frederico"
+    ],
+    "A58113-e5910": [
+      "alfonso"
+    ],
+    "A58113-e5950": [
+      "alousia"
+    ],
+    "A58113-e5990": [
+      "alfonso"
+    ],
+    "A58113-e6020": [
+      "alousia"
+    ],
+    "A58113-e6050": [
+      "frederico"
+    ],
+    "A58113-e6120": [
+      "alousia"
+    ],
+    "A58113-e6160": [
+      "alfonso"
+    ],
+    "A58113-e6200": [
+      "alousia"
+    ],
+    "A58113-e6230": [
+      "alfonso"
+    ],
+    "A58113-e6260": [
+      "alousia"
+    ],
+    "A58113-e6290": [
+      "alfonso"
+    ],
+    "A58113-e6320": [
+      "alousia"
+    ],
+    "A58113-e6350": [
+      "alfonso"
+    ],
+    "A58113-e6390": [
+      "alousia"
+    ],
+    "A58113-e6420": [
+      "alfonso"
+    ],
+    "A58113-e6470": [
+      "amidea"
+    ],
+    "A58113-e6520": [
+      "florella"
+    ],
+    "A58113-e6570": [
+      "rodrigo"
+    ],
+    "A58113-e6780": [
+      "alousia"
+    ],
+    "A58113-e6830": [
+      "alfonso"
+    ],
+    "A58113-e6860": [
+      "alousia"
+    ],
+    "A58113-e6950": [
+      "alfonso"
+    ],
+    "A58113-e7090": [
+      "alousia"
+    ],
+    "A58113-e7120": [
+      "alfonso"
+    ],
+    "A58113-e7190": [
+      "alousia"
+    ],
+    "A58113-e7220": [
+      "alfonso"
+    ],
+    "A58113-e7250": [
+      "alousia"
+    ],
+    "A58113-e7280": [
+      "alfonso"
+    ],
+    "A58113-e7310": [
+      "alousia"
+    ],
+    "A58113-e7340": [
+      "alfonso"
+    ],
+    "A58113-e7370": [
+      "alousia"
+    ],
+    "A58113-e7400": [
+      "alfonso"
+    ],
+    "A58113-e7430": [
+      "alousia"
+    ],
+    "A58113-e7460": [
+      "alfonso"
+    ],
+    "A58113-e7490": [
+      "alousia"
+    ],
+    "A58113-e7530": [
+      "alfonso"
+    ],
+    "A58113-e7560": [
+      "alousia"
+    ],
+    "A58113-e7640": [
+      "rodrigo"
+    ],
+    "A58113-e7760": [
+      "frederico"
+    ],
+    "A58113-e8050": [
+      "rodrigo"
+    ],
+    "A58113-e8080": [
+      "frederico"
+    ],
+    "A58113-e8110": [
+      "rodrigo"
+    ],
+    "A58113-e8140": [
+      "frederico"
+    ],
+    "A58113-e8180": [
+      "rodrigo"
+    ],
+    "A58113-e8220": [
+      "frederico"
+    ],
+    "A58113-e8260": [
+      "rodrigo"
+    ],
+    "A58113-e8290": [
+      "frederico"
+    ],
+    "A58113-e8320": [
+      "rodrigo"
+    ],
+    "A58113-e8350": [
+      "frederico"
+    ],
+    "A58113-e8380": [
+      "rodrigo"
+    ],
+    "A58113-e8440": [
+      "frederico"
+    ],
+    "A58113-e8470": [
+      "rodrigo"
+    ],
+    "A58113-e8510": [
+      "frederico"
+    ],
+    "A58113-e8540": [
+      "rodrigo"
+    ],
+    "A58113-e8570": [
+      "frederico"
+    ],
+    "A58113-e8660": [
+      "frederico"
+    ],
+    "A58113-e8720": [
+      "alousia"
+    ],
+    "A58113-e8790": [
+      "frederico"
+    ],
+    "A58113-e8840": [
+      "rodrigo"
+    ],
+    "A58113-e8870": [
+      "frederico"
+    ],
+    "A58113-e8910": [
+      "alousia"
+    ],
+    "A58113-e9000": [
+      "frederico"
+    ],
+    "A58113-e9030": [
+      "alfonso"
+    ],
+    "A58113-e9060": [
+      "frederico"
+    ],
+    "A58113-e9120": [
+      "alfonso"
+    ],
+    "A58113-e9150": [
+      "frederico"
+    ],
+    "A58113-e9180": [
+      "alfonso"
+    ],
+    "A58113-e9220": [
+      "frederico"
+    ],
+    "A58113-e9250": [
+      "alfonso"
+    ],
+    "A58113-e9300": [
+      "frederico"
+    ],
+    "A58113-e9410": [
+      "frederico"
+    ],
+    "A58113-e9500": [
+      "alfonso"
+    ],
+    "A58113-e9550": [
+      "frederico"
+    ],
+    "A58113-e9650": [
+      "alfonso"
+    ],
+    "A58113-e9680": [
+      "frederico"
+    ],
+    "A58113-e9780": [
+      "alfonso"
+    ],
+    "A58113-e9810": [
+      "frederico"
+    ],
+    "A58113-e9840": [
+      "alfonso"
+    ],
+    "A58113-e9900": [
+      "frederico"
+    ],
+    "A58113-e9930": [
+      "rodrigo"
+    ],
+    "A58113-e9960": [
+      "frederico"
+    ],
+    "A58113-e10020": [
+      "rodrigo"
+    ],
+    "A58113-e10050": [
+      "frederico"
+    ],
+    "A58113-e10090": [
+      "rodrigo"
+    ],
+    "A58113-e10120": [
+      "frederico"
+    ],
+    "A58113-e10160": [
+      "rodrigo"
+    ],
+    "A58113-e10190": [
+      "frederico"
+    ],
+    "A58113-e10240": [
+      "rodrigo"
+    ],
+    "A58113-e10270": [
+      "frederico"
+    ],
+    "A58113-e10310": [
+      "rodrigo"
+    ],
+    "A58113-e10340": [
+      "frederico"
+    ],
+    "A58113-e10370": [
+      "rodrigo"
+    ],
+    "A58113-e10400": [
+      "frederico"
+    ],
+    "A58113-e10490": [
+      "rodrigo"
+    ],
+    "A58113-e10530": [
+      "frederico"
+    ],
+    "A58113-e10580": [
+      "rodrigo"
+    ],
+    "A58113-e10620": [
+      "frederico"
+    ],
+    "A58113-e10710": [
+      "alousia"
+    ],
+    "A58113-e10890": [
+      "frederico"
+    ],
+    "A58113-e10930": [
+      "alousia"
+    ],
+    "A58113-e11010": [
+      "frederico"
+    ],
+    "A58113-e11060": [
+      "alousia"
+    ],
+    "A58113-e11090": [
+      "frederico"
+    ],
+    "A58113-e11130": [
+      "alousia"
+    ],
+    "A58113-e11180": [
+      "frederico"
+    ],
+    "A58113-e11220": [
+      "alousia"
+    ],
+    "A58113-e11250": [
+      "frederico"
+    ],
+    "A58113-e11330": [
+      "alousia"
+    ],
+    "A58113-e11370": [
+      "frederico"
+    ],
+    "A58113-e11550": [
+      "florella"
+    ],
+    "A58113-e11600": [
+      "alousia"
+    ],
+    "A58113-e11630": [
+      "amidea"
+    ],
+    "A58113-e11690": [
+      "alfonso"
+    ],
+    "A58113-e11820": [
+      "frederico"
+    ],
+    "A58113-e11870": [
+      "alfonso"
+    ],
+    "A58113-e11920": [
+      "frederico"
+    ],
+    "A58113-e11980": [
+      "alfonso"
+    ],
+    "A58113-e12050": [
+      "florella"
+    ],
+    "A58113-e12080": [
+      "amidea"
+    ],
+    "A58113-e12150": [
+      "florella"
+    ],
+    "A58113-e12200": [
+      "amidea"
+    ],
+    "A58113-e12260": [
+      "florella"
+    ],
+    "A58113-e12300": [
+      "amidea"
+    ],
+    "A58113-e12330": [
+      "florella"
+    ],
+    "A58113-e12400": [
+      "amidea"
+    ],
+    "A58113-e12440": [
+      "florella"
+    ],
+    "A58113-e12480": [
+      "amidea"
+    ],
+    "A58113-e12550": [
+      "florella"
+    ],
+    "A58113-e12630": [
+      "amidea"
+    ],
+    "A58113-e12730": [
+      "frederico"
+    ],
+    "A58113-e12770": [
+      "alfonso"
+    ],
+    "A58113-e12800": [
+      "frederico"
+    ],
+    "A58113-e12860": [
+      "alfonso"
+    ],
+    "A58113-e12890": [
+      "frederico"
+    ],
+    "A58113-e12950": [
+      "alfonso"
+    ],
+    "A58113-e12980": [
+      "frederico"
+    ],
+    "A58113-e13020": [
+      "alfonso"
+    ],
+    "A58113-e13110": [
+      "rodrigo"
+    ],
+    "A58113-e13160": [
+      "alfonso"
+    ],
+    "A58113-e13210": [
+      "frederico"
+    ],
+    "A58113-e13250": [
+      "alfonso"
+    ],
+    "A58113-e13280": [
+      "rodrigo"
+    ],
+    "A58113-e13310": [
+      "frederico"
+    ],
+    "A58113-e13400": [
+      "rodrigo"
+    ],
+    "A58113-e13430": [
+      "frederico"
+    ],
+    "A58113-e13500": [
+      "ruffian-1"
+    ],
+    "A58113-e13540": [
+      "ruffian-2"
+    ],
+    "A58113-e13570": [
+      "ruffian-1"
+    ],
+    "A58113-e13610": [
+      "alfonso"
+    ],
+    "A58113-e13640": [
+      "frederico"
+    ],
+    "A58113-e13720": [
+      "rodrigo"
+    ],
+    "A58113-e13760": [
+      "frederico"
+    ],
+    "A58113-e13830": [
+      "rodrigo"
+    ],
+    "A58113-e13860": [
+      "frederico"
+    ],
+    "A58113-e13940": [
+      "rodrigo"
+    ],
+    "A58113-e13990": [
+      "frederico"
+    ],
+    "A58113-e14040": [
+      "alfonso"
+    ],
+    "A58113-e14090": [
+      "frederico"
+    ],
+    "A58113-e14200": [
+      "alfonso"
+    ],
+    "A58113-e14280": [
+      "frederico"
+    ],
+    "A58113-e14320": [
+      "alfonso"
+    ],
+    "A58113-e14380": [
+      "frederico"
+    ],
+    "A58113-e14420": [
+      "alfonso"
+    ],
+    "A58113-e14470": [
+      "frederico"
+    ],
+    "A58113-e14560": [
+      "alfonso"
+    ],
+    "A58113-e14590": [
+      "frederico"
+    ],
+    "A58113-e14650": [
+      "alfonso"
+    ],
+    "A58113-e14680": [
+      "frederico"
+    ],
+    "A58113-e14720": [
+      "alfonso"
+    ],
+    "A58113-e14830": [
+      "alousia"
+    ],
+    "A58113-e14870": [
+      "amidea"
+    ],
+    "A58113-e14900": [
+      "alousia"
+    ],
+    "A58113-e14980": [
+      "florella"
+    ],
+    "A58113-e15010": [
+      "amidea"
+    ],
+    "A58113-e15040": [
+      "alousia"
+    ],
+    "A58113-e15150": [
+      "alousia"
+    ],
+    "A58113-e15200": [
+      "florella"
+    ],
+    "A58113-e15230": [
+      "alousia"
+    ],
+    "A58113-e15590": [
+      "alousia"
+    ],
+    "A58113-e15620": [
+      "amidea"
+    ],
+    "A58113-e15660": [
+      "alousia"
+    ],
+    "A58113-e15720": [
+      "frederico"
+    ],
+    "A58113-e15750": [
+      "alousia"
+    ],
+    "A58113-e15790": [
+      "frederico"
+    ],
+    "A58113-e15820": [
+      "alousia"
+    ],
+    "A58113-e15850": [
+      "frederico"
+    ],
+    "A58113-e15890": [
+      "alousia"
+    ],
+    "A58113-e15920": [
+      "frederico"
+    ],
+    "A58113-e15960": [
+      "alousia"
+    ],
+    "A58113-e15990": [
+      "frederico"
+    ],
+    "A58113-e16020": [
+      "alousia"
+    ],
+    "A58113-e16050": [
+      "frederico"
+    ],
+    "A58113-e16080": [
+      "alousia"
+    ],
+    "A58113-e16110": [
+      "frederico"
+    ],
+    "A58113-e16140": [
+      "alousia"
+    ],
+    "A58113-e16170": [
+      "frederico"
+    ],
+    "A58113-e16200": [
+      "alousia"
+    ],
+    "A58113-e16230": [
+      "frederico"
+    ],
+    "A58113-e16270": [
+      "alousia"
+    ],
+    "A58113-e16310": [
+      "frederico"
+    ],
+    "A58113-e16360": [
+      "alousia"
+    ],
+    "A58113-e16390": [
+      "frederico"
+    ],
+    "A58113-e16420": [
+      "alousia"
+    ],
+    "A58113-e16450": [
+      "frederico"
+    ],
+    "A58113-e16480": [
+      "alousia"
+    ],
+    "A58113-e16530": [
+      "frederico"
+    ],
+    "A58113-e16560": [
+      "alousia"
+    ],
+    "A58113-e16590": [
+      "frederico"
+    ],
+    "A58113-e16620": [
+      "alousia"
+    ],
+    "A58113-e16650": [
+      "frederico"
+    ],
+    "A58113-e16680": [
+      "alousia"
+    ],
+    "A58113-e16710": [
+      "frederico"
+    ],
+    "A58113-e16740": [
+      "alousia"
+    ],
+    "A58113-e16770": [
+      "frederico"
+    ],
+    "A58113-e16800": [
+      "alousia"
+    ],
+    "A58113-e16840": [
+      "frederico"
+    ],
+    "A58113-e16870": [
+      "alousia"
+    ],
+    "A58113-e16900": [
+      "frederico"
+    ],
+    "A58113-e16930": [
+      "alousia"
+    ],
+    "A58113-e16970": [
+      "frederico"
+    ],
+    "A58113-e17000": [
+      "alousia"
+    ],
+    "A58113-e17030": [
+      "frederico"
+    ],
+    "A58113-e17060": [
+      "alousia"
+    ],
+    "A58113-e17090": [
+      "frederico"
+    ],
+    "A58113-e17120": [
+      "alousia"
+    ],
+    "A58113-e17150": [
+      "frederico"
+    ],
+    "A58113-e17180": [
+      "alousia"
+    ],
+    "A58113-e17210": [
+      "frederico"
+    ],
+    "A58113-e17240": [
+      "alousia"
+    ],
+    "A58113-e17270": [
+      "frederico"
+    ],
+    "A58113-e17300": [
+      "alousia"
+    ],
+    "A58113-e17340": [
+      "frederico"
+    ],
+    "A58113-e17370": [
+      "alousia"
+    ],
+    "A58113-e17400": [
+      "frederico"
+    ],
+    "A58113-e17430": [
+      "alousia"
+    ],
+    "A58113-e17460": [
+      "frederico"
+    ],
+    "A58113-e17490": [
+      "alousia"
+    ],
+    "A58113-e17520": [
+      "frederico"
+    ],
+    "A58113-e17550": [
+      "alousia"
+    ],
+    "A58113-e17580": [
+      "frederico"
+    ],
+    "A58113-e17630": [
+      "alousia"
+    ],
+    "A58113-e17820": [
+      "frederico"
+    ],
+    "A58113-e18110": [
+      "alfonso"
+    ],
+    "A58113-e18150": [
+      "frederico"
+    ],
+    "A58113-e18190": [
+      "alfonso"
+    ],
+    "A58113-e18230": [
+      "frederico"
+    ],
+    "A58113-e18500": [
+      "mercury"
+    ],
+    "A58113-e18610": [
+      "ixion"
+    ],
+    "A58113-e18680": [
+      "juno"
+    ],
+    "A58113-e18770": [
+      "iris"
+    ],
+    "A58113-e18950": [
+      "juno"
+    ],
+    "A58113-e19060": [
+      "ixion"
+    ],
+    "A58113-e19120": [
+      "juno"
+    ],
+    "A58113-e19170": [
+      "ixion"
+    ],
+    "A58113-e19220": [
+      "juno"
+    ],
+    "A58113-e19270": [
+      "juno",
+      "ixion"
+    ],
+    "A58113-e19350": [
+      "ixion"
+    ],
+    "A58113-e19470": [
+      "juno"
+    ],
+    "A58113-e19520": [
+      "juno"
+    ],
+    "A58113-e19560": [
+      "ixion"
+    ],
+    "A58113-e19720": [
+      "juno"
+    ],
+    "A58113-e19750": [
+      "ixion"
+    ],
+    "A58113-e19810": [
+      "juno"
+    ],
+    "A58113-e19880": [
+      "jupiter"
+    ],
+    "A58113-e19990": [
+      "ixion"
+    ],
+    "A58113-e20080": [
+      "two-furies"
+    ],
+    "A58113-e20210": [
+      "frederico"
+    ],
+    "A58113-e20270": [
+      "alfonso"
+    ],
+    "A58113-e20310": [
+      "frederico"
+    ],
+    "A58113-e20360": [
+      "alfonso"
+    ],
+    "A58113-e20410": [
+      "frederico"
+    ],
+    "A58113-e20510": [
+      "alfonso"
+    ],
+    "A58113-e20570": [
+      "frederico"
+    ],
+    "A58113-e20640": [
+      "alfonso"
+    ],
+    "A58113-e20670": [
+      "frederico"
+    ],
+    "A58113-e20700": [
+      "alfonso"
+    ],
+    "A58113-e20730": [
+      "frederico"
+    ],
+    "A58113-e20780": [
+      "alfonso"
+    ],
+    "A58113-e20840": [
+      "frederico"
+    ],
+    "A58113-e20930": [
+      "alfonso"
+    ],
+    "A58113-e20960": [
+      "frederico"
+    ],
+    "A58113-e21090": [
+      "alfonso"
+    ],
+    "A58113-e21140": [
+      "frederico"
+    ],
+    "A58113-e21170": [
+      "alfonso"
+    ],
+    "A58113-e21240": [
+      "frederico"
+    ],
+    "A58113-e21350": [
+      "alfonso"
+    ],
+    "A58113-e21400": [
+      "frederico"
+    ],
+    "A58113-e21470": [
+      "alfonso"
+    ],
+    "A58113-e21500": [
+      "frederico"
+    ],
+    "A58113-e21550": [
+      "alfonso"
+    ],
+    "A58113-e21580": [
+      "frederico"
+    ],
+    "A58113-e21650": [
+      "alfonso"
+    ],
+    "A58113-e21680": [
+      "frederico"
+    ],
+    "A58113-e21770": [
+      "alfonso"
+    ],
+    "A58113-e21800": [
+      "frederico"
+    ],
+    "A58113-e21930": [
+      "alfonso"
+    ],
+    "A58113-e21980": [
+      "frederico"
+    ],
+    "A58113-e22040": [
+      "alfonso"
+    ],
+    "A58113-e22070": [
+      "frederico"
+    ],
+    "A58113-e22100": [
+      "alfonso"
+    ],
+    "A58113-e22180": [
+      "frederico"
+    ],
+    "A58113-e22290": [
+      "alfonso"
+    ],
+    "A58113-e22380": [
+      "frederico"
+    ],
+    "A58113-e22440": [
+      "alfonso"
+    ],
+    "A58113-e22470": [
+      "frederico"
+    ],
+    "A58113-e22540": [
+      "alfonso"
+    ],
+    "A58113-e22570": [
+      "frederico"
+    ],
+    "A58113-e22620": [
+      "alfonso"
+    ],
+    "A58113-e22660": [
+      "frederico"
+    ],
+    "A58113-e22850": [
+      "ruffian-1"
+    ],
+    "A58113-e22880": [
+      "frederico"
+    ],
+    "A58113-e22990": [
+      "alousia"
+    ],
+    "A58113-e23130": [
+      "amidea"
+    ],
+    "A58113-e23160": [
+      "alousia"
+    ],
+    "A58113-e23200": [
+      "amidea"
+    ],
+    "A58113-e23230": [
+      "alousia"
+    ],
+    "A58113-e23260": [
+      "amidea"
+    ],
+    "A58113-e23290": [
+      "alousia"
+    ],
+    "A58113-e23350": [
+      "florella"
+    ],
+    "A58113-e23420": [
+      "alousia"
+    ],
+    "A58113-e23450": [
+      "florella"
+    ],
+    "A58113-e23480": [
+      "alousia"
+    ],
+    "A58113-e23530": [
+      "florella"
+    ],
+    "A58113-e23570": [
+      "florella"
+    ],
+    "A58113-e23640": [
+      "alousia"
+    ],
+    "A58113-e23740": [
+      "florella"
+    ],
+    "A58113-e23790": [
+      "alousia"
+    ],
+    "A58113-e23850": [
+      "florella"
+    ],
+    "A58113-e23910": [
+      "alousia"
+    ],
+    "A58113-e23940": [
+      "florella"
+    ],
+    "A58113-e24020": [
+      "alousia"
+    ],
+    "A58113-e24090": [
+      "fidalbo"
+    ],
+    "A58113-e24130": [
+      "alousia"
+    ],
+    "A58113-e24220": [
+      "frederico"
+    ],
+    "A58113-e24400": [
+      "alousia"
+    ],
+    "A58113-e24430": [
+      "frederico"
+    ],
+    "A58113-e24460": [
+      "alousia"
+    ],
+    "A58113-e24490": [
+      "frederico"
+    ],
+    "A58113-e24520": [
+      "alousia"
+    ],
+    "A58113-e24550": [
+      "frederico"
+    ],
+    "A58113-e24590": [
+      "alousia"
+    ],
+    "A58113-e24620": [
+      "frederico"
+    ],
+    "A58113-e24650": [
+      "alousia"
+    ],
+    "A58113-e24680": [
+      "frederico"
+    ],
+    "A58113-e24710": [
+      "alousia"
+    ],
+    "A58113-e24740": [
+      "frederico"
+    ],
+    "A58113-e24770": [
+      "alousia"
+    ],
+    "A58113-e24800": [
+      "frederico"
+    ],
+    "A58113-e24830": [
+      "alousia"
+    ],
+    "A58113-e24860": [
+      "frederico"
+    ],
+    "A58113-e24900": [
+      "alousia"
+    ],
+    "A58113-e24930": [
+      "frederico"
+    ],
+    "A58113-e24980": [
+      "alousia"
+    ],
+    "A58113-e25010": [
+      "frederico"
+    ],
+    "A58113-e25050": [
+      "alousia"
+    ],
+    "A58113-e25080": [
+      "frederico"
+    ],
+    "A58113-e25120": [
+      "alousia"
+    ],
+    "A58113-e25170": [
+      "frederico"
+    ],
+    "A58113-e25230": [
+      "alousia"
+    ],
+    "A58113-e25260": [
+      "frederico"
+    ],
+    "A58113-e25290": [
+      "alousia"
+    ],
+    "A58113-e25320": [
+      "frederico"
+    ],
+    "A58113-e25350": [
+      "alousia"
+    ],
+    "A58113-e25380": [
+      "frederico"
+    ],
+    "A58113-e25420": [
+      "alousia"
+    ],
+    "A58113-e25450": [
+      "frederico"
+    ],
+    "A58113-e25490": [
+      "alousia"
+    ],
+    "A58113-e25520": [
+      "frederico"
+    ],
+    "A58113-e25550": [
+      "alousia"
+    ],
+    "A58113-e25580": [
+      "frederico"
+    ],
+    "A58113-e25610": [
+      "alousia"
+    ],
+    "A58113-e25640": [
+      "frederico"
+    ],
+    "A58113-e25670": [
+      "alousia"
+    ],
+    "A58113-e25700": [
+      "frederico"
+    ],
+    "A58113-e25750": [
+      "alousia"
+    ],
+    "A58113-e25780": [
+      "frederico"
+    ],
+    "A58113-e25810": [
+      "alousia"
+    ],
+    "A58113-e25850": [
+      "frederico"
+    ],
+    "A58113-e25880": [
+      "alousia"
+    ],
+    "A58113-e25910": [
+      "frederico"
+    ],
+    "A58113-e25940": [
+      "alousia"
+    ],
+    "A58113-e25970": [
+      "frederico"
+    ],
+    "A58113-e26000": [
+      "alousia"
+    ],
+    "A58113-e26030": [
+      "frederico"
+    ],
+    "A58113-e26070": [
+      "alousia"
+    ],
+    "A58113-e26100": [
+      "frederico"
+    ],
+    "A58113-e26130": [
+      "alousia"
+    ],
+    "A58113-e26160": [
+      "frederico"
+    ],
+    "A58113-e26190": [
+      "alousia"
+    ],
+    "A58113-e26220": [
+      "frederico"
+    ],
+    "A58113-e26250": [
+      "alousia"
+    ],
+    "A58113-e26280": [
+      "frederico"
+    ],
+    "A58113-e26330": [
+      "alousia"
+    ],
+    "A58113-e26370": [
+      "frederico"
+    ],
+    "A58113-e26440": [
+      "alousia"
+    ],
+    "A58113-e26490": [
+      "frederico"
+    ],
+    "A58113-e26560": [
+      "alousia"
+    ],
+    "A58113-e26590": [
+      "frederico"
+    ],
+    "A58113-e26650": [
+      "alousia"
+    ],
+    "A58113-e26680": [
+      "frederico"
+    ],
+    "A58113-e26710": [
+      "alousia"
+    ],
+    "A58113-e26770": [
+      "frederico"
+    ],
+    "A58113-e26840": [
+      "alousia"
+    ],
+    "A58113-e26880": [
+      "frederico"
+    ],
+    "A58113-e27150": [
+      "florella"
+    ],
+    "A58113-e27180": [
+      "frederico"
+    ],
+    "A58113-e27210": [
+      "amidea"
+    ],
+    "A58113-e27240": [
+      "frederico"
+    ],
+    "A58113-e27290": [
+      "florella"
+    ],
+    "A58113-e27340": [
+      "amidea"
+    ],
+    "A58113-e27400": [
+      "frederico"
+    ],
+    "A58113-e27430": [
+      "amidea"
+    ],
+    "A58113-e27460": [
+      "frederico"
+    ],
+    "A58113-e27530": [
+      "fidalbo"
+    ],
+    "A58113-e27570": [
+      "a-fryer"
+    ],
+    "A58113-e27630": [
+      "frederico"
+    ],
+    "A58113-e27660": [
+      "a-fryer"
+    ],
+    "A58113-e27700": [
+      "frederico"
+    ],
+    "A58113-e27740": [
+      "a-fryer"
+    ],
+    "A58113-e27800": [
+      "frederico"
+    ],
+    "A58113-e27840": [
+      "a-fryer"
+    ],
+    "A58113-e27870": [
+      "frederico"
+    ],
+    "A58113-e27900": [
+      "a-fryer"
+    ],
+    "A58113-e27930": [
+      "frederico"
+    ],
+    "A58113-e27970": [
+      "a-fryer"
+    ],
+    "A58113-e28000": [
+      "frederico"
+    ],
+    "A58113-e28050": [
+      "a-fryer"
+    ],
+    "A58113-e28100": [
+      "fidalbo"
+    ],
+    "A58113-e28140": [
+      "frederico"
+    ],
+    "A58113-e28200": [
+      "fidalbo"
+    ],
+    "A58113-e28250": [
+      "frederico"
+    ],
+    "A58113-e28360": [
+      "fidalbo"
+    ],
+    "A58113-e28390": [
+      "frederico"
+    ]
+  }
+}

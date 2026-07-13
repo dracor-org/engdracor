@@ -1,0 +1,2137 @@
+{
+  "particDesc": [
+    {
+      "name": "Antonius",
+      "id": "antonius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Herdsman 3",
+      "id": "herdsman-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Herdsman 2",
+      "id": "herdsman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Herdsman 1",
+      "id": "herdsman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Grandson of Ancharius",
+      "id": "grandson-of-ancharius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Old Man",
+      "id": "old-man",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Catulus",
+      "id": "catulus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Embassador 2",
+      "id": "embassador-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Embassador 1",
+      "id": "embassador-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Martha",
+      "id": "martha",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Soldier 3",
+      "id": "soldier-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 2",
+      "id": "soldier-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 1",
+      "id": "soldier-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer",
+      "id": "officer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Clodius",
+      "id": "clodius",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Citizen 4",
+      "id": "citizen-4",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 3",
+      "id": "citizen-3",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 2",
+      "id": "citizen-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 1",
+      "id": "citizen-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "caius-marius",
+      "name": "Caius Marius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sylla",
+      "name": "Sylla",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "marius-junior",
+      "name": "Marius junior",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "granius",
+      "name": "Granius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "metellus",
+      "name": "Metellus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "quintus-pompeius",
+      "name": "Quintus Pompeius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cinna",
+      "name": "Cinna",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sulpitius",
+      "name": "Sulpitius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ancharius",
+      "name": "Ancharius ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "priest",
+      "name": "Priest",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "apothecary",
+      "name": "Apothecary",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "guards",
+      "name": "Guards",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "id": "ruffians",
+      "name": "Ruffians",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "id": "lavinia",
+      "name": "Lavinia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A53517-e1850": [
+      "metellus"
+    ],
+    "A53517-e2000": [
+      "cinna"
+    ],
+    "A53517-e2100": [
+      "metellus"
+    ],
+    "A53517-e2210": [
+      "antonius"
+    ],
+    "A53517-e2480": [
+      "cinna"
+    ],
+    "A53517-e2610": [
+      "metellus"
+    ],
+    "A53517-e2650": [
+      "cinna"
+    ],
+    "A53517-e2700": [
+      "metellus"
+    ],
+    "A53517-e2900": [
+      "antonius"
+    ],
+    "A53517-e3070": [
+      "metellus"
+    ],
+    "A53517-e3260": [
+      "cinna"
+    ],
+    "A53517-e3330": [
+      "metellus"
+    ],
+    "A53517-e3430": [
+      "antonius"
+    ],
+    "A53517-e3550": [
+      "metellus"
+    ],
+    "A53517-e3720": [
+      "cinna"
+    ],
+    "A53517-e3760": [
+      "metellus",
+      "cinna",
+      "antonius"
+    ],
+    "A53517-e3800": [
+      "metellus"
+    ],
+    "A53517-e3930": [
+      "antonius"
+    ],
+    "A53517-e3980": [
+      "cinna"
+    ],
+    "A53517-e4020": [
+      "metellus"
+    ],
+    "A53517-e4130": [
+      "antonius"
+    ],
+    "A53517-e4220": [
+      "metellus"
+    ],
+    "A53517-e4370": [
+      "cinna"
+    ],
+    "A53517-e4580": [
+      "metellus"
+    ],
+    "A53517-e4620": [
+      "metellus",
+      "cinna",
+      "antonius"
+    ],
+    "A53517-e4710": [
+      "caius-marius"
+    ],
+    "A53517-e4920": [
+      "marius-junior"
+    ],
+    "A53517-e5000": [
+      "granius"
+    ],
+    "A53517-e5100": [
+      "caius-marius"
+    ],
+    "A53517-e5350": [
+      "marius-junior"
+    ],
+    "A53517-e5480": [
+      "granius"
+    ],
+    "A53517-e5600": [
+      "marius-junior"
+    ],
+    "A53517-e5660": [
+      "caius-marius"
+    ],
+    "A53517-e5830": [
+      "marius-junior"
+    ],
+    "A53517-e5890": [
+      "caius-marius"
+    ],
+    "A53517-e6000": [
+      "marius-junior"
+    ],
+    "A53517-e6140": [
+      "caius-marius"
+    ],
+    "A53517-e6220": [
+      "granius"
+    ],
+    "A53517-e6320": [
+      "caius-marius"
+    ],
+    "A53517-e6500": [
+      "granius"
+    ],
+    "A53517-e6540": [
+      "caius-marius"
+    ],
+    "A53517-e6770": [
+      "marius-junior"
+    ],
+    "A53517-e6890": [
+      "caius-marius"
+    ],
+    "A53517-e7050": [
+      "marius-junior"
+    ],
+    "A53517-e7240": [
+      "caius-marius"
+    ],
+    "A53517-e7270": [
+      "marius-junior"
+    ],
+    "A53517-e7450": [
+      "caius-marius"
+    ],
+    "A53517-e7480": [
+      "marius-junior"
+    ],
+    "A53517-e7550": [
+      "caius-marius"
+    ],
+    "A53517-e7630": [
+      "marius-junior"
+    ],
+    "A53517-e7710": [
+      "caius-marius"
+    ],
+    "A53517-e7770": [
+      "sulpitius"
+    ],
+    "A53517-e7840": [
+      "caius-marius"
+    ],
+    "A53517-e7930": [
+      "sulpitius"
+    ],
+    "A53517-e7960": [
+      "marius-junior"
+    ],
+    "A53517-e7990": [
+      "sulpitius"
+    ],
+    "A53517-e8050": [
+      "marius-junior"
+    ],
+    "A53517-e8080": [
+      "sulpitius"
+    ],
+    "A53517-e8110": [
+      "marius-junior"
+    ],
+    "A53517-e8140": [
+      "sulpitius"
+    ],
+    "A53517-e8170": [
+      "marius-junior"
+    ],
+    "A53517-e8230": [
+      "sulpitius"
+    ],
+    "A53517-e8480": [
+      "caius-marius"
+    ],
+    "A53517-e8540": [
+      "sulpitius"
+    ],
+    "A53517-e8620": [
+      "caius-marius"
+    ],
+    "A53517-e8700": [
+      "marius-junior"
+    ],
+    "A53517-e8750": [
+      "caius-marius"
+    ],
+    "A53517-e8780": [
+      "sulpitius"
+    ],
+    "A53517-e8910": [
+      "caius-marius"
+    ],
+    "A53517-e9160": [
+      "metellus"
+    ],
+    "A53517-e9250": [
+      "nurse"
+    ],
+    "A53517-e9330": [
+      "lavinia"
+    ],
+    "A53517-e9360": [
+      "nurse"
+    ],
+    "A53517-e9390": [
+      "lavinia"
+    ],
+    "A53517-e9420": [
+      "metellus"
+    ],
+    "A53517-e9480": [
+      "lavinia"
+    ],
+    "A53517-e9540": [
+      "metellus"
+    ],
+    "A53517-e9570": [
+      "lavinia"
+    ],
+    "A53517-e9620": [
+      "metellus"
+    ],
+    "A53517-e9700": [
+      "nurse"
+    ],
+    "A53517-e9730": [
+      "metellus"
+    ],
+    "A53517-e9760": [
+      "nurse"
+    ],
+    "A53517-e9800": [
+      "metellus"
+    ],
+    "A53517-e9830": [
+      "nurse"
+    ],
+    "A53517-e9940": [
+      "metellus"
+    ],
+    "A53517-e9970": [
+      "nurse"
+    ],
+    "A53517-e10010": [
+      "metellus"
+    ],
+    "A53517-e10040": [
+      "nurse"
+    ],
+    "A53517-e10070": [
+      "metellus"
+    ],
+    "A53517-e10120": [
+      "lavinia"
+    ],
+    "A53517-e10150": [
+      "nurse"
+    ],
+    "A53517-e10200": [
+      "metellus"
+    ],
+    "A53517-e10280": [
+      "nurse"
+    ],
+    "A53517-e10310": [
+      "metellus"
+    ],
+    "A53517-e10450": [
+      "lavinia"
+    ],
+    "A53517-e10580": [
+      "metellus"
+    ],
+    "A53517-e10610": [
+      "lavinia"
+    ],
+    "A53517-e10640": [
+      "metellus"
+    ],
+    "A53517-e10690": [
+      "lavinia"
+    ],
+    "A53517-e10790": [
+      "metellus"
+    ],
+    "A53517-e10870": [
+      "lavinia"
+    ],
+    "A53517-e10970": [
+      "metellus"
+    ],
+    "A53517-e11000": [
+      "lavinia"
+    ],
+    "A53517-e11110": [
+      "metellus"
+    ],
+    "A53517-e11290": [
+      "lavinia"
+    ],
+    "A53517-e11510": [
+      "metellus"
+    ],
+    "A53517-e11540": [
+      "lavinia"
+    ],
+    "A53517-e11580": [
+      "metellus"
+    ],
+    "A53517-e11610": [
+      "lavinia"
+    ],
+    "A53517-e11670": [
+      "metellus"
+    ],
+    "A53517-e11780": [
+      "lavinia"
+    ],
+    "A53517-e11910": [
+      "nurse"
+    ],
+    "A53517-e12020": [
+      "lavinia"
+    ],
+    "A53517-e12070": [
+      "nurse"
+    ],
+    "A53517-e12100": [
+      "lavinia"
+    ],
+    "A53517-e12300": [
+      "marius-junior"
+    ],
+    "A53517-e12430": [
+      "granius"
+    ],
+    "A53517-e12480": [
+      "sulpitius"
+    ],
+    "A53517-e12530": [
+      "granius"
+    ],
+    "A53517-e12580": [
+      "sulpitius"
+    ],
+    "A53517-e12720": [
+      "granius"
+    ],
+    "A53517-e12760": [
+      "sulpitius"
+    ],
+    "A53517-e12810": [
+      "granius"
+    ],
+    "A53517-e12860": [
+      "sulpitius"
+    ],
+    "A53517-e12910": [
+      "granius"
+    ],
+    "A53517-e12960": [
+      "sulpitius"
+    ],
+    "A53517-e13120": [
+      "marius-junior"
+    ],
+    "A53517-e13250": [
+      "lavinia"
+    ],
+    "A53517-e13280": [
+      "marius-junior"
+    ],
+    "A53517-e13360": [
+      "lavinia"
+    ],
+    "A53517-e13450": [
+      "marius-junior"
+    ],
+    "A53517-e13480": [
+      "lavinia"
+    ],
+    "A53517-e13660": [
+      "marius-junior"
+    ],
+    "A53517-e13710": [
+      "lavinia"
+    ],
+    "A53517-e13750": [
+      "marius-junior"
+    ],
+    "A53517-e13810": [
+      "lavinia"
+    ],
+    "A53517-e13890": [
+      "marius-junior"
+    ],
+    "A53517-e13960": [
+      "lavinia"
+    ],
+    "A53517-e14130": [
+      "marius-junior"
+    ],
+    "A53517-e14190": [
+      "lavinia"
+    ],
+    "A53517-e14270": [
+      "marius-junior"
+    ],
+    "A53517-e14310": [
+      "lavinia"
+    ],
+    "A53517-e14360": [
+      "marius-junior"
+    ],
+    "A53517-e14390": [
+      "lavinia"
+    ],
+    "A53517-e14450": [
+      "marius-junior"
+    ],
+    "A53517-e14480": [
+      "lavinia"
+    ],
+    "A53517-e14580": [
+      "marius-junior"
+    ],
+    "A53517-e14610": [
+      "lavinia"
+    ],
+    "A53517-e14640": [
+      "marius-junior"
+    ],
+    "A53517-e14670": [
+      "lavinia"
+    ],
+    "A53517-e14710": [
+      "marius-junior"
+    ],
+    "A53517-e14740": [
+      "lavinia"
+    ],
+    "A53517-e14830": [
+      "marius-junior"
+    ],
+    "A53517-e14860": [
+      "lavinia"
+    ],
+    "A53517-e14930": [
+      "nurse"
+    ],
+    "A53517-e14960": [
+      "lavinia"
+    ],
+    "A53517-e15000": [
+      "nurse"
+    ],
+    "A53517-e15030": [
+      "lavinia"
+    ],
+    "A53517-e15090": [
+      "marius-junior"
+    ],
+    "A53517-e15150": [
+      "lavinia"
+    ],
+    "A53517-e15240": [
+      "marius-junior"
+    ],
+    "A53517-e15290": [
+      "lavinia"
+    ],
+    "A53517-e15320": [
+      "marius-junior"
+    ],
+    "A53517-e15350": [
+      "lavinia"
+    ],
+    "A53517-e15380": [
+      "marius-junior"
+    ],
+    "A53517-e15410": [
+      "lavinia"
+    ],
+    "A53517-e15450": [
+      "marius-junior"
+    ],
+    "A53517-e15480": [
+      "lavinia"
+    ],
+    "A53517-e15540": [
+      "marius-junior"
+    ],
+    "A53517-e15570": [
+      "lavinia"
+    ],
+    "A53517-e15620": [
+      "marius-junior"
+    ],
+    "A53517-e15670": [
+      "lavinia"
+    ],
+    "A53517-e15700": [
+      "marius-junior"
+    ],
+    "A53517-e15940": [
+      "citizen-3"
+    ],
+    "A53517-e15970": [
+      "citizen-1"
+    ],
+    "A53517-e16010": [
+      "citizen-2"
+    ],
+    "A53517-e16040": [
+      "citizen-3"
+    ],
+    "A53517-e16090": [
+      "citizen-1"
+    ],
+    "A53517-e16120": [
+      "citizen-4"
+    ],
+    "A53517-e16180": [
+      "citizen-1"
+    ],
+    "A53517-e16290": [
+      "sulpitius"
+    ],
+    "A53517-e16460": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+      "citizen-4"
+    ],
+    "A53517-e16520": [
+      "caius-marius"
+    ],
+    "A53517-e16730": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+      "citizen-4"
+    ],
+    "A53517-e16790": [
+      "sulpitius"
+    ],
+    "A53517-e16910": [
+      "metellus"
+    ],
+    "A53517-e17130": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+      "citizen-4"
+    ],
+    "A53517-e17180": [
+      "metellus"
+    ],
+    "A53517-e17250": [
+      "quintus-pompeius"
+    ],
+    "A53517-e17310": [
+      "caius-marius"
+    ],
+    "A53517-e17460": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+      "citizen-4"
+    ],
+    "A53517-e17510": [
+      "sulpitius"
+    ],
+    "A53517-e17540": [
+      "quintus-pompeius"
+    ],
+    "A53517-e17570": [
+      "sulpitius"
+    ],
+    "A53517-e17630": [
+      "caius-marius"
+    ],
+    "A53517-e17690": [
+      "quintus-pompeius"
+    ],
+    "A53517-e17750": [
+      "sulpitius"
+    ],
+    "A53517-e17780": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+      "citizen-4"
+    ],
+    "A53517-e17860": [
+      "caius-marius"
+    ],
+    "A53517-e17960": [
+      "sulpitius"
+    ],
+    "A53517-e18030": [
+      "caius-marius"
+    ],
+    "A53517-e18260": [
+      "sulpitius"
+    ],
+    "A53517-e18360": [
+      "granius"
+    ],
+    "A53517-e18450": [
+      "sulpitius"
+    ],
+    "A53517-e18530": [
+      "granius"
+    ],
+    "A53517-e18560": [
+      "sulpitius"
+    ],
+    "A53517-e18600": [
+      "granius"
+    ],
+    "A53517-e18640": [
+      "sulpitius"
+    ],
+    "A53517-e18680": [
+      "granius"
+    ],
+    "A53517-e18720": [
+      "sulpitius"
+    ],
+    "A53517-e18790": [
+      "granius"
+    ],
+    "A53517-e18830": [
+      "sulpitius"
+    ],
+    "A53517-e19000": [
+      "granius"
+    ],
+    "A53517-e19040": [
+      "sulpitius"
+    ],
+    "A53517-e19090": [
+      "caius-marius"
+    ],
+    "A53517-e19350": [
+      "sulpitius"
+    ],
+    "A53517-e19520": [
+      "marius-junior"
+    ],
+    "A53517-e19630": [
+      "caius-marius"
+    ],
+    "A53517-e19830": [
+      "sulpitius"
+    ],
+    "A53517-e19910": [
+      "marius-junior"
+    ],
+    "A53517-e19960": [
+      "sulpitius"
+    ],
+    "A53517-e20010": [
+      "nurse"
+    ],
+    "A53517-e20040": [
+      "clodius"
+    ],
+    "A53517-e20070": [
+      "sulpitius"
+    ],
+    "A53517-e20100": [
+      "nurse"
+    ],
+    "A53517-e20140": [
+      "sulpitius"
+    ],
+    "A53517-e20180": [
+      "nurse"
+    ],
+    "A53517-e20210": [
+      "sulpitius"
+    ],
+    "A53517-e20240": [
+      "nurse"
+    ],
+    "A53517-e20270": [
+      "sulpitius"
+    ],
+    "A53517-e20300": [
+      "nurse"
+    ],
+    "A53517-e20330": [
+      "sulpitius"
+    ],
+    "A53517-e20470": [
+      "nurse"
+    ],
+    "A53517-e20520": [
+      "marius-junior"
+    ],
+    "A53517-e20550": [
+      "sulpitius"
+    ],
+    "A53517-e20620": [
+      "nurse"
+    ],
+    "A53517-e20650": [
+      "marius-junior"
+    ],
+    "A53517-e20680": [
+      "nurse"
+    ],
+    "A53517-e20710": [
+      "marius-junior"
+    ],
+    "A53517-e20800": [
+      "nurse"
+    ],
+    "A53517-e20830": [
+      "marius-junior"
+    ],
+    "A53517-e20860": [
+      "nurse"
+    ],
+    "A53517-e20890": [
+      "marius-junior"
+    ],
+    "A53517-e20940": [
+      "nurse"
+    ],
+    "A53517-e20980": [
+      "marius-junior"
+    ],
+    "A53517-e21010": [
+      "nurse"
+    ],
+    "A53517-e21040": [
+      "marius-junior"
+    ],
+    "A53517-e21120": [
+      "nurse"
+    ],
+    "A53517-e21150": [
+      "marius-junior"
+    ],
+    "A53517-e21180": [
+      "nurse"
+    ],
+    "A53517-e21230": [
+      "marius-junior"
+    ],
+    "A53517-e21260": [
+      "nurse"
+    ],
+    "A53517-e21290": [
+      "marius-junior"
+    ],
+    "A53517-e21320": [
+      "nurse"
+    ],
+    "A53517-e21350": [
+      "marius-junior"
+    ],
+    "A53517-e21390": [
+      "nurse"
+    ],
+    "A53517-e21430": [
+      "marius-junior"
+    ],
+    "A53517-e21460": [
+      "nurse"
+    ],
+    "A53517-e21530": [
+      "marius-junior"
+    ],
+    "A53517-e21670": [
+      "caius-marius"
+    ],
+    "A53517-e21740": [
+      "marius-junior"
+    ],
+    "A53517-e21770": [
+      "caius-marius"
+    ],
+    "A53517-e21890": [
+      "marius-junior"
+    ],
+    "A53517-e21920": [
+      "caius-marius"
+    ],
+    "A53517-e21950": [
+      "marius-junior"
+    ],
+    "A53517-e22050": [
+      "caius-marius"
+    ],
+    "A53517-e22110": [
+      "marius-junior"
+    ],
+    "A53517-e22180": [
+      "caius-marius"
+    ],
+    "A53517-e22210": [
+      "marius-junior"
+    ],
+    "A53517-e22250": [
+      "caius-marius"
+    ],
+    "A53517-e22350": [
+      "marius-junior"
+    ],
+    "A53517-e22450": [
+      "caius-marius"
+    ],
+    "A53517-e22490": [
+      "marius-junior"
+    ],
+    "A53517-e22590": [
+      "caius-marius"
+    ],
+    "A53517-e22620": [
+      "marius-junior"
+    ],
+    "A53517-e22700": [
+      "caius-marius"
+    ],
+    "A53517-e22740": [
+      "marius-junior"
+    ],
+    "A53517-e22820": [
+      "caius-marius"
+    ],
+    "A53517-e22870": [
+      "marius-junior"
+    ],
+    "A53517-e22900": [
+      "caius-marius"
+    ],
+    "A53517-e22930": [
+      "marius-junior"
+    ],
+    "A53517-e22960": [
+      "caius-marius"
+    ],
+    "A53517-e22990": [
+      "marius-junior"
+    ],
+    "A53517-e23060": [
+      "caius-marius"
+    ],
+    "A53517-e23090": [
+      "marius-junior"
+    ],
+    "A53517-e23120": [
+      "caius-marius"
+    ],
+    "A53517-e23160": [
+      "marius-junior"
+    ],
+    "A53517-e23200": [
+      "caius-marius"
+    ],
+    "A53517-e23290": [
+      "marius-junior"
+    ],
+    "A53517-e23460": [
+      "lavinia"
+    ],
+    "A53517-e23740": [
+      "nurse"
+    ],
+    "A53517-e23770": [
+      "lavinia"
+    ],
+    "A53517-e23820": [
+      "nurse"
+    ],
+    "A53517-e23870": [
+      "lavinia"
+    ],
+    "A53517-e23920": [
+      "nurse"
+    ],
+    "A53517-e23960": [
+      "lavinia"
+    ],
+    "A53517-e24020": [
+      "nurse"
+    ],
+    "A53517-e24050": [
+      "lavinia"
+    ],
+    "A53517-e24090": [
+      "nurse"
+    ],
+    "A53517-e24170": [
+      "lavinia"
+    ],
+    "A53517-e24210": [
+      "nurse"
+    ],
+    "A53517-e24250": [
+      "lavinia"
+    ],
+    "A53517-e24310": [
+      "nurse"
+    ],
+    "A53517-e24370": [
+      "lavinia"
+    ],
+    "A53517-e24420": [
+      "nurse"
+    ],
+    "A53517-e24450": [
+      "lavinia"
+    ],
+    "A53517-e24480": [
+      "nurse"
+    ],
+    "A53517-e24520": [
+      "lavinia"
+    ],
+    "A53517-e24560": [
+      "nurse"
+    ],
+    "A53517-e24590": [
+      "lavinia"
+    ],
+    "A53517-e24620": [
+      "nurse"
+    ],
+    "A53517-e24660": [
+      "lavinia"
+    ],
+    "A53517-e24820": [
+      "metellus"
+    ],
+    "A53517-e24930": [
+      "caius-marius"
+    ],
+    "A53517-e24970": [
+      "sylla"
+    ],
+    "A53517-e25030": [
+      "caius-marius"
+    ],
+    "A53517-e25070": [
+      "sylla"
+    ],
+    "A53517-e25100": [
+      "caius-marius"
+    ],
+    "A53517-e25130": [
+      "sylla"
+    ],
+    "A53517-e25180": [
+      "caius-marius"
+    ],
+    "A53517-e25290": [
+      "sylla"
+    ],
+    "A53517-e25400": [
+      "caius-marius"
+    ],
+    "A53517-e25460": [
+      "sylla"
+    ],
+    "A53517-e25520": [
+      "caius-marius"
+    ],
+    "A53517-e25580": [
+      "sylla"
+    ],
+    "A53517-e25610": [
+      "caius-marius"
+    ],
+    "A53517-e25660": [
+      "sylla"
+    ],
+    "A53517-e25720": [
+      "caius-marius"
+    ],
+    "A53517-e25750": [
+      "sylla"
+    ],
+    "A53517-e25790": [
+      "caius-marius"
+    ],
+    "A53517-e25840": [
+      "sylla"
+    ],
+    "A53517-e25870": [
+      "caius-marius"
+    ],
+    "A53517-e25910": [
+      "sylla"
+    ],
+    "A53517-e25940": [
+      "caius-marius"
+    ],
+    "A53517-e26030": [
+      "sylla"
+    ],
+    "A53517-e26060": [
+      "metellus"
+    ],
+    "A53517-e26100": [
+      "caius-marius"
+    ],
+    "A53517-e26140": [
+      "sylla"
+    ],
+    "A53517-e26180": [
+      "caius-marius"
+    ],
+    "A53517-e26320": [
+      "caius-marius"
+    ],
+    "A53517-e26490": [
+      "officer"
+    ],
+    "A53517-e26530": [
+      "caius-marius"
+    ],
+    "A53517-e26620": [
+      "sulpitius"
+    ],
+    "A53517-e26720": [
+      "quintus-pompeius"
+    ],
+    "A53517-e26920": [
+      "caius-marius"
+    ],
+    "A53517-e27050": [
+      "marius-junior",
+      "granius",
+      "sulpitius"
+    ],
+    "A53517-e27080": [
+      "caius-marius"
+    ],
+    "A53517-e27150": [
+      "marius-junior"
+    ],
+    "A53517-e27180": [
+      "granius"
+    ],
+    "A53517-e27210": [
+      "caius-marius"
+    ],
+    "A53517-e27240": [
+      "sulpitius"
+    ],
+    "A53517-e27270": [
+      "marius-junior"
+    ],
+    "A53517-e27330": [
+      "caius-marius"
+    ],
+    "A53517-e27380": [
+      "marius-junior"
+    ],
+    "A53517-e27470": [
+      "caius-marius"
+    ],
+    "A53517-e27800": [
+      "lavinia"
+    ],
+    "A53517-e27870": [
+      "marius-junior"
+    ],
+    "A53517-e27960": [
+      "lavinia"
+    ],
+    "A53517-e28030": [
+      "marius-junior"
+    ],
+    "A53517-e28140": [
+      "lavinia"
+    ],
+    "A53517-e28260": [
+      "marius-junior"
+    ],
+    "A53517-e28400": [
+      "lavinia"
+    ],
+    "A53517-e28490": [
+      "marius-junior"
+    ],
+    "A53517-e28580": [
+      "lavinia"
+    ],
+    "A53517-e28680": [
+      "marius-junior"
+    ],
+    "A53517-e28800": [
+      "lavinia"
+    ],
+    "A53517-e28910": [
+      "marius-junior"
+    ],
+    "A53517-e28940": [
+      "lavinia"
+    ],
+    "A53517-e28980": [
+      "marius-junior"
+    ],
+    "A53517-e29030": [
+      "lavinia"
+    ],
+    "A53517-e29100": [
+      "marius-junior"
+    ],
+    "A53517-e29140": [
+      "lavinia"
+    ],
+    "A53517-e29170": [
+      "marius-junior"
+    ],
+    "A53517-e29210": [
+      "lavinia"
+    ],
+    "A53517-e29270": [
+      "marius-junior"
+    ],
+    "A53517-e29310": [
+      "lavinia"
+    ],
+    "A53517-e29350": [
+      "nurse"
+    ],
+    "A53517-e29380": [
+      "lavinia"
+    ],
+    "A53517-e29410": [
+      "nurse"
+    ],
+    "A53517-e29450": [
+      "lavinia"
+    ],
+    "A53517-e29650": [
+      "metellus"
+    ],
+    "A53517-e29870": [
+      "servant"
+    ],
+    "A53517-e30070": [
+      "nurse"
+    ],
+    "A53517-e30100": [
+      "metellus"
+    ],
+    "A53517-e30130": [
+      "nurse"
+    ],
+    "A53517-e30210": [
+      "metellus"
+    ],
+    "A53517-e30240": [
+      "nurse"
+    ],
+    "A53517-e30290": [
+      "metellus"
+    ],
+    "A53517-e30390": [
+      "nurse"
+    ],
+    "A53517-e30440": [
+      "lavinia"
+    ],
+    "A53517-e30470": [
+      "nurse"
+    ],
+    "A53517-e30500": [
+      "lavinia"
+    ],
+    "A53517-e30590": [
+      "nurse"
+    ],
+    "A53517-e30620": [
+      "lavinia"
+    ],
+    "A53517-e30710": [
+      "nurse"
+    ],
+    "A53517-e30740": [
+      "lavinia"
+    ],
+    "A53517-e30810": [
+      "nurse"
+    ],
+    "A53517-e30910": [
+      "clodius"
+    ],
+    "A53517-e30940": [
+      "nurse"
+    ],
+    "A53517-e31070": [
+      "herdsman-1"
+    ],
+    "A53517-e31100": [
+      "herdsman-2"
+    ],
+    "A53517-e31130": [
+      "herdsman-1"
+    ],
+    "A53517-e31160": [
+      "herdsman-2"
+    ],
+    "A53517-e31190": [
+      "herdsman-1"
+    ],
+    "A53517-e31220": [
+      "herdsman-2"
+    ],
+    "A53517-e31250": [
+      "herdsman-3"
+    ],
+    "A53517-e31280": [
+      "herdsman-2"
+    ],
+    "A53517-e31310": [
+      "herdsman-1"
+    ],
+    "A53517-e31370": [
+      "soldier-1"
+    ],
+    "A53517-e31400": [
+      "herdsman-2"
+    ],
+    "A53517-e31430": [
+      "soldier-2"
+    ],
+    "A53517-e31470": [
+      "herdsman-1"
+    ],
+    "A53517-e31510": [
+      "soldier-1"
+    ],
+    "A53517-e31540": [
+      "herdsman-2"
+    ],
+    "A53517-e31570": [
+      "soldier-2"
+    ],
+    "A53517-e31600": [
+      "soldier-1"
+    ],
+    "A53517-e31640": [
+      "herdsman-2"
+    ],
+    "A53517-e31670": [
+      "soldier-2"
+    ],
+    "A53517-e31700": [
+      "herdsman-2"
+    ],
+    "A53517-e31740": [
+      "soldier-1"
+    ],
+    "A53517-e31790": [
+      "herdsman-1"
+    ],
+    "A53517-e31820": [
+      "herdsman-2"
+    ],
+    "A53517-e31880": [
+      "caius-marius"
+    ],
+    "A53517-e32010": [
+      "granius"
+    ],
+    "A53517-e32050": [
+      "caius-marius"
+    ],
+    "A53517-e32080": [
+      "herdsman-2"
+    ],
+    "A53517-e32120": [
+      "caius-marius"
+    ],
+    "A53517-e32210": [
+      "herdsman-1"
+    ],
+    "A53517-e32310": [
+      "caius-marius"
+    ],
+    "A53517-e32430": [
+      "soldier-1"
+    ],
+    "A53517-e32490": [
+      "soldier-2"
+    ],
+    "A53517-e32540": [
+      "soldier-1"
+    ],
+    "A53517-e32570": [
+      "soldier-3"
+    ],
+    "A53517-e32620": [
+      "caius-marius"
+    ],
+    "A53517-e32740": [
+      "marius-junior"
+    ],
+    "A53517-e32770": [
+      "caius-marius"
+    ],
+    "A53517-e32800": [
+      "marius-junior"
+    ],
+    "A53517-e32830": [
+      "caius-marius"
+    ],
+    "A53517-e32920": [
+      "marius-junior"
+    ],
+    "A53517-e32970": [
+      "caius-marius"
+    ],
+    "A53517-e33090": [
+      "marius-junior"
+    ],
+    "A53517-e33120": [
+      "caius-marius"
+    ],
+    "A53517-e33240": [
+      "lavinia"
+    ],
+    "A53517-e33330": [
+      "caius-marius"
+    ],
+    "A53517-e33380": [
+      "lavinia"
+    ],
+    "A53517-e33430": [
+      "caius-marius"
+    ],
+    "A53517-e33480": [
+      "lavinia"
+    ],
+    "A53517-e33510": [
+      "caius-marius"
+    ],
+    "A53517-e33570": [
+      "lavinia"
+    ],
+    "A53517-e33600": [
+      "caius-marius"
+    ],
+    "A53517-e33670": [
+      "lavinia"
+    ],
+    "A53517-e33750": [
+      "caius-marius"
+    ],
+    "A53517-e33820": [
+      "lavinia"
+    ],
+    "A53517-e33890": [
+      "caius-marius"
+    ],
+    "A53517-e33940": [
+      "lavinia"
+    ],
+    "A53517-e33990": [
+      "caius-marius"
+    ],
+    "A53517-e34020": [
+      "lavinia"
+    ],
+    "A53517-e34070": [
+      "caius-marius"
+    ],
+    "A53517-e34110": [
+      "lavinia"
+    ],
+    "A53517-e34200": [
+      "caius-marius"
+    ],
+    "A53517-e34260": [
+      "marius-junior"
+    ],
+    "A53517-e34300": [
+      "caius-marius"
+    ],
+    "A53517-e34330": [
+      "marius-junior"
+    ],
+    "A53517-e34360": [
+      "lavinia"
+    ],
+    "A53517-e34400": [
+      "marius-junior"
+    ],
+    "A53517-e34430": [
+      "lavinia"
+    ],
+    "A53517-e34460": [
+      "marius-junior"
+    ],
+    "A53517-e34520": [
+      "lavinia"
+    ],
+    "A53517-e34650": [
+      "caius-marius"
+    ],
+    "A53517-e34710": [
+      "servant"
+    ],
+    "A53517-e34810": [
+      "caius-marius"
+    ],
+    "A53517-e34950": [
+      "servant"
+    ],
+    "A53517-e34980": [
+      "caius-marius"
+    ],
+    "A53517-e35140": [
+      "martha"
+    ],
+    "A53517-e35250": [
+      "caius-marius"
+    ],
+    "A53517-e35350": [
+      "martha"
+    ],
+    "A53517-e35460": [
+      "caius-marius"
+    ],
+    "A53517-e35490": [
+      "martha"
+    ],
+    "A53517-e35550": [
+      "marius-junior"
+    ],
+    "A53517-e35630": [
+      "caius-marius"
+    ],
+    "A53517-e35670": [
+      "servant"
+    ],
+    "A53517-e35730": [
+      "ruffians"
+    ],
+    "A53517-e35760": [
+      "caius-marius"
+    ],
+    "A53517-e35950": [
+      "ruffians"
+    ],
+    "A53517-e35980": [
+      "caius-marius"
+    ],
+    "A53517-e36060": [
+      "ruffians"
+    ],
+    "A53517-e36120": [
+      "caius-marius"
+    ],
+    "A53517-e36220": [
+      "sulpitius"
+    ],
+    "A53517-e36280": [
+      "caius-marius"
+    ],
+    "A53517-e36320": [
+      "sulpitius"
+    ],
+    "A53517-e36370": [
+      "cinna"
+    ],
+    "A53517-e36450": [
+      "caius-marius"
+    ],
+    "A53517-e36530": [
+      "cinna"
+    ],
+    "A53517-e36600": [
+      "caius-marius"
+    ],
+    "A53517-e36630": [
+      "cinna"
+    ],
+    "A53517-e36740": [
+      "caius-marius"
+    ],
+    "A53517-e36780": [
+      "cinna"
+    ],
+    "A53517-e36860": [
+      "caius-marius"
+    ],
+    "A53517-e36970": [
+      "marius-junior"
+    ],
+    "A53517-e37070": [
+      "caius-marius"
+    ],
+    "A53517-e37280": [
+      "lavinia"
+    ],
+    "A53517-e37330": [
+      "metellus"
+    ],
+    "A53517-e37410": [
+      "lavinia"
+    ],
+    "A53517-e37470": [
+      "metellus"
+    ],
+    "A53517-e37540": [
+      "lavinia"
+    ],
+    "A53517-e37690": [
+      "priest"
+    ],
+    "A53517-e37800": [
+      "lavinia"
+    ],
+    "A53517-e37830": [
+      "priest"
+    ],
+    "A53517-e37870": [
+      "lavinia"
+    ],
+    "A53517-e38360": [
+      "cinna"
+    ],
+    "A53517-e38470": [
+      "caius-marius"
+    ],
+    "A53517-e38500": [
+      "cinna"
+    ],
+    "A53517-e38530": [
+      "caius-marius"
+    ],
+    "A53517-e38560": [
+      "cinna"
+    ],
+    "A53517-e38600": [
+      "caius-marius"
+    ],
+    "A53517-e38650": [
+      "cinna"
+    ],
+    "A53517-e38720": [
+      "embassador-1"
+    ],
+    "A53517-e38800": [
+      "cinna"
+    ],
+    "A53517-e38830": [
+      "embassador-1"
+    ],
+    "A53517-e39020": [
+      "cinna"
+    ],
+    "A53517-e39130": [
+      "caius-marius"
+    ],
+    "A53517-e39180": [
+      "sulpitius"
+    ],
+    "A53517-e39210": [
+      "caius-marius"
+    ],
+    "A53517-e39240": [
+      "sulpitius"
+    ],
+    "A53517-e39270": [
+      "embassador-2"
+    ],
+    "A53517-e39310": [
+      "cinna"
+    ],
+    "A53517-e39360": [
+      "embassador-1"
+    ],
+    "A53517-e39400": [
+      "caius-marius"
+    ],
+    "A53517-e39470": [
+      "embassador-1",
+      "embassador-2"
+    ],
+    "A53517-e39510": [
+      "cinna"
+    ],
+    "A53517-e39550": [
+      "caius-marius"
+    ],
+    "A53517-e39590": [
+      "cinna"
+    ],
+    "A53517-e39650": [
+      "caius-marius"
+    ],
+    "A53517-e39710": [
+      "cinna"
+    ],
+    "A53517-e39740": [
+      "caius-marius"
+    ],
+    "A53517-e39800": [
+      "cinna"
+    ],
+    "A53517-e39830": [
+      "caius-marius"
+    ],
+    "A53517-e39930": [
+      "sulpitius"
+    ],
+    "A53517-e39990": [
+      "caius-marius"
+    ],
+    "A53517-e40040": [
+      "sulpitius"
+    ],
+    "A53517-e40070": [
+      "cinna"
+    ],
+    "A53517-e40110": [
+      "caius-marius"
+    ],
+    "A53517-e40170": [
+      "cinna"
+    ],
+    "A53517-e40200": [
+      "caius-marius"
+    ],
+    "A53517-e40500": [
+      "metellus"
+    ],
+    "A53517-e40650": [
+      "nurse"
+    ],
+    "A53517-e40680": [
+      "metellus"
+    ],
+    "A53517-e40780": [
+      "nurse"
+    ],
+    "A53517-e41020": [
+      "metellus"
+    ],
+    "A53517-e41060": [
+      "nurse"
+    ],
+    "A53517-e41100": [
+      "metellus"
+    ],
+    "A53517-e41190": [
+      "nurse"
+    ],
+    "A53517-e41240": [
+      "metellus"
+    ],
+    "A53517-e41320": [
+      "nurse"
+    ],
+    "A53517-e41410": [
+      "citizen-1"
+    ],
+    "A53517-e41480": [
+      "citizen-2"
+    ],
+    "A53517-e41540": [
+      "citizen-1"
+    ],
+    "A53517-e41630": [
+      "grandson-of-ancharius"
+    ],
+    "A53517-e41690": [
+      "ancharius"
+    ],
+    "A53517-e41750": [
+      "grandson-of-ancharius"
+    ],
+    "A53517-e41870": [
+      "caius-marius"
+    ],
+    "A53517-e41940": [
+      "old-man"
+    ],
+    "A53517-e42010": [
+      "caius-marius"
+    ],
+    "A53517-e42310": [
+      "ancharius"
+    ],
+    "A53517-e42360": [
+      "caius-marius"
+    ],
+    "A53517-e42440": [
+      "grandson-of-ancharius"
+    ],
+    "A53517-e42530": [
+      "caius-marius"
+    ],
+    "A53517-e42570": [
+      "grandson-of-ancharius"
+    ],
+    "A53517-e42660": [
+      "caius-marius"
+    ],
+    "A53517-e42770": [
+      "messenger"
+    ],
+    "A53517-e42800": [
+      "caius-marius"
+    ],
+    "A53517-e42840": [
+      "messenger"
+    ],
+    "A53517-e42870": [
+      "caius-marius"
+    ],
+    "A53517-e42900": [
+      "messenger"
+    ],
+    "A53517-e42940": [
+      "caius-marius"
+    ],
+    "A53517-e43180": [
+      "marius-junior"
+    ],
+    "A53517-e43340": [
+      "catulus"
+    ],
+    "A53517-e43370": [
+      "marius-junior"
+    ],
+    "A53517-e43430": [
+      "catulus"
+    ],
+    "A53517-e43460": [
+      "marius-junior"
+    ],
+    "A53517-e43530": [
+      "catulus"
+    ],
+    "A53517-e43580": [
+      "marius-junior"
+    ],
+    "A53517-e43640": [
+      "catulus"
+    ],
+    "A53517-e43670": [
+      "marius-junior"
+    ],
+    "A53517-e43940": [
+      "apothecary"
+    ],
+    "A53517-e43970": [
+      "marius-junior"
+    ],
+    "A53517-e44050": [
+      "apothecary"
+    ],
+    "A53517-e44100": [
+      "marius-junior"
+    ],
+    "A53517-e44190": [
+      "apothecary"
+    ],
+    "A53517-e44240": [
+      "marius-junior"
+    ],
+    "A53517-e44390": [
+      "priest"
+    ],
+    "A53517-e44500": [
+      "marius-junior"
+    ],
+    "A53517-e44590": [
+      "priest"
+    ],
+    "A53517-e44630": [
+      "marius-junior"
+    ],
+    "A53517-e44710": [
+      "priest"
+    ],
+    "A53517-e44750": [
+      "marius-junior"
+    ],
+    "A53517-e44790": [
+      "priest"
+    ],
+    "A53517-e44870": [
+      "marius-junior"
+    ],
+    "A53517-e45170": [
+      "lavinia"
+    ],
+    "A53517-e45220": [
+      "marius-junior"
+    ],
+    "A53517-e45280": [
+      "lavinia"
+    ],
+    "A53517-e45360": [
+      "marius-junior"
+    ],
+    "A53517-e45420": [
+      "lavinia"
+    ],
+    "A53517-e45500": [
+      "marius-junior"
+    ],
+    "A53517-e45650": [
+      "lavinia"
+    ],
+    "A53517-e45910": [
+      "caius-marius"
+    ],
+    "A53517-e45940": [
+      "lavinia"
+    ],
+    "A53517-e45970": [
+      "metellus"
+    ],
+    "A53517-e46010": [
+      "lavinia"
+    ],
+    "A53517-e46050": [
+      "caius-marius"
+    ],
+    "A53517-e46080": [
+      "lavinia"
+    ],
+    "A53517-e46120": [
+      "caius-marius"
+    ],
+    "A53517-e46160": [
+      "lavinia"
+    ],
+    "A53517-e46200": [
+      "caius-marius"
+    ],
+    "A53517-e46230": [
+      "lavinia"
+    ],
+    "A53517-e46280": [
+      "caius-marius"
+    ],
+    "A53517-e46310": [
+      "lavinia"
+    ],
+    "A53517-e46440": [
+      "caius-marius"
+    ],
+    "A53517-e46510": [
+      "lavinia"
+    ],
+    "A53517-e46540": [
+      "caius-marius"
+    ],
+    "A53517-e46570": [
+      "lavinia"
+    ],
+    "A53517-e46620": [
+      "caius-marius"
+    ],
+    "A53517-e46700": [
+      "lavinia"
+    ],
+    "A53517-e46730": [
+      "caius-marius"
+    ],
+    "A53517-e46780": [
+      "lavinia"
+    ],
+    "A53517-e46910": [
+      "caius-marius"
+    ],
+    "A53517-e47050": [
+      "messenger"
+    ],
+    "A53517-e47190": [
+      "caius-marius"
+    ],
+    "A53517-e47330": [
+      "sulpitius"
+    ],
+    "A53517-e47370": [
+      "granius"
+    ],
+    "A53517-e47400": [
+      "sulpitius"
+    ]
+  }
+}

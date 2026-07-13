@@ -1,0 +1,2763 @@
+{
+  "particDesc": [
+    {
+      "name": "Cousin",
+      "id": "cousin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Herald",
+      "id": "herald",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Guard",
+      "id": "guard",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Petitioners",
+      "id": "petitioners",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+	{
+      "name": "Lords",
+      "id": "lords",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Como",
+      "id": "como",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Gentleman",
+      "id": "gentleman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lupus",
+      "id": "lupus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Conjurer",
+      "id": "conjurer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Footmen",
+      "id": "footmen",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Priests",
+      "id": "priests",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cardinal 4",
+      "id": "cardinal-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cardinal 3",
+      "id": "cardinal-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cardinal 2",
+      "id": "cardinal-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cardinal 1",
+      "id": "cardinal-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "King 3",
+      "id": "king-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "King 2",
+      "id": "king-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "King 1",
+      "id": "king-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "titania",
+      "name": "Titania ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "fideli",
+      "name": "Fideli",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "florimell",
+      "name": "Florimell",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "parthenophil",
+      "name": "Parthenophil",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "elfiron",
+      "name": "Elfiron",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "castina",
+      "name": "Castina",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "aura",
+      "name": "Aura",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "philaema",
+      "name": "Philaema",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "campeius",
+      "name": "Campeius ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "paridel",
+      "name": "Paridel ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "plaine-dealing",
+      "name": "Plaine-dealing",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "time",
+      "name": "Time",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "truth",
+      "name": "Truth",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "empresse-of-babylon",
+      "name": "Empresse of Babylon",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "ragazzoni",
+      "name": "Ragazzoni",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "campeggio",
+      "name": "Campeggio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ropus",
+      "name": "Ropus ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "an-albanois",
+      "name": "An Albanois",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "palmio",
+      "name": "Palmio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "milites",
+      "name": "Milites",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ministri",
+      "name": "Ministri",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A20092-e1030": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e1280": [
+      "king-1"
+    ],
+    "A20092-e1310": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e1360": [
+      "king-2"
+    ],
+    "A20092-e1390": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e1450": [
+      "king-3"
+    ],
+    "A20092-e1480": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e1620": [
+      "king-3"
+    ],
+    "A20092-e1690": [
+      "king-1"
+    ],
+    "A20092-e1730": [
+      "king-2"
+    ],
+    "A20092-e1770": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e1800": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e1830": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e1930": [
+      "king-3"
+    ],
+    "A20092-e1960": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e2130": [
+      "king-2"
+    ],
+    "A20092-e2160": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e2220": [
+      "king-3"
+    ],
+    "A20092-e2250": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e2450": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e2480": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e2540": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e2570": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e2620": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e2650": [
+      "king-3"
+    ],
+    "A20092-e2680": [
+      "king-1"
+    ],
+    "A20092-e2720": [
+      "king-2"
+    ],
+    "A20092-e2770": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e2800": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e2990": [
+      "king-3"
+    ],
+    "A20092-e3020": [
+      "king-1",
+      "king-2",
+      "king-3"
+    ],
+    "A20092-e3050": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e3110": [
+      "cardinal-1"
+    ],
+    "A20092-e3140": [
+      "cardinal-2"
+    ],
+    "A20092-e3170": [
+      "cardinal-3"
+    ],
+    "A20092-e3200": [
+      "cardinal-1"
+    ],
+    "A20092-e3320": [
+      "cardinal-2"
+    ],
+    "A20092-e3360": [
+      "cardinal-3"
+    ],
+    "A20092-e3390": [
+      "cardinal-1"
+    ],
+    "A20092-e3450": [
+      "cardinal-4",
+	  "cardinal-2",
+	  "cardinal-3"
+    ],
+    "A20092-e3480": [
+      "cardinal-4"
+    ],
+    "A20092-e3510": [
+      "cardinal-2"
+    ],
+    "A20092-e3540": [
+      "cardinal-1"
+    ],
+    "A20092-e3650": [
+      "cardinal-4",
+	  "cardinal-2",
+	  "cardinal-3"
+    ],
+    "A20092-e3680": [
+      "cardinal-2"
+    ],
+    "A20092-e3710": [
+      "cardinal-1"
+    ],
+    "A20092-e3740": [
+      "cardinal-3"
+    ],
+    "A20092-e3770": [
+      "cardinal-1"
+    ],
+    "A20092-e3800": [
+      "cardinal-4"
+    ],
+    "A20092-e3830": [
+      "cardinal-1"
+    ],
+    "A20092-e3860": [
+      "cardinal-2"
+    ],
+    "A20092-e3900": [
+      "cardinal-1"
+    ],
+    "A20092-e4260": [
+      "cardinal-2"
+    ],
+    "A20092-e4290": [
+      "cardinal-1"
+    ],
+    "A20092-e4380": [
+      "cardinal-4",
+	  "cardinal-2",
+	  "cardinal-3"
+    ],
+    "A20092-e4410": [
+      "cardinal-1"
+    ],
+    "A20092-e4550": [
+      "cardinal-1",
+      "cardinal-2",
+      "cardinal-3",
+      "cardinal-4"
+    ],
+    "A20092-e4580": [
+      "cardinal-1"
+    ],
+    "A20092-e4650": [
+      "cardinal-1",
+      "cardinal-2",
+      "cardinal-3",
+      "cardinal-4"
+    ],
+    "A20092-e4680": [
+      "cardinal-1"
+    ],
+    "A20092-e4850": [
+      "cardinal-1",
+      "cardinal-2",
+      "cardinal-3",
+      "cardinal-4"
+    ],
+    "A20092-e4880": [
+      "cardinal-1"
+    ],
+    "A20092-e5040": [
+      "cardinal-1",
+      "cardinal-2",
+      "cardinal-3",
+      "cardinal-4"
+    ],
+    "A20092-e5080": [
+      "cardinal-1"
+    ],
+    "A20092-e5200": [
+      "priests"
+    ],
+    "A20092-e5230": [
+      "cardinal-1"
+    ],
+    "A20092-e5280": [
+      "priests"
+    ],
+    "A20092-e5310": [
+      "cardinal-1"
+    ],
+    "A20092-e5490": [
+      "cardinal-2"
+    ],
+    "A20092-e5550": [
+      "cardinal-1"
+    ],
+    "A20092-e5640": [
+      "titania"
+    ],
+    "A20092-e5770": [
+      "fideli"
+    ],
+    "A20092-e5810": [
+      "titania"
+    ],
+    "A20092-e5910": [
+      "florimell"
+    ],
+    "A20092-e6230": [
+      "petitioners"
+    ],
+    "A20092-e6260": [
+      "fideli"
+    ],
+    "A20092-e6340": [
+      "titania"
+    ],
+    "A20092-e6530": [
+      "petitioners"
+    ],
+    "A20092-e6560": [
+      "titania"
+    ],
+    "A20092-e6600": [
+      "florimell"
+    ],
+    "A20092-e6640": [
+      "titania"
+    ],
+    "A20092-e6670": [
+      "parthenophil"
+    ],
+    "A20092-e6740": [
+      "titania"
+    ],
+    "A20092-e6770": [
+      "parthenophil"
+    ],
+    "A20092-e6850": [
+      "titania"
+    ],
+    "A20092-e6880": [
+      "parthenophil"
+    ],
+    "A20092-e6920": [
+      "titania"
+    ],
+    "A20092-e6970": [
+      "titania"
+    ],
+    "A20092-e7010": [
+      "king-1",
+      "king-2",
+      "king-3"
+    ],
+    "A20092-e7040": [
+      "titania"
+    ],
+    "A20092-e7090": [
+      "king-3"
+    ],
+    "A20092-e7270": [
+      "king-2"
+    ],
+    "A20092-e7480": [
+      "king-3"
+    ],
+    "A20092-e7670": [
+      "king-1"
+    ],
+    "A20092-e7710": [
+      "king-2"
+    ],
+    "A20092-e7820": [
+      "king-3"
+    ],
+    "A20092-e8030": [
+      "titania"
+    ],
+    "A20092-e8200": [
+      "fideli"
+    ],
+    "A20092-e8310": [
+      "titania"
+    ],
+    "A20092-e8370": [
+      "florimell"
+    ],
+    "A20092-e8400": [
+      "king-3"
+    ],
+    "A20092-e8450": [
+      "florimell"
+    ],
+    "A20092-e8570": [
+      "titania"
+    ],
+    "A20092-e8600": [
+      "florimell"
+    ],
+    "A20092-e8740": [
+      "king-2"
+    ],
+    "A20092-e8770": [
+      "titania"
+    ],
+    "A20092-e8810": [
+      "lords"
+    ],
+    "A20092-e8840": [
+      "king-1",
+      "king-2",
+      "king-3"
+    ],
+    "A20092-e8870": [
+      "king-3"
+    ],
+    "A20092-e8900": [
+      "titania"
+    ],
+    "A20092-e8980": [
+      "elfiron"
+    ],
+    "A20092-e9010": [
+      "titania"
+    ],
+    "A20092-e9040": [
+      "king-3"
+    ],
+    "A20092-e9070": [
+      "king-1"
+    ],
+    "A20092-e9100": [
+      "king-2"
+    ],
+    "A20092-e9130": [
+      "titania"
+    ],
+    "A20092-e9160": [
+      "king-1"
+    ],
+    "A20092-e9190": [
+      "king-2"
+    ],
+    "A20092-e9220": [
+      "king-3"
+    ],
+    "A20092-e9250": [
+      "titania"
+    ],
+    "A20092-e9410": [
+      "king-1"
+    ],
+    "A20092-e9440": [
+      "king-2"
+    ],
+    "A20092-e9470": [
+      "king-3"
+    ],
+    "A20092-e9500": [
+      "titania"
+    ],
+    "A20092-e9770": [
+      "king-1"
+    ],
+    "A20092-e9800": [
+      "king-2"
+    ],
+    "A20092-e9830": [
+      "king-3"
+    ],
+    "A20092-e9860": [
+      "king-1"
+    ],
+    "A20092-e9890": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e9920": [
+      "king-3"
+    ],
+    "A20092-e10080": [
+      "king-2"
+    ],
+    "A20092-e10130": [
+      "king-1"
+    ],
+    "A20092-e10160": [
+      "king-3"
+    ],
+    "A20092-e10350": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e10380": [
+      "king-1"
+    ],
+    "A20092-e10410": [
+      "king-3"
+    ],
+    "A20092-e10460": [
+      "florimell"
+    ],
+    "A20092-e10520": [
+      "footmen"
+    ],
+    "A20092-e10550": [
+      "florimell"
+    ],
+    "A20092-e10620": [
+      "fideli"
+    ],
+    "A20092-e10680": [
+      "elfiron"
+    ],
+    "A20092-e10770": [
+      "parthenophil"
+    ],
+    "A20092-e10840": [
+      "fideli"
+    ],
+    "A20092-e10890": [
+      "florimell"
+    ],
+    "A20092-e10940": [
+      "fideli",
+	  "parthenophil",
+	  "elfiron"
+    ],
+    "A20092-e10970": [
+      "fideli"
+    ],
+    "A20092-e11040": [
+      "florimell",
+	  "parthenophil",
+	  "elfiron"
+    ],
+    "A20092-e11080": [
+      "titania"
+    ],
+    "A20092-e11250": [
+      "aura"
+    ],
+    "A20092-e11310": [
+      "titania"
+    ],
+    "A20092-e11360": [
+      "aura"
+    ],
+    "A20092-e11400": [
+      "titania"
+    ],
+    "A20092-e11430": [
+      "plaine-dealing"
+    ],
+    "A20092-e11460": [
+      "titania"
+    ],
+    "A20092-e11490": [
+      "plaine-dealing"
+    ],
+    "A20092-e11520": [
+      "titania"
+    ],
+    "A20092-e11550": [
+      "plaine-dealing"
+    ],
+    "A20092-e11580": [
+      "titania"
+    ],
+    "A20092-e11620": [
+      "plaine-dealing"
+    ],
+    "A20092-e11650": [
+      "titania"
+    ],
+    "A20092-e11680": [
+      "plaine-dealing"
+    ],
+    "A20092-e11710": [
+      "titania"
+    ],
+    "A20092-e11740": [
+      "plaine-dealing"
+    ],
+    "A20092-e11770": [
+      "titania"
+    ],
+    "A20092-e11800": [
+      "plaine-dealing"
+    ],
+    "A20092-e11830": [
+      "titania"
+    ],
+    "A20092-e11870": [
+      "plaine-dealing"
+    ],
+    "A20092-e11900": [
+      "titania"
+    ],
+    "A20092-e11930": [
+      "plaine-dealing"
+    ],
+    "A20092-e11960": [
+      "titania"
+    ],
+    "A20092-e11990": [
+      "plaine-dealing"
+    ],
+    "A20092-e12020": [
+      "titania"
+    ],
+    "A20092-e12060": [
+      "plaine-dealing"
+    ],
+    "A20092-e12100": [
+      "titania"
+    ],
+    "A20092-e12130": [
+      "plaine-dealing"
+    ],
+    "A20092-e12170": [
+      "titania"
+    ],
+    "A20092-e12200": [
+      "plaine-dealing"
+    ],
+    "A20092-e12230": [
+      "titania"
+    ],
+    "A20092-e12280": [
+      "plaine-dealing"
+    ],
+    "A20092-e12320": [
+      "titania"
+    ],
+    "A20092-e12370": [
+      "plaine-dealing"
+    ],
+    "A20092-e12400": [
+      "titania"
+    ],
+    "A20092-e12530": [
+      "plaine-dealing"
+    ],
+    "A20092-e12600": [
+      "titania"
+    ],
+    "A20092-e12630": [
+      "elfiron"
+    ],
+    "A20092-e12680": [
+      "titania"
+    ],
+    "A20092-e12710": [
+      "paridel"
+    ],
+    "A20092-e12780": [
+      "titania"
+    ],
+    "A20092-e12810": [
+      "elfiron"
+    ],
+    "A20092-e12840": [
+      "paridel"
+    ],
+    "A20092-e12870": [
+      "titania"
+    ],
+    "A20092-e12910": [
+      "elfiron"
+    ],
+    "A20092-e12950": [
+      "paridel"
+    ],
+    "A20092-e13000": [
+      "titania"
+    ],
+    "A20092-e13080": [
+      "paridel"
+    ],
+    "A20092-e13140": [
+      "paridel"
+    ],
+    "A20092-e13340": [
+      "titania"
+    ],
+    "A20092-e13370": [
+      "parthenophil"
+    ],
+    "A20092-e13420": [
+      "titania"
+    ],
+    "A20092-e13490": [
+      "parthenophil"
+    ],
+    "A20092-e13540": [
+      "titania"
+    ],
+    "A20092-e13580": [
+      "campeius"
+    ],
+    "A20092-e13610": [
+      "titania"
+    ],
+    "A20092-e13660": [
+      "parthenophil"
+    ],
+    "A20092-e13690": [
+      "titania"
+    ],
+    "A20092-e13760": [
+      "parthenophil"
+    ],
+    "A20092-e13790": [
+      "titania"
+    ],
+    "A20092-e13880": [
+      "parthenophil"
+    ],
+    "A20092-e13910": [
+      "campeius"
+    ],
+    "A20092-e13940": [
+      "parthenophil"
+    ],
+    "A20092-e13990": [
+      "campeius"
+    ],
+    "A20092-e14020": [
+      "titania"
+    ],
+    "A20092-e14060": [
+      "paridel"
+    ],
+    "A20092-e14110": [
+      "titania"
+    ],
+    "A20092-e14140": [
+      "paridel"
+    ],
+    "A20092-e14170": [
+      "titania"
+    ],
+    "A20092-e14220": [
+      "paridel"
+    ],
+    "A20092-e14310": [
+      "titania"
+    ],
+    "A20092-e14350": [
+      "paridel"
+    ],
+    "A20092-e14400": [
+      "fideli"
+    ],
+    "A20092-e14460": [
+      "titania"
+    ],
+    "A20092-e14490": [
+      "fideli"
+    ],
+    "A20092-e14760": [
+      "titania"
+    ],
+    "A20092-e14850": [
+      "parthenophil"
+    ],
+    "A20092-e14960": [
+      "titania"
+    ],
+    "A20092-e15080": [
+      "king-3"
+    ],
+    "A20092-e15420": [
+      "campeius"
+    ],
+    "A20092-e15450": [
+      "king-3"
+    ],
+    "A20092-e15480": [
+      "campeius"
+    ],
+    "A20092-e15510": [
+      "king-3"
+    ],
+    "A20092-e15540": [
+      "campeius"
+    ],
+    "A20092-e15570": [
+      "king-3"
+    ],
+    "A20092-e15600": [
+      "campeius"
+    ],
+    "A20092-e15630": [
+      "king-3"
+    ],
+    "A20092-e15660": [
+      "campeius"
+    ],
+    "A20092-e15690": [
+      "king-3"
+    ],
+    "A20092-e15720": [
+      "campeius"
+    ],
+    "A20092-e15750": [
+      "king-3"
+    ],
+    "A20092-e15780": [
+      "campeius"
+    ],
+    "A20092-e15810": [
+      "king-3"
+    ],
+    "A20092-e15840": [
+      "campeius"
+    ],
+    "A20092-e15880": [
+      "king-3"
+    ],
+    "A20092-e15910": [
+      "campeius"
+    ],
+    "A20092-e15960": [
+      "king-3"
+    ],
+    "A20092-e15990": [
+      "campeius"
+    ],
+    "A20092-e16030": [
+      "king-3"
+    ],
+    "A20092-e16160": [
+      "campeius"
+    ],
+    "A20092-e16200": [
+      "king-3"
+    ],
+    "A20092-e16290": [
+      "campeius"
+    ],
+    "A20092-e16320": [
+      "king-3"
+    ],
+    "A20092-e16430": [
+      "campeius"
+    ],
+    "A20092-e16460": [
+      "king-3"
+    ],
+    "A20092-e16790": [
+      "campeius"
+    ],
+    "A20092-e16820": [
+      "king-3"
+    ],
+    "A20092-e16850": [
+      "campeius"
+    ],
+    "A20092-e16880": [
+      "king-3"
+    ],
+    "A20092-e16910": [
+      "campeius"
+    ],
+    "A20092-e16940": [
+      "king-3"
+    ],
+    "A20092-e16970": [
+      "campeius"
+    ],
+    "A20092-e17000": [
+      "king-3"
+    ],
+    "A20092-e17030": [
+      "campeius"
+    ],
+    "A20092-e17060": [
+      "king-3"
+    ],
+    "A20092-e17090": [
+      "campeius"
+    ],
+    "A20092-e17120": [
+      "king-3"
+    ],
+    "A20092-e17150": [
+      "campeius"
+    ],
+    "A20092-e17180": [
+      "king-3"
+    ],
+    "A20092-e17210": [
+      "campeius"
+    ],
+    "A20092-e17250": [
+      "king-3"
+    ],
+    "A20092-e17280": [
+      "campeius"
+    ],
+    "A20092-e17330": [
+      "king-3"
+    ],
+    "A20092-e17360": [
+      "campeius"
+    ],
+    "A20092-e17400": [
+      "king-3"
+    ],
+    "A20092-e17530": [
+      "campeius"
+    ],
+    "A20092-e17570": [
+      "king-3"
+    ],
+    "A20092-e17660": [
+      "campeius"
+    ],
+    "A20092-e17690": [
+      "king-3"
+    ],
+    "A20092-e17800": [
+      "campeius"
+    ],
+    "A20092-e17830": [
+      "king-3"
+    ],
+    "A20092-e17870": [
+      "campeius"
+    ],
+    "A20092-e17900": [
+      "king-3"
+    ],
+    "A20092-e17950": [
+      "campeius"
+    ],
+    "A20092-e17990": [
+      "king-3"
+    ],
+    "A20092-e18050": [
+      "campeius"
+    ],
+    "A20092-e18130": [
+      "king-3"
+    ],
+    "A20092-e18160": [
+      "campeius"
+    ],
+    "A20092-e18210": [
+      "king-3"
+    ],
+    "A20092-e18250": [
+      "campeius"
+    ],
+    "A20092-e18290": [
+      "king-3"
+    ],
+    "A20092-e18320": [
+      "campeius"
+    ],
+    "A20092-e18420": [
+      "king-3"
+    ],
+    "A20092-e18460": [
+      "campeius"
+    ],
+    "A20092-e18490": [
+      "king-3"
+    ],
+    "A20092-e18640": [
+      "campeius"
+    ],
+    "A20092-e18670": [
+      "king-3"
+    ],
+    "A20092-e18730": [
+      "campeius"
+    ],
+    "A20092-e18830": [
+      "king-3"
+    ],
+    "A20092-e18860": [
+      "campeius"
+    ],
+    "A20092-e18910": [
+      "king-3"
+    ],
+    "A20092-e18940": [
+      "campeius"
+    ],
+    "A20092-e18990": [
+      "king-3"
+    ],
+    "A20092-e19020": [
+      "campeius"
+    ],
+    "A20092-e19090": [
+      "king-3"
+    ],
+    "A20092-e19120": [
+      "campeius"
+    ],
+    "A20092-e19220": [
+      "king-3"
+    ],
+    "A20092-e19250": [
+      "campeius"
+    ],
+    "A20092-e19280": [
+      "king-3"
+    ],
+    "A20092-e19320": [
+      "campeius"
+    ],
+    "A20092-e19370": [
+      "king-3"
+    ],
+    "A20092-e19410": [
+      "campeius"
+    ],
+    "A20092-e19460": [
+      "king-3"
+    ],
+    "A20092-e19520": [
+      "campeius"
+    ],
+    "A20092-e19550": [
+      "king-3"
+    ],
+    "A20092-e19590": [
+      "campeius"
+    ],
+    "A20092-e19620": [
+      "king-3"
+    ],
+    "A20092-e19690": [
+      "campeius"
+    ],
+    "A20092-e19740": [
+      "king-3"
+    ],
+    "A20092-e19930": [
+      "conjurer"
+    ],
+    "A20092-e19960": [
+      "king-3"
+    ],
+    "A20092-e20000": [
+      "conjurer"
+    ],
+    "A20092-e20100": [
+      "king-3"
+    ],
+    "A20092-e20190": [
+      "conjurer"
+    ],
+    "A20092-e20220": [
+      "king-3"
+    ],
+    "A20092-e20280": [
+      "conjurer"
+    ],
+    "A20092-e20310": [
+      "king-3"
+    ],
+    "A20092-e20410": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e20440": [
+      "king-1",
+	  "king-2",
+	  "king-3",
+	  "cardinal-1",
+	  "cardinal-2",
+	  "cardinal-3",
+	  "cardinal-4"
+    ],
+    "A20092-e20470": [
+      "king-1"
+    ],
+    "A20092-e20500": [
+      "cardinal-1"
+    ],
+    "A20092-e20530": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e20730": [
+      "king-1"
+    ],
+    "A20092-e20800": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e20830": [
+      "cardinal-1"
+    ],
+    "A20092-e20950": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e20980": [
+      "cardinal-1"
+    ],
+    "A20092-e21080": [
+      "king-1",
+      "king-2",
+      "king-3",
+      "cardinal-2",
+      "cardinal-3",
+      "cardinal-4"
+    ],
+    "A20092-e21110": [
+      "cardinal-1"
+    ],
+    "A20092-e21190": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e21220": [
+      "king-1"
+    ],
+    "A20092-e21250": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e21320": [
+      "king-1"
+    ],
+    "A20092-e21350": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e21380": [
+      "king-1"
+    ],
+    "A20092-e21450": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e21510": [
+      "cardinal-1"
+    ],
+    "A20092-e21660": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e21690": [
+      "cardinal-1"
+    ],
+    "A20092-e21740": [
+      "king-1"
+    ],
+    "A20092-e21780": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e21810": [
+      "king-2"
+    ],
+    "A20092-e21910": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e22080": [
+      "king-1"
+    ],
+    "A20092-e22120": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e22260": [
+      "king-1"
+    ],
+    "A20092-e22290": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e22430": [
+      "king-1",
+	  "king-2",
+	  "king-3",
+	  "cardinal-1",
+	  "cardinal-2",
+	  "cardinal-3",
+	  "cardinal-4"
+    ],
+    "A20092-e22510": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e22560": [
+      "king-1",
+      "king-2",
+      "king-3"
+    ],
+    "A20092-e22590": [
+      "campeius"
+    ],
+    "A20092-e22630": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e22710": [
+      "king-1",
+      "king-2",
+      "king-3"
+    ],
+    "A20092-e22740": [
+      "lupus"
+    ],
+    "A20092-e22770": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e23120": [
+      "campeius"
+    ],
+    "A20092-e23180": [
+      "ropus"
+    ],
+    "A20092-e23220": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e23260": [
+      "campeggio",
+      "ropus"
+    ],
+    "A20092-e23300": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e23390": [
+      "king-1"
+    ],
+    "A20092-e23450": [
+      "cardinal-2"
+    ],
+    "A20092-e23480": [
+      "conjurer"
+    ],
+    "A20092-e23620": [
+      "king-1"
+    ],
+    "A20092-e23650": [
+      "conjurer"
+    ],
+    "A20092-e23680": [
+      "king-1"
+    ],
+    "A20092-e23930": [
+      "campeggio"
+    ],
+    "A20092-e24180": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e24210": [
+      "conjurer"
+    ],
+    "A20092-e24240": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e24270": [
+      "conjurer"
+    ],
+    "A20092-e24310": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e24340": [
+      "conjurer"
+    ],
+    "A20092-e24520": [
+      "king-1"
+    ],
+    "A20092-e24550": [
+      "conjurer"
+    ],
+    "A20092-e24660": [
+      "king-1",
+	  "king-2",
+	  "king-3",
+	  "cardinal-1",
+	  "cardinal-2",
+	  "cardinal-3",
+	  "cardinal-4"
+    ],
+    "A20092-e24690": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e24770": [
+      "palmio"
+    ],
+    "A20092-e24830": [
+      "paridel"
+    ],
+    "A20092-e24920": [
+      "palmio"
+    ],
+    "A20092-e24970": [
+      "paridel"
+    ],
+    "A20092-e25020": [
+      "palmio"
+    ],
+    "A20092-e25050": [
+      "paridel"
+    ],
+    "A20092-e25100": [
+      "palmio"
+    ],
+    "A20092-e25140": [
+      "paridel"
+    ],
+    "A20092-e25170": [
+      "palmio"
+    ],
+    "A20092-e25200": [
+      "paridel"
+    ],
+    "A20092-e25240": [
+      "palmio"
+    ],
+    "A20092-e25300": [
+      "paridel"
+    ],
+    "A20092-e25370": [
+      "palmio"
+    ],
+    "A20092-e25410": [
+      "paridel"
+    ],
+    "A20092-e25520": [
+      "palmio"
+    ],
+    "A20092-e25570": [
+      "paridel"
+    ],
+    "A20092-e25600": [
+      "palmio"
+    ],
+    "A20092-e25650": [
+      "ragazzoni"
+    ],
+    "A20092-e25680": [
+      "palmio"
+    ],
+    "A20092-e25740": [
+      "ragazzoni"
+    ],
+    "A20092-e25770": [
+      "palmio"
+    ],
+    "A20092-e25800": [
+      "ragazzoni"
+    ],
+    "A20092-e25880": [
+      "palmio"
+    ],
+    "A20092-e25930": [
+      "campeius"
+    ],
+    "A20092-e26000": [
+      "paridel"
+    ],
+    "A20092-e26050": [
+      "campeius"
+    ],
+    "A20092-e26080": [
+      "palmio"
+    ],
+    "A20092-e26120": [
+      "paridel"
+    ],
+    "A20092-e26190": [
+      "campeius"
+    ],
+    "A20092-e26220": [
+      "paridel"
+    ],
+    "A20092-e26260": [
+      "ragazzoni"
+    ],
+    "A20092-e26290": [
+      "palmio"
+    ],
+    "A20092-e26320": [
+      "paridel"
+    ],
+    "A20092-e26350": [
+      "palmio"
+    ],
+    "A20092-e26420": [
+      "paridel"
+    ],
+    "A20092-e26450": [
+      "gentleman"
+    ],
+    "A20092-e26480": [
+      "paridel"
+    ],
+    "A20092-e26550": [
+      "gentleman"
+    ],
+    "A20092-e26580": [
+      "paridel"
+    ],
+    "A20092-e26640": [
+      "gentleman"
+    ],
+    "A20092-e26730": [
+      "paridel"
+    ],
+    "A20092-e26790": [
+      "gentleman"
+    ],
+    "A20092-e26850": [
+      "paridel"
+    ],
+    "A20092-e26890": [
+      "gentleman"
+    ],
+    "A20092-e26920": [
+      "paridel"
+    ],
+    "A20092-e26950": [
+      "gentleman"
+    ],
+    "A20092-e27010": [
+      "paridel"
+    ],
+    "A20092-e27050": [
+      "gentleman"
+    ],
+    "A20092-e27080": [
+      "paridel"
+    ],
+    "A20092-e27230": [
+      "gentleman"
+    ],
+    "A20092-e27260": [
+      "paridel"
+    ],
+    "A20092-e27340": [
+      "gentleman"
+    ],
+    "A20092-e27420": [
+      "paridel"
+    ],
+    "A20092-e27450": [
+      "gentleman"
+    ],
+    "A20092-e27480": [
+      "palmio"
+    ],
+    "A20092-e27520": [
+      "paridel"
+    ],
+    "A20092-e27550": [
+      "an-albanois"
+    ],
+    "A20092-e27590": [
+      "paridel"
+    ],
+    "A20092-e27700": [
+      "an-albanois"
+    ],
+    "A20092-e27730": [
+      "paridel"
+    ],
+    "A20092-e27780": [
+      "an-albanois"
+    ],
+    "A20092-e27810": [
+      "paridel"
+    ],
+    "A20092-e27930": [
+      "an-albanois"
+    ],
+    "A20092-e27980": [
+      "paridel"
+    ],
+    "A20092-e28010": [
+      "an-albanois"
+    ],
+    "A20092-e28050": [
+      "paridel"
+    ],
+    "A20092-e28120": [
+      "an-albanois"
+    ],
+    "A20092-e28230": [
+      "paridel"
+    ],
+    "A20092-e28270": [
+      "an-albanois"
+    ],
+    "A20092-e28320": [
+      "paridel"
+    ],
+    "A20092-e28370": [
+      "an-albanois"
+    ],
+    "A20092-e28470": [
+      "ragazzoni",
+	  "palmio",
+	  "campeggio",
+	  "paridel"
+    ],
+    "A20092-e28500": [
+      "paridel"
+    ],
+    "A20092-e28540": [
+      "palmio"
+    ],
+    "A20092-e28580": [
+      "paridel"
+    ],
+    "A20092-e28660": [
+      "ragazzoni",
+	  "palmio",
+	  "campeggio",
+	  "an-albanois"
+    ],
+    "A20092-e28710": [
+      "paridel"
+    ],
+    "A20092-e28740": [
+      "truth"
+    ],
+    "A20092-e28770": [
+      "plaine-dealing"
+    ],
+    "A20092-e28800": [
+      "truth"
+    ],
+    "A20092-e28900": [
+      "plaine-dealing"
+    ],
+    "A20092-e28930": [
+      "truth"
+    ],
+    "A20092-e28960": [
+      "plaine-dealing"
+    ],
+    "A20092-e29000": [
+      "truth"
+    ],
+    "A20092-e29030": [
+      "plaine-dealing"
+    ],
+    "A20092-e29060": [
+      "truth"
+    ],
+    "A20092-e29090": [
+      "paridel"
+    ],
+    "A20092-e29120": [
+      "truth"
+    ],
+    "A20092-e29150": [
+      "plaine-dealing"
+    ],
+    "A20092-e29180": [
+      "truth"
+    ],
+    "A20092-e29210": [
+      "plaine-dealing"
+    ],
+    "A20092-e29250": [
+      "truth"
+    ],
+    "A20092-e29310": [
+      "plaine-dealing"
+    ],
+    "A20092-e29340": [
+      "truth"
+    ],
+    "A20092-e29370": [
+      "plaine-dealing"
+    ],
+    "A20092-e29410": [
+      "time"
+    ],
+    "A20092-e29460": [
+      "plaine-dealing"
+    ],
+    "A20092-e29580": [
+      "time"
+    ],
+    "A20092-e29640": [
+      "plaine-dealing"
+    ],
+    "A20092-e29680": [
+      "time"
+    ],
+    "A20092-e29770": [
+      "plaine-dealing"
+    ],
+    "A20092-e29800": [
+      "time"
+    ],
+    "A20092-e29850": [
+      "plaine-dealing"
+    ],
+    "A20092-e29880": [
+      "time"
+    ],
+    "A20092-e29980": [
+      "plaine-dealing"
+    ],
+    "A20092-e30010": [
+      "time"
+    ],
+    "A20092-e30060": [
+      "plaine-dealing"
+    ],
+    "A20092-e30100": [
+      "truth"
+    ],
+    "A20092-e30150": [
+      "plaine-dealing"
+    ],
+    "A20092-e30180": [
+      "time"
+    ],
+    "A20092-e30230": [
+      "plaine-dealing"
+    ],
+    "A20092-e30260": [
+      "time"
+    ],
+    "A20092-e30310": [
+      "plaine-dealing"
+    ],
+    "A20092-e30350": [
+      "time"
+    ],
+    "A20092-e30420": [
+      "plaine-dealing"
+    ],
+    "A20092-e30450": [
+      "time"
+    ],
+    "A20092-e30520": [
+      "plaine-dealing"
+    ],
+    "A20092-e30570": [
+      "truth"
+    ],
+    "A20092-e30610": [
+      "time"
+    ],
+    "A20092-e30640": [
+      "plaine-dealing"
+    ],
+    "A20092-e30710": [
+      "titania"
+    ],
+    "A20092-e30740": [
+      "fideli"
+    ],
+    "A20092-e30770": [
+      "titania"
+    ],
+    "A20092-e30800": [
+      "fideli"
+    ],
+    "A20092-e30900": [
+      "titania"
+    ],
+    "A20092-e30980": [
+      "florimell"
+    ],
+    "A20092-e31010": [
+      "titania"
+    ],
+    "A20092-e31040": [
+      "fideli"
+    ],
+    "A20092-e31130": [
+      "titania"
+    ],
+    "A20092-e31320": [
+      "florimell"
+    ],
+    "A20092-e31350": [
+      "titania"
+    ],
+    "A20092-e31420": [
+      "elfiron",
+	  "florimell",
+	  "ropus"
+    ],
+    "A20092-e31450": [
+      "titania"
+    ],
+    "A20092-e31580": [
+      "florimell"
+    ],
+    "A20092-e31630": [
+      "titania"
+    ],
+    "A20092-e31660": [
+      "fideli"
+    ],
+    "A20092-e31690": [
+      "titania"
+    ],
+    "A20092-e31730": [
+      "florimell"
+    ],
+    "A20092-e31760": [
+      "titania"
+    ],
+    "A20092-e31790": [
+      "elfiron",
+	  "florimell",
+	  "ropus"
+    ],
+    "A20092-e31820": [
+      "fideli"
+    ],
+    "A20092-e31850": [
+      "florimell"
+    ],
+    "A20092-e31880": [
+      "elfiron",
+	  "florimell",
+	  "ropus"
+    ],
+    "A20092-e31920": [
+      "titania"
+    ],
+    "A20092-e32000": [
+      "florimell"
+    ],
+    "A20092-e32050": [
+      "titania"
+    ],
+    "A20092-e32120": [
+      "ropus"
+    ],
+    "A20092-e32190": [
+      "ropus"
+    ],
+    "A20092-e32230": [
+      "titania"
+    ],
+    "A20092-e32260": [
+      "ropus"
+    ],
+    "A20092-e32300": [
+      "titania"
+    ],
+    "A20092-e32330": [
+      "parthenophil"
+    ],
+    "A20092-e32420": [
+      "titania"
+    ],
+    "A20092-e32450": [
+      "parthenophil"
+    ],
+    "A20092-e32610": [
+      "titania"
+    ],
+    "A20092-e32660": [
+      "elfiron"
+    ],
+    "A20092-e32740": [
+      "titania"
+    ],
+    "A20092-e32850": [
+      "titania"
+    ],
+    "A20092-e32880": [
+      "fideli"
+    ],
+    "A20092-e32910": [
+      "titania"
+    ],
+    "A20092-e32940": [
+      "fideli"
+    ],
+    "A20092-e32970": [
+      "florimell"
+    ],
+    "A20092-e33000": [
+      "fideli"
+    ],
+    "A20092-e33090": [
+      "titania"
+    ],
+    "A20092-e33120": [
+      "fideli"
+    ],
+    "A20092-e33240": [
+      "ropus"
+    ],
+    "A20092-e33270": [
+      "fideli"
+    ],
+    "A20092-e33300": [
+      "titania"
+    ],
+    "A20092-e33360": [
+      "fideli"
+    ],
+    "A20092-e33420": [
+      "titania",
+      "florimell",
+      "fideli"
+    ],
+    "A20092-e33450": [
+      "ropus"
+    ],
+    "A20092-e33480": [
+      "fideli"
+    ],
+    "A20092-e33510": [
+      "fideli"
+    ],
+    "A20092-e33550": [
+      "titania"
+    ],
+    "A20092-e33590": [
+      "fideli"
+    ],
+    "A20092-e33640": [
+      "titania"
+    ],
+    "A20092-e33750": [
+      "fideli"
+    ],
+    "A20092-e33830": [
+      "titania"
+    ],
+    "A20092-e33880": [
+      "paridel"
+    ],
+    "A20092-e33990": [
+      "titania"
+    ],
+    "A20092-e34020": [
+      "paridel"
+    ],
+    "A20092-e34160": [
+      "titania"
+    ],
+    "A20092-e34190": [
+      "paridel"
+    ],
+    "A20092-e34220": [
+      "titania"
+    ],
+    "A20092-e34250": [
+      "paridel"
+    ],
+    "A20092-e34380": [
+      "titania"
+    ],
+    "A20092-e34430": [
+      "paridel"
+    ],
+    "A20092-e34460": [
+      "titania"
+    ],
+    "A20092-e34500": [
+      "paridel"
+    ],
+    "A20092-e34570": [
+      "como"
+    ],
+    "A20092-e34620": [
+      "king-3"
+    ],
+    "A20092-e34650": [
+      "king-1"
+    ],
+    "A20092-e34730": [
+      "king-3"
+    ],
+    "A20092-e34810": [
+      "king-2"
+    ],
+    "A20092-e34840": [
+      "como"
+    ],
+    "A20092-e34870": [
+      "king-1"
+    ],
+    "A20092-e34900": [
+      "king-3"
+    ],
+    "A20092-e35020": [
+      "como"
+    ],
+    "A20092-e35050": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e35080": [
+      "king-3"
+    ],
+    "A20092-e35130": [
+      "herald"
+    ],
+    "A20092-e35210": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e35400": [
+      "conjurer"
+    ],
+    "A20092-e35440": [
+      "king-3"
+    ],
+    "A20092-e35480": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e35510": [
+      "king-3"
+    ],
+    "A20092-e35540": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e35570": [
+      "king-3"
+    ],
+    "A20092-e35670": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e35700": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e35730": [
+      "king-3"
+    ],
+    "A20092-e35790": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e35840": [
+      "king-3"
+    ],
+    "A20092-e35960": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e35990": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e36030": [
+      "king-3"
+    ],
+    "A20092-e36160": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e36220": [
+      "king-2"
+    ],
+    "A20092-e36260": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e36290": [
+      "conjurer"
+    ],
+    "A20092-e36320": [
+      "king-1"
+    ],
+    "A20092-e36350": [
+      "king-2"
+    ],
+    "A20092-e36380": [
+      "king-3"
+    ],
+    "A20092-e36410": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e36460": [
+      "conjurer"
+    ],
+    "A20092-e36550": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e36590": [
+      "conjurer"
+    ],
+    "A20092-e37080": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e37230": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e37260": [
+      "king-3"
+    ],
+    "A20092-e37290": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e37340": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e37370": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e37490": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e37530": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e37570": [
+      "king-3"
+    ],
+    "A20092-e37640": [
+      "paridel"
+    ],
+    "A20092-e37780": [
+      "cousin"
+    ],
+    "A20092-e37870": [
+      "paridel"
+    ],
+    "A20092-e37920": [
+      "cousin"
+    ],
+    "A20092-e37980": [
+      "paridel"
+    ],
+    "A20092-e38150": [
+      "cousin"
+    ],
+    "A20092-e38190": [
+      "paridel"
+    ],
+    "A20092-e38220": [
+      "cousin"
+    ],
+    "A20092-e38250": [
+      "paridel"
+    ],
+    "A20092-e38280": [
+      "cousin"
+    ],
+    "A20092-e38330": [
+      "paridel"
+    ],
+    "A20092-e38360": [
+      "cousin"
+    ],
+    "A20092-e38410": [
+      "paridel"
+    ],
+    "A20092-e38460": [
+      "cousin"
+    ],
+    "A20092-e38490": [
+      "paridel"
+    ],
+    "A20092-e38600": [
+      "cousin"
+    ],
+    "A20092-e38630": [
+      "paridel"
+    ],
+    "A20092-e38830": [
+      "cousin"
+    ],
+    "A20092-e38890": [
+      "paridel"
+    ],
+    "A20092-e38930": [
+      "cousin"
+    ],
+    "A20092-e38960": [
+      "paridel"
+    ],
+    "A20092-e39060": [
+      "cousin"
+    ],
+    "A20092-e39090": [
+      "paridel"
+    ],
+    "A20092-e39130": [
+      "cousin"
+    ],
+    "A20092-e39160": [
+      "paridel"
+    ],
+    "A20092-e39190": [
+      "cousin"
+    ],
+    "A20092-e39250": [
+      "paridel"
+    ],
+    "A20092-e39280": [
+      "cousin"
+    ],
+    "A20092-e39380": [
+      "florimell"
+    ],
+    "A20092-e39490": [
+      "titania"
+    ],
+    "A20092-e39530": [
+      "fideli"
+    ],
+    "A20092-e39660": [
+      "titania"
+    ],
+    "A20092-e39690": [
+      "fideli"
+    ],
+    "A20092-e39860": [
+      "titania"
+    ],
+    "A20092-e39890": [
+      "fideli"
+    ],
+    "A20092-e39920": [
+      "florimell"
+    ],
+    "A20092-e39950": [
+      "fideli"
+    ],
+    "A20092-e39980": [
+      "elfiron",
+	  "parthenophil",
+	  "paridel",
+	  "florimell"
+    ],
+    "A20092-e40020": [
+      "titania"
+    ],
+    "A20092-e40140": [
+      "paridel"
+    ],
+    "A20092-e40170": [
+      "titania"
+    ],
+    "A20092-e40210": [
+      "paridel"
+    ],
+    "A20092-e40240": [
+      "titania"
+    ],
+    "A20092-e40390": [
+      "paridel"
+    ],
+    "A20092-e40420": [
+      "titania"
+    ],
+    "A20092-e40480": [
+      "paridel"
+    ],
+    "A20092-e40510": [
+      "titania"
+    ],
+    "A20092-e40590": [
+      "paridel"
+    ],
+    "A20092-e40660": [
+      "titania"
+    ],
+    "A20092-e40720": [
+      "paridel"
+    ],
+    "A20092-e40750": [
+      "titania"
+    ],
+    "A20092-e40780": [
+      "paridel"
+    ],
+    "A20092-e40820": [
+      "titania"
+    ],
+    "A20092-e40850": [
+      "paridel"
+    ],
+    "A20092-e40880": [
+      "titania"
+    ],
+    "A20092-e40930": [
+      "paridel"
+    ],
+    "A20092-e40960": [
+      "titania"
+    ],
+    "A20092-e40990": [
+      "paridel"
+    ],
+    "A20092-e41060": [
+      "titania"
+    ],
+    "A20092-e41120": [
+      "paridel"
+    ],
+    "A20092-e41220": [
+      "titania"
+    ],
+    "A20092-e41280": [
+      "paridel"
+    ],
+    "A20092-e41330": [
+      "titania"
+    ],
+    "A20092-e41390": [
+      "paridel"
+    ],
+    "A20092-e41560": [
+      "titania"
+    ],
+    "A20092-e41630": [
+      "paridel"
+    ],
+    "A20092-e41840": [
+      "elfiron",
+	  "parthenophil",
+	  "paridel",
+	  "florimell",
+	  "guard",
+	  "cousin"
+    ],
+    "A20092-e41870": [
+      "fideli"
+    ],
+    "A20092-e41910": [
+      "elfiron",
+	  "parthenophil",
+	  "paridel",
+	  "florimell",
+	  "guard",
+	  "cousin"
+    ],
+    "A20092-e41940": [
+      "fideli"
+    ],
+    "A20092-e41970": [
+      "titania"
+    ],
+    "A20092-e42000": [
+      "florimell"
+    ],
+    "A20092-e42030": [
+      "fideli"
+    ],
+    "A20092-e42080": [
+      "paridel"
+    ],
+    "A20092-e42110": [
+      "fideli"
+    ],
+    "A20092-e42160": [
+      "paridel"
+    ],
+    "A20092-e42190": [
+      "cousin"
+    ],
+    "A20092-e42220": [
+      "paridel"
+    ],
+    "A20092-e42250": [
+      "fideli"
+    ],
+    "A20092-e42310": [
+      "titania"
+    ],
+    "A20092-e42340": [
+      "paridel"
+    ],
+    "A20092-e42370": [
+      "titania"
+    ],
+    "A20092-e42420": [
+      "paridel"
+    ],
+    "A20092-e42460": [
+      "elfiron",
+	  "parthenophil",
+	  "florimell",
+	  "guard",
+	  "cousin"
+    ],
+    "A20092-e42490": [
+      "parthenophil"
+    ],
+    "A20092-e42530": [
+      "fideli"
+    ],
+    "A20092-e42570": [
+      "titania"
+    ],
+    "A20092-e42600": [
+      "florimell"
+    ],
+    "A20092-e42920": [
+      "fideli"
+    ],
+    "A20092-e42950": [
+      "parthenophil"
+    ],
+    "A20092-e43020": [
+      "titania"
+    ],
+    "A20092-e43050": [
+      "fideli"
+    ],
+    "A20092-e43080": [
+      "elfiron"
+    ],
+    "A20092-e43150": [
+      "titania"
+    ],
+    "A20092-e43220": [
+      "elfiron"
+    ],
+    "A20092-e43250": [
+      "titania"
+    ],
+    "A20092-e43290": [
+      "elfiron"
+    ],
+    "A20092-e43360": [
+      "titania"
+    ],
+    "A20092-e43440": [
+      "fideli"
+    ],
+    "A20092-e43470": [
+      "titania"
+    ],
+    "A20092-e43580": [
+      "time"
+    ],
+    "A20092-e43610": [
+      "plaine-dealing"
+    ],
+    "A20092-e43660": [
+      "time"
+    ],
+    "A20092-e43690": [
+      "truth"
+    ],
+    "A20092-e43720": [
+      "time"
+    ],
+    "A20092-e43780": [
+      "soldier"
+    ],
+    "A20092-e43820": [
+      "time"
+    ],
+    "A20092-e43980": [
+      "truth"
+    ],
+    "A20092-e44020": [
+      "plaine-dealing"
+    ],
+    "A20092-e44060": [
+      "time"
+    ],
+    "A20092-e44090": [
+      "plaine-dealing"
+    ],
+    "A20092-e44120": [
+      "time"
+    ],
+    "A20092-e44150": [
+      "plaine-dealing"
+    ],
+    "A20092-e44190": [
+      "time"
+    ],
+    "A20092-e44220": [
+      "plaine-dealing"
+    ],
+    "A20092-e44250": [
+      "time"
+    ],
+    "A20092-e44280": [
+      "plaine-dealing"
+    ],
+    "A20092-e44310": [
+      "time"
+    ],
+    "A20092-e44340": [
+      "plaine-dealing"
+    ],
+    "A20092-e44370": [
+      "time"
+    ],
+    "A20092-e44400": [
+      "plaine-dealing"
+    ],
+    "A20092-e44430": [
+      "titania"
+    ],
+    "A20092-e44460": [
+      "plaine-dealing"
+    ],
+    "A20092-e44500": [
+      "time"
+    ],
+    "A20092-e44620": [
+      "king-3"
+    ],
+    "A20092-e44670": [
+      "king-1"
+    ],
+    "A20092-e44700": [
+      "king-2"
+    ],
+    "A20092-e44740": [
+      "king-1"
+    ],
+    "A20092-e44770": [
+      "king-3"
+    ],
+    "A20092-e44800": [
+      "king-1"
+    ],
+    "A20092-e44840": [
+      "king-2"
+    ],
+    "A20092-e44870": [
+      "king-3"
+    ],
+    "A20092-e44910": [
+      "king-2"
+    ],
+    "A20092-e44940": [
+      "king-3"
+    ],
+    "A20092-e44980": [
+      "king-2"
+    ],
+    "A20092-e45020": [
+      "king-3"
+    ],
+    "A20092-e45080": [
+      "king-2"
+    ],
+    "A20092-e45110": [
+      "king-3"
+    ],
+    "A20092-e45180": [
+      "king-1"
+    ],
+    "A20092-e45210": [
+      "king-3"
+    ],
+    "A20092-e45250": [
+      "king-2"
+    ],
+    "A20092-e45280": [
+      "king-3"
+    ],
+    "A20092-e45320": [
+      "king-1",
+	  "king-2",
+	  "king-3"
+    ],
+    "A20092-e45350": [
+      "king-3"
+    ],
+    "A20092-e45410": [
+      "florimell"
+    ],
+    "A20092-e45450": [
+      "king-1",
+      "king-2",
+      "king-3"
+    ],
+    "A20092-e45510": [
+      "titania"
+    ],
+    "A20092-e45670": [
+      "soldier"
+    ],
+    "A20092-e45710": [
+      "fideli"
+    ],
+    "A20092-e45740": [
+      "titania"
+    ],
+    "A20092-e45840": [
+      "fideli"
+    ],
+    "A20092-e45870": [
+      "titania"
+    ],
+    "A20092-e46000": [
+      "plaine-dealing"
+    ],
+    "A20092-e46030": [
+      "titania"
+    ],
+    "A20092-e46080": [
+      "plaine-dealing"
+    ],
+    "A20092-e46190": [
+      "titania"
+    ],
+    "A20092-e46220": [
+      "florimell"
+    ],
+    "A20092-e46250": [
+      "titania"
+    ],
+    "A20092-e46280": [
+      "florimell"
+    ],
+    "A20092-e46310": [
+      "titania"
+    ],
+    "A20092-e46340": [
+      "time"
+    ],
+    "A20092-e46510": [
+      "fideli"
+    ],
+    "A20092-e46550": [
+      "titania"
+    ],
+    "A20092-e46720": [
+      "titania"
+    ],
+    "A20092-e46750": [
+      "time"
+    ],
+    "A20092-e46890": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e46930": [
+      "king-3"
+    ],
+    "A20092-e46960": [
+      "king-3",
+      "cardinal-4"
+    ],
+    "A20092-e46990": [
+      "cardinal-4"
+    ],
+    "A20092-e47020": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e47080": [
+      "king-3"
+    ],
+    "A20092-e47110": [
+      "cardinal-4"
+    ],
+    "A20092-e47140": [
+      "king-3"
+    ],
+    "A20092-e47170": [
+      "empresse-of-babylon"
+    ],
+    "A20092-e47200": [
+      "king-3"
+    ],
+    "A20092-e47240": [
+      "king-2"
+    ],
+    "A20092-e47280": [
+      "king-1"
+    ],
+    "A20092-e47360": [
+      "cardinal-1"
+    ],
+    "A20092-e47390": [
+      "king-3"
+    ]
+  }
+}

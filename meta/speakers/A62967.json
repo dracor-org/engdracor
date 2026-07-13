@@ -1,0 +1,1638 @@
+{
+  "particDesc": [
+    {
+      "name": "Guards",
+      "id": "guards",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Damocles",
+      "id": "damocles",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Priest 2",
+      "id": "priest-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Priest 1",
+      "id": "priest-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Hermite",
+      "id": "hermite",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer 4",
+      "id": "officer-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer 3",
+      "id": "officer-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer 2",
+      "id": "officer-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer 1",
+      "id": "officer-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lady with a ring",
+      "id": "lady-with-a-ring",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Herauld",
+      "id": "herauld",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Attendant",
+      "id": "attendant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "theocrin",
+      "name": "Theocrin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "theron",
+      "name": "Theron",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "diphilus",
+      "name": "Diphilus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "escalus",
+      "name": "Escalus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pisander",
+      "name": "Pisander",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "abardanes",
+      "name": "Abardanes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sossacles",
+      "name": "Sossacles",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "queen",
+      "name": "Queen",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "arviola",
+      "name": "Arviola",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "edraste",
+      "name": "Edraste",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "myrrhoe",
+      "name": "Myrrhoe",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A62967-e2300": [
+      "pisander"
+    ],
+    "A62967-e2330": [
+      "escalus"
+    ],
+    "A62967-e2410": [
+      "pisander"
+    ],
+    "A62967-e2440": [
+      "escalus"
+    ],
+    "A62967-e2540": [
+      "pisander"
+    ],
+    "A62967-e2590": [
+      "escalus"
+    ],
+    "A62967-e2670": [
+      "pisander"
+    ],
+    "A62967-e2730": [
+      "escalus"
+    ],
+    "A62967-e2790": [
+      "theron"
+    ],
+    "A62967-e2830": [
+      "escalus"
+    ],
+    "A62967-e2860": [
+      "pisander"
+    ],
+    "A62967-e2890": [
+      "theron"
+    ],
+    "A62967-e3010": [
+      "escalus"
+    ],
+    "A62967-e3050": [
+      "theron"
+    ],
+    "A62967-e3140": [
+      "escalus"
+    ],
+    "A62967-e3230": [
+      "queen"
+    ],
+    "A62967-e3360": [
+      "escalus"
+    ],
+    "A62967-e3400": [
+      "pisander"
+    ],
+    "A62967-e3430": [
+      "queen"
+    ],
+    "A62967-e3540": [
+      "escalus"
+    ],
+    "A62967-e3640": [
+      "queen"
+    ],
+    "A62967-e3780": [
+      "edraste"
+    ],
+    "A62967-e3890": [
+      "queen"
+    ],
+    "A62967-e3970": [
+      "edraste"
+    ],
+    "A62967-e4010": [
+      "queen"
+    ],
+    "A62967-e4040": [
+      "edraste"
+    ],
+    "A62967-e4070": [
+      "queen"
+    ],
+    "A62967-e4130": [
+      "edraste"
+    ],
+    "A62967-e4190": [
+      "queen"
+    ],
+    "A62967-e4220": [
+      "edraste"
+    ],
+    "A62967-e4300": [
+      "queen"
+    ],
+    "A62967-e4340": [
+      "edraste"
+    ],
+    "A62967-e4380": [
+      "queen"
+    ],
+    "A62967-e4430": [
+      "edraste"
+    ],
+    "A62967-e4460": [
+      "queen"
+    ],
+    "A62967-e4520": [
+      "edraste"
+    ],
+    "A62967-e4650": [
+      "arviola"
+    ],
+    "A62967-e4760": [
+      "edraste"
+    ],
+    "A62967-e4800": [
+      "arviola"
+    ],
+    "A62967-e4860": [
+      "edraste"
+    ],
+    "A62967-e4910": [
+      "arviola"
+    ],
+    "A62967-e4970": [
+      "edraste"
+    ],
+    "A62967-e5050": [
+      "arviola"
+    ],
+    "A62967-e5120": [
+      "myrrhoe"
+    ],
+    "A62967-e5170": [
+      "arviola"
+    ],
+    "A62967-e5270": [
+      "escalus"
+    ],
+    "A62967-e5310": [
+      "myrrhoe"
+    ],
+    "A62967-e5340": [
+      "escalus"
+    ],
+    "A62967-e5410": [
+      "myrrhoe"
+    ],
+    "A62967-e5490": [
+      "escalus"
+    ],
+    "A62967-e5590": [
+      "king"
+    ],
+    "A62967-e5700": [
+      "theron"
+    ],
+    "A62967-e5790": [
+      "diphilus"
+    ],
+    "A62967-e5900": [
+      "king"
+    ],
+    "A62967-e6010": [
+      "arviola",
+      "edraste"
+    ],
+    "A62967-e6040": [
+      "king"
+    ],
+    "A62967-e6100": [
+      "theron",
+      "diphilus"
+    ],
+    "A62967-e6130": [
+      "king"
+    ],
+    "A62967-e6290": [
+      "queen"
+    ],
+    "A62967-e6370": [
+      "king"
+    ],
+    "A62967-e6410": [
+      "theron"
+    ],
+    "A62967-e6460": [
+      "king"
+    ],
+    "A62967-e6520": [
+      "messenger"
+    ],
+    "A62967-e6650": [
+      "king"
+    ],
+    "A62967-e6740": [
+      "theron"
+    ],
+    "A62967-e6780": [
+      "messenger"
+    ],
+    "A62967-e6880": [
+      "king"
+    ],
+    "A62967-e6960": [
+      "diphilus"
+    ],
+    "A62967-e7040": [
+      "king"
+    ],
+    "A62967-e7160": [
+      "queen"
+    ],
+    "A62967-e7210": [
+      "king"
+    ],
+    "A62967-e7420": [
+      "attendant"
+    ],
+    "A62967-e7460": [
+      "pisander"
+    ],
+    "A62967-e7490": [
+      "attendant"
+    ],
+    "A62967-e7570": [
+      "pisander"
+    ],
+    "A62967-e7770": [
+      "queen"
+    ],
+    "A62967-e7810": [
+      "pisander"
+    ],
+    "A62967-e7870": [
+      "queen"
+    ],
+    "A62967-e7930": [
+      "pisander"
+    ],
+    "A62967-e7970": [
+      "queen"
+    ],
+    "A62967-e8110": [
+      "pisander"
+    ],
+    "A62967-e8150": [
+      "queen"
+    ],
+    "A62967-e8220": [
+      "pisander"
+    ],
+    "A62967-e8290": [
+      "queen"
+    ],
+    "A62967-e8390": [
+      "pisander"
+    ],
+    "A62967-e8450": [
+      "queen"
+    ],
+    "A62967-e8590": [
+      "pisander"
+    ],
+    "A62967-e8650": [
+      "queen"
+    ],
+    "A62967-e8680": [
+      "pisander"
+    ],
+    "A62967-e8730": [
+      "attendant"
+    ],
+    "A62967-e8770": [
+      "queen"
+    ],
+    "A62967-e8840": [
+      "escalus"
+    ],
+    "A62967-e8900": [
+      "queen"
+    ],
+    "A62967-e8930": [
+      "escalus"
+    ],
+    "A62967-e9040": [
+      "queen"
+    ],
+    "A62967-e9070": [
+      "escalus"
+    ],
+    "A62967-e9110": [
+      "queen"
+    ],
+    "A62967-e9180": [
+      "escalus"
+    ],
+    "A62967-e9340": [
+      "queen"
+    ],
+    "A62967-e9410": [
+      "escalus"
+    ],
+    "A62967-e9620": [
+      "king"
+    ],
+    "A62967-e9720": [
+      "theron"
+    ],
+    "A62967-e9840": [
+      "theron"
+    ],
+    "A62967-e9920": [
+      "king"
+    ],
+    "A62967-e10040": [
+      "arviola"
+    ],
+    "A62967-e10100": [
+      "theron"
+    ],
+    "A62967-e10160": [
+      "king"
+    ],
+    "A62967-e10260": [
+      "theron"
+    ],
+    "A62967-e10330": [
+      "king"
+    ],
+    "A62967-e10440": [
+      "edraste"
+    ],
+    "A62967-e10730": [
+      "myrrhoe"
+    ],
+    "A62967-e10760": [
+      "edraste"
+    ],
+    "A62967-e10880": [
+      "myrrhoe"
+    ],
+    "A62967-e10910": [
+      "edraste"
+    ],
+    "A62967-e10980": [
+      "myrrhoe"
+    ],
+    "A62967-e11030": [
+      "edraste"
+    ],
+    "A62967-e11170": [
+      "theron"
+    ],
+    "A62967-e11280": [
+      "arviola"
+    ],
+    "A62967-e11310": [
+      "myrrhoe"
+    ],
+    "A62967-e11340": [
+      "arviola"
+    ],
+    "A62967-e11390": [
+      "theron"
+    ],
+    "A62967-e11450": [
+      "arviola"
+    ],
+    "A62967-e11560": [
+      "theocrin"
+    ],
+    "A62967-e11680": [
+      "escalus"
+    ],
+    "A62967-e11720": [
+      "king"
+    ],
+    "A62967-e11850": [
+      "priest-1"
+    ],
+    "A62967-e11920": [
+      "king"
+    ],
+    "A62967-e11970": [
+      "messenger"
+    ],
+    "A62967-e12040": [
+      "king"
+    ],
+    "A62967-e12090": [
+      "theocrin"
+    ],
+    "A62967-e12190": [
+      "king"
+    ],
+    "A62967-e12220": [
+      "theocrin"
+    ],
+    "A62967-e12320": [
+      "arviola"
+    ],
+    "A62967-e12410": [
+      "king"
+    ],
+    "A62967-e12440": [
+      "messenger"
+    ],
+    "A62967-e12490": [
+      "attendant"
+    ],
+    "A62967-e12530": [
+      "king"
+    ],
+    "A62967-e12570": [
+      "herauld"
+    ],
+    "A62967-e12720": [
+      "king"
+    ],
+    "A62967-e12870": [
+      "myrrhoe"
+    ],
+    "A62967-e13120": [
+      "escalus"
+    ],
+    "A62967-e13240": [
+      "myrrhoe"
+    ],
+    "A62967-e13300": [
+      "escalus"
+    ],
+    "A62967-e13370": [
+      "myrrhoe"
+    ],
+    "A62967-e13450": [
+      "escalus"
+    ],
+    "A62967-e13500": [
+      "myrrhoe"
+    ],
+    "A62967-e13540": [
+      "escalus"
+    ],
+    "A62967-e13680": [
+      "myrrhoe"
+    ],
+    "A62967-e13720": [
+      "escalus"
+    ],
+    "A62967-e13840": [
+      "myrrhoe"
+    ],
+    "A62967-e13890": [
+      "escalus"
+    ],
+    "A62967-e14040": [
+      "myrrhoe"
+    ],
+    "A62967-e14100": [
+      "escalus"
+    ],
+    "A62967-e14250": [
+      "king"
+    ],
+    "A62967-e14370": [
+      "theron"
+    ],
+    "A62967-e14410": [
+      "king"
+    ],
+    "A62967-e14460": [
+      "diphilus"
+    ],
+    "A62967-e14560": [
+      "king"
+    ],
+    "A62967-e14600": [
+      "theron"
+    ],
+    "A62967-e14640": [
+      "king"
+    ],
+    "A62967-e14750": [
+      "diphilus"
+    ],
+    "A62967-e14900": [
+      "king"
+    ],
+    "A62967-e14980": [
+      "escalus"
+    ],
+    "A62967-e15040": [
+      "king"
+    ],
+    "A62967-e15070": [
+      "escalus"
+    ],
+    "A62967-e15120": [
+      "king"
+    ],
+    "A62967-e15160": [
+      "escalus"
+    ],
+    "A62967-e15290": [
+      "king"
+    ],
+    "A62967-e15340": [
+      "escalus"
+    ],
+    "A62967-e15560": [
+      "myrrhoe"
+    ],
+    "A62967-e15590": [
+      "arviola"
+    ],
+    "A62967-e15720": [
+      "myrrhoe"
+    ],
+    "A62967-e15760": [
+      "arviola"
+    ],
+    "A62967-e15870": [
+      "myrrhoe"
+    ],
+    "A62967-e15940": [
+      "lady-with-a-ring"
+    ],
+    "A62967-e15990": [
+      "arviola"
+    ],
+    "A62967-e16040": [
+      "myrrhoe"
+    ],
+    "A62967-e16080": [
+      "arviola"
+    ],
+    "A62967-e16180": [
+      "escalus"
+    ],
+    "A62967-e16290": [
+      "myrrhoe"
+    ],
+    "A62967-e16330": [
+      "escalus"
+    ],
+    "A62967-e16360": [
+      "myrrhoe"
+    ],
+    "A62967-e16430": [
+      "escalus"
+    ],
+    "A62967-e16490": [
+      "myrrhoe"
+    ],
+    "A62967-e16530": [
+      "escalus"
+    ],
+    "A62967-e16560": [
+      "myrrhoe"
+    ],
+    "A62967-e16640": [
+      "escalus"
+    ],
+    "A62967-e16670": [
+      "myrrhoe"
+    ],
+    "A62967-e16740": [
+      "escalus"
+    ],
+    "A62967-e16860": [
+      "theocrin"
+    ],
+    "A62967-e16920": [
+      "arviola"
+    ],
+    "A62967-e16950": [
+      "theocrin"
+    ],
+    "A62967-e17070": [
+      "arviola"
+    ],
+    "A62967-e17170": [
+      "theocrin"
+    ],
+    "A62967-e17220": [
+      "arviola"
+    ],
+    "A62967-e17260": [
+      "theocrin"
+    ],
+    "A62967-e17310": [
+      "arviola"
+    ],
+    "A62967-e17340": [
+      "theocrin"
+    ],
+    "A62967-e17440": [
+      "myrrhoe"
+    ],
+    "A62967-e17500": [
+      "theocrin"
+    ],
+    "A62967-e17600": [
+      "myrrhoe"
+    ],
+    "A62967-e17640": [
+      "theocrin"
+    ],
+    "A62967-e17670": [
+      "myrrhoe"
+    ],
+    "A62967-e17730": [
+      "arviola"
+    ],
+    "A62967-e17770": [
+      "theocrin"
+    ],
+    "A62967-e17870": [
+      "arviola"
+    ],
+    "A62967-e17970": [
+      "theocrin"
+    ],
+    "A62967-e18080": [
+      "arviola"
+    ],
+    "A62967-e18200": [
+      "theocrin"
+    ],
+    "A62967-e18370": [
+      "abardanes"
+    ],
+    "A62967-e18440": [
+      "arviola"
+    ],
+    "A62967-e18480": [
+      "abardanes"
+    ],
+    "A62967-e18540": [
+      "arviola"
+    ],
+    "A62967-e18590": [
+      "abardanes"
+    ],
+    "A62967-e18670": [
+      "arviola"
+    ],
+    "A62967-e18720": [
+      "abardanes"
+    ],
+    "A62967-e18790": [
+      "arviola"
+    ],
+    "A62967-e18930": [
+      "abardanes"
+    ],
+    "A62967-e18970": [
+      "arviola"
+    ],
+    "A62967-e19050": [
+      "abardanes"
+    ],
+    "A62967-e19100": [
+      "arviola"
+    ],
+    "A62967-e19180": [
+      "abardanes"
+    ],
+    "A62967-e19230": [
+      "arviola"
+    ],
+    "A62967-e19260": [
+      "abardanes"
+    ],
+    "A62967-e19420": [
+      "sossacles"
+    ],
+    "A62967-e19500": [
+      "abardanes"
+    ],
+    "A62967-e19540": [
+      "sossacles"
+    ],
+    "A62967-e19610": [
+      "abardanes"
+    ],
+    "A62967-e19650": [
+      "sossacles"
+    ],
+    "A62967-e19690": [
+      "abardanes"
+    ],
+    "A62967-e19770": [
+      "king"
+    ],
+    "A62967-e19810": [
+      "escalus"
+    ],
+    "A62967-e19890": [
+      "king"
+    ],
+    "A62967-e20240": [
+      "king"
+    ],
+    "A62967-e20330": [
+      "escalus"
+    ],
+    "A62967-e20400": [
+      "pisander"
+    ],
+    "A62967-e20430": [
+      "escalus"
+    ],
+    "A62967-e20480": [
+      "pisander"
+    ],
+    "A62967-e20540": [
+      "queen"
+    ],
+    "A62967-e20610": [
+      "escalus"
+    ],
+    "A62967-e20680": [
+      "king"
+    ],
+    "A62967-e20710": [
+      "queen"
+    ],
+    "A62967-e20760": [
+      "king"
+    ],
+    "A62967-e20790": [
+      "escalus"
+    ],
+    "A62967-e20890": [
+      "king"
+    ],
+    "A62967-e20930": [
+      "queen"
+    ],
+    "A62967-e21040": [
+      "king"
+    ],
+    "A62967-e21090": [
+      "queen"
+    ],
+    "A62967-e21230": [
+      "escalus"
+    ],
+    "A62967-e21260": [
+      "king"
+    ],
+    "A62967-e21300": [
+      "escalus"
+    ],
+    "A62967-e21360": [
+      "king"
+    ],
+    "A62967-e21420": [
+      "theron"
+    ],
+    "A62967-e21450": [
+      "king"
+    ],
+    "A62967-e21540": [
+      "diphilus"
+    ],
+    "A62967-e21620": [
+      "escalus"
+    ],
+    "A62967-e21870": [
+      "king"
+    ],
+    "A62967-e21920": [
+      "escalus"
+    ],
+    "A62967-e21960": [
+      "king"
+    ],
+    "A62967-e22110": [
+      "abardanes"
+    ],
+    "A62967-e22180": [
+      "king"
+    ],
+    "A62967-e22300": [
+      "abardanes"
+    ],
+    "A62967-e22390": [
+      "sossacles"
+    ],
+    "A62967-e22460": [
+      "abardanes"
+    ],
+    "A62967-e22530": [
+      "sossacles"
+    ],
+    "A62967-e22590": [
+      "abardanes"
+    ],
+    "A62967-e22640": [
+      "sossacles"
+    ],
+    "A62967-e22700": [
+      "abardanes"
+    ],
+    "A62967-e22730": [
+      "sossacles"
+    ],
+    "A62967-e22830": [
+      "abardanes"
+    ],
+    "A62967-e22860": [
+      "sossacles"
+    ],
+    "A62967-e22980": [
+      "abardanes"
+    ],
+    "A62967-e23010": [
+      "sossacles"
+    ],
+    "A62967-e23060": [
+      "myrrhoe"
+    ],
+    "A62967-e23110": [
+      "abardanes"
+    ],
+    "A62967-e23190": [
+      "myrrhoe"
+    ],
+    "A62967-e23390": [
+      "arviola"
+    ],
+    "A62967-e23450": [
+      "myrrhoe"
+    ],
+    "A62967-e23520": [
+      "arviola"
+    ],
+    "A62967-e23560": [
+      "myrrhoe"
+    ],
+    "A62967-e23610": [
+      "arviola"
+    ],
+    "A62967-e23690": [
+      "myrrhoe"
+    ],
+    "A62967-e23770": [
+      "arviola"
+    ],
+    "A62967-e23810": [
+      "myrrhoe"
+    ],
+    "A62967-e23880": [
+      "arviola"
+    ],
+    "A62967-e23930": [
+      "myrrhoe"
+    ],
+    "A62967-e23960": [
+      "arviola"
+    ],
+    "A62967-e24000": [
+      "myrrhoe"
+    ],
+    "A62967-e24030": [
+      "arviola"
+    ],
+    "A62967-e24190": [
+      "myrrhoe"
+    ],
+    "A62967-e24290": [
+      "arviola"
+    ],
+    "A62967-e24320": [
+      "myrrhoe"
+    ],
+    "A62967-e24390": [
+      "arviola"
+    ],
+    "A62967-e24540": [
+      "myrrhoe"
+    ],
+    "A62967-e24600": [
+      "arviola"
+    ],
+    "A62967-e24680": [
+      "myrrhoe"
+    ],
+    "A62967-e24710": [
+      "arviola"
+    ],
+    "A62967-e24790": [
+      "myrrhoe"
+    ],
+    "A62967-e24850": [
+      "arviola"
+    ],
+    "A62967-e25030": [
+      "myrrhoe"
+    ],
+    "A62967-e25060": [
+      "arviola"
+    ],
+    "A62967-e25210": [
+      "escalus"
+    ],
+    "A62967-e25240": [
+      "myrrhoe"
+    ],
+    "A62967-e25280": [
+      "escalus"
+    ],
+    "A62967-e25390": [
+      "myrrhoe"
+    ],
+    "A62967-e25430": [
+      "escalus"
+    ],
+    "A62967-e25520": [
+      "theron"
+    ],
+    "A62967-e25580": [
+      "officer-1"
+    ],
+    "A62967-e25630": [
+      "theocrin"
+    ],
+    "A62967-e25750": [
+      "officer-2"
+    ],
+    "A62967-e25820": [
+      "theocrin"
+    ],
+    "A62967-e25900": [
+      "officer-3"
+    ],
+    "A62967-e26010": [
+      "theocrin"
+    ],
+    "A62967-e26100": [
+      "officer-4"
+    ],
+    "A62967-e26140": [
+      "theocrin"
+    ],
+    "A62967-e26540": [
+      "myrrhoe"
+    ],
+    "A62967-e26580": [
+      "theocrin"
+    ],
+    "A62967-e26660": [
+      "myrrhoe"
+    ],
+    "A62967-e26720": [
+      "theocrin"
+    ],
+    "A62967-e26780": [
+      "myrrhoe"
+    ],
+    "A62967-e26820": [
+      "theocrin"
+    ],
+    "A62967-e26990": [
+      "abardanes"
+    ],
+    "A62967-e27030": [
+      "theocrin"
+    ],
+    "A62967-e27150": [
+      "abardanes"
+    ],
+    "A62967-e27220": [
+      "theocrin"
+    ],
+    "A62967-e27300": [
+      "abardanes"
+    ],
+    "A62967-e27400": [
+      "theocrin"
+    ],
+    "A62967-e27480": [
+      "king"
+    ],
+    "A62967-e27520": [
+      "theocrin"
+    ],
+    "A62967-e27560": [
+      "king"
+    ],
+    "A62967-e27650": [
+      "theocrin"
+    ],
+    "A62967-e27810": [
+      "arviola"
+    ],
+    "A62967-e27860": [
+      "theocrin"
+    ],
+    "A62967-e27970": [
+      "arviola"
+    ],
+    "A62967-e28040": [
+      "theocrin"
+    ],
+    "A62967-e28110": [
+      "arviola"
+    ],
+    "A62967-e28150": [
+      "theocrin"
+    ],
+    "A62967-e28190": [
+      "arviola"
+    ],
+    "A62967-e28220": [
+      "theocrin"
+    ],
+    "A62967-e28250": [
+      "arviola"
+    ],
+    "A62967-e28330": [
+      "theocrin"
+    ],
+    "A62967-e28380": [
+      "arviola"
+    ],
+    "A62967-e28420": [
+      "theocrin"
+    ],
+    "A62967-e28630": [
+      "arviola"
+    ],
+    "A62967-e28660": [
+      "theocrin"
+    ],
+    "A62967-e28990": [
+      "abardanes"
+    ],
+    "A62967-e29110": [
+      "sossacles"
+    ],
+    "A62967-e29170": [
+      "abardanes"
+    ],
+    "A62967-e29380": [
+      "sossacles"
+    ],
+    "A62967-e29420": [
+      "abardanes"
+    ],
+    "A62967-e29560": [
+      "escalus"
+    ],
+    "A62967-e29590": [
+      "abardanes"
+    ],
+    "A62967-e29630": [
+      "escalus"
+    ],
+    "A62967-e29790": [
+      "abardanes"
+    ],
+    "A62967-e29890": [
+      "escalus"
+    ],
+    "A62967-e29920": [
+      "myrrhoe"
+    ],
+    "A62967-e29950": [
+      "escalus"
+    ],
+    "A62967-e29980": [
+      "myrrhoe"
+    ],
+    "A62967-e30020": [
+      "escalus"
+    ],
+    "A62967-e30050": [
+      "myrrhoe"
+    ],
+    "A62967-e30090": [
+      "escalus"
+    ],
+    "A62967-e30120": [
+      "myrrhoe"
+    ],
+    "A62967-e30170": [
+      "escalus"
+    ],
+    "A62967-e30370": [
+      "theocrin"
+    ],
+    "A62967-e30690": [
+      "officer-1"
+    ],
+    "A62967-e30730": [
+      "officer-2"
+    ],
+    "A62967-e30760": [
+      "officer-3"
+    ],
+    "A62967-e30800": [
+      "officer-4"
+    ],
+    "A62967-e30860": [
+      "theocrin"
+    ],
+    "A62967-e30950": [
+      "officer-1"
+    ],
+    "A62967-e30990": [
+      "theocrin"
+    ],
+    "A62967-e31020": [
+      "officer-2"
+    ],
+    "A62967-e31070": [
+      "theocrin"
+    ],
+    "A62967-e31180": [
+      "officer-3"
+    ],
+    "A62967-e31210": [
+      "theocrin"
+    ],
+    "A62967-e31400": [
+      "officer-4"
+    ],
+    "A62967-e31430": [
+      "theocrin"
+    ],
+    "A62967-e31490": [
+      "officer-1"
+    ],
+    "A62967-e31540": [
+      "theocrin"
+    ],
+    "A62967-e31570": [
+      "officer-1"
+    ],
+    "A62967-e31610": [
+      "theocrin"
+    ],
+    "A62967-e31640": [
+      "officer-1"
+    ],
+    "A62967-e31670": [
+      "theocrin"
+    ],
+    "A62967-e31760": [
+      "officer-3"
+    ],
+    "A62967-e31800": [
+      "theocrin"
+    ],
+    "A62967-e31880": [
+      "officer-1"
+    ],
+    "A62967-e31940": [
+      "theocrin"
+    ],
+    "A62967-e32140": [
+      "hermite"
+    ],
+    "A62967-e32280": [
+      "edraste"
+    ],
+    "A62967-e32450": [
+      "theocrin"
+    ],
+    "A62967-e32570": [
+      "edraste"
+    ],
+    "A62967-e32700": [
+      "arviola"
+    ],
+    "A62967-e32790": [
+      "myrrhoe"
+    ],
+    "A62967-e32870": [
+      "arviola"
+    ],
+    "A62967-e32950": [
+      "priest-1"
+    ],
+    "A62967-e33040": [
+      "myrrhoe"
+    ],
+    "A62967-e33090": [
+      "priest-1"
+    ],
+    "A62967-e33160": [
+      "myrrhoe"
+    ],
+    "A62967-e33210": [
+      "priest-2"
+    ],
+    "A62967-e33310": [
+      "arviola"
+    ],
+    "A62967-e33490": [
+      "escalus"
+    ],
+    "A62967-e33520": [
+      "arviola"
+    ],
+    "A62967-e33560": [
+      "escalus"
+    ],
+    "A62967-e33600": [
+      "arviola"
+    ],
+    "A62967-e33640": [
+      "escalus"
+    ],
+    "A62967-e33720": [
+      "officer-4"
+    ],
+    "A62967-e33790": [
+      "officer-2"
+    ],
+    "A62967-e33820": [
+      "officer-3"
+    ],
+    "A62967-e33850": [
+      "officer-2"
+    ],
+    "A62967-e33950": [
+      "escalus"
+    ],
+    "A62967-e34180": [
+      "theocrin"
+    ],
+    "A62967-e34240": [
+      "edraste"
+    ],
+    "A62967-e34310": [
+      "theocrin"
+    ],
+    "A62967-e34350": [
+      "edraste"
+    ],
+    "A62967-e34380": [
+      "theocrin"
+    ],
+    "A62967-e34440": [
+      "edraste"
+    ],
+    "A62967-e34470": [
+      "theocrin"
+    ],
+    "A62967-e34590": [
+      "edraste"
+    ],
+    "A62967-e34660": [
+      "theocrin"
+    ],
+    "A62967-e34830": [
+      "damocles"
+    ],
+    "A62967-e34970": [
+      "theocrin"
+    ],
+    "A62967-e35060": [
+      "edraste"
+    ],
+    "A62967-e35100": [
+      "theocrin"
+    ],
+    "A62967-e35210": [
+      "king"
+    ],
+    "A62967-e35340": [
+      "escalus"
+    ],
+    "A62967-e35410": [
+      "king"
+    ],
+    "A62967-e35440": [
+      "priest-2"
+    ],
+    "A62967-e35490": [
+      "king"
+    ],
+    "A62967-e35550": [
+      "theron"
+    ],
+    "A62967-e35600": [
+      "abardanes"
+    ],
+    "A62967-e35640": [
+      "king"
+    ],
+    "A62967-e35670": [
+      "abardanes"
+    ],
+    "A62967-e35740": [
+      "escalus"
+    ],
+    "A62967-e35770": [
+      "abardanes"
+    ],
+    "A62967-e35830": [
+      "king"
+    ],
+    "A62967-e35880": [
+      "abardanes"
+    ],
+    "A62967-e35970": [
+      "king"
+    ],
+    "A62967-e36080": [
+      "diphilus"
+    ],
+    "A62967-e36130": [
+      "king"
+    ],
+    "A62967-e36240": [
+      "theocrin"
+    ],
+    "A62967-e36290": [
+      "edraste"
+    ],
+    "A62967-e36370": [
+      "theocrin"
+    ],
+    "A62967-e36400": [
+      "edraste"
+    ],
+    "A62967-e36490": [
+      "arviola"
+    ],
+    "A62967-e36530": [
+      "theocrin"
+    ],
+    "A62967-e36590": [
+      "arviola"
+    ],
+    "A62967-e36690": [
+      "theocrin"
+    ],
+    "A62967-e36780": [
+      "arviola"
+    ],
+    "A62967-e36830": [
+      "theocrin"
+    ],
+    "A62967-e36930": [
+      "arviola"
+    ],
+    "A62967-e36970": [
+      "theocrin"
+    ],
+    "A62967-e37100": [
+      "arviola"
+    ],
+    "A62967-e37140": [
+      "theocrin"
+    ],
+    "A62967-e37220": [
+      "arviola"
+    ],
+    "A62967-e37300": [
+      "theocrin"
+    ],
+    "A62967-e37360": [
+      "arviola"
+    ],
+    "A62967-e37410": [
+      "myrrhoe"
+    ],
+    "A62967-e37450": [
+      "theocrin"
+    ],
+    "A62967-e37480": [
+      "myrrhoe"
+    ],
+    "A62967-e37590": [
+      "arviola"
+    ],
+    "A62967-e37620": [
+      "myrrhoe"
+    ],
+    "A62967-e37760": [
+      "theocrin"
+    ],
+    "A62967-e37790": [
+      "arviola"
+    ],
+    "A62967-e37820": [
+      "myrrhoe"
+    ],
+    "A62967-e38000": [
+      "theocrin"
+    ],
+    "A62967-e38060": [
+      "arviola"
+    ],
+    "A62967-e38140": [
+      "theocrin"
+    ],
+    "A62967-e38190": [
+      "arviola"
+    ],
+    "A62967-e38270": [
+      "theocrin"
+    ],
+    "A62967-e38310": [
+      "arviola"
+    ],
+    "A62967-e38370": [
+      "theocrin"
+    ],
+    "A62967-e38400": [
+      "arviola"
+    ],
+    "A62967-e38430": [
+      "theocrin"
+    ],
+    "A62967-e38500": [
+      "arviola"
+    ],
+    "A62967-e38530": [
+      "theocrin"
+    ],
+    "A62967-e38630": [
+      "theron"
+    ],
+    "A62967-e38710": [
+      "king"
+    ],
+    "A62967-e38810": [
+      "escalus"
+    ],
+    "A62967-e38860": [
+      "king"
+    ],
+    "A62967-e38960": [
+      "escalus"
+    ],
+    "A62967-e39010": [
+      "king"
+    ],
+    "A62967-e39040": [
+      "theron",
+      "diphilus",
+      "attendant",
+      "hermite",
+      "guards"
+    ],
+    "A62967-e39100": [
+      "diphilus"
+    ],
+    "A62967-e39130": [
+      "king"
+    ],
+    "A62967-e39160": [
+      "messenger"
+    ],
+    "A62967-e39210": [
+      "king"
+    ],
+    "A62967-e39260": [
+      "escalus"
+    ],
+    "A62967-e39290": [
+      "king"
+    ],
+    "A62967-e39400": [
+      "escalus"
+    ],
+    "A62967-e39480": [
+      "king"
+    ],
+    "A62967-e39570": [
+      "theron"
+    ],
+    "A62967-e39620": [
+      "king"
+    ]
+  }
+}

@@ -1,0 +1,2564 @@
+{
+  "particDesc": [
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Townsman 4",
+      "id": "townsman-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Townsman 3",
+      "id": "townsman-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Townsman 2",
+      "id": "townsman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Townsman 1",
+      "id": "townsman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen",
+      "id": "citizen",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Moor 2",
+      "id": "moor-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Moor 1",
+      "id": "moor-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ruy Dias",
+      "id": "ruy-dias",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Pymero",
+      "id": "pymero",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "armusia",
+      "name": "Armusia",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "christophero",
+      "name": "Christophero",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "emanuel",
+      "name": "Emanuel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "soza",
+      "name": "Soza",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pyniero",
+      "name": "Pyniero",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pedro",
+      "name": "Pedro",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "governour",
+      "name": "Governour",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bakam",
+      "name": "Bakam",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "syana",
+      "name": "Syana",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "captain",
+      "name": "Captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "keeper",
+      "name": "Keeper",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "quisara",
+      "name": "Quisara",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "quisana",
+      "name": "Quisana",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "panura",
+      "name": "Panura",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A39805-e1010": [
+      "pymero"
+    ],
+    "A39805-e1180": [
+      "christophero"
+    ],
+    "A39805-e1270": [
+      "pymero"
+    ],
+    "A39805-e1440": [
+      "pedro"
+    ],
+    "A39805-e1600": [
+      "pymero"
+    ],
+    "A39805-e1670": [
+      "christophero"
+    ],
+    "A39805-e1710": [
+      "pymero"
+    ],
+    "A39805-e1800": [
+      "pedro"
+    ],
+    "A39805-e1840": [
+      "pymero"
+    ],
+    "A39805-e1910": [
+      "christophero"
+    ],
+    "A39805-e1990": [
+      "pymero"
+    ],
+    "A39805-e2130": [
+      "christophero"
+    ],
+    "A39805-e2180": [
+      "pymero"
+    ],
+    "A39805-e2240": [
+      "pedro"
+    ],
+    "A39805-e2280": [
+      "pymero"
+    ],
+    "A39805-e2380": [
+      "pymero"
+    ],
+    "A39805-e2430": [
+      "pedro"
+    ],
+    "A39805-e2470": [
+      "pymero"
+    ],
+    "A39805-e2520": [
+      "christophero"
+    ],
+    "A39805-e2620": [
+      "pymero"
+    ],
+    "A39805-e2710": [
+      "pedro"
+    ],
+    "A39805-e2750": [
+      "pymero"
+    ],
+    "A39805-e2800": [
+      "pedro"
+    ],
+    "A39805-e2850": [
+      "pymero"
+    ],
+    "A39805-e2890": [
+      "christophero"
+    ],
+    "A39805-e2950": [
+      "pedro"
+    ],
+    "A39805-e2990": [
+      "pymero"
+    ],
+    "A39805-e3110": [
+      "christophero"
+    ],
+    "A39805-e3170": [
+      "pymero"
+    ],
+    "A39805-e3230": [
+      "pedro"
+    ],
+    "A39805-e3270": [
+      "pymero"
+    ],
+    "A39805-e3350": [
+      "quisara"
+    ],
+    "A39805-e3490": [
+      "quisana"
+    ],
+    "A39805-e3530": [
+      "quisara"
+    ],
+    "A39805-e3610": [
+      "quisana"
+    ],
+    "A39805-e3660": [
+      "quisara"
+    ],
+    "A39805-e3700": [
+      "ruy-dias"
+    ],
+    "A39805-e3750": [
+      "quisana"
+    ],
+    "A39805-e3840": [
+      "quisara"
+    ],
+    "A39805-e3890": [
+      "quisana"
+    ],
+    "A39805-e3970": [
+      "quisara"
+    ],
+    "A39805-e4030": [
+      "ruy-dias"
+    ],
+    "A39805-e4180": [
+      "quisara"
+    ],
+    "A39805-e4270": [
+      "ruy-dias"
+    ],
+    "A39805-e4310": [
+      "quisara"
+    ],
+    "A39805-e4360": [
+      "ruy-dias"
+    ],
+    "A39805-e4410": [
+      "quisara"
+    ],
+    "A39805-e4480": [
+      "ruy-dias"
+    ],
+    "A39805-e4520": [
+      "quisara"
+    ],
+    "A39805-e4700": [
+      "ruy-dias"
+    ],
+    "A39805-e4760": [
+      "quisara"
+    ],
+    "A39805-e4920": [
+      "ruy-dias"
+    ],
+    "A39805-e5010": [
+      "quisara"
+    ],
+    "A39805-e5150": [
+      "pymero"
+    ],
+    "A39805-e5210": [
+      "armusia"
+    ],
+    "A39805-e5260": [
+      "pymero"
+    ],
+    "A39805-e5320": [
+      "armusia"
+    ],
+    "A39805-e5380": [
+      "christophero"
+    ],
+    "A39805-e5460": [
+      "soza"
+    ],
+    "A39805-e5520": [
+      "armusia"
+    ],
+    "A39805-e5560": [
+      "pymero"
+    ],
+    "A39805-e5600": [
+      "armusia"
+    ],
+    "A39805-e5660": [
+      "pymero"
+    ],
+    "A39805-e5720": [
+      "emanuel"
+    ],
+    "A39805-e5770": [
+      "pymero"
+    ],
+    "A39805-e5830": [
+      "soza"
+    ],
+    "A39805-e5870": [
+      "pymero"
+    ],
+    "A39805-e5920": [
+      "armusia"
+    ],
+    "A39805-e5960": [
+      "pymero"
+    ],
+    "A39805-e6000": [
+      "christophero"
+    ],
+    "A39805-e6040": [
+      "pymero"
+    ],
+    "A39805-e6080": [
+      "armusia"
+    ],
+    "A39805-e6130": [
+      "bakam"
+    ],
+    "A39805-e6190": [
+      "syana"
+    ],
+    "A39805-e6230": [
+      "bakam"
+    ],
+    "A39805-e6290": [
+      "pymero"
+    ],
+    "A39805-e6340": [
+      "syana"
+    ],
+    "A39805-e6390": [
+      "bakam"
+    ],
+    "A39805-e6440": [
+      "pymero"
+    ],
+    "A39805-e6490": [
+      "governour"
+    ],
+    "A39805-e6530": [
+      "bakam"
+    ],
+    "A39805-e6590": [
+      "governour"
+    ],
+    "A39805-e6640": [
+      "bakam"
+    ],
+    "A39805-e6680": [
+      "governour"
+    ],
+    "A39805-e6750": [
+      "bakam"
+    ],
+    "A39805-e6860": [
+      "syana"
+    ],
+    "A39805-e6940": [
+      "governour"
+    ],
+    "A39805-e7000": [
+      "syana"
+    ],
+    "A39805-e7090": [
+      "governour"
+    ],
+    "A39805-e7140": [
+      "bakam"
+    ],
+    "A39805-e7180": [
+      "governour"
+    ],
+    "A39805-e7220": [
+      "bakam"
+    ],
+    "A39805-e7290": [
+      "pymero"
+    ],
+    "A39805-e7340": [
+      "governour"
+    ],
+    "A39805-e7380": [
+      "syana"
+    ],
+    "A39805-e7420": [
+      "governour"
+    ],
+    "A39805-e7480": [
+      "pymero"
+    ],
+    "A39805-e7540": [
+      "armusia"
+    ],
+    "A39805-e7580": [
+      "ruy-dias"
+    ],
+    "A39805-e7640": [
+      "governour"
+    ],
+    "A39805-e7680": [
+      "armusia"
+    ],
+    "A39805-e7730": [
+      "pymero"
+    ],
+    "A39805-e7770": [
+      "armusia"
+    ],
+    "A39805-e7820": [
+      "quisara"
+    ],
+    "A39805-e7920": [
+      "ruy-dias",
+	  "quisana",
+	  "panura"
+    ],
+    "A39805-e7960": [
+      "armusia"
+    ],
+    "A39805-e8010": [
+      "quisara"
+    ],
+    "A39805-e8130": [
+      "ruy-dias",
+	  "quisana",
+	  "panura"
+    ],
+    "A39805-e8170": [
+      "quisara"
+    ],
+    "A39805-e8220": [
+      "pymero"
+    ],
+    "A39805-e8300": [
+      "quisara"
+    ],
+    "A39805-e8540": [
+      "christophero"
+    ],
+    "A39805-e8580": [
+      "quisara"
+    ],
+    "A39805-e8700": [
+      "ruy-dias"
+    ],
+    "A39805-e8770": [
+      "quisara"
+    ],
+    "A39805-e8830": [
+      "bakam"
+    ],
+    "A39805-e8890": [
+      "governour"
+    ],
+    "A39805-e8940": [
+      "syana"
+    ],
+    "A39805-e9000": [
+      "quisara"
+    ],
+    "A39805-e9050": [
+      "governour"
+    ],
+    "A39805-e9170": [
+      "quisara"
+    ],
+    "A39805-e9260": [
+      "pymero"
+    ],
+    "A39805-e9300": [
+      "armusia"
+    ],
+    "A39805-e9340": [
+      "governour"
+    ],
+    "A39805-e9380": [
+      "quisara"
+    ],
+    "A39805-e9430": [
+      "governour"
+    ],
+    "A39805-e9490": [
+      "quisara"
+    ],
+    "A39805-e9620": [
+      "pymero"
+    ],
+    "A39805-e9660": [
+      "armusia"
+    ],
+    "A39805-e9700": [
+      "governour"
+    ],
+    "A39805-e9890": [
+      "quisara"
+    ],
+    "A39805-e9940": [
+      "bakam"
+    ],
+    "A39805-e9980": [
+      "syana"
+    ],
+    "A39805-e10020": [
+      "ruy-dias"
+    ],
+    "A39805-e10110": [
+      "armusia"
+    ],
+    "A39805-e10150": [
+      "soza"
+    ],
+    "A39805-e10200": [
+      "emanuel"
+    ],
+    "A39805-e10260": [
+      "armusia"
+    ],
+    "A39805-e10330": [
+      "soza"
+    ],
+    "A39805-e10390": [
+      "armusia"
+    ],
+    "A39805-e10430": [
+      "emanuel"
+    ],
+    "A39805-e10470": [
+      "armusia"
+    ],
+    "A39805-e10530": [
+      "soza"
+    ],
+    "A39805-e10580": [
+      "emanuel"
+    ],
+    "A39805-e10620": [
+      "armusia"
+    ],
+    "A39805-e10710": [
+      "soza"
+    ],
+    "A39805-e10760": [
+      "armusia"
+    ],
+    "A39805-e10900": [
+      "keeper"
+    ],
+    "A39805-e11030": [
+      "moor-1"
+    ],
+    "A39805-e11130": [
+      "moor-2"
+    ],
+    "A39805-e11190": [
+      "keeper"
+    ],
+    "A39805-e11290": [
+      "moor-1"
+    ],
+    "A39805-e11350": [
+      "keeper"
+    ],
+    "A39805-e11440": [
+      "moor-2"
+    ],
+    "A39805-e11490": [
+      "moor-1"
+    ],
+    "A39805-e11530": [
+      "moor-2"
+    ],
+    "A39805-e11610": [
+      "keeper"
+    ],
+    "A39805-e11670": [
+      "king"
+    ],
+    "A39805-e11760": [
+      "governour"
+    ],
+    "A39805-e11800": [
+      "keeper"
+    ],
+    "A39805-e11840": [
+      "governour"
+    ],
+    "A39805-e11890": [
+      "king"
+    ],
+    "A39805-e11930": [
+      "governour"
+    ],
+    "A39805-e11970": [
+      "king"
+    ],
+    "A39805-e12010": [
+      "governour"
+    ],
+    "A39805-e12070": [
+      "king"
+    ],
+    "A39805-e12120": [
+      "governour"
+    ],
+    "A39805-e12250": [
+      "king"
+    ],
+    "A39805-e12390": [
+      "governour"
+    ],
+    "A39805-e12430": [
+      "king"
+    ],
+    "A39805-e12560": [
+      "governour"
+    ],
+    "A39805-e12610": [
+      "king"
+    ],
+    "A39805-e12680": [
+      "governour"
+    ],
+    "A39805-e12720": [
+      "king"
+    ],
+    "A39805-e12800": [
+      "governour"
+    ],
+    "A39805-e12980": [
+      "keeper"
+    ],
+    "A39805-e13060": [
+      "armusia"
+    ],
+    "A39805-e13110": [
+      "soza",
+	  "emanuel"
+    ],
+    "A39805-e13150": [
+      "armusia"
+    ],
+    "A39805-e13210": [
+      "soza"
+    ],
+    "A39805-e13260": [
+      "emanuel"
+    ],
+    "A39805-e13300": [
+      "armusia"
+    ],
+    "A39805-e13390": [
+      "soza"
+    ],
+    "A39805-e13430": [
+      "armusia"
+    ],
+    "A39805-e13500": [
+      "emanuel"
+    ],
+    "A39805-e13540": [
+      "armusia"
+    ],
+    "A39805-e13600": [
+      "soza"
+    ],
+    "A39805-e13650": [
+      "armusia"
+    ],
+    "A39805-e13710": [
+      "emanuel"
+    ],
+    "A39805-e13760": [
+      "armusia"
+    ],
+    "A39805-e13850": [
+      "soza"
+    ],
+    "A39805-e13890": [
+      "armusia"
+    ],
+    "A39805-e13960": [
+      "emanuel"
+    ],
+    "A39805-e14000": [
+      "armusia"
+    ],
+    "A39805-e14130": [
+      "soza"
+    ],
+    "A39805-e14170": [
+      "armusia"
+    ],
+    "A39805-e14270": [
+      "emanuel"
+    ],
+    "A39805-e14310": [
+      "armusia"
+    ],
+    "A39805-e14360": [
+      "soza"
+    ],
+    "A39805-e14410": [
+      "armusia"
+    ],
+    "A39805-e14500": [
+      "emanuel"
+    ],
+    "A39805-e14540": [
+      "armusia"
+    ],
+    "A39805-e14610": [
+      "soza"
+    ],
+    "A39805-e14690": [
+      "governour"
+    ],
+    "A39805-e14760": [
+      "captain"
+    ],
+    "A39805-e14800": [
+      "governour"
+    ],
+    "A39805-e14840": [
+      "captain"
+    ],
+    "A39805-e14890": [
+      "governour"
+    ],
+    "A39805-e15010": [
+      "captain"
+    ],
+    "A39805-e15070": [
+      "governour"
+    ],
+    "A39805-e15180": [
+      "captain"
+    ],
+    "A39805-e15240": [
+      "governour"
+    ],
+    "A39805-e15320": [
+      "governour"
+    ],
+    "A39805-e15460": [
+      "citizen"
+    ],
+    "A39805-e15500": [
+      "governour"
+    ],
+    "A39805-e15540": [
+      "citizen"
+    ],
+    "A39805-e15590": [
+      "governour"
+    ],
+    "A39805-e15660": [
+      "captain"
+    ],
+    "A39805-e15740": [
+      "governour"
+    ],
+    "A39805-e15780": [
+      "captain"
+    ],
+    "A39805-e15830": [
+      "governour"
+    ],
+    "A39805-e16010": [
+      "armusia"
+    ],
+    "A39805-e16060": [
+      "soza"
+    ],
+    "A39805-e16170": [
+      "captain"
+    ],
+    "A39805-e16210": [
+      "citizen"
+    ],
+    "A39805-e16250": [
+      "captain"
+    ],
+    "A39805-e16360": [
+      "armusia"
+    ],
+    "A39805-e16410": [
+      "soldier"
+    ],
+    "A39805-e16450": [
+      "armusia"
+    ],
+    "A39805-e16520": [
+      "king"
+    ],
+    "A39805-e16640": [
+      "emanuel"
+    ],
+    "A39805-e16680": [
+      "king"
+    ],
+    "A39805-e16720": [
+      "armusia"
+    ],
+    "A39805-e16800": [
+      "soza"
+    ],
+    "A39805-e16860": [
+      "armusia"
+    ],
+    "A39805-e16900": [
+      "soza"
+    ],
+    "A39805-e16940": [
+      "armusia"
+    ],
+    "A39805-e16980": [
+      "emanuel"
+    ],
+    "A39805-e17020": [
+      "armusia"
+    ],
+    "A39805-e17090": [
+      "soza"
+    ],
+    "A39805-e17160": [
+      "townsman-1"
+    ],
+    "A39805-e17190": [
+      "townsman-2"
+    ],
+    "A39805-e17220": [
+      "townsman-3"
+    ],
+    "A39805-e17250": [
+      "townsman-2"
+    ],
+    "A39805-e17280": [
+      "townsman-4"
+    ],
+    "A39805-e17310": [
+      "townsman-1"
+    ],
+    "A39805-e17340": [
+      "townsman-2"
+    ],
+    "A39805-e17370": [
+      "townsman-1"
+    ],
+    "A39805-e17410": [
+      "townsman-2"
+    ],
+    "A39805-e17440": [
+      "townsman-4"
+    ],
+    "A39805-e17470": [
+      "townsman-2"
+    ],
+    "A39805-e17500": [
+      "townsman-4"
+    ],
+    "A39805-e17530": [
+      "townsman-2"
+    ],
+    "A39805-e17560": [
+      "townsman-3"
+    ],
+    "A39805-e17590": [
+      "townsman-2"
+    ],
+    "A39805-e17620": [
+      "townsman-1"
+    ],
+    "A39805-e17650": [
+      "townsman-4"
+    ],
+    "A39805-e17680": [
+      "townsman-2"
+    ],
+    "A39805-e17710": [
+      "townsman-3"
+    ],
+    "A39805-e17740": [
+      "townsman-2"
+    ],
+    "A39805-e17770": [
+      "townsman-4"
+    ],
+    "A39805-e17800": [
+      "townsman-2"
+    ],
+    "A39805-e17830": [
+      "townsman-1"
+    ],
+    "A39805-e17860": [
+      "townsman-2"
+    ],
+    "A39805-e17890": [
+      "townsman-4"
+    ],
+    "A39805-e17920": [
+      "townsman-2"
+    ],
+    "A39805-e17950": [
+      "townsman-3"
+    ],
+    "A39805-e17980": [
+      "townsman-2"
+    ],
+    "A39805-e18010": [
+      "townsman-3"
+    ],
+    "A39805-e18040": [
+      "townsman-2"
+    ],
+    "A39805-e18070": [
+      "townsman-3"
+    ],
+    "A39805-e18100": [
+      "townsman-2"
+    ],
+    "A39805-e18130": [
+      "townsman-1"
+    ],
+    "A39805-e18200": [
+      "governour"
+    ],
+    "A39805-e18260": [
+      "captain"
+    ],
+    "A39805-e18300": [
+      "soldier"
+    ],
+    "A39805-e18370": [
+      "governour"
+    ],
+    "A39805-e18440": [
+      "soldier"
+    ],
+    "A39805-e18520": [
+      "governour"
+    ],
+    "A39805-e18570": [
+      "captain"
+    ],
+    "A39805-e18610": [
+      "governour"
+    ],
+    "A39805-e18740": [
+      "captain"
+    ],
+    "A39805-e18810": [
+      "quisara"
+    ],
+    "A39805-e18930": [
+      "ruy-dias"
+    ],
+    "A39805-e18970": [
+      "quisara"
+    ],
+    "A39805-e19010": [
+      "ruy-dias"
+    ],
+    "A39805-e19050": [
+      "quisara"
+    ],
+    "A39805-e19160": [
+      "ruy-dias"
+    ],
+    "A39805-e19240": [
+      "quisara"
+    ],
+    "A39805-e19280": [
+      "ruy-dias"
+    ],
+    "A39805-e19330": [
+      "quisara"
+    ],
+    "A39805-e19370": [
+      "ruy-dias"
+    ],
+    "A39805-e19410": [
+      "quisara"
+    ],
+    "A39805-e19460": [
+      "ruy-dias"
+    ],
+    "A39805-e19600": [
+      "pymero"
+    ],
+    "A39805-e19640": [
+      "ruy-dias"
+    ],
+    "A39805-e19690": [
+      "pymero"
+    ],
+    "A39805-e19730": [
+      "ruy-dias"
+    ],
+    "A39805-e19770": [
+      "pymero"
+    ],
+    "A39805-e19820": [
+      "ruy-dias"
+    ],
+    "A39805-e19860": [
+      "pymero"
+    ],
+    "A39805-e19910": [
+      "ruy-dias"
+    ],
+    "A39805-e19950": [
+      "pymero"
+    ],
+    "A39805-e20000": [
+      "christophero"
+    ],
+    "A39805-e20040": [
+      "ruy-dias"
+    ],
+    "A39805-e20090": [
+      "christophero"
+    ],
+    "A39805-e20170": [
+      "pymero"
+    ],
+    "A39805-e20300": [
+      "ruy-dias"
+    ],
+    "A39805-e20360": [
+      "christophero"
+    ],
+    "A39805-e20400": [
+      "pymero"
+    ],
+    "A39805-e20450": [
+      "ruy-dias"
+    ],
+    "A39805-e20490": [
+      "pymero"
+    ],
+    "A39805-e20540": [
+      "christophero"
+    ],
+    "A39805-e20580": [
+      "pymero"
+    ],
+    "A39805-e20710": [
+      "ruy-dias"
+    ],
+    "A39805-e20750": [
+      "pymero"
+    ],
+    "A39805-e20870": [
+      "quisara"
+    ],
+    "A39805-e20950": [
+      "pymero"
+    ],
+    "A39805-e21010": [
+      "quisara"
+    ],
+    "A39805-e21070": [
+      "pymero"
+    ],
+    "A39805-e21140": [
+      "quisara"
+    ],
+    "A39805-e21210": [
+      "pymero"
+    ],
+    "A39805-e21290": [
+      "quisara"
+    ],
+    "A39805-e21360": [
+      "quisara"
+    ],
+    "A39805-e21420": [
+      "king"
+    ],
+    "A39805-e21470": [
+      "ruy-dias"
+    ],
+    "A39805-e21580": [
+      "king"
+    ],
+    "A39805-e21620": [
+      "ruy-dias"
+    ],
+    "A39805-e21670": [
+      "king"
+    ],
+    "A39805-e21710": [
+      "pymero"
+    ],
+    "A39805-e21770": [
+      "bakam"
+    ],
+    "A39805-e21850": [
+      "pymero"
+    ],
+    "A39805-e21920": [
+      "syana"
+    ],
+    "A39805-e21980": [
+      "king"
+    ],
+    "A39805-e22130": [
+      "armusia"
+    ],
+    "A39805-e22240": [
+      "king"
+    ],
+    "A39805-e22310": [
+      "armusia"
+    ],
+    "A39805-e22390": [
+      "king"
+    ],
+    "A39805-e22450": [
+      "armusia"
+    ],
+    "A39805-e22540": [
+      "king"
+    ],
+    "A39805-e22610": [
+      "quisara"
+    ],
+    "A39805-e22720": [
+      "king"
+    ],
+    "A39805-e22850": [
+      "armusia"
+    ],
+    "A39805-e22890": [
+      "king"
+    ],
+    "A39805-e22940": [
+      "ruy-dias"
+    ],
+    "A39805-e22990": [
+      "quisara"
+    ],
+    "A39805-e23050": [
+      "pymero"
+    ],
+    "A39805-e23100": [
+      "soza"
+    ],
+    "A39805-e23140": [
+      "christophero"
+    ],
+    "A39805-e23190": [
+      "pymero"
+    ],
+    "A39805-e23480": [
+      "ruy-dias"
+    ],
+    "A39805-e23520": [
+      "pymero"
+    ],
+    "A39805-e23570": [
+      "ruy-dias"
+    ],
+    "A39805-e23610": [
+      "pymero"
+    ],
+    "A39805-e23650": [
+      "ruy-dias"
+    ],
+    "A39805-e23690": [
+      "pymero"
+    ],
+    "A39805-e23740": [
+      "ruy-dias"
+    ],
+    "A39805-e23810": [
+      "pymero"
+    ],
+    "A39805-e23850": [
+      "ruy-dias"
+    ],
+    "A39805-e23900": [
+      "pymero"
+    ],
+    "A39805-e23960": [
+      "ruy-dias"
+    ],
+    "A39805-e24030": [
+      "pymero"
+    ],
+    "A39805-e24070": [
+      "ruy-dias"
+    ],
+    "A39805-e24160": [
+      "pymero"
+    ],
+    "A39805-e24200": [
+      "ruy-dias"
+    ],
+    "A39805-e24250": [
+      "pymero"
+    ],
+    "A39805-e24330": [
+      "ruy-dias"
+    ],
+    "A39805-e24370": [
+      "pymero"
+    ],
+    "A39805-e24420": [
+      "ruy-dias"
+    ],
+    "A39805-e24510": [
+      "pymero"
+    ],
+    "A39805-e24570": [
+      "ruy-dias"
+    ],
+    "A39805-e24690": [
+      "pymero"
+    ],
+    "A39805-e24790": [
+      "ruy-dias"
+    ],
+    "A39805-e24840": [
+      "pymero"
+    ],
+    "A39805-e24930": [
+      "ruy-dias"
+    ],
+    "A39805-e25000": [
+      "pymero"
+    ],
+    "A39805-e25130": [
+      "emanuel"
+    ],
+    "A39805-e25230": [
+      "soza"
+    ],
+    "A39805-e25270": [
+      "armusia"
+    ],
+    "A39805-e25370": [
+      "soza"
+    ],
+    "A39805-e25440": [
+      "armusia"
+    ],
+    "A39805-e25480": [
+      "soza"
+    ],
+    "A39805-e25560": [
+      "emanuel"
+    ],
+    "A39805-e25600": [
+      "soza"
+    ],
+    "A39805-e25680": [
+      "emanuel"
+    ],
+    "A39805-e25750": [
+      "armusia"
+    ],
+    "A39805-e25790": [
+      "emanuel"
+    ],
+    "A39805-e25840": [
+      "soza"
+    ],
+    "A39805-e25880": [
+      "armusia"
+    ],
+    "A39805-e25970": [
+      "soza"
+    ],
+    "A39805-e26010": [
+      "king"
+    ],
+    "A39805-e26080": [
+      "emanuel"
+    ],
+    "A39805-e26130": [
+      "king"
+    ],
+    "A39805-e26200": [
+      "armusia"
+    ],
+    "A39805-e26250": [
+      "king"
+    ],
+    "A39805-e26330": [
+      "armusia"
+    ],
+    "A39805-e26400": [
+      "king"
+    ],
+    "A39805-e26510": [
+      "armusia"
+    ],
+    "A39805-e26610": [
+      "panura"
+    ],
+    "A39805-e26680": [
+      "armusia"
+    ],
+    "A39805-e26750": [
+      "panura"
+    ],
+    "A39805-e26810": [
+      "armusia"
+    ],
+    "A39805-e26870": [
+      "panura"
+    ],
+    "A39805-e26910": [
+      "armusia"
+    ],
+    "A39805-e26990": [
+      "panura"
+    ],
+    "A39805-e27090": [
+      "armusia"
+    ],
+    "A39805-e27140": [
+      "panura"
+    ],
+    "A39805-e27180": [
+      "armusia"
+    ],
+    "A39805-e27240": [
+      "panura"
+    ],
+    "A39805-e27290": [
+      "armusia"
+    ],
+    "A39805-e27330": [
+      "panura"
+    ],
+    "A39805-e27380": [
+      "armusia"
+    ],
+    "A39805-e27420": [
+      "panura"
+    ],
+    "A39805-e27490": [
+      "armusia"
+    ],
+    "A39805-e27540": [
+      "panura"
+    ],
+    "A39805-e27610": [
+      "quisara"
+    ],
+    "A39805-e27660": [
+      "quisana"
+    ],
+    "A39805-e27720": [
+      "quisara"
+    ],
+    "A39805-e27840": [
+      "quisana"
+    ],
+    "A39805-e27880": [
+      "quisara"
+    ],
+    "A39805-e27930": [
+      "panura"
+    ],
+    "A39805-e27980": [
+      "quisara"
+    ],
+    "A39805-e28030": [
+      "panura"
+    ],
+    "A39805-e28070": [
+      "quisara"
+    ],
+    "A39805-e28110": [
+      "panura"
+    ],
+    "A39805-e28150": [
+      "quisara"
+    ],
+    "A39805-e28210": [
+      "panura"
+    ],
+    "A39805-e28290": [
+      "quisara"
+    ],
+    "A39805-e28360": [
+      "armusia"
+    ],
+    "A39805-e28410": [
+      "quisara"
+    ],
+    "A39805-e28450": [
+      "armusia"
+    ],
+    "A39805-e28490": [
+      "quisara"
+    ],
+    "A39805-e28580": [
+      "armusia"
+    ],
+    "A39805-e28620": [
+      "quisara"
+    ],
+    "A39805-e28690": [
+      "armusia"
+    ],
+    "A39805-e28730": [
+      "quisara"
+    ],
+    "A39805-e28770": [
+      "armusia"
+    ],
+    "A39805-e28830": [
+      "quisara"
+    ],
+    "A39805-e28910": [
+      "armusia"
+    ],
+    "A39805-e28950": [
+      "quisara"
+    ],
+    "A39805-e29030": [
+      "armusia"
+    ],
+    "A39805-e29150": [
+      "quisara"
+    ],
+    "A39805-e29190": [
+      "armusia"
+    ],
+    "A39805-e29340": [
+      "quisara"
+    ],
+    "A39805-e29390": [
+      "armusia"
+    ],
+    "A39805-e29440": [
+      "quisara"
+    ],
+    "A39805-e29480": [
+      "armusia"
+    ],
+    "A39805-e29600": [
+      "quisara"
+    ],
+    "A39805-e29670": [
+      "armusia"
+    ],
+    "A39805-e29720": [
+      "quisara"
+    ],
+    "A39805-e29800": [
+      "armusia"
+    ],
+    "A39805-e29860": [
+      "ruy-dias"
+    ],
+    "A39805-e29900": [
+      "armusia"
+    ],
+    "A39805-e29950": [
+      "ruy-dias"
+    ],
+    "A39805-e29990": [
+      "armusia"
+    ],
+    "A39805-e30050": [
+      "ruy-dias"
+    ],
+    "A39805-e30100": [
+      "armusia"
+    ],
+    "A39805-e30140": [
+      "ruy-dias"
+    ],
+    "A39805-e30180": [
+      "armusia"
+    ],
+    "A39805-e30240": [
+      "ruy-dias"
+    ],
+    "A39805-e30280": [
+      "armusia"
+    ],
+    "A39805-e30370": [
+      "quisara"
+    ],
+    "A39805-e30430": [
+      "ruy-dias"
+    ],
+    "A39805-e30490": [
+      "quisara"
+    ],
+    "A39805-e30530": [
+      "ruy-dias"
+    ],
+    "A39805-e30600": [
+      "quisara"
+    ],
+    "A39805-e30640": [
+      "ruy-dias"
+    ],
+    "A39805-e30680": [
+      "quisara"
+    ],
+    "A39805-e30880": [
+      "ruy-dias"
+    ],
+    "A39805-e30920": [
+      "quisara"
+    ],
+    "A39805-e31040": [
+      "ruy-dias"
+    ],
+    "A39805-e31090": [
+      "quisara"
+    ],
+    "A39805-e31160": [
+      "ruy-dias"
+    ],
+    "A39805-e31310": [
+      "king"
+    ],
+    "A39805-e31390": [
+      "governour"
+    ],
+    "A39805-e31450": [
+      "king"
+    ],
+    "A39805-e31500": [
+      "governour"
+    ],
+    "A39805-e31680": [
+      "king"
+    ],
+    "A39805-e31720": [
+      "governour"
+    ],
+    "A39805-e31790": [
+      "king"
+    ],
+    "A39805-e31870": [
+      "governour"
+    ],
+    "A39805-e32070": [
+      "king"
+    ],
+    "A39805-e32110": [
+      "governour"
+    ],
+    "A39805-e32260": [
+      "king"
+    ],
+    "A39805-e32300": [
+      "governour"
+    ],
+    "A39805-e32380": [
+      "king"
+    ],
+    "A39805-e32420": [
+      "governour"
+    ],
+    "A39805-e32470": [
+      "king"
+    ],
+    "A39805-e32550": [
+      "governour"
+    ],
+    "A39805-e32650": [
+      "ruy-dias"
+    ],
+    "A39805-e32740": [
+      "pymero"
+    ],
+    "A39805-e32790": [
+      "ruy-dias"
+    ],
+    "A39805-e32870": [
+      "pymero"
+    ],
+    "A39805-e32910": [
+      "ruy-dias"
+    ],
+    "A39805-e32990": [
+      "pymero"
+    ],
+    "A39805-e33090": [
+      "ruy-dias"
+    ],
+    "A39805-e33150": [
+      "pymero"
+    ],
+    "A39805-e33190": [
+      "ruy-dias"
+    ],
+    "A39805-e33260": [
+      "pymero"
+    ],
+    "A39805-e33350": [
+      "ruy-dias"
+    ],
+    "A39805-e33420": [
+      "pymero"
+    ],
+    "A39805-e33470": [
+      "ruy-dias"
+    ],
+    "A39805-e33510": [
+      "pymero"
+    ],
+    "A39805-e33560": [
+      "ruy-dias"
+    ],
+    "A39805-e33610": [
+      "pymero"
+    ],
+    "A39805-e33680": [
+      "pymero"
+    ],
+    "A39805-e33750": [
+      "ruy-dias"
+    ],
+    "A39805-e33790": [
+      "pymero"
+    ],
+    "A39805-e33840": [
+      "ruy-dias"
+    ],
+    "A39805-e33880": [
+      "pymero"
+    ],
+    "A39805-e33960": [
+      "ruy-dias"
+    ],
+    "A39805-e34020": [
+      "pymero"
+    ],
+    "A39805-e34180": [
+      "governour"
+    ],
+    "A39805-e34230": [
+      "quisara"
+    ],
+    "A39805-e34280": [
+      "quisana"
+    ],
+    "A39805-e34350": [
+      "quisara"
+    ],
+    "A39805-e34390": [
+      "panura"
+    ],
+    "A39805-e34440": [
+      "governour"
+    ],
+    "A39805-e34500": [
+      "panura"
+    ],
+    "A39805-e34550": [
+      "governour"
+    ],
+    "A39805-e34590": [
+      "quisara"
+    ],
+    "A39805-e34630": [
+      "governour"
+    ],
+    "A39805-e34680": [
+      "quisara"
+    ],
+    "A39805-e34720": [
+      "governour"
+    ],
+    "A39805-e34810": [
+      "quisara"
+    ],
+    "A39805-e34850": [
+      "governour"
+    ],
+    "A39805-e34930": [
+      "quisara"
+    ],
+    "A39805-e35030": [
+      "governour"
+    ],
+    "A39805-e35230": [
+      "quisara"
+    ],
+    "A39805-e35300": [
+      "governour"
+    ],
+    "A39805-e35380": [
+      "quisara"
+    ],
+    "A39805-e35460": [
+      "panura"
+    ],
+    "A39805-e35520": [
+      "quisana"
+    ],
+    "A39805-e35560": [
+      "panura"
+    ],
+    "A39805-e35610": [
+      "quisana"
+    ],
+    "A39805-e35700": [
+      "armusia"
+    ],
+    "A39805-e35860": [
+      "emanuel"
+    ],
+    "A39805-e35910": [
+      "armusia"
+    ],
+    "A39805-e35960": [
+      "pymero"
+    ],
+    "A39805-e36040": [
+      "emanuel"
+    ],
+    "A39805-e36080": [
+      "pymero"
+    ],
+    "A39805-e36160": [
+      "armusia"
+    ],
+    "A39805-e36200": [
+      "ruy-dias"
+    ],
+    "A39805-e36280": [
+      "armusia"
+    ],
+    "A39805-e36330": [
+      "quisara"
+    ],
+    "A39805-e36370": [
+      "ruy-dias"
+    ],
+    "A39805-e36410": [
+      "governour"
+    ],
+    "A39805-e36470": [
+      "quisara"
+    ],
+    "A39805-e36550": [
+      "armusia"
+    ],
+    "A39805-e36620": [
+      "ruy-dias"
+    ],
+    "A39805-e36680": [
+      "armusia"
+    ],
+    "A39805-e36720": [
+      "ruy-dias"
+    ],
+    "A39805-e36770": [
+      "armusia"
+    ],
+    "A39805-e36810": [
+      "ruy-dias"
+    ],
+    "A39805-e36850": [
+      "armusia"
+    ],
+    "A39805-e36900": [
+      "pymero"
+    ],
+    "A39805-e36950": [
+      "governour"
+    ],
+    "A39805-e36990": [
+      "emanuel"
+    ],
+    "A39805-e37030": [
+      "ruy-dias"
+    ],
+    "A39805-e37070": [
+      "armusia"
+    ],
+    "A39805-e37110": [
+      "pymero"
+    ],
+    "A39805-e37160": [
+      "governour"
+    ],
+    "A39805-e37220": [
+      "pymero"
+    ],
+    "A39805-e37260": [
+      "emanuel"
+    ],
+    "A39805-e37300": [
+      "armusia"
+    ],
+    "A39805-e37370": [
+      "quisara"
+    ],
+    "A39805-e37420": [
+      "armusia"
+    ],
+    "A39805-e37460": [
+      "quisara"
+    ],
+    "A39805-e37510": [
+      "armusia"
+    ],
+    "A39805-e37550": [
+      "governour"
+    ],
+    "A39805-e37590": [
+      "quisara"
+    ],
+    "A39805-e37680": [
+      "armusia"
+    ],
+    "A39805-e37720": [
+      "pymero"
+    ],
+    "A39805-e37770": [
+      "armusia"
+    ],
+    "A39805-e37860": [
+      "pymero"
+    ],
+    "A39805-e37940": [
+      "armusia"
+    ],
+    "A39805-e38040": [
+      "pymero"
+    ],
+    "A39805-e38080": [
+      "ruy-dias"
+    ],
+    "A39805-e38150": [
+      "armusia"
+    ],
+    "A39805-e38240": [
+      "pymero"
+    ],
+    "A39805-e38320": [
+      "ruy-dias"
+    ],
+    "A39805-e38420": [
+      "governour"
+    ],
+    "A39805-e38530": [
+      "king"
+    ],
+    "A39805-e38570": [
+      "governour"
+    ],
+    "A39805-e38610": [
+      "king"
+    ],
+    "A39805-e38650": [
+      "governour"
+    ],
+    "A39805-e38730": [
+      "king"
+    ],
+    "A39805-e38770": [
+      "governour"
+    ],
+    "A39805-e38830": [
+      "king"
+    ],
+    "A39805-e38910": [
+      "armusia"
+    ],
+    "A39805-e39040": [
+      "quisara"
+    ],
+    "A39805-e39120": [
+      "armusia"
+    ],
+    "A39805-e39250": [
+      "governour"
+    ],
+    "A39805-e39300": [
+      "quisara"
+    ],
+    "A39805-e39380": [
+      "armusia"
+    ],
+    "A39805-e39430": [
+      "quisara"
+    ],
+    "A39805-e39510": [
+      "armusia"
+    ],
+    "A39805-e39560": [
+      "quisara"
+    ],
+    "A39805-e39610": [
+      "armusia"
+    ],
+    "A39805-e39650": [
+      "quisara"
+    ],
+    "A39805-e39720": [
+      "armusia"
+    ],
+    "A39805-e39760": [
+      "quisara"
+    ],
+    "A39805-e39800": [
+      "armusia"
+    ],
+    "A39805-e39890": [
+      "quisara"
+    ],
+    "A39805-e39930": [
+      "armusia"
+    ],
+    "A39805-e39980": [
+      "quisara"
+    ],
+    "A39805-e40030": [
+      "armusia"
+    ],
+    "A39805-e40070": [
+      "governour"
+    ],
+    "A39805-e40110": [
+      "armusia"
+    ],
+    "A39805-e40180": [
+      "quisara"
+    ],
+    "A39805-e40230": [
+      "armusia"
+    ],
+    "A39805-e40360": [
+      "governour"
+    ],
+    "A39805-e40400": [
+      "quisara"
+    ],
+    "A39805-e40510": [
+      "armusia"
+    ],
+    "A39805-e40630": [
+      "governour"
+    ],
+    "A39805-e40670": [
+      "king"
+    ],
+    "A39805-e40720": [
+      "governour"
+    ],
+    "A39805-e40760": [
+      "quisara"
+    ],
+    "A39805-e40800": [
+      "king"
+    ],
+    "A39805-e40850": [
+      "quisara"
+    ],
+    "A39805-e40890": [
+      "king"
+    ],
+    "A39805-e40950": [
+      "armusia"
+    ],
+    "A39805-e41020": [
+      "governour"
+    ],
+    "A39805-e41060": [
+      "armusia"
+    ],
+    "A39805-e41110": [
+      "governour"
+    ],
+    "A39805-e41150": [
+      "king"
+    ],
+    "A39805-e41190": [
+      "armusia"
+    ],
+    "A39805-e41230": [
+      "king"
+    ],
+    "A39805-e41270": [
+      "armusia"
+    ],
+    "A39805-e41320": [
+      "king"
+    ],
+    "A39805-e41370": [
+      "governour"
+    ],
+    "A39805-e41410": [
+      "quisara"
+    ],
+    "A39805-e41550": [
+      "christophero"
+    ],
+    "A39805-e41590": [
+      "emanuel"
+    ],
+    "A39805-e41640": [
+      "soza"
+    ],
+    "A39805-e41700": [
+      "christophero"
+    ],
+    "A39805-e41750": [
+      "pedro"
+    ],
+    "A39805-e41840": [
+      "soza"
+    ],
+    "A39805-e41920": [
+      "emanuel"
+    ],
+    "A39805-e41990": [
+      "christophero"
+    ],
+    "A39805-e42030": [
+      "soza"
+    ],
+    "A39805-e42120": [
+      "pymero"
+    ],
+    "A39805-e42250": [
+      "emanuel"
+    ],
+    "A39805-e42290": [
+      "pymero"
+    ],
+    "A39805-e42370": [
+      "christophero"
+    ],
+    "A39805-e42410": [
+      "pymero"
+    ],
+    "A39805-e42460": [
+      "soza"
+    ],
+    "A39805-e42500": [
+      "pymero"
+    ],
+    "A39805-e42540": [
+      "soza"
+    ],
+    "A39805-e42590": [
+      "pymero"
+    ],
+    "A39805-e42700": [
+      "pedro"
+    ],
+    "A39805-e42740": [
+      "ruy-dias"
+    ],
+    "A39805-e42800": [
+      "pymero"
+    ],
+    "A39805-e42840": [
+      "ruy-dias"
+    ],
+    "A39805-e42880": [
+      "pymero"
+    ],
+    "A39805-e42940": [
+      "ruy-dias"
+    ],
+    "A39805-e42980": [
+      "pymero"
+    ],
+    "A39805-e43030": [
+      "ruy-dias"
+    ],
+    "A39805-e43080": [
+      "pymero"
+    ],
+    "A39805-e43160": [
+      "ruy-dias"
+    ],
+    "A39805-e43230": [
+      "pymero"
+    ],
+    "A39805-e43300": [
+      "ruy-dias"
+    ],
+    "A39805-e43360": [
+      "pymero"
+    ],
+    "A39805-e43420": [
+      "ruy-dias"
+    ],
+    "A39805-e43480": [
+      "christophero",
+	  "pedro",
+	  "emanuel",
+	  "soza"
+    ],
+    "A39805-e43560": [
+      "king"
+    ],
+    "A39805-e43660": [
+      "governour"
+    ],
+    "A39805-e43770": [
+      "king"
+    ],
+    "A39805-e43810": [
+      "governour"
+    ],
+    "A39805-e43850": [
+      "king"
+    ],
+    "A39805-e43890": [
+      "governour"
+    ],
+    "A39805-e43990": [
+      "king"
+    ],
+    "A39805-e44040": [
+      "governour"
+    ],
+    "A39805-e44170": [
+      "king"
+    ],
+    "A39805-e44230": [
+      "quisana"
+    ],
+    "A39805-e44330": [
+      "governour"
+    ],
+    "A39805-e44400": [
+      "quisara"
+    ],
+    "A39805-e44550": [
+      "governour"
+    ],
+    "A39805-e44630": [
+      "quisara"
+    ],
+    "A39805-e44720": [
+      "king"
+    ],
+    "A39805-e44760": [
+      "quisara"
+    ],
+    "A39805-e44840": [
+      "king"
+    ],
+    "A39805-e44920": [
+      "armusia"
+    ],
+    "A39805-e44980": [
+      "king"
+    ],
+    "A39805-e45040": [
+      "armusia"
+    ],
+    "A39805-e45100": [
+      "governour"
+    ],
+    "A39805-e45150": [
+      "armusia"
+    ],
+    "A39805-e45230": [
+      "governour"
+    ],
+    "A39805-e45270": [
+      "armusia"
+    ],
+    "A39805-e45320": [
+      "governour"
+    ],
+    "A39805-e45410": [
+      "armusia"
+    ],
+    "A39805-e45550": [
+      "governour"
+    ],
+    "A39805-e45600": [
+      "quisara"
+    ],
+    "A39805-e45750": [
+      "armusia"
+    ],
+    "A39805-e45800": [
+      "quisara"
+    ],
+    "A39805-e45930": [
+      "armusia"
+    ],
+    "A39805-e45990": [
+      "quisara"
+    ],
+    "A39805-e46080": [
+      "governour"
+    ],
+    "A39805-e46120": [
+      "king"
+    ],
+    "A39805-e46160": [
+      "governour"
+    ],
+    "A39805-e46240": [
+      "king"
+    ],
+    "A39805-e46290": [
+      "governour"
+    ],
+    "A39805-e46350": [
+      "messenger"
+    ],
+    "A39805-e46470": [
+      "king"
+    ],
+    "A39805-e46510": [
+      "governour"
+    ],
+    "A39805-e46600": [
+      "armusia"
+    ],
+    "A39805-e46640": [
+      "quisara"
+    ],
+    "A39805-e46680": [
+      "governour"
+    ],
+    "A39805-e46740": [
+      "townsman-1"
+    ],
+    "A39805-e46770": [
+      "townsman-2"
+    ],
+    "A39805-e46800": [
+      "townsman-3"
+    ],
+    "A39805-e46830": [
+      "townsman-4"
+    ],
+    "A39805-e46860": [
+      "townsman-2"
+    ],
+    "A39805-e46890": [
+      "townsman-4"
+    ],
+    "A39805-e46920": [
+      "townsman-1"
+    ],
+    "A39805-e46950": [
+      "townsman-2"
+    ],
+    "A39805-e46990": [
+      "townsman-4"
+    ],
+    "A39805-e47020": [
+      "townsman-1"
+    ],
+    "A39805-e47050": [
+      "townsman-4"
+    ],
+    "A39805-e47090": [
+      "townsman-2"
+    ],
+    "A39805-e47120": [
+      "townsman-4"
+    ],
+    "A39805-e47150": [
+      "townsman-2"
+    ],
+    "A39805-e47180": [
+      "townsman-3"
+    ],
+    "A39805-e47210": [
+      "townsman-2"
+    ],
+    "A39805-e47240": [
+      "townsman-3"
+    ],
+    "A39805-e47270": [
+      "townsman-2"
+    ],
+    "A39805-e47310": [
+      "townsman-3"
+    ],
+    "A39805-e47340": [
+      "townsman-2"
+    ],
+    "A39805-e47400": [
+      "pyniero"
+    ],
+    "A39805-e47440": [
+      "panura"
+    ],
+    "A39805-e47560": [
+      "pyniero"
+    ],
+    "A39805-e47600": [
+      "panura"
+    ],
+    "A39805-e47670": [
+      "pyniero"
+    ],
+    "A39805-e47740": [
+      "panura"
+    ],
+    "A39805-e47780": [
+      "pyniero"
+    ],
+    "A39805-e47830": [
+      "panura"
+    ],
+    "A39805-e47890": [
+      "pyniero"
+    ],
+    "A39805-e47930": [
+      "panura"
+    ],
+    "A39805-e48030": [
+      "pyniero"
+    ],
+    "A39805-e48070": [
+      "panura"
+    ],
+    "A39805-e48120": [
+      "pyniero"
+    ],
+    "A39805-e48200": [
+      "panura"
+    ],
+    "A39805-e48240": [
+      "pyniero"
+    ],
+    "A39805-e48310": [
+      "panura"
+    ],
+    "A39805-e48350": [
+      "pyniero"
+    ],
+    "A39805-e48390": [
+      "panura"
+    ],
+    "A39805-e48460": [
+      "pyniero"
+    ],
+    "A39805-e48500": [
+      "panura"
+    ],
+    "A39805-e48550": [
+      "pyniero"
+    ],
+    "A39805-e48600": [
+      "panura"
+    ],
+    "A39805-e48640": [
+      "pyniero"
+    ],
+    "A39805-e48680": [
+      "panura"
+    ],
+    "A39805-e48730": [
+      "pyniero"
+    ],
+    "A39805-e48770": [
+      "panura"
+    ],
+    "A39805-e48820": [
+      "pyniero"
+    ],
+    "A39805-e48860": [
+      "panura"
+    ],
+    "A39805-e48920": [
+      "pyniero"
+    ],
+    "A39805-e48970": [
+      "panura"
+    ],
+    "A39805-e49030": [
+      "pyniero"
+    ],
+    "A39805-e49110": [
+      "panura"
+    ],
+    "A39805-e49180": [
+      "bakam"
+    ],
+    "A39805-e49220": [
+      "syana"
+    ],
+    "A39805-e49280": [
+      "bakam"
+    ],
+    "A39805-e49380": [
+      "syana"
+    ],
+    "A39805-e49490": [
+      "king"
+    ],
+    "A39805-e49560": [
+      "bakam"
+    ],
+    "A39805-e49660": [
+      "ruy-dias"
+    ],
+    "A39805-e49740": [
+      "emanuel"
+    ],
+    "A39805-e49820": [
+      "ruy-dias"
+    ],
+    "A39805-e49890": [
+      "bakam"
+    ],
+    "A39805-e50000": [
+      "emanuel"
+    ],
+    "A39805-e50040": [
+      "armusia"
+    ],
+    "A39805-e50110": [
+      "king"
+    ],
+    "A39805-e50150": [
+      "armusia"
+    ],
+    "A39805-e50260": [
+      "quisara"
+    ],
+    "A39805-e50320": [
+      "king"
+    ],
+    "A39805-e50390": [
+      "pyniero"
+    ],
+    "A39805-e50440": [
+      "king"
+    ],
+    "A39805-e50480": [
+      "pyniero"
+    ],
+    "A39805-e50550": [
+      "soza"
+    ],
+    "A39805-e50600": [
+      "pyniero"
+    ],
+    "A39805-e50690": [
+      "king"
+    ],
+    "A39805-e50740": [
+      "ruy-dias"
+    ],
+    "A39805-e50780": [
+      "king"
+    ],
+    "A39805-e50860": [
+      "pyniero"
+    ],
+    "A39805-e50920": [
+      "ruy-dias"
+    ],
+    "A39805-e51020": [
+      "governour"
+    ],
+    "A39805-e51080": [
+      "king"
+    ],
+    "A39805-e51120": [
+      "governour"
+    ],
+    "A39805-e51170": [
+      "king"
+    ],
+    "A39805-e51240": [
+      "ruy-dias"
+    ],
+    "A39805-e51300": [
+      "pyniero"
+    ],
+    "A39805-e51340": [
+      "armusia"
+    ],
+    "A39805-e51410": [
+      "syana"
+    ],
+    "A39805-e51460": [
+      "king"
+    ],
+    "A39805-e51600": [
+      "armusia"
+    ],
+    "A39805-e51660": [
+      "ruy-dias"
+    ],
+    "A39805-e51700": [
+      "king"
+    ]
+  }
+}

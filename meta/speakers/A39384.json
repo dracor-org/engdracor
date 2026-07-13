@@ -1,0 +1,2302 @@
+{
+  "particDesc": [
+    {
+      "name": "Genius",
+      "id": "genius",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Rebellion",
+      "id": "rebellion",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Servant 1",
+      "id": "servant-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "duke-of-micena",
+      "name": "Duke of Micena",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "prince",
+      "name": "Prince ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "calimachus",
+      "name": "Calimachus ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "palemon",
+      "name": "Palemon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "agenor",
+      "name": "Agenor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cleanthes",
+      "name": "Cleanthes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "clymias",
+      "name": "Clymias",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cleobulo",
+      "name": "Cleobulo ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dutchess-of-micena",
+      "name": "Dutchess of Micena",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "emilia",
+      "name": "Emilia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "aurindo",
+      "name": "Aurindo",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "cleora",
+      "name": "Cleora",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "olinda",
+      "name": "Olinda ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "althea",
+      "name": "Althea",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "victory",
+      "name": "Victory",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    }
+  ],
+  "speeches": {
+    "A39384-e1440": [
+      "agenor"
+    ],
+    "A39384-e1520": [
+      "cleanthes"
+    ],
+    "A39384-e1600": [
+      "agenor"
+    ],
+    "A39384-e1730": [
+      "cleanthes"
+    ],
+    "A39384-e1830": [
+      "agenor"
+    ],
+    "A39384-e1940": [
+      "cleanthes"
+    ],
+    "A39384-e2080": [
+      "agenor"
+    ],
+    "A39384-e2190": [
+      "cleanthes"
+    ],
+    "A39384-e2260": [
+      "aurindo"
+    ],
+    "A39384-e2340": [
+      "cleanthes"
+    ],
+    "A39384-e2370": [
+      "aurindo"
+    ],
+    "A39384-e2420": [
+      "cleanthes"
+    ],
+    "A39384-e2480": [
+      "aurindo"
+    ],
+    "A39384-e2510": [
+      "cleanthes"
+    ],
+    "A39384-e2590": [
+      "aurindo"
+    ],
+    "A39384-e2830": [
+      "althea"
+    ],
+    "A39384-e2930": [
+      "aurindo"
+    ],
+    "A39384-e2980": [
+      "althea"
+    ],
+    "A39384-e3010": [
+      "aurindo"
+    ],
+    "A39384-e3050": [
+      "althea"
+    ],
+    "A39384-e3090": [
+      "aurindo"
+    ],
+    "A39384-e3140": [
+      "althea"
+    ],
+    "A39384-e3180": [
+      "aurindo"
+    ],
+    "A39384-e3210": [
+      "althea"
+    ],
+    "A39384-e3280": [
+      "aurindo"
+    ],
+    "A39384-e3310": [
+      "althea"
+    ],
+    "A39384-e3350": [
+      "aurindo"
+    ],
+    "A39384-e3390": [
+      "althea"
+    ],
+    "A39384-e3420": [
+      "aurindo"
+    ],
+    "A39384-e3450": [
+      "althea"
+    ],
+    "A39384-e3490": [
+      "aurindo"
+    ],
+    "A39384-e3540": [
+      "althea"
+    ],
+    "A39384-e3650": [
+      "aurindo"
+    ],
+    "A39384-e3720": [
+      "emilia"
+    ],
+    "A39384-e3760": [
+      "althea"
+    ],
+    "A39384-e3790": [
+      "emilia"
+    ],
+    "A39384-e3840": [
+      "althea"
+    ],
+    "A39384-e3890": [
+      "emilia"
+    ],
+    "A39384-e3940": [
+      "althea"
+    ],
+    "A39384-e3980": [
+      "emilia"
+    ],
+    "A39384-e4120": [
+      "althea"
+    ],
+    "A39384-e4150": [
+      "emilia"
+    ],
+    "A39384-e4240": [
+      "althea"
+    ],
+    "A39384-e4320": [
+      "emilia"
+    ],
+    "A39384-e4410": [
+      "althea"
+    ],
+    "A39384-e4490": [
+      "emilia"
+    ],
+    "A39384-e4550": [
+      "althea"
+    ],
+    "A39384-e4580": [
+      "emilia"
+    ],
+    "A39384-e4770": [
+      "prince"
+    ],
+    "A39384-e4800": [
+      "emilia"
+    ],
+    "A39384-e4840": [
+      "prince"
+    ],
+    "A39384-e4880": [
+      "althea"
+    ],
+    "A39384-e4920": [
+      "emilia"
+    ],
+    "A39384-e4980": [
+      "althea"
+    ],
+    "A39384-e5020": [
+      "prince"
+    ],
+    "A39384-e5100": [
+      "emilia"
+    ],
+    "A39384-e5140": [
+      "prince"
+    ],
+    "A39384-e5190": [
+      "emilia"
+    ],
+    "A39384-e5220": [
+      "prince"
+    ],
+    "A39384-e5250": [
+      "althea"
+    ],
+    "A39384-e5280": [
+      "emilia"
+    ],
+    "A39384-e5310": [
+      "prince"
+    ],
+    "A39384-e5340": [
+      "emilia"
+    ],
+    "A39384-e5420": [
+      "prince"
+    ],
+    "A39384-e5620": [
+      "emilia"
+    ],
+    "A39384-e5670": [
+      "althea"
+    ],
+    "A39384-e5710": [
+      "prince"
+    ],
+    "A39384-e5770": [
+      "emilia"
+    ],
+    "A39384-e5830": [
+      "prince"
+    ],
+    "A39384-e5870": [
+      "emilia"
+    ],
+    "A39384-e5900": [
+      "prince"
+    ],
+    "A39384-e6010": [
+      "emilia"
+    ],
+    "A39384-e6040": [
+      "althea"
+    ],
+    "A39384-e6070": [
+      "emilia"
+    ],
+    "A39384-e6100": [
+      "althea"
+    ],
+    "A39384-e6130": [
+      "emilia"
+    ],
+    "A39384-e6200": [
+      "prince"
+    ],
+    "A39384-e6230": [
+      "althea"
+    ],
+    "A39384-e6300": [
+      "emilia"
+    ],
+    "A39384-e6420": [
+      "duke-of-micena"
+    ],
+    "A39384-e6540": [
+      "althea"
+    ],
+    "A39384-e6590": [
+      "emilia"
+    ],
+    "A39384-e6670": [
+      "duke-of-micena"
+    ],
+    "A39384-e6750": [
+      "emilia"
+    ],
+    "A39384-e6790": [
+      "duke-of-micena"
+    ],
+    "A39384-e6830": [
+      "emilia"
+    ],
+    "A39384-e6870": [
+      "duke-of-micena"
+    ],
+    "A39384-e6910": [
+      "emilia"
+    ],
+    "A39384-e6950": [
+      "althea"
+    ],
+    "A39384-e6990": [
+      "emilia"
+    ],
+    "A39384-e7060": [
+      "duke-of-micena"
+    ],
+    "A39384-e7100": [
+      "althea"
+    ],
+    "A39384-e7160": [
+      "duke-of-micena"
+    ],
+    "A39384-e7240": [
+      "emilia"
+    ],
+    "A39384-e7340": [
+      "duke-of-micena"
+    ],
+    "A39384-e7430": [
+      "emilia"
+    ],
+    "A39384-e7490": [
+      "duke-of-micena"
+    ],
+    "A39384-e7530": [
+      "emilia"
+    ],
+    "A39384-e7620": [
+      "duke-of-micena"
+    ],
+    "A39384-e7650": [
+      "emilia"
+    ],
+    "A39384-e7790": [
+      "althea"
+    ],
+    "A39384-e7820": [
+      "emilia"
+    ],
+    "A39384-e7850": [
+      "althea"
+    ],
+    "A39384-e7880": [
+      "emilia"
+    ],
+    "A39384-e7910": [
+      "duke-of-micena"
+    ],
+    "A39384-e7950": [
+      "althea"
+    ],
+    "A39384-e7990": [
+      "emilia"
+    ],
+    "A39384-e8070": [
+      "duke-of-micena"
+    ],
+    "A39384-e8110": [
+      "althea"
+    ],
+    "A39384-e8210": [
+      "emilia"
+    ],
+    "A39384-e8260": [
+      "althea"
+    ],
+    "A39384-e8310": [
+      "emilia"
+    ],
+    "A39384-e8340": [
+      "prince"
+    ],
+    "A39384-e8390": [
+      "emilia"
+    ],
+    "A39384-e8420": [
+      "althea"
+    ],
+    "A39384-e8450": [
+      "emilia"
+    ],
+    "A39384-e8500": [
+      "althea"
+    ],
+    "A39384-e8570": [
+      "prince"
+    ],
+    "A39384-e8670": [
+      "servant-1"
+    ],
+    "A39384-e8710": [
+      "clymias"
+    ],
+    "A39384-e8740": [
+      "servant-1"
+    ],
+    "A39384-e8780": [
+      "clymias"
+    ],
+    "A39384-e8810": [
+      "servant-1"
+    ],
+    "A39384-e8880": [
+      "clymias"
+    ],
+    "A39384-e8990": [
+      "cleanthes"
+    ],
+    "A39384-e9020": [
+      "clymias"
+    ],
+    "A39384-e9050": [
+      "cleanthes"
+    ],
+    "A39384-e9090": [
+      "clymias"
+    ],
+    "A39384-e9120": [
+      "cleanthes"
+    ],
+    "A39384-e9150": [
+      "clymias"
+    ],
+    "A39384-e9290": [
+      "palemon"
+    ],
+    "A39384-e9340": [
+      "calimachus"
+    ],
+    "A39384-e9460": [
+      "palemon"
+    ],
+    "A39384-e9490": [
+      "calimachus"
+    ],
+    "A39384-e9600": [
+      "palemon"
+    ],
+    "A39384-e9630": [
+      "calimachus"
+    ],
+    "A39384-e9710": [
+      "palemon"
+    ],
+    "A39384-e9770": [
+      "calimachus"
+    ],
+    "A39384-e9830": [
+      "palemon"
+    ],
+    "A39384-e9960": [
+      "calimachus"
+    ],
+    "A39384-e10040": [
+      "palemon"
+    ],
+    "A39384-e10220": [
+      "aurindo"
+    ],
+    "A39384-e10400": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e10540": [
+      "aurindo"
+    ],
+    "A39384-e10580": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e10610": [
+      "aurindo"
+    ],
+    "A39384-e10640": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e10680": [
+      "aurindo"
+    ],
+    "A39384-e10710": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e10770": [
+      "aurindo"
+    ],
+    "A39384-e10800": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e10860": [
+      "aurindo"
+    ],
+    "A39384-e10960": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e11050": [
+      "aurindo"
+    ],
+    "A39384-e11110": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e11180": [
+      "aurindo"
+    ],
+    "A39384-e11220": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e11270": [
+      "aurindo"
+    ],
+    "A39384-e11310": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e11390": [
+      "aurindo"
+    ],
+    "A39384-e11430": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e11470": [
+      "aurindo"
+    ],
+    "A39384-e11570": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e11610": [
+      "duke-of-micena"
+    ],
+    "A39384-e11670": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e11730": [
+      "duke-of-micena"
+    ],
+    "A39384-e11770": [
+      "prince"
+    ],
+    "A39384-e11820": [
+      "cleanthes"
+    ],
+    "A39384-e11860": [
+      "agenor"
+    ],
+    "A39384-e11900": [
+      "cleanthes"
+    ],
+    "A39384-e11950": [
+      "agenor"
+    ],
+    "A39384-e12020": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e12110": [
+      "duke-of-micena"
+    ],
+    "A39384-e12190": [
+      "agenor"
+    ],
+    "A39384-e12260": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e12320": [
+      "cleora"
+    ],
+    "A39384-e12360": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e12420": [
+      "cleora"
+    ],
+    "A39384-e12480": [
+      "cleanthes"
+    ],
+    "A39384-e12520": [
+      "agenor"
+    ],
+    "A39384-e12590": [
+      "cleanthes"
+    ],
+    "A39384-e12640": [
+      "agenor"
+    ],
+    "A39384-e12810": [
+      "duke-of-micena"
+    ],
+    "A39384-e12890": [
+      "palemon"
+    ],
+    "A39384-e12930": [
+      "duke-of-micena"
+    ],
+    "A39384-e12960": [
+      "palemon"
+    ],
+    "A39384-e13020": [
+      "duke-of-micena"
+    ],
+    "A39384-e13110": [
+      "palemon"
+    ],
+    "A39384-e13190": [
+      "duke-of-micena"
+    ],
+    "A39384-e13400": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e13430": [
+      "prince"
+    ],
+    "A39384-e13500": [
+      "palemon"
+    ],
+    "A39384-e13710": [
+      "calimachus"
+    ],
+    "A39384-e13740": [
+      "palemon"
+    ],
+    "A39384-e13810": [
+      "calimachus"
+    ],
+    "A39384-e13870": [
+      "palemon"
+    ],
+    "A39384-e13950": [
+      "calimachus"
+    ],
+    "A39384-e14040": [
+      "palemon"
+    ],
+    "A39384-e14100": [
+      "calimachus"
+    ],
+    "A39384-e14140": [
+      "palemon"
+    ],
+    "A39384-e14200": [
+      "emilia"
+    ],
+    "A39384-e14250": [
+      "althea"
+    ],
+    "A39384-e14300": [
+      "emilia"
+    ],
+    "A39384-e14350": [
+      "althea"
+    ],
+    "A39384-e14380": [
+      "emilia"
+    ],
+    "A39384-e14460": [
+      "palemon"
+    ],
+    "A39384-e14500": [
+      "emilia"
+    ],
+    "A39384-e14580": [
+      "palemon"
+    ],
+    "A39384-e14650": [
+      "emilia"
+    ],
+    "A39384-e14730": [
+      "althea"
+    ],
+    "A39384-e14760": [
+      "palemon"
+    ],
+    "A39384-e14820": [
+      "althea"
+    ],
+    "A39384-e14870": [
+      "emilia"
+    ],
+    "A39384-e14930": [
+      "palemon"
+    ],
+    "A39384-e14980": [
+      "emilia"
+    ],
+    "A39384-e15010": [
+      "calimachus"
+    ],
+    "A39384-e15050": [
+      "emilia"
+    ],
+    "A39384-e15080": [
+      "palemon"
+    ],
+    "A39384-e15140": [
+      "emilia"
+    ],
+    "A39384-e15190": [
+      "palemon"
+    ],
+    "A39384-e15240": [
+      "emilia"
+    ],
+    "A39384-e15270": [
+      "palemon"
+    ],
+    "A39384-e15320": [
+      "emilia"
+    ],
+    "A39384-e15350": [
+      "palemon"
+    ],
+    "A39384-e15410": [
+      "althea"
+    ],
+    "A39384-e15460": [
+      "emilia"
+    ],
+    "A39384-e15490": [
+      "palemon"
+    ],
+    "A39384-e15540": [
+      "althea"
+    ],
+    "A39384-e15570": [
+      "emilia"
+    ],
+    "A39384-e15640": [
+      "palemon"
+    ],
+    "A39384-e15690": [
+      "emilia"
+    ],
+    "A39384-e15730": [
+      "calimachus"
+    ],
+    "A39384-e15780": [
+      "emilia"
+    ],
+    "A39384-e15840": [
+      "althea"
+    ],
+    "A39384-e15940": [
+      "clymias"
+    ],
+    "A39384-e15980": [
+      "cleanthes"
+    ],
+    "A39384-e16020": [
+      "calimachus"
+    ],
+    "A39384-e16060": [
+      "clymias"
+    ],
+    "A39384-e16090": [
+      "cleanthes"
+    ],
+    "A39384-e16120": [
+      "calimachus"
+    ],
+    "A39384-e16160": [
+      "cleanthes"
+    ],
+    "A39384-e16200": [
+      "calimachus"
+    ],
+    "A39384-e16270": [
+      "althea"
+    ],
+    "A39384-e16300": [
+      "palemon"
+    ],
+    "A39384-e16350": [
+      "emilia"
+    ],
+    "A39384-e16400": [
+      "calimachus"
+    ],
+    "A39384-e16480": [
+      "duke-of-micena"
+    ],
+    "A39384-e16530": [
+      "duke-of-micena"
+    ],
+    "A39384-e16560": [
+      "emilia"
+    ],
+    "A39384-e16640": [
+      "calimachus"
+    ],
+    "A39384-e16700": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e16770": [
+      "emilia"
+    ],
+    "A39384-e16830": [
+      "duke-of-micena"
+    ],
+    "A39384-e16900": [
+      "prince"
+    ],
+    "A39384-e16960": [
+      "agenor"
+    ],
+    "A39384-e17080": [
+      "cleora"
+    ],
+    "A39384-e17130": [
+      "duke-of-micena"
+    ],
+    "A39384-e17240": [
+      "prince"
+    ],
+    "A39384-e17310": [
+      "rebellion"
+    ],
+    "A39384-e17440": [
+      "rebellion"
+    ],
+    "A39384-e17540": [
+      "genius"
+    ],
+    "A39384-e17580": [
+      "rebellion"
+    ],
+    "A39384-e17620": [
+      "genius"
+    ],
+    "A39384-e17680": [
+      "rebellion"
+    ],
+    "A39384-e17760": [
+      "genius"
+    ],
+    "A39384-e17820": [
+      "rebellion",
+      "genius"
+    ],
+    "A39384-e17900": [
+      "chorus"
+    ],
+    "A39384-e17930": [
+      "victory"
+    ],
+    "A39384-e18030": [
+      "chorus"
+    ],
+    "A39384-e18060": [
+      "victory"
+    ],
+    "A39384-e18210": [
+      "chorus"
+    ],
+    "A39384-e18260": [
+      "duke-of-micena"
+    ],
+    "A39384-e18310": [
+      "emilia"
+    ],
+    "A39384-e18370": [
+      "duke-of-micena"
+    ],
+    "A39384-e18410": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e18470": [
+      "duke-of-micena"
+    ],
+    "A39384-e18520": [
+      "prince"
+    ],
+    "A39384-e18580": [
+      "emilia"
+    ],
+    "A39384-e18680": [
+      "palemon"
+    ],
+    "A39384-e18720": [
+      "calimachus"
+    ],
+    "A39384-e18900": [
+      "aurindo"
+    ],
+    "A39384-e18960": [
+      "prince"
+    ],
+    "A39384-e19020": [
+      "aurindo"
+    ],
+    "A39384-e19060": [
+      "prince"
+    ],
+    "A39384-e19130": [
+      "aurindo"
+    ],
+    "A39384-e19190": [
+      "prince"
+    ],
+    "A39384-e19250": [
+      "aurindo"
+    ],
+    "A39384-e19280": [
+      "prince"
+    ],
+    "A39384-e19370": [
+      "aurindo"
+    ],
+    "A39384-e19420": [
+      "prince"
+    ],
+    "A39384-e19500": [
+      "aurindo"
+    ],
+    "A39384-e19550": [
+      "prince"
+    ],
+    "A39384-e19630": [
+      "aurindo"
+    ],
+    "A39384-e19680": [
+      "prince"
+    ],
+    "A39384-e19830": [
+      "aurindo"
+    ],
+    "A39384-e20010": [
+      "cleanthes"
+    ],
+    "A39384-e20050": [
+      "aurindo"
+    ],
+    "A39384-e20100": [
+      "cleanthes"
+    ],
+    "A39384-e20140": [
+      "aurindo"
+    ],
+    "A39384-e20180": [
+      "cleanthes"
+    ],
+    "A39384-e20210": [
+      "aurindo"
+    ],
+    "A39384-e20250": [
+      "cleanthes"
+    ],
+    "A39384-e20310": [
+      "aurindo"
+    ],
+    "A39384-e20400": [
+      "cleanthes"
+    ],
+    "A39384-e20450": [
+      "aurindo"
+    ],
+    "A39384-e20540": [
+      "cleanthes"
+    ],
+    "A39384-e20780": [
+      "duke-of-micena"
+    ],
+    "A39384-e20890": [
+      "calimachus"
+    ],
+    "A39384-e20940": [
+      "duke-of-micena"
+    ],
+    "A39384-e21090": [
+      "althea"
+    ],
+    "A39384-e21150": [
+      "duke-of-micena"
+    ],
+    "A39384-e21210": [
+      "emilia"
+    ],
+    "A39384-e21240": [
+      "duke-of-micena"
+    ],
+    "A39384-e21280": [
+      "emilia"
+    ],
+    "A39384-e21320": [
+      "duke-of-micena"
+    ],
+    "A39384-e21350": [
+      "emilia"
+    ],
+    "A39384-e21400": [
+      "calimachus"
+    ],
+    "A39384-e21440": [
+      "duke-of-micena"
+    ],
+    "A39384-e21520": [
+      "calimachus"
+    ],
+    "A39384-e21550": [
+      "emilia"
+    ],
+    "A39384-e21620": [
+      "calimachus"
+    ],
+    "A39384-e21660": [
+      "duke-of-micena"
+    ],
+    "A39384-e21700": [
+      "emilia"
+    ],
+    "A39384-e21780": [
+      "calimachus"
+    ],
+    "A39384-e21820": [
+      "duke-of-micena"
+    ],
+    "A39384-e21900": [
+      "emilia"
+    ],
+    "A39384-e21960": [
+      "duke-of-micena"
+    ],
+    "A39384-e22010": [
+      "calimachus"
+    ],
+    "A39384-e22040": [
+      "duke-of-micena"
+    ],
+    "A39384-e22090": [
+      "emilia"
+    ],
+    "A39384-e22200": [
+      "duke-of-micena"
+    ],
+    "A39384-e22240": [
+      "calimachus"
+    ],
+    "A39384-e22270": [
+      "emilia"
+    ],
+    "A39384-e22390": [
+      "calimachus"
+    ],
+    "A39384-e22420": [
+      "emilia"
+    ],
+    "A39384-e22490": [
+      "duke-of-micena"
+    ],
+    "A39384-e22520": [
+      "calimachus"
+    ],
+    "A39384-e22560": [
+      "duke-of-micena"
+    ],
+    "A39384-e22590": [
+      "emilia"
+    ],
+    "A39384-e22660": [
+      "calimachus"
+    ],
+    "A39384-e22690": [
+      "duke-of-micena"
+    ],
+    "A39384-e22730": [
+      "emilia"
+    ],
+    "A39384-e22780": [
+      "calimachus"
+    ],
+    "A39384-e22820": [
+      "duke-of-micena"
+    ],
+    "A39384-e22860": [
+      "emilia"
+    ],
+    "A39384-e22920": [
+      "duke-of-micena"
+    ],
+    "A39384-e23040": [
+      "emilia"
+    ],
+    "A39384-e23170": [
+      "althea"
+    ],
+    "A39384-e23260": [
+      "calimachus"
+    ],
+    "A39384-e23370": [
+      "cleanthes"
+    ],
+    "A39384-e23410": [
+      "clymias"
+    ],
+    "A39384-e23480": [
+      "cleanthes"
+    ],
+    "A39384-e23540": [
+      "clymias"
+    ],
+    "A39384-e23630": [
+      "cleanthes"
+    ],
+    "A39384-e23680": [
+      "clymias"
+    ],
+    "A39384-e23720": [
+      "palemon"
+    ],
+    "A39384-e23770": [
+      "clymias"
+    ],
+    "A39384-e23800": [
+      "palemon"
+    ],
+    "A39384-e23860": [
+      "cleanthes"
+    ],
+    "A39384-e23900": [
+      "palemon"
+    ],
+    "A39384-e23950": [
+      "clymias"
+    ],
+    "A39384-e24010": [
+      "palemon"
+    ],
+    "A39384-e24050": [
+      "cleanthes"
+    ],
+    "A39384-e24170": [
+      "cleanthes"
+    ],
+    "A39384-e24200": [
+      "palemon"
+    ],
+    "A39384-e24230": [
+      "cleanthes"
+    ],
+    "A39384-e24260": [
+      "palemon"
+    ],
+    "A39384-e24290": [
+      "cleanthes"
+    ],
+    "A39384-e24370": [
+      "palemon"
+    ],
+    "A39384-e24410": [
+      "calimachus"
+    ],
+    "A39384-e24530": [
+      "aurindo"
+    ],
+    "A39384-e24570": [
+      "althea"
+    ],
+    "A39384-e24610": [
+      "aurindo"
+    ],
+    "A39384-e24650": [
+      "althea"
+    ],
+    "A39384-e24700": [
+      "aurindo"
+    ],
+    "A39384-e24760": [
+      "althea"
+    ],
+    "A39384-e24880": [
+      "calimachus"
+    ],
+    "A39384-e24910": [
+      "althea"
+    ],
+    "A39384-e24950": [
+      "calimachus"
+    ],
+    "A39384-e25000": [
+      "althea"
+    ],
+    "A39384-e25070": [
+      "aurindo"
+    ],
+    "A39384-e25160": [
+      "althea"
+    ],
+    "A39384-e25250": [
+      "calimachus"
+    ],
+    "A39384-e25320": [
+      "palemon"
+    ],
+    "A39384-e25370": [
+      "calimachus"
+    ],
+    "A39384-e25420": [
+      "palemon"
+    ],
+    "A39384-e25450": [
+      "calimachus"
+    ],
+    "A39384-e25560": [
+      "palemon"
+    ],
+    "A39384-e25660": [
+      "althea"
+    ],
+    "A39384-e25780": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e25820": [
+      "cleanthes"
+    ],
+    "A39384-e25870": [
+      "althea"
+    ],
+    "A39384-e25900": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e25950": [
+      "althea"
+    ],
+    "A39384-e25990": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e26100": [
+      "althea"
+    ],
+    "A39384-e26150": [
+      "cleora"
+    ],
+    "A39384-e26180": [
+      "althea"
+    ],
+    "A39384-e26230": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e26260": [
+      "althea"
+    ],
+    "A39384-e26300": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e26420": [
+      "duke-of-micena"
+    ],
+    "A39384-e26450": [
+      "agenor"
+    ],
+    "A39384-e26480": [
+      "duke-of-micena"
+    ],
+    "A39384-e26550": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e26610": [
+      "duke-of-micena"
+    ],
+    "A39384-e26660": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e26690": [
+      "duke-of-micena"
+    ],
+    "A39384-e26770": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e26930": [
+      "duke-of-micena"
+    ],
+    "A39384-e27090": [
+      "althea"
+    ],
+    "A39384-e27190": [
+      "calimachus"
+    ],
+    "A39384-e27220": [
+      "emilia"
+    ],
+    "A39384-e27330": [
+      "althea"
+    ],
+    "A39384-e27380": [
+      "emilia"
+    ],
+    "A39384-e27410": [
+      "calimachus"
+    ],
+    "A39384-e27440": [
+      "emilia"
+    ],
+    "A39384-e27510": [
+      "aurindo"
+    ],
+    "A39384-e27630": [
+      "emilia"
+    ],
+    "A39384-e27660": [
+      "calimachus"
+    ],
+    "A39384-e27690": [
+      "aurindo"
+    ],
+    "A39384-e27770": [
+      "emilia"
+    ],
+    "A39384-e27800": [
+      "calimachus"
+    ],
+    "A39384-e27920": [
+      "emilia"
+    ],
+    "A39384-e27960": [
+      "aurindo"
+    ],
+    "A39384-e28020": [
+      "calimachus"
+    ],
+    "A39384-e28140": [
+      "aurindo"
+    ],
+    "A39384-e28200": [
+      "emilia"
+    ],
+    "A39384-e28250": [
+      "aurindo"
+    ],
+    "A39384-e28310": [
+      "emilia"
+    ],
+    "A39384-e28370": [
+      "calimachus"
+    ],
+    "A39384-e28400": [
+      "aurindo"
+    ],
+    "A39384-e28490": [
+      "calimachus"
+    ],
+    "A39384-e28540": [
+      "palemon"
+    ],
+    "A39384-e28570": [
+      "emilia"
+    ],
+    "A39384-e28600": [
+      "aurindo"
+    ],
+    "A39384-e28640": [
+      "emilia"
+    ],
+    "A39384-e28690": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e28910": [
+      "prince"
+    ],
+    "A39384-e29080": [
+      "aurindo"
+    ],
+    "A39384-e29120": [
+      "prince"
+    ],
+    "A39384-e29150": [
+      "aurindo"
+    ],
+    "A39384-e29190": [
+      "prince"
+    ],
+    "A39384-e29240": [
+      "aurindo"
+    ],
+    "A39384-e29270": [
+      "prince"
+    ],
+    "A39384-e29300": [
+      "aurindo"
+    ],
+    "A39384-e29370": [
+      "prince"
+    ],
+    "A39384-e29400": [
+      "aurindo"
+    ],
+    "A39384-e29460": [
+      "prince"
+    ],
+    "A39384-e29500": [
+      "aurindo"
+    ],
+    "A39384-e29550": [
+      "prince"
+    ],
+    "A39384-e29610": [
+      "aurindo"
+    ],
+    "A39384-e29700": [
+      "prince"
+    ],
+    "A39384-e29740": [
+      "aurindo"
+    ],
+    "A39384-e29790": [
+      "prince"
+    ],
+    "A39384-e29840": [
+      "aurindo"
+    ],
+    "A39384-e29920": [
+      "olinda"
+    ],
+    "A39384-e29970": [
+      "cleanthes"
+    ],
+    "A39384-e30050": [
+      "olinda"
+    ],
+    "A39384-e30120": [
+      "cleora"
+    ],
+    "A39384-e30210": [
+      "olinda"
+    ],
+    "A39384-e30270": [
+      "cleanthes"
+    ],
+    "A39384-e30300": [
+      "olinda"
+    ],
+    "A39384-e30350": [
+      "cleanthes"
+    ],
+    "A39384-e30380": [
+      "olinda"
+    ],
+    "A39384-e30440": [
+      "cleanthes"
+    ],
+    "A39384-e30470": [
+      "olinda"
+    ],
+    "A39384-e30510": [
+      "cleanthes"
+    ],
+    "A39384-e30590": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e30620": [
+      "duke-of-micena"
+    ],
+    "A39384-e30700": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e30760": [
+      "duke-of-micena"
+    ],
+    "A39384-e30800": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e30840": [
+      "duke-of-micena"
+    ],
+    "A39384-e30880": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e30950": [
+      "cleanthes"
+    ],
+    "A39384-e30980": [
+      "duke-of-micena"
+    ],
+    "A39384-e31050": [
+      "cleanthes"
+    ],
+    "A39384-e31090": [
+      "duke-of-micena"
+    ],
+    "A39384-e31120": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e31200": [
+      "duke-of-micena"
+    ],
+    "A39384-e31290": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e31400": [
+      "cleanthes"
+    ],
+    "A39384-e31580": [
+      "aurindo"
+    ],
+    "A39384-e31610": [
+      "cleanthes"
+    ],
+    "A39384-e31650": [
+      "aurindo"
+    ],
+    "A39384-e31690": [
+      "cleanthes"
+    ],
+    "A39384-e31770": [
+      "aurindo"
+    ],
+    "A39384-e31840": [
+      "cleanthes"
+    ],
+    "A39384-e31970": [
+      "cleanthes"
+    ],
+    "A39384-e32010": [
+      "clymias"
+    ],
+    "A39384-e32130": [
+      "cleanthes"
+    ],
+    "A39384-e32160": [
+      "clymias"
+    ],
+    "A39384-e32270": [
+      "cleanthes"
+    ],
+    "A39384-e32360": [
+      "clymias"
+    ],
+    "A39384-e32390": [
+      "cleanthes"
+    ],
+    "A39384-e32430": [
+      "clymias"
+    ],
+    "A39384-e32470": [
+      "cleanthes"
+    ],
+    "A39384-e32520": [
+      "clymias"
+    ],
+    "A39384-e32560": [
+      "cleanthes"
+    ],
+    "A39384-e32640": [
+      "clymias"
+    ],
+    "A39384-e32690": [
+      "cleanthes"
+    ],
+    "A39384-e32800": [
+      "palemon"
+    ],
+    "A39384-e32840": [
+      "clymias"
+    ],
+    "A39384-e32870": [
+      "palemon"
+    ],
+    "A39384-e32900": [
+      "cleanthes"
+    ],
+    "A39384-e32970": [
+      "palemon"
+    ],
+    "A39384-e33000": [
+      "calimachus"
+    ],
+    "A39384-e33210": [
+      "palemon"
+    ],
+    "A39384-e33270": [
+      "emilia"
+    ],
+    "A39384-e33340": [
+      "aurindo"
+    ],
+    "A39384-e33400": [
+      "emilia"
+    ],
+    "A39384-e33480": [
+      "aurindo"
+    ],
+    "A39384-e33530": [
+      "althea"
+    ],
+    "A39384-e33660": [
+      "calimachus"
+    ],
+    "A39384-e33700": [
+      "palemon"
+    ],
+    "A39384-e33760": [
+      "calimachus"
+    ],
+    "A39384-e33790": [
+      "palemon"
+    ],
+    "A39384-e33870": [
+      "calimachus"
+    ],
+    "A39384-e33950": [
+      "agenor"
+    ],
+    "A39384-e34020": [
+      "althea"
+    ],
+    "A39384-e34050": [
+      "agenor"
+    ],
+    "A39384-e34090": [
+      "althea"
+    ],
+    "A39384-e34130": [
+      "palemon"
+    ],
+    "A39384-e34160": [
+      "calimachus"
+    ],
+    "A39384-e34220": [
+      "emilia"
+    ],
+    "A39384-e34250": [
+      "agenor"
+    ],
+    "A39384-e34290": [
+      "emilia"
+    ],
+    "A39384-e34320": [
+      "agenor"
+    ],
+    "A39384-e34360": [
+      "calimachus"
+    ],
+    "A39384-e34400": [
+      "emilia"
+    ],
+    "A39384-e34430": [
+      "agenor"
+    ],
+    "A39384-e34480": [
+      "emilia"
+    ],
+    "A39384-e34530": [
+      "calimachus"
+    ],
+    "A39384-e34560": [
+      "palemon"
+    ],
+    "A39384-e34590": [
+      "agenor"
+    ],
+    "A39384-e34650": [
+      "palemon"
+    ],
+    "A39384-e34700": [
+      "calimachus"
+    ],
+    "A39384-e34770": [
+      "palemon"
+    ],
+    "A39384-e34830": [
+      "emilia"
+    ],
+    "A39384-e34870": [
+      "palemon"
+    ],
+    "A39384-e34910": [
+      "emilia"
+    ],
+    "A39384-e34940": [
+      "palemon"
+    ],
+    "A39384-e34980": [
+      "emilia"
+    ],
+    "A39384-e35160": [
+      "cleanthes"
+    ],
+    "A39384-e35220": [
+      "clymias"
+    ],
+    "A39384-e35270": [
+      "cleanthes"
+    ],
+    "A39384-e35320": [
+      "althea"
+    ],
+    "A39384-e35350": [
+      "palemon"
+    ],
+    "A39384-e35400": [
+      "althea"
+    ],
+    "A39384-e35430": [
+      "palemon"
+    ],
+    "A39384-e35460": [
+      "althea"
+    ],
+    "A39384-e35490": [
+      "palemon"
+    ],
+    "A39384-e35520": [
+      "althea"
+    ],
+    "A39384-e35550": [
+      "palemon"
+    ],
+    "A39384-e35580": [
+      "althea"
+    ],
+    "A39384-e35620": [
+      "palemon"
+    ],
+    "A39384-e35670": [
+      "althea"
+    ],
+    "A39384-e35730": [
+      "emilia"
+    ],
+    "A39384-e35830": [
+      "althea"
+    ],
+    "A39384-e35860": [
+      "emilia"
+    ],
+    "A39384-e35990": [
+      "prince"
+    ],
+    "A39384-e36110": [
+      "emilia"
+    ],
+    "A39384-e36220": [
+      "prince"
+    ],
+    "A39384-e36250": [
+      "emilia"
+    ],
+    "A39384-e36320": [
+      "prince"
+    ],
+    "A39384-e36350": [
+      "emilia"
+    ],
+    "A39384-e36380": [
+      "prince"
+    ],
+    "A39384-e36420": [
+      "emilia"
+    ],
+    "A39384-e36450": [
+      "prince"
+    ],
+    "A39384-e36500": [
+      "emilia"
+    ],
+    "A39384-e36630": [
+      "althea"
+    ],
+    "A39384-e36760": [
+      "calimachus"
+    ],
+    "A39384-e36810": [
+      "palemon"
+    ],
+    "A39384-e36850": [
+      "calimachus"
+    ],
+    "A39384-e36910": [
+      "palemon"
+    ],
+    "A39384-e36970": [
+      "calimachus"
+    ],
+    "A39384-e37090": [
+      "palemon"
+    ],
+    "A39384-e37140": [
+      "calimachus"
+    ],
+    "A39384-e37180": [
+      "palemon"
+    ],
+    "A39384-e37260": [
+      "calimachus"
+    ],
+    "A39384-e37550": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e37630": [
+      "althea"
+    ],
+    "A39384-e37670": [
+      "cleora"
+    ],
+    "A39384-e37710": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e37920": [
+      "cleanthes"
+    ],
+    "A39384-e38100": [
+      "olinda"
+    ],
+    "A39384-e38140": [
+      "olinda"
+    ],
+    "A39384-e38170": [
+      "cleanthes"
+    ],
+    "A39384-e38200": [
+      "olinda"
+    ],
+    "A39384-e38250": [
+      "cleanthes"
+    ],
+    "A39384-e38320": [
+      "olinda"
+    ],
+    "A39384-e38420": [
+      "agenor"
+    ],
+    "A39384-e38450": [
+      "olinda"
+    ],
+    "A39384-e38480": [
+      "agenor"
+    ],
+    "A39384-e38510": [
+      "olinda"
+    ],
+    "A39384-e38570": [
+      "cleanthes"
+    ],
+    "A39384-e38610": [
+      "agenor"
+    ],
+    "A39384-e38670": [
+      "cleanthes"
+    ],
+    "A39384-e38720": [
+      "cleanthes"
+    ],
+    "A39384-e38750": [
+      "agenor"
+    ],
+    "A39384-e38790": [
+      "cleanthes"
+    ],
+    "A39384-e38840": [
+      "cleanthes"
+    ],
+    "A39384-e38890": [
+      "olinda"
+    ],
+    "A39384-e38930": [
+      "cleanthes"
+    ],
+    "A39384-e38990": [
+      "olinda"
+    ],
+    "A39384-e39060": [
+      "cleanthes"
+    ],
+    "A39384-e39090": [
+      "olinda"
+    ],
+    "A39384-e39140": [
+      "cleanthes"
+    ],
+    "A39384-e39180": [
+      "olinda"
+    ],
+    "A39384-e39210": [
+      "cleanthes"
+    ],
+    "A39384-e39270": [
+      "agenor"
+    ],
+    "A39384-e39420": [
+      "clymias"
+    ],
+    "A39384-e39540": [
+      "cleanthes"
+    ],
+    "A39384-e39580": [
+      "clymias"
+    ],
+    "A39384-e39630": [
+      "cleanthes"
+    ],
+    "A39384-e39690": [
+      "clymias"
+    ],
+    "A39384-e39740": [
+      "cleanthes"
+    ],
+    "A39384-e39770": [
+      "clymias"
+    ],
+    "A39384-e39800": [
+      "cleanthes"
+    ],
+    "A39384-e39840": [
+      "clymias"
+    ],
+    "A39384-e39880": [
+      "cleanthes"
+    ],
+    "A39384-e39930": [
+      "clymias"
+    ],
+    "A39384-e40000": [
+      "cleanthes"
+    ],
+    "A39384-e40030": [
+      "calimachus"
+    ],
+    "A39384-e40100": [
+      "clymias"
+    ],
+    "A39384-e40130": [
+      "cleanthes"
+    ],
+    "A39384-e40180": [
+      "clymias"
+    ],
+    "A39384-e40210": [
+      "cleanthes"
+    ],
+    "A39384-e40250": [
+      "clymias"
+    ],
+    "A39384-e40300": [
+      "cleanthes"
+    ],
+    "A39384-e40350": [
+      "clymias"
+    ],
+    "A39384-e40380": [
+      "cleanthes"
+    ],
+    "A39384-e40480": [
+      "emilia"
+    ],
+    "A39384-e40640": [
+      "aurindo"
+    ],
+    "A39384-e40670": [
+      "emilia"
+    ],
+    "A39384-e40760": [
+      "aurindo"
+    ],
+    "A39384-e40800": [
+      "emilia"
+    ],
+    "A39384-e40840": [
+      "aurindo"
+    ],
+    "A39384-e40870": [
+      "emilia"
+    ],
+    "A39384-e40910": [
+      "aurindo"
+    ],
+    "A39384-e40940": [
+      "emilia"
+    ],
+    "A39384-e40970": [
+      "aurindo"
+    ],
+    "A39384-e41030": [
+      "emilia"
+    ],
+    "A39384-e41070": [
+      "aurindo"
+    ],
+    "A39384-e41130": [
+      "emilia"
+    ],
+    "A39384-e41200": [
+      "aurindo"
+    ],
+    "A39384-e41230": [
+      "emilia"
+    ],
+    "A39384-e41300": [
+      "calimachus"
+    ],
+    "A39384-e41360": [
+      "emilia"
+    ],
+    "A39384-e41420": [
+      "palemon"
+    ],
+    "A39384-e41450": [
+      "emilia"
+    ],
+    "A39384-e41490": [
+      "palemon"
+    ],
+    "A39384-e41530": [
+      "emilia"
+    ],
+    "A39384-e41610": [
+      "palemon"
+    ],
+    "A39384-e41650": [
+      "emilia"
+    ],
+    "A39384-e41720": [
+      "palemon"
+    ],
+    "A39384-e41770": [
+      "calimachus"
+    ],
+    "A39384-e41820": [
+      "palemon"
+    ],
+    "A39384-e41860": [
+      "calimachus"
+    ],
+    "A39384-e41900": [
+      "palemon"
+    ],
+    "A39384-e41970": [
+      "calimachus"
+    ],
+    "A39384-e42030": [
+      "palemon"
+    ],
+    "A39384-e42070": [
+      "calimachus"
+    ],
+    "A39384-e42170": [
+      "palemon"
+    ],
+    "A39384-e42220": [
+      "calimachus"
+    ],
+    "A39384-e42360": [
+      "althea"
+    ],
+    "A39384-e42480": [
+      "calimachus"
+    ],
+    "A39384-e42510": [
+      "prince"
+    ],
+    "A39384-e42640": [
+      "althea"
+    ],
+    "A39384-e42670": [
+      "prince"
+    ],
+    "A39384-e42710": [
+      "althea"
+    ],
+    "A39384-e42750": [
+      "prince"
+    ],
+    "A39384-e42790": [
+      "calimachus"
+    ],
+    "A39384-e42830": [
+      "althea"
+    ],
+    "A39384-e43110": [
+      "duke-of-micena"
+    ],
+    "A39384-e43190": [
+      "cleanthes"
+    ],
+    "A39384-e43240": [
+      "duke-of-micena"
+    ],
+    "A39384-e43300": [
+      "cleanthes"
+    ],
+    "A39384-e43350": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e43400": [
+      "duke-of-micena"
+    ],
+    "A39384-e43440": [
+      "prince"
+    ],
+    "A39384-e43470": [
+      "duke-of-micena"
+    ],
+    "A39384-e43500": [
+      "prince"
+    ],
+    "A39384-e43590": [
+      "prince"
+    ],
+    "A39384-e43630": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e43690": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e43720": [
+      "calimachus"
+    ],
+    "A39384-e43770": [
+      "aurindo"
+    ],
+    "A39384-e43810": [
+      "althea"
+    ],
+    "A39384-e43850": [
+      "cleanthes"
+    ],
+    "A39384-e43880": [
+      "prince"
+    ],
+    "A39384-e43920": [
+      "aurindo"
+    ],
+    "A39384-e43960": [
+      "prince"
+    ],
+    "A39384-e44000": [
+      "calimachus"
+    ],
+    "A39384-e44080": [
+      "althea"
+    ],
+    "A39384-e44140": [
+      "prince"
+    ],
+    "A39384-e44170": [
+      "aurindo"
+    ],
+    "A39384-e44220": [
+      "prince"
+    ],
+    "A39384-e44300": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e44400": [
+      "aurindo"
+    ],
+    "A39384-e44450": [
+      "prince"
+    ],
+    "A39384-e44520": [
+      "althea"
+    ],
+    "A39384-e44560": [
+      "aurindo"
+    ],
+    "A39384-e44590": [
+      "duke-of-micena"
+    ],
+    "A39384-e44640": [
+      "aurindo"
+    ],
+    "A39384-e44690": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e44740": [
+      "duke-of-micena"
+    ],
+    "A39384-e44850": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e44890": [
+      "calimachus"
+    ],
+    "A39384-e44950": [
+      "duke-of-micena"
+    ],
+    "A39384-e45000": [
+      "calimachus"
+    ],
+    "A39384-e45060": [
+      "duke-of-micena"
+    ],
+    "A39384-e45150": [
+      "calimachus"
+    ],
+    "A39384-e45200": [
+      "duke-of-micena"
+    ],
+    "A39384-e45270": [
+      "dutchess-of-micena"
+    ],
+    "A39384-e45310": [
+      "emilia"
+    ],
+    "A39384-e45370": [
+      "althea"
+    ],
+    "A39384-e45410": [
+      "duke-of-micena"
+    ],
+    "A39384-e45450": [
+      "althea"
+    ],
+    "A39384-e45500": [
+      "clymias"
+    ],
+    "A39384-e45550": [
+      "calimachus"
+    ],
+    "A39384-e45620": [
+      "emilia"
+    ],
+    "A39384-e45670": [
+      "palemon"
+    ],
+    "A39384-e45710": [
+      "duke-of-micena"
+    ],
+    "A39384-e45790": [
+      "aurindo"
+    ],
+    "A39384-e45840": [
+      "duke-of-micena"
+    ]
+  }
+}

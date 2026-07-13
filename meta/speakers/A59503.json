@@ -1,0 +1,2305 @@
+{
+  "particDesc": [
+    {
+      "name": "Lords",
+      "id": "lords",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lady",
+      "id": "lady",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Seymour",
+      "id": "seymour",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger 2",
+      "id": "messenger-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Woman ",
+      "id": "woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Murtherer 3",
+      "id": "murtherer-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Murtherer 2",
+      "id": "murtherer-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Murtherer 1",
+      "id": "murtherer-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Maid",
+      "id": "maid",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Witch 4",
+      "id": "witch-4",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Flean",
+      "id": "flean",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Witch 3",
+      "id": "witch-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Witch 2",
+      "id": "witch-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Witch 1",
+      "id": "witch-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "king-of-scotland",
+      "name": "King of Scotland",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "malcolm",
+      "name": "Malcolm",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "prince-of-cumberland",
+      "name": "Prince of Cumberland",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "donalbain",
+      "name": "Donalbain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lenox",
+      "name": "Lenox",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ross",
+      "name": "Ross",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "angus",
+      "name": "Angus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "macbeth",
+      "name": "Macbeth",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "banquo",
+      "name": "Banquo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "macduff",
+      "name": "Macduff",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "monteth",
+      "name": "Monteth",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cathnes",
+      "name": "Cathnes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "seyward",
+      "name": "Seyward",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "seyton",
+      "name": "Seyton",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lady-macbeth",
+      "name": "Lady Macbeth",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lady-macduff",
+      "name": "Lady Macduff",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "ghost-of-banquo",
+      "name": "Ghost of Banquo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "heccatte",
+      "name": "Hecate",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A59503-e1520": [
+      "witch-1"
+    ],
+    "A59503-e1560": [
+      "witch-2"
+    ],
+    "A59503-e1590": [
+      "witch-3"
+    ],
+    "A59503-e1620": [
+      "witch-1"
+    ],
+    "A59503-e1650": [
+      "witch-2"
+    ],
+    "A59503-e1680": [
+      "witch-3"
+    ],
+    "A59503-e1730": [
+      "witch-1"
+    ],
+    "A59503-e1770": [
+      "witch-1",
+	  "witch-2",
+	  "witch-3"
+    ],
+    "A59503-e1890": [
+      "king-of-scotland"
+    ],
+    "A59503-e1940": [
+      "malcolm"
+    ],
+    "A59503-e2020": [
+      "seyton"
+    ],
+    "A59503-e2190": [
+      "king-of-scotland"
+    ],
+    "A59503-e2220": [
+      "seyton"
+    ],
+    "A59503-e2340": [
+      "king-of-scotland"
+    ],
+    "A59503-e2400": [
+      "seyton"
+    ],
+    "A59503-e2510": [
+      "king-of-scotland"
+    ],
+    "A59503-e2590": [
+      "malcolm"
+    ],
+    "A59503-e2630": [
+      "lenox"
+    ],
+    "A59503-e2660": [
+      "donalbain"
+    ],
+    "A59503-e2690": [
+      "macduff"
+    ],
+    "A59503-e2720": [
+      "king-of-scotland"
+    ],
+    "A59503-e2760": [
+      "macduff"
+    ],
+    "A59503-e2950": [
+      "king-of-scotland"
+    ],
+    "A59503-e2980": [
+      "malcolm"
+    ],
+    "A59503-e3060": [
+      "king-of-scotland"
+    ],
+    "A59503-e3150": [
+      "macduff"
+    ],
+    "A59503-e3180": [
+      "king-of-scotland"
+    ],
+    "A59503-e3250": [
+      "witch-1"
+    ],
+    "A59503-e3290": [
+      "witch-2"
+    ],
+    "A59503-e3320": [
+      "witch-3"
+    ],
+    "A59503-e3350": [
+      "witch-1"
+    ],
+    "A59503-e3450": [
+      "witch-2"
+    ],
+    "A59503-e3480": [
+      "witch-1"
+    ],
+    "A59503-e3510": [
+      "witch-3"
+    ],
+    "A59503-e3540": [
+      "witch-1"
+    ],
+    "A59503-e3680": [
+      "witch-2"
+    ],
+    "A59503-e3710": [
+      "witch-1"
+    ],
+    "A59503-e3760": [
+      "witch-3"
+    ],
+    "A59503-e3810": [
+      "witch-1"
+    ],
+    "A59503-e3870": [
+      "witch-2"
+    ],
+    "A59503-e3900": [
+      "witch-3"
+    ],
+    "A59503-e3930": [
+      "witch-2"
+    ],
+    "A59503-e4000": [
+      "macbeth"
+    ],
+    "A59503-e4040": [
+      "banquo"
+    ],
+    "A59503-e4170": [
+      "macbeth"
+    ],
+    "A59503-e4200": [
+      "witch-1"
+    ],
+    "A59503-e4270": [
+      "witch-2"
+    ],
+    "A59503-e4330": [
+      "witch-3"
+    ],
+    "A59503-e4370": [
+      "banquo"
+    ],
+    "A59503-e4510": [
+      "witch-1"
+    ],
+    "A59503-e4540": [
+      "witch-2"
+    ],
+    "A59503-e4570": [
+      "witch-3"
+    ],
+    "A59503-e4600": [
+      "witch-1"
+    ],
+    "A59503-e4640": [
+      "witch-2"
+    ],
+    "A59503-e4670": [
+      "witch-3"
+    ],
+    "A59503-e4730": [
+      "witch-1"
+    ],
+    "A59503-e4790": [
+      "macbeth"
+    ],
+    "A59503-e4980": [
+      "banquo"
+    ],
+    "A59503-e5020": [
+      "macbeth"
+    ],
+    "A59503-e5060": [
+      "banquo"
+    ],
+    "A59503-e5110": [
+      "macbeth"
+    ],
+    "A59503-e5140": [
+      "banquo"
+    ],
+    "A59503-e5170": [
+      "macbeth"
+    ],
+    "A59503-e5220": [
+      "banquo"
+    ],
+    "A59503-e5270": [
+      "macduff"
+    ],
+    "A59503-e5470": [
+      "banquo"
+    ],
+    "A59503-e5500": [
+      "macbeth"
+    ],
+    "A59503-e5560": [
+      "macduff"
+    ],
+    "A59503-e5690": [
+      "macbeth"
+    ],
+    "A59503-e5810": [
+      "banquo"
+    ],
+    "A59503-e5920": [
+      "macbeth"
+    ],
+    "A59503-e6130": [
+      "banquo"
+    ],
+    "A59503-e6160": [
+      "macbeth"
+    ],
+    "A59503-e6200": [
+      "banquo"
+    ],
+    "A59503-e6250": [
+      "macbeth"
+    ],
+    "A59503-e6290": [
+      "banquo"
+    ],
+    "A59503-e6330": [
+      "macbeth"
+    ],
+    "A59503-e6430": [
+      "banquo"
+    ],
+    "A59503-e6460": [
+      "macbeth"
+    ],
+    "A59503-e6530": [
+      "king-of-scotland"
+    ],
+    "A59503-e6590": [
+      "malcolm"
+    ],
+    "A59503-e6710": [
+      "king-of-scotland"
+    ],
+    "A59503-e6880": [
+      "macbeth"
+    ],
+    "A59503-e6970": [
+      "king-of-scotland"
+    ],
+    "A59503-e7060": [
+      "banquo"
+    ],
+    "A59503-e7100": [
+      "king-of-scotland"
+    ],
+    "A59503-e7300": [
+      "macbeth"
+    ],
+    "A59503-e7390": [
+      "king-of-scotland"
+    ],
+    "A59503-e7430": [
+      "macbeth"
+    ],
+    "A59503-e7550": [
+      "king-of-scotland"
+    ],
+    "A59503-e7690": [
+      "lady-macbeth"
+    ],
+    "A59503-e7740": [
+      "lady-macduff"
+    ],
+    "A59503-e7810": [
+      "lady-macbeth"
+    ],
+    "A59503-e7880": [
+      "lady-macduff"
+    ],
+    "A59503-e7950": [
+      "lady-macbeth"
+    ],
+    "A59503-e7980": [
+      "lady-macduff"
+    ],
+    "A59503-e8030": [
+      "lady-macbeth"
+    ],
+    "A59503-e8080": [
+      "lady-macduff"
+    ],
+    "A59503-e8170": [
+      "lady-macbeth"
+    ],
+    "A59503-e8230": [
+      "lady-macduff"
+    ],
+    "A59503-e8280": [
+      "lady-macbeth"
+    ],
+    "A59503-e8610": [
+      "servant"
+    ],
+    "A59503-e8640": [
+      "lady-macbeth"
+    ],
+    "A59503-e8690": [
+      "servant"
+    ],
+    "A59503-e8760": [
+      "lady-macbeth"
+    ],
+    "A59503-e9050": [
+      "macbeth"
+    ],
+    "A59503-e9100": [
+      "lady-macbeth"
+    ],
+    "A59503-e9130": [
+      "macbeth"
+    ],
+    "A59503-e9160": [
+      "lady-macbeth"
+    ],
+    "A59503-e9360": [
+      "king-of-scotland"
+    ],
+    "A59503-e9410": [
+      "banquo"
+    ],
+    "A59503-e9540": [
+      "king-of-scotland"
+    ],
+    "A59503-e9610": [
+      "lady-macbeth"
+    ],
+    "A59503-e9710": [
+      "macduff"
+    ],
+    "A59503-e9770": [
+      "lady-macbeth"
+    ],
+    "A59503-e9860": [
+      "king-of-scotland"
+    ],
+    "A59503-e9960": [
+      "lady-macbeth"
+    ],
+    "A59503-e10010": [
+      "king-of-scotland"
+    ],
+    "A59503-e10100": [
+      "macbeth"
+    ],
+    "A59503-e10310": [
+      "lady-macbeth"
+    ],
+    "A59503-e10340": [
+      "macbeth"
+    ],
+    "A59503-e10370": [
+      "lady-macbeth"
+    ],
+    "A59503-e10400": [
+      "macbeth"
+    ],
+    "A59503-e10470": [
+      "lady-macbeth"
+    ],
+    "A59503-e10590": [
+      "macbeth"
+    ],
+    "A59503-e10630": [
+      "lady-macbeth"
+    ],
+    "A59503-e10770": [
+      "macbeth"
+    ],
+    "A59503-e10800": [
+      "lady-macbeth"
+    ],
+    "A59503-e10960": [
+      "macbeth"
+    ],
+    "A59503-e11060": [
+      "lady-macbeth"
+    ],
+    "A59503-e11110": [
+      "macbeth"
+    ],
+    "A59503-e11230": [
+      "banquo"
+    ],
+    "A59503-e11260": [
+      "flean"
+    ],
+    "A59503-e11300": [
+      "banquo"
+    ],
+    "A59503-e11330": [
+      "flean"
+    ],
+    "A59503-e11370": [
+      "banquo"
+    ],
+    "A59503-e11480": [
+      "banquo"
+    ],
+    "A59503-e11550": [
+      "macbeth"
+    ],
+    "A59503-e11590": [
+      "banquo"
+    ],
+    "A59503-e11640": [
+      "macbeth"
+    ],
+    "A59503-e11690": [
+      "banquo"
+    ],
+    "A59503-e11720": [
+      "macbeth"
+    ],
+    "A59503-e11760": [
+      "banquo"
+    ],
+    "A59503-e11810": [
+      "macbeth"
+    ],
+    "A59503-e11840": [
+      "banquo"
+    ],
+    "A59503-e11880": [
+      "macbeth"
+    ],
+    "A59503-e12170": [
+      "lady-macbeth"
+    ],
+    "A59503-e12280": [
+      "macbeth"
+    ],
+    "A59503-e12310": [
+      "lady-macbeth"
+    ],
+    "A59503-e12390": [
+      "macbeth"
+    ],
+    "A59503-e12420": [
+      "lady-macbeth"
+    ],
+    "A59503-e12460": [
+      "macbeth"
+    ],
+    "A59503-e12490": [
+      "lady-macbeth"
+    ],
+    "A59503-e12520": [
+      "macbeth"
+    ],
+    "A59503-e12550": [
+      "lady-macbeth"
+    ],
+    "A59503-e12590": [
+      "macbeth"
+    ],
+    "A59503-e12620": [
+      "lady-macbeth"
+    ],
+    "A59503-e12650": [
+      "macbeth"
+    ],
+    "A59503-e12710": [
+      "lady-macbeth"
+    ],
+    "A59503-e12740": [
+      "macbeth"
+    ],
+    "A59503-e12820": [
+      "lady-macbeth"
+    ],
+    "A59503-e12850": [
+      "macbeth"
+    ],
+    "A59503-e12920": [
+      "lady-macbeth"
+    ],
+    "A59503-e12960": [
+      "macbeth"
+    ],
+    "A59503-e13050": [
+      "lady-macbeth"
+    ],
+    "A59503-e13080": [
+      "macbeth"
+    ],
+    "A59503-e13160": [
+      "lady-macbeth"
+    ],
+    "A59503-e13230": [
+      "macbeth"
+    ],
+    "A59503-e13280": [
+      "lady-macbeth"
+    ],
+    "A59503-e13370": [
+      "macbeth"
+    ],
+    "A59503-e13470": [
+      "lady-macbeth"
+    ],
+    "A59503-e13590": [
+      "macbeth"
+    ],
+    "A59503-e13690": [
+      "lenox"
+    ],
+    "A59503-e13730": [
+      "servant"
+    ],
+    "A59503-e13780": [
+      "lenox"
+    ],
+    "A59503-e13850": [
+      "macduff"
+    ],
+    "A59503-e13970": [
+      "macduff"
+    ],
+    "A59503-e14000": [
+      "macbeth"
+    ],
+    "A59503-e14030": [
+      "macduff"
+    ],
+    "A59503-e14070": [
+      "macbeth"
+    ],
+    "A59503-e14100": [
+      "macduff"
+    ],
+    "A59503-e14130": [
+      "macbeth"
+    ],
+    "A59503-e14170": [
+      "macduff"
+    ],
+    "A59503-e14210": [
+      "lenox"
+    ],
+    "A59503-e14240": [
+      "macbeth"
+    ],
+    "A59503-e14270": [
+      "lenox"
+    ],
+    "A59503-e14350": [
+      "macbeth"
+    ],
+    "A59503-e14380": [
+      "lenox"
+    ],
+    "A59503-e14430": [
+      "macduff"
+    ],
+    "A59503-e14470": [
+      "macbeth"
+    ],
+    "A59503-e14500": [
+      "lenox"
+    ],
+    "A59503-e14530": [
+      "macduff"
+    ],
+    "A59503-e14590": [
+      "macbeth"
+    ],
+    "A59503-e14620": [
+      "lenox"
+    ],
+    "A59503-e14650": [
+      "macduff"
+    ],
+    "A59503-e14820": [
+      "lady-macbeth"
+    ],
+    "A59503-e14860": [
+      "macduff"
+    ],
+    "A59503-e14960": [
+      "lady-macbeth"
+    ],
+    "A59503-e14990": [
+      "banquo"
+    ],
+    "A59503-e15080": [
+      "macbeth"
+    ],
+    "A59503-e15170": [
+      "donalbain"
+    ],
+    "A59503-e15200": [
+      "macbeth"
+    ],
+    "A59503-e15250": [
+      "macduff"
+    ],
+    "A59503-e15280": [
+      "malcolm"
+    ],
+    "A59503-e15310": [
+      "lenox"
+    ],
+    "A59503-e15400": [
+      "macbeth"
+    ],
+    "A59503-e15430": [
+      "macduff"
+    ],
+    "A59503-e15460": [
+      "macbeth"
+    ],
+    "A59503-e15600": [
+      "lady-macbeth"
+    ],
+    "A59503-e15640": [
+      "macduff"
+    ],
+    "A59503-e15670": [
+      "malcolm"
+    ],
+    "A59503-e15710": [
+      "donalbain"
+    ],
+    "A59503-e15770": [
+      "macduff"
+    ],
+    "A59503-e15830": [
+      "banquo"
+    ],
+    "A59503-e15860": [
+      "macbeth"
+    ],
+    "A59503-e15920": [
+      "banquo"
+    ],
+    "A59503-e15960": [
+      "malcolm"
+    ],
+    "A59503-e16040": [
+      "donalbain"
+    ],
+    "A59503-e16120": [
+      "malcolm"
+    ],
+    "A59503-e16220": [
+      "seyton"
+    ],
+    "A59503-e16280": [
+      "lenox"
+    ],
+    "A59503-e16360": [
+      "seyton"
+    ],
+    "A59503-e16440": [
+      "lenox"
+    ],
+    "A59503-e16510": [
+      "seyton"
+    ],
+    "A59503-e16540": [
+      "lenox"
+    ],
+    "A59503-e16630": [
+      "lenox"
+    ],
+    "A59503-e16660": [
+      "macduff"
+    ],
+    "A59503-e16700": [
+      "lenox"
+    ],
+    "A59503-e16730": [
+      "macduff"
+    ],
+    "A59503-e16810": [
+      "lenox"
+    ],
+    "A59503-e16860": [
+      "macduff"
+    ],
+    "A59503-e16910": [
+      "lenox"
+    ],
+    "A59503-e16960": [
+      "macduff"
+    ],
+    "A59503-e17010": [
+      "lenox"
+    ],
+    "A59503-e17050": [
+      "macduff"
+    ],
+    "A59503-e17100": [
+      "lenox"
+    ],
+    "A59503-e17140": [
+      "macduff"
+    ],
+    "A59503-e17290": [
+      "lady-macduff"
+    ],
+    "A59503-e17330": [
+      "servant"
+    ],
+    "A59503-e17370": [
+      "lady-macduff"
+    ],
+    "A59503-e17460": [
+      "maid"
+    ],
+    "A59503-e17510": [
+      "lady-macduff"
+    ],
+    "A59503-e17560": [
+      "maid"
+    ],
+    "A59503-e17620": [
+      "lady-macduff"
+    ],
+    "A59503-e17660": [
+      "servant"
+    ],
+    "A59503-e17710": [
+      "lady-macduff"
+    ],
+    "A59503-e17750": [
+      "macduff"
+    ],
+    "A59503-e17800": [
+      "lady-macduff"
+    ],
+    "A59503-e17840": [
+      "witch-1"
+    ],
+    "A59503-e17880": [
+      "witch-2"
+    ],
+    "A59503-e17930": [
+      "witch-3"
+    ],
+    "A59503-e18010": [
+      "witch-2"
+    ],
+    "A59503-e18050": [
+      "witch-1"
+    ],
+    "A59503-e18090": [
+      "witch-3"
+    ],
+    "A59503-e18140": [
+      "witch-1"
+    ],
+    "A59503-e18180": [
+      "witch-2"
+    ],
+    "A59503-e18220": [
+      "witch-3"
+    ],
+    "A59503-e18260": [
+      "witch-4"
+    ],
+    "A59503-e18300": [
+      "chorus"
+    ],
+    "A59503-e18350": [
+      "macduff"
+    ],
+    "A59503-e18380": [
+      "lady-macduff"
+    ],
+    "A59503-e18430": [
+      "macduff"
+    ],
+    "A59503-e18690": [
+      "macduff"
+    ],
+    "A59503-e18720": [
+      "lady-macduff"
+    ],
+    "A59503-e18760": [
+      "macduff"
+    ],
+    "A59503-e18840": [
+      "macduff"
+    ],
+    "A59503-e18900": [
+      "witch-1"
+    ],
+    "A59503-e18940": [
+      "witch-2"
+    ],
+    "A59503-e18980": [
+      "witch-3"
+    ],
+    "A59503-e19040": [
+      "lady-macduff"
+    ],
+    "A59503-e19090": [
+      "macduff"
+    ],
+    "A59503-e19120": [
+      "lady-macduff"
+    ],
+    "A59503-e19180": [
+      "macduff"
+    ],
+    "A59503-e19290": [
+      "banquo"
+    ],
+    "A59503-e19430": [
+      "macbeth"
+    ],
+    "A59503-e19490": [
+      "banquo"
+    ],
+    "A59503-e19530": [
+      "macbeth"
+    ],
+    "A59503-e19560": [
+      "banquo"
+    ],
+    "A59503-e19590": [
+      "macbeth"
+    ],
+    "A59503-e19650": [
+      "banquo"
+    ],
+    "A59503-e19710": [
+      "macbeth"
+    ],
+    "A59503-e19740": [
+      "banquo"
+    ],
+    "A59503-e19770": [
+      "macbeth"
+    ],
+    "A59503-e19860": [
+      "banquo"
+    ],
+    "A59503-e19890": [
+      "macbeth"
+    ],
+    "A59503-e20050": [
+      "servant"
+    ],
+    "A59503-e20080": [
+      "macbeth"
+    ],
+    "A59503-e20390": [
+      "murtherer-1"
+    ],
+    "A59503-e20430": [
+      "macbeth"
+    ],
+    "A59503-e20530": [
+      "murtherer-2"
+    ],
+    "A59503-e20570": [
+      "macbeth"
+    ],
+    "A59503-e20670": [
+      "murtherer-1"
+    ],
+    "A59503-e20710": [
+      "macbeth"
+    ],
+    "A59503-e20860": [
+      "murtherer-2"
+    ],
+    "A59503-e20930": [
+      "murtherer-1"
+    ],
+    "A59503-e21000": [
+      "macbeth"
+    ],
+    "A59503-e21040": [
+      "murtherer-2"
+    ],
+    "A59503-e21080": [
+      "macbeth"
+    ],
+    "A59503-e21180": [
+      "murtherer-2"
+    ],
+    "A59503-e21220": [
+      "murtherer-1"
+    ],
+    "A59503-e21260": [
+      "macbeth"
+    ],
+    "A59503-e21400": [
+      "murtherer-1",
+      "murtherer-2"
+    ],
+    "A59503-e21430": [
+      "macbeth"
+    ],
+    "A59503-e21540": [
+      "macduff"
+    ],
+    "A59503-e21630": [
+      "lady-macduff"
+    ],
+    "A59503-e21690": [
+      "macduff"
+    ],
+    "A59503-e21740": [
+      "lady-macduff"
+    ],
+    "A59503-e21820": [
+      "macduff"
+    ],
+    "A59503-e21860": [
+      "lady-macduff"
+    ],
+    "A59503-e21960": [
+      "macduff"
+    ],
+    "A59503-e22040": [
+      "lady-macduff"
+    ],
+    "A59503-e22170": [
+      "macduff"
+    ],
+    "A59503-e22230": [
+      "lady-macduff"
+    ],
+    "A59503-e22310": [
+      "macduff"
+    ],
+    "A59503-e22370": [
+      "lady-macduff"
+    ],
+    "A59503-e22470": [
+      "macduff"
+    ],
+    "A59503-e22520": [
+      "servant"
+    ],
+    "A59503-e22560": [
+      "macduff"
+    ],
+    "A59503-e22590": [
+      "lady-macduff"
+    ],
+    "A59503-e22630": [
+      "macduff"
+    ],
+    "A59503-e22710": [
+      "lady-macbeth"
+    ],
+    "A59503-e22760": [
+      "servant"
+    ],
+    "A59503-e22790": [
+      "lady-macduff"
+    ],
+    "A59503-e22950": [
+      "macbeth"
+    ],
+    "A59503-e23120": [
+      "lady-macbeth"
+    ],
+    "A59503-e23160": [
+      "macbeth"
+    ],
+    "A59503-e23250": [
+      "lady-macbeth"
+    ],
+    "A59503-e23280": [
+      "macbeth"
+    ],
+    "A59503-e23340": [
+      "lady-macbeth"
+    ],
+    "A59503-e23370": [
+      "macbeth"
+    ],
+    "A59503-e23460": [
+      "lady-macbeth"
+    ],
+    "A59503-e23490": [
+      "macbeth"
+    ],
+    "A59503-e23620": [
+      "murtherer-1"
+    ],
+    "A59503-e23700": [
+      "murtherer-2"
+    ],
+    "A59503-e23750": [
+      "murtherer-3"
+    ],
+    "A59503-e23800": [
+      "murtherer-1"
+    ],
+    "A59503-e23900": [
+      "banquo"
+    ],
+    "A59503-e23930": [
+      "flean"
+    ],
+    "A59503-e23960": [
+      "banquo"
+    ],
+    "A59503-e24050": [
+      "murtherer-1"
+    ],
+    "A59503-e24110": [
+      "murtherer-2"
+    ],
+    "A59503-e24220": [
+      "flean"
+    ],
+    "A59503-e24320": [
+      "macbeth"
+    ],
+    "A59503-e24350": [
+      "seyton"
+    ],
+    "A59503-e24380": [
+      "macbeth"
+    ],
+    "A59503-e24430": [
+      "lady-macbeth"
+    ],
+    "A59503-e24470": [
+      "macbeth"
+    ],
+    "A59503-e24520": [
+      "murtherer-1"
+    ],
+    "A59503-e24560": [
+      "macbeth"
+    ],
+    "A59503-e24590": [
+      "murtherer-1"
+    ],
+    "A59503-e24620": [
+      "macbeth"
+    ],
+    "A59503-e24670": [
+      "murtherer-1"
+    ],
+    "A59503-e24700": [
+      "macbeth"
+    ],
+    "A59503-e24780": [
+      "murtherer-1"
+    ],
+    "A59503-e24830": [
+      "macbeth"
+    ],
+    "A59503-e24900": [
+      "lady-macbeth"
+    ],
+    "A59503-e24980": [
+      "macbeth"
+    ],
+    "A59503-e25020": [
+      "lenox"
+    ],
+    "A59503-e25050": [
+      "macbeth"
+    ],
+    "A59503-e25110": [
+      "seyton"
+    ],
+    "A59503-e25160": [
+      "macbeth"
+    ],
+    "A59503-e25190": [
+      "lenox"
+    ],
+    "A59503-e25220": [
+      "macbeth"
+    ],
+    "A59503-e25250": [
+      "lenox"
+    ],
+    "A59503-e25280": [
+      "macbeth"
+    ],
+    "A59503-e25310": [
+      "lords"
+    ],
+    "A59503-e25340": [
+      "macbeth"
+    ],
+    "A59503-e25380": [
+      "seyton"
+    ],
+    "A59503-e25410": [
+      "lady-macbeth"
+    ],
+    "A59503-e25490": [
+      "macbeth"
+    ],
+    "A59503-e25530": [
+      "lady-macbeth"
+    ],
+    "A59503-e25640": [
+      "macbeth"
+    ],
+    "A59503-e25710": [
+      "lady-macbeth"
+    ],
+    "A59503-e25750": [
+      "macbeth"
+    ],
+    "A59503-e25780": [
+      "lady-macbeth"
+    ],
+    "A59503-e25810": [
+      "macbeth"
+    ],
+    "A59503-e25900": [
+      "lady-macbeth"
+    ],
+    "A59503-e25930": [
+      "macbeth"
+    ],
+    "A59503-e26020": [
+      "lords"
+    ],
+    "A59503-e26080": [
+      "macbeth"
+    ],
+    "A59503-e26120": [
+      "lady-macbeth"
+    ],
+    "A59503-e26170": [
+      "macbeth"
+    ],
+    "A59503-e26320": [
+      "lady-macbeth"
+    ],
+    "A59503-e26360": [
+      "macbeth"
+    ],
+    "A59503-e26440": [
+      "seyton"
+    ],
+    "A59503-e26470": [
+      "lady-macbeth"
+    ],
+    "A59503-e26520": [
+      "lenox"
+    ],
+    "A59503-e26550": [
+      "lady-macbeth"
+    ],
+    "A59503-e26590": [
+      "macbeth"
+    ],
+    "A59503-e26690": [
+      "lady-macbeth"
+    ],
+    "A59503-e26720": [
+      "macbeth"
+    ],
+    "A59503-e26770": [
+      "lady-macbeth"
+    ],
+    "A59503-e26800": [
+      "macbeth"
+    ],
+    "A59503-e26950": [
+      "lady-macbeth"
+    ],
+    "A59503-e26980": [
+      "macbeth"
+    ],
+    "A59503-e27070": [
+      "lady-macduff"
+    ],
+    "A59503-e27100": [
+      "macduff"
+    ],
+    "A59503-e27160": [
+      "lady-macduff"
+    ],
+    "A59503-e27200": [
+      "macduff"
+    ],
+    "A59503-e27240": [
+      "lady-macduff"
+    ],
+    "A59503-e27310": [
+      "macduff"
+    ],
+    "A59503-e27440": [
+      "lady-macduff"
+    ],
+    "A59503-e27480": [
+      "macduff"
+    ],
+    "A59503-e27540": [
+      "messenger"
+    ],
+    "A59503-e27580": [
+      "macduff"
+    ],
+    "A59503-e27620": [
+      "lady-macduff"
+    ],
+    "A59503-e27650": [
+      "macduff"
+    ],
+    "A59503-e27700": [
+      "lady-macduff"
+    ],
+    "A59503-e27820": [
+      "lenox"
+    ],
+    "A59503-e28030": [
+      "seyton"
+    ],
+    "A59503-e28080": [
+      "lenox"
+    ],
+    "A59503-e28210": [
+      "seyton"
+    ],
+    "A59503-e28400": [
+      "lenox"
+    ],
+    "A59503-e28440": [
+      "seyton"
+    ],
+    "A59503-e28470": [
+      "lenox"
+    ],
+    "A59503-e28570": [
+      "witch-1"
+    ],
+    "A59503-e28620": [
+      "heccatte"
+    ],
+    "A59503-e28940": [
+      "heccatte"
+    ],
+    "A59503-e29000": [
+      "witch-2"
+    ],
+    "A59503-e29030": [
+      "heccatte"
+    ],
+    "A59503-e29070": [
+      "witch-3"
+    ],
+    "A59503-e29120": [
+      "witch-1"
+    ],
+    "A59503-e29160": [
+      "heccatte"
+    ],
+    "A59503-e29210": [
+      "witch-1"
+    ],
+    "A59503-e29270": [
+      "witch-2"
+    ],
+    "A59503-e29360": [
+      "witch-3"
+    ],
+    "A59503-e29510": [
+      "witch-1"
+    ],
+    "A59503-e29540": [
+      "witch-2"
+    ],
+    "A59503-e29650": [
+      "witch-1"
+    ],
+    "A59503-e29690": [
+      "witch-2"
+    ],
+    "A59503-e29730": [
+      "witch-3"
+    ],
+    "A59503-e29770": [
+      "witch-1"
+    ],
+    "A59503-e29860": [
+      "witch-1",
+	  "witch-2",
+	  "witch-3"
+    ],
+    "A59503-e29910": [
+      "witch-2"
+    ],
+    "A59503-e30000": [
+      "witch-1",
+	  "witch-2",
+	  "witch-3"
+    ],
+    "A59503-e30040": [
+      "witch-3"
+    ],
+    "A59503-e30230": [
+      "witch-1",
+	  "witch-2",
+	  "witch-3"
+    ],
+    "A59503-e30270": [
+      "witch-2"
+    ],
+    "A59503-e30340": [
+      "heccatte"
+    ],
+    "A59503-e30430": [
+      "heccatte"
+    ],
+    "A59503-e30490": [
+      "witch-1"
+    ],
+    "A59503-e30580": [
+      "chorus"
+    ],
+    "A59503-e30620": [
+      "witch-1"
+    ],
+    "A59503-e30650": [
+      "heccatte"
+    ],
+    "A59503-e30680": [
+      "witch-2"
+    ],
+    "A59503-e30710": [
+      "heccatte"
+    ],
+    "A59503-e30740": [
+      "witch-1"
+    ],
+    "A59503-e30780": [
+      "witch-2"
+    ],
+    "A59503-e30810": [
+      "heccatte"
+    ],
+    "A59503-e30860": [
+      "witch-2"
+    ],
+    "A59503-e30930": [
+      "macbeth"
+    ],
+    "A59503-e30970": [
+      "chorus"
+    ],
+    "A59503-e31000": [
+      "macbeth"
+    ],
+    "A59503-e31090": [
+      "witch-1"
+    ],
+    "A59503-e31120": [
+      "witch-2"
+    ],
+    "A59503-e31150": [
+      "witch-3"
+    ],
+    "A59503-e31180": [
+      "witch-4"
+    ],
+    "A59503-e31210": [
+      "macbeth"
+    ],
+    "A59503-e31240": [
+      "heccatte"
+    ],
+    "A59503-e31310": [
+      "macbeth"
+    ],
+    "A59503-e31340": [
+      "heccatte"
+    ],
+    "A59503-e31380": [
+      "macbeth"
+    ],
+    "A59503-e31450": [
+      "heccatte"
+    ],
+    "A59503-e31540": [
+      "macbeth"
+    ],
+    "A59503-e31670": [
+      "chorus",
+	  "heccatte"
+    ],
+    "A59503-e31700": [
+      "macbeth"
+    ],
+    "A59503-e31780": [
+      "witch-1"
+    ],
+    "A59503-e31820": [
+      "witch-2"
+    ],
+    "A59503-e31850": [
+      "witch-3"
+    ],
+    "A59503-e31930": [
+      "macbeth"
+    ],
+    "A59503-e32050": [
+      "heccatte"
+    ],
+    "A59503-e32160": [
+      "macbeth"
+    ],
+    "A59503-e32230": [
+      "seyton"
+    ],
+    "A59503-e32260": [
+      "macbeth"
+    ],
+    "A59503-e32290": [
+      "seyton"
+    ],
+    "A59503-e32320": [
+      "macbeth"
+    ],
+    "A59503-e32350": [
+      "seyton"
+    ],
+    "A59503-e32380": [
+      "macbeth"
+    ],
+    "A59503-e32430": [
+      "seyton"
+    ],
+    "A59503-e32500": [
+      "macbeth"
+    ],
+    "A59503-e32540": [
+      "seyton"
+    ],
+    "A59503-e32570": [
+      "macbeth"
+    ],
+    "A59503-e32680": [
+      "lady-macduff"
+    ],
+    "A59503-e32770": [
+      "lenox"
+    ],
+    "A59503-e32800": [
+      "lady-macduff"
+    ],
+    "A59503-e32850": [
+      "lenox"
+    ],
+    "A59503-e32880": [
+      "lady-macduff"
+    ],
+    "A59503-e32970": [
+      "lenox"
+    ],
+    "A59503-e33100": [
+      "lady-macduff"
+    ],
+    "A59503-e33150": [
+      "woman"
+    ],
+    "A59503-e33190": [
+      "lady-macduff"
+    ],
+    "A59503-e33240": [
+      "seyton"
+    ],
+    "A59503-e33340": [
+      "lady-macduff"
+    ],
+    "A59503-e33490": [
+      "macduff"
+    ],
+    "A59503-e33540": [
+      "malcolm"
+    ],
+    "A59503-e33580": [
+      "macduff"
+    ],
+    "A59503-e33640": [
+      "malcolm"
+    ],
+    "A59503-e33690": [
+      "macduff"
+    ],
+    "A59503-e33720": [
+      "malcolm"
+    ],
+    "A59503-e33790": [
+      "macduff"
+    ],
+    "A59503-e33820": [
+      "malcolm"
+    ],
+    "A59503-e33870": [
+      "macduff"
+    ],
+    "A59503-e33960": [
+      "malcolm"
+    ],
+    "A59503-e34110": [
+      "macduff"
+    ],
+    "A59503-e34140": [
+      "malcolm"
+    ],
+    "A59503-e34200": [
+      "macduff"
+    ],
+    "A59503-e34250": [
+      "malcolm"
+    ],
+    "A59503-e34310": [
+      "macduff"
+    ],
+    "A59503-e34450": [
+      "malcolm"
+    ],
+    "A59503-e34650": [
+      "macduff"
+    ],
+    "A59503-e34720": [
+      "malcolm"
+    ],
+    "A59503-e34790": [
+      "macduff"
+    ],
+    "A59503-e34880": [
+      "macbeth"
+    ],
+    "A59503-e34920": [
+      "seyton"
+    ],
+    "A59503-e34950": [
+      "macbeth"
+    ],
+    "A59503-e34990": [
+      "seyton"
+    ],
+    "A59503-e35030": [
+      "macbeth"
+    ],
+    "A59503-e35070": [
+      "seyton"
+    ],
+    "A59503-e35100": [
+      "macbeth"
+    ],
+    "A59503-e35150": [
+      "seyton"
+    ],
+    "A59503-e35180": [
+      "macbeth"
+    ],
+    "A59503-e35260": [
+      "seyton"
+    ],
+    "A59503-e35290": [
+      "macbeth"
+    ],
+    "A59503-e35330": [
+      "seyton"
+    ],
+    "A59503-e35360": [
+      "macbeth"
+    ],
+    "A59503-e35410": [
+      "seyton"
+    ],
+    "A59503-e35440": [
+      "macbeth"
+    ],
+    "A59503-e35470": [
+      "seyton"
+    ],
+    "A59503-e35510": [
+      "macbeth"
+    ],
+    "A59503-e35550": [
+      "seyton"
+    ],
+    "A59503-e35620": [
+      "macbeth"
+    ],
+    "A59503-e35650": [
+      "lady-macbeth"
+    ],
+    "A59503-e35690": [
+      "macbeth"
+    ],
+    "A59503-e35720": [
+      "lady-macbeth"
+    ],
+    "A59503-e35770": [
+      "macbeth"
+    ],
+    "A59503-e35810": [
+      "lady-macbeth"
+    ],
+    "A59503-e35850": [
+      "macbeth"
+    ],
+    "A59503-e35880": [
+      "lady-macbeth"
+    ],
+    "A59503-e35920": [
+      "macbeth"
+    ],
+    "A59503-e35950": [
+      "lady-macbeth"
+    ],
+    "A59503-e36040": [
+      "macbeth"
+    ],
+    "A59503-e36080": [
+      "lady-macbeth"
+    ],
+    "A59503-e36140": [
+      "macbeth"
+    ],
+    "A59503-e36210": [
+      "lady-macbeth"
+    ],
+    "A59503-e36290": [
+      "macbeth"
+    ],
+    "A59503-e36330": [
+      "lady-macbeth"
+    ],
+    "A59503-e36420": [
+      "macbeth"
+    ],
+    "A59503-e36450": [
+      "lady-macbeth"
+    ],
+    "A59503-e36500": [
+      "macbeth"
+    ],
+    "A59503-e36540": [
+      "lady-macbeth"
+    ],
+    "A59503-e36610": [
+      "macbeth"
+    ],
+    "A59503-e36720": [
+      "macduff"
+    ],
+    "A59503-e36750": [
+      "malcolm"
+    ],
+    "A59503-e36780": [
+      "macduff"
+    ],
+    "A59503-e36810": [
+      "malcolm"
+    ],
+    "A59503-e36850": [
+      "lenox"
+    ],
+    "A59503-e36880": [
+      "macduff"
+    ],
+    "A59503-e36920": [
+      "lenox"
+    ],
+    "A59503-e37020": [
+      "macduff"
+    ],
+    "A59503-e37050": [
+      "malcolm"
+    ],
+    "A59503-e37080": [
+      "lenox"
+    ],
+    "A59503-e37120": [
+      "macduff"
+    ],
+    "A59503-e37150": [
+      "lenox"
+    ],
+    "A59503-e37180": [
+      "macduff"
+    ],
+    "A59503-e37210": [
+      "lenox"
+    ],
+    "A59503-e37240": [
+      "macduff"
+    ],
+    "A59503-e37270": [
+      "lenox"
+    ],
+    "A59503-e37300": [
+      "macduff"
+    ],
+    "A59503-e37330": [
+      "lenox"
+    ],
+    "A59503-e37430": [
+      "malcolm"
+    ],
+    "A59503-e37500": [
+      "lenox"
+    ],
+    "A59503-e37560": [
+      "macduff"
+    ],
+    "A59503-e37600": [
+      "lenox"
+    ],
+    "A59503-e37640": [
+      "macduff"
+    ],
+    "A59503-e37670": [
+      "lenox"
+    ],
+    "A59503-e37720": [
+      "macduff"
+    ],
+    "A59503-e37750": [
+      "lenox"
+    ],
+    "A59503-e37810": [
+      "malcolm"
+    ],
+    "A59503-e37870": [
+      "macduff"
+    ],
+    "A59503-e37900": [
+      "lenox"
+    ],
+    "A59503-e37930": [
+      "macduff"
+    ],
+    "A59503-e37970": [
+      "lenox"
+    ],
+    "A59503-e38000": [
+      "macduff"
+    ],
+    "A59503-e38050": [
+      "macduff"
+    ],
+    "A59503-e38100": [
+      "malcolm"
+    ],
+    "A59503-e38130": [
+      "macduff"
+    ],
+    "A59503-e38230": [
+      "malcolm"
+    ],
+    "A59503-e38270": [
+      "macduff"
+    ],
+    "A59503-e38360": [
+      "malcolm"
+    ],
+    "A59503-e38410": [
+      "macduff"
+    ],
+    "A59503-e38550": [
+      "lady"
+    ],
+    "A59503-e38620": [
+      "seyton"
+    ],
+    "A59503-e38680": [
+      "lady"
+    ],
+    "A59503-e38710": [
+      "seyton"
+    ],
+    "A59503-e38740": [
+      "lady"
+    ],
+    "A59503-e38810": [
+      "seyton"
+    ],
+    "A59503-e38840": [
+      "lady"
+    ],
+    "A59503-e38870": [
+      "seyton"
+    ],
+    "A59503-e38900": [
+      "lady"
+    ],
+    "A59503-e38950": [
+      "lady-macbeth"
+    ],
+    "A59503-e38980": [
+      "seyton"
+    ],
+    "A59503-e39010": [
+      "lady-macbeth"
+    ],
+    "A59503-e39090": [
+      "seyton"
+    ],
+    "A59503-e39120": [
+      "lady-macbeth"
+    ],
+    "A59503-e39280": [
+      "lenox"
+    ],
+    "A59503-e39330": [
+      "donalbain"
+    ],
+    "A59503-e39360": [
+      "lenox"
+    ],
+    "A59503-e39420": [
+      "donalbain"
+    ],
+    "A59503-e39490": [
+      "flean"
+    ],
+    "A59503-e39530": [
+      "donalbain"
+    ],
+    "A59503-e39560": [
+      "lenox"
+    ],
+    "A59503-e39610": [
+      "donalbain"
+    ],
+    "A59503-e39640": [
+      "lenox"
+    ],
+    "A59503-e39740": [
+      "donalbain"
+    ],
+    "A59503-e39790": [
+      "lenox"
+    ],
+    "A59503-e39890": [
+      "macbeth"
+    ],
+    "A59503-e40070": [
+      "messenger"
+    ],
+    "A59503-e40100": [
+      "macbeth"
+    ],
+    "A59503-e40130": [
+      "messenger"
+    ],
+    "A59503-e40160": [
+      "macbeth"
+    ],
+    "A59503-e40230": [
+      "messenger"
+    ],
+    "A59503-e40270": [
+      "macbeth"
+    ],
+    "A59503-e40410": [
+      "seyton"
+    ],
+    "A59503-e40470": [
+      "messenger-2"
+    ],
+    "A59503-e40510": [
+      "macbeth"
+    ],
+    "A59503-e40560": [
+      "seyton"
+    ],
+    "A59503-e40600": [
+      "macbeth"
+    ],
+    "A59503-e40730": [
+      "seyton"
+    ],
+    "A59503-e40820": [
+      "macbeth"
+    ],
+    "A59503-e40960": [
+      "malcolm"
+    ],
+    "A59503-e41050": [
+      "seymour"
+    ],
+    "A59503-e41080": [
+      "malcolm"
+    ],
+    "A59503-e41120": [
+      "seymour"
+    ],
+    "A59503-e41180": [
+      "malcolm"
+    ],
+    "A59503-e41260": [
+      "macduff"
+    ],
+    "A59503-e41340": [
+      "lenox"
+    ],
+    "A59503-e41390": [
+      "malcolm"
+    ],
+    "A59503-e41420": [
+      "macduff"
+    ],
+    "A59503-e41490": [
+      "seymour"
+    ],
+    "A59503-e41540": [
+      "macduff"
+    ],
+    "A59503-e41620": [
+      "macbeth"
+    ],
+    "A59503-e41740": [
+      "servant"
+    ],
+    "A59503-e41770": [
+      "macbeth"
+    ],
+    "A59503-e41820": [
+      "servant"
+    ],
+    "A59503-e41850": [
+      "macbeth"
+    ],
+    "A59503-e42010": [
+      "messenger"
+    ],
+    "A59503-e42050": [
+      "macbeth"
+    ],
+    "A59503-e42090": [
+      "messenger"
+    ],
+    "A59503-e42150": [
+      "macbeth"
+    ],
+    "A59503-e42180": [
+      "messenger"
+    ],
+    "A59503-e42230": [
+      "macbeth"
+    ],
+    "A59503-e42460": [
+      "malcolm"
+    ],
+    "A59503-e42570": [
+      "seymour"
+    ],
+    "A59503-e42610": [
+      "macduff"
+    ],
+    "A59503-e42680": [
+      "macbeth"
+    ],
+    "A59503-e42750": [
+      "lenox"
+    ],
+    "A59503-e42810": [
+      "macbeth"
+    ],
+    "A59503-e42880": [
+      "lenox"
+    ],
+    "A59503-e42910": [
+      "macbeth"
+    ],
+    "A59503-e42950": [
+      "lenox"
+    ],
+    "A59503-e43050": [
+      "macbeth"
+    ],
+    "A59503-e43120": [
+      "lenox"
+    ],
+    "A59503-e43190": [
+      "macduff"
+    ],
+    "A59503-e43340": [
+      "seymour"
+    ],
+    "A59503-e43380": [
+      "malcolm"
+    ],
+    "A59503-e43440": [
+      "seymour"
+    ],
+    "A59503-e43530": [
+      "macbeth"
+    ],
+    "A59503-e43610": [
+      "macduff"
+    ],
+    "A59503-e43640": [
+      "macbeth"
+    ],
+    "A59503-e43690": [
+      "macduff"
+    ],
+    "A59503-e43730": [
+      "macbeth"
+    ],
+    "A59503-e43780": [
+      "macduff"
+    ],
+    "A59503-e43810": [
+      "macbeth"
+    ],
+    "A59503-e43850": [
+      "macduff"
+    ],
+    "A59503-e43900": [
+      "macbeth"
+    ],
+    "A59503-e43930": [
+      "macduff"
+    ],
+    "A59503-e43970": [
+      "macbeth"
+    ],
+    "A59503-e44000": [
+      "macduff"
+    ],
+    "A59503-e44050": [
+      "macbeth"
+    ],
+    "A59503-e44110": [
+      "macduff"
+    ],
+    "A59503-e44170": [
+      "macbeth"
+    ],
+    "A59503-e44280": [
+      "macduff"
+    ],
+    "A59503-e44400": [
+      "macbeth"
+    ],
+    "A59503-e44470": [
+      "malcolm"
+    ],
+    "A59503-e44530": [
+      "seymour"
+    ],
+    "A59503-e44590": [
+      "seyton"
+    ],
+    "A59503-e44660": [
+      "macduff"
+    ],
+    "A59503-e44770": [
+      "malcolm"
+    ],
+    "A59503-e44820": [
+      "macduff"
+    ],
+    "A59503-e44930": [
+      "malcolm"
+    ],
+    "A59503-e45090": [
+      "macduff"
+    ]
+  }
+}

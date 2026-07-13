@@ -1,0 +1,4191 @@
+{
+  "particDesc": [
+    {
+      "name": "Women",
+      "id": "women",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Men",
+      "id": "men",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Townspeople",
+      "id": "townspeople",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Steward",
+      "id": "steward",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bully 2",
+      "id": "bully-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bully 1",
+      "id": "bully-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Weaver 3",
+      "id": "weaver-3",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Weaver 2",
+      "id": "weaver-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Weaver 1",
+      "id": "weaver-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Dropsie",
+      "id": "dropsie",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Consumption",
+      "id": "consumption",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Scurvy",
+      "id": "scurvy",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Stone",
+      "id": "stone",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Gout",
+      "id": "gout",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Sick People",
+      "id": "sick-people",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Maid",
+      "id": "maid",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Footman",
+      "id": "footman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-nicholas-gimcrack",
+      "name": "Sir Nicholas Gimcrack",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-formal-tribe",
+      "name": "Sir Formal Tribe",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "snarl",
+      "name": "Snarl",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-samuel-hearty",
+      "name": "Sir Samuel Hearty",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "longvil",
+      "name": "Longvil",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "bruce",
+      "name": "Bruce",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "swiming-master",
+      "name": "Swiming Master",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hazard",
+      "name": "Hazard",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lady-gimcrack",
+      "name": "Lady Gimcrack",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "clarinda",
+      "name": "Clarinda",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "miranda",
+      "name": "Miranda",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "flirt",
+      "name": "Flirt",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "figgup",
+      "name": "Figgup",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "betty",
+      "name": "Betty",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "bridget",
+      "name": "Bridget",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "porter",
+      "name": "Porter ",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A59463-e1230": [
+      "bruce"
+    ],
+    "A59463-e1370": [
+      "longvil"
+    ],
+    "A59463-e1410": [
+      "bruce"
+    ],
+    "A59463-e1440": [
+      "longvil"
+    ],
+    "A59463-e1490": [
+      "bruce"
+    ],
+    "A59463-e1530": [
+      "longvil"
+    ],
+    "A59463-e1560": [
+      "bruce"
+    ],
+    "A59463-e1610": [
+      "longvil"
+    ],
+    "A59463-e1640": [
+      "bruce"
+    ],
+    "A59463-e1670": [
+      "longvil"
+    ],
+    "A59463-e1700": [
+      "bruce"
+    ],
+    "A59463-e1760": [
+      "longvil"
+    ],
+    "A59463-e1790": [
+      "bruce"
+    ],
+    "A59463-e1820": [
+      "longvil"
+    ],
+    "A59463-e1850": [
+      "bruce"
+    ],
+    "A59463-e1880": [
+      "longvil"
+    ],
+    "A59463-e1910": [
+      "bruce"
+    ],
+    "A59463-e1940": [
+      "longvil"
+    ],
+    "A59463-e1970": [
+      "bruce"
+    ],
+    "A59463-e2050": [
+      "longvil"
+    ],
+    "A59463-e2080": [
+      "bruce"
+    ],
+    "A59463-e2110": [
+      "longvil"
+    ],
+    "A59463-e2150": [
+      "bruce"
+    ],
+    "A59463-e2200": [
+      "longvil"
+    ],
+    "A59463-e2230": [
+      "bruce"
+    ],
+    "A59463-e2260": [
+      "longvil"
+    ],
+    "A59463-e2310": [
+      "bruce"
+    ],
+    "A59463-e2340": [
+      "longvil"
+    ],
+    "A59463-e2390": [
+      "bruce"
+    ],
+    "A59463-e2420": [
+      "longvil"
+    ],
+    "A59463-e2480": [
+      "bruce"
+    ],
+    "A59463-e2510": [
+      "longvil"
+    ],
+    "A59463-e2560": [
+      "footman"
+    ],
+    "A59463-e2600": [
+      "bruce"
+    ],
+    "A59463-e2630": [
+      "longvil"
+    ],
+    "A59463-e2680": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e2730": [
+      "bruce"
+    ],
+    "A59463-e2760": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e2790": [
+      "longvil"
+    ],
+    "A59463-e2820": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e2880": [
+      "longvil"
+    ],
+    "A59463-e2920": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e2950": [
+      "bruce"
+    ],
+    "A59463-e2990": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e3020": [
+      "longvil"
+    ],
+    "A59463-e3050": [
+      "bruce"
+    ],
+    "A59463-e3080": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e3140": [
+      "footman"
+    ],
+    "A59463-e3190": [
+      "bruce"
+    ],
+    "A59463-e3220": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e3270": [
+      "longvil"
+    ],
+    "A59463-e3300": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e3350": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e3400": [
+      "bruce"
+    ],
+    "A59463-e3440": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e3470": [
+      "bruce"
+    ],
+    "A59463-e3500": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e3540": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e3570": [
+      "longvil"
+    ],
+    "A59463-e3610": [
+      "bruce"
+    ],
+    "A59463-e3640": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e3700": [
+      "longvil"
+    ],
+    "A59463-e3730": [
+      "bruce"
+    ],
+    "A59463-e3760": [
+      "longvil"
+    ],
+    "A59463-e3790": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e3840": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e3880": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e3940": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e3970": [
+      "longvil"
+    ],
+    "A59463-e4000": [
+      "bruce"
+    ],
+    "A59463-e4040": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e4100": [
+      "bruce"
+    ],
+    "A59463-e4140": [
+      "longvil"
+    ],
+    "A59463-e4170": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4220": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e4260": [
+      "longvil"
+    ],
+    "A59463-e4300": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4330": [
+      "bruce"
+    ],
+    "A59463-e4360": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4400": [
+      "bruce"
+    ],
+    "A59463-e4430": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4470": [
+      "longvil"
+    ],
+    "A59463-e4500": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4550": [
+      "bruce"
+    ],
+    "A59463-e4580": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4610": [
+      "longvil"
+    ],
+    "A59463-e4650": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4690": [
+      "bruce"
+    ],
+    "A59463-e4720": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4750": [
+      "bruce"
+    ],
+    "A59463-e4790": [
+      "longvil"
+    ],
+    "A59463-e4820": [
+      "bruce"
+    ],
+    "A59463-e4850": [
+      "longvil"
+    ],
+    "A59463-e4880": [
+      "bruce"
+    ],
+    "A59463-e4910": [
+      "longvil"
+    ],
+    "A59463-e4940": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e4970": [
+      "longvil"
+    ],
+    "A59463-e5010": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e5050": [
+      "longvil"
+    ],
+    "A59463-e5080": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e5110": [
+      "bruce"
+    ],
+    "A59463-e5140": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e5180": [
+      "longvil"
+    ],
+    "A59463-e5210": [
+      "bruce"
+    ],
+    "A59463-e5250": [
+      "longvil"
+    ],
+    "A59463-e5290": [
+      "bruce"
+    ],
+    "A59463-e5360": [
+      "miranda"
+    ],
+    "A59463-e5430": [
+      "clarinda"
+    ],
+    "A59463-e5470": [
+      "miranda"
+    ],
+    "A59463-e5500": [
+      "clarinda"
+    ],
+    "A59463-e5530": [
+      "miranda"
+    ],
+    "A59463-e5570": [
+      "clarinda"
+    ],
+    "A59463-e5600": [
+      "miranda"
+    ],
+    "A59463-e5630": [
+      "clarinda"
+    ],
+    "A59463-e5670": [
+      "miranda"
+    ],
+    "A59463-e5710": [
+      "clarinda"
+    ],
+    "A59463-e5750": [
+      "miranda"
+    ],
+    "A59463-e5780": [
+      "clarinda"
+    ],
+    "A59463-e5840": [
+      "miranda"
+    ],
+    "A59463-e5870": [
+      "clarinda"
+    ],
+    "A59463-e5900": [
+      "miranda"
+    ],
+    "A59463-e5940": [
+      "clarinda"
+    ],
+    "A59463-e5970": [
+      "miranda"
+    ],
+    "A59463-e6000": [
+      "clarinda"
+    ],
+    "A59463-e6030": [
+      "miranda"
+    ],
+    "A59463-e6080": [
+      "snarl"
+    ],
+    "A59463-e6120": [
+      "clarinda"
+    ],
+    "A59463-e6160": [
+      "miranda"
+    ],
+    "A59463-e6190": [
+      "snarl"
+    ],
+    "A59463-e6220": [
+      "miranda"
+    ],
+    "A59463-e6250": [
+      "snarl"
+    ],
+    "A59463-e6280": [
+      "clarinda"
+    ],
+    "A59463-e6310": [
+      "miranda"
+    ],
+    "A59463-e6340": [
+      "snarl"
+    ],
+    "A59463-e6370": [
+      "clarinda"
+    ],
+    "A59463-e6400": [
+      "snarl"
+    ],
+    "A59463-e6430": [
+      "miranda"
+    ],
+    "A59463-e6460": [
+      "snarl"
+    ],
+    "A59463-e6510": [
+      "clarinda"
+    ],
+    "A59463-e6540": [
+      "miranda"
+    ],
+    "A59463-e6570": [
+      "snarl"
+    ],
+    "A59463-e6600": [
+      "clarinda"
+    ],
+    "A59463-e6630": [
+      "snarl"
+    ],
+    "A59463-e6660": [
+      "miranda"
+    ],
+    "A59463-e6710": [
+      "snarl"
+    ],
+    "A59463-e6740": [
+      "clarinda"
+    ],
+    "A59463-e6770": [
+      "miranda"
+    ],
+    "A59463-e6800": [
+      "snarl"
+    ],
+    "A59463-e6890": [
+      "clarinda"
+    ],
+    "A59463-e6920": [
+      "snarl"
+    ],
+    "A59463-e6980": [
+      "miranda"
+    ],
+    "A59463-e7010": [
+      "clarinda"
+    ],
+    "A59463-e7040": [
+      "miranda"
+    ],
+    "A59463-e7100": [
+      "snarl"
+    ],
+    "A59463-e7150": [
+      "clarinda"
+    ],
+    "A59463-e7180": [
+      "snarl"
+    ],
+    "A59463-e7230": [
+      "miranda"
+    ],
+    "A59463-e7280": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7320": [
+      "miranda"
+    ],
+    "A59463-e7380": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7410": [
+      "clarinda"
+    ],
+    "A59463-e7460": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7510": [
+      "snarl"
+    ],
+    "A59463-e7540": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7580": [
+      "snarl"
+    ],
+    "A59463-e7610": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7650": [
+      "snarl"
+    ],
+    "A59463-e7680": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7710": [
+      "snarl"
+    ],
+    "A59463-e7740": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7770": [
+      "snarl"
+    ],
+    "A59463-e7800": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7830": [
+      "snarl"
+    ],
+    "A59463-e7860": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7890": [
+      "snarl"
+    ],
+    "A59463-e7920": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e7950": [
+      "snarl"
+    ],
+    "A59463-e7980": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e8030": [
+      "snarl"
+    ],
+    "A59463-e8170": [
+      "bruce"
+    ],
+    "A59463-e8200": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e8240": [
+      "longvil"
+    ],
+    "A59463-e8270": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e8320": [
+      "bruce"
+    ],
+    "A59463-e8360": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e8390": [
+      "longvil"
+    ],
+    "A59463-e8430": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e8460": [
+      "longvil"
+    ],
+    "A59463-e8500": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e8540": [
+      "longvil"
+    ],
+    "A59463-e8570": [
+      "bruce"
+    ],
+    "A59463-e8620": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e8680": [
+      "longvil"
+    ],
+    "A59463-e8710": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e8740": [
+      "longvil"
+    ],
+    "A59463-e8770": [
+      "bruce"
+    ],
+    "A59463-e8800": [
+      "clarinda"
+    ],
+    "A59463-e8830": [
+      "longvil"
+    ],
+    "A59463-e8860": [
+      "miranda"
+    ],
+    "A59463-e8890": [
+      "clarinda"
+    ],
+    "A59463-e8920": [
+      "miranda"
+    ],
+    "A59463-e8950": [
+      "longvil"
+    ],
+    "A59463-e8980": [
+      "miranda"
+    ],
+    "A59463-e9010": [
+      "bruce"
+    ],
+    "A59463-e9040": [
+      "clarinda"
+    ],
+    "A59463-e9070": [
+      "longvil"
+    ],
+    "A59463-e9100": [
+      "miranda"
+    ],
+    "A59463-e9130": [
+      "longvil"
+    ],
+    "A59463-e9160": [
+      "bruce"
+    ],
+    "A59463-e9190": [
+      "clarinda"
+    ],
+    "A59463-e9220": [
+      "miranda"
+    ],
+    "A59463-e9260": [
+      "longvil"
+    ],
+    "A59463-e9290": [
+      "miranda"
+    ],
+    "A59463-e9320": [
+      "longvil"
+    ],
+    "A59463-e9350": [
+      "miranda"
+    ],
+    "A59463-e9380": [
+      "clarinda"
+    ],
+    "A59463-e9410": [
+      "bruce"
+    ],
+    "A59463-e9440": [
+      "clarinda"
+    ],
+    "A59463-e9470": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e9540": [
+      "longvil"
+    ],
+    "A59463-e9570": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e9620": [
+      "longvil"
+    ],
+    "A59463-e9670": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e9700": [
+      "miranda"
+    ],
+    "A59463-e9730": [
+      "bruce"
+    ],
+    "A59463-e9760": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e9800": [
+      "longvil"
+    ],
+    "A59463-e9840": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e9870": [
+      "miranda"
+    ],
+    "A59463-e9900": [
+      "longvil"
+    ],
+    "A59463-e9930": [
+      "miranda"
+    ],
+    "A59463-e9960": [
+      "longvil"
+    ],
+    "A59463-e9990": [
+      "bruce"
+    ],
+    "A59463-e10020": [
+      "clarinda"
+    ],
+    "A59463-e10050": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10110": [
+      "longvil"
+    ],
+    "A59463-e10140": [
+      "bruce"
+    ],
+    "A59463-e10170": [
+      "clarinda"
+    ],
+    "A59463-e10210": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10240": [
+      "bruce"
+    ],
+    "A59463-e10270": [
+      "miranda"
+    ],
+    "A59463-e10300": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10330": [
+      "longvil"
+    ],
+    "A59463-e10370": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10400": [
+      "clarinda"
+    ],
+    "A59463-e10430": [
+      "miranda"
+    ],
+    "A59463-e10460": [
+      "longvil"
+    ],
+    "A59463-e10490": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10540": [
+      "miranda"
+    ],
+    "A59463-e10570": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10600": [
+      "miranda"
+    ],
+    "A59463-e10630": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10670": [
+      "miranda"
+    ],
+    "A59463-e10700": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10730": [
+      "clarinda"
+    ],
+    "A59463-e10760": [
+      "miranda"
+    ],
+    "A59463-e10790": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10820": [
+      "longvil"
+    ],
+    "A59463-e10860": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e10890": [
+      "longvil"
+    ],
+    "A59463-e10920": [
+      "bruce"
+    ],
+    "A59463-e10960": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e11020": [
+      "clarinda"
+    ],
+    "A59463-e11060": [
+      "miranda"
+    ],
+    "A59463-e11090": [
+      "longvil"
+    ],
+    "A59463-e11120": [
+      "bruce"
+    ],
+    "A59463-e11150": [
+      "clarinda"
+    ],
+    "A59463-e11180": [
+      "miranda"
+    ],
+    "A59463-e11210": [
+      "longvil"
+    ],
+    "A59463-e11240": [
+      "bruce"
+    ],
+    "A59463-e11270": [
+      "clarinda"
+    ],
+    "A59463-e11300": [
+      "miranda"
+    ],
+    "A59463-e11330": [
+      "longvil"
+    ],
+    "A59463-e11360": [
+      "bruce"
+    ],
+    "A59463-e11390": [
+      "clarinda"
+    ],
+    "A59463-e11420": [
+      "miranda"
+    ],
+    "A59463-e11480": [
+      "lady-gimcrack"
+    ],
+    "A59463-e11530": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e11560": [
+      "lady-gimcrack"
+    ],
+    "A59463-e11590": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e11630": [
+      "lady-gimcrack"
+    ],
+    "A59463-e11720": [
+      "clarinda"
+    ],
+    "A59463-e11750": [
+      "miranda"
+    ],
+    "A59463-e11780": [
+      "lady-gimcrack"
+    ],
+    "A59463-e11810": [
+      "longvil"
+    ],
+    "A59463-e11850": [
+      "bruce"
+    ],
+    "A59463-e11880": [
+      "lady-gimcrack"
+    ],
+    "A59463-e11910": [
+      "clarinda"
+    ],
+    "A59463-e11940": [
+      "miranda"
+    ],
+    "A59463-e11970": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12040": [
+      "longvil"
+    ],
+    "A59463-e12070": [
+      "bruce"
+    ],
+    "A59463-e12120": [
+      "longvil"
+    ],
+    "A59463-e12150": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12180": [
+      "bruce"
+    ],
+    "A59463-e12210": [
+      "longvil"
+    ],
+    "A59463-e12240": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12280": [
+      "longvil"
+    ],
+    "A59463-e12320": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12350": [
+      "longvil"
+    ],
+    "A59463-e12380": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12410": [
+      "bruce"
+    ],
+    "A59463-e12440": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12470": [
+      "longvil"
+    ],
+    "A59463-e12500": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12530": [
+      "bruce"
+    ],
+    "A59463-e12570": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12610": [
+      "longvil"
+    ],
+    "A59463-e12640": [
+      "bruce"
+    ],
+    "A59463-e12680": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12710": [
+      "longvil"
+    ],
+    "A59463-e12740": [
+      "lady-gimcrack"
+    ],
+    "A59463-e12820": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e12850": [
+      "swiming-master"
+    ],
+    "A59463-e12930": [
+      "bruce"
+    ],
+    "A59463-e12960": [
+      "longvil"
+    ],
+    "A59463-e12990": [
+      "lady-gimcrack"
+    ],
+    "A59463-e13020": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13050": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e13080": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13150": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e13180": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13220": [
+      "swiming-master"
+    ],
+    "A59463-e13260": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e13310": [
+      "bruce"
+    ],
+    "A59463-e13350": [
+      "longvil"
+    ],
+    "A59463-e13390": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13430": [
+      "longvil"
+    ],
+    "A59463-e13460": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e13500": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13530": [
+      "longvil"
+    ],
+    "A59463-e13560": [
+      "bruce"
+    ],
+    "A59463-e13590": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e13630": [
+      "longvil"
+    ],
+    "A59463-e13660": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13690": [
+      "bruce"
+    ],
+    "A59463-e13720": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13750": [
+      "longvil"
+    ],
+    "A59463-e13780": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13810": [
+      "bruce"
+    ],
+    "A59463-e13840": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e13870": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13900": [
+      "longvil"
+    ],
+    "A59463-e13930": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e13960": [
+      "bruce"
+    ],
+    "A59463-e13990": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e14020": [
+      "longvil"
+    ],
+    "A59463-e14050": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e14080": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e14140": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e14170": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e14220": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e14290": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e14340": [
+      "bruce"
+    ],
+    "A59463-e14400": [
+      "clarinda"
+    ],
+    "A59463-e14430": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e14460": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e14500": [
+      "clarinda"
+    ],
+    "A59463-e14540": [
+      "miranda"
+    ],
+    "A59463-e14570": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e14600": [
+      "longvil"
+    ],
+    "A59463-e14630": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e14670": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e14710": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e14740": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e14770": [
+      "longvil"
+    ],
+    "A59463-e14800": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e14830": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e14870": [
+      "longvil"
+    ],
+    "A59463-e14920": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e14960": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e14990": [
+      "longvil"
+    ],
+    "A59463-e15020": [
+      "miranda"
+    ],
+    "A59463-e15050": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e15090": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e15120": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e15160": [
+      "clarinda"
+    ],
+    "A59463-e15190": [
+      "miranda"
+    ],
+    "A59463-e15240": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e15270": [
+      "longvil"
+    ],
+    "A59463-e15300": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e15340": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e15390": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e15430": [
+      "snarl"
+    ],
+    "A59463-e15470": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e15500": [
+      "snarl"
+    ],
+    "A59463-e15530": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e15560": [
+      "snarl"
+    ],
+    "A59463-e15600": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e15630": [
+      "snarl"
+    ],
+    "A59463-e15660": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e15690": [
+      "snarl"
+    ],
+    "A59463-e15720": [
+      "longvil"
+    ],
+    "A59463-e15750": [
+      "bruce"
+    ],
+    "A59463-e15780": [
+      "longvil"
+    ],
+    "A59463-e15810": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e15840": [
+      "snarl"
+    ],
+    "A59463-e15870": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e15910": [
+      "snarl"
+    ],
+    "A59463-e15940": [
+      "bruce"
+    ],
+    "A59463-e15970": [
+      "snarl"
+    ],
+    "A59463-e16000": [
+      "longvil"
+    ],
+    "A59463-e16030": [
+      "snarl"
+    ],
+    "A59463-e16070": [
+      "bruce"
+    ],
+    "A59463-e16100": [
+      "longvil"
+    ],
+    "A59463-e16130": [
+      "snarl"
+    ],
+    "A59463-e16160": [
+      "bruce"
+    ],
+    "A59463-e16190": [
+      "snarl"
+    ],
+    "A59463-e16230": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e16260": [
+      "snarl"
+    ],
+    "A59463-e16290": [
+      "longvil"
+    ],
+    "A59463-e16320": [
+      "snarl"
+    ],
+    "A59463-e16350": [
+      "bruce"
+    ],
+    "A59463-e16380": [
+      "longvil"
+    ],
+    "A59463-e16410": [
+      "snarl"
+    ],
+    "A59463-e16440": [
+      "bruce"
+    ],
+    "A59463-e16470": [
+      "longvil"
+    ],
+    "A59463-e16500": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e16530": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e16580": [
+      "longvil"
+    ],
+    "A59463-e16610": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e16650": [
+      "bruce"
+    ],
+    "A59463-e16690": [
+      "longvil"
+    ],
+    "A59463-e16720": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e16750": [
+      "bruce"
+    ],
+    "A59463-e16840": [
+      "longvil"
+    ],
+    "A59463-e16870": [
+      "miranda"
+    ],
+    "A59463-e16920": [
+      "longvil"
+    ],
+    "A59463-e16950": [
+      "miranda"
+    ],
+    "A59463-e16980": [
+      "longvil"
+    ],
+    "A59463-e17010": [
+      "miranda"
+    ],
+    "A59463-e17040": [
+      "longvil"
+    ],
+    "A59463-e17070": [
+      "miranda"
+    ],
+    "A59463-e17100": [
+      "longvil"
+    ],
+    "A59463-e17130": [
+      "miranda"
+    ],
+    "A59463-e17160": [
+      "longvil"
+    ],
+    "A59463-e17190": [
+      "miranda"
+    ],
+    "A59463-e17220": [
+      "longvil"
+    ],
+    "A59463-e17250": [
+      "miranda"
+    ],
+    "A59463-e17280": [
+      "longvil"
+    ],
+    "A59463-e17310": [
+      "miranda"
+    ],
+    "A59463-e17340": [
+      "longvil"
+    ],
+    "A59463-e17370": [
+      "miranda"
+    ],
+    "A59463-e17420": [
+      "longvil"
+    ],
+    "A59463-e17520": [
+      "bruce"
+    ],
+    "A59463-e17550": [
+      "clarinda"
+    ],
+    "A59463-e17580": [
+      "bruce"
+    ],
+    "A59463-e17610": [
+      "clarinda"
+    ],
+    "A59463-e17640": [
+      "bruce"
+    ],
+    "A59463-e17670": [
+      "clarinda"
+    ],
+    "A59463-e17700": [
+      "bruce"
+    ],
+    "A59463-e17730": [
+      "clarinda"
+    ],
+    "A59463-e17760": [
+      "bruce"
+    ],
+    "A59463-e17810": [
+      "clarinda"
+    ],
+    "A59463-e17840": [
+      "bruce"
+    ],
+    "A59463-e17870": [
+      "clarinda"
+    ],
+    "A59463-e17900": [
+      "bruce"
+    ],
+    "A59463-e17930": [
+      "clarinda"
+    ],
+    "A59463-e17970": [
+      "bruce"
+    ],
+    "A59463-e18000": [
+      "clarinda"
+    ],
+    "A59463-e18070": [
+      "bruce"
+    ],
+    "A59463-e18100": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18130": [
+      "bruce"
+    ],
+    "A59463-e18160": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18190": [
+      "bruce"
+    ],
+    "A59463-e18230": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18260": [
+      "bruce"
+    ],
+    "A59463-e18290": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18330": [
+      "bruce"
+    ],
+    "A59463-e18360": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18390": [
+      "bruce"
+    ],
+    "A59463-e18420": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18450": [
+      "bruce"
+    ],
+    "A59463-e18490": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18520": [
+      "bruce"
+    ],
+    "A59463-e18560": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18590": [
+      "bruce"
+    ],
+    "A59463-e18620": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18650": [
+      "bruce"
+    ],
+    "A59463-e18680": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18710": [
+      "bruce"
+    ],
+    "A59463-e18740": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18770": [
+      "bruce"
+    ],
+    "A59463-e18810": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18840": [
+      "bruce"
+    ],
+    "A59463-e18920": [
+      "lady-gimcrack"
+    ],
+    "A59463-e18950": [
+      "longvil"
+    ],
+    "A59463-e18980": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19010": [
+      "longvil"
+    ],
+    "A59463-e19040": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19080": [
+      "longvil"
+    ],
+    "A59463-e19120": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19150": [
+      "longvil"
+    ],
+    "A59463-e19180": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19210": [
+      "longvil"
+    ],
+    "A59463-e19250": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19280": [
+      "longvil"
+    ],
+    "A59463-e19310": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19340": [
+      "longvil"
+    ],
+    "A59463-e19370": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19400": [
+      "longvil"
+    ],
+    "A59463-e19440": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19470": [
+      "longvil"
+    ],
+    "A59463-e19530": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e19590": [
+      "longvil"
+    ],
+    "A59463-e19620": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e19680": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19730": [
+      "maid"
+    ],
+    "A59463-e19760": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19810": [
+      "lady-gimcrack"
+    ],
+    "A59463-e19880": [
+      "snarl"
+    ],
+    "A59463-e19910": [
+      "figgup"
+    ],
+    "A59463-e19940": [
+      "snarl"
+    ],
+    "A59463-e19990": [
+      "figgup"
+    ],
+    "A59463-e20020": [
+      "snarl"
+    ],
+    "A59463-e20050": [
+      "figgup"
+    ],
+    "A59463-e20080": [
+      "snarl"
+    ],
+    "A59463-e20120": [
+      "figgup"
+    ],
+    "A59463-e20150": [
+      "snarl"
+    ],
+    "A59463-e20180": [
+      "figgup"
+    ],
+    "A59463-e20210": [
+      "snarl"
+    ],
+    "A59463-e20240": [
+      "figgup"
+    ],
+    "A59463-e20270": [
+      "snarl"
+    ],
+    "A59463-e20300": [
+      "figgup"
+    ],
+    "A59463-e20330": [
+      "snarl"
+    ],
+    "A59463-e20360": [
+      "figgup"
+    ],
+    "A59463-e20400": [
+      "snarl"
+    ],
+    "A59463-e20430": [
+      "figgup"
+    ],
+    "A59463-e20460": [
+      "snarl"
+    ],
+    "A59463-e20490": [
+      "figgup"
+    ],
+    "A59463-e20520": [
+      "snarl"
+    ],
+    "A59463-e20550": [
+      "figgup"
+    ],
+    "A59463-e20580": [
+      "snarl"
+    ],
+    "A59463-e20610": [
+      "figgup"
+    ],
+    "A59463-e20640": [
+      "snarl"
+    ],
+    "A59463-e20670": [
+      "figgup"
+    ],
+    "A59463-e20700": [
+      "snarl"
+    ],
+    "A59463-e20730": [
+      "figgup"
+    ],
+    "A59463-e20760": [
+      "snarl"
+    ],
+    "A59463-e20790": [
+      "figgup"
+    ],
+    "A59463-e20820": [
+      "snarl"
+    ],
+    "A59463-e20860": [
+      "figgup"
+    ],
+    "A59463-e20890": [
+      "snarl"
+    ],
+    "A59463-e20930": [
+      "snarl"
+    ],
+    "A59463-e20960": [
+      "figgup"
+    ],
+    "A59463-e20990": [
+      "snarl"
+    ],
+    "A59463-e21020": [
+      "figgup"
+    ],
+    "A59463-e21050": [
+      "snarl"
+    ],
+    "A59463-e21080": [
+      "figgup"
+    ],
+    "A59463-e21150": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e21180": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21210": [
+      "longvil"
+    ],
+    "A59463-e21240": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21270": [
+      "longvil"
+    ],
+    "A59463-e21300": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21340": [
+      "longvil"
+    ],
+    "A59463-e21370": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e21400": [
+      "bruce"
+    ],
+    "A59463-e21430": [
+      "longvil"
+    ],
+    "A59463-e21470": [
+      "bruce"
+    ],
+    "A59463-e21500": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e21530": [
+      "longvil"
+    ],
+    "A59463-e21560": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21590": [
+      "bruce"
+    ],
+    "A59463-e21630": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e21670": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21710": [
+      "longvil"
+    ],
+    "A59463-e21740": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21770": [
+      "bruce"
+    ],
+    "A59463-e21800": [
+      "longvil"
+    ],
+    "A59463-e21830": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21860": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e21890": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21920": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e21960": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e21990": [
+      "bruce"
+    ],
+    "A59463-e22020": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e22080": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e22120": [
+      "longvil"
+    ],
+    "A59463-e22150": [
+      "bruce"
+    ],
+    "A59463-e22180": [
+      "longvil"
+    ],
+    "A59463-e22220": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e22260": [
+      "bruce"
+    ],
+    "A59463-e22290": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e22340": [
+      "longvil"
+    ],
+    "A59463-e22380": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e22410": [
+      "bruce"
+    ],
+    "A59463-e22440": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e22490": [
+      "servant"
+    ],
+    "A59463-e22530": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e22600": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e22630": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e22660": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e22720": [
+      "longvil"
+    ],
+    "A59463-e22760": [
+      "bruce"
+    ],
+    "A59463-e22800": [
+      "longvil"
+    ],
+    "A59463-e22870": [
+      "miranda"
+    ],
+    "A59463-e22930": [
+      "bruce"
+    ],
+    "A59463-e22970": [
+      "miranda"
+    ],
+    "A59463-e23000": [
+      "bruce"
+    ],
+    "A59463-e23030": [
+      "miranda"
+    ],
+    "A59463-e23060": [
+      "bruce"
+    ],
+    "A59463-e23090": [
+      "miranda"
+    ],
+    "A59463-e23120": [
+      "bruce"
+    ],
+    "A59463-e23150": [
+      "miranda"
+    ],
+    "A59463-e23180": [
+      "bruce"
+    ],
+    "A59463-e23210": [
+      "miranda"
+    ],
+    "A59463-e23240": [
+      "bruce"
+    ],
+    "A59463-e23270": [
+      "miranda"
+    ],
+    "A59463-e23310": [
+      "bruce"
+    ],
+    "A59463-e23340": [
+      "miranda"
+    ],
+    "A59463-e23370": [
+      "bruce"
+    ],
+    "A59463-e23400": [
+      "miranda"
+    ],
+    "A59463-e23430": [
+      "bruce"
+    ],
+    "A59463-e23500": [
+      "clarinda"
+    ],
+    "A59463-e23530": [
+      "longvil"
+    ],
+    "A59463-e23560": [
+      "clarinda"
+    ],
+    "A59463-e23590": [
+      "longvil"
+    ],
+    "A59463-e23620": [
+      "clarinda"
+    ],
+    "A59463-e23650": [
+      "longvil"
+    ],
+    "A59463-e23680": [
+      "clarinda"
+    ],
+    "A59463-e23710": [
+      "longvil"
+    ],
+    "A59463-e23740": [
+      "clarinda"
+    ],
+    "A59463-e23770": [
+      "longvil"
+    ],
+    "A59463-e23800": [
+      "clarinda"
+    ],
+    "A59463-e23830": [
+      "longvil"
+    ],
+    "A59463-e23860": [
+      "clarinda"
+    ],
+    "A59463-e23890": [
+      "longvil"
+    ],
+    "A59463-e23920": [
+      "clarinda"
+    ],
+    "A59463-e24000": [
+      "longvil"
+    ],
+    "A59463-e24040": [
+      "bruce"
+    ],
+    "A59463-e24070": [
+      "longvil"
+    ],
+    "A59463-e24110": [
+      "clarinda"
+    ],
+    "A59463-e24140": [
+      "miranda"
+    ],
+    "A59463-e24190": [
+      "clarinda"
+    ],
+    "A59463-e24220": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e24260": [
+      "miranda"
+    ],
+    "A59463-e24290": [
+      "clarinda"
+    ],
+    "A59463-e24320": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e24350": [
+      "miranda"
+    ],
+    "A59463-e24380": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e24410": [
+      "clarinda"
+    ],
+    "A59463-e24440": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e24470": [
+      "clarinda"
+    ],
+    "A59463-e24500": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e24540": [
+      "clarinda"
+    ],
+    "A59463-e24570": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e24600": [
+      "clarinda"
+    ],
+    "A59463-e24640": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e24680": [
+      "longvil"
+    ],
+    "A59463-e24710": [
+      "miranda"
+    ],
+    "A59463-e24740": [
+      "bruce"
+    ],
+    "A59463-e24800": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e24840": [
+      "longvil"
+    ],
+    "A59463-e24870": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e24910": [
+      "miranda"
+    ],
+    "A59463-e24940": [
+      "clarinda"
+    ],
+    "A59463-e24970": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25030": [
+      "miranda"
+    ],
+    "A59463-e25060": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25090": [
+      "bruce"
+    ],
+    "A59463-e25130": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25160": [
+      "miranda"
+    ],
+    "A59463-e25190": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25230": [
+      "clarinda"
+    ],
+    "A59463-e25260": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25300": [
+      "miranda"
+    ],
+    "A59463-e25330": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25360": [
+      "clarinda"
+    ],
+    "A59463-e25400": [
+      "longvil"
+    ],
+    "A59463-e25430": [
+      "bruce"
+    ],
+    "A59463-e25460": [
+      "miranda"
+    ],
+    "A59463-e25510": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25540": [
+      "longvil"
+    ],
+    "A59463-e25570": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25600": [
+      "bruce"
+    ],
+    "A59463-e25630": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25660": [
+      "miranda"
+    ],
+    "A59463-e25720": [
+      "clarinda"
+    ],
+    "A59463-e25750": [
+      "miranda"
+    ],
+    "A59463-e25790": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25820": [
+      "miranda"
+    ],
+    "A59463-e25880": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e25910": [
+      "clarinda"
+    ],
+    "A59463-e26000": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26030": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26060": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26090": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26140": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26170": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26200": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26230": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26260": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26300": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26330": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26360": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26390": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26430": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26460": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26500": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26540": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26580": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26610": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26640": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26670": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26700": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26730": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26760": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26830": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26860": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26890": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26930": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e26960": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e26990": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e27020": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e27110": [
+      "snarl"
+    ],
+    "A59463-e27150": [
+      "figgup"
+    ],
+    "A59463-e27180": [
+      "snarl"
+    ],
+    "A59463-e27220": [
+      "figgup"
+    ],
+    "A59463-e27250": [
+      "snarl"
+    ],
+    "A59463-e27310": [
+      "hazard"
+    ],
+    "A59463-e27340": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27370": [
+      "hazard"
+    ],
+    "A59463-e27400": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27430": [
+      "hazard"
+    ],
+    "A59463-e27480": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27510": [
+      "hazard"
+    ],
+    "A59463-e27540": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27570": [
+      "hazard"
+    ],
+    "A59463-e27600": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27630": [
+      "hazard"
+    ],
+    "A59463-e27660": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27690": [
+      "hazard"
+    ],
+    "A59463-e27720": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27750": [
+      "hazard"
+    ],
+    "A59463-e27780": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27810": [
+      "hazard"
+    ],
+    "A59463-e27840": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27870": [
+      "hazard"
+    ],
+    "A59463-e27900": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27930": [
+      "hazard"
+    ],
+    "A59463-e27960": [
+      "lady-gimcrack"
+    ],
+    "A59463-e27990": [
+      "hazard"
+    ],
+    "A59463-e28020": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28050": [
+      "hazard"
+    ],
+    "A59463-e28080": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28110": [
+      "hazard"
+    ],
+    "A59463-e28180": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e28210": [
+      "flirt"
+    ],
+    "A59463-e28250": [
+      "hazard"
+    ],
+    "A59463-e28280": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28340": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e28370": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28400": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e28430": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28460": [
+      "hazard"
+    ],
+    "A59463-e28490": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e28520": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28550": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e28580": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28610": [
+      "flirt"
+    ],
+    "A59463-e28650": [
+      "hazard"
+    ],
+    "A59463-e28690": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28730": [
+      "hazard"
+    ],
+    "A59463-e28760": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e28800": [
+      "flirt"
+    ],
+    "A59463-e28860": [
+      "lady-gimcrack"
+    ],
+    "A59463-e28900": [
+      "flirt"
+    ],
+    "A59463-e28960": [
+      "hazard"
+    ],
+    "A59463-e29000": [
+      "flirt"
+    ],
+    "A59463-e29030": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29060": [
+      "hazard"
+    ],
+    "A59463-e29090": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29120": [
+      "lady-gimcrack"
+    ],
+    "A59463-e29150": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29180": [
+      "flirt"
+    ],
+    "A59463-e29220": [
+      "hazard"
+    ],
+    "A59463-e29250": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29290": [
+      "flirt"
+    ],
+    "A59463-e29320": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29350": [
+      "hazard"
+    ],
+    "A59463-e29380": [
+      "lady-gimcrack"
+    ],
+    "A59463-e29410": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29470": [
+      "flirt"
+    ],
+    "A59463-e29510": [
+      "hazard"
+    ],
+    "A59463-e29540": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29570": [
+      "lady-gimcrack"
+    ],
+    "A59463-e29600": [
+      "hazard"
+    ],
+    "A59463-e29630": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29660": [
+      "lady-gimcrack"
+    ],
+    "A59463-e29690": [
+      "hazard"
+    ],
+    "A59463-e29740": [
+      "lady-gimcrack"
+    ],
+    "A59463-e29780": [
+      "hazard"
+    ],
+    "A59463-e29830": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29860": [
+      "lady-gimcrack"
+    ],
+    "A59463-e29890": [
+      "figgup"
+    ],
+    "A59463-e29920": [
+      "snarl"
+    ],
+    "A59463-e29950": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e29980": [
+      "snarl"
+    ],
+    "A59463-e30020": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e30050": [
+      "hazard"
+    ],
+    "A59463-e30080": [
+      "snarl"
+    ],
+    "A59463-e30110": [
+      "hazard"
+    ],
+    "A59463-e30140": [
+      "figgup"
+    ],
+    "A59463-e30180": [
+      "snarl"
+    ],
+    "A59463-e30240": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e30310": [
+      "miranda"
+    ],
+    "A59463-e30340": [
+      "clarinda"
+    ],
+    "A59463-e30370": [
+      "miranda"
+    ],
+    "A59463-e30400": [
+      "clarinda"
+    ],
+    "A59463-e30430": [
+      "miranda"
+    ],
+    "A59463-e30460": [
+      "clarinda"
+    ],
+    "A59463-e30720": [
+      "longvil"
+    ],
+    "A59463-e30750": [
+      "bruce"
+    ],
+    "A59463-e30780": [
+      "miranda"
+    ],
+    "A59463-e30810": [
+      "clarinda"
+    ],
+    "A59463-e30840": [
+      "longvil"
+    ],
+    "A59463-e30870": [
+      "bruce"
+    ],
+    "A59463-e30900": [
+      "longvil"
+    ],
+    "A59463-e30930": [
+      "miranda"
+    ],
+    "A59463-e30960": [
+      "clarinda"
+    ],
+    "A59463-e30990": [
+      "bruce"
+    ],
+    "A59463-e31020": [
+      "miranda"
+    ],
+    "A59463-e31070": [
+      "maid"
+    ],
+    "A59463-e31110": [
+      "clarinda"
+    ],
+    "A59463-e31140": [
+      "miranda"
+    ],
+    "A59463-e31170": [
+      "clarinda"
+    ],
+    "A59463-e31220": [
+      "longvil"
+    ],
+    "A59463-e31250": [
+      "bruce"
+    ],
+    "A59463-e31280": [
+      "longvil"
+    ],
+    "A59463-e31310": [
+      "bruce"
+    ],
+    "A59463-e31400": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e31430": [
+      "miranda"
+    ],
+    "A59463-e31460": [
+      "clarinda"
+    ],
+    "A59463-e31490": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e31520": [
+      "miranda"
+    ],
+    "A59463-e31560": [
+      "clarinda"
+    ],
+    "A59463-e31590": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e31630": [
+      "lady-gimcrack"
+    ],
+    "A59463-e31660": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e31690": [
+      "lady-gimcrack"
+    ],
+    "A59463-e31720": [
+      "miranda"
+    ],
+    "A59463-e31750": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e31830": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e31860": [
+      "lady-gimcrack"
+    ],
+    "A59463-e31890": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e31920": [
+      "miranda"
+    ],
+    "A59463-e31950": [
+      "clarinda"
+    ],
+    "A59463-e31980": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32020": [
+      "lady-gimcrack"
+    ],
+    "A59463-e32050": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e32080": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32110": [
+      "lady-gimcrack"
+    ],
+    "A59463-e32140": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e32170": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32200": [
+      "lady-gimcrack"
+    ],
+    "A59463-e32230": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32280": [
+      "lady-gimcrack"
+    ],
+    "A59463-e32310": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32340": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e32370": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32400": [
+      "miranda"
+    ],
+    "A59463-e32430": [
+      "clarinda"
+    ],
+    "A59463-e32460": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e32490": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32520": [
+      "miranda"
+    ],
+    "A59463-e32570": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32600": [
+      "snarl"
+    ],
+    "A59463-e32630": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e32660": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e32690": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e32730": [
+      "snarl"
+    ],
+    "A59463-e32760": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e32800": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e32830": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e32860": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e32890": [
+      "snarl"
+    ],
+    "A59463-e32920": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e32950": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e32980": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33010": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e33040": [
+      "lady-gimcrack"
+    ],
+    "A59463-e33090": [
+      "clarinda"
+    ],
+    "A59463-e33120": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e33210": [
+      "snarl"
+    ],
+    "A59463-e33240": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e33280": [
+      "longvil"
+    ],
+    "A59463-e33310": [
+      "bruce"
+    ],
+    "A59463-e33340": [
+      "snarl"
+    ],
+    "A59463-e33390": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33430": [
+      "longvil"
+    ],
+    "A59463-e33460": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33490": [
+      "bruce"
+    ],
+    "A59463-e33520": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33570": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e33600": [
+      "bruce"
+    ],
+    "A59463-e33630": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33680": [
+      "servant"
+    ],
+    "A59463-e33720": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33760": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e33810": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33850": [
+      "servant"
+    ],
+    "A59463-e33880": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33910": [
+      "bruce"
+    ],
+    "A59463-e33940": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e33970": [
+      "longvil"
+    ],
+    "A59463-e34000": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e34050": [
+      "bruce"
+    ],
+    "A59463-e34080": [
+      "longvil"
+    ],
+    "A59463-e34110": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e34150": [
+      "bruce"
+    ],
+    "A59463-e34180": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e34250": [
+      "bruce"
+    ],
+    "A59463-e34280": [
+      "longvil"
+    ],
+    "A59463-e34310": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e34370": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e34490": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e34520": [
+      "lady-gimcrack"
+    ],
+    "A59463-e34550": [
+      "servant"
+    ],
+    "A59463-e34580": [
+      "longvil"
+    ],
+    "A59463-e34610": [
+      "lady-gimcrack"
+    ],
+    "A59463-e34660": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e34690": [
+      "miranda"
+    ],
+    "A59463-e34730": [
+      "lady-gimcrack"
+    ],
+    "A59463-e34770": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e34800": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e34830": [
+      "bruce"
+    ],
+    "A59463-e34860": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e34910": [
+      "clarinda"
+    ],
+    "A59463-e34960": [
+      "bruce"
+    ],
+    "A59463-e34990": [
+      "miranda"
+    ],
+    "A59463-e35020": [
+      "lady-gimcrack"
+    ],
+    "A59463-e35050": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35160": [
+      "sick-people"
+    ],
+    "A59463-e35190": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35220": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e35260": [
+      "longvil"
+    ],
+    "A59463-e35300": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35340": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e35370": [
+      "gout"
+    ],
+    "A59463-e35420": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35450": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e35480": [
+      "stone"
+    ],
+    "A59463-e35520": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35550": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e35580": [
+      "scurvy"
+    ],
+    "A59463-e35620": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35650": [
+      "servant"
+    ],
+    "A59463-e35680": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e35710": [
+      "consumption"
+    ],
+    "A59463-e35750": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35780": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e35810": [
+      "dropsie"
+    ],
+    "A59463-e35850": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35880": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e35910": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e35940": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e35990": [
+      "men",
+      "women",
+      "townspeople",
+      "weaver-1",
+      "weaver-2",
+      "weaver-3"
+    ],
+    "A59463-e36020": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e36050": [
+      "men",
+      "women",
+      "townspeople",
+      "weaver-1",
+      "weaver-2",
+      "weaver-3"
+    ],
+    "A59463-e36140": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e36170": [
+      "clarinda"
+    ],
+    "A59463-e36210": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e36240": [
+      "clarinda"
+    ],
+    "A59463-e36280": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e36340": [
+      "clarinda"
+    ],
+    "A59463-e36370": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e36440": [
+      "servant"
+    ],
+    "A59463-e36500": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e36540": [
+      "bruce"
+    ],
+    "A59463-e36580": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e36610": [
+      "longvil"
+    ],
+    "A59463-e36640": [
+      "bruce"
+    ],
+    "A59463-e36730": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e36760": [
+      "longvil"
+    ],
+    "A59463-e36790": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e36830": [
+      "bruce"
+    ],
+    "A59463-e36860": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e36890": [
+      "longvil"
+    ],
+    "A59463-e36920": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e36970": [
+      "bruce"
+    ],
+    "A59463-e37010": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37040": [
+      "longvil"
+    ],
+    "A59463-e37070": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37100": [
+      "bruce"
+    ],
+    "A59463-e37130": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37160": [
+      "longvil"
+    ],
+    "A59463-e37190": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37270": [
+      "bruce"
+    ],
+    "A59463-e37310": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37340": [
+      "longvil"
+    ],
+    "A59463-e37370": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37410": [
+      "longvil"
+    ],
+    "A59463-e37440": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37470": [
+      "bruce"
+    ],
+    "A59463-e37500": [
+      "longvil"
+    ],
+    "A59463-e37530": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37560": [
+      "bruce"
+    ],
+    "A59463-e37590": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37630": [
+      "longvil"
+    ],
+    "A59463-e37660": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37690": [
+      "bruce"
+    ],
+    "A59463-e37720": [
+      "longvil"
+    ],
+    "A59463-e37750": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37800": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e37830": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e37860": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e37940": [
+      "servant"
+    ],
+    "A59463-e37970": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e38000": [
+      "servant"
+    ],
+    "A59463-e38030": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e38060": [
+      "bruce"
+    ],
+    "A59463-e38100": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e38140": [
+      "longvil"
+    ],
+    "A59463-e38170": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e38200": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e38230": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e38270": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e38300": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e38330": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e38380": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e38450": [
+      "snarl"
+    ],
+    "A59463-e38510": [
+      "weaver-1"
+    ],
+    "A59463-e38550": [
+      "snarl"
+    ],
+    "A59463-e38580": [
+      "weaver-2"
+    ],
+    "A59463-e38620": [
+      "weaver-3"
+    ],
+    "A59463-e38660": [
+      "men",
+      "women",
+      "townspeople",
+      "weaver-1",
+      "weaver-2",
+      "weaver-3"
+    ],
+    "A59463-e38690": [
+      "weaver-1"
+    ],
+    "A59463-e38730": [
+      "porter"
+    ],
+    "A59463-e38760": [
+      "weaver-1"
+    ],
+    "A59463-e38800": [
+      "porter"
+    ],
+    "A59463-e38850": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e38880": [
+      "weaver-1"
+    ],
+    "A59463-e38920": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e38950": [
+      "weaver-2"
+    ],
+    "A59463-e38990": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39020": [
+      "weaver-3"
+    ],
+    "A59463-e39060": [
+      "weaver-1"
+    ],
+    "A59463-e39100": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39130": [
+      "men",
+      "women",
+      "townspeople",
+      "weaver-1",
+      "weaver-2",
+      "weaver-3"
+    ],
+    "A59463-e39160": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39190": [
+      "weaver-2"
+    ],
+    "A59463-e39230": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39270": [
+      "weaver-1",
+      "weaver-2",
+      "weaver-3"
+    ],
+    "A59463-e39300": [
+      "townspeople"
+    ],
+    "A59463-e39330": [
+      "weaver-1"
+    ],
+    "A59463-e39370": [
+      "men",
+      "women",
+      "townspeople",
+      "weaver-1",
+      "weaver-2",
+      "weaver-3"
+    ],
+    "A59463-e39400": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39430": [
+      "weaver-1"
+    ],
+    "A59463-e39470": [
+      "weaver-2"
+    ],
+    "A59463-e39510": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39540": [
+      "weaver-1"
+    ],
+    "A59463-e39580": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39610": [
+      "weaver-2"
+    ],
+    "A59463-e39650": [
+      "weaver-3"
+    ],
+    "A59463-e39720": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39750": [
+      "weaver-1"
+    ],
+    "A59463-e39800": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39830": [
+      "weaver-2"
+    ],
+    "A59463-e39870": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e39900": [
+      "weaver-1"
+    ],
+    "A59463-e39940": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e40000": [
+      "weaver-1"
+    ],
+    "A59463-e40050": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e40090": [
+      "weaver-1"
+    ],
+    "A59463-e40130": [
+      "longvil"
+    ],
+    "A59463-e40160": [
+      "bruce"
+    ],
+    "A59463-e40190": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e40220": [
+      "weaver-1"
+    ],
+    "A59463-e40290": [
+      "bruce"
+    ],
+    "A59463-e40330": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e40390": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e40420": [
+      "longvil"
+    ],
+    "A59463-e40450": [
+      "bruce"
+    ],
+    "A59463-e40490": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e40540": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e40580": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e40610": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e40640": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e40670": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e40720": [
+      "bruce"
+    ],
+    "A59463-e40750": [
+      "footman"
+    ],
+    "A59463-e40780": [
+      "longvil"
+    ],
+    "A59463-e40840": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e40880": [
+      "porter"
+    ],
+    "A59463-e40910": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e40940": [
+      "porter"
+    ],
+    "A59463-e40970": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e41000": [
+      "porter"
+    ],
+    "A59463-e41040": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e41130": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e41170": [
+      "hazard"
+    ],
+    "A59463-e41210": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e41240": [
+      "hazard"
+    ],
+    "A59463-e41270": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e41320": [
+      "clarinda"
+    ],
+    "A59463-e41350": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e41380": [
+      "clarinda"
+    ],
+    "A59463-e41410": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e41440": [
+      "hazard"
+    ],
+    "A59463-e41490": [
+      "miranda"
+    ],
+    "A59463-e41520": [
+      "hazard"
+    ],
+    "A59463-e41550": [
+      "miranda"
+    ],
+    "A59463-e41580": [
+      "hazard"
+    ],
+    "A59463-e41610": [
+      "miranda"
+    ],
+    "A59463-e41640": [
+      "lady-gimcrack"
+    ],
+    "A59463-e41680": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e41720": [
+      "hazard"
+    ],
+    "A59463-e41750": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e41790": [
+      "hazard"
+    ],
+    "A59463-e41820": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e41890": [
+      "clarinda"
+    ],
+    "A59463-e41940": [
+      "miranda"
+    ],
+    "A59463-e41970": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e42000": [
+      "hazard"
+    ],
+    "A59463-e42030": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e42060": [
+      "hazard"
+    ],
+    "A59463-e42090": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e42120": [
+      "longvil"
+    ],
+    "A59463-e42150": [
+      "bruce"
+    ],
+    "A59463-e42180": [
+      "longvil"
+    ],
+    "A59463-e42240": [
+      "bruce"
+    ],
+    "A59463-e42280": [
+      "longvil"
+    ],
+    "A59463-e42320": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e42410": [
+      "clarinda"
+    ],
+    "A59463-e42450": [
+      "bruce"
+    ],
+    "A59463-e42480": [
+      "lady-gimcrack"
+    ],
+    "A59463-e42510": [
+      "bruce"
+    ],
+    "A59463-e42540": [
+      "lady-gimcrack"
+    ],
+    "A59463-e42570": [
+      "bruce"
+    ],
+    "A59463-e42630": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e42680": [
+      "clarinda"
+    ],
+    "A59463-e42720": [
+      "miranda"
+    ],
+    "A59463-e42750": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e42780": [
+      "longvil"
+    ],
+    "A59463-e42840": [
+      "figgup"
+    ],
+    "A59463-e42880": [
+      "longvil"
+    ],
+    "A59463-e42910": [
+      "figgup"
+    ],
+    "A59463-e42940": [
+      "longvil"
+    ],
+    "A59463-e42970": [
+      "figgup"
+    ],
+    "A59463-e43030": [
+      "bruce"
+    ],
+    "A59463-e43060": [
+      "lady-gimcrack"
+    ],
+    "A59463-e43090": [
+      "bruce"
+    ],
+    "A59463-e43120": [
+      "lady-gimcrack"
+    ],
+    "A59463-e43150": [
+      "bruce"
+    ],
+    "A59463-e43210": [
+      "clarinda"
+    ],
+    "A59463-e43260": [
+      "betty"
+    ],
+    "A59463-e43310": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e43360": [
+      "lady-gimcrack"
+    ],
+    "A59463-e43440": [
+      "miranda"
+    ],
+    "A59463-e43480": [
+      "clarinda"
+    ],
+    "A59463-e43510": [
+      "snarl"
+    ],
+    "A59463-e43560": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e43600": [
+      "snarl"
+    ],
+    "A59463-e43630": [
+      "clarinda"
+    ],
+    "A59463-e43660": [
+      "snarl"
+    ],
+    "A59463-e43690": [
+      "miranda"
+    ],
+    "A59463-e43720": [
+      "snarl"
+    ],
+    "A59463-e43750": [
+      "figgup"
+    ],
+    "A59463-e43780": [
+      "clarinda"
+    ],
+    "A59463-e43810": [
+      "miranda"
+    ],
+    "A59463-e43850": [
+      "snarl"
+    ],
+    "A59463-e43900": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e43930": [
+      "clarinda"
+    ],
+    "A59463-e43960": [
+      "snarl"
+    ],
+    "A59463-e43990": [
+      "hazard"
+    ],
+    "A59463-e44030": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e44070": [
+      "snarl"
+    ],
+    "A59463-e44110": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e44150": [
+      "snarl"
+    ],
+    "A59463-e44180": [
+      "hazard"
+    ],
+    "A59463-e44220": [
+      "snarl"
+    ],
+    "A59463-e44250": [
+      "bully-1"
+    ],
+    "A59463-e44290": [
+      "bully-2"
+    ],
+    "A59463-e44330": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e44360": [
+      "hazard"
+    ],
+    "A59463-e44390": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e44420": [
+      "snarl"
+    ],
+    "A59463-e44460": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e44490": [
+      "snarl"
+    ],
+    "A59463-e44520": [
+      "bully-1"
+    ],
+    "A59463-e44560": [
+      "snarl"
+    ],
+    "A59463-e44590": [
+      "figgup"
+    ],
+    "A59463-e44620": [
+      "snarl"
+    ],
+    "A59463-e44710": [
+      "longvil"
+    ],
+    "A59463-e44740": [
+      "lady-gimcrack"
+    ],
+    "A59463-e44770": [
+      "longvil"
+    ],
+    "A59463-e44800": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e44830": [
+      "lady-gimcrack"
+    ],
+    "A59463-e44870": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e44900": [
+      "lady-gimcrack"
+    ],
+    "A59463-e44940": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e44970": [
+      "lady-gimcrack"
+    ],
+    "A59463-e45000": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e45050": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e45080": [
+      "hazard"
+    ],
+    "A59463-e45120": [
+      "lady-gimcrack"
+    ],
+    "A59463-e45170": [
+      "hazard"
+    ],
+    "A59463-e45210": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e45240": [
+      "hazard"
+    ],
+    "A59463-e45280": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e45310": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e45340": [
+      "longvil"
+    ],
+    "A59463-e45390": [
+      "bully-1"
+    ],
+    "A59463-e45430": [
+      "bully-2"
+    ],
+    "A59463-e45490": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e45580": [
+      "longvil"
+    ],
+    "A59463-e45620": [
+      "porter"
+    ],
+    "A59463-e45650": [
+      "bruce"
+    ],
+    "A59463-e45690": [
+      "porter"
+    ],
+    "A59463-e45730": [
+      "longvil"
+    ],
+    "A59463-e45760": [
+      "bruce"
+    ],
+    "A59463-e45790": [
+      "longvil"
+    ],
+    "A59463-e45840": [
+      "bruce"
+    ],
+    "A59463-e45910": [
+      "longvil"
+    ],
+    "A59463-e45950": [
+      "bruce"
+    ],
+    "A59463-e45980": [
+      "longvil"
+    ],
+    "A59463-e46050": [
+      "clarinda"
+    ],
+    "A59463-e46080": [
+      "miranda"
+    ],
+    "A59463-e46110": [
+      "clarinda"
+    ],
+    "A59463-e46140": [
+      "bruce"
+    ],
+    "A59463-e46170": [
+      "longvil"
+    ],
+    "A59463-e46210": [
+      "miranda"
+    ],
+    "A59463-e46240": [
+      "bruce"
+    ],
+    "A59463-e46280": [
+      "longvil"
+    ],
+    "A59463-e46310": [
+      "miranda"
+    ],
+    "A59463-e46340": [
+      "clarinda"
+    ],
+    "A59463-e46370": [
+      "bruce"
+    ],
+    "A59463-e46420": [
+      "longvil"
+    ],
+    "A59463-e46470": [
+      "clarinda"
+    ],
+    "A59463-e46500": [
+      "miranda"
+    ],
+    "A59463-e46530": [
+      "clarinda"
+    ],
+    "A59463-e46560": [
+      "miranda"
+    ],
+    "A59463-e46590": [
+      "clarinda"
+    ],
+    "A59463-e46620": [
+      "longvil"
+    ],
+    "A59463-e46650": [
+      "bruce"
+    ],
+    "A59463-e46680": [
+      "clarinda"
+    ],
+    "A59463-e46710": [
+      "miranda"
+    ],
+    "A59463-e46770": [
+      "longvil"
+    ],
+    "A59463-e46800": [
+      "bruce"
+    ],
+    "A59463-e46890": [
+      "longvil"
+    ],
+    "A59463-e46920": [
+      "bruce"
+    ],
+    "A59463-e46950": [
+      "miranda"
+    ],
+    "A59463-e46980": [
+      "clarinda"
+    ],
+    "A59463-e47020": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e47060": [
+      "clarinda"
+    ],
+    "A59463-e47090": [
+      "miranda"
+    ],
+    "A59463-e47120": [
+      "clarinda"
+    ],
+    "A59463-e47180": [
+      "longvil"
+    ],
+    "A59463-e47210": [
+      "bruce"
+    ],
+    "A59463-e47260": [
+      "longvil"
+    ],
+    "A59463-e47310": [
+      "bruce"
+    ],
+    "A59463-e47340": [
+      "longvil"
+    ],
+    "A59463-e47370": [
+      "bruce"
+    ],
+    "A59463-e47460": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e47490": [
+      "lady-gimcrack"
+    ],
+    "A59463-e47520": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e47580": [
+      "lady-gimcrack"
+    ],
+    "A59463-e47630": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e47660": [
+      "lady-gimcrack"
+    ],
+    "A59463-e47700": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e47740": [
+      "steward"
+    ],
+    "A59463-e47770": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e47800": [
+      "steward"
+    ],
+    "A59463-e47830": [
+      "lady-gimcrack"
+    ],
+    "A59463-e47860": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e47890": [
+      "lady-gimcrack"
+    ],
+    "A59463-e47950": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e47980": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e48010": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e48050": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e48080": [
+      "betty"
+    ],
+    "A59463-e48120": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e48150": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e48230": [
+      "snarl"
+    ],
+    "A59463-e48270": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e48300": [
+      "snarl"
+    ],
+    "A59463-e48330": [
+      "figgup"
+    ],
+    "A59463-e48360": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e48410": [
+      "lady-gimcrack"
+    ],
+    "A59463-e48440": [
+      "snarl"
+    ],
+    "A59463-e48490": [
+      "hazard"
+    ],
+    "A59463-e48540": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e48570": [
+      "clarinda"
+    ],
+    "A59463-e48620": [
+      "snarl"
+    ],
+    "A59463-e48650": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e48680": [
+      "longvil"
+    ],
+    "A59463-e48710": [
+      "bruce"
+    ],
+    "A59463-e48740": [
+      "betty"
+    ],
+    "A59463-e48770": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e48800": [
+      "clarinda"
+    ],
+    "A59463-e48840": [
+      "miranda"
+    ],
+    "A59463-e48880": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e48940": [
+      "porter"
+    ],
+    "A59463-e48980": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e49010": [
+      "porter"
+    ],
+    "A59463-e49040": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e49080": [
+      "clarinda"
+    ],
+    "A59463-e49130": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e49160": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e49190": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e49220": [
+      "snarl"
+    ],
+    "A59463-e49250": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e49290": [
+      "bruce"
+    ],
+    "A59463-e49320": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e49350": [
+      "miranda"
+    ],
+    "A59463-e49380": [
+      "sir-samuel-hearty"
+    ],
+    "A59463-e49420": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e49460": [
+      "sir-formal-tribe"
+    ],
+    "A59463-e49490": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e49520": [
+      "lady-gimcrack"
+    ],
+    "A59463-e49550": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e49580": [
+      "flirt"
+    ],
+    "A59463-e49610": [
+      "sir-nicholas-gimcrack"
+    ],
+    "A59463-e49650": [
+      "longvil"
+    ],
+    "A59463-e49680": [
+      "miranda"
+    ],
+    "A59463-e49710": [
+      "clarinda"
+    ],
+    "A59463-e49740": [
+      "bruce"
+    ]
+  }
+}

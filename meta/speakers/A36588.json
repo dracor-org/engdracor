@@ -1,0 +1,733 @@
+{
+  "particDesc": [
+    {
+      "name": "Tritons",
+      "id": "tritons",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Two Nymphs ",
+      "id": "two-nymphs",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "augusta",
+      "name": "Augusta",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "thamesis",
+      "name": "Thamesis",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "democracy",
+      "name": "Democracy",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "zelota",
+      "name": "Zelota",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "archon",
+      "name": "Archon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "juno",
+      "name": "Juno",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "albion",
+      "name": "Albion",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "albanius",
+      "name": "Albanius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pluto",
+      "name": "Pluto",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "alecto",
+      "name": "Alecto",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "apollo",
+      "name": "Apollo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "neptune",
+      "name": "Neptune",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "nereids",
+      "name": "Nereids",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "acacia",
+      "name": "Acacia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "tyranny",
+      "name": "Tyranny",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "asebia",
+      "name": "Asebia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "proteus",
+      "name": "Proteus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "fame",
+      "name": "Fame",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A36588-e3080": [
+      "mercury"
+    ],
+    "A36588-e3210": [
+      "augusta"
+    ],
+    "A36588-e3310": [
+      "thamesis"
+    ],
+    "A36588-e3440": [
+      "augusta"
+    ],
+    "A36588-e3480": [
+      "thamesis"
+    ],
+    "A36588-e3550": [
+      "augusta"
+    ],
+    "A36588-e3580": [
+      "thamesis"
+    ],
+    "A36588-e3610": [
+      "augusta"
+    ],
+    "A36588-e3650": [
+      "thamesis"
+    ],
+    "A36588-e3690": [
+      "mercury"
+    ],
+    "A36588-e3810": [
+      "augusta"
+    ],
+    "A36588-e3880": [
+      "mercury"
+    ],
+    "A36588-e3920": [
+      "augusta"
+    ],
+    "A36588-e3970": [
+      "mercury"
+    ],
+    "A36588-e4030": [
+      "augusta"
+    ],
+    "A36588-e4110": [
+      "mercury"
+    ],
+    "A36588-e4170": [
+      "augusta"
+    ],
+    "A36588-e4200": [
+      "thamesis"
+    ],
+    "A36588-e4240": [
+      "mercury"
+    ],
+    "A36588-e4320": [
+      "chorus"
+    ],
+    "A36588-e4400": [
+      "augusta"
+    ],
+    "A36588-e4470": [
+      "mercury"
+    ],
+    "A36588-e4500": [
+      "chorus"
+    ],
+    "A36588-e4570": [
+      "democracy"
+    ],
+    "A36588-e4620": [
+      "augusta"
+    ],
+    "A36588-e4660": [
+      "zelota"
+    ],
+    "A36588-e4720": [
+      "thamesis"
+    ],
+    "A36588-e4790": [
+      "democracy"
+    ],
+    "A36588-e4850": [
+      "zelota"
+    ],
+    "A36588-e4920": [
+      "augusta"
+    ],
+    "A36588-e4990": [
+      "thamesis"
+    ],
+    "A36588-e5070": [
+      "thamesis",
+      "augusta"
+    ],
+    "A36588-e5150": [
+      "democracy"
+    ],
+    "A36588-e5220": [
+      "zelota"
+    ],
+    "A36588-e5260": [
+      "democracy"
+    ],
+    "A36588-e5310": [
+      "archon"
+    ],
+    "A36588-e5430": [
+      "chorus"
+    ],
+    "A36588-e5470": [
+      "augusta",
+      "thamesis"
+    ],
+    "A36588-e5500": [
+      "archon"
+    ],
+    "A36588-e5530": [
+      "mercury"
+    ],
+    "A36588-e5630": [
+      "archon"
+    ],
+    "A36588-e5660": [
+      "mercury"
+    ],
+    "A36588-e5800": [
+      "democracy"
+    ],
+    "A36588-e5880": [
+      "zelota"
+    ],
+    "A36588-e6040": [
+      "augusta",
+      "thamesis"
+    ],
+    "A36588-e6200": [
+      "mercury"
+    ],
+    "A36588-e6310": [
+      "chorus"
+    ],
+    "A36588-e6360": [
+      "mercury"
+    ],
+    "A36588-e6450": [
+      "thamesis"
+    ],
+    "A36588-e6610": [
+      "mercury"
+    ],
+    "A36588-e6680": [
+      "juno"
+    ],
+    "A36588-e6750": [
+      "thamesis"
+    ],
+    "A36588-e6810": [
+      "augusta"
+    ],
+    "A36588-e6880": [
+      "juno"
+    ],
+    "A36588-e7040": [
+      "juno"
+    ],
+    "A36588-e7130": [
+      "iris"
+    ],
+    "A36588-e7330": [
+      "juno"
+    ],
+    "A36588-e7450": [
+      "mercury",
+      "juno",
+      "iris"
+    ],
+    "A36588-e7530": [
+      "augusta",
+      "thamesis"
+    ],
+    "A36588-e7750": [
+      "chorus"
+    ],
+    "A36588-e7790": [
+      "augusta"
+    ],
+    "A36588-e7840": [
+      "thamesis"
+    ],
+    "A36588-e7880": [
+      "augusta"
+    ],
+    "A36588-e7920": [
+      "thamesis"
+    ],
+    "A36588-e8100": [
+      "pluto"
+    ],
+    "A36588-e8220": [
+      "democracy",
+      "zelota"
+    ],
+    "A36588-e8310": [
+      "democracy"
+    ],
+    "A36588-e8340": [
+      "pluto"
+    ],
+    "A36588-e8380": [
+      "democracy"
+    ],
+    "A36588-e8490": [
+      "zelota"
+    ],
+    "A36588-e8600": [
+      "pluto"
+    ],
+    "A36588-e8640": [
+      "zelota",
+      "democracy"
+    ],
+    "A36588-e8710": [
+      "democracy"
+    ],
+    "A36588-e8750": [
+      "zelota"
+    ],
+    "A36588-e8790": [
+      "democracy"
+    ],
+    "A36588-e8820": [
+      "zelota"
+    ],
+    "A36588-e8850": [
+      "zelota",
+      "democracy"
+    ],
+    "A36588-e8930": [
+      "pluto"
+    ],
+    "A36588-e9100": [
+      "democracy"
+    ],
+    "A36588-e9150": [
+      "zelota"
+    ],
+    "A36588-e9210": [
+      "pluto"
+    ],
+    "A36588-e9370": [
+      "democracy"
+    ],
+    "A36588-e9430": [
+      "zelota"
+    ],
+    "A36588-e9480": [
+      "pluto"
+    ],
+    "A36588-e9540": [
+      "zelota"
+    ],
+    "A36588-e9630": [
+      "alecto"
+    ],
+    "A36588-e9860": [
+      "pluto"
+    ],
+    "A36588-e10010": [
+      "pluto"
+    ],
+    "A36588-e10130": [
+      "chorus"
+    ],
+    "A36588-e10260": [
+      "augusta"
+    ],
+    "A36588-e10530": [
+      "democracy"
+    ],
+    "A36588-e10650": [
+      "zelota"
+    ],
+    "A36588-e10730": [
+      "democracy"
+    ],
+    "A36588-e10780": [
+      "zelota"
+    ],
+    "A36588-e10830": [
+      "augusta"
+    ],
+    "A36588-e10890": [
+      "democracy"
+    ],
+    "A36588-e10960": [
+      "zelota"
+    ],
+    "A36588-e11370": [
+      "mercury"
+    ],
+    "A36588-e11460": [
+      "albion"
+    ],
+    "A36588-e11500": [
+      "mercury"
+    ],
+    "A36588-e11650": [
+      "albion"
+    ],
+    "A36588-e11760": [
+      "albanius"
+    ],
+    "A36588-e11850": [
+      "albion"
+    ],
+    "A36588-e11980": [
+      "albanius"
+    ],
+    "A36588-e12080": [
+      "albion",
+      "albanius"
+    ],
+    "A36588-e12220": [
+      "apollo"
+    ],
+    "A36588-e12460": [
+      "thamesis"
+    ],
+    "A36588-e12690": [
+      "two-nymphs",
+      "tritons"
+    ],
+    "A36588-e12850": [
+      "two-nymphs",
+      "tritons"
+    ],
+    "A36588-e13070": [
+      "two-nymphs",
+      "tritons"
+    ],
+    "A36588-e13410": [
+      "albion"
+    ],
+    "A36588-e13520": [
+      "acacia"
+    ],
+    "A36588-e13600": [
+      "albion"
+    ],
+    "A36588-e13650": [
+      "acacia"
+    ],
+    "A36588-e13680": [
+      "albion"
+    ],
+    "A36588-e13810": [
+      "chorus"
+    ],
+    "A36588-e13850": [
+      "albion"
+    ],
+    "A36588-e13880": [
+      "acacia"
+    ],
+    "A36588-e13970": [
+      "nereids"
+    ],
+    "A36588-e14170": [
+      "tyranny"
+    ],
+    "A36588-e14230": [
+      "democracy"
+    ],
+    "A36588-e14260": [
+      "tyranny"
+    ],
+    "A36588-e14290": [
+      "democracy"
+    ],
+    "A36588-e14320": [
+      "tyranny"
+    ],
+    "A36588-e14350": [
+      "democracy"
+    ],
+    "A36588-e14380": [
+      "tyranny"
+    ],
+    "A36588-e14410": [
+      "asebia"
+    ],
+    "A36588-e14450": [
+      "zelota"
+    ],
+    "A36588-e14490": [
+      "asebia"
+    ],
+    "A36588-e14530": [
+      "chorus"
+    ],
+    "A36588-e14570": [
+      "tyranny"
+    ],
+    "A36588-e14600": [
+      "democracy"
+    ],
+    "A36588-e14630": [
+      "tyranny"
+    ],
+    "A36588-e14660": [
+      "democracy"
+    ],
+    "A36588-e14700": [
+      "tyranny"
+    ],
+    "A36588-e14760": [
+      "asebia"
+    ],
+    "A36588-e14810": [
+      "zelota"
+    ],
+    "A36588-e14900": [
+      "asebia"
+    ],
+    "A36588-e14960": [
+      "zelota"
+    ],
+    "A36588-e15040": [
+      "chorus"
+    ],
+    "A36588-e15070": [
+      "democracy"
+    ],
+    "A36588-e15120": [
+      "chorus"
+    ],
+    "A36588-e15150": [
+      "asebia"
+    ],
+    "A36588-e15200": [
+      "zelota"
+    ],
+    "A36588-e15270": [
+      "democracy"
+    ],
+    "A36588-e15350": [
+      "tyranny"
+    ],
+    "A36588-e15380": [
+      "democracy"
+    ],
+    "A36588-e15410": [
+      "zelota"
+    ],
+    "A36588-e15440": [
+      "tyranny"
+    ],
+    "A36588-e15470": [
+      "democracy"
+    ],
+    "A36588-e15510": [
+      "tyranny"
+    ],
+    "A36588-e15550": [
+      "democracy"
+    ],
+    "A36588-e15610": [
+      "asebia"
+    ],
+    "A36588-e15690": [
+      "zelota"
+    ],
+    "A36588-e15750": [
+      "tyranny"
+    ],
+    "A36588-e15780": [
+      "democracy"
+    ],
+    "A36588-e15850": [
+      "albion"
+    ],
+    "A36588-e15890": [
+      "acacia"
+    ],
+    "A36588-e15930": [
+      "albion"
+    ],
+    "A36588-e15990": [
+      "acacia"
+    ],
+    "A36588-e16050": [
+      "albion"
+    ],
+    "A36588-e16090": [
+      "acacia"
+    ],
+    "A36588-e16220": [
+      "proteus"
+    ],
+    "A36588-e16420": [
+      "albion"
+    ],
+    "A36588-e16450": [
+      "proteus"
+    ],
+    "A36588-e16550": [
+      "democracy"
+    ],
+    "A36588-e16610": [
+      "zelota"
+    ],
+    "A36588-e16670": [
+      "democracy"
+    ],
+    "A36588-e16710": [
+      "zelota"
+    ],
+    "A36588-e16740": [
+      "zelota",
+      "democracy",
+      "chorus"
+    ],
+    "A36588-e16810": [
+      "democracy"
+    ],
+    "A36588-e16890": [
+      "zelota"
+    ],
+    "A36588-e16950": [
+      "chorus"
+    ],
+    "A36588-e17000": [
+      "albion"
+    ],
+    "A36588-e17060": [
+      "acacia"
+    ],
+    "A36588-e17110": [
+      "albion",
+      "acacia"
+    ],
+    "A36588-e17150": [
+      "albion"
+    ],
+    "A36588-e17180": [
+      "acacia"
+    ],
+    "A36588-e17320": [
+      "venus"
+    ],
+    "A36588-e17420": [
+      "venus"
+    ],
+    "A36588-e17490": [
+      "chorus"
+    ],
+    "A36588-e17590": [
+      "apollo"
+    ],
+    "A36588-e17700": [
+      "venus"
+    ],
+    "A36588-e17740": [
+      "neptune"
+    ],
+    "A36588-e17790": [
+      "apollo"
+    ],
+    "A36588-e17910": [
+      "venus"
+    ],
+    "A36588-e18020": [
+      "acacia"
+    ],
+    "A36588-e18160": [
+      "venus"
+    ],
+    "A36588-e18330": [
+      "fame"
+    ]
+  }
+}

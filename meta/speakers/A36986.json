@@ -1,0 +1,3294 @@
+{
+  "particDesc": [
+    {
+      "name": "Boy",
+      "id": "boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Drawer",
+      "id": "drawer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Parson",
+      "id": "parson",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mob",
+      "id": "mob",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Lady Stroddle",
+      "id": "lady-stroddle",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Semibrief",
+      "id": "semibrief",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Coopee",
+      "id": "coopee",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Footman",
+      "id": "footman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Le Prate",
+      "id": "le-prate",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Young Merriton",
+      "id": "young-merriton",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mr. Mountford",
+      "id": "mr-mountford",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mrs. Butler",
+      "id": "mrs-butler",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "sir-rowland-rakehell",
+      "name": "Sir Rowland Rakehell",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "jack-amorous",
+      "name": "Jack Amorous",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "old-merriton",
+      "name": "Old Merriton",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "nedd-bragg",
+      "name": "Nedd Bragg ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "zachary-bragg",
+      "name": "Zachary Bragg ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "deputy-nicompoop",
+      "name": "Deputy Nicompoop",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lady-addleplot",
+      "name": "Lady Addleplot",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "mirtilla",
+      "name": "Mirtilla",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "miss-jenny",
+      "name": "Miss Jenny",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "miss-molly",
+      "name": "Miss Molly",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "jiltall",
+      "name": "Jiltall",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "crowstich",
+      "name": "Crowstich",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "tearshift",
+      "name": "Tearshift",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "oyley",
+      "name": "Oyley",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A36986-e1960": [
+      "mrs-butler"
+    ],
+    "A36986-e2010": [
+      "mr-mountford"
+    ],
+    "A36986-e2040": [
+      "mrs-butler"
+    ],
+    "A36986-e2070": [
+      "mr-mountford"
+    ],
+    "A36986-e2110": [
+      "mrs-butler"
+    ],
+    "A36986-e2160": [
+      "mr-mountford"
+    ],
+    "A36986-e2220": [
+      "mrs-butler"
+    ],
+    "A36986-e2260": [
+      "mr-mountford"
+    ],
+    "A36986-e2310": [
+      "mrs-butler"
+    ],
+    "A36986-e2360": [
+      "mr-mountford"
+    ],
+    "A36986-e2390": [
+      "mrs-butler"
+    ],
+    "A36986-e2420": [
+      "mr-mountford"
+    ],
+    "A36986-e2490": [
+      "mrs-butler"
+    ],
+    "A36986-e2530": [
+      "mr-mountford"
+    ],
+    "A36986-e2570": [
+      "mrs-butler"
+    ],
+    "A36986-e2610": [
+      "mr-mountford"
+    ],
+    "A36986-e2660": [
+      "mrs-butler"
+    ],
+    "A36986-e2690": [
+      "mr-mountford"
+    ],
+    "A36986-e2720": [
+      "mrs-butler"
+    ],
+    "A36986-e2770": [
+      "mr-mountford"
+    ],
+    "A36986-e2800": [
+      "mrs-butler"
+    ],
+    "A36986-e2850": [
+      "mr-mountford"
+    ],
+    "A36986-e2880": [
+      "mrs-butler"
+    ],
+    "A36986-e3080": [
+      "old-merriton"
+    ],
+    "A36986-e3110": [
+      "jack-amorous"
+    ],
+    "A36986-e3140": [
+      "young-merriton"
+    ],
+    "A36986-e3170": [
+      "jack-amorous"
+    ],
+    "A36986-e3200": [
+      "young-merriton"
+    ],
+    "A36986-e3230": [
+      "jack-amorous"
+    ],
+    "A36986-e3260": [
+      "young-merriton"
+    ],
+    "A36986-e3290": [
+      "jack-amorous"
+    ],
+    "A36986-e3330": [
+      "young-merriton"
+    ],
+    "A36986-e3360": [
+      "jack-amorous"
+    ],
+    "A36986-e3390": [
+      "young-merriton"
+    ],
+    "A36986-e3430": [
+      "jack-amorous"
+    ],
+    "A36986-e3480": [
+      "young-merriton"
+    ],
+    "A36986-e3510": [
+      "jack-amorous"
+    ],
+    "A36986-e3540": [
+      "young-merriton"
+    ],
+    "A36986-e3570": [
+      "jack-amorous"
+    ],
+    "A36986-e3610": [
+      "young-merriton"
+    ],
+    "A36986-e3640": [
+      "jack-amorous"
+    ],
+    "A36986-e3670": [
+      "young-merriton"
+    ],
+    "A36986-e3710": [
+      "jack-amorous"
+    ],
+    "A36986-e3780": [
+      "young-merriton"
+    ],
+    "A36986-e3810": [
+      "jack-amorous"
+    ],
+    "A36986-e3880": [
+      "young-merriton"
+    ],
+    "A36986-e3910": [
+      "jack-amorous"
+    ],
+    "A36986-e3940": [
+      "young-merriton"
+    ],
+    "A36986-e3970": [
+      "jack-amorous"
+    ],
+    "A36986-e4020": [
+      "young-merriton"
+    ],
+    "A36986-e4050": [
+      "jack-amorous"
+    ],
+    "A36986-e4080": [
+      "young-merriton"
+    ],
+    "A36986-e4110": [
+      "jack-amorous"
+    ],
+    "A36986-e4160": [
+      "young-merriton"
+    ],
+    "A36986-e4190": [
+      "jack-amorous"
+    ],
+    "A36986-e4220": [
+      "young-merriton"
+    ],
+    "A36986-e4250": [
+      "jack-amorous"
+    ],
+    "A36986-e4280": [
+      "young-merriton"
+    ],
+    "A36986-e4310": [
+      "jack-amorous"
+    ],
+    "A36986-e4340": [
+      "young-merriton"
+    ],
+    "A36986-e4370": [
+      "jack-amorous"
+    ],
+    "A36986-e4400": [
+      "young-merriton"
+    ],
+    "A36986-e4430": [
+      "jack-amorous"
+    ],
+    "A36986-e4460": [
+      "young-merriton"
+    ],
+    "A36986-e4490": [
+      "jack-amorous"
+    ],
+    "A36986-e4520": [
+      "young-merriton"
+    ],
+    "A36986-e4550": [
+      "jack-amorous"
+    ],
+    "A36986-e4610": [
+      "young-merriton"
+    ],
+    "A36986-e4660": [
+      "jack-amorous"
+    ],
+    "A36986-e4690": [
+      "young-merriton"
+    ],
+    "A36986-e4720": [
+      "le-prate"
+    ],
+    "A36986-e4790": [
+      "jack-amorous"
+    ],
+    "A36986-e4820": [
+      "le-prate"
+    ],
+    "A36986-e4860": [
+      "young-merriton"
+    ],
+    "A36986-e4890": [
+      "jack-amorous"
+    ],
+    "A36986-e4930": [
+      "le-prate"
+    ],
+    "A36986-e4980": [
+      "jack-amorous"
+    ],
+    "A36986-e5010": [
+      "le-prate"
+    ],
+    "A36986-e5060": [
+      "jack-amorous"
+    ],
+    "A36986-e5090": [
+      "le-prate"
+    ],
+    "A36986-e5140": [
+      "jack-amorous"
+    ],
+    "A36986-e5190": [
+      "le-prate"
+    ],
+    "A36986-e5300": [
+      "young-merriton"
+    ],
+    "A36986-e5330": [
+      "jack-amorous"
+    ],
+    "A36986-e5360": [
+      "le-prate"
+    ],
+    "A36986-e5390": [
+      "jack-amorous"
+    ],
+    "A36986-e5420": [
+      "le-prate"
+    ],
+    "A36986-e5450": [
+      "jack-amorous"
+    ],
+    "A36986-e5480": [
+      "le-prate"
+    ],
+    "A36986-e5510": [
+      "jack-amorous"
+    ],
+    "A36986-e5540": [
+      "le-prate"
+    ],
+    "A36986-e5570": [
+      "jack-amorous"
+    ],
+    "A36986-e5610": [
+      "le-prate"
+    ],
+    "A36986-e5660": [
+      "young-merriton"
+    ],
+    "A36986-e5700": [
+      "jack-amorous"
+    ],
+    "A36986-e5730": [
+      "le-prate"
+    ],
+    "A36986-e5760": [
+      "jack-amorous"
+    ],
+    "A36986-e5790": [
+      "le-prate"
+    ],
+    "A36986-e5820": [
+      "jack-amorous"
+    ],
+    "A36986-e5850": [
+      "le-prate"
+    ],
+    "A36986-e5890": [
+      "young-merriton"
+    ],
+    "A36986-e5930": [
+      "le-prate"
+    ],
+    "A36986-e5970": [
+      "young-merriton"
+    ],
+    "A36986-e6010": [
+      "le-prate"
+    ],
+    "A36986-e6040": [
+      "young-merriton"
+    ],
+    "A36986-e6080": [
+      "jack-amorous"
+    ],
+    "A36986-e6120": [
+      "le-prate"
+    ],
+    "A36986-e6160": [
+      "jack-amorous"
+    ],
+    "A36986-e6200": [
+      "young-merriton"
+    ],
+    "A36986-e6230": [
+      "jack-amorous"
+    ],
+    "A36986-e6260": [
+      "young-merriton"
+    ],
+    "A36986-e6290": [
+      "jack-amorous"
+    ],
+    "A36986-e6340": [
+      "young-merriton"
+    ],
+    "A36986-e6750": [
+      "le-prate"
+    ],
+    "A36986-e6810": [
+      "oyley"
+    ],
+    "A36986-e6850": [
+      "le-prate"
+    ],
+    "A36986-e6910": [
+      "jack-amorous"
+    ],
+    "A36986-e6940": [
+      "young-merriton"
+    ],
+    "A36986-e7050": [
+      "jack-amorous"
+    ],
+    "A36986-e7080": [
+      "jiltall"
+    ],
+    "A36986-e7120": [
+      "jack-amorous"
+    ],
+    "A36986-e7160": [
+      "jiltall"
+    ],
+    "A36986-e7210": [
+      "oyley"
+    ],
+    "A36986-e7250": [
+      "jack-amorous"
+    ],
+    "A36986-e7280": [
+      "jiltall"
+    ],
+    "A36986-e7310": [
+      "jack-amorous"
+    ],
+    "A36986-e7340": [
+      "jiltall"
+    ],
+    "A36986-e7390": [
+      "jack-amorous"
+    ],
+    "A36986-e7440": [
+      "jiltall"
+    ],
+    "A36986-e7480": [
+      "oyley"
+    ],
+    "A36986-e7520": [
+      "jiltall"
+    ],
+    "A36986-e7580": [
+      "jack-amorous"
+    ],
+    "A36986-e7610": [
+      "jiltall"
+    ],
+    "A36986-e7640": [
+      "jack-amorous"
+    ],
+    "A36986-e7670": [
+      "jiltall"
+    ],
+    "A36986-e7700": [
+      "jack-amorous"
+    ],
+    "A36986-e7730": [
+      "jiltall"
+    ],
+    "A36986-e7760": [
+      "jack-amorous"
+    ],
+    "A36986-e7790": [
+      "jiltall"
+    ],
+    "A36986-e7820": [
+      "jack-amorous"
+    ],
+    "A36986-e7850": [
+      "jiltall"
+    ],
+    "A36986-e7900": [
+      "oyley"
+    ],
+    "A36986-e7940": [
+      "jiltall"
+    ],
+    "A36986-e7980": [
+      "oyley"
+    ],
+    "A36986-e8020": [
+      "jack-amorous"
+    ],
+    "A36986-e8090": [
+      "jiltall"
+    ],
+    "A36986-e8130": [
+      "oyley"
+    ],
+    "A36986-e8170": [
+      "jiltall"
+    ],
+    "A36986-e8200": [
+      "oyley"
+    ],
+    "A36986-e8230": [
+      "jiltall"
+    ],
+    "A36986-e8260": [
+      "oyley"
+    ],
+    "A36986-e8290": [
+      "jiltall"
+    ],
+    "A36986-e8320": [
+      "oyley"
+    ],
+    "A36986-e8350": [
+      "jiltall"
+    ],
+    "A36986-e8420": [
+      "oyley"
+    ],
+    "A36986-e8500": [
+      "jiltall"
+    ],
+    "A36986-e8530": [
+      "oyley"
+    ],
+    "A36986-e8570": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e8600": [
+      "nedd-bragg"
+    ],
+    "A36986-e8630": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e8670": [
+      "nedd-bragg"
+    ],
+    "A36986-e8700": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e8730": [
+      "nedd-bragg"
+    ],
+    "A36986-e8760": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e8790": [
+      "nedd-bragg"
+    ],
+    "A36986-e8840": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e8870": [
+      "nedd-bragg"
+    ],
+    "A36986-e8900": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e8940": [
+      "nedd-bragg"
+    ],
+    "A36986-e8970": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e9020": [
+      "nedd-bragg"
+    ],
+    "A36986-e9080": [
+      "zachary-bragg"
+    ],
+    "A36986-e9110": [
+      "nedd-bragg"
+    ],
+    "A36986-e9140": [
+      "zachary-bragg"
+    ],
+    "A36986-e9170": [
+      "nedd-bragg"
+    ],
+    "A36986-e9200": [
+      "zachary-bragg"
+    ],
+    "A36986-e9230": [
+      "nedd-bragg"
+    ],
+    "A36986-e9260": [
+      "zachary-bragg"
+    ],
+    "A36986-e9300": [
+      "nedd-bragg"
+    ],
+    "A36986-e9330": [
+      "zachary-bragg"
+    ],
+    "A36986-e9360": [
+      "nedd-bragg"
+    ],
+    "A36986-e9390": [
+      "zachary-bragg"
+    ],
+    "A36986-e9430": [
+      "nedd-bragg"
+    ],
+    "A36986-e9460": [
+      "zachary-bragg"
+    ],
+    "A36986-e9490": [
+      "nedd-bragg"
+    ],
+    "A36986-e9520": [
+      "zachary-bragg"
+    ],
+    "A36986-e9550": [
+      "nedd-bragg"
+    ],
+    "A36986-e9580": [
+      "zachary-bragg"
+    ],
+    "A36986-e9630": [
+      "nedd-bragg"
+    ],
+    "A36986-e9660": [
+      "zachary-bragg"
+    ],
+    "A36986-e9690": [
+      "nedd-bragg"
+    ],
+    "A36986-e9720": [
+      "zachary-bragg"
+    ],
+    "A36986-e9750": [
+      "nedd-bragg"
+    ],
+    "A36986-e9780": [
+      "zachary-bragg"
+    ],
+    "A36986-e9810": [
+      "nedd-bragg"
+    ],
+    "A36986-e9850": [
+      "zachary-bragg"
+    ],
+    "A36986-e9880": [
+      "nedd-bragg"
+    ],
+    "A36986-e9920": [
+      "zachary-bragg"
+    ],
+    "A36986-e9970": [
+      "nedd-bragg"
+    ],
+    "A36986-e10000": [
+      "zachary-bragg"
+    ],
+    "A36986-e10030": [
+      "nedd-bragg"
+    ],
+    "A36986-e10060": [
+      "zachary-bragg"
+    ],
+    "A36986-e10110": [
+      "nedd-bragg"
+    ],
+    "A36986-e10240": [
+      "old-merriton"
+    ],
+    "A36986-e10280": [
+      "old-merriton"
+    ],
+    "A36986-e10310": [
+      "old-merriton"
+    ],
+    "A36986-e10350": [
+      "old-merriton"
+    ],
+    "A36986-e10380": [
+      "old-merriton"
+    ],
+    "A36986-e10410": [
+      "old-merriton"
+    ],
+    "A36986-e10440": [
+      "old-merriton"
+    ],
+    "A36986-e10470": [
+      "old-merriton"
+    ],
+    "A36986-e10500": [
+      "old-merriton"
+    ],
+    "A36986-e10530": [
+      "old-merriton"
+    ],
+    "A36986-e10560": [
+      "old-merriton"
+    ],
+    "A36986-e10590": [
+      "old-merriton"
+    ],
+    "A36986-e10620": [
+      "old-merriton"
+    ],
+    "A36986-e10660": [
+      "old-merriton"
+    ],
+    "A36986-e10690": [
+      "old-merriton"
+    ],
+    "A36986-e10800": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e10830": [
+      "old-merriton"
+    ],
+    "A36986-e10870": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e10930": [
+      "old-merriton"
+    ],
+    "A36986-e10970": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11000": [
+      "old-merriton"
+    ],
+    "A36986-e11030": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11070": [
+      "old-merriton"
+    ],
+    "A36986-e11100": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11130": [
+      "old-merriton"
+    ],
+    "A36986-e11170": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11210": [
+      "old-merriton"
+    ],
+    "A36986-e11250": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11280": [
+      "old-merriton"
+    ],
+    "A36986-e11310": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11350": [
+      "old-merriton"
+    ],
+    "A36986-e11400": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11430": [
+      "old-merriton"
+    ],
+    "A36986-e11460": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11520": [
+      "footman"
+    ],
+    "A36986-e11550": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11580": [
+      "old-merriton"
+    ],
+    "A36986-e11610": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11640": [
+      "old-merriton"
+    ],
+    "A36986-e11680": [
+      "footman"
+    ],
+    "A36986-e11720": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11750": [
+      "old-merriton"
+    ],
+    "A36986-e11790": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11840": [
+      "jack-amorous"
+    ],
+    "A36986-e11890": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e11950": [
+      "jack-amorous"
+    ],
+    "A36986-e11990": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12040": [
+      "jack-amorous"
+    ],
+    "A36986-e12070": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12110": [
+      "jack-amorous"
+    ],
+    "A36986-e12140": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12170": [
+      "jack-amorous"
+    ],
+    "A36986-e12200": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12240": [
+      "jack-amorous"
+    ],
+    "A36986-e12280": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12310": [
+      "jack-amorous"
+    ],
+    "A36986-e12340": [
+      "old-merriton"
+    ],
+    "A36986-e12380": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12420": [
+      "jack-amorous"
+    ],
+    "A36986-e12450": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12490": [
+      "jack-amorous"
+    ],
+    "A36986-e12520": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12610": [
+      "jack-amorous"
+    ],
+    "A36986-e12640": [
+      "old-merriton"
+    ],
+    "A36986-e12670": [
+      "jack-amorous"
+    ],
+    "A36986-e12700": [
+      "old-merriton"
+    ],
+    "A36986-e12730": [
+      "old-merriton"
+    ],
+    "A36986-e12830": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12860": [
+      "old-merriton"
+    ],
+    "A36986-e12890": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12920": [
+      "old-merriton"
+    ],
+    "A36986-e12950": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e12980": [
+      "old-merriton"
+    ],
+    "A36986-e13010": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e13040": [
+      "old-merriton"
+    ],
+    "A36986-e13090": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e13170": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e13210": [
+      "tearshift"
+    ],
+    "A36986-e13250": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e13290": [
+      "tearshift"
+    ],
+    "A36986-e13320": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e13350": [
+      "tearshift"
+    ],
+    "A36986-e13380": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e13410": [
+      "tearshift"
+    ],
+    "A36986-e13440": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e13530": [
+      "lady-addleplot"
+    ],
+    "A36986-e13570": [
+      "lady-addleplot"
+    ],
+    "A36986-e13600": [
+      "nedd-bragg"
+    ],
+    "A36986-e13630": [
+      "lady-addleplot"
+    ],
+    "A36986-e13660": [
+      "nedd-bragg"
+    ],
+    "A36986-e13690": [
+      "lady-addleplot"
+    ],
+    "A36986-e13720": [
+      "nedd-bragg"
+    ],
+    "A36986-e13750": [
+      "lady-addleplot"
+    ],
+    "A36986-e13810": [
+      "tearshift"
+    ],
+    "A36986-e13850": [
+      "lady-addleplot"
+    ],
+    "A36986-e13880": [
+      "tearshift"
+    ],
+    "A36986-e13910": [
+      "lady-addleplot"
+    ],
+    "A36986-e13940": [
+      "nedd-bragg"
+    ],
+    "A36986-e13970": [
+      "lady-addleplot"
+    ],
+    "A36986-e14000": [
+      "nedd-bragg"
+    ],
+    "A36986-e14030": [
+      "tearshift"
+    ],
+    "A36986-e14060": [
+      "lady-addleplot"
+    ],
+    "A36986-e14090": [
+      "nedd-bragg"
+    ],
+    "A36986-e14140": [
+      "tearshift"
+    ],
+    "A36986-e14170": [
+      "lady-addleplot"
+    ],
+    "A36986-e14230": [
+      "nedd-bragg"
+    ],
+    "A36986-e14270": [
+      "tearshift"
+    ],
+    "A36986-e14300": [
+      "lady-addleplot"
+    ],
+    "A36986-e14350": [
+      "tearshift"
+    ],
+    "A36986-e14410": [
+      "nedd-bragg"
+    ],
+    "A36986-e14450": [
+      "le-prate"
+    ],
+    "A36986-e14480": [
+      "lady-addleplot"
+    ],
+    "A36986-e14510": [
+      "le-prate"
+    ],
+    "A36986-e14550": [
+      "lady-addleplot"
+    ],
+    "A36986-e14600": [
+      "le-prate"
+    ],
+    "A36986-e14630": [
+      "lady-addleplot"
+    ],
+    "A36986-e14690": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e14720": [
+      "le-prate"
+    ],
+    "A36986-e14750": [
+      "lady-addleplot"
+    ],
+    "A36986-e14780": [
+      "le-prate"
+    ],
+    "A36986-e14810": [
+      "lady-addleplot"
+    ],
+    "A36986-e14860": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e14890": [
+      "nedd-bragg"
+    ],
+    "A36986-e14920": [
+      "lady-addleplot"
+    ],
+    "A36986-e14950": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e14980": [
+      "tearshift"
+    ],
+    "A36986-e15010": [
+      "le-prate"
+    ],
+    "A36986-e15040": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e15070": [
+      "le-prate"
+    ],
+    "A36986-e15110": [
+      "lady-addleplot"
+    ],
+    "A36986-e15150": [
+      "le-prate"
+    ],
+    "A36986-e15180": [
+      "lady-addleplot"
+    ],
+    "A36986-e15210": [
+      "le-prate"
+    ],
+    "A36986-e15240": [
+      "lady-addleplot"
+    ],
+    "A36986-e15280": [
+      "le-prate"
+    ],
+    "A36986-e15310": [
+      "lady-addleplot"
+    ],
+    "A36986-e15340": [
+      "le-prate"
+    ],
+    "A36986-e15390": [
+      "tearshift"
+    ],
+    "A36986-e15420": [
+      "lady-addleplot"
+    ],
+    "A36986-e15450": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e15490": [
+      "nedd-bragg"
+    ],
+    "A36986-e15520": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e15560": [
+      "nedd-bragg"
+    ],
+    "A36986-e15590": [
+      "le-prate"
+    ],
+    "A36986-e15640": [
+      "nedd-bragg"
+    ],
+    "A36986-e15690": [
+      "le-prate"
+    ],
+    "A36986-e15720": [
+      "lady-addleplot"
+    ],
+    "A36986-e15840": [
+      "coopee"
+    ],
+    "A36986-e15890": [
+      "young-merriton"
+    ],
+    "A36986-e15920": [
+      "coopee"
+    ],
+    "A36986-e15960": [
+      "semibrief"
+    ],
+    "A36986-e16000": [
+      "miss-molly"
+    ],
+    "A36986-e16040": [
+      "semibrief"
+    ],
+    "A36986-e16080": [
+      "miss-molly"
+    ],
+    "A36986-e16120": [
+      "semibrief"
+    ],
+    "A36986-e16170": [
+      "miss-molly"
+    ],
+    "A36986-e16640": [
+      "miss-jenny"
+    ],
+    "A36986-e16690": [
+      "coopee"
+    ],
+    "A36986-e16740": [
+      "crowstich"
+    ],
+    "A36986-e16780": [
+      "coopee"
+    ],
+    "A36986-e16820": [
+      "crowstich"
+    ],
+    "A36986-e16870": [
+      "coopee"
+    ],
+    "A36986-e16900": [
+      "crowstich"
+    ],
+    "A36986-e16930": [
+      "miss-molly"
+    ],
+    "A36986-e16970": [
+      "crowstich"
+    ],
+    "A36986-e17020": [
+      "coopee"
+    ],
+    "A36986-e17090": [
+      "miss-molly"
+    ],
+    "A36986-e17120": [
+      "crowstich"
+    ],
+    "A36986-e17160": [
+      "miss-molly"
+    ],
+    "A36986-e17220": [
+      "miss-jenny"
+    ],
+    "A36986-e17260": [
+      "miss-molly"
+    ],
+    "A36986-e17290": [
+      "miss-jenny"
+    ],
+    "A36986-e17320": [
+      "miss-molly"
+    ],
+    "A36986-e17370": [
+      "miss-jenny"
+    ],
+    "A36986-e17410": [
+      "miss-molly"
+    ],
+    "A36986-e17440": [
+      "miss-jenny"
+    ],
+    "A36986-e17480": [
+      "miss-jenny"
+    ],
+    "A36986-e17510": [
+      "miss-molly"
+    ],
+    "A36986-e17540": [
+      "miss-jenny"
+    ],
+    "A36986-e17580": [
+      "miss-molly"
+    ],
+    "A36986-e17650": [
+      "crowstich"
+    ],
+    "A36986-e17680": [
+      "miss-molly"
+    ],
+    "A36986-e17730": [
+      "miss-jenny"
+    ],
+    "A36986-e17830": [
+      "coopee"
+    ],
+    "A36986-e17860": [
+      "young-merriton"
+    ],
+    "A36986-e17910": [
+      "mirtilla"
+    ],
+    "A36986-e17950": [
+      "young-merriton"
+    ],
+    "A36986-e17980": [
+      "mirtilla"
+    ],
+    "A36986-e18010": [
+      "young-merriton"
+    ],
+    "A36986-e18040": [
+      "mirtilla"
+    ],
+    "A36986-e18090": [
+      "young-merriton"
+    ],
+    "A36986-e18120": [
+      "mirtilla"
+    ],
+    "A36986-e18150": [
+      "young-merriton"
+    ],
+    "A36986-e18180": [
+      "mirtilla"
+    ],
+    "A36986-e18210": [
+      "young-merriton"
+    ],
+    "A36986-e18250": [
+      "mirtilla"
+    ],
+    "A36986-e18280": [
+      "young-merriton"
+    ],
+    "A36986-e18310": [
+      "mirtilla"
+    ],
+    "A36986-e18340": [
+      "young-merriton"
+    ],
+    "A36986-e18370": [
+      "mirtilla"
+    ],
+    "A36986-e18400": [
+      "young-merriton"
+    ],
+    "A36986-e18440": [
+      "mirtilla"
+    ],
+    "A36986-e18470": [
+      "young-merriton"
+    ],
+    "A36986-e18500": [
+      "mirtilla"
+    ],
+    "A36986-e18530": [
+      "young-merriton"
+    ],
+    "A36986-e18640": [
+      "coopee"
+    ],
+    "A36986-e18700": [
+      "crowstich"
+    ],
+    "A36986-e18770": [
+      "coopee"
+    ],
+    "A36986-e18820": [
+      "crowstich"
+    ],
+    "A36986-e18860": [
+      "coopee"
+    ],
+    "A36986-e18890": [
+      "mirtilla"
+    ],
+    "A36986-e18940": [
+      "young-merriton"
+    ],
+    "A36986-e19060": [
+      "le-prate"
+    ],
+    "A36986-e19110": [
+      "semibrief"
+    ],
+    "A36986-e19150": [
+      "le-prate"
+    ],
+    "A36986-e19260": [
+      "lady-addleplot"
+    ],
+    "A36986-e19300": [
+      "crowstich"
+    ],
+    "A36986-e19330": [
+      "lady-addleplot"
+    ],
+    "A36986-e19380": [
+      "lady-stroddle"
+    ],
+    "A36986-e19440": [
+      "miss-jenny"
+    ],
+    "A36986-e19480": [
+      "crowstich"
+    ],
+    "A36986-e19530": [
+      "lady-addleplot"
+    ],
+    "A36986-e19590": [
+      "le-prate"
+    ],
+    "A36986-e19640": [
+      "nedd-bragg"
+    ],
+    "A36986-e19680": [
+      "lady-stroddle"
+    ],
+    "A36986-e19710": [
+      "le-prate"
+    ],
+    "A36986-e19770": [
+      "semibrief"
+    ],
+    "A36986-e19830": [
+      "young-merriton"
+    ],
+    "A36986-e19860": [
+      "semibrief"
+    ],
+    "A36986-e19890": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e19940": [
+      "miss-molly"
+    ],
+    "A36986-e19980": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e20020": [
+      "nedd-bragg"
+    ],
+    "A36986-e20080": [
+      "lady-addleplot"
+    ],
+    "A36986-e20120": [
+      "lady-stroddle"
+    ],
+    "A36986-e20160": [
+      "le-prate"
+    ],
+    "A36986-e20200": [
+      "coopee"
+    ],
+    "A36986-e20240": [
+      "le-prate"
+    ],
+    "A36986-e20300": [
+      "young-merriton"
+    ],
+    "A36986-e20340": [
+      "nedd-bragg"
+    ],
+    "A36986-e20370": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e20400": [
+      "nedd-bragg"
+    ],
+    "A36986-e20460": [
+      "miss-jenny"
+    ],
+    "A36986-e20500": [
+      "coopee"
+    ],
+    "A36986-e20540": [
+      "miss-jenny"
+    ],
+    "A36986-e20580": [
+      "lady-addleplot"
+    ],
+    "A36986-e20620": [
+      "le-prate"
+    ],
+    "A36986-e20660": [
+      "young-merriton"
+    ],
+    "A36986-e20710": [
+      "le-prate"
+    ],
+    "A36986-e20750": [
+      "lady-addleplot"
+    ],
+    "A36986-e20790": [
+      "lady-stroddle"
+    ],
+    "A36986-e20820": [
+      "young-merriton"
+    ],
+    "A36986-e20880": [
+      "le-prate"
+    ],
+    "A36986-e20940": [
+      "young-merriton"
+    ],
+    "A36986-e21010": [
+      "le-prate"
+    ],
+    "A36986-e21060": [
+      "oyley"
+    ],
+    "A36986-e21100": [
+      "le-prate"
+    ],
+    "A36986-e21140": [
+      "oyley"
+    ],
+    "A36986-e21180": [
+      "le-prate"
+    ],
+    "A36986-e21230": [
+      "oyley"
+    ],
+    "A36986-e21290": [
+      "le-prate"
+    ],
+    "A36986-e21320": [
+      "lady-stroddle"
+    ],
+    "A36986-e21350": [
+      "nedd-bragg"
+    ],
+    "A36986-e21460": [
+      "le-prate"
+    ],
+    "A36986-e21530": [
+      "young-merriton"
+    ],
+    "A36986-e21600": [
+      "coopee"
+    ],
+    "A36986-e21670": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e21710": [
+      "nedd-bragg"
+    ],
+    "A36986-e21790": [
+      "le-prate"
+    ],
+    "A36986-e21820": [
+      "zachary-bragg"
+    ],
+    "A36986-e21850": [
+      "young-merriton"
+    ],
+    "A36986-e21890": [
+      "zachary-bragg"
+    ],
+    "A36986-e21940": [
+      "nedd-bragg"
+    ],
+    "A36986-e21990": [
+      "zachary-bragg"
+    ],
+    "A36986-e22040": [
+      "young-merriton"
+    ],
+    "A36986-e22080": [
+      "zachary-bragg"
+    ],
+    "A36986-e22110": [
+      "nedd-bragg"
+    ],
+    "A36986-e22160": [
+      "young-merriton"
+    ],
+    "A36986-e22220": [
+      "le-prate"
+    ],
+    "A36986-e22260": [
+      "nedd-bragg"
+    ],
+    "A36986-e22320": [
+      "zachary-bragg"
+    ],
+    "A36986-e22350": [
+      "nedd-bragg"
+    ],
+    "A36986-e22390": [
+      "zachary-bragg"
+    ],
+    "A36986-e22440": [
+      "nedd-bragg"
+    ],
+    "A36986-e22500": [
+      "zachary-bragg"
+    ],
+    "A36986-e22540": [
+      "nedd-bragg"
+    ],
+    "A36986-e22600": [
+      "zachary-bragg"
+    ],
+    "A36986-e22650": [
+      "young-merriton"
+    ],
+    "A36986-e22690": [
+      "le-prate"
+    ],
+    "A36986-e22720": [
+      "nedd-bragg"
+    ],
+    "A36986-e22760": [
+      "lady-addleplot"
+    ],
+    "A36986-e22790": [
+      "nedd-bragg"
+    ],
+    "A36986-e22830": [
+      "zachary-bragg"
+    ],
+    "A36986-e22860": [
+      "nedd-bragg"
+    ],
+    "A36986-e22910": [
+      "lady-addleplot"
+    ],
+    "A36986-e22940": [
+      "lady-stroddle"
+    ],
+    "A36986-e22970": [
+      "lady-addleplot"
+    ],
+    "A36986-e23000": [
+      "nedd-bragg"
+    ],
+    "A36986-e23070": [
+      "zachary-bragg"
+    ],
+    "A36986-e23120": [
+      "young-merriton"
+    ],
+    "A36986-e23170": [
+      "coopee"
+    ],
+    "A36986-e23200": [
+      "young-merriton"
+    ],
+    "A36986-e23250": [
+      "coopee"
+    ],
+    "A36986-e23310": [
+      "le-prate"
+    ],
+    "A36986-e23390": [
+      "jiltall"
+    ],
+    "A36986-e23430": [
+      "jack-amorous"
+    ],
+    "A36986-e23460": [
+      "jiltall"
+    ],
+    "A36986-e23490": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e23520": [
+      "jack-amorous"
+    ],
+    "A36986-e23550": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e23580": [
+      "jiltall"
+    ],
+    "A36986-e23630": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e23670": [
+      "jiltall"
+    ],
+    "A36986-e23700": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e23730": [
+      "jiltall"
+    ],
+    "A36986-e23760": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e23800": [
+      "jiltall"
+    ],
+    "A36986-e23860": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e23890": [
+      "jack-amorous"
+    ],
+    "A36986-e23920": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e23950": [
+      "jack-amorous"
+    ],
+    "A36986-e23980": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e24010": [
+      "jack-amorous"
+    ],
+    "A36986-e24040": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e24110": [
+      "jiltall"
+    ],
+    "A36986-e24140": [
+      "jack-amorous"
+    ],
+    "A36986-e24170": [
+      "jiltall"
+    ],
+    "A36986-e24210": [
+      "jack-amorous"
+    ],
+    "A36986-e24250": [
+      "jiltall"
+    ],
+    "A36986-e24310": [
+      "jack-amorous"
+    ],
+    "A36986-e24350": [
+      "jiltall"
+    ],
+    "A36986-e24410": [
+      "jack-amorous"
+    ],
+    "A36986-e24490": [
+      "le-prate"
+    ],
+    "A36986-e24520": [
+      "jack-amorous"
+    ],
+    "A36986-e24550": [
+      "le-prate"
+    ],
+    "A36986-e24580": [
+      "jack-amorous"
+    ],
+    "A36986-e24610": [
+      "le-prate"
+    ],
+    "A36986-e24650": [
+      "jack-amorous"
+    ],
+    "A36986-e24690": [
+      "le-prate"
+    ],
+    "A36986-e24720": [
+      "jack-amorous"
+    ],
+    "A36986-e24750": [
+      "le-prate"
+    ],
+    "A36986-e24780": [
+      "jack-amorous"
+    ],
+    "A36986-e24810": [
+      "le-prate"
+    ],
+    "A36986-e24840": [
+      "jack-amorous"
+    ],
+    "A36986-e24890": [
+      "le-prate"
+    ],
+    "A36986-e24920": [
+      "jack-amorous"
+    ],
+    "A36986-e24980": [
+      "le-prate"
+    ],
+    "A36986-e25010": [
+      "jack-amorous"
+    ],
+    "A36986-e25040": [
+      "le-prate"
+    ],
+    "A36986-e25080": [
+      "jack-amorous"
+    ],
+    "A36986-e25140": [
+      "le-prate"
+    ],
+    "A36986-e25170": [
+      "jack-amorous"
+    ],
+    "A36986-e25210": [
+      "le-prate"
+    ],
+    "A36986-e25240": [
+      "jack-amorous"
+    ],
+    "A36986-e25280": [
+      "le-prate"
+    ],
+    "A36986-e25320": [
+      "jack-amorous"
+    ],
+    "A36986-e25360": [
+      "le-prate"
+    ],
+    "A36986-e25400": [
+      "jack-amorous"
+    ],
+    "A36986-e25430": [
+      "le-prate"
+    ],
+    "A36986-e25460": [
+      "jack-amorous"
+    ],
+    "A36986-e25490": [
+      "le-prate"
+    ],
+    "A36986-e25540": [
+      "jack-amorous"
+    ],
+    "A36986-e25770": [
+      "young-merriton"
+    ],
+    "A36986-e25800": [
+      "jack-amorous"
+    ],
+    "A36986-e25830": [
+      "young-merriton"
+    ],
+    "A36986-e25860": [
+      "jack-amorous"
+    ],
+    "A36986-e25890": [
+      "young-merriton"
+    ],
+    "A36986-e25920": [
+      "drawer"
+    ],
+    "A36986-e25950": [
+      "jack-amorous"
+    ],
+    "A36986-e26010": [
+      "young-merriton"
+    ],
+    "A36986-e26130": [
+      "coopee"
+    ],
+    "A36986-e26170": [
+      "young-merriton"
+    ],
+    "A36986-e26210": [
+      "jack-amorous"
+    ],
+    "A36986-e26240": [
+      "coopee"
+    ],
+    "A36986-e26270": [
+      "young-merriton"
+    ],
+    "A36986-e26310": [
+      "coopee"
+    ],
+    "A36986-e26370": [
+      "young-merriton"
+    ],
+    "A36986-e26450": [
+      "jack-amorous"
+    ],
+    "A36986-e26480": [
+      "young-merriton"
+    ],
+    "A36986-e26510": [
+      "coopee"
+    ],
+    "A36986-e26560": [
+      "young-merriton"
+    ],
+    "A36986-e26630": [
+      "nedd-bragg"
+    ],
+    "A36986-e26670": [
+      "zachary-bragg"
+    ],
+    "A36986-e26710": [
+      "nedd-bragg"
+    ],
+    "A36986-e26750": [
+      "zachary-bragg"
+    ],
+    "A36986-e26790": [
+      "young-merriton"
+    ],
+    "A36986-e26840": [
+      "zachary-bragg"
+    ],
+    "A36986-e26880": [
+      "nedd-bragg"
+    ],
+    "A36986-e26920": [
+      "young-merriton"
+    ],
+    "A36986-e26970": [
+      "jack-amorous"
+    ],
+    "A36986-e27010": [
+      "zachary-bragg"
+    ],
+    "A36986-e27060": [
+      "nedd-bragg"
+    ],
+    "A36986-e27110": [
+      "zachary-bragg"
+    ],
+    "A36986-e27150": [
+      "nedd-bragg"
+    ],
+    "A36986-e27200": [
+      "zachary-bragg"
+    ],
+    "A36986-e27260": [
+      "jack-amorous"
+    ],
+    "A36986-e27300": [
+      "nedd-bragg"
+    ],
+    "A36986-e27360": [
+      "zachary-bragg"
+    ],
+    "A36986-e27420": [
+      "nedd-bragg"
+    ],
+    "A36986-e27490": [
+      "young-merriton"
+    ],
+    "A36986-e27540": [
+      "jack-amorous"
+    ],
+    "A36986-e27580": [
+      "nedd-bragg"
+    ],
+    "A36986-e27630": [
+      "zachary-bragg"
+    ],
+    "A36986-e27680": [
+      "jack-amorous"
+    ],
+    "A36986-e27720": [
+      "zachary-bragg"
+    ],
+    "A36986-e27790": [
+      "young-merriton"
+    ],
+    "A36986-e27830": [
+      "jack-amorous"
+    ],
+    "A36986-e27860": [
+      "nedd-bragg"
+    ],
+    "A36986-e27910": [
+      "zachary-bragg"
+    ],
+    "A36986-e27970": [
+      "young-merriton"
+    ],
+    "A36986-e28010": [
+      "nedd-bragg"
+    ],
+    "A36986-e28050": [
+      "jack-amorous"
+    ],
+    "A36986-e28080": [
+      "zachary-bragg"
+    ],
+    "A36986-e28120": [
+      "young-merriton"
+    ],
+    "A36986-e28160": [
+      "jack-amorous"
+    ],
+    "A36986-e28190": [
+      "zachary-bragg"
+    ],
+    "A36986-e28240": [
+      "young-merriton"
+    ],
+    "A36986-e28280": [
+      "jack-amorous"
+    ],
+    "A36986-e28370": [
+      "nedd-bragg"
+    ],
+    "A36986-e28430": [
+      "zachary-bragg"
+    ],
+    "A36986-e28480": [
+      "nedd-bragg"
+    ],
+    "A36986-e28520": [
+      "zachary-bragg"
+    ],
+    "A36986-e28560": [
+      "nedd-bragg"
+    ],
+    "A36986-e28600": [
+      "zachary-bragg"
+    ],
+    "A36986-e28640": [
+      "nedd-bragg"
+    ],
+    "A36986-e28680": [
+      "zachary-bragg"
+    ],
+    "A36986-e28720": [
+      "nedd-bragg"
+    ],
+    "A36986-e28760": [
+      "zachary-bragg"
+    ],
+    "A36986-e28800": [
+      "nedd-bragg"
+    ],
+    "A36986-e28850": [
+      "zachary-bragg"
+    ],
+    "A36986-e28940": [
+      "mirtilla"
+    ],
+    "A36986-e29170": [
+      "lady-addleplot"
+    ],
+    "A36986-e29210": [
+      "crowstich"
+    ],
+    "A36986-e29240": [
+      "mirtilla"
+    ],
+    "A36986-e29290": [
+      "lady-addleplot"
+    ],
+    "A36986-e29330": [
+      "lady-stroddle"
+    ],
+    "A36986-e29380": [
+      "lady-addleplot"
+    ],
+    "A36986-e29410": [
+      "miss-jenny"
+    ],
+    "A36986-e29440": [
+      "crowstich"
+    ],
+    "A36986-e29520": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e29550": [
+      "lady-addleplot"
+    ],
+    "A36986-e29610": [
+      "tearshift"
+    ],
+    "A36986-e29640": [
+      "lady-addleplot"
+    ],
+    "A36986-e29700": [
+      "miss-jenny"
+    ],
+    "A36986-e29730": [
+      "lady-addleplot"
+    ],
+    "A36986-e29770": [
+      "miss-jenny"
+    ],
+    "A36986-e29800": [
+      "lady-addleplot"
+    ],
+    "A36986-e29840": [
+      "miss-jenny"
+    ],
+    "A36986-e29870": [
+      "miss-molly"
+    ],
+    "A36986-e29910": [
+      "lady-addleplot"
+    ],
+    "A36986-e29960": [
+      "lady-stroddle"
+    ],
+    "A36986-e30000": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e30040": [
+      "lady-addleplot"
+    ],
+    "A36986-e30080": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e30120": [
+      "miss-molly"
+    ],
+    "A36986-e30150": [
+      "miss-jenny"
+    ],
+    "A36986-e30200": [
+      "miss-molly"
+    ],
+    "A36986-e30250": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e30290": [
+      "lady-addleplot"
+    ],
+    "A36986-e30340": [
+      "crowstich"
+    ],
+    "A36986-e30370": [
+      "lady-addleplot"
+    ],
+    "A36986-e30410": [
+      "crowstich"
+    ],
+    "A36986-e30450": [
+      "lady-addleplot"
+    ],
+    "A36986-e30490": [
+      "crowstich"
+    ],
+    "A36986-e30530": [
+      "lady-addleplot"
+    ],
+    "A36986-e30580": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e30610": [
+      "miss-jenny"
+    ],
+    "A36986-e30660": [
+      "miss-molly"
+    ],
+    "A36986-e30710": [
+      "lady-addleplot"
+    ],
+    "A36986-e30770": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e30850": [
+      "mirtilla"
+    ],
+    "A36986-e30880": [
+      "young-merriton"
+    ],
+    "A36986-e30950": [
+      "mirtilla"
+    ],
+    "A36986-e30980": [
+      "young-merriton"
+    ],
+    "A36986-e31020": [
+      "mirtilla"
+    ],
+    "A36986-e31050": [
+      "young-merriton"
+    ],
+    "A36986-e31090": [
+      "mirtilla"
+    ],
+    "A36986-e31120": [
+      "young-merriton"
+    ],
+    "A36986-e31160": [
+      "mirtilla"
+    ],
+    "A36986-e31190": [
+      "young-merriton"
+    ],
+    "A36986-e31230": [
+      "mirtilla"
+    ],
+    "A36986-e31260": [
+      "young-merriton"
+    ],
+    "A36986-e31300": [
+      "mirtilla"
+    ],
+    "A36986-e31330": [
+      "young-merriton"
+    ],
+    "A36986-e31370": [
+      "mirtilla"
+    ],
+    "A36986-e31410": [
+      "young-merriton"
+    ],
+    "A36986-e31460": [
+      "mirtilla"
+    ],
+    "A36986-e31490": [
+      "young-merriton"
+    ],
+    "A36986-e31530": [
+      "mirtilla"
+    ],
+    "A36986-e31560": [
+      "young-merriton"
+    ],
+    "A36986-e31600": [
+      "mirtilla"
+    ],
+    "A36986-e31630": [
+      "young-merriton"
+    ],
+    "A36986-e31670": [
+      "mirtilla"
+    ],
+    "A36986-e31700": [
+      "young-merriton"
+    ],
+    "A36986-e31760": [
+      "old-merriton"
+    ],
+    "A36986-e31790": [
+      "mirtilla"
+    ],
+    "A36986-e31820": [
+      "young-merriton"
+    ],
+    "A36986-e31870": [
+      "mirtilla"
+    ],
+    "A36986-e31900": [
+      "old-merriton"
+    ],
+    "A36986-e31930": [
+      "mirtilla"
+    ],
+    "A36986-e31960": [
+      "old-merriton"
+    ],
+    "A36986-e31990": [
+      "mirtilla"
+    ],
+    "A36986-e32020": [
+      "old-merriton"
+    ],
+    "A36986-e32050": [
+      "mirtilla"
+    ],
+    "A36986-e32090": [
+      "old-merriton"
+    ],
+    "A36986-e32120": [
+      "mirtilla"
+    ],
+    "A36986-e32150": [
+      "old-merriton"
+    ],
+    "A36986-e32260": [
+      "jack-amorous"
+    ],
+    "A36986-e32290": [
+      "le-prate"
+    ],
+    "A36986-e32330": [
+      "jack-amorous"
+    ],
+    "A36986-e32370": [
+      "le-prate"
+    ],
+    "A36986-e32410": [
+      "jack-amorous"
+    ],
+    "A36986-e32490": [
+      "jiltall"
+    ],
+    "A36986-e32530": [
+      "oyley"
+    ],
+    "A36986-e32560": [
+      "jiltall"
+    ],
+    "A36986-e32610": [
+      "jack-amorous"
+    ],
+    "A36986-e32650": [
+      "jiltall"
+    ],
+    "A36986-e32680": [
+      "jack-amorous"
+    ],
+    "A36986-e32710": [
+      "jiltall"
+    ],
+    "A36986-e32750": [
+      "jack-amorous"
+    ],
+    "A36986-e32780": [
+      "jiltall"
+    ],
+    "A36986-e32810": [
+      "oyley"
+    ],
+    "A36986-e32850": [
+      "jack-amorous"
+    ],
+    "A36986-e32900": [
+      "jiltall"
+    ],
+    "A36986-e32950": [
+      "jack-amorous"
+    ],
+    "A36986-e33000": [
+      "jiltall"
+    ],
+    "A36986-e33030": [
+      "oyley"
+    ],
+    "A36986-e33060": [
+      "jack-amorous"
+    ],
+    "A36986-e33100": [
+      "jiltall"
+    ],
+    "A36986-e33140": [
+      "jack-amorous"
+    ],
+    "A36986-e33190": [
+      "oyley"
+    ],
+    "A36986-e33220": [
+      "jiltall"
+    ],
+    "A36986-e33260": [
+      "jack-amorous"
+    ],
+    "A36986-e33300": [
+      "jiltall"
+    ],
+    "A36986-e33330": [
+      "jack-amorous"
+    ],
+    "A36986-e33370": [
+      "oyley"
+    ],
+    "A36986-e33400": [
+      "jack-amorous"
+    ],
+    "A36986-e33440": [
+      "jiltall"
+    ],
+    "A36986-e33510": [
+      "jiltall"
+    ],
+    "A36986-e33550": [
+      "jiltall"
+    ],
+    "A36986-e33580": [
+      "jack-amorous"
+    ],
+    "A36986-e33660": [
+      "oyley"
+    ],
+    "A36986-e33690": [
+      "jack-amorous"
+    ],
+    "A36986-e33720": [
+      "oyley"
+    ],
+    "A36986-e33750": [
+      "jack-amorous"
+    ],
+    "A36986-e33800": [
+      "jiltall"
+    ],
+    "A36986-e33840": [
+      "jack-amorous"
+    ],
+    "A36986-e33880": [
+      "jiltall"
+    ],
+    "A36986-e33910": [
+      "jack-amorous"
+    ],
+    "A36986-e33960": [
+      "le-prate"
+    ],
+    "A36986-e33990": [
+      "oyley"
+    ],
+    "A36986-e34030": [
+      "le-prate"
+    ],
+    "A36986-e34060": [
+      "jiltall"
+    ],
+    "A36986-e34100": [
+      "jack-amorous"
+    ],
+    "A36986-e34130": [
+      "le-prate"
+    ],
+    "A36986-e34190": [
+      "le-prate"
+    ],
+    "A36986-e34250": [
+      "le-prate"
+    ],
+    "A36986-e34280": [
+      "jack-amorous"
+    ],
+    "A36986-e34320": [
+      "oyley"
+    ],
+    "A36986-e34360": [
+      "jiltall"
+    ],
+    "A36986-e34430": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e34480": [
+      "jiltall"
+    ],
+    "A36986-e34540": [
+      "oyley"
+    ],
+    "A36986-e34570": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e34600": [
+      "oyley"
+    ],
+    "A36986-e34630": [
+      "jiltall"
+    ],
+    "A36986-e34670": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e34700": [
+      "jiltall"
+    ],
+    "A36986-e34730": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e34760": [
+      "oyley"
+    ],
+    "A36986-e34800": [
+      "jiltall"
+    ],
+    "A36986-e34830": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e34860": [
+      "jiltall"
+    ],
+    "A36986-e34900": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e34930": [
+      "jiltall"
+    ],
+    "A36986-e34960": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e34990": [
+      "jiltall"
+    ],
+    "A36986-e35310": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e35340": [
+      "jiltall"
+    ],
+    "A36986-e35370": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e35410": [
+      "jiltall"
+    ],
+    "A36986-e35440": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e35470": [
+      "jiltall"
+    ],
+    "A36986-e35500": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e35540": [
+      "jiltall"
+    ],
+    "A36986-e35570": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e35670": [
+      "oyley"
+    ],
+    "A36986-e35700": [
+      "jiltall"
+    ],
+    "A36986-e35840": [
+      "old-merriton"
+    ],
+    "A36986-e35880": [
+      "boy"
+    ],
+    "A36986-e35920": [
+      "old-merriton"
+    ],
+    "A36986-e36000": [
+      "mirtilla"
+    ],
+    "A36986-e36030": [
+      "old-merriton"
+    ],
+    "A36986-e36070": [
+      "mirtilla"
+    ],
+    "A36986-e36100": [
+      "old-merriton"
+    ],
+    "A36986-e36160": [
+      "young-merriton"
+    ],
+    "A36986-e36260": [
+      "coopee"
+    ],
+    "A36986-e36290": [
+      "semibrief"
+    ],
+    "A36986-e36320": [
+      "coopee"
+    ],
+    "A36986-e36380": [
+      "miss-jenny"
+    ],
+    "A36986-e36440": [
+      "miss-jenny"
+    ],
+    "A36986-e36490": [
+      "coopee"
+    ],
+    "A36986-e36520": [
+      "miss-jenny"
+    ],
+    "A36986-e36560": [
+      "coopee"
+    ],
+    "A36986-e36590": [
+      "semibrief"
+    ],
+    "A36986-e36640": [
+      "miss-jenny"
+    ],
+    "A36986-e36680": [
+      "coopee"
+    ],
+    "A36986-e36710": [
+      "miss-jenny"
+    ],
+    "A36986-e36750": [
+      "coopee"
+    ],
+    "A36986-e36780": [
+      "miss-jenny"
+    ],
+    "A36986-e36830": [
+      "coopee"
+    ],
+    "A36986-e36860": [
+      "miss-jenny"
+    ],
+    "A36986-e36910": [
+      "coopee"
+    ],
+    "A36986-e36940": [
+      "miss-jenny"
+    ],
+    "A36986-e36990": [
+      "coopee"
+    ],
+    "A36986-e37020": [
+      "miss-jenny"
+    ],
+    "A36986-e37070": [
+      "coopee"
+    ],
+    "A36986-e37100": [
+      "miss-jenny"
+    ],
+    "A36986-e37160": [
+      "crowstich"
+    ],
+    "A36986-e37200": [
+      "miss-jenny"
+    ],
+    "A36986-e37280": [
+      "crowstich"
+    ],
+    "A36986-e37310": [
+      "miss-jenny"
+    ],
+    "A36986-e37350": [
+      "crowstich"
+    ],
+    "A36986-e37390": [
+      "coopee"
+    ],
+    "A36986-e37440": [
+      "semibrief"
+    ],
+    "A36986-e37480": [
+      "coopee"
+    ],
+    "A36986-e37510": [
+      "semibrief"
+    ],
+    "A36986-e37550": [
+      "coopee"
+    ],
+    "A36986-e37580": [
+      "semibrief"
+    ],
+    "A36986-e37610": [
+      "coopee"
+    ],
+    "A36986-e37670": [
+      "nedd-bragg"
+    ],
+    "A36986-e37780": [
+      "semibrief"
+    ],
+    "A36986-e37810": [
+      "nedd-bragg"
+    ],
+    "A36986-e37860": [
+      "miss-molly"
+    ],
+    "A36986-e37890": [
+      "semibrief"
+    ],
+    "A36986-e37940": [
+      "nedd-bragg"
+    ],
+    "A36986-e37980": [
+      "miss-jenny"
+    ],
+    "A36986-e38010": [
+      "coopee"
+    ],
+    "A36986-e38040": [
+      "nedd-bragg"
+    ],
+    "A36986-e38150": [
+      "lady-addleplot"
+    ],
+    "A36986-e38180": [
+      "le-prate"
+    ],
+    "A36986-e38210": [
+      "lady-stroddle"
+    ],
+    "A36986-e38240": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e38280": [
+      "lady-addleplot"
+    ],
+    "A36986-e38320": [
+      "lady-stroddle"
+    ],
+    "A36986-e38350": [
+      "lady-addleplot"
+    ],
+    "A36986-e38380": [
+      "lady-stroddle"
+    ],
+    "A36986-e38440": [
+      "tearshift"
+    ],
+    "A36986-e38480": [
+      "lady-addleplot"
+    ],
+    "A36986-e38590": [
+      "lady-addleplot"
+    ],
+    "A36986-e38640": [
+      "lady-stroddle"
+    ],
+    "A36986-e38680": [
+      "le-prate"
+    ],
+    "A36986-e38720": [
+      "lady-addleplot"
+    ],
+    "A36986-e38760": [
+      "lady-stroddle"
+    ],
+    "A36986-e38820": [
+      "zachary-bragg"
+    ],
+    "A36986-e38850": [
+      "lady-addleplot"
+    ],
+    "A36986-e38890": [
+      "lady-stroddle"
+    ],
+    "A36986-e38940": [
+      "lady-addleplot"
+    ],
+    "A36986-e38990": [
+      "le-prate"
+    ],
+    "A36986-e39020": [
+      "zachary-bragg"
+    ],
+    "A36986-e39060": [
+      "le-prate"
+    ],
+    "A36986-e39120": [
+      "zachary-bragg"
+    ],
+    "A36986-e39170": [
+      "lady-addleplot"
+    ],
+    "A36986-e39250": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e39320": [
+      "lady-addleplot"
+    ],
+    "A36986-e39360": [
+      "le-prate"
+    ],
+    "A36986-e39400": [
+      "nedd-bragg"
+    ],
+    "A36986-e39430": [
+      "lady-addleplot"
+    ],
+    "A36986-e39480": [
+      "nedd-bragg"
+    ],
+    "A36986-e39520": [
+      "lady-addleplot"
+    ],
+    "A36986-e39560": [
+      "lady-stroddle"
+    ],
+    "A36986-e39600": [
+      "le-prate"
+    ],
+    "A36986-e39640": [
+      "nedd-bragg"
+    ],
+    "A36986-e39720": [
+      "tearshift"
+    ],
+    "A36986-e39760": [
+      "nedd-bragg"
+    ],
+    "A36986-e39860": [
+      "old-merriton"
+    ],
+    "A36986-e39900": [
+      "coopee"
+    ],
+    "A36986-e39930": [
+      "semibrief"
+    ],
+    "A36986-e39980": [
+      "old-merriton"
+    ],
+    "A36986-e40040": [
+      "mirtilla"
+    ],
+    "A36986-e40070": [
+      "young-merriton"
+    ],
+    "A36986-e40110": [
+      "mirtilla"
+    ],
+    "A36986-e40140": [
+      "young-merriton"
+    ],
+    "A36986-e40180": [
+      "mirtilla"
+    ],
+    "A36986-e40210": [
+      "young-merriton"
+    ],
+    "A36986-e40240": [
+      "mirtilla"
+    ],
+    "A36986-e40270": [
+      "young-merriton"
+    ],
+    "A36986-e40310": [
+      "mirtilla"
+    ],
+    "A36986-e40340": [
+      "young-merriton"
+    ],
+    "A36986-e40370": [
+      "mirtilla"
+    ],
+    "A36986-e40400": [
+      "young-merriton"
+    ],
+    "A36986-e40430": [
+      "mirtilla"
+    ],
+    "A36986-e40460": [
+      "young-merriton"
+    ],
+    "A36986-e40490": [
+      "mirtilla"
+    ],
+    "A36986-e40520": [
+      "young-merriton"
+    ],
+    "A36986-e40550": [
+      "mirtilla"
+    ],
+    "A36986-e40580": [
+      "young-merriton"
+    ],
+    "A36986-e40620": [
+      "mirtilla"
+    ],
+    "A36986-e40650": [
+      "young-merriton"
+    ],
+    "A36986-e40680": [
+      "mirtilla"
+    ],
+    "A36986-e40710": [
+      "young-merriton"
+    ],
+    "A36986-e40740": [
+      "mirtilla"
+    ],
+    "A36986-e40770": [
+      "young-merriton"
+    ],
+    "A36986-e40880": [
+      "jack-amorous"
+    ],
+    "A36986-e40920": [
+      "young-merriton"
+    ],
+    "A36986-e40950": [
+      "jack-amorous"
+    ],
+    "A36986-e41010": [
+      "young-merriton"
+    ],
+    "A36986-e41040": [
+      "jack-amorous"
+    ],
+    "A36986-e41080": [
+      "jiltall"
+    ],
+    "A36986-e41120": [
+      "oyley"
+    ],
+    "A36986-e41150": [
+      "jiltall"
+    ],
+    "A36986-e41190": [
+      "young-merriton"
+    ],
+    "A36986-e41220": [
+      "jack-amorous"
+    ],
+    "A36986-e41250": [
+      "jiltall"
+    ],
+    "A36986-e41300": [
+      "oyley"
+    ],
+    "A36986-e41340": [
+      "jack-amorous"
+    ],
+    "A36986-e41370": [
+      "jiltall"
+    ],
+    "A36986-e41410": [
+      "oyley"
+    ],
+    "A36986-e41450": [
+      "jack-amorous"
+    ],
+    "A36986-e41490": [
+      "jiltall"
+    ],
+    "A36986-e41520": [
+      "jack-amorous"
+    ],
+    "A36986-e41560": [
+      "footman"
+    ],
+    "A36986-e41610": [
+      "jack-amorous"
+    ],
+    "A36986-e41660": [
+      "young-merriton"
+    ],
+    "A36986-e41690": [
+      "jack-amorous"
+    ],
+    "A36986-e41720": [
+      "jiltall"
+    ],
+    "A36986-e41750": [
+      "jack-amorous"
+    ],
+    "A36986-e41780": [
+      "oyley"
+    ],
+    "A36986-e41810": [
+      "jack-amorous"
+    ],
+    "A36986-e41850": [
+      "oyley"
+    ],
+    "A36986-e41900": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e41940": [
+      "jack-amorous"
+    ],
+    "A36986-e41990": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e42020": [
+      "jiltall"
+    ],
+    "A36986-e42110": [
+      "jack-amorous"
+    ],
+    "A36986-e42170": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e42210": [
+      "jack-amorous"
+    ],
+    "A36986-e42240": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e42270": [
+      "jiltall"
+    ],
+    "A36986-e42300": [
+      "jack-amorous"
+    ],
+    "A36986-e42340": [
+      "jiltall"
+    ],
+    "A36986-e42390": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e42450": [
+      "young-merriton"
+    ],
+    "A36986-e42500": [
+      "footman"
+    ],
+    "A36986-e42530": [
+      "young-merriton"
+    ],
+    "A36986-e42570": [
+      "footman"
+    ],
+    "A36986-e42600": [
+      "young-merriton"
+    ],
+    "A36986-e42640": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e42670": [
+      "young-merriton"
+    ],
+    "A36986-e42710": [
+      "jiltall"
+    ],
+    "A36986-e42740": [
+      "young-merriton"
+    ],
+    "A36986-e42780": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e42810": [
+      "young-merriton"
+    ],
+    "A36986-e42850": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e42880": [
+      "young-merriton"
+    ],
+    "A36986-e42920": [
+      "jack-amorous"
+    ],
+    "A36986-e42970": [
+      "young-merriton"
+    ],
+    "A36986-e43010": [
+      "jack-amorous"
+    ],
+    "A36986-e43040": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43100": [
+      "old-merriton"
+    ],
+    "A36986-e43140": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43170": [
+      "old-merriton"
+    ],
+    "A36986-e43220": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43260": [
+      "jiltall"
+    ],
+    "A36986-e43290": [
+      "old-merriton"
+    ],
+    "A36986-e43330": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43370": [
+      "old-merriton"
+    ],
+    "A36986-e43430": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43460": [
+      "jiltall"
+    ],
+    "A36986-e43490": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43520": [
+      "oyley"
+    ],
+    "A36986-e43560": [
+      "jack-amorous"
+    ],
+    "A36986-e43590": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43620": [
+      "old-merriton"
+    ],
+    "A36986-e43690": [
+      "mirtilla"
+    ],
+    "A36986-e43720": [
+      "jack-amorous"
+    ],
+    "A36986-e43750": [
+      "jiltall"
+    ],
+    "A36986-e43780": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43810": [
+      "jack-amorous"
+    ],
+    "A36986-e43860": [
+      "old-merriton"
+    ],
+    "A36986-e43950": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e43980": [
+      "jiltall"
+    ],
+    "A36986-e44010": [
+      "jack-amorous"
+    ],
+    "A36986-e44040": [
+      "jiltall"
+    ],
+    "A36986-e44070": [
+      "oyley"
+    ],
+    "A36986-e44100": [
+      "mirtilla"
+    ],
+    "A36986-e44150": [
+      "old-merriton"
+    ],
+    "A36986-e44200": [
+      "jack-amorous"
+    ],
+    "A36986-e44250": [
+      "young-merriton"
+    ],
+    "A36986-e44290": [
+      "mirtilla"
+    ],
+    "A36986-e44320": [
+      "jack-amorous"
+    ],
+    "A36986-e44370": [
+      "old-merriton"
+    ],
+    "A36986-e44420": [
+      "jack-amorous"
+    ],
+    "A36986-e44450": [
+      "old-merriton"
+    ],
+    "A36986-e44490": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e44520": [
+      "old-merriton"
+    ],
+    "A36986-e44550": [
+      "sir-rowland-rakehell"
+    ],
+    "A36986-e44590": [
+      "jack-amorous"
+    ],
+    "A36986-e44620": [
+      "young-merriton"
+    ],
+    "A36986-e44670": [
+      "jack-amorous"
+    ],
+    "A36986-e44710": [
+      "oyley"
+    ],
+    "A36986-e44740": [
+      "jiltall"
+    ],
+    "A36986-e44810": [
+      "jack-amorous"
+    ],
+    "A36986-e44890": [
+      "lady-addleplot"
+    ],
+    "A36986-e44920": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e44950": [
+      "le-prate"
+    ],
+    "A36986-e44990": [
+      "young-merriton"
+    ],
+    "A36986-e45030": [
+      "le-prate"
+    ],
+    "A36986-e45070": [
+      "young-merriton"
+    ],
+    "A36986-e45110": [
+      "lady-addleplot"
+    ],
+    "A36986-e45150": [
+      "young-merriton"
+    ],
+    "A36986-e45190": [
+      "lady-addleplot"
+    ],
+    "A36986-e45220": [
+      "young-merriton"
+    ],
+    "A36986-e45290": [
+      "lady-addleplot"
+    ],
+    "A36986-e45330": [
+      "lady-addleplot"
+    ],
+    "A36986-e45370": [
+      "miss-jenny"
+    ],
+    "A36986-e45400": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e45440": [
+      "miss-molly"
+    ],
+    "A36986-e45470": [
+      "semibrief"
+    ],
+    "A36986-e45510": [
+      "miss-jenny"
+    ],
+    "A36986-e45570": [
+      "lady-addleplot"
+    ],
+    "A36986-e45610": [
+      "parson"
+    ],
+    "A36986-e45640": [
+      "lady-stroddle"
+    ],
+    "A36986-e45680": [
+      "miss-molly"
+    ],
+    "A36986-e45720": [
+      "lady-addleplot"
+    ],
+    "A36986-e45760": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e45840": [
+      "zachary-bragg"
+    ],
+    "A36986-e45870": [
+      "nedd-bragg"
+    ],
+    "A36986-e45900": [
+      "old-merriton"
+    ],
+    "A36986-e45930": [
+      "nedd-bragg"
+    ],
+    "A36986-e45960": [
+      "mob"
+    ],
+    "A36986-e45990": [
+      "lady-addleplot"
+    ],
+    "A36986-e46040": [
+      "lady-stroddle"
+    ],
+    "A36986-e46070": [
+      "le-prate"
+    ],
+    "A36986-e46120": [
+      "nedd-bragg"
+    ],
+    "A36986-e46150": [
+      "deputy-nicompoop"
+    ],
+    "A36986-e46180": [
+      "zachary-bragg"
+    ],
+    "A36986-e46210": [
+      "old-merriton"
+    ],
+    "A36986-e46240": [
+      "jack-amorous"
+    ],
+    "A36986-e46270": [
+      "young-merriton"
+    ],
+    "A36986-e46300": [
+      "mirtilla"
+    ]
+  }
+}
