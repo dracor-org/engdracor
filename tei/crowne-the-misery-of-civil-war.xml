@@ -42,6 +42,9 @@
           <pubPlace>London</pubPlace>
           <date>1680</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q108003981</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A35289.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -64,22 +67,15 @@
             <note>First edition. Reissued in 1681 with new title: Henry the Sixth, the second part, or, The misery of civil war.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1680">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1680">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000657"
-                   passive="http://www.wikidata.org/entity/Q108003981"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000657-e10">

@@ -37,6 +37,9 @@
           <pubPlace>London</pubPlace>
           <date>1652</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q7721343</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A93167.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -72,6 +75,11 @@
             <note>Reproduction of original in the Folger Shakespeare Library.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1641">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -177,18 +185,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1641">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000430"
-                   passive="http://www.wikidata.org/entity/Q7721343"/>
-    </listRelation>
-  </standOff>
   <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000430-e100030">

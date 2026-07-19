@@ -37,6 +37,9 @@
           <pubPlace>London</pubPlace>
           <date>1639</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q4658545</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A19888.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -82,6 +85,11 @@
             </note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1625">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -148,18 +156,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1625">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000305"
-                   passive="http://www.wikidata.org/entity/Q4658545"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000305-e100030">

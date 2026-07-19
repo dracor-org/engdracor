@@ -41,6 +41,9 @@
           <pubPlace>London</pubPlace>
           <date>1676</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q7772848</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A59463.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -60,22 +63,15 @@
             <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1676">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1676">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000556"
-                   passive="http://www.wikidata.org/entity/Q7772848"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000556-e10">

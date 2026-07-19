@@ -48,6 +48,9 @@
           <pubPlace>London</pubPlace>
           <date>1647</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q6690009</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A27177_33.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -103,6 +106,11 @@
             </note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1616">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -217,18 +225,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1616">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000361"
-                   passive="http://www.wikidata.org/entity/Q6690009"/>
-    </listRelation>
-  </standOff>
   <text xml:lang="en">
     <body>
       <div type="play" xml:id="eng000361-e100030">

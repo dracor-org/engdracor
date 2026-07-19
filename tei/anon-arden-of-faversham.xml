@@ -41,6 +41,9 @@
           <pubPlace>Imprinted at London</pubPlace>
           <date>1592</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q1625343</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A20951.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -113,6 +116,11 @@
             </note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1590">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -179,18 +187,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1590">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000324"
-                   passive="http://www.wikidata.org/entity/Q1625343"/>
-    </listRelation>
-  </standOff>
   <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000324-e100030">

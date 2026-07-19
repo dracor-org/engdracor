@@ -43,6 +43,9 @@
           <pubPlace>London</pubPlace>
           <date>1647</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q477990</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A42281.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -65,22 +68,15 @@
             <note>Reproduction of original in Thomason Collection.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1647">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1647">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000746"
-                   passive="http://www.wikidata.org/entity/Q477990"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000746-e10">

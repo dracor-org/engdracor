@@ -45,6 +45,9 @@
           <pubPlace>Imprinted at London</pubPlace>
           <date>1581</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q3785162</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A11909_01.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -99,6 +102,11 @@
             </note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1561">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -114,18 +122,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1561">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000627"
-                   passive="http://www.wikidata.org/entity/Q3785162"/>
-    </listRelation>
-  </standOff>
   <text>
     <body>
       <div n="1" type="tragedy" xml:id="eng000627-e100030">

@@ -42,6 +42,9 @@
           <pubPlace>London</pubPlace>
           <date>1659</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q7758999</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A77567_05.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -83,6 +86,11 @@
             <note>Reproductions of the originals in the British Library.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1635">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -212,18 +220,6 @@
       </textClass>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1635">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000425"
-                   passive="http://www.wikidata.org/entity/Q7758999"/>
-    </listRelation>
-  </standOff>
   <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000425-e100030">

@@ -41,6 +41,9 @@
           <pubPlace>London</pubPlace>
           <date>1664</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q25204117</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A55490.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -59,6 +62,11 @@
             <note>Reproduction of original in Library of Congress.</note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="print" when="1664">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -134,18 +142,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1664">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000531"
-                   passive="http://www.wikidata.org/entity/Q25204117"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div type="title_page" xml:id="eng000531-e10">

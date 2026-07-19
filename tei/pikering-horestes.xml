@@ -36,6 +36,9 @@
           <pubPlace>Imprinted at London</pubPlace>
           <date>Anno. 1567</date>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q16386094</idno>
+        </bibl>
         <bibl type="web">
           <ref target="https://texts.earlyprint.org/works/A09651.xml">texts.earlyprint.org</ref>
         </bibl>
@@ -78,6 +81,11 @@
             </note>
           </notesStmt>
         </biblFull>
+        <listEvent>
+          <event type="written" when="1567">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -170,18 +178,6 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1567">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata"
-                   active="https://dracor.org/entity/eng000188"
-                   passive="http://www.wikidata.org/entity/Q16386094"/>
-    </listRelation>
-  </standOff>
   <text xml:lang="en">
     <front>
       <div type="title_page" xml:id="eng000188-e100030">

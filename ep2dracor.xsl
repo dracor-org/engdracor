@@ -181,43 +181,6 @@
       <xsl:call-template name="profileDesc"/>
       <xsl:call-template name="revisionDesc"/>
     </teiHeader>
-    <standOff>
-      <xsl:if test="//tei:xenoData/ep:epHeader/(ep:creationYear|ep:publicationYear)[string-length() > 0]">
-        <!--
-          FIXME: is ep:creationYear reliably the year of writing and can we use
-          //tei:biblFull[@n='printed source']/tei:publicationStmt/tei:date[@type='publication_date']
-          as print year?
-        -->
-        <listEvent>
-          <xsl:if test="//tei:xenoData/ep:epHeader/ep:creationYear[string-length() > 0]">
-            <event type="written">
-              <xsl:attribute name="when" select="//tei:xenoData/ep:epHeader/ep:creationYear"/>
-              <desc/>
-            </event>
-          </xsl:if>
-          <xsl:if test="//tei:xenoData/ep:epHeader/ep:publicationYear[string-length() > 0]">
-            <event type="print">
-              <xsl:attribute name="when" select="//tei:xenoData/ep:epHeader/ep:publicationYear"/>
-              <desc/>
-            </event>
-          </xsl:if>
-        </listEvent>
-      </xsl:if>
-      <xsl:if test="$meta/@wikidata">
-        <listRelation>
-          <relation name="wikidata">
-            <xsl:attribute name="active">
-              <xsl:text>https://dracor.org/entity/</xsl:text>
-              <xsl:value-of select="$meta/@id"/>
-            </xsl:attribute>
-            <xsl:attribute name="passive">
-              <xsl:text>http://www.wikidata.org/entity/</xsl:text>
-              <xsl:value-of select="$meta/@wikidata"/>
-            </xsl:attribute>
-          </relation>
-        </listRelation>
-      </xsl:if>
-    </standOff>
   </xsl:template>
 
   <!-- fix xml:lang -->
@@ -422,6 +385,16 @@
           <xsl:text> </xsl:text>
         </bibl>
       </xsl:if>
+
+      <xsl:if test="$meta/@wikidata">
+        <bibl type="wikidata">
+          <idno>
+            <xsl:value-of select="$meta/@wikidata"/>
+          </idno>
+        </bibl>
+      </xsl:if>
+
+      <!-- include the website link for reference -->
       <bibl type="web">
         <ref>
           <xsl:attribute name="target">
@@ -432,8 +405,31 @@
           <xsl:text>texts.earlyprint.org</xsl:text>
         </ref>
       </bibl>
+
       <!-- for now let's include the biblFull elements for reference -->
       <xsl:apply-templates select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull"/>
+
+      <xsl:if test="//tei:xenoData/ep:epHeader/(ep:creationYear|ep:publicationYear)[string-length() > 0]">
+        <!--
+             FIXME: is ep:creationYear reliably the year of writing and can we use
+             //tei:biblFull[@n='printed source']/tei:publicationStmt/tei:date[@type='publication_date']
+             as print year?
+        -->
+        <listEvent>
+          <xsl:if test="//tei:xenoData/ep:epHeader/ep:creationYear[string-length() > 0]">
+            <event type="written">
+              <xsl:attribute name="when" select="//tei:xenoData/ep:epHeader/ep:creationYear"/>
+              <desc/>
+            </event>
+          </xsl:if>
+          <xsl:if test="//tei:xenoData/ep:epHeader/ep:publicationYear[string-length() > 0]">
+            <event type="print">
+              <xsl:attribute name="when" select="//tei:xenoData/ep:epHeader/ep:publicationYear"/>
+              <desc/>
+            </event>
+          </xsl:if>
+        </listEvent>
+      </xsl:if>
     </sourceDesc>
   </xsl:template>
 
