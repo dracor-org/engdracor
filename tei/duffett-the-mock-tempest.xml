@@ -74,14 +74,20 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="eng000589-head-keeper" sex="MALE">
+            <persName>Head-keeper</persName>
+          </person>
           <personGrp xml:id="eng000589-rabble" sex="UNKNOWN">
             <name>Rabble</name>
           </personGrp>
-          <person xml:id="eng000589-baud" sex="FEMALE">
-            <persName>Baud</persName>
-          </person>
+          <personGrp xml:id="eng000589-wenches" sex="FEMALE">
+            <name>Wenches</name>
+          </personGrp>
           <person xml:id="eng000589-pimp" sex="MALE">
             <persName>Pimp</persName>
+          </person>
+          <person xml:id="eng000589-baud" sex="FEMALE">
+            <persName>Baud</persName>
           </person>
           <person xml:id="eng000589-caliban" sex="MALE">
             <persName>Caliban</persName>
@@ -89,8 +95,8 @@
           <person xml:id="eng000589-sycorax" sex="FEMALE">
             <persName>Sycorax</persName>
           </person>
-          <person xml:id="eng000589-murder" sex="MALE">
-            <persName>Murder</persName>
+          <person xml:id="eng000589-murther" sex="MALE">
+            <persName>Murther</persName>
           </person>
           <person xml:id="eng000589-rapine" sex="MALE">
             <persName>Rapine</persName>
@@ -101,29 +107,23 @@
           <person xml:id="eng000589-pride" sex="FEMALE">
             <persName>Pride</persName>
           </person>
-          <personGrp xml:id="eng000589-chorus-devils" sex="UNKNOWN">
-            <name>Chorus of devils</name>
-          </personGrp>
+          <person xml:id="eng000589-devil-4" sex="UNKNOWN">
+            <persName>Devil 4</persName>
+          </person>
+          <person xml:id="eng000589-devil-3" sex="UNKNOWN">
+            <persName>Devil 3</persName>
+          </person>
+          <person xml:id="eng000589-devil-2" sex="UNKNOWN">
+            <persName>Devil 2</persName>
+          </person>
+          <person xml:id="eng000589-devil-1" sex="UNKNOWN">
+            <persName>Devil 1</persName>
+          </person>
           <personGrp xml:id="eng000589-chorus" sex="UNKNOWN">
-            <name>Chorus</name>
+            <name>Chorus of Devils</name>
           </personGrp>
-          <person xml:id="eng000589-devil-iv" sex="UNKNOWN">
-            <persName>Devil IV</persName>
-          </person>
-          <person xml:id="eng000589-devil-iii" sex="UNKNOWN">
-            <persName>Devil III</persName>
-          </person>
-          <person xml:id="eng000589-devil-ii" sex="UNKNOWN">
-            <persName>Devil II</persName>
-          </person>
-          <person xml:id="eng000589-devil-i" sex="UNKNOWN">
-            <persName>Devil I</persName>
-          </person>
-          <person xml:id="eng000589-mr-hains" sex="MALE">
-            <persName>Mr. Hains</persName>
-          </person>
-          <person xml:id="eng000589-betty-mackarel" sex="FEMALE">
-            <persName>Betty Mackarel</persName>
+          <person xml:id="eng000589-plenepotentiary" sex="MALE">
+            <persName>Plenepotentiary</persName>
           </person>
           <person xml:id="eng000589-prospero" sex="MALE">
             <persName>Prospero</persName>
@@ -164,15 +164,9 @@
           <person xml:id="eng000589-drinkallup" sex="FEMALE">
             <persName>Drinkallup</persName>
           </person>
-          <person xml:id="eng000589-ariel" sex="UNKNOWN">
+          <person xml:id="eng000589-ariel" sex="FEMALE">
             <persName>Ariel</persName>
           </person>
-          <person xml:id="eng000589-plenipotentiary" sex="MALE">
-            <persName>Plenipotentiary</persName>
-          </person>
-          <personGrp xml:id="eng000589-Wenches" sex="FEMALE">
-            <name>wenches</name>
-          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>
@@ -206,11 +200,11 @@
         <l>And yet her tender heart is loath to wrong ye. </l>
         <l>Spare 'em not, </l>
         <l>Whom kindness cannot stir, but stripes may move. </l>
-        <sp who="#eng000589-betty-mackarel" xml:id="eng000589-e370">
+        <sp who="#eng000589-beantosser" xml:id="eng000589-e370">
           <speaker>Bet. </speaker>
           <l>O Mr. Hains! I've often felt their Love. </l>
         </sp>
-        <sp who="#eng000589-mr-hains" xml:id="eng000589-e410">
+        <sp who="#eng000589-hectorio" xml:id="eng000589-e410">
           <speaker>Ha. </speaker>
           <l>Poh, felt a Pudding that has taken vent, </l>
           <l>Their love cools faster, and as soon is spent. </l>
@@ -218,11 +212,11 @@
           <l>They gaze and wish, but cannot reach thy Sphere, </l>
           <l>Though ev'ry one could squeeze thy Orange there. </l>
         </sp>
-        <sp who="#eng000589-betty-mackarel" xml:id="eng000589-e490">
+        <sp who="#eng000589-beantosser" xml:id="eng000589-e490">
           <speaker>Bet. </speaker>
           <l>Why this to me, Mr. Haines (d'ee conceive me) why to me? </l>
         </sp>
-        <sp who="#eng000589-mr-hains" xml:id="eng000589-e530">
+        <sp who="#eng000589-hectorio" xml:id="eng000589-e530">
           <speaker>Ha. </speaker>
           <l>Ay, why this to Betty? </l>
           <pb xml:id="eng000589-003-a"/>
@@ -235,21 +229,21 @@
           <l>I'le spend five Guinnyes on thee, if thou'lst go: </l>
           <l>And then they shake their (d'ee concieve me) Betty is't not so, their yellow Boyes. </l>
         </sp>
-        <sp who="#eng000589-betty-mackarel" xml:id="eng000589-e690">
+        <sp who="#eng000589-beantosser" xml:id="eng000589-e690">
           <speaker>Bet. </speaker>
           <l>Fie Mr. Hains, y'are very rude (d'ee concieve me.) </l>
         </sp>
-        <sp who="#eng000589-mr-hains" xml:id="eng000589-e730">
+        <sp who="#eng000589-hectorio" xml:id="eng000589-e730">
           <speaker>Ha. </speaker>
           <l>Then speak your self. </l>
         </sp>
-        <sp who="#eng000589-betty-mackarel" xml:id="eng000589-e760">
+        <sp who="#eng000589-beantosser" xml:id="eng000589-e760">
           <speaker>Bet. </speaker>
           <l>Gentlemen! you know what I know. </l>
           <l>If y'are severe, all shall out by this light: </l>
           <l>But if you will be kind, I'le still be right▪ </l>
         </sp>
-        <sp who="#eng000589-mr-hains" xml:id="eng000589-e810">
+        <sp who="#eng000589-hectorio" xml:id="eng000589-e810">
           <speaker>Ha </speaker>
           <l>So that's well— make thy Cursy Betty. </l>
           <l>Now go in Child, I have something to say to these Gentlemen in private. <stage xml:id="eng000589-e860">Exit Betty. </stage>
@@ -707,7 +701,7 @@
               </p>
               <p>Plenipotentiary, be not dismaid with the glittering Splendour of our Court, but boldly deliver what thou hast in Charge.— </p>
             </sp>
-            <sp who="#eng000589-plenipotentiary" xml:id="eng000589-e5400">
+            <sp who="#eng000589-plenepotentiary" xml:id="eng000589-e5400">
               <speaker>Plen. </speaker>
               <p>My Master, the many-headed-monster-Multitude, to save the great effusion of Christian Chamberly, will grant you peace on these terms. </p>
             </sp>
@@ -715,7 +709,7 @@
               <speaker>Steph. </speaker>
               <p>Say on. </p>
             </sp>
-            <sp who="#eng000589-plenipotentiary" xml:id="eng000589-e5460">
+            <sp who="#eng000589-plenepotentiary" xml:id="eng000589-e5460">
               <speaker>Plen. </speaker>
               <p>First, they demand the Dominion of the Straights mouth, and all the Mediterranean Sea— That every Frigot, Fireship, you have, shall strike, furle up their sail, and lye by to the least of their Cock-boats, where-ever they meet, and receive a man aboard to search for prohibited Goods, and permit him to romage fore and oft without resistance.— </p>
             </sp>
@@ -723,7 +717,7 @@
               <speaker>Stepha </speaker>
               <p>Umph.— My friends, this is very hard. </p>
             </sp>
-            <sp who="#eng000589-plenipotentiary" xml:id="eng000589-e5520">
+            <sp who="#eng000589-plenepotentiary" xml:id="eng000589-e5520">
               <speaker>Plen. </speaker>
               <p>Secondly, That all their Vessels shall have and enjoy a free-trade into and out of all your Ports without paying any Custom.— </p>
             </sp>
@@ -739,7 +733,7 @@
               <speaker>Mous. </speaker>
               <p>As we have always done heretofore. </p>
             </sp>
-            <sp who="#eng000589-plenipotentiary" xml:id="eng000589-e5640">
+            <sp who="#eng000589-plenepotentiary" xml:id="eng000589-e5640">
               <speaker>Plen. </speaker>
               <p>Lastly, That you re-imburse the charge of the War, pay for the Cure of the wounded, and the recov'ry of those that have surfeited on your rotten Ling and Poys'nous Oyl, and allow Pensions <pb n="7" rend="simple:additions" xml:id="eng000589-008-b"/>for those that are dismembered— What say ye, Peace, or War? </p>
             </sp>
@@ -755,7 +749,7 @@
               <speaker>Steph. </speaker>
               <p>Return for answer, that we will rather dye at their Feet, then submit to such dishonourable Conditions:— Begon:— And so she pray'd me to tell ye. </p>
             </sp>
-            <sp who="#eng000589-plenipotentiary" xml:id="eng000589-e5760">
+            <sp who="#eng000589-plenepotentiary" xml:id="eng000589-e5760">
               <speaker>Plen. </speaker>
               <p>Though you refuse peace, I scorn to carry back my present,— there. <stage xml:id="eng000589-e5790">[Throwes out a bunch of Carrets.] </stage>
               </p>
@@ -764,7 +758,7 @@
               <speaker>Drink. </speaker>
               <p>We scorn their Courtesies, and their dry toyes. </p>
             </sp>
-            <sp who="#eng000589-plenipotentiary" xml:id="eng000589-e5830">
+            <sp who="#eng000589-plenepotentiary" xml:id="eng000589-e5830">
               <speaker>Plen. </speaker>
               <p>Are ye so fierce? if the Seige continue, you'l Petition for 'em: look for Fire and Sword— And so she pray'd me to tell you. </p>
             </sp>
@@ -777,7 +771,7 @@
               <speaker>All. </speaker>
               <p>Arm, Arm. </p>
             </sp>
-            <sp who="#eng000589-wenches" xml:id="eng000589-e5940">
+            <sp who="#eng000589-hectorio" xml:id="eng000589-e5940">
               <speaker>Within. </speaker>
               <p>Arm, Arm, Arm, <stage xml:id="eng000589-e5970">[Exeunt All.] </stage>
               </p>
@@ -1344,36 +1338,36 @@
               <l>Oh what horrid noyse is this assaults our ears. </l>
             </sp>
             <stage xml:id="eng000589-e10930">Devils rise and Sing. </stage>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e10940">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e10940">
               <speaker>1 De. </speaker>
               <l>Where be those boyes, </l>
               <l>That make such a noyse, </l>
               <l>And won't eat their bread and butter? </l>
             </sp>
-            <sp who="#eng000589-devil-ii" xml:id="eng000589-e10990">
+            <sp who="#eng000589-devil-2" xml:id="eng000589-e10990">
               <speaker>2 De. </speaker>
               <l>Without all doubt. </l>
               <l>Th' are hereabout, </l>
               <l>Wee'l teach 'em to make such a Clutter. </l>
             </sp>
-            <sp who="#eng000589-devil-iii" xml:id="eng000589-e11040">
+            <sp who="#eng000589-devil-3" xml:id="eng000589-e11040">
               <speaker>3 De. </speaker>
               <l>Who are the ring-leaders, who rules the Boast? </l>
             </sp>
-            <sp who="#eng000589-devil-iv" xml:id="eng000589-e11070">
+            <sp who="#eng000589-devil-4" xml:id="eng000589-e11070">
               <speaker>4 De. </speaker>
               <l>Alonzo the Duke, and another old Toast. </l>
             </sp>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e11110">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e11110">
               <speaker>1 De. </speaker>
               <l>Wee'l put water in their porridge, </l>
               <l>And straw in their beds, </l>
             </sp>
-            <sp who="#eng000589-devil-ii" xml:id="eng000589-e11150">
+            <sp who="#eng000589-devil-2" xml:id="eng000589-e11150">
               <speaker>2 De. </speaker>
               <l>Shooes on their feet, and a Comb in their heads. </l>
             </sp>
-            <sp who="#eng000589-chorus-devils" xml:id="eng000589-e11180">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e11180">
               <speaker>Chorus. </speaker>
               <l>Wee'l put &amp;c. </l>
               <l>And straw &amp;c. </l>
@@ -1392,32 +1386,32 @@
               <l>These great He Devils will hearken to no such Composition. </l>
             </sp>
             <stage xml:id="eng000589-e11360">The Devils Sing again. </stage>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e11370">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e11370">
               <speaker>1 De. </speaker>
               <l>Rogues that from their Liquor shrink, </l>
               <l>Shall scorch to death for want of drink. </l>
             </sp>
-            <sp who="#eng000589-devil-ii" xml:id="eng000589-e11410">
+            <sp who="#eng000589-devil-2" xml:id="eng000589-e11410">
               <pb n="16" xml:id="eng000589-013-a"/>
               <speaker>2 Dev. </speaker>
               <l>And who with false glass good fellows betray, </l>
             </sp>
-            <sp who="#eng000589-devil-iii" xml:id="eng000589-e11440">
+            <sp who="#eng000589-devil-3" xml:id="eng000589-e11440">
               <speaker>3 Dev. </speaker>
               <l>And tipple small beer in stead of their wine, </l>
             </sp>
-            <sp who="#eng000589-devil-iv" xml:id="eng000589-e11470">
+            <sp who="#eng000589-devil-4" xml:id="eng000589-e11470">
               <speaker>4 Dev. </speaker>
               <l>Then bubble their poor weak brothers at play, </l>
               <l>To the whip and the stocks wee'l confine. </l>
             </sp>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e11510">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e11510">
               <speaker>1 Dev. </speaker>
               <l>So poor, so poor, they still shall remain; </l>
               <l>Mirth, or good Wine, they shall ne'r have again, </l>
               <l>Nor never, oh never, be eas'd of their pain. </l>
             </sp>
-            <sp who="#eng000589-chorus-devils" xml:id="eng000589-e11560">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e11560">
               <speaker>Chorus. </speaker>
               <l>So poor, &amp;c.— </l>
               <l>Mirth— </l>
@@ -1434,44 +1428,44 @@
               <l>Oh, they begin again— Oh.— </l>
             </sp>
             <stage xml:id="eng000589-e11700">The Devils Sing. </stage>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e11710">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e11710">
               <speaker>1 Dev. </speaker>
               <l>Who are the pillars of the wenching Trade? </l>
             </sp>
-            <sp who="#eng000589-devil-ii" xml:id="eng000589-e11740">
+            <sp who="#eng000589-devil-2" xml:id="eng000589-e11740">
               <speaker>2 Dev. </speaker>
               <l>The zealous professor, and brisk City blade. </l>
             </sp>
-            <sp who="#eng000589-devil-iii" xml:id="eng000589-e11770">
+            <sp who="#eng000589-devil-3" xml:id="eng000589-e11770">
               <speaker>3 Dev. </speaker>
               <l>The Gallants, and Bullies, </l>
               <l>Do often grow poor, and bare, and bare. </l>
             </sp>
-            <sp who="#eng000589-devil-iv" xml:id="eng000589-e11810">
+            <sp who="#eng000589-devil-4" xml:id="eng000589-e11810">
               <speaker>4 Dev. </speaker>
               <l>But these Canters, and close City Cullios </l>
               <l>Are ne'r without Money, or Ware. </l>
             </sp>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e11850">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e11850">
               <speaker>1 Dev. </speaker>
               <l>What Slave permits </l>
               <l>Such Hypocrites </l>
               <l>In peace to tast of all our sweets? </l>
             </sp>
-            <sp who="#eng000589-devil-ii" xml:id="eng000589-e11900">
+            <sp who="#eng000589-devil-2" xml:id="eng000589-e11900">
               <speaker>2 Dev. </speaker>
               <l>In the midst of their joyes, they discoveries fear, </l>
             </sp>
-            <sp who="#eng000589-devil-iii" xml:id="eng000589-e11930">
+            <sp who="#eng000589-devil-3" xml:id="eng000589-e11930">
               <speaker>3 Dev. </speaker>
               <l>And their Wives, if th'ave any, shall make the score clear. </l>
             </sp>
-            <sp who="#eng000589-devil-iv" xml:id="eng000589-e11960">
+            <sp who="#eng000589-devil-4" xml:id="eng000589-e11960">
               <speaker>4 Dev. </speaker>
               <l>With Claps, and with Duns, we torment them all day, </l>
               <l>And at night we take them and their Doxies away. </l>
             </sp>
-            <sp who="#eng000589-chorus-devils" xml:id="eng000589-e12000">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e12000">
               <speaker>Chorus. </speaker>
               <l>With Claps &amp;c.— </l>
               <l>And at night &amp;c.— </l>
@@ -1498,66 +1492,66 @@
               <l>My poore Boy Quakero's, gone too, Oh, ho, ho! </l>
             </sp>
             <stage xml:id="eng000589-e12220">The Devils Sing. </stage>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e12230">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e12230">
               <speaker>1 Dev. </speaker>
               <l>Say, say, </l>
               <l>Shall we take up these Rogues, and Carry them away, </l>
               <l>With a tory, rory, Tory, rory, rory, Red-Coats? </l>
             </sp>
-            <sp who="#eng000589-devil-ii" xml:id="eng000589-e12280">
+            <sp who="#eng000589-devil-2" xml:id="eng000589-e12280">
               <speaker>2 Dev. </speaker>
               <l>Aye, aye. </l>
             </sp>
-            <sp who="#eng000589-devil-iii" xml:id="eng000589-e12310">
+            <sp who="#eng000589-devil-3" xml:id="eng000589-e12310">
               <speaker>3 Dev. </speaker>
               <l>Aye, aye. </l>
             </sp>
-            <sp who="#eng000589-devil-iv" xml:id="eng000589-e12340">
+            <sp who="#eng000589-devil-4" xml:id="eng000589-e12340">
               <speaker>4 Dev. </speaker>
               <l>Aye, aye. </l>
             </sp>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e12370">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e12370">
               <speaker>1 Dev. </speaker>
               <l>Aye, aye. </l>
             </sp>
-            <sp who="#eng000589-chorus-devils" xml:id="eng000589-e12400">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e12400">
               <speaker>Chorus. </speaker>
               <l>With a Tory, rory, Tory, rory, rory, rory. </l>
             </sp>
-            <sp who="#eng000589-devil-ii" xml:id="eng000589-e12430">
+            <sp who="#eng000589-devil-2" xml:id="eng000589-e12430">
               <speaker>2 Dev. </speaker>
               <l>No, No, </l>
               <l>'Till we show them their Crimes, let e'm stay. </l>
               <l>With a Tory, rory, Tory, rory, rantum, scantum. </l>
             </sp>
-            <sp who="#eng000589-devil-iii" xml:id="eng000589-e12480">
+            <sp who="#eng000589-devil-3" xml:id="eng000589-e12480">
               <speaker>3 Dev. </speaker>
               <l>Let 'em stay. </l>
             </sp>
-            <sp who="#eng000589-devil-iv" xml:id="eng000589-e12510">
+            <sp who="#eng000589-devil-4" xml:id="eng000589-e12510">
               <speaker>4 Dev. </speaker>
               <l>Let 'em stay. </l>
             </sp>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e12540">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e12540">
               <speaker>1 Dev. </speaker>
               <l>Let 'em stay. </l>
             </sp>
-            <sp who="#eng000589-devil-ii" xml:id="eng000589-e12570">
+            <sp who="#eng000589-devil-2" xml:id="eng000589-e12570">
               <speaker>2 Dev. </speaker>
               <l>Let 'em stay. </l>
             </sp>
-            <sp who="#eng000589-chorus-devils" xml:id="eng000589-e12600">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e12600">
               <speaker>Chorus. </speaker>
               <l>With a Tory, rory, Tory, rory, rory, rory. </l>
             </sp>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e12630">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e12630">
               <speaker>1 Dev. </speaker>
               <l>Cabbage is windy, and Mustard is strong, </l>
               <l>But a Lass with a wide Mouth, and a liquorish Tongue. </l>
               <l>Will give thee the Palsie, though never so young. </l>
               <l>Then first let their Pride, let their Pride come along. </l>
             </sp>
-            <sp who="#eng000589-chorus-devils" xml:id="eng000589-e12690">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e12690">
               <speaker>Chorus. </speaker>
               <l>Cabbage.— </l>
               <l>But a Lass— </l>
@@ -1599,7 +1593,7 @@
             <stage xml:id="eng000589-e13120">Enter Murther. </stage>
             <stage xml:id="eng000589-e13140">A man drest all in Red, with two Bloody Daggers in his hands, and his Face and Hands stain'd with blood. </stage>
             <stage xml:id="eng000589-e13150">Sings. </stage>
-            <sp who="#eng000589-murder" xml:id="eng000589-e13160">
+            <sp who="#eng000589-murther" xml:id="eng000589-e13160">
               <speaker>Murther. </speaker>
               <l>Wake Duncan! would thou couldst. </l>
               <l>Disguis'd with blood, I lead them on, </l>
@@ -1612,12 +1606,12 @@
               <l>What a rare life the Frogg has? </l>
               <l>Drawer, Drawer. </l>
             </sp>
-            <sp who="#eng000589-devil-iv #eng000589-devil-iii #eng000589-devil-ii #eng000589-devil-i"
+            <sp who="#eng000589-devil-1 #eng000589-devil-2 #eng000589-devil-3 #eng000589-devil-4"
                       xml:id="eng000589-e13300">
               <speaker>Dev. </speaker>
               <l>Anon, Anon. </l>
             </sp>
-            <sp who="#eng000589-devil-i" xml:id="eng000589-e13330">
+            <sp who="#eng000589-devil-1" xml:id="eng000589-e13330">
               <pb n="19" xml:id="eng000589-014-b"/>
               <speaker>1 Dev. </speaker>
               <l>Give 'em drink, or they'r gone, </l>
@@ -1629,12 +1623,12 @@
               <l>May he pine, may he pine, may he pine </l>
               <l>'Till he choakes. </l>
             </sp>
-            <sp who="#eng000589-chorus-devils" xml:id="eng000589-e13430">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e13430">
               <speaker>Chorus. </speaker>
               <l>Hearks, &amp;c. </l>
             </sp>
             <stage xml:id="eng000589-e13470">The Devils sing, and Dance round Alonzo, and Gonzalo. </stage>
-            <sp who="#eng000589-chorus-devils" xml:id="eng000589-e13500">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e13500">
               <speaker>Chorus. </speaker>
               <l>Around, around. </l>
               <l>Around, around, around. </l>
@@ -3625,7 +3619,7 @@
               <speaker>Dor. </speaker>
               <p>Alass! What's worse then ill luck? </p>
             </sp>
-            <sp who="#eng000589-alonzo" xml:id="eng000589-e31100">
+            <sp xml:id="eng000589-e31100">
               <speaker>Enter </speaker>
               <p>Alonzo, Gonzalo, and Antonio, <hi>as driven in by Spirits</hi>. </p>
             </sp>
@@ -3766,8 +3760,7 @@
               <l>For shame lye not there, </l>
               <l>While thy Doxie is here. </l>
             </sp>
-            <sp who="#eng000589-prospero #eng000589-alonzo #eng000589-miranda #eng000589-dorinda #eng000589-gonzalo #eng000589-antonio #eng000589-quakero"
-                      xml:id="eng000589-e32350">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e32350">
               <speaker>All. </speaker>
               <l>How is't. </l>
             </sp>
@@ -3776,8 +3769,7 @@
               <l>By th' Mass </l>
               <l>As 'twas. </l>
             </sp>
-            <sp who="#eng000589-prospero #eng000589-alonzo #eng000589-miranda #eng000589-dorinda #eng000589-gonzalo #eng000589-antonio #eng000589-quakero"
-                      xml:id="eng000589-e32420">
+            <sp who="#eng000589-chorus" xml:id="eng000589-e32420">
               <speaker>All. </speaker>
               <l>Alass. </l>
             </sp>
@@ -3982,7 +3974,7 @@
               <l>Obey, &amp;c.— </l>
               <stage xml:id="eng000589-e34390">The Head-keeper flyes down and sings. </stage>
             </sp>
-            <sp who="#eng000589-prospero" xml:id="eng000589-e34400">
+            <sp who="#eng000589-head-keeper" xml:id="eng000589-e34400">
               <speaker>Head-k. </speaker>
               <l>Her I'le obey whose breath's so strong, one blast </l>
               <l>Sent from her Lungs would lay my Castle wast; </l>

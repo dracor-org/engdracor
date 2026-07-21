@@ -1,0 +1,1320 @@
+{
+  "particDesc": [
+    {
+      "name": "Boy",
+      "id": "boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Girl",
+      "id": "girl",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Soldiers",
+      "id": "soldiers",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Woman ",
+      "id": "woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Captain",
+      "id": "captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Dead Carkass",
+      "id": "dead-carkass",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Witch 4",
+      "id": "witch-4",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Witch 3",
+      "id": "witch-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Witch 2",
+      "id": "witch-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Witch 1",
+      "id": "witch-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "cyrus",
+      "name": "Cyrus ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cyaxares",
+      "name": "Cyaxares",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hystaspes",
+      "name": "Hystaspes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "craesus",
+      "name": "Craesus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "abradatas",
+      "name": "Abradatas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "artabasus",
+      "name": "Artabasus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "thomyris",
+      "name": "Thomyris",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "panthea",
+      "name": "Panthea",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lausaria",
+      "name": "Lausaria",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "officer",
+      "name": "Officer",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A30838-e1410": [
+      "cyaxares"
+    ],
+    "A30838-e1440": [
+      "artabasus"
+    ],
+    "A30838-e1480": [
+      "cyaxares"
+    ],
+    "A30838-e1610": [
+      "artabasus"
+    ],
+    "A30838-e1830": [
+      "cyaxares"
+    ],
+    "A30838-e1910": [
+      "artabasus"
+    ],
+    "A30838-e2100": [
+      "officer"
+    ],
+    "A30838-e2160": [
+      "cyaxares"
+    ],
+    "A30838-e2360": [
+      "artabasus"
+    ],
+    "A30838-e2450": [
+      "cyaxares"
+    ],
+    "A30838-e2520": [
+      "officer"
+    ],
+    "A30838-e2570": [
+      "artabasus"
+    ],
+    "A30838-e2710": [
+      "cyaxares"
+    ],
+    "A30838-e2840": [
+      "artabasus"
+    ],
+    "A30838-e2910": [
+      "cyaxares"
+    ],
+    "A30838-e3060": [
+      "artabasus"
+    ],
+    "A30838-e3090": [
+      "cyaxares"
+    ],
+    "A30838-e3370": [
+      "artabasus"
+    ],
+    "A30838-e3450": [
+      "cyaxares"
+    ],
+    "A30838-e3500": [
+      "artabasus"
+    ],
+    "A30838-e3580": [
+      "cyaxares"
+    ],
+    "A30838-e3650": [
+      "artabasus"
+    ],
+    "A30838-e3880": [
+      "witch-1"
+    ],
+    "A30838-e3970": [
+      "witch-2"
+    ],
+    "A30838-e4010": [
+      "witch-3"
+    ],
+    "A30838-e4050": [
+      "witch-4"
+    ],
+    "A30838-e4100": [
+      "chorus"
+    ],
+    "A30838-e4140": [
+      "cyaxares"
+    ],
+    "A30838-e4200": [
+      "artabasus"
+    ],
+    "A30838-e4230": [
+      "dead-carkass"
+    ],
+    "A30838-e4610": [
+      "cyaxares"
+    ],
+    "A30838-e4670": [
+      "artabasus"
+    ],
+    "A30838-e4700": [
+      "cyaxares"
+    ],
+    "A30838-e4840": [
+      "artabasus"
+    ],
+    "A30838-e5030": [
+      "cyaxares"
+    ],
+    "A30838-e5130": [
+      "captain"
+    ],
+    "A30838-e5480": [
+      "cyaxares"
+    ],
+    "A30838-e5590": [
+      "hystaspes"
+    ],
+    "A30838-e5820": [
+      "cyaxares"
+    ],
+    "A30838-e5970": [
+      "hystaspes"
+    ],
+    "A30838-e6060": [
+      "cyaxares"
+    ],
+    "A30838-e6170": [
+      "hystaspes"
+    ],
+    "A30838-e6230": [
+      "panthea"
+    ],
+    "A30838-e6340": [
+      "cyaxares"
+    ],
+    "A30838-e6380": [
+      "panthea"
+    ],
+    "A30838-e6560": [
+      "hystaspes"
+    ],
+    "A30838-e6660": [
+      "cyaxares"
+    ],
+    "A30838-e6700": [
+      "panthea"
+    ],
+    "A30838-e7010": [
+      "cyaxares"
+    ],
+    "A30838-e7310": [
+      "panthea"
+    ],
+    "A30838-e7370": [
+      "hystaspes"
+    ],
+    "A30838-e7410": [
+      "cyaxares"
+    ],
+    "A30838-e7550": [
+      "hystaspes"
+    ],
+    "A30838-e7580": [
+      "panthea"
+    ],
+    "A30838-e7630": [
+      "cyaxares"
+    ],
+    "A30838-e7750": [
+      "cyrus"
+    ],
+    "A30838-e8060": [
+      "craesus"
+    ],
+    "A30838-e8100": [
+      "cyrus"
+    ],
+    "A30838-e8200": [
+      "craesus"
+    ],
+    "A30838-e8520": [
+      "cyrus"
+    ],
+    "A30838-e8580": [
+      "craesus"
+    ],
+    "A30838-e8660": [
+      "cyrus"
+    ],
+    "A30838-e8780": [
+      "craesus"
+    ],
+    "A30838-e8860": [
+      "cyrus"
+    ],
+    "A30838-e8910": [
+      "craesus"
+    ],
+    "A30838-e9110": [
+      "cyrus"
+    ],
+    "A30838-e9160": [
+      "craesus"
+    ],
+    "A30838-e9280": [
+      "cyrus"
+    ],
+    "A30838-e9530": [
+      "craesus"
+    ],
+    "A30838-e9600": [
+      "cyrus"
+    ],
+    "A30838-e9730": [
+      "craesus"
+    ],
+    "A30838-e9860": [
+      "lausaria"
+    ],
+    "A30838-e9970": [
+      "craesus"
+    ],
+    "A30838-e10000": [
+      "cyrus"
+    ],
+    "A30838-e10050": [
+      "lausaria"
+    ],
+    "A30838-e10160": [
+      "cyrus"
+    ],
+    "A30838-e10320": [
+      "officer"
+    ],
+    "A30838-e10380": [
+      "lausaria"
+    ],
+    "A30838-e10550": [
+      "cyrus"
+    ],
+    "A30838-e10670": [
+      "hystaspes"
+    ],
+    "A30838-e10760": [
+      "cyrus"
+    ],
+    "A30838-e10810": [
+      "hystaspes"
+    ],
+    "A30838-e10840": [
+      "cyrus"
+    ],
+    "A30838-e10920": [
+      "hystaspes"
+    ],
+    "A30838-e10960": [
+      "cyrus"
+    ],
+    "A30838-e11010": [
+      "hystaspes"
+    ],
+    "A30838-e11100": [
+      "cyrus"
+    ],
+    "A30838-e11200": [
+      "hystaspes"
+    ],
+    "A30838-e11230": [
+      "cyrus"
+    ],
+    "A30838-e11320": [
+      "hystaspes"
+    ],
+    "A30838-e11360": [
+      "cyrus"
+    ],
+    "A30838-e11520": [
+      "hystaspes"
+    ],
+    "A30838-e11550": [
+      "cyrus"
+    ],
+    "A30838-e11640": [
+      "panthea"
+    ],
+    "A30838-e11710": [
+      "cyrus"
+    ],
+    "A30838-e11810": [
+      "panthea"
+    ],
+    "A30838-e11890": [
+      "cyrus"
+    ],
+    "A30838-e12000": [
+      "panthea"
+    ],
+    "A30838-e12100": [
+      "cyrus"
+    ],
+    "A30838-e12230": [
+      "hystaspes"
+    ],
+    "A30838-e12420": [
+      "cyrus"
+    ],
+    "A30838-e12550": [
+      "craesus"
+    ],
+    "A30838-e12590": [
+      "cyrus"
+    ],
+    "A30838-e12660": [
+      "panthea"
+    ],
+    "A30838-e12740": [
+      "cyrus"
+    ],
+    "A30838-e12890": [
+      "panthea"
+    ],
+    "A30838-e13100": [
+      "officer"
+    ],
+    "A30838-e13140": [
+      "cyrus"
+    ],
+    "A30838-e13200": [
+      "officer"
+    ],
+    "A30838-e13240": [
+      "cyrus"
+    ],
+    "A30838-e13430": [
+      "cyaxares"
+    ],
+    "A30838-e13590": [
+      "cyrus"
+    ],
+    "A30838-e13730": [
+      "cyaxares"
+    ],
+    "A30838-e13800": [
+      "cyrus"
+    ],
+    "A30838-e13850": [
+      "cyaxares"
+    ],
+    "A30838-e13980": [
+      "cyrus"
+    ],
+    "A30838-e14010": [
+      "cyaxares"
+    ],
+    "A30838-e14050": [
+      "cyrus"
+    ],
+    "A30838-e14080": [
+      "cyaxares"
+    ],
+    "A30838-e14190": [
+      "cyrus"
+    ],
+    "A30838-e14220": [
+      "cyaxares"
+    ],
+    "A30838-e14300": [
+      "cyrus"
+    ],
+    "A30838-e14330": [
+      "cyaxares"
+    ],
+    "A30838-e14460": [
+      "cyrus"
+    ],
+    "A30838-e14490": [
+      "cyaxares"
+    ],
+    "A30838-e14650": [
+      "cyrus"
+    ],
+    "A30838-e14680": [
+      "cyaxares"
+    ],
+    "A30838-e14840": [
+      "cyrus"
+    ],
+    "A30838-e14980": [
+      "cyaxares"
+    ],
+    "A30838-e15010": [
+      "cyrus"
+    ],
+    "A30838-e15130": [
+      "cyaxares"
+    ],
+    "A30838-e15170": [
+      "cyrus"
+    ],
+    "A30838-e15280": [
+      "cyaxares"
+    ],
+    "A30838-e15320": [
+      "cyrus"
+    ],
+    "A30838-e15350": [
+      "cyaxares"
+    ],
+    "A30838-e15380": [
+      "cyrus"
+    ],
+    "A30838-e15410": [
+      "cyaxares"
+    ],
+    "A30838-e15600": [
+      "cyrus"
+    ],
+    "A30838-e15810": [
+      "cyaxares"
+    ],
+    "A30838-e15850": [
+      "cyrus"
+    ],
+    "A30838-e15890": [
+      "cyaxares"
+    ],
+    "A30838-e15940": [
+      "cyrus"
+    ],
+    "A30838-e16150": [
+      "hystaspes"
+    ],
+    "A30838-e16220": [
+      "cyrus"
+    ],
+    "A30838-e16290": [
+      "hystaspes"
+    ],
+    "A30838-e16360": [
+      "cyrus"
+    ],
+    "A30838-e16500": [
+      "craesus"
+    ],
+    "A30838-e16570": [
+      "hystaspes"
+    ],
+    "A30838-e16620": [
+      "cyrus"
+    ],
+    "A30838-e16730": [
+      "hystaspes"
+    ],
+    "A30838-e16790": [
+      "lausaria"
+    ],
+    "A30838-e16890": [
+      "cyrus"
+    ],
+    "A30838-e17060": [
+      "lausaria"
+    ],
+    "A30838-e17090": [
+      "cyrus"
+    ],
+    "A30838-e17180": [
+      "hystaspes"
+    ],
+    "A30838-e17260": [
+      "cyrus"
+    ],
+    "A30838-e17310": [
+      "lausaria"
+    ],
+    "A30838-e17440": [
+      "cyrus"
+    ],
+    "A30838-e17520": [
+      "lausaria"
+    ],
+    "A30838-e17550": [
+      "cyaxares"
+    ],
+    "A30838-e17580": [
+      "craesus"
+    ],
+    "A30838-e17630": [
+      "cyrus"
+    ],
+    "A30838-e17720": [
+      "hystaspes"
+    ],
+    "A30838-e17850": [
+      "craesus"
+    ],
+    "A30838-e17880": [
+      "cyaxares"
+    ],
+    "A30838-e17920": [
+      "lausaria"
+    ],
+    "A30838-e17960": [
+      "cyrus"
+    ],
+    "A30838-e18000": [
+      "lausaria"
+    ],
+    "A30838-e18170": [
+      "cyrus"
+    ],
+    "A30838-e18200": [
+      "lausaria"
+    ],
+    "A30838-e18290": [
+      "craesus"
+    ],
+    "A30838-e18320": [
+      "lausaria"
+    ],
+    "A30838-e18350": [
+      "cyrus"
+    ],
+    "A30838-e18410": [
+      "lausaria"
+    ],
+    "A30838-e18550": [
+      "cyaxares"
+    ],
+    "A30838-e18590": [
+      "cyrus"
+    ],
+    "A30838-e18770": [
+      "artabasus"
+    ],
+    "A30838-e18880": [
+      "cyrus"
+    ],
+    "A30838-e18940": [
+      "craesus"
+    ],
+    "A30838-e19080": [
+      "cyrus"
+    ],
+    "A30838-e19110": [
+      "thomyris"
+    ],
+    "A30838-e19280": [
+      "cyrus"
+    ],
+    "A30838-e19350": [
+      "thomyris"
+    ],
+    "A30838-e19580": [
+      "cyrus"
+    ],
+    "A30838-e19610": [
+      "thomyris"
+    ],
+    "A30838-e19720": [
+      "cyrus"
+    ],
+    "A30838-e19830": [
+      "abradatas"
+    ],
+    "A30838-e19910": [
+      "cyaxares"
+    ],
+    "A30838-e19970": [
+      "abradatas"
+    ],
+    "A30838-e20220": [
+      "thomyris"
+    ],
+    "A30838-e20370": [
+      "cyrus"
+    ],
+    "A30838-e20440": [
+      "panthea"
+    ],
+    "A30838-e20530": [
+      "abradatas"
+    ],
+    "A30838-e20610": [
+      "panthea"
+    ],
+    "A30838-e20730": [
+      "cyrus"
+    ],
+    "A30838-e20880": [
+      "abradatas"
+    ],
+    "A30838-e20970": [
+      "panthea"
+    ],
+    "A30838-e21030": [
+      "thomyris"
+    ],
+    "A30838-e21210": [
+      "panthea"
+    ],
+    "A30838-e21310": [
+      "abradatas"
+    ],
+    "A30838-e21420": [
+      "panthea"
+    ],
+    "A30838-e21530": [
+      "abradatas"
+    ],
+    "A30838-e21680": [
+      "panthea"
+    ],
+    "A30838-e21760": [
+      "cyrus"
+    ],
+    "A30838-e21870": [
+      "panthea"
+    ],
+    "A30838-e21930": [
+      "cyrus"
+    ],
+    "A30838-e22110": [
+      "abradatas"
+    ],
+    "A30838-e22210": [
+      "thomyris"
+    ],
+    "A30838-e22280": [
+      "panthea"
+    ],
+    "A30838-e22340": [
+      "abradatas"
+    ],
+    "A30838-e22380": [
+      "panthea"
+    ],
+    "A30838-e22480": [
+      "abradatas"
+    ],
+    "A30838-e22560": [
+      "thomyris"
+    ],
+    "A30838-e22610": [
+      "abradatas"
+    ],
+    "A30838-e22660": [
+      "panthea"
+    ],
+    "A30838-e22710": [
+      "abradatas"
+    ],
+    "A30838-e22800": [
+      "cyaxares"
+    ],
+    "A30838-e22870": [
+      "cyrus"
+    ],
+    "A30838-e22930": [
+      "cyaxares"
+    ],
+    "A30838-e22980": [
+      "cyrus"
+    ],
+    "A30838-e23200": [
+      "craesus"
+    ],
+    "A30838-e23240": [
+      "cyaxares"
+    ],
+    "A30838-e23290": [
+      "cyrus"
+    ],
+    "A30838-e23480": [
+      "cyrus"
+    ],
+    "A30838-e23540": [
+      "cyaxares"
+    ],
+    "A30838-e23620": [
+      "cyrus"
+    ],
+    "A30838-e23750": [
+      "cyaxares"
+    ],
+    "A30838-e23900": [
+      "cyrus"
+    ],
+    "A30838-e24060": [
+      "cyaxares"
+    ],
+    "A30838-e24160": [
+      "cyrus"
+    ],
+    "A30838-e24250": [
+      "hystaspes"
+    ],
+    "A30838-e24300": [
+      "cyrus"
+    ],
+    "A30838-e24370": [
+      "hystaspes"
+    ],
+    "A30838-e24470": [
+      "cyrus"
+    ],
+    "A30838-e24630": [
+      "hystaspes"
+    ],
+    "A30838-e24700": [
+      "cyrus"
+    ],
+    "A30838-e24770": [
+      "hystaspes"
+    ],
+    "A30838-e24830": [
+      "cyrus"
+    ],
+    "A30838-e24860": [
+      "hystaspes"
+    ],
+    "A30838-e24950": [
+      "cyaxares"
+    ],
+    "A30838-e24980": [
+      "cyrus"
+    ],
+    "A30838-e25020": [
+      "cyaxares"
+    ],
+    "A30838-e25050": [
+      "hystaspes"
+    ],
+    "A30838-e25230": [
+      "cyrus"
+    ],
+    "A30838-e25290": [
+      "hystaspes"
+    ],
+    "A30838-e25400": [
+      "cyrus"
+    ],
+    "A30838-e25430": [
+      "hystaspes"
+    ],
+    "A30838-e25700": [
+      "craesus"
+    ],
+    "A30838-e25830": [
+      "cyrus"
+    ],
+    "A30838-e25950": [
+      "cyaxares"
+    ],
+    "A30838-e26120": [
+      "hystaspes"
+    ],
+    "A30838-e26300": [
+      "cyaxares"
+    ],
+    "A30838-e26410": [
+      "hystaspes"
+    ],
+    "A30838-e26480": [
+      "cyaxares"
+    ],
+    "A30838-e26570": [
+      "artabasus"
+    ],
+    "A30838-e26710": [
+      "cyaxares"
+    ],
+    "A30838-e26740": [
+      "artabasus"
+    ],
+    "A30838-e26850": [
+      "cyaxares"
+    ],
+    "A30838-e26950": [
+      "abradatas"
+    ],
+    "A30838-e27110": [
+      "hystaspes"
+    ],
+    "A30838-e27150": [
+      "cyaxares"
+    ],
+    "A30838-e27220": [
+      "abradatas"
+    ],
+    "A30838-e27270": [
+      "hystaspes"
+    ],
+    "A30838-e27300": [
+      "cyaxares"
+    ],
+    "A30838-e27360": [
+      "hystaspes"
+    ],
+    "A30838-e27400": [
+      "cyrus"
+    ],
+    "A30838-e27430": [
+      "craesus"
+    ],
+    "A30838-e27470": [
+      "cyrus"
+    ],
+    "A30838-e27530": [
+      "cyaxares"
+    ],
+    "A30838-e27620": [
+      "cyrus"
+    ],
+    "A30838-e27660": [
+      "cyaxares"
+    ],
+    "A30838-e27750": [
+      "cyrus"
+    ],
+    "A30838-e27910": [
+      "abradatas"
+    ],
+    "A30838-e27950": [
+      "cyrus"
+    ],
+    "A30838-e27980": [
+      "cyaxares"
+    ],
+    "A30838-e28040": [
+      "cyrus"
+    ],
+    "A30838-e28080": [
+      "cyaxares"
+    ],
+    "A30838-e28300": [
+      "cyrus"
+    ],
+    "A30838-e28480": [
+      "panthea"
+    ],
+    "A30838-e28630": [
+      "cyrus"
+    ],
+    "A30838-e28710": [
+      "abradatas"
+    ],
+    "A30838-e28790": [
+      "panthea"
+    ],
+    "A30838-e28910": [
+      "cyrus"
+    ],
+    "A30838-e29050": [
+      "panthea"
+    ],
+    "A30838-e29140": [
+      "cyrus"
+    ],
+    "A30838-e29230": [
+      "abradatas"
+    ],
+    "A30838-e29290": [
+      "panthea"
+    ],
+    "A30838-e29520": [
+      "craesus"
+    ],
+    "A30838-e29550": [
+      "cyrus"
+    ],
+    "A30838-e29590": [
+      "craesus"
+    ],
+    "A30838-e29670": [
+      "cyrus"
+    ],
+    "A30838-e29790": [
+      "lausaria"
+    ],
+    "A30838-e29890": [
+      "craesus"
+    ],
+    "A30838-e29920": [
+      "lausaria"
+    ],
+    "A30838-e30040": [
+      "craesus"
+    ],
+    "A30838-e30110": [
+      "lausaria"
+    ],
+    "A30838-e30340": [
+      "cyrus"
+    ],
+    "A30838-e30380": [
+      "lausaria"
+    ],
+    "A30838-e30530": [
+      "cyrus"
+    ],
+    "A30838-e30610": [
+      "lausaria"
+    ],
+    "A30838-e30730": [
+      "craesus"
+    ],
+    "A30838-e30770": [
+      "lausaria"
+    ],
+    "A30838-e30970": [
+      "craesus"
+    ],
+    "A30838-e31000": [
+      "lausaria"
+    ],
+    "A30838-e31220": [
+      "craesus"
+    ],
+    "A30838-e31250": [
+      "cyrus"
+    ],
+    "A30838-e31350": [
+      "craesus"
+    ],
+    "A30838-e31390": [
+      "cyrus"
+    ],
+    "A30838-e31610": [
+      "cyrus"
+    ],
+    "A30838-e31720": [
+      "craesus"
+    ],
+    "A30838-e31770": [
+      "cyrus"
+    ],
+    "A30838-e31830": [
+      "panthea"
+    ],
+    "A30838-e31900": [
+      "cyrus"
+    ],
+    "A30838-e32020": [
+      "thomyris"
+    ],
+    "A30838-e32290": [
+      "panthea"
+    ],
+    "A30838-e32340": [
+      "abradatas"
+    ],
+    "A30838-e32390": [
+      "thomyris"
+    ],
+    "A30838-e32460": [
+      "panthea"
+    ],
+    "A30838-e32620": [
+      "abradatas"
+    ],
+    "A30838-e32690": [
+      "hystaspes"
+    ],
+    "A30838-e32830": [
+      "thomyris"
+    ],
+    "A30838-e33030": [
+      "hystaspes"
+    ],
+    "A30838-e33090": [
+      "abradatas"
+    ],
+    "A30838-e33140": [
+      "panthea"
+    ],
+    "A30838-e33280": [
+      "abradatas"
+    ],
+    "A30838-e33370": [
+      "cyrus"
+    ],
+    "A30838-e33650": [
+      "craesus"
+    ],
+    "A30838-e33730": [
+      "cyrus"
+    ],
+    "A30838-e34050": [
+      "craesus"
+    ],
+    "A30838-e34160": [
+      "cyrus"
+    ],
+    "A30838-e34190": [
+      "craesus"
+    ],
+    "A30838-e34330": [
+      "cyrus"
+    ],
+    "A30838-e34370": [
+      "craesus"
+    ],
+    "A30838-e34620": [
+      "cyrus"
+    ],
+    "A30838-e34770": [
+      "hystaspes"
+    ],
+    "A30838-e34980": [
+      "cyrus"
+    ],
+    "A30838-e35030": [
+      "hystaspes"
+    ],
+    "A30838-e35240": [
+      "cyrus"
+    ],
+    "A30838-e35320": [
+      "craesus"
+    ],
+    "A30838-e35350": [
+      "cyrus"
+    ],
+    "A30838-e35520": [
+      "cyrus"
+    ],
+    "A30838-e35650": [
+      "artabasus"
+    ],
+    "A30838-e35750": [
+      "craesus"
+    ],
+    "A30838-e35810": [
+      "cyrus"
+    ],
+    "A30838-e35850": [
+      "hystaspes"
+    ],
+    "A30838-e35990": [
+      "craesus"
+    ],
+    "A30838-e36110": [
+      "cyrus"
+    ],
+    "A30838-e36160": [
+      "craesus"
+    ],
+    "A30838-e36210": [
+      "cyrus"
+    ],
+    "A30838-e36320": [
+      "craesus"
+    ],
+    "A30838-e36360": [
+      "cyrus"
+    ],
+    "A30838-e36560": [
+      "lausaria"
+    ],
+    "A30838-e36610": [
+      "cyrus"
+    ],
+    "A30838-e36740": [
+      "lausaria"
+    ],
+    "A30838-e36870": [
+      "cyrus"
+    ],
+    "A30838-e36970": [
+      "lausaria"
+    ],
+    "A30838-e37170": [
+      "lausaria"
+    ],
+    "A30838-e37280": [
+      "cyrus"
+    ],
+    "A30838-e37320": [
+      "lausaria"
+    ],
+    "A30838-e37360": [
+      "cyrus"
+    ],
+    "A30838-e37440": [
+      "panthea"
+    ],
+    "A30838-e37610": [
+      "woman"
+    ],
+    "A30838-e37640": [
+      "panthea"
+    ],
+    "A30838-e37720": [
+      "woman"
+    ],
+    "A30838-e37750": [
+      "panthea"
+    ],
+    "A30838-e37980": [
+      "cyrus"
+    ],
+    "A30838-e38070": [
+      "panthea"
+    ],
+    "A30838-e38180": [
+      "cyrus"
+    ],
+    "A30838-e38340": [
+      "panthea"
+    ],
+    "A30838-e38510": [
+      "cyrus"
+    ],
+    "A30838-e38580": [
+      "thomyris"
+    ],
+    "A30838-e38670": [
+      "cyrus"
+    ],
+    "A30838-e38720": [
+      "thomyris"
+    ],
+    "A30838-e38850": [
+      "cyrus"
+    ],
+    "A30838-e38890": [
+      "thomyris"
+    ],
+    "A30838-e39060": [
+      "soldiers"
+    ],
+    "A30838-e39090": [
+      "thomyris"
+    ],
+    "A30838-e39210": [
+      "craesus"
+    ],
+    "A30838-e39240": [
+      "cyrus"
+    ],
+    "A30838-e39280": [
+      "thomyris"
+    ],
+    "A30838-e39440": [
+      "cyrus"
+    ],
+    "A30838-e39630": [
+      "thomyris"
+    ],
+    "A30838-e39790": [
+      "hystaspes"
+    ],
+    "A30838-e39960": [
+      "cyrus"
+    ],
+    "A30838-e40190": [
+      "girl"
+    ],
+    "A30838-e40220": [
+      "boy"
+    ],
+    "A30838-e40250": [
+      "girl"
+    ],
+    "A30838-e40290": [
+      "boy"
+    ],
+    "A30838-e40370": [
+      "girl"
+    ],
+    "A30838-e40410": [
+      "boy"
+    ],
+    "A30838-e40500": [
+      "girl"
+    ],
+    "A30838-e40550": [
+      "boy"
+    ],
+    "A30838-e40650": [
+      "girl"
+    ],
+    "A30838-e40780": [
+      "boy"
+    ],
+    "A30838-e40820": [
+      "girl"
+    ],
+    "A30838-e40850": [
+      "boy"
+    ]
+  }
+}

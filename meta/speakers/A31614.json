@@ -1,0 +1,1723 @@
+{
+  "particDesc": [
+    {
+      "name": "Soldiers",
+      "id": "soldiers",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bandit 2",
+      "id": "bandit-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bandit 1",
+      "id": "bandit-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Constable",
+      "id": "constable",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Drawer",
+      "id": "drawer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Old Woman",
+      "id": "old-woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Theocrine",
+      "id": "theocrine",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lady",
+      "id": "lady",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "First Captain",
+      "id": "first-captain",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "antellus",
+      "name": "Antellus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "oroandes",
+      "name": "Oroandes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "zannazarro",
+      "name": "Zannazarro",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "arratus",
+      "name": "Arratus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "vanlore",
+      "name": "Vanlore",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-symon-credulous",
+      "name": "Sir Symon Credulous",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-jasper-sympleton",
+      "name": "Sir Jasper Sympleton",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "jack-drayner",
+      "name": "Jack Drayner",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dick-slywit",
+      "name": "Dick Slywit",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "shepherd",
+      "name": "Shepherd",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "servant",
+      "name": "Servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "heroina",
+      "name": "Heroina",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "glorianda",
+      "name": "Glorianda",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "amasia",
+      "name": "Amasia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "julia",
+      "name": "Julia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A31614-e1920": [
+      "arratus"
+    ],
+    "A31614-e1960": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e1990": [
+      "arratus"
+    ],
+    "A31614-e2040": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e2070": [
+      "arratus"
+    ],
+    "A31614-e2100": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e2150": [
+      "arratus"
+    ],
+    "A31614-e2180": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e2270": [
+      "arratus"
+    ],
+    "A31614-e2300": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e2330": [
+      "arratus"
+    ],
+    "A31614-e2360": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e2420": [
+      "arratus"
+    ],
+    "A31614-e2450": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e2480": [
+      "arratus"
+    ],
+    "A31614-e2510": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e2540": [
+      "arratus"
+    ],
+    "A31614-e2570": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e2630": [
+      "arratus"
+    ],
+    "A31614-e2740": [
+      "oroandes"
+    ],
+    "A31614-e2780": [
+      "first-captain",
+      "soldiers"
+    ],
+    "A31614-e2810": [
+      "oroandes"
+    ],
+    "A31614-e2880": [
+      "zannazarro"
+    ],
+    "A31614-e2910": [
+      "oroandes"
+    ],
+    "A31614-e2940": [
+      "zannazarro"
+    ],
+    "A31614-e2980": [
+      "oroandes"
+    ],
+    "A31614-e3020": [
+      "zannazarro"
+    ],
+    "A31614-e3140": [
+      "oroandes"
+    ],
+    "A31614-e3180": [
+      "first-captain"
+    ],
+    "A31614-e3220": [
+      "oroandes"
+    ],
+    "A31614-e3330": [
+      "messenger"
+    ],
+    "A31614-e3380": [
+      "amasia"
+    ],
+    "A31614-e3420": [
+      "lady"
+    ],
+    "A31614-e3460": [
+      "amasia"
+    ],
+    "A31614-e3520": [
+      "oroandes"
+    ],
+    "A31614-e3600": [
+      "amasia"
+    ],
+    "A31614-e3650": [
+      "oroandes"
+    ],
+    "A31614-e3680": [
+      "amasia"
+    ],
+    "A31614-e3710": [
+      "oroandes"
+    ],
+    "A31614-e3740": [
+      "amasia"
+    ],
+    "A31614-e3770": [
+      "oroandes"
+    ],
+    "A31614-e3800": [
+      "amasia"
+    ],
+    "A31614-e3830": [
+      "oroandes"
+    ],
+    "A31614-e3990": [
+      "arratus"
+    ],
+    "A31614-e4020": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e4050": [
+      "arratus"
+    ],
+    "A31614-e4080": [
+      "theocrine"
+    ],
+    "A31614-e4120": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e4160": [
+      "theocrine"
+    ],
+    "A31614-e4190": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e4220": [
+      "theocrine"
+    ],
+    "A31614-e4250": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e4290": [
+      "arratus"
+    ],
+    "A31614-e4320": [
+      "theocrine"
+    ],
+    "A31614-e4350": [
+      "arratus"
+    ],
+    "A31614-e4380": [
+      "theocrine"
+    ],
+    "A31614-e4410": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e4440": [
+      "arratus"
+    ],
+    "A31614-e4570": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e4600": [
+      "dick-slywit"
+    ],
+    "A31614-e4630": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e4660": [
+      "dick-slywit"
+    ],
+    "A31614-e4690": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e4720": [
+      "dick-slywit"
+    ],
+    "A31614-e4790": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e4820": [
+      "dick-slywit"
+    ],
+    "A31614-e4850": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e4880": [
+      "dick-slywit"
+    ],
+    "A31614-e4910": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e4940": [
+      "dick-slywit"
+    ],
+    "A31614-e4970": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e5050": [
+      "dick-slywit"
+    ],
+    "A31614-e5080": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e5120": [
+      "dick-slywit"
+    ],
+    "A31614-e5150": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e5180": [
+      "dick-slywit"
+    ],
+    "A31614-e5210": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e5250": [
+      "old-woman"
+    ],
+    "A31614-e5310": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e5340": [
+      "dick-slywit"
+    ],
+    "A31614-e5370": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e5500": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e5920": [
+      "dick-slywit"
+    ],
+    "A31614-e5950": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e6020": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e6060": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e6110": [
+      "dick-slywit"
+    ],
+    "A31614-e6150": [
+      "jack-drayner"
+    ],
+    "A31614-e6200": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e6250": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e6290": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e6360": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e6400": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e6440": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e6500": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e6540": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e6580": [
+      "dick-slywit"
+    ],
+    "A31614-e6630": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e6680": [
+      "jack-drayner"
+    ],
+    "A31614-e6730": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e6780": [
+      "dick-slywit"
+    ],
+    "A31614-e6870": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e6950": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e6980": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e7030": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e7060": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e7100": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e7140": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e7180": [
+      "theocrine"
+    ],
+    "A31614-e7210": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e7240": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e7270": [
+      "theocrine"
+    ],
+    "A31614-e7300": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e7380": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e7420": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e7490": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e7570": [
+      "theocrine"
+    ],
+    "A31614-e7600": [
+      "julia"
+    ],
+    "A31614-e7630": [
+      "theocrine"
+    ],
+    "A31614-e7660": [
+      "julia"
+    ],
+    "A31614-e7700": [
+      "theocrine"
+    ],
+    "A31614-e7740": [
+      "servant"
+    ],
+    "A31614-e7780": [
+      "theocrine"
+    ],
+    "A31614-e7890": [
+      "antellus"
+    ],
+    "A31614-e7950": [
+      "antellus"
+    ],
+    "A31614-e7990": [
+      "glorianda"
+    ],
+    "A31614-e8020": [
+      "antellus"
+    ],
+    "A31614-e8110": [
+      "glorianda"
+    ],
+    "A31614-e8140": [
+      "antellus"
+    ],
+    "A31614-e8240": [
+      "oroandes"
+    ],
+    "A31614-e8280": [
+      "antellus"
+    ],
+    "A31614-e8320": [
+      "glorianda"
+    ],
+    "A31614-e8390": [
+      "antellus"
+    ],
+    "A31614-e8470": [
+      "oroandes"
+    ],
+    "A31614-e8510": [
+      "antellus"
+    ],
+    "A31614-e8580": [
+      "glorianda"
+    ],
+    "A31614-e8610": [
+      "oroandes"
+    ],
+    "A31614-e8640": [
+      "antellus"
+    ],
+    "A31614-e8730": [
+      "glorianda"
+    ],
+    "A31614-e8780": [
+      "oroandes"
+    ],
+    "A31614-e8820": [
+      "glorianda"
+    ],
+    "A31614-e8900": [
+      "oroandes"
+    ],
+    "A31614-e9000": [
+      "glorianda"
+    ],
+    "A31614-e9140": [
+      "oroandes"
+    ],
+    "A31614-e9280": [
+      "glorianda"
+    ],
+    "A31614-e9320": [
+      "oroandes"
+    ],
+    "A31614-e9420": [
+      "glorianda"
+    ],
+    "A31614-e9480": [
+      "oroandes"
+    ],
+    "A31614-e9600": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e9630": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e9660": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e9700": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e9740": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e9770": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e9800": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e9830": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e9860": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e9890": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e9920": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e9950": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e9980": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e10020": [
+      "jack-drayner"
+    ],
+    "A31614-e10050": [
+      "dick-slywit"
+    ],
+    "A31614-e10090": [
+      "jack-drayner"
+    ],
+    "A31614-e10120": [
+      "dick-slywit"
+    ],
+    "A31614-e10170": [
+      "jack-drayner"
+    ],
+    "A31614-e10210": [
+      "dick-slywit"
+    ],
+    "A31614-e10360": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e10400": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e10440": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e10470": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e10500": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e10540": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e10580": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e10660": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e10690": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e10720": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e10990": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11020": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11050": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11080": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11110": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11140": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11200": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11230": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11270": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11320": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11350": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11380": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11410": [
+      "jack-drayner"
+    ],
+    "A31614-e11440": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11470": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11500": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11530": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11560": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11590": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11620": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11650": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11680": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e11740": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11770": [
+      "dick-slywit"
+    ],
+    "A31614-e11800": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e11920": [
+      "oroandes"
+    ],
+    "A31614-e11990": [
+      "amasia"
+    ],
+    "A31614-e12070": [
+      "oroandes"
+    ],
+    "A31614-e12190": [
+      "amasia"
+    ],
+    "A31614-e12270": [
+      "oroandes"
+    ],
+    "A31614-e12340": [
+      "amasia"
+    ],
+    "A31614-e12450": [
+      "oroandes"
+    ],
+    "A31614-e12530": [
+      "amasia"
+    ],
+    "A31614-e12600": [
+      "oroandes"
+    ],
+    "A31614-e12720": [
+      "amasia"
+    ],
+    "A31614-e12770": [
+      "oroandes"
+    ],
+    "A31614-e12980": [
+      "antellus"
+    ],
+    "A31614-e13030": [
+      "glorianda"
+    ],
+    "A31614-e13120": [
+      "antellus"
+    ],
+    "A31614-e13160": [
+      "glorianda"
+    ],
+    "A31614-e13250": [
+      "antellus"
+    ],
+    "A31614-e13300": [
+      "glorianda"
+    ],
+    "A31614-e13390": [
+      "antellus"
+    ],
+    "A31614-e13430": [
+      "glorianda"
+    ],
+    "A31614-e13510": [
+      "antellus"
+    ],
+    "A31614-e13590": [
+      "glorianda"
+    ],
+    "A31614-e13810": [
+      "antellus"
+    ],
+    "A31614-e13910": [
+      "glorianda"
+    ],
+    "A31614-e14060": [
+      "antellus"
+    ],
+    "A31614-e14410": [
+      "amasia"
+    ],
+    "A31614-e14500": [
+      "antellus"
+    ],
+    "A31614-e14530": [
+      "amasia"
+    ],
+    "A31614-e14590": [
+      "antellus"
+    ],
+    "A31614-e14650": [
+      "amasia"
+    ],
+    "A31614-e14720": [
+      "antellus"
+    ],
+    "A31614-e14790": [
+      "amasia"
+    ],
+    "A31614-e14880": [
+      "antellus"
+    ],
+    "A31614-e14920": [
+      "amasia"
+    ],
+    "A31614-e15040": [
+      "antellus"
+    ],
+    "A31614-e15240": [
+      "glorianda"
+    ],
+    "A31614-e15340": [
+      "amasia"
+    ],
+    "A31614-e15460": [
+      "glorianda"
+    ],
+    "A31614-e15570": [
+      "amasia"
+    ],
+    "A31614-e15710": [
+      "glorianda"
+    ],
+    "A31614-e15800": [
+      "amasia"
+    ],
+    "A31614-e15920": [
+      "dick-slywit"
+    ],
+    "A31614-e15950": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e15980": [
+      "dick-slywit"
+    ],
+    "A31614-e16010": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e16040": [
+      "dick-slywit"
+    ],
+    "A31614-e16070": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e16100": [
+      "dick-slywit"
+    ],
+    "A31614-e16140": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e16170": [
+      "dick-slywit"
+    ],
+    "A31614-e16200": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e16230": [
+      "dick-slywit"
+    ],
+    "A31614-e16300": [
+      "jack-drayner"
+    ],
+    "A31614-e16350": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e16400": [
+      "jack-drayner"
+    ],
+    "A31614-e16450": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e16530": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e16570": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e16600": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e16630": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e16660": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e16690": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e16760": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e16810": [
+      "dick-slywit"
+    ],
+    "A31614-e16840": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e16900": [
+      "dick-slywit"
+    ],
+    "A31614-e16960": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e17050": [
+      "dick-slywit"
+    ],
+    "A31614-e17090": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e17120": [
+      "dick-slywit"
+    ],
+    "A31614-e17160": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e17210": [
+      "dick-slywit"
+    ],
+    "A31614-e17310": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e17420": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e17520": [
+      "drawer"
+    ],
+    "A31614-e17590": [
+      "constable"
+    ],
+    "A31614-e17670": [
+      "dick-slywit"
+    ],
+    "A31614-e17700": [
+      "constable"
+    ],
+    "A31614-e17770": [
+      "dick-slywit"
+    ],
+    "A31614-e17800": [
+      "constable"
+    ],
+    "A31614-e17920": [
+      "dick-slywit"
+    ],
+    "A31614-e18000": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e18040": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e18080": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e18110": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e18140": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e18190": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e18300": [
+      "antellus"
+    ],
+    "A31614-e18340": [
+      "glorianda"
+    ],
+    "A31614-e18440": [
+      "antellus"
+    ],
+    "A31614-e18470": [
+      "glorianda"
+    ],
+    "A31614-e18530": [
+      "zannazarro"
+    ],
+    "A31614-e18630": [
+      "amasia"
+    ],
+    "A31614-e19100": [
+      "antellus"
+    ],
+    "A31614-e19130": [
+      "oroandes"
+    ],
+    "A31614-e19160": [
+      "antellus"
+    ],
+    "A31614-e19190": [
+      "oroandes"
+    ],
+    "A31614-e19240": [
+      "antellus"
+    ],
+    "A31614-e19290": [
+      "oroandes"
+    ],
+    "A31614-e19330": [
+      "antellus"
+    ],
+    "A31614-e19360": [
+      "oroandes"
+    ],
+    "A31614-e19390": [
+      "antellus"
+    ],
+    "A31614-e19470": [
+      "oroandes"
+    ],
+    "A31614-e19500": [
+      "antellus"
+    ],
+    "A31614-e19570": [
+      "zannazarro"
+    ],
+    "A31614-e19610": [
+      "antellus"
+    ],
+    "A31614-e19800": [
+      "vanlore"
+    ],
+    "A31614-e19900": [
+      "heroina"
+    ],
+    "A31614-e19950": [
+      "vanlore"
+    ],
+    "A31614-e20050": [
+      "heroina"
+    ],
+    "A31614-e20110": [
+      "vanlore"
+    ],
+    "A31614-e20150": [
+      "heroina"
+    ],
+    "A31614-e20210": [
+      "vanlore"
+    ],
+    "A31614-e20290": [
+      "heroina"
+    ],
+    "A31614-e20400": [
+      "dick-slywit"
+    ],
+    "A31614-e20440": [
+      "shepherd"
+    ],
+    "A31614-e20490": [
+      "theocrine"
+    ],
+    "A31614-e20570": [
+      "dick-slywit"
+    ],
+    "A31614-e20660": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e20690": [
+      "dick-slywit"
+    ],
+    "A31614-e20920": [
+      "arratus"
+    ],
+    "A31614-e21490": [
+      "arratus"
+    ],
+    "A31614-e21620": [
+      "oroandes"
+    ],
+    "A31614-e21690": [
+      "antellus"
+    ],
+    "A31614-e21730": [
+      "oroandes"
+    ],
+    "A31614-e21760": [
+      "antellus"
+    ],
+    "A31614-e21800": [
+      "oroandes"
+    ],
+    "A31614-e21830": [
+      "antellus"
+    ],
+    "A31614-e21860": [
+      "oroandes"
+    ],
+    "A31614-e21890": [
+      "antellus"
+    ],
+    "A31614-e21920": [
+      "oroandes"
+    ],
+    "A31614-e21950": [
+      "antellus"
+    ],
+    "A31614-e21990": [
+      "oroandes"
+    ],
+    "A31614-e22020": [
+      "antellus"
+    ],
+    "A31614-e22050": [
+      "oroandes"
+    ],
+    "A31614-e22100": [
+      "antellus"
+    ],
+    "A31614-e22130": [
+      "oroandes"
+    ],
+    "A31614-e22160": [
+      "antellus"
+    ],
+    "A31614-e22190": [
+      "oroandes"
+    ],
+    "A31614-e22290": [
+      "antellus"
+    ],
+    "A31614-e22320": [
+      "oroandes"
+    ],
+    "A31614-e22350": [
+      "antellus"
+    ],
+    "A31614-e22390": [
+      "oroandes"
+    ],
+    "A31614-e22440": [
+      "antellus"
+    ],
+    "A31614-e22480": [
+      "oroandes"
+    ],
+    "A31614-e22510": [
+      "antellus"
+    ],
+    "A31614-e22550": [
+      "oroandes"
+    ],
+    "A31614-e22580": [
+      "antellus"
+    ],
+    "A31614-e22610": [
+      "oroandes"
+    ],
+    "A31614-e22650": [
+      "antellus"
+    ],
+    "A31614-e22690": [
+      "oroandes"
+    ],
+    "A31614-e22770": [
+      "heroina"
+    ],
+    "A31614-e22820": [
+      "vanlore"
+    ],
+    "A31614-e22870": [
+      "antellus"
+    ],
+    "A31614-e22900": [
+      "heroina"
+    ],
+    "A31614-e22930": [
+      "vanlore"
+    ],
+    "A31614-e22970": [
+      "heroina"
+    ],
+    "A31614-e23070": [
+      "vanlore"
+    ],
+    "A31614-e23120": [
+      "theocrine"
+    ],
+    "A31614-e23190": [
+      "vanlore"
+    ],
+    "A31614-e23230": [
+      "theocrine"
+    ],
+    "A31614-e23270": [
+      "vanlore"
+    ],
+    "A31614-e23350": [
+      "theocrine"
+    ],
+    "A31614-e23470": [
+      "vanlore"
+    ],
+    "A31614-e23610": [
+      "zannazarro"
+    ],
+    "A31614-e23640": [
+      "glorianda"
+    ],
+    "A31614-e23680": [
+      "amasia"
+    ],
+    "A31614-e23740": [
+      "glorianda"
+    ],
+    "A31614-e23770": [
+      "zannazarro"
+    ],
+    "A31614-e23800": [
+      "arratus"
+    ],
+    "A31614-e23830": [
+      "zannazarro"
+    ],
+    "A31614-e23860": [
+      "arratus"
+    ],
+    "A31614-e23890": [
+      "zannazarro"
+    ],
+    "A31614-e23950": [
+      "messenger"
+    ],
+    "A31614-e24000": [
+      "zannazarro"
+    ],
+    "A31614-e24030": [
+      "amasia"
+    ],
+    "A31614-e24060": [
+      "glorianda"
+    ],
+    "A31614-e24090": [
+      "arratus"
+    ],
+    "A31614-e24140": [
+      "zannazarro"
+    ],
+    "A31614-e24280": [
+      "antellus"
+    ],
+    "A31614-e24310": [
+      "heroina"
+    ],
+    "A31614-e24350": [
+      "antellus"
+    ],
+    "A31614-e24380": [
+      "heroina"
+    ],
+    "A31614-e24410": [
+      "antellus"
+    ],
+    "A31614-e24440": [
+      "heroina"
+    ],
+    "A31614-e24480": [
+      "antellus"
+    ],
+    "A31614-e24510": [
+      "heroina"
+    ],
+    "A31614-e24540": [
+      "antellus"
+    ],
+    "A31614-e24570": [
+      "heroina"
+    ],
+    "A31614-e24600": [
+      "antellus"
+    ],
+    "A31614-e24630": [
+      "heroina"
+    ],
+    "A31614-e24660": [
+      "antellus"
+    ],
+    "A31614-e24690": [
+      "heroina"
+    ],
+    "A31614-e24730": [
+      "antellus"
+    ],
+    "A31614-e24770": [
+      "heroina"
+    ],
+    "A31614-e24810": [
+      "antellus"
+    ],
+    "A31614-e24850": [
+      "heroina"
+    ],
+    "A31614-e24890": [
+      "bandit-1"
+    ],
+    "A31614-e24940": [
+      "antellus"
+    ],
+    "A31614-e25050": [
+      "heroina"
+    ],
+    "A31614-e25080": [
+      "antellus"
+    ],
+    "A31614-e25110": [
+      "heroina"
+    ],
+    "A31614-e25150": [
+      "bandit-1"
+    ],
+    "A31614-e25200": [
+      "heroina"
+    ],
+    "A31614-e25230": [
+      "vanlore"
+    ],
+    "A31614-e25260": [
+      "heroina"
+    ],
+    "A31614-e25400": [
+      "jack-drayner"
+    ],
+    "A31614-e25430": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e25460": [
+      "dick-slywit"
+    ],
+    "A31614-e25490": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e25530": [
+      "dick-slywit"
+    ],
+    "A31614-e25560": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e25620": [
+      "jack-drayner"
+    ],
+    "A31614-e25650": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e25690": [
+      "dick-slywit"
+    ],
+    "A31614-e25720": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e25750": [
+      "dick-slywit"
+    ],
+    "A31614-e25780": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e25810": [
+      "dick-slywit"
+    ],
+    "A31614-e25850": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e25890": [
+      "dick-slywit"
+    ],
+    "A31614-e25920": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e25990": [
+      "dick-slywit"
+    ],
+    "A31614-e26020": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e26050": [
+      "dick-slywit"
+    ],
+    "A31614-e26080": [
+      "sir-symon-credulous",
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26120": [
+      "dick-slywit"
+    ],
+    "A31614-e26150": [
+      "sir-symon-credulous",
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26190": [
+      "jack-drayner"
+    ],
+    "A31614-e26220": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26250": [
+      "jack-drayner"
+    ],
+    "A31614-e26280": [
+      "sir-symon-credulous",
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26320": [
+      "dick-slywit"
+    ],
+    "A31614-e26350": [
+      "sir-symon-credulous",
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26390": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26420": [
+      "jack-drayner"
+    ],
+    "A31614-e26460": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26580": [
+      "jack-drayner"
+    ],
+    "A31614-e26640": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26670": [
+      "jack-drayner"
+    ],
+    "A31614-e26710": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26760": [
+      "jack-drayner"
+    ],
+    "A31614-e26810": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26840": [
+      "julia"
+    ],
+    "A31614-e26890": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e26920": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e27050": [
+      "jack-drayner"
+    ],
+    "A31614-e27080": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e27140": [
+      "jack-drayner"
+    ],
+    "A31614-e27180": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e27220": [
+      "jack-drayner"
+    ],
+    "A31614-e27250": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e27280": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e27320": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e27350": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e27390": [
+      "dick-slywit"
+    ],
+    "A31614-e27420": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e27450": [
+      "dick-slywit"
+    ],
+    "A31614-e27480": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e27510": [
+      "dick-slywit"
+    ],
+    "A31614-e27550": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e27590": [
+      "constable"
+    ],
+    "A31614-e27630": [
+      "dick-slywit"
+    ],
+    "A31614-e27660": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e27690": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e27730": [
+      "dick-slywit"
+    ],
+    "A31614-e27760": [
+      "constable"
+    ],
+    "A31614-e27790": [
+      "dick-slywit"
+    ],
+    "A31614-e27840": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e27880": [
+      "dick-slywit"
+    ],
+    "A31614-e27910": [
+      "constable"
+    ],
+    "A31614-e27940": [
+      "dick-slywit"
+    ],
+    "A31614-e27970": [
+      "constable"
+    ],
+    "A31614-e28000": [
+      "dick-slywit"
+    ],
+    "A31614-e28040": [
+      "constable"
+    ],
+    "A31614-e28070": [
+      "jack-drayner"
+    ],
+    "A31614-e28100": [
+      "dick-slywit"
+    ],
+    "A31614-e28130": [
+      "sir-jasper-sympleton"
+    ],
+    "A31614-e28160": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e28200": [
+      "constable"
+    ],
+    "A31614-e28230": [
+      "sir-symon-credulous"
+    ],
+    "A31614-e28330": [
+      "dick-slywit"
+    ],
+    "A31614-e28540": [
+      "zannazarro"
+    ],
+    "A31614-e28570": [
+      "heroina"
+    ],
+    "A31614-e28600": [
+      "zannazarro"
+    ],
+    "A31614-e28700": [
+      "glorianda"
+    ],
+    "A31614-e28730": [
+      "amasia"
+    ],
+    "A31614-e28760": [
+      "heroina"
+    ],
+    "A31614-e28790": [
+      "arratus"
+    ],
+    "A31614-e28820": [
+      "heroina"
+    ],
+    "A31614-e28880": [
+      "zannazarro"
+    ],
+    "A31614-e28910": [
+      "oroandes"
+    ],
+    "A31614-e28940": [
+      "zannazarro"
+    ],
+    "A31614-e28970": [
+      "oroandes"
+    ],
+    "A31614-e29010": [
+      "amasia"
+    ],
+    "A31614-e29050": [
+      "oroandes"
+    ],
+    "A31614-e29100": [
+      "heroina"
+    ],
+    "A31614-e29130": [
+      "oroandes"
+    ],
+    "A31614-e29160": [
+      "zannazarro"
+    ],
+    "A31614-e29190": [
+      "glorianda"
+    ],
+    "A31614-e29220": [
+      "oroandes"
+    ],
+    "A31614-e29250": [
+      "vanlore"
+    ],
+    "A31614-e29290": [
+      "amasia"
+    ],
+    "A31614-e29320": [
+      "oroandes"
+    ],
+    "A31614-e29360": [
+      "glorianda"
+    ],
+    "A31614-e29390": [
+      "oroandes"
+    ],
+    "A31614-e29460": [
+      "antellus"
+    ],
+    "A31614-e29510": [
+      "zannazarro"
+    ],
+    "A31614-e29540": [
+      "zannazarro",
+      "glorianda",
+      "amasia",
+      "vanlore",
+      "arratus"
+    ],
+    "A31614-e29570": [
+      "antellus"
+    ],
+    "A31614-e29630": [
+      "heroina"
+    ],
+    "A31614-e29680": [
+      "antellus"
+    ],
+    "A31614-e29720": [
+      "arratus"
+    ],
+    "A31614-e29820": [
+      "arratus"
+    ],
+    "A31614-e29850": [
+      "antellus"
+    ],
+    "A31614-e29890": [
+      "zannazarro",
+      "glorianda",
+      "amasia",
+      "vanlore",
+      "arratus"
+    ],
+    "A31614-e29950": [
+      "antellus"
+    ]
+  }
+}

@@ -1,20 +1,20 @@
 {
   "particDesc": [
     {
-      "name": "Country Lasses",
-      "id": "country-lasses",
-      "isGroup": true,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Spirits",
-      "id": "spirits",
-      "isGroup": true,
+      "name": "Voice ",
+      "id": "voice",
+      "isGroup": false,
       "sex": "UNKNOWN"
     },
     {
       "id": "arthur",
       "name": "Arthur",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "id": "spencer",
+      "name": "Spencer",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -72,6 +72,18 @@
       "isGroup": false,
       "sex": "FEMALE"
     },
+	{
+      "id": "country-lasses",
+      "name": "Two Country Lasses",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+	{
+      "id": "goody",
+      "name": "Goody Dickinson",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
     {
       "id": "joan",
       "name": "Joan",
@@ -103,6 +115,12 @@
       "sex": "FEMALE"
     },
     {
+      "id": "robert",
+      "name": "Robert",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "soldier",
       "name": "Soldier",
       "isGroup": false,
@@ -121,8 +139,8 @@
       "sex": "MALE"
     },
     {
-      "id": "mall",
-      "name": "Mall",
+      "id": "mal",
+      "name": "Mal",
       "isGroup": false,
       "sex": "FEMALE"
     },
@@ -145,22 +163,10 @@
       "sex": "MALE"
     },
     {
-      "id": "goody-dickieson",
-      "name": "Goody Dickieson",
+      "id": "spirit",
+      "name": "Spirit",
       "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "id": "peg",
-      "name": "Peg",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "id": "witches",
-      "name": "Witches",
-      "isGroup": true,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     }
   ],
   "speeches": {
@@ -732,10 +738,10 @@
       "parnell"
     ],
     "A03258-e106660": [
-      "maud",
-      "gillian",
       "meg",
-      "goody-dickieson"
+	  "maud",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e106720": [
       "meg"
@@ -765,10 +771,10 @@
       "meg"
     ],
     "A03258-e107160": [
-      "maud",
-      "gillian",
       "meg",
-      "goody-dickieson"
+	  "maud",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e107180": [
       "meg"
@@ -783,10 +789,10 @@
       "gillian"
     ],
     "A03258-e107380": [
-      "maud",
-      "gillian",
       "meg",
-      "goody-dickieson"
+	  "maud",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e107400": [
       "meg"
@@ -810,10 +816,10 @@
       "gillian"
     ],
     "A03258-e107740": [
-      "maud",
-      "gillian",
       "meg",
-      "goody-dickieson"
+	  "maud",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e107760": [
       "meg"
@@ -831,8 +837,8 @@
       "generous"
     ],
     "A03258-e108040": [
-      "shakstone",
-      "bantam"
+      "bantam",
+      "shakstone"
     ],
     "A03258-e108060": [
       "whetstone"
@@ -892,91 +898,91 @@
       "generous"
     ],
     "A03258-e108880": [
-      "robin"
+      "robert"
     ],
     "A03258-e108900": [
       "generous"
     ],
     "A03258-e108920": [
-      "robin"
+      "robert"
     ],
     "A03258-e108940": [
       "generous"
     ],
     "A03258-e108980": [
-      "robin"
+      "robert"
     ],
     "A03258-e109000": [
       "generous"
     ],
     "A03258-e109050": [
-      "robin"
+      "robert"
     ],
     "A03258-e109070": [
       "generous"
     ],
     "A03258-e109090": [
-      "robin"
+      "robert"
     ],
     "A03258-e109110": [
       "generous"
     ],
     "A03258-e109130": [
-      "robin"
+      "robert"
     ],
     "A03258-e109150": [
       "generous"
     ],
     "A03258-e109170": [
-      "robin"
+      "robert"
     ],
     "A03258-e109190": [
       "generous"
     ],
     "A03258-e109210": [
-      "robin"
+      "robert"
     ],
     "A03258-e109230": [
       "generous"
     ],
     "A03258-e109250": [
-      "robin"
+      "robert"
     ],
     "A03258-e109270": [
       "generous"
     ],
     "A03258-e109310": [
-      "robin"
+      "robert"
     ],
     "A03258-e109330": [
       "generous"
     ],
     "A03258-e109480": [
-      "robin"
+      "robert"
     ],
     "A03258-e109500": [
       "generous"
     ],
     "A03258-e109540": [
-      "robin"
+      "robert"
     ],
     "A03258-e109560": [
       "generous"
     ],
     "A03258-e109650": [
-      "robin"
+      "robert"
     ],
     "A03258-e109670": [
       "generous"
     ],
     "A03258-e109740": [
-      "robin"
+      "robert"
     ],
     "A03258-e109760": [
       "generous"
     ],
     "A03258-e109800": [
-      "robin"
+      "robert"
     ],
     "A03258-e109830": [
       "generous"
@@ -1135,112 +1141,112 @@
       "shakstone"
     ],
     "A03258-e111460": [
-      "goody-dickieson"
+      "gillian"
     ],
     "A03258-e111500": [
       "boy"
     ],
     "A03258-e111520": [
-      "goody-dickieson"
+      "gillian"
     ],
     "A03258-e111570": [
       "boy"
     ],
     "A03258-e111590": [
-      "goody-dickieson"
+      "gillian"
     ],
     "A03258-e111610": [
       "boy"
     ],
     "A03258-e111650": [
-      "goody-dickieson"
+      "gillian"
     ],
     "A03258-e111710": [
       "boy"
     ],
     "A03258-e111730": [
-      "goody-dickieson"
+      "gillian"
     ],
     "A03258-e111820": [
       "boy"
     ],
     "A03258-e111860": [
-      "goody-dickieson"
+      "gillian"
     ],
     "A03258-e111970": [
       "boy"
     ],
     "A03258-e112020": [
-      "mall"
+      "mal"
     ],
     "A03258-e112040": [
       "robin"
     ],
     "A03258-e112060": [
-      "mall"
+      "mal"
     ],
     "A03258-e112080": [
       "robin"
     ],
     "A03258-e112100": [
-      "mall"
+      "mal"
     ],
     "A03258-e112120": [
-      "robin"
+      "robert"
     ],
     "A03258-e112140": [
-      "mall"
+      "mal"
     ],
     "A03258-e112160": [
-      "robin"
+      "robert"
     ],
     "A03258-e112180": [
-      "mall"
+      "mal"
     ],
     "A03258-e112200": [
-      "robin"
+      "robert"
     ],
     "A03258-e112220": [
-      "mall"
+      "mal"
     ],
     "A03258-e112240": [
-      "robin"
+      "robert"
     ],
     "A03258-e112260": [
-      "mall"
+      "mal"
     ],
     "A03258-e112280": [
-      "robin"
+      "robert"
     ],
     "A03258-e112310": [
-      "mall"
+      "mal"
     ],
     "A03258-e112330": [
-      "robin"
+      "robert"
     ],
     "A03258-e112350": [
-      "mall"
+      "mal"
     ],
     "A03258-e112370": [
-      "robin"
+      "robert"
     ],
     "A03258-e112390": [
-      "mall"
+      "mal"
     ],
     "A03258-e112410": [
-      "robin"
+      "robert"
     ],
     "A03258-e112430": [
-      "mall"
+      "mal"
     ],
     "A03258-e112470": [
-      "robin"
+      "robert"
     ],
     "A03258-e112490": [
-      "mall"
+      "mal"
     ],
     "A03258-e112510": [
-      "robin"
+      "robert"
     ],
     "A03258-e112560": [
       "seely"
@@ -1270,17 +1276,18 @@
       "seely"
     ],
     "A03258-e112750": [
-      "gregory",
-      "seely",
-      "joan",
-      "winny",
-      "arthur",
-      "shakstone",
-      "mall",
-      "mall",
-      "bantam",
-      "whetstone",
-      "country-lasses"
+      "lawrence",
+	  "parnell",
+	  "winny",
+	  "mal",
+	  "spencer",
+	  "doughty",
+	  "gregory",
+	  "arthur",
+	  "shakstone",
+	  "bantam",
+	  "whetstone",
+	  "country-lasses"
     ],
     "A03258-e112770": [
       "lawrence"
@@ -1315,33 +1322,23 @@
     "A03258-e113080": [
       "joan"
     ],
-    "A03258-e113100": [
-      "doughty"
-    ],
+    "A03258-e113100": [],
     "A03258-e113120": [
       "parnell"
     ],
-    "A03258-e113150": [
-	  "whetstone"
-    ],
+    "A03258-e113150": [],
     "A03258-e113170": [
       "arthur"
     ],
     "A03258-e113190": [
       "bantam"
     ],
-    "A03258-e113210": [
-      "shakstone"
-    ],
+    "A03258-e113210": [],
     "A03258-e113230": [
       "doughty"
     ],
-    "A03258-e113250": [
-      "gregory"
-    ],
-    "A03258-e113270": [
-      "seely"
-    ],
+    "A03258-e113250": [],
+    "A03258-e113270": [],
     "A03258-e113290": [
       "doughty"
     ],
@@ -1355,14 +1352,17 @@
       "seely"
     ],
     "A03258-e113370": [
-      "gregory",
-      "winny",
-      "arthur",
-      "shakstone",
-      "mall",
-      "mall",
-      "bantam",
-      "whetstone"
+	  "parnell",
+	  "winny",
+	  "mal",
+	  "spencer",
+	  "doughty",
+	  "gregory",
+	  "arthur",
+	  "shakstone",
+	  "bantam",
+	  "whetstone",
+	  "country-lasses"
     ],
     "A03258-e113390": [
       "seely"
@@ -1485,13 +1485,18 @@
       "seely"
     ],
     "A03258-e114280": [
-      "gregory",
-      "lawrence",
-      "doughty",
-      "arthur",
-      "shakstone",
-      "bantam",
-      "whetstone"
+	  "parnell",
+	  "winny",
+	  "mal",
+	  "spencer",
+	  "doughty",
+	  "gregory",
+	  "arthur",
+	  "shakstone",
+	  "bantam",
+	  "whetstone",
+	  "country-lasses",
+	  "joan"
     ],
     "A03258-e114300": [
       "doughty"
@@ -1500,55 +1505,55 @@
       "generous"
     ],
     "A03258-e114360": [
-      "robin"
+      "robert"
     ],
     "A03258-e114380": [
       "generous"
     ],
     "A03258-e114400": [
-      "robin"
+      "robert"
     ],
     "A03258-e114420": [
       "generous"
     ],
     "A03258-e114440": [
-      "robin"
+      "robert"
     ],
     "A03258-e114460": [
       "generous"
     ],
     "A03258-e114480": [
-      "robin"
+      "robert"
     ],
     "A03258-e114500": [
       "generous"
     ],
     "A03258-e114520": [
-      "robin"
+      "robert"
     ],
     "A03258-e114540": [
       "generous"
     ],
     "A03258-e114560": [
-      "robin"
+      "robert"
     ],
     "A03258-e114580": [
       "generous"
     ],
     "A03258-e114600": [
-      "robin"
+      "robert"
     ],
     "A03258-e114620": [
       "generous"
     ],
     "A03258-e114640": [
-      "robin"
+      "robert"
     ],
     "A03258-e114660": [
       "generous"
     ],
     "A03258-e114680": [
-      "robin"
+      "robert"
     ],
     "A03258-e114700": [
       "generous"
@@ -1560,31 +1565,31 @@
       "mrs-generous"
     ],
     "A03258-e114780": [
-      "robin"
+      "robert"
     ],
     "A03258-e114800": [
       "mrs-generous"
     ],
     "A03258-e114820": [
-      "robin"
+      "robert"
     ],
     "A03258-e114840": [
       "mrs-generous"
     ],
     "A03258-e114860": [
-      "robin"
+      "robert"
     ],
     "A03258-e114880": [
       "mrs-generous"
     ],
     "A03258-e114900": [
-      "robin"
+      "robert"
     ],
     "A03258-e114930": [
       "mrs-generous"
     ],
     "A03258-e114960": [
-      "robin"
+      "robert"
     ],
     "A03258-e114980": [
       "mrs-generous"
@@ -1656,17 +1661,16 @@
       "doughty"
     ],
     "A03258-e115560": [
-      "mall"
+      "mal"
     ],
     "A03258-e115590": [
       "doughty"
     ],
     "A03258-e115630": [
       "arthur",
-      "shakstone",
-      "bantam",
-      "whetstone",
-      "doughty"
+	  "shakstone",
+	  "bantam",
+	  "whetstone"
     ],
     "A03258-e115650": [
       "arthur"
@@ -1766,13 +1770,13 @@
       "doughty"
     ],
     "A03258-e116360": [
-      "mall"
+      "mal"
     ],
     "A03258-e116380": [
       "doughty"
     ],
     "A03258-e116400": [
-      "mall"
+      "mal"
     ],
     "A03258-e116420": [
       "doughty"
@@ -1787,13 +1791,13 @@
       "arthur"
     ],
     "A03258-e116500": [
-      "mall"
+      "mal"
     ],
     "A03258-e116520": [
       "lawrence"
     ],
     "A03258-e116540": [
-      "mall"
+      "mal"
     ],
     "A03258-e116560": [
       "lawrence"
@@ -1821,12 +1825,9 @@
     ],
     "A03258-e116730": [
       "arthur",
-      "shakstone",
-      "bantam",
-      "whetstone",
-      "doughty",
-      "lawrence",
-      "parnell"
+	  "shakstone",
+	  "bantam",
+	  "whetstone"
     ],
     "A03258-e116750": [
       "doughty"
@@ -1838,7 +1839,7 @@
       "whetstone"
     ],
     "A03258-e116840": [
-      "mall"
+      "mal"
     ],
     "A03258-e116860": [
       "whetstone"
@@ -1848,12 +1849,9 @@
     ],
     "A03258-e116910": [
       "arthur",
-      "shakstone",
-      "bantam",
-      "whetstone",
-      "doughty",
-      "lawrence",
-      "parnell"
+	  "shakstone",
+	  "bantam",
+	  "whetstone"
     ],
     "A03258-e116930": [
       "doughty"
@@ -1892,12 +1890,9 @@
     ],
     "A03258-e117140": [
       "arthur",
-      "shakstone",
-      "bantam",
-      "whetstone",
-      "doughty",
-      "lawrence",
-      "parnell"
+	  "shakstone",
+	  "bantam",
+	  "whetstone"
     ],
     "A03258-e117200": [
       "robin"
@@ -1906,7 +1901,7 @@
       "mrs-generous"
     ],
     "A03258-e117240": [
-      "robin"
+      "robert"
     ],
     "A03258-e117260": [
       "mrs-generous"
@@ -1916,47 +1911,45 @@
     ],
     "A03258-e117310": [
       "maud",
-      "gillian",
-      "meg",
-      "goody-dickieson",
-      "mall"
+	  "meg",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e117330": [
       "mrs-generous"
     ],
     "A03258-e117350": [
-      "goody-dickieson"
+      "goody"
     ],
     "A03258-e117390": [
       "mrs-generous"
     ],
     "A03258-e117410": [
       "maud",
-      "gillian",
-      "meg",
-      "goody-dickieson",
-      "mall"
+	  "meg",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e117440": [
-      "robin"
+      "robert"
     ],
     "A03258-e117460": [
-      "goody-dickieson"
+      "goody"
     ],
     "A03258-e117480": [
-      "mall"
+      "mal"
     ],
     "A03258-e117500": [
       "mrs-generous"
     ],
     "A03258-e117550": [
-      "mall"
+      "mal"
     ],
     "A03258-e117590": [
       "maud",
-      "gillian",
-      "meg",
-      "goody-dickieson"
+	  "meg",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e117610": [
       "meg"
@@ -1971,7 +1964,7 @@
       "mrs-generous"
     ],
     "A03258-e117750": [
-      "goody-dickieson"
+      "goody"
     ],
     "A03258-e117790": [
       "robin"
@@ -1980,23 +1973,22 @@
       "mrs-generous"
     ],
     "A03258-e117850": [
-      "mall"
+      "mal"
     ],
     "A03258-e117890": [
       "maud",
-      "gillian",
-      "meg",
-      "goody-dickieson",
-      "mall"
+	  "meg",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e117910": [
-      "goody-dickieson"
+      "goody"
     ],
     "A03258-e117930": [
       "boy"
     ],
     "A03258-e117950": [
-      "goody-dickieson"
+      "goody"
     ],
     "A03258-e117970": [
       "meg"
@@ -2008,23 +2000,22 @@
       "meg"
     ],
     "A03258-e118050": [
-      "mall"
+      "mal"
     ],
     "A03258-e118090": [
       "mrs-generous"
     ],
     "A03258-e118110": [
-      "robin"
+      "robert"
     ],
     "A03258-e118130": [
       "boy"
     ],
     "A03258-e118150": [
       "maud",
-      "gillian",
-      "meg",
-      "goody-dickieson",
-      "mall"
+	  "meg",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e118170": [
       "robin"
@@ -2033,16 +2024,16 @@
       "mrs-generous"
     ],
     "A03258-e118240": [
-      "goody-dickieson"
+      "goody"
     ],
     "A03258-e118310": [
       "meg"
     ],
     "A03258-e118370": [
-      "mall"
+      "mal"
     ],
     "A03258-e118390": [
-      "spirits"
+      "spirit"
     ],
     "A03258-e118420": [
       "boy"
@@ -2051,13 +2042,13 @@
       "meg"
     ],
     "A03258-e118520": [
-      "goody-dickieson"
+      "goody"
     ],
     "A03258-e118540": [
       "meg"
     ],
     "A03258-e118580": [
-      "goody-dickieson"
+      "goody"
     ],
     "A03258-e118600": [
       "maud"
@@ -2072,29 +2063,28 @@
       "meg"
     ],
     "A03258-e118730": [
-      "mall"
+      "mal"
     ],
     "A03258-e118750": [
       "mrs-generous"
     ],
     "A03258-e118790": [
       "maud",
-      "gillian",
-      "meg",
-      "goody-dickieson",
-      "mall"
+	  "meg",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e118810": [
       "mrs-generous"
     ],
     "A03258-e118850": [
-      "robin"
+      "robert"
     ],
     "A03258-e118870": [
       "mrs-generous"
     ],
     "A03258-e118890": [
-      "robin"
+      "robert"
     ],
     "A03258-e118960": [
       "generous"
@@ -2103,19 +2093,19 @@
       "generous"
     ],
     "A03258-e119300": [
-      "robin"
+      "robert"
     ],
     "A03258-e119320": [
       "generous"
     ],
     "A03258-e119340": [
-      "robin"
+      "robert"
     ],
     "A03258-e119360": [
       "generous"
     ],
     "A03258-e119410": [
-      "robin"
+      "robert"
     ],
     "A03258-e119430": [
       "generous"
@@ -2133,43 +2123,43 @@
       "generous"
     ],
     "A03258-e119590": [
-      "robin"
+      "robert"
     ],
     "A03258-e119630": [
       "generous"
     ],
     "A03258-e119650": [
-      "robin"
+      "robert"
     ],
     "A03258-e119670": [
       "generous"
     ],
     "A03258-e119730": [
-      "robin"
+      "robert"
     ],
     "A03258-e119750": [
       "generous"
     ],
     "A03258-e119770": [
-      "robin"
+      "robert"
     ],
     "A03258-e119790": [
       "generous"
     ],
     "A03258-e119810": [
-      "robin"
+      "robert"
     ],
     "A03258-e119830": [
       "generous"
     ],
     "A03258-e119910": [
-      "robin"
+      "robert"
     ],
     "A03258-e119930": [
       "generous"
     ],
     "A03258-e119970": [
-      "robin"
+      "robert"
     ],
     "A03258-e119990": [
       "generous"
@@ -2181,7 +2171,7 @@
       "generous"
     ],
     "A03258-e120080": [
-      "robin"
+      "robert"
     ],
     "A03258-e120110": [
       "generous"
@@ -2193,31 +2183,31 @@
       "generous"
     ],
     "A03258-e120310": [
-      "robin"
+      "robert"
     ],
     "A03258-e120330": [
       "generous"
     ],
     "A03258-e120390": [
-      "robin"
+      "robert"
     ],
     "A03258-e120410": [
       "generous"
     ],
     "A03258-e120500": [
-      "robin"
+      "robert"
     ],
     "A03258-e120520": [
       "generous"
     ],
     "A03258-e120580": [
-      "robin"
+      "robert"
     ],
     "A03258-e120600": [
       "generous"
     ],
     "A03258-e120620": [
-      "robin"
+      "robert"
     ],
     "A03258-e120640": [
       "generous"
@@ -2253,7 +2243,7 @@
       "generous"
     ],
     "A03258-e121120": [
-      "robin"
+      "robert"
     ],
     "A03258-e121140": [
       "generous"
@@ -2307,13 +2297,13 @@
       "generous"
     ],
     "A03258-e121820": [
-      "robin"
+      "robert"
     ],
     "A03258-e121860": [
       "generous"
     ],
     "A03258-e122010": [
-      "robin"
+      "robert"
     ],
     "A03258-e122050": [
       "arthur"
@@ -2346,14 +2336,7 @@
       "doughty"
     ],
     "A03258-e122440": [
-      "whetstone",
-      "arthur",
-      "shakstone",
-      "mall",
-      "mrs-generous",
-      "bantam",
-      "whetstone",
-      "spirits"
+      "voice"
     ],
     "A03258-e122460": [
       "doughty"
@@ -2362,17 +2345,10 @@
       "arthur"
     ],
     "A03258-e122510": [
-      "whetstone",
-      "arthur",
-      "shakstone",
-      "mall",
-      "mrs-generous",
-      "bantam",
-      "whetstone",
-      "spirits"
+      "shakstone"
     ],
     "A03258-e122530": [
-      "bantam"
+      "voice"
     ],
     "A03258-e122550": [
       "shakstone"
@@ -2475,9 +2451,9 @@
       "parnell"
     ],
     "A03258-e123200": [
-      "arthur",
       "bantam",
-      "shakstone"
+      "shakstone",
+      "arthur"
     ],
     "A03258-e123220": [
       "parnell"
@@ -2553,13 +2529,13 @@
       "whetstone"
     ],
     "A03258-e123850": [
-      "mall"
+      "mal"
     ],
     "A03258-e123870": [
       "mrs-generous"
     ],
     "A03258-e123970": [
-      "mall"
+      "mal"
     ],
     "A03258-e124010": [
       "mrs-generous"
@@ -2619,13 +2595,17 @@
       "whetstone"
     ],
     "A03258-e124560": [
-      "whetstone"
+      "mrs-generous",
+	  "mal",
+	  "arthur",
+	  "bantam",
+	  "shakstone"
     ],
     "A03258-e124580": [
-      "whetstone"
+      "bantam"
     ],
     "A03258-e124600": [
-      "bantam"
+      "whetstone"
     ],
     "A03258-e124620": [
       "arthur"
@@ -2649,11 +2629,8 @@
       "whetstone"
     ],
     "A03258-e124820": [
-      "spirits",
       "arthur",
-      "shakstone",
-      "mrs-generous",
-      "mall"
+      "whetstone"
     ],
     "A03258-e124840": [
       "bantam"
@@ -2707,7 +2684,7 @@
       "arthur"
     ],
     "A03258-e125310": [
-      "mall"
+      "mal"
     ],
     "A03258-e125330": [
       "mrs-generous"
@@ -2809,25 +2786,25 @@
       "mrs-generous"
     ],
     "A03258-e126360": [
-      "mall"
+      "mal"
     ],
     "A03258-e126380": [
       "mrs-generous"
     ],
     "A03258-e126400": [
-      "mall"
+      "mal"
     ],
     "A03258-e126430": [
       "mrs-generous"
     ],
     "A03258-e126450": [
-      "mall"
+      "mal"
     ],
     "A03258-e126470": [
       "mrs-generous"
     ],
     "A03258-e126490": [
-      "mall"
+      "mal"
     ],
     "A03258-e126510": [
       "mrs-generous"
@@ -2839,13 +2816,13 @@
       "generous"
     ],
     "A03258-e126790": [
-      "robin"
+      "robert"
     ],
     "A03258-e126810": [
       "generous"
     ],
     "A03258-e126910": [
-      "robin"
+      "robert"
     ],
     "A03258-e126930": [
       "generous"
@@ -2854,19 +2831,19 @@
       "arthur"
     ],
     "A03258-e127070": [
-      "robin"
+      "robert"
     ],
     "A03258-e127090": [
       "arthur"
     ],
     "A03258-e127130": [
-      "robin"
+      "robert"
     ],
     "A03258-e127150": [
       "arthur"
     ],
     "A03258-e127220": [
-      "robin"
+      "robert"
     ],
     "A03258-e127260": [
       "arthur"
@@ -2884,7 +2861,7 @@
       "arthur"
     ],
     "A03258-e127490": [
-      "robin"
+      "robert"
     ],
     "A03258-e127510": [
       "generous"
@@ -2908,7 +2885,7 @@
       "mrs-generous"
     ],
     "A03258-e127870": [
-      "mall"
+      "mal"
     ],
     "A03258-e127910": [
       "whetstone"
@@ -2917,7 +2894,7 @@
       "generous"
     ],
     "A03258-e127990": [
-      "mall"
+      "mal"
     ],
     "A03258-e128040": [
       "generous"
@@ -3122,19 +3099,19 @@
       "maud"
     ],
     "A03258-e130250": [
-      "peg"
+      "meg"
     ],
     "A03258-e130270": [
       "maud",
-      "peg",
-      "gillian",
-      "goody-dickieson"
+	  "meg",
+	  "gillian",
+	  "goody"
     ],
     "A03258-e130290": [
       "maud"
     ],
     "A03258-e130310": [
-      "peg"
+      "meg"
     ],
     "A03258-e130330": [
       "arthur"
@@ -3162,7 +3139,7 @@
       "boy"
     ],
     "A03258-e130490": [
-      "robin"
+      "robert"
     ],
     "A03258-e130510": [
       "miller"
@@ -3186,7 +3163,7 @@
       "parnell"
     ],
     "A03258-e130650": [
-      "mall"
+      "mal"
     ],
     "A03258-e130670": [
       "doughty"
@@ -3201,70 +3178,71 @@
       "maud"
     ],
     "A03258-e130770": [
-      "mall"
+      "mal"
     ],
     "A03258-e130790": [
       "arthur"
     ],
     "A03258-e130810": [
-      "peg"
+      "meg"
     ],
     "A03258-e130830": [
       "arthur"
     ],
     "A03258-e130850": [
-      "peg"
+      "meg"
     ],
     "A03258-e130870": [
-      "witches"
+      "maud",
+	  "gillian"
     ],
     "A03258-e130890": [
       "doughty"
     ],
     "A03258-e130920": [
-      "peg"
+      "meg"
     ],
     "A03258-e130940": [
       "doughty"
     ],
     "A03258-e130980": [
-      "peg"
+      "meg"
     ],
     "A03258-e131000": [
       "doughty"
     ],
     "A03258-e131020": [
-      "peg"
+      "meg"
     ],
     "A03258-e131040": [
       "doughty"
     ],
     "A03258-e131060": [
-      "peg"
+      "meg"
     ],
     "A03258-e131080": [
       "doughty"
     ],
     "A03258-e131100": [
-      "peg"
+      "meg"
     ],
     "A03258-e131120": [
       "doughty"
     ],
     "A03258-e131140": [
-      "peg"
+      "meg"
     ],
     "A03258-e131160": [
       "doughty"
     ],
     "A03258-e131180": [
-      "peg"
+      "meg"
     ],
     "A03258-e131200": [
       "doughty"
     ],
     "A03258-e131220": [
-      "peg"
+      "meg"
     ],
     "A03258-e131240": [
       "arthur"
@@ -3273,7 +3251,7 @@
       "doughty"
     ],
     "A03258-e131280": [
-      "peg"
+      "meg"
     ],
     "A03258-e131300": [
       "doughty"
@@ -3282,13 +3260,13 @@
       "generous"
     ],
     "A03258-e131370": [
-      "robin"
+      "robert"
     ],
     "A03258-e131390": [
-      "mall"
+      "mal"
     ],
     "A03258-e131410": [
-      "robin"
+      "robert"
     ],
     "A03258-e131440": [
       "doughty"

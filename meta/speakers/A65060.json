@@ -1,0 +1,3782 @@
+{
+  "particDesc": [
+    {
+      "name": "Justice",
+      "id": "justice",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Porter",
+      "id": "porter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Taylor",
+      "id": "taylor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Footman",
+      "id": "footman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lovewell",
+      "id": "lovewell",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "A Woman",
+      "id": "a-woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "A Man",
+      "id": "a-man",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Watchman",
+      "id": "watchman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "constant",
+      "name": "Constant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "heartfree",
+      "name": "Heartfree",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-john-brute",
+      "name": "Sir John Brute",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "treble",
+      "name": "Treble",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rasor",
+      "name": "Rasor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lord-rake",
+      "name": "Lord Rake ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "colonel-bully",
+      "name": "Colonel Bully",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "constable",
+      "name": "Constable ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lady-brute",
+      "name": "Lady Brute",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "bellinda",
+      "name": "Bellinda ",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lady-fancyfull",
+      "name": "Lady Fancyfull",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "madamoiselle",
+      "name": "Madamoiselle",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "cor",
+      "name": "Cor",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Pipe",
+      "id": "pipe",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A65060-e1000": [
+      "lady-brute"
+    ],
+    "A65060-e1030": [
+      "bellinda"
+    ],
+    "A65060-e1060": [
+      "lady-brute"
+    ],
+    "A65060-e1090": [
+      "bellinda"
+    ],
+    "A65060-e1120": [
+      "lady-brute"
+    ],
+    "A65060-e1150": [
+      "bellinda"
+    ],
+    "A65060-e1190": [
+      "lady-brute"
+    ],
+    "A65060-e1220": [
+      "bellinda"
+    ],
+    "A65060-e1250": [
+      "lady-brute"
+    ],
+    "A65060-e1280": [
+      "bellinda"
+    ],
+    "A65060-e1310": [
+      "lady-brute"
+    ],
+    "A65060-e1340": [
+      "bellinda"
+    ],
+    "A65060-e1370": [
+      "lady-brute"
+    ],
+    "A65060-e1420": [
+      "bellinda"
+    ],
+    "A65060-e1450": [
+      "lady-brute"
+    ],
+    "A65060-e1490": [
+      "bellinda"
+    ],
+    "A65060-e1520": [
+      "lady-brute"
+    ],
+    "A65060-e1560": [
+      "bellinda"
+    ],
+    "A65060-e1590": [
+      "lady-brute"
+    ],
+    "A65060-e1620": [
+      "bellinda"
+    ],
+    "A65060-e1650": [
+      "lady-brute"
+    ],
+    "A65060-e1690": [
+      "bellinda"
+    ],
+    "A65060-e1720": [
+      "lady-brute"
+    ],
+    "A65060-e1780": [
+      "bellinda"
+    ],
+    "A65060-e2530": [
+      "lady-brute"
+    ],
+    "A65060-e2570": [
+      "sir-john-brute"
+    ],
+    "A65060-e2600": [
+      "lady-brute"
+    ],
+    "A65060-e2630": [
+      "sir-john-brute"
+    ],
+    "A65060-e2660": [
+      "lady-brute"
+    ],
+    "A65060-e2690": [
+      "sir-john-brute"
+    ],
+    "A65060-e2720": [
+      "lady-brute"
+    ],
+    "A65060-e2750": [
+      "sir-john-brute"
+    ],
+    "A65060-e2780": [
+      "lady-brute"
+    ],
+    "A65060-e2810": [
+      "sir-john-brute"
+    ],
+    "A65060-e2840": [
+      "lady-brute"
+    ],
+    "A65060-e2870": [
+      "sir-john-brute"
+    ],
+    "A65060-e2900": [
+      "lady-brute"
+    ],
+    "A65060-e2930": [
+      "sir-john-brute"
+    ],
+    "A65060-e2960": [
+      "lady-brute"
+    ],
+    "A65060-e2990": [
+      "sir-john-brute"
+    ],
+    "A65060-e3020": [
+      "lady-brute"
+    ],
+    "A65060-e3050": [
+      "sir-john-brute"
+    ],
+    "A65060-e3080": [
+      "lady-brute"
+    ],
+    "A65060-e3110": [
+      "sir-john-brute"
+    ],
+    "A65060-e3260": [
+      "lady-brute"
+    ],
+    "A65060-e3290": [
+      "bellinda"
+    ],
+    "A65060-e3320": [
+      "lady-brute"
+    ],
+    "A65060-e3350": [
+      "bellinda"
+    ],
+    "A65060-e3380": [
+      "lady-brute"
+    ],
+    "A65060-e3410": [
+      "bellinda"
+    ],
+    "A65060-e3440": [
+      "lady-brute"
+    ],
+    "A65060-e3480": [
+      "bellinda"
+    ],
+    "A65060-e3510": [
+      "lady-brute"
+    ],
+    "A65060-e3540": [
+      "bellinda"
+    ],
+    "A65060-e3570": [
+      "lady-brute"
+    ],
+    "A65060-e3610": [
+      "bellinda"
+    ],
+    "A65060-e3640": [
+      "lady-brute"
+    ],
+    "A65060-e3690": [
+      "bellinda"
+    ],
+    "A65060-e3720": [
+      "lady-brute"
+    ],
+    "A65060-e3750": [
+      "bellinda"
+    ],
+    "A65060-e3780": [
+      "lady-brute"
+    ],
+    "A65060-e3810": [
+      "bellinda"
+    ],
+    "A65060-e3840": [
+      "lady-brute"
+    ],
+    "A65060-e3880": [
+      "bellinda"
+    ],
+    "A65060-e3910": [
+      "lady-brute"
+    ],
+    "A65060-e3940": [
+      "bellinda"
+    ],
+    "A65060-e3970": [
+      "lady-brute"
+    ],
+    "A65060-e4000": [
+      "bellinda"
+    ],
+    "A65060-e4030": [
+      "lady-brute"
+    ],
+    "A65060-e4060": [
+      "bellinda"
+    ],
+    "A65060-e4090": [
+      "lady-brute"
+    ],
+    "A65060-e4120": [
+      "bellinda"
+    ],
+    "A65060-e4150": [
+      "lady-brute"
+    ],
+    "A65060-e4180": [
+      "bellinda"
+    ],
+    "A65060-e4210": [
+      "lady-brute"
+    ],
+    "A65060-e4240": [
+      "bellinda"
+    ],
+    "A65060-e4270": [
+      "lady-brute"
+    ],
+    "A65060-e4300": [
+      "bellinda"
+    ],
+    "A65060-e4330": [
+      "lady-brute"
+    ],
+    "A65060-e4360": [
+      "bellinda"
+    ],
+    "A65060-e4390": [
+      "lady-brute"
+    ],
+    "A65060-e4430": [
+      "bellinda"
+    ],
+    "A65060-e4460": [
+      "lady-brute"
+    ],
+    "A65060-e4500": [
+      "bellinda"
+    ],
+    "A65060-e4530": [
+      "lady-brute"
+    ],
+    "A65060-e4580": [
+      "bellinda"
+    ],
+    "A65060-e4620": [
+      "lady-brute"
+    ],
+    "A65060-e4660": [
+      "bellinda"
+    ],
+    "A65060-e4690": [
+      "lady-brute"
+    ],
+    "A65060-e4720": [
+      "bellinda"
+    ],
+    "A65060-e4750": [
+      "lady-brute"
+    ],
+    "A65060-e4780": [
+      "bellinda"
+    ],
+    "A65060-e4810": [
+      "lady-brute"
+    ],
+    "A65060-e4840": [
+      "bellinda"
+    ],
+    "A65060-e4870": [
+      "lady-brute"
+    ],
+    "A65060-e4900": [
+      "bellinda"
+    ],
+    "A65060-e4930": [
+      "lady-brute"
+    ],
+    "A65060-e4960": [
+      "bellinda"
+    ],
+    "A65060-e4990": [
+      "lady-brute"
+    ],
+    "A65060-e5020": [
+      "bellinda"
+    ],
+    "A65060-e5050": [
+      "lady-brute"
+    ],
+    "A65060-e5100": [
+      "bellinda"
+    ],
+    "A65060-e5130": [
+      "lady-brute"
+    ],
+    "A65060-e5160": [
+      "bellinda"
+    ],
+    "A65060-e5190": [
+      "lady-brute"
+    ],
+    "A65060-e5270": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5300": [
+      "cor"
+    ],
+    "A65060-e5330": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5380": [
+      "madamoiselle"
+    ],
+    "A65060-e5410": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5450": [
+      "madamoiselle"
+    ],
+    "A65060-e5480": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5540": [
+      "madamoiselle"
+    ],
+    "A65060-e5570": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5600": [
+      "madamoiselle"
+    ],
+    "A65060-e5630": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5700": [
+      "madamoiselle"
+    ],
+    "A65060-e5730": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5770": [
+      "madamoiselle"
+    ],
+    "A65060-e5800": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5840": [
+      "madamoiselle"
+    ],
+    "A65060-e5880": [
+      "lady-fancyfull"
+    ],
+    "A65060-e5910": [
+      "madamoiselle"
+    ],
+    "A65060-e5950": [
+      "lady-fancyfull"
+    ],
+    "A65060-e6000": [
+      "madamoiselle"
+    ],
+    "A65060-e6050": [
+      "lady-fancyfull"
+    ],
+    "A65060-e6100": [
+      "madamoiselle"
+    ],
+    "A65060-e6150": [
+      "cor"
+    ],
+    "A65060-e6180": [
+      "lady-fancyfull"
+    ],
+    "A65060-e6520": [
+      "lady-fancyfull"
+    ],
+    "A65060-e6560": [
+      "madamoiselle"
+    ],
+    "A65060-e6600": [
+      "servant"
+    ],
+    "A65060-e6630": [
+      "lady-fancyfull"
+    ],
+    "A65060-e6680": [
+      "madamoiselle"
+    ],
+    "A65060-e6720": [
+      "lady-fancyfull"
+    ],
+    "A65060-e6820": [
+      "madamoiselle"
+    ],
+    "A65060-e6860": [
+      "lady-fancyfull"
+    ],
+    "A65060-e6900": [
+      "madamoiselle"
+    ],
+    "A65060-e6930": [
+      "lady-fancyfull"
+    ],
+    "A65060-e6960": [
+      "madamoiselle"
+    ],
+    "A65060-e6990": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7020": [
+      "madamoiselle"
+    ],
+    "A65060-e7060": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7100": [
+      "madamoiselle"
+    ],
+    "A65060-e7130": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7170": [
+      "madamoiselle"
+    ],
+    "A65060-e7200": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7230": [
+      "madamoiselle"
+    ],
+    "A65060-e7260": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7300": [
+      "madamoiselle"
+    ],
+    "A65060-e7330": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7370": [
+      "madamoiselle"
+    ],
+    "A65060-e7450": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7490": [
+      "madamoiselle"
+    ],
+    "A65060-e7520": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7550": [
+      "madamoiselle"
+    ],
+    "A65060-e7580": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7610": [
+      "madamoiselle"
+    ],
+    "A65060-e7640": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7670": [
+      "madamoiselle"
+    ],
+    "A65060-e7700": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7730": [
+      "madamoiselle"
+    ],
+    "A65060-e7760": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7790": [
+      "madamoiselle"
+    ],
+    "A65060-e7820": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7850": [
+      "madamoiselle"
+    ],
+    "A65060-e7880": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7910": [
+      "madamoiselle"
+    ],
+    "A65060-e7940": [
+      "lady-fancyfull"
+    ],
+    "A65060-e7980": [
+      "madamoiselle"
+    ],
+    "A65060-e8010": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8050": [
+      "madamoiselle"
+    ],
+    "A65060-e8080": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8110": [
+      "madamoiselle"
+    ],
+    "A65060-e8140": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8170": [
+      "madamoiselle"
+    ],
+    "A65060-e8300": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8370": [
+      "madamoiselle"
+    ],
+    "A65060-e8400": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8430": [
+      "heartfree"
+    ],
+    "A65060-e8460": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8500": [
+      "heartfree"
+    ],
+    "A65060-e8530": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8560": [
+      "heartfree"
+    ],
+    "A65060-e8590": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8620": [
+      "heartfree"
+    ],
+    "A65060-e8650": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8690": [
+      "heartfree"
+    ],
+    "A65060-e8720": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8750": [
+      "heartfree"
+    ],
+    "A65060-e8780": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8810": [
+      "heartfree"
+    ],
+    "A65060-e8840": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8870": [
+      "heartfree"
+    ],
+    "A65060-e8900": [
+      "lady-fancyfull"
+    ],
+    "A65060-e8930": [
+      "heartfree"
+    ],
+    "A65060-e8960": [
+      "lady-fancyfull"
+    ],
+    "A65060-e9000": [
+      "madamoiselle"
+    ],
+    "A65060-e9030": [
+      "heartfree"
+    ],
+    "A65060-e9070": [
+      "lady-fancyfull"
+    ],
+    "A65060-e9100": [
+      "heartfree"
+    ],
+    "A65060-e9130": [
+      "lady-fancyfull"
+    ],
+    "A65060-e9160": [
+      "heartfree"
+    ],
+    "A65060-e9190": [
+      "lady-fancyfull"
+    ],
+    "A65060-e9220": [
+      "heartfree"
+    ],
+    "A65060-e9250": [
+      "madamoiselle"
+    ],
+    "A65060-e9300": [
+      "lady-fancyfull"
+    ],
+    "A65060-e9350": [
+      "heartfree"
+    ],
+    "A65060-e9380": [
+      "lady-fancyfull"
+    ],
+    "A65060-e9410": [
+      "heartfree"
+    ],
+    "A65060-e9440": [
+      "lady-fancyfull"
+    ],
+    "A65060-e9470": [
+      "madamoiselle"
+    ],
+    "A65060-e9530": [
+      "heartfree"
+    ],
+    "A65060-e9630": [
+      "constant"
+    ],
+    "A65060-e9670": [
+      "heartfree"
+    ],
+    "A65060-e9720": [
+      "constant"
+    ],
+    "A65060-e9750": [
+      "heartfree"
+    ],
+    "A65060-e9790": [
+      "constant"
+    ],
+    "A65060-e9820": [
+      "heartfree"
+    ],
+    "A65060-e9850": [
+      "constant"
+    ],
+    "A65060-e9880": [
+      "heartfree"
+    ],
+    "A65060-e9920": [
+      "constant"
+    ],
+    "A65060-e9960": [
+      "heartfree"
+    ],
+    "A65060-e9990": [
+      "constant"
+    ],
+    "A65060-e10020": [
+      "heartfree"
+    ],
+    "A65060-e10050": [
+      "constant"
+    ],
+    "A65060-e10080": [
+      "heartfree"
+    ],
+    "A65060-e10110": [
+      "constant"
+    ],
+    "A65060-e10140": [
+      "heartfree"
+    ],
+    "A65060-e10170": [
+      "constant"
+    ],
+    "A65060-e10200": [
+      "heartfree"
+    ],
+    "A65060-e10250": [
+      "constant"
+    ],
+    "A65060-e10280": [
+      "heartfree"
+    ],
+    "A65060-e10330": [
+      "constant"
+    ],
+    "A65060-e10360": [
+      "heartfree"
+    ],
+    "A65060-e10400": [
+      "constant"
+    ],
+    "A65060-e10430": [
+      "heartfree"
+    ],
+    "A65060-e10460": [
+      "constant"
+    ],
+    "A65060-e10490": [
+      "heartfree"
+    ],
+    "A65060-e10520": [
+      "constant"
+    ],
+    "A65060-e10550": [
+      "heartfree"
+    ],
+    "A65060-e10580": [
+      "constant"
+    ],
+    "A65060-e10630": [
+      "heartfree"
+    ],
+    "A65060-e10660": [
+      "constant"
+    ],
+    "A65060-e10690": [
+      "heartfree"
+    ],
+    "A65060-e10720": [
+      "constant"
+    ],
+    "A65060-e10750": [
+      "heartfree"
+    ],
+    "A65060-e10780": [
+      "constant"
+    ],
+    "A65060-e10810": [
+      "heartfree"
+    ],
+    "A65060-e10840": [
+      "constant"
+    ],
+    "A65060-e10870": [
+      "heartfree"
+    ],
+    "A65060-e10930": [
+      "constant"
+    ],
+    "A65060-e10960": [
+      "heartfree"
+    ],
+    "A65060-e11030": [
+      "heartfree"
+    ],
+    "A65060-e11070": [
+      "sir-john-brute"
+    ],
+    "A65060-e11110": [
+      "heartfree"
+    ],
+    "A65060-e11140": [
+      "sir-john-brute"
+    ],
+    "A65060-e11180": [
+      "constant"
+    ],
+    "A65060-e11210": [
+      "sir-john-brute"
+    ],
+    "A65060-e11250": [
+      "constant"
+    ],
+    "A65060-e11280": [
+      "sir-john-brute"
+    ],
+    "A65060-e11320": [
+      "constant"
+    ],
+    "A65060-e11370": [
+      "sir-john-brute"
+    ],
+    "A65060-e11410": [
+      "heartfree"
+    ],
+    "A65060-e11440": [
+      "sir-john-brute"
+    ],
+    "A65060-e11480": [
+      "heartfree"
+    ],
+    "A65060-e11510": [
+      "sir-john-brute"
+    ],
+    "A65060-e11550": [
+      "heartfree"
+    ],
+    "A65060-e11580": [
+      "sir-john-brute"
+    ],
+    "A65060-e11620": [
+      "heartfree"
+    ],
+    "A65060-e11650": [
+      "sir-john-brute"
+    ],
+    "A65060-e11690": [
+      "constant"
+    ],
+    "A65060-e11720": [
+      "sir-john-brute"
+    ],
+    "A65060-e11760": [
+      "heartfree"
+    ],
+    "A65060-e11790": [
+      "sir-john-brute"
+    ],
+    "A65060-e11830": [
+      "heartfree"
+    ],
+    "A65060-e11860": [
+      "sir-john-brute"
+    ],
+    "A65060-e11900": [
+      "heartfree"
+    ],
+    "A65060-e11930": [
+      "sir-john-brute"
+    ],
+    "A65060-e11980": [
+      "constant"
+    ],
+    "A65060-e12010": [
+      "sir-john-brute"
+    ],
+    "A65060-e12070": [
+      "constant"
+    ],
+    "A65060-e12100": [
+      "sir-john-brute"
+    ],
+    "A65060-e12150": [
+      "constant"
+    ],
+    "A65060-e12190": [
+      "sir-john-brute"
+    ],
+    "A65060-e12230": [
+      "constant"
+    ],
+    "A65060-e12260": [
+      "sir-john-brute"
+    ],
+    "A65060-e12300": [
+      "constant"
+    ],
+    "A65060-e12330": [
+      "sir-john-brute"
+    ],
+    "A65060-e12370": [
+      "constant"
+    ],
+    "A65060-e12400": [
+      "sir-john-brute"
+    ],
+    "A65060-e12440": [
+      "constant"
+    ],
+    "A65060-e12470": [
+      "sir-john-brute"
+    ],
+    "A65060-e12520": [
+      "heartfree"
+    ],
+    "A65060-e12560": [
+      "sir-john-brute"
+    ],
+    "A65060-e12600": [
+      "constant"
+    ],
+    "A65060-e12630": [
+      "sir-john-brute"
+    ],
+    "A65060-e12670": [
+      "constant"
+    ],
+    "A65060-e12700": [
+      "sir-john-brute"
+    ],
+    "A65060-e12740": [
+      "heartfree"
+    ],
+    "A65060-e12770": [
+      "constant"
+    ],
+    "A65060-e12800": [
+      "sir-john-brute"
+    ],
+    "A65060-e12880": [
+      "constant"
+    ],
+    "A65060-e12910": [
+      "heartfree"
+    ],
+    "A65060-e12950": [
+      "cor"
+    ],
+    "A65060-e12980": [
+      "heartfree"
+    ],
+    "A65060-e13090": [
+      "lady-fancyfull"
+    ],
+    "A65060-e13120": [
+      "madamoiselle"
+    ],
+    "A65060-e13150": [
+      "lady-fancyfull"
+    ],
+    "A65060-e13210": [
+      "cor"
+    ],
+    "A65060-e13250": [
+      "lady-fancyfull"
+    ],
+    "A65060-e13330": [
+      "treble"
+    ],
+    "A65060-e13360": [
+      "lady-fancyfull"
+    ],
+    "A65060-e13400": [
+      "treble"
+    ],
+    "A65060-e13430": [
+      "lady-fancyfull"
+    ],
+    "A65060-e13470": [
+      "treble"
+    ],
+    "A65060-e13550": [
+      "a-man"
+    ],
+    "A65060-e13590": [
+      "a-woman"
+    ],
+    "A65060-e13630": [
+      "a-man"
+    ],
+    "A65060-e13670": [
+      "a-woman"
+    ],
+    "A65060-e13710": [
+      "treble"
+    ],
+    "A65060-e13740": [
+      "lady-fancyfull"
+    ],
+    "A65060-e13800": [
+      "treble"
+    ],
+    "A65060-e13830": [
+      "lady-fancyfull"
+    ],
+    "A65060-e13870": [
+      "treble"
+    ],
+    "A65060-e13910": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14120": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14160": [
+      "treble"
+    ],
+    "A65060-e14190": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14230": [
+      "treble"
+    ],
+    "A65060-e14260": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14300": [
+      "treble"
+    ],
+    "A65060-e14330": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14390": [
+      "treble"
+    ],
+    "A65060-e14420": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14460": [
+      "treble"
+    ],
+    "A65060-e14490": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14530": [
+      "treble"
+    ],
+    "A65060-e14580": [
+      "servant"
+    ],
+    "A65060-e14620": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14690": [
+      "madamoiselle"
+    ],
+    "A65060-e14720": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14760": [
+      "madamoiselle"
+    ],
+    "A65060-e14790": [
+      "lady-fancyfull"
+    ],
+    "A65060-e14990": [
+      "madamoiselle"
+    ],
+    "A65060-e15100": [
+      "sir-john-brute"
+    ],
+    "A65060-e15150": [
+      "lady-brute"
+    ],
+    "A65060-e15190": [
+      "sir-john-brute"
+    ],
+    "A65060-e15230": [
+      "bellinda"
+    ],
+    "A65060-e15280": [
+      "lady-brute"
+    ],
+    "A65060-e15320": [
+      "bellinda"
+    ],
+    "A65060-e15350": [
+      "lady-brute"
+    ],
+    "A65060-e15380": [
+      "bellinda"
+    ],
+    "A65060-e15440": [
+      "lovewell"
+    ],
+    "A65060-e15470": [
+      "lady-brute"
+    ],
+    "A65060-e15530": [
+      "sir-john-brute"
+    ],
+    "A65060-e15570": [
+      "lovewell"
+    ],
+    "A65060-e15600": [
+      "bellinda"
+    ],
+    "A65060-e15630": [
+      "sir-john-brute"
+    ],
+    "A65060-e15680": [
+      "lady-brute"
+    ],
+    "A65060-e15730": [
+      "sir-john-brute"
+    ],
+    "A65060-e15780": [
+      "lady-brute"
+    ],
+    "A65060-e15820": [
+      "bellinda"
+    ],
+    "A65060-e15850": [
+      "lady-brute"
+    ],
+    "A65060-e15880": [
+      "sir-john-brute"
+    ],
+    "A65060-e15920": [
+      "lady-brute"
+    ],
+    "A65060-e15970": [
+      "bellinda"
+    ],
+    "A65060-e16010": [
+      "lady-brute"
+    ],
+    "A65060-e16040": [
+      "sir-john-brute"
+    ],
+    "A65060-e16080": [
+      "bellinda"
+    ],
+    "A65060-e16110": [
+      "lady-brute"
+    ],
+    "A65060-e16160": [
+      "bellinda"
+    ],
+    "A65060-e16190": [
+      "lady-brute"
+    ],
+    "A65060-e16220": [
+      "bellinda"
+    ],
+    "A65060-e16250": [
+      "lady-brute"
+    ],
+    "A65060-e16280": [
+      "bellinda"
+    ],
+    "A65060-e16330": [
+      "lady-brute"
+    ],
+    "A65060-e16360": [
+      "bellinda"
+    ],
+    "A65060-e16390": [
+      "lady-brute"
+    ],
+    "A65060-e16420": [
+      "bellinda"
+    ],
+    "A65060-e16500": [
+      "sir-john-brute"
+    ],
+    "A65060-e16540": [
+      "lady-brute"
+    ],
+    "A65060-e16600": [
+      "sir-john-brute"
+    ],
+    "A65060-e16640": [
+      "constant"
+    ],
+    "A65060-e16680": [
+      "sir-john-brute"
+    ],
+    "A65060-e16720": [
+      "heartfree"
+    ],
+    "A65060-e16750": [
+      "sir-john-brute"
+    ],
+    "A65060-e16790": [
+      "constant"
+    ],
+    "A65060-e16820": [
+      "sir-john-brute"
+    ],
+    "A65060-e16860": [
+      "constant"
+    ],
+    "A65060-e16890": [
+      "sir-john-brute"
+    ],
+    "A65060-e16940": [
+      "constant"
+    ],
+    "A65060-e16970": [
+      "sir-john-brute"
+    ],
+    "A65060-e17010": [
+      "heartfree"
+    ],
+    "A65060-e17040": [
+      "sir-john-brute"
+    ],
+    "A65060-e17080": [
+      "constant"
+    ],
+    "A65060-e17110": [
+      "sir-john-brute"
+    ],
+    "A65060-e17160": [
+      "heartfree"
+    ],
+    "A65060-e17190": [
+      "sir-john-brute"
+    ],
+    "A65060-e17230": [
+      "constant"
+    ],
+    "A65060-e17260": [
+      "heartfree"
+    ],
+    "A65060-e17290": [
+      "sir-john-brute"
+    ],
+    "A65060-e17330": [
+      "constant"
+    ],
+    "A65060-e17360": [
+      "sir-john-brute"
+    ],
+    "A65060-e17400": [
+      "constant"
+    ],
+    "A65060-e17430": [
+      "sir-john-brute"
+    ],
+    "A65060-e17500": [
+      "heartfree"
+    ],
+    "A65060-e17530": [
+      "constant"
+    ],
+    "A65060-e17560": [
+      "sir-john-brute"
+    ],
+    "A65060-e17600": [
+      "constant"
+    ],
+    "A65060-e17630": [
+      "sir-john-brute"
+    ],
+    "A65060-e17670": [
+      "heartfree"
+    ],
+    "A65060-e17750": [
+      "sir-john-brute"
+    ],
+    "A65060-e17790": [
+      "heartfree"
+    ],
+    "A65060-e17820": [
+      "sir-john-brute"
+    ],
+    "A65060-e17860": [
+      "heartfree"
+    ],
+    "A65060-e17920": [
+      "constant"
+    ],
+    "A65060-e17950": [
+      "heartfree"
+    ],
+    "A65060-e17980": [
+      "sir-john-brute"
+    ],
+    "A65060-e18020": [
+      "constant"
+    ],
+    "A65060-e18050": [
+      "sir-john-brute"
+    ],
+    "A65060-e18090": [
+      "constant"
+    ],
+    "A65060-e18120": [
+      "heartfree"
+    ],
+    "A65060-e18150": [
+      "sir-john-brute"
+    ],
+    "A65060-e18220": [
+      "constant"
+    ],
+    "A65060-e18250": [
+      "heartfree"
+    ],
+    "A65060-e18280": [
+      "constant"
+    ],
+    "A65060-e18340": [
+      "heartfree"
+    ],
+    "A65060-e18370": [
+      "constant"
+    ],
+    "A65060-e18400": [
+      "heartfree"
+    ],
+    "A65060-e18430": [
+      "lady-brute"
+    ],
+    "A65060-e18460": [
+      "bellinda"
+    ],
+    "A65060-e18490": [
+      "heartfree"
+    ],
+    "A65060-e18520": [
+      "constant"
+    ],
+    "A65060-e18550": [
+      "lady-brute"
+    ],
+    "A65060-e18590": [
+      "constant"
+    ],
+    "A65060-e18620": [
+      "lady-brute"
+    ],
+    "A65060-e18660": [
+      "heartfree"
+    ],
+    "A65060-e18700": [
+      "bellinda"
+    ],
+    "A65060-e18730": [
+      "heartfree"
+    ],
+    "A65060-e18760": [
+      "bellinda"
+    ],
+    "A65060-e18800": [
+      "heartfree"
+    ],
+    "A65060-e18830": [
+      "constant"
+    ],
+    "A65060-e18860": [
+      "bellinda"
+    ],
+    "A65060-e18890": [
+      "heartfree"
+    ],
+    "A65060-e18920": [
+      "bellinda"
+    ],
+    "A65060-e18950": [
+      "heartfree"
+    ],
+    "A65060-e18980": [
+      "lady-brute"
+    ],
+    "A65060-e19010": [
+      "heartfree"
+    ],
+    "A65060-e19040": [
+      "lady-brute"
+    ],
+    "A65060-e19070": [
+      "heartfree"
+    ],
+    "A65060-e19100": [
+      "bellinda"
+    ],
+    "A65060-e19130": [
+      "lady-brute"
+    ],
+    "A65060-e19160": [
+      "heartfree"
+    ],
+    "A65060-e19190": [
+      "bellinda"
+    ],
+    "A65060-e19220": [
+      "heartfree"
+    ],
+    "A65060-e19250": [
+      "bellinda"
+    ],
+    "A65060-e19300": [
+      "footman"
+    ],
+    "A65060-e19340": [
+      "lady-brute"
+    ],
+    "A65060-e19420": [
+      "lady-fancyfull"
+    ],
+    "A65060-e19470": [
+      "lady-brute"
+    ],
+    "A65060-e19500": [
+      "lady-fancyfull"
+    ],
+    "A65060-e19540": [
+      "heartfree"
+    ],
+    "A65060-e19570": [
+      "lady-fancyfull"
+    ],
+    "A65060-e19600": [
+      "heartfree"
+    ],
+    "A65060-e19630": [
+      "lady-fancyfull"
+    ],
+    "A65060-e19660": [
+      "constant"
+    ],
+    "A65060-e19690": [
+      "lady-fancyfull"
+    ],
+    "A65060-e19770": [
+      "heartfree"
+    ],
+    "A65060-e19840": [
+      "lady-fancyfull"
+    ],
+    "A65060-e19870": [
+      "heartfree"
+    ],
+    "A65060-e19900": [
+      "lady-fancyfull"
+    ],
+    "A65060-e19930": [
+      "bellinda"
+    ],
+    "A65060-e19990": [
+      "lady-fancyfull"
+    ],
+    "A65060-e20020": [
+      "heartfree"
+    ],
+    "A65060-e20050": [
+      "lady-fancyfull"
+    ],
+    "A65060-e20090": [
+      "bellinda"
+    ],
+    "A65060-e20120": [
+      "heartfree"
+    ],
+    "A65060-e20160": [
+      "bellinda"
+    ],
+    "A65060-e20220": [
+      "lady-fancyfull"
+    ],
+    "A65060-e20330": [
+      "heartfree"
+    ],
+    "A65060-e20360": [
+      "lady-fancyfull"
+    ],
+    "A65060-e20390": [
+      "heartfree"
+    ],
+    "A65060-e20440": [
+      "lady-fancyfull"
+    ],
+    "A65060-e20490": [
+      "lady-brute"
+    ],
+    "A65060-e20520": [
+      "heartfree"
+    ],
+    "A65060-e20570": [
+      "lady-fancyfull"
+    ],
+    "A65060-e20620": [
+      "lady-brute"
+    ],
+    "A65060-e20650": [
+      "heartfree"
+    ],
+    "A65060-e20700": [
+      "constant"
+    ],
+    "A65060-e20730": [
+      "heartfree"
+    ],
+    "A65060-e20760": [
+      "constant"
+    ],
+    "A65060-e20820": [
+      "heartfree"
+    ],
+    "A65060-e20890": [
+      "bellinda"
+    ],
+    "A65060-e20920": [
+      "lady-fancyfull"
+    ],
+    "A65060-e21030": [
+      "lady-brute"
+    ],
+    "A65060-e21060": [
+      "lady-fancyfull"
+    ],
+    "A65060-e21090": [
+      "bellinda"
+    ],
+    "A65060-e21170": [
+      "lady-brute"
+    ],
+    "A65060-e21200": [
+      "lady-fancyfull"
+    ],
+    "A65060-e21240": [
+      "lady-brute"
+    ],
+    "A65060-e21270": [
+      "lady-fancyfull"
+    ],
+    "A65060-e21300": [
+      "lady-brute"
+    ],
+    "A65060-e21330": [
+      "lady-fancyfull"
+    ],
+    "A65060-e21360": [
+      "lady-brute"
+    ],
+    "A65060-e21390": [
+      "lady-fancyfull"
+    ],
+    "A65060-e21420": [
+      "lady-brute"
+    ],
+    "A65060-e21450": [
+      "lady-fancyfull"
+    ],
+    "A65060-e21580": [
+      "constant"
+    ],
+    "A65060-e21610": [
+      "lady-brute"
+    ],
+    "A65060-e21640": [
+      "constant"
+    ],
+    "A65060-e21670": [
+      "lady-brute"
+    ],
+    "A65060-e21700": [
+      "constant"
+    ],
+    "A65060-e21730": [
+      "lady-brute"
+    ],
+    "A65060-e21760": [
+      "constant"
+    ],
+    "A65060-e21790": [
+      "lady-brute"
+    ],
+    "A65060-e21820": [
+      "constant"
+    ],
+    "A65060-e21850": [
+      "lady-brute"
+    ],
+    "A65060-e21880": [
+      "constant"
+    ],
+    "A65060-e21910": [
+      "lady-brute"
+    ],
+    "A65060-e21940": [
+      "constant"
+    ],
+    "A65060-e21970": [
+      "lady-brute"
+    ],
+    "A65060-e22000": [
+      "constant"
+    ],
+    "A65060-e22030": [
+      "lady-brute"
+    ],
+    "A65060-e22060": [
+      "constant"
+    ],
+    "A65060-e22090": [
+      "lady-brute"
+    ],
+    "A65060-e22120": [
+      "constant"
+    ],
+    "A65060-e22150": [
+      "lady-brute"
+    ],
+    "A65060-e22180": [
+      "constant"
+    ],
+    "A65060-e22240": [
+      "lady-brute"
+    ],
+    "A65060-e22270": [
+      "constant"
+    ],
+    "A65060-e22300": [
+      "lady-brute"
+    ],
+    "A65060-e22330": [
+      "constant"
+    ],
+    "A65060-e22360": [
+      "lady-brute"
+    ],
+    "A65060-e22400": [
+      "constant"
+    ],
+    "A65060-e22430": [
+      "lady-brute"
+    ],
+    "A65060-e22460": [
+      "constant"
+    ],
+    "A65060-e22490": [
+      "lady-brute"
+    ],
+    "A65060-e22520": [
+      "constant"
+    ],
+    "A65060-e22550": [
+      "lady-brute"
+    ],
+    "A65060-e22580": [
+      "constant"
+    ],
+    "A65060-e22610": [
+      "lady-brute"
+    ],
+    "A65060-e22640": [
+      "constant"
+    ],
+    "A65060-e22670": [
+      "lady-brute"
+    ],
+    "A65060-e22700": [
+      "constant"
+    ],
+    "A65060-e22730": [
+      "lady-brute"
+    ],
+    "A65060-e22760": [
+      "constant"
+    ],
+    "A65060-e22790": [
+      "lady-brute"
+    ],
+    "A65060-e22840": [
+      "constant"
+    ],
+    "A65060-e22880": [
+      "lady-brute"
+    ],
+    "A65060-e22910": [
+      "constant"
+    ],
+    "A65060-e22950": [
+      "lady-brute"
+    ],
+    "A65060-e23080": [
+      "heartfree"
+    ],
+    "A65060-e23110": [
+      "constant"
+    ],
+    "A65060-e23140": [
+      "heartfree"
+    ],
+    "A65060-e23170": [
+      "constant"
+    ],
+    "A65060-e23210": [
+      "heartfree"
+    ],
+    "A65060-e23240": [
+      "constant"
+    ],
+    "A65060-e23320": [
+      "lord-rake",
+	  "sir-john-brute",
+	  "colonel-bully"
+    ],
+    "A65060-e23350": [
+      "lord-rake"
+    ],
+    "A65060-e23380": [
+      "lord-rake",
+	  "sir-john-brute",
+	  "colonel-bully"
+    ],
+    "A65060-e23410": [
+      "lord-rake"
+    ],
+    "A65060-e23440": [
+      "sir-john-brute"
+    ],
+    "A65060-e23480": [
+      "colonel-bully"
+    ],
+    "A65060-e23510": [
+      "sir-john-brute"
+    ],
+    "A65060-e23900": [
+      "lord-rake"
+    ],
+    "A65060-e23930": [
+	  "sir-john-brute",
+	  "colonel-bully"
+    ],
+    "A65060-e23960": [
+      "sir-john-brute"
+    ],
+    "A65060-e24000": [
+      "lord-rake"
+    ],
+    "A65060-e24040": [
+      "page"
+    ],
+    "A65060-e24090": [
+      "lord-rake"
+    ],
+    "A65060-e24140": [
+      "sir-john-brute"
+    ],
+    "A65060-e24180": [
+      "lord-rake"
+    ],
+    "A65060-e24210": [
+      "sir-john-brute"
+    ],
+    "A65060-e24270": [
+	  "sir-john-brute",
+	  "colonel-bully",
+	  "lord-rake"
+    ],
+    "A65060-e24320": [
+      "lord-rake"
+    ],
+    "A65060-e24350": [
+      "page"
+    ],
+    "A65060-e24380": [
+      "lord-rake"
+    ],
+    "A65060-e24410": [
+      "colonel-bully"
+    ],
+    "A65060-e24450": [
+      "sir-john-brute"
+    ],
+    "A65060-e24510": [
+      "colonel-bully"
+    ],
+    "A65060-e24550": [
+      "sir-john-brute"
+    ],
+    "A65060-e24610": [
+      "colonel-bully"
+    ],
+    "A65060-e24650": [
+      "sir-john-brute"
+    ],
+    "A65060-e24700": [
+      "lord-rake"
+    ],
+    "A65060-e24730": [
+      "sir-john-brute"
+    ],
+    "A65060-e24820": [
+	  "sir-john-brute",
+	  "colonel-bully",
+	  "lord-rake"
+    ],
+    "A65060-e24890": [
+      "lady-brute"
+    ],
+    "A65060-e24930": [
+      "bellinda"
+    ],
+    "A65060-e24960": [
+      "lady-brute"
+    ],
+    "A65060-e25000": [
+      "bellinda"
+    ],
+    "A65060-e25040": [
+      "lady-brute"
+    ],
+    "A65060-e25080": [
+      "bellinda"
+    ],
+    "A65060-e25110": [
+      "lady-brute"
+    ],
+    "A65060-e25140": [
+      "bellinda"
+    ],
+    "A65060-e25180": [
+      "lady-brute"
+    ],
+    "A65060-e25210": [
+      "bellinda"
+    ],
+    "A65060-e25240": [
+      "lady-brute"
+    ],
+    "A65060-e25270": [
+      "bellinda"
+    ],
+    "A65060-e25300": [
+      "lady-brute"
+    ],
+    "A65060-e25340": [
+      "bellinda"
+    ],
+    "A65060-e25380": [
+      "lady-brute"
+    ],
+    "A65060-e25410": [
+      "bellinda"
+    ],
+    "A65060-e25440": [
+      "lady-brute"
+    ],
+    "A65060-e25470": [
+      "bellinda"
+    ],
+    "A65060-e25510": [
+      "lady-brute"
+    ],
+    "A65060-e25550": [
+      "bellinda"
+    ],
+    "A65060-e25590": [
+      "lady-brute"
+    ],
+    "A65060-e25620": [
+      "bellinda",
+      "lady-brute"
+    ],
+    "A65060-e25650": [
+      "bellinda"
+    ],
+    "A65060-e25680": [
+      "lady-brute"
+    ],
+    "A65060-e25710": [
+      "bellinda"
+    ],
+    "A65060-e25740": [
+      "lady-brute"
+    ],
+    "A65060-e25770": [
+      "bellinda"
+    ],
+    "A65060-e25800": [
+      "lady-brute"
+    ],
+    "A65060-e25830": [
+      "bellinda"
+    ],
+    "A65060-e25860": [
+      "lady-brute"
+    ],
+    "A65060-e25910": [
+      "bellinda"
+    ],
+    "A65060-e25940": [
+      "lady-brute"
+    ],
+    "A65060-e25970": [
+      "bellinda"
+    ],
+    "A65060-e26000": [
+      "lady-brute"
+    ],
+    "A65060-e26030": [
+      "bellinda"
+    ],
+    "A65060-e26060": [
+      "lady-brute"
+    ],
+    "A65060-e26090": [
+      "bellinda"
+    ],
+    "A65060-e26120": [
+      "lady-brute"
+    ],
+    "A65060-e26150": [
+      "bellinda"
+    ],
+    "A65060-e26190": [
+      "lady-brute"
+    ],
+    "A65060-e26240": [
+      "bellinda"
+    ],
+    "A65060-e26270": [
+      "lady-brute"
+    ],
+    "A65060-e26300": [
+      "bellinda"
+    ],
+    "A65060-e26330": [
+      "lady-brute"
+    ],
+    "A65060-e26370": [
+      "bellinda"
+    ],
+    "A65060-e26400": [
+      "lady-brute"
+    ],
+    "A65060-e26440": [
+      "bellinda"
+    ],
+    "A65060-e26480": [
+      "lady-brute"
+    ],
+    "A65060-e26520": [
+      "bellinda"
+    ],
+    "A65060-e26570": [
+      "lady-brute"
+    ],
+    "A65060-e26600": [
+      "bellinda"
+    ],
+    "A65060-e26630": [
+      "lady-brute"
+    ],
+    "A65060-e26660": [
+      "bellinda"
+    ],
+    "A65060-e26690": [
+      "lady-brute"
+    ],
+    "A65060-e26730": [
+      "bellinda"
+    ],
+    "A65060-e26760": [
+      "lady-brute"
+    ],
+    "A65060-e26900": [
+      "lord-rake"
+    ],
+    "A65060-e26940": [
+      "colonel-bully"
+    ],
+    "A65060-e26970": [
+      "lord-rake"
+    ],
+    "A65060-e27010": [
+      "colonel-bully"
+    ],
+    "A65060-e27040": [
+      "lord-rake"
+    ],
+    "A65060-e27080": [
+      "sir-john-brute"
+    ],
+    "A65060-e27130": [
+      "colonel-bully"
+    ],
+    "A65060-e27160": [
+      "taylor"
+    ],
+    "A65060-e27190": [
+      "lord-rake"
+    ],
+    "A65060-e27230": [
+      "sir-john-brute"
+    ],
+    "A65060-e27280": [
+      "taylor"
+    ],
+    "A65060-e27310": [
+      "sir-john-brute"
+    ],
+    "A65060-e27350": [
+      "taylor"
+    ],
+    "A65060-e27380": [
+      "sir-john-brute"
+    ],
+    "A65060-e27420": [
+      "lord-rake"
+    ],
+    "A65060-e27460": [
+      "taylor"
+    ],
+    "A65060-e27490": [
+      "lord-rake"
+    ],
+    "A65060-e27530": [
+      "sir-john-brute"
+    ],
+    "A65060-e27570": [
+      "lord-rake"
+    ],
+    "A65060-e27610": [
+      "sir-john-brute"
+    ],
+    "A65060-e27660": [
+      "taylor"
+    ],
+    "A65060-e27690": [
+      "sir-john-brute"
+    ],
+    "A65060-e27730": [
+      "taylor"
+    ],
+    "A65060-e27790": [
+      "sir-john-brute"
+    ],
+    "A65060-e27830": [
+      "lord-rake"
+    ],
+    "A65060-e27880": [
+      "watchman"
+    ],
+    "A65060-e27910": [
+      "sir-john-brute"
+    ],
+    "A65060-e27950": [
+      "watchman"
+    ],
+    "A65060-e27980": [
+      "constable"
+    ],
+    "A65060-e28010": [
+      "sir-john-brute"
+    ],
+    "A65060-e28090": [
+      "constable"
+    ],
+    "A65060-e28120": [
+      "sir-john-brute"
+    ],
+    "A65060-e28160": [
+      "watchman"
+    ],
+    "A65060-e28190": [
+      "sir-john-brute"
+    ],
+    "A65060-e28230": [
+      "watchman"
+    ],
+    "A65060-e28260": [
+      "sir-john-brute"
+    ],
+    "A65060-e28300": [
+      "watchman"
+    ],
+    "A65060-e28330": [
+      "constable"
+    ],
+    "A65060-e28360": [
+      "sir-john-brute"
+    ],
+    "A65060-e28610": [
+      "constant"
+    ],
+    "A65060-e28650": [
+      "heartfree"
+    ],
+    "A65060-e28690": [
+      "constant"
+    ],
+    "A65060-e28730": [
+      "heartfree"
+    ],
+    "A65060-e28760": [
+      "constant"
+    ],
+    "A65060-e28790": [
+      "heartfree"
+    ],
+    "A65060-e28820": [
+      "constant"
+    ],
+    "A65060-e28850": [
+      "heartfree"
+    ],
+    "A65060-e28890": [
+      "constant"
+    ],
+    "A65060-e28930": [
+      "heartfree"
+    ],
+    "A65060-e28970": [
+      "constant"
+    ],
+    "A65060-e29020": [
+      "heartfree"
+    ],
+    "A65060-e29060": [
+      "constant"
+    ],
+    "A65060-e29090": [
+      "heartfree"
+    ],
+    "A65060-e29120": [
+      "constant"
+    ],
+    "A65060-e29150": [
+      "heartfree"
+    ],
+    "A65060-e29180": [
+      "constant"
+    ],
+    "A65060-e29220": [
+      "heartfree"
+    ],
+    "A65060-e29250": [
+      "constant"
+    ],
+    "A65060-e29280": [
+      "heartfree"
+    ],
+    "A65060-e29320": [
+      "constant"
+    ],
+    "A65060-e29350": [
+      "heartfree"
+    ],
+    "A65060-e29380": [
+      "constant"
+    ],
+    "A65060-e29410": [
+      "heartfree"
+    ],
+    "A65060-e29480": [
+      "constant"
+    ],
+    "A65060-e29530": [
+      "heartfree"
+    ],
+    "A65060-e29570": [
+      "constant"
+    ],
+    "A65060-e29610": [
+      "heartfree"
+    ],
+    "A65060-e29660": [
+      "constant"
+    ],
+    "A65060-e29690": [
+      "heartfree"
+    ],
+    "A65060-e29720": [
+      "constant"
+    ],
+    "A65060-e29750": [
+      "heartfree"
+    ],
+    "A65060-e29780": [
+      "constant"
+    ],
+    "A65060-e29820": [
+      "heartfree"
+    ],
+    "A65060-e29850": [
+      "constant"
+    ],
+    "A65060-e29880": [
+      "heartfree"
+    ],
+    "A65060-e29910": [
+      "constant"
+    ],
+    "A65060-e29940": [
+      "heartfree"
+    ],
+    "A65060-e29970": [
+      "constant"
+    ],
+    "A65060-e30000": [
+      "heartfree"
+    ],
+    "A65060-e30030": [
+      "constant"
+    ],
+    "A65060-e30080": [
+      "constant"
+    ],
+    "A65060-e30120": [
+      "constant"
+    ],
+    "A65060-e30160": [
+      "porter"
+    ],
+    "A65060-e30200": [
+      "constant"
+    ],
+    "A65060-e30230": [
+      "porter"
+    ],
+    "A65060-e30260": [
+      "constant"
+    ],
+    "A65060-e30300": [
+      "porter"
+    ],
+    "A65060-e30340": [
+      "constant"
+    ],
+    "A65060-e30450": [
+      "heartfree"
+    ],
+    "A65060-e30480": [
+      "constant"
+    ],
+    "A65060-e30510": [
+      "heartfree"
+    ],
+    "A65060-e30550": [
+      "constant"
+    ],
+    "A65060-e30620": [
+      "constable"
+    ],
+    "A65060-e30650": [
+      "sir-john-brute"
+    ],
+    "A65060-e30710": [
+      "constable"
+    ],
+    "A65060-e30740": [
+      "servant"
+    ],
+    "A65060-e30780": [
+      "sir-john-brute"
+    ],
+    "A65060-e30820": [
+      "constable"
+    ],
+    "A65060-e30860": [
+      "justice"
+    ],
+    "A65060-e30890": [
+      "constable"
+    ],
+    "A65060-e30920": [
+      "sir-john-brute"
+    ],
+    "A65060-e30960": [
+      "justice"
+    ],
+    "A65060-e30990": [
+      "sir-john-brute"
+    ],
+    "A65060-e31030": [
+      "constable"
+    ],
+    "A65060-e31060": [
+      "sir-john-brute"
+    ],
+    "A65060-e31100": [
+      "justice"
+    ],
+    "A65060-e31130": [
+      "sir-john-brute"
+    ],
+    "A65060-e31170": [
+      "constable"
+    ],
+    "A65060-e31210": [
+      "justice"
+    ],
+    "A65060-e31240": [
+      "sir-john-brute"
+    ],
+    "A65060-e31280": [
+      "justice"
+    ],
+    "A65060-e31310": [
+      "sir-john-brute"
+    ],
+    "A65060-e31350": [
+      "justice"
+    ],
+    "A65060-e31380": [
+      "sir-john-brute"
+    ],
+    "A65060-e31420": [
+      "justice"
+    ],
+    "A65060-e31450": [
+      "sir-john-brute"
+    ],
+    "A65060-e31500": [
+      "justice"
+    ],
+    "A65060-e31530": [
+      "sir-john-brute"
+    ],
+    "A65060-e31570": [
+      "justice"
+    ],
+    "A65060-e31600": [
+      "sir-john-brute"
+    ],
+    "A65060-e31640": [
+      "justice"
+    ],
+    "A65060-e31670": [
+      "sir-john-brute"
+    ],
+    "A65060-e31720": [
+      "justice"
+    ],
+    "A65060-e31750": [
+      "constable"
+    ],
+    "A65060-e31780": [
+      "justice"
+    ],
+    "A65060-e31810": [
+      "constable"
+    ],
+    "A65060-e31840": [
+      "sir-john-brute"
+    ],
+    "A65060-e31880": [
+      "justice"
+    ],
+    "A65060-e31910": [
+      "sir-john-brute"
+    ],
+    "A65060-e31950": [
+      "justice"
+    ],
+    "A65060-e31980": [
+      "sir-john-brute"
+    ],
+    "A65060-e32020": [
+      "justice"
+    ],
+    "A65060-e32050": [
+      "sir-john-brute"
+    ],
+    "A65060-e32090": [
+      "justice"
+    ],
+    "A65060-e32120": [
+      "sir-john-brute"
+    ],
+    "A65060-e32180": [
+      "constable"
+    ],
+    "A65060-e32210": [
+      "sir-john-brute"
+    ],
+    "A65060-e32260": [
+      "constable"
+    ],
+    "A65060-e32290": [
+      "sir-john-brute"
+    ],
+    "A65060-e32450": [
+      "constant"
+    ],
+    "A65060-e32490": [
+      "lady-fancyfull"
+    ],
+    "A65060-e32620": [
+      "constant"
+    ],
+    "A65060-e32650": [
+      "heartfree"
+    ],
+    "A65060-e32680": [
+      "constant"
+    ],
+    "A65060-e32710": [
+      "heartfree"
+    ],
+    "A65060-e32780": [
+      "constant"
+    ],
+    "A65060-e32810": [
+      "heartfree"
+    ],
+    "A65060-e32840": [
+      "lady-fancyfull"
+    ],
+    "A65060-e32920": [
+      "madamoiselle"
+    ],
+    "A65060-e32950": [
+      "lady-fancyfull"
+    ],
+    "A65060-e33020": [
+      "lady-brute"
+    ],
+    "A65060-e33050": [
+      "heartfree"
+    ],
+    "A65060-e33080": [
+      "bellinda"
+    ],
+    "A65060-e33110": [
+      "heartfree"
+    ],
+    "A65060-e33140": [
+      "bellinda"
+    ],
+    "A65060-e33170": [
+      "heartfree"
+    ],
+    "A65060-e33200": [
+      "constant"
+    ],
+    "A65060-e33240": [
+      "lady-brute"
+    ],
+    "A65060-e33270": [
+      "constant"
+    ],
+    "A65060-e33300": [
+      "bellinda"
+    ],
+    "A65060-e33340": [
+      "lady-brute"
+    ],
+    "A65060-e33370": [
+      "bellinda"
+    ],
+    "A65060-e33400": [
+      "lady-brute"
+    ],
+    "A65060-e33430": [
+      "bellinda"
+    ],
+    "A65060-e33460": [
+      "lady-brute"
+    ],
+    "A65060-e33500": [
+      "heartfree"
+    ],
+    "A65060-e33530": [
+      "bellinda"
+    ],
+    "A65060-e33560": [
+      "heartfree"
+    ],
+    "A65060-e33590": [
+      "constant"
+    ],
+    "A65060-e33650": [
+      "sir-john-brute"
+    ],
+    "A65060-e33710": [
+      "heartfree"
+    ],
+    "A65060-e33740": [
+      "sir-john-brute"
+    ],
+    "A65060-e33780": [
+      "heartfree"
+    ],
+    "A65060-e33810": [
+      "sir-john-brute"
+    ],
+    "A65060-e33850": [
+      "constant"
+    ],
+    "A65060-e33880": [
+      "sir-john-brute"
+    ],
+    "A65060-e33920": [
+      "lady-brute"
+    ],
+    "A65060-e33960": [
+      "heartfree"
+    ],
+    "A65060-e33990": [
+      "bellinda"
+    ],
+    "A65060-e34030": [
+      "sir-john-brute"
+    ],
+    "A65060-e34070": [
+      "heartfree"
+    ],
+    "A65060-e34110": [
+      "constant"
+    ],
+    "A65060-e34140": [
+      "lady-brute"
+    ],
+    "A65060-e34170": [
+      "sir-john-brute"
+    ],
+    "A65060-e34230": [
+      "heartfree"
+    ],
+    "A65060-e34260": [
+      "lady-brute"
+    ],
+    "A65060-e34320": [
+      "sir-john-brute"
+    ],
+    "A65060-e34360": [
+      "constant"
+    ],
+    "A65060-e34390": [
+      "sir-john-brute"
+    ],
+    "A65060-e34430": [
+      "constant"
+    ],
+    "A65060-e34500": [
+      "heartfree"
+    ],
+    "A65060-e34530": [
+      "constant"
+    ],
+    "A65060-e34570": [
+      "heartfree"
+    ],
+    "A65060-e34600": [
+      "sir-john-brute"
+    ],
+    "A65060-e34640": [
+      "heartfree"
+    ],
+    "A65060-e34670": [
+      "sir-john-brute"
+    ],
+    "A65060-e34730": [
+      "lady-brute"
+    ],
+    "A65060-e34760": [
+      "constant"
+    ],
+    "A65060-e34790": [
+      "bellinda"
+    ],
+    "A65060-e34820": [
+      "heartfree"
+    ],
+    "A65060-e34850": [
+      "lady-brute"
+    ],
+    "A65060-e34880": [
+      "constant"
+    ],
+    "A65060-e34910": [
+      "lady-brute"
+    ],
+    "A65060-e34940": [
+      "heartfree"
+    ],
+    "A65060-e34970": [
+      "bellinda"
+    ],
+    "A65060-e35040": [
+      "heartfree"
+    ],
+    "A65060-e35070": [
+      "bellinda"
+    ],
+    "A65060-e35100": [
+      "heartfree"
+    ],
+    "A65060-e35130": [
+      "bellinda"
+    ],
+    "A65060-e35160": [
+      "heartfree"
+    ],
+    "A65060-e35190": [
+      "bellinda"
+    ],
+    "A65060-e35220": [
+      "heartfree"
+    ],
+    "A65060-e35250": [
+      "bellinda"
+    ],
+    "A65060-e35280": [
+      "heartfree"
+    ],
+    "A65060-e35310": [
+      "bellinda"
+    ],
+    "A65060-e35360": [
+      "heartfree"
+    ],
+    "A65060-e35390": [
+      "bellinda"
+    ],
+    "A65060-e35440": [
+      "lady-brute"
+    ],
+    "A65060-e35480": [
+      "constant"
+    ],
+    "A65060-e35520": [
+      "bellinda"
+    ],
+    "A65060-e35570": [
+      "heartfree"
+    ],
+    "A65060-e35600": [
+      "constant"
+    ],
+    "A65060-e35650": [
+      "heartfree"
+    ],
+    "A65060-e35710": [
+      "lady-brute"
+    ],
+    "A65060-e35750": [
+      "constant"
+    ],
+    "A65060-e35780": [
+      "lady-brute"
+    ],
+    "A65060-e35810": [
+      "constant"
+    ],
+    "A65060-e35840": [
+      "lady-brute"
+    ],
+    "A65060-e35880": [
+      "constant"
+    ],
+    "A65060-e35910": [
+      "lady-brute"
+    ],
+    "A65060-e35940": [
+      "constant"
+    ],
+    "A65060-e35970": [
+      "lady-brute"
+    ],
+    "A65060-e36000": [
+      "constant"
+    ],
+    "A65060-e36030": [
+      "lady-brute"
+    ],
+    "A65060-e36060": [
+      "constant"
+    ],
+    "A65060-e36090": [
+      "lady-brute"
+    ],
+    "A65060-e36120": [
+      "constant"
+    ],
+    "A65060-e36150": [
+      "lady-brute"
+    ],
+    "A65060-e36180": [
+      "constant"
+    ],
+    "A65060-e36210": [
+      "lady-brute"
+    ],
+    "A65060-e36240": [
+      "constant"
+    ],
+    "A65060-e36270": [
+      "lady-brute"
+    ],
+    "A65060-e36300": [
+      "constant"
+    ],
+    "A65060-e36340": [
+      "lady-brute"
+    ],
+    "A65060-e36370": [
+      "constant"
+    ],
+    "A65060-e36400": [
+      "lady-brute"
+    ],
+    "A65060-e36430": [
+      "constant"
+    ],
+    "A65060-e36480": [
+      "lady-brute"
+    ],
+    "A65060-e36520": [
+      "constant"
+    ],
+    "A65060-e36550": [
+      "lady-brute"
+    ],
+    "A65060-e36580": [
+      "constant"
+    ],
+    "A65060-e36650": [
+      "lady-brute"
+    ],
+    "A65060-e36680": [
+      "lady-fancyfull"
+    ],
+    "A65060-e36710": [
+      "madamoiselle"
+    ],
+    "A65060-e36740": [
+      "constant"
+    ],
+    "A65060-e36770": [
+      "lady-brute"
+    ],
+    "A65060-e36800": [
+      "constant"
+    ],
+    "A65060-e36830": [
+      "lady-brute"
+    ],
+    "A65060-e36860": [
+      "constant"
+    ],
+    "A65060-e36890": [
+      "lady-brute"
+    ],
+    "A65060-e36980": [
+      "bellinda"
+    ],
+    "A65060-e37010": [
+      "lady-brute"
+    ],
+    "A65060-e37080": [
+      "lady-fancyfull"
+    ],
+    "A65060-e37120": [
+      "madamoiselle"
+    ],
+    "A65060-e37150": [
+      "lady-fancyfull"
+    ],
+    "A65060-e37370": [
+      "lady-fancyfull"
+    ],
+    "A65060-e37410": [
+      "madamoiselle"
+    ],
+    "A65060-e37440": [
+      "lady-fancyfull"
+    ],
+    "A65060-e37470": [
+      "madamoiselle"
+    ],
+    "A65060-e37500": [
+      "lady-fancyfull"
+    ],
+    "A65060-e37530": [
+      "madamoiselle"
+    ],
+    "A65060-e37560": [
+      "lady-fancyfull"
+    ],
+    "A65060-e37590": [
+      "madamoiselle"
+    ],
+    "A65060-e37620": [
+      "lady-fancyfull"
+    ],
+    "A65060-e37660": [
+      "madamoiselle"
+    ],
+    "A65060-e37690": [
+      "lady-fancyfull"
+    ],
+    "A65060-e37810": [
+      "lady-brute"
+    ],
+    "A65060-e37850": [
+      "lovewell"
+    ],
+    "A65060-e37880": [
+      "lady-brute"
+    ],
+    "A65060-e37910": [
+      "bellinda"
+    ],
+    "A65060-e37940": [
+      "constant"
+    ],
+    "A65060-e37970": [
+      "lady-brute"
+    ],
+    "A65060-e38000": [
+      "constant"
+    ],
+    "A65060-e38030": [
+      "lady-brute"
+    ],
+    "A65060-e38080": [
+      "lady-brute"
+    ],
+    "A65060-e38170": [
+      "lady-brute"
+    ],
+    "A65060-e38200": [
+      "sir-john-brute"
+    ],
+    "A65060-e38240": [
+      "lady-brute"
+    ],
+    "A65060-e38270": [
+      "sir-john-brute"
+    ],
+    "A65060-e38310": [
+      "lady-brute"
+    ],
+    "A65060-e38340": [
+      "sir-john-brute"
+    ],
+    "A65060-e38380": [
+      "lady-brute"
+    ],
+    "A65060-e38410": [
+      "sir-john-brute"
+    ],
+    "A65060-e38450": [
+      "lady-brute"
+    ],
+    "A65060-e38480": [
+      "sir-john-brute"
+    ],
+    "A65060-e38520": [
+      "lady-brute"
+    ],
+    "A65060-e38550": [
+      "sir-john-brute"
+    ],
+    "A65060-e38590": [
+      "lady-brute"
+    ],
+    "A65060-e38630": [
+      "sir-john-brute"
+    ],
+    "A65060-e38670": [
+      "lady-brute"
+    ],
+    "A65060-e38700": [
+      "sir-john-brute"
+    ],
+    "A65060-e38740": [
+      "lady-brute"
+    ],
+    "A65060-e38770": [
+      "sir-john-brute"
+    ],
+    "A65060-e38810": [
+      "lady-brute"
+    ],
+    "A65060-e38860": [
+      "sir-john-brute"
+    ],
+    "A65060-e38910": [
+      "lady-brute"
+    ],
+    "A65060-e38940": [
+      "sir-john-brute"
+    ],
+    "A65060-e38980": [
+      "lady-brute"
+    ],
+    "A65060-e39030": [
+      "sir-john-brute"
+    ],
+    "A65060-e39080": [
+      "lady-brute"
+    ],
+    "A65060-e39130": [
+      "bellinda"
+    ],
+    "A65060-e39170": [
+      "sir-john-brute"
+    ],
+    "A65060-e39220": [
+      "lady-brute"
+    ],
+    "A65060-e39280": [
+      "sir-john-brute"
+    ],
+    "A65060-e39410": [
+      "lady-brute"
+    ],
+    "A65060-e39450": [
+      "sir-john-brute"
+    ],
+    "A65060-e39490": [
+      "constant"
+    ],
+    "A65060-e39520": [
+      "heartfree"
+    ],
+    "A65060-e39550": [
+      "sir-john-brute"
+    ],
+    "A65060-e39590": [
+      "lady-brute"
+    ],
+    "A65060-e39640": [
+      "constant"
+    ],
+    "A65060-e39710": [
+      "sir-john-brute"
+    ],
+    "A65060-e39850": [
+      "lady-brute"
+    ],
+    "A65060-e39880": [
+      "bellinda"
+    ],
+    "A65060-e39910": [
+      "lady-brute"
+    ],
+    "A65060-e39950": [
+      "bellinda"
+    ],
+    "A65060-e40020": [
+      "lady-brute"
+    ],
+    "A65060-e40050": [
+      "bellinda"
+    ],
+    "A65060-e40080": [
+      "lady-brute"
+    ],
+    "A65060-e40110": [
+      "bellinda"
+    ],
+    "A65060-e40150": [
+      "lady-brute"
+    ],
+    "A65060-e40180": [
+      "bellinda"
+    ],
+    "A65060-e40220": [
+      "lady-brute"
+    ],
+    "A65060-e40250": [
+      "bellinda"
+    ],
+    "A65060-e40280": [
+      "lady-brute"
+    ],
+    "A65060-e40310": [
+      "bellinda"
+    ],
+    "A65060-e40340": [
+      "lady-brute"
+    ],
+    "A65060-e40380": [
+      "bellinda"
+    ],
+    "A65060-e40410": [
+      "lady-brute"
+    ],
+    "A65060-e40440": [
+      "bellinda"
+    ],
+    "A65060-e40470": [
+      "lady-brute"
+    ],
+    "A65060-e40510": [
+      "bellinda"
+    ],
+    "A65060-e40540": [
+      "lady-brute"
+    ],
+    "A65060-e40570": [
+      "bellinda"
+    ],
+    "A65060-e40630": [
+      "lady-brute"
+    ],
+    "A65060-e40670": [
+      "bellinda"
+    ],
+    "A65060-e40700": [
+      "lady-brute"
+    ],
+    "A65060-e40740": [
+      "bellinda",
+      "lady-brute"
+    ],
+    "A65060-e40900": [
+      "lady-fancyfull"
+    ],
+    "A65060-e40950": [
+      "madamoiselle"
+    ],
+    "A65060-e40980": [
+      "lady-fancyfull"
+    ],
+    "A65060-e41010": [
+      "madamoiselle"
+    ],
+    "A65060-e41040": [
+      "lady-fancyfull"
+    ],
+    "A65060-e41090": [
+      "madamoiselle"
+    ],
+    "A65060-e41150": [
+      "rasor"
+    ],
+    "A65060-e41200": [
+      "madamoiselle"
+    ],
+    "A65060-e41250": [
+      "lady-fancyfull"
+    ],
+    "A65060-e41290": [
+      "madamoiselle"
+    ],
+    "A65060-e41380": [
+      "madamoiselle"
+    ],
+    "A65060-e41410": [
+      "madamoiselle"
+    ],
+    "A65060-e41440": [
+      "madamoiselle"
+    ],
+    "A65060-e41470": [
+      "madamoiselle"
+    ],
+    "A65060-e41500": [
+      "madamoiselle"
+    ],
+    "A65060-e41530": [
+      "madamoiselle"
+    ],
+    "A65060-e41570": [
+      "madamoiselle"
+    ],
+    "A65060-e41600": [
+      "madamoiselle"
+    ],
+    "A65060-e41630": [
+      "madamoiselle"
+    ],
+    "A65060-e41660": [
+      "madamoiselle"
+    ],
+    "A65060-e41710": [
+      "madamoiselle"
+    ],
+    "A65060-e41750": [
+      "madamoiselle"
+    ],
+    "A65060-e41790": [
+      "madamoiselle"
+    ],
+    "A65060-e41820": [
+      "madamoiselle"
+    ],
+    "A65060-e41860": [
+      "madamoiselle"
+    ],
+    "A65060-e41900": [
+      "madamoiselle"
+    ],
+    "A65060-e41930": [
+      "madamoiselle"
+    ],
+    "A65060-e41960": [
+      "madamoiselle"
+    ],
+    "A65060-e41990": [
+      "madamoiselle"
+    ],
+    "A65060-e42030": [
+      "madamoiselle"
+    ],
+    "A65060-e42070": [
+      "madamoiselle"
+    ],
+    "A65060-e42100": [
+      "madamoiselle"
+    ],
+    "A65060-e42130": [
+      "madamoiselle"
+    ],
+    "A65060-e42160": [
+      "madamoiselle"
+    ],
+    "A65060-e42190": [
+      "madamoiselle"
+    ],
+    "A65060-e42220": [
+      "madamoiselle"
+    ],
+    "A65060-e42250": [
+      "madamoiselle"
+    ],
+    "A65060-e42280": [
+      "madamoiselle"
+    ],
+    "A65060-e42310": [
+      "madamoiselle"
+    ],
+    "A65060-e42340": [
+      "madamoiselle"
+    ],
+    "A65060-e42370": [
+      "madamoiselle"
+    ],
+    "A65060-e42400": [
+      "madamoiselle"
+    ],
+    "A65060-e42430": [
+      "madamoiselle"
+    ],
+    "A65060-e42460": [
+      "madamoiselle"
+    ],
+    "A65060-e42500": [
+      "madamoiselle"
+    ],
+    "A65060-e42530": [
+      "madamoiselle"
+    ],
+    "A65060-e42570": [
+      "madamoiselle"
+    ],
+    "A65060-e42600": [
+      "madamoiselle"
+    ],
+    "A65060-e42630": [
+      "madamoiselle"
+    ],
+    "A65060-e42660": [
+      "madamoiselle"
+    ],
+    "A65060-e42690": [
+      "madamoiselle"
+    ],
+    "A65060-e42750": [
+      "madamoiselle"
+    ],
+    "A65060-e42780": [
+      "madamoiselle"
+    ],
+    "A65060-e42830": [
+      "madamoiselle"
+    ],
+    "A65060-e42860": [
+      "madamoiselle"
+    ],
+    "A65060-e42890": [
+      "madamoiselle"
+    ],
+    "A65060-e42920": [
+      "madamoiselle"
+    ],
+    "A65060-e42960": [
+      "madamoiselle"
+    ],
+    "A65060-e42990": [
+      "madamoiselle"
+    ],
+    "A65060-e43020": [
+      "madamoiselle"
+    ],
+    "A65060-e43060": [
+      "madamoiselle"
+    ],
+    "A65060-e43270": [
+      "madamoiselle"
+    ],
+    "A65060-e43300": [
+      "madamoiselle"
+    ],
+    "A65060-e43410": [
+      "madamoiselle"
+    ],
+    "A65060-e43440": [
+      "madamoiselle"
+    ],
+    "A65060-e43470": [
+      "madamoiselle"
+    ],
+    "A65060-e43500": [
+      "madamoiselle"
+    ],
+    "A65060-e43550": [
+      "madamoiselle"
+    ],
+    "A65060-e43590": [
+      "madamoiselle"
+    ],
+    "A65060-e43620": [
+      "madamoiselle"
+    ],
+    "A65060-e43650": [
+      "madamoiselle"
+    ],
+    "A65060-e43680": [
+      "madamoiselle"
+    ],
+    "A65060-e43710": [
+      "madamoiselle"
+    ],
+    "A65060-e43740": [
+      "madamoiselle"
+    ],
+    "A65060-e43770": [
+      "madamoiselle"
+    ],
+    "A65060-e43800": [
+      "madamoiselle"
+    ],
+    "A65060-e43830": [
+      "madamoiselle"
+    ],
+    "A65060-e43860": [
+      "madamoiselle"
+    ],
+    "A65060-e43890": [
+      "madamoiselle"
+    ],
+    "A65060-e44050": [
+      "lady-fancyfull"
+    ],
+    "A65060-e44080": [
+      "madamoiselle"
+    ],
+    "A65060-e44110": [
+      "lady-fancyfull"
+    ],
+    "A65060-e44160": [
+      "madamoiselle"
+    ],
+    "A65060-e44260": [
+      "constant"
+    ],
+    "A65060-e44290": [
+      "heartfree"
+    ],
+    "A65060-e44320": [
+      "constant"
+    ],
+    "A65060-e44350": [
+      "heartfree"
+    ],
+    "A65060-e44380": [
+      "constant"
+    ],
+    "A65060-e44410": [
+      "heartfree"
+    ],
+    "A65060-e44450": [
+      "servant"
+    ],
+    "A65060-e44480": [
+      "constant"
+    ],
+    "A65060-e44600": [
+      "heartfree"
+    ],
+    "A65060-e44630": [
+      "constant"
+    ],
+    "A65060-e44660": [
+      "heartfree"
+    ],
+    "A65060-e44690": [
+      "constant"
+    ],
+    "A65060-e44720": [
+      "heartfree"
+    ],
+    "A65060-e44750": [
+      "constant"
+    ],
+    "A65060-e44780": [
+      "heartfree"
+    ],
+    "A65060-e44830": [
+      "constant"
+    ],
+    "A65060-e44860": [
+      "heartfree"
+    ],
+    "A65060-e44890": [
+      "constant"
+    ],
+    "A65060-e44930": [
+      "heartfree"
+    ],
+    "A65060-e44960": [
+      "constant"
+    ],
+    "A65060-e44990": [
+      "heartfree"
+    ],
+    "A65060-e45020": [
+      "constant"
+    ],
+    "A65060-e45050": [
+      "heartfree"
+    ],
+    "A65060-e45080": [
+      "constant"
+    ],
+    "A65060-e45190": [
+      "bellinda"
+    ],
+    "A65060-e45220": [
+      "lady-brute"
+    ],
+    "A65060-e45250": [
+      "bellinda"
+    ],
+    "A65060-e45280": [
+      "lady-brute"
+    ],
+    "A65060-e45340": [
+      "lady-brute"
+    ],
+    "A65060-e45370": [
+      "heartfree"
+    ],
+    "A65060-e45400": [
+      "bellinda"
+    ],
+    "A65060-e45430": [
+      "heartfree"
+    ],
+    "A65060-e45460": [
+      "bellinda"
+    ],
+    "A65060-e45490": [
+      "heartfree"
+    ],
+    "A65060-e45520": [
+      "bellinda"
+    ],
+    "A65060-e45550": [
+      "heartfree"
+    ],
+    "A65060-e45610": [
+      "lady-brute"
+    ],
+    "A65060-e45650": [
+      "constant"
+    ],
+    "A65060-e45680": [
+      "lady-brute"
+    ],
+    "A65060-e45760": [
+      "constant"
+    ],
+    "A65060-e45790": [
+      "heartfree"
+    ],
+    "A65060-e45830": [
+      "constant"
+    ],
+    "A65060-e45860": [
+      "lady-brute"
+    ],
+    "A65060-e45890": [
+      "sir-john-brute"
+    ],
+    "A65060-e45930": [
+      "bellinda"
+    ],
+    "A65060-e45970": [
+      "sir-john-brute"
+    ],
+    "A65060-e46010": [
+      "constant"
+    ],
+    "A65060-e46040": [
+      "sir-john-brute"
+    ],
+    "A65060-e46080": [
+      "constant"
+    ],
+    "A65060-e46110": [
+      "sir-john-brute"
+    ],
+    "A65060-e46150": [
+      "constant"
+    ],
+    "A65060-e46180": [
+      "sir-john-brute"
+    ],
+    "A65060-e46220": [
+      "constant"
+    ],
+    "A65060-e46250": [
+      "heartfree"
+    ],
+    "A65060-e46310": [
+      "constant"
+    ],
+    "A65060-e46340": [
+      "sir-john-brute"
+    ],
+    "A65060-e46490": [
+      "constant"
+    ],
+    "A65060-e46520": [
+      "sir-john-brute"
+    ],
+    "A65060-e46570": [
+      "heartfree"
+    ],
+    "A65060-e46600": [
+      "sir-john-brute"
+    ],
+    "A65060-e46680": [
+      "bellinda"
+    ],
+    "A65060-e46720": [
+      "lady-fancyfull"
+    ],
+    "A65060-e46770": [
+      "bellinda"
+    ],
+    "A65060-e46800": [
+      "lady-fancyfull"
+    ],
+    "A65060-e46850": [
+      "bellinda"
+    ],
+    "A65060-e46890": [
+      "heartfree"
+    ],
+    "A65060-e47050": [
+      "constant"
+    ],
+    "A65060-e47100": [
+      "bellinda"
+    ],
+    "A65060-e47140": [
+      "heartfree"
+    ],
+    "A65060-e47180": [
+      "bellinda"
+    ],
+    "A65060-e47250": [
+      "heartfree"
+    ],
+    "A65060-e47280": [
+      "bellinda"
+    ],
+    "A65060-e47310": [
+      "heartfree"
+    ],
+    "A65060-e47340": [
+      "bellinda"
+    ],
+    "A65060-e47370": [
+      "heartfree"
+    ],
+    "A65060-e47400": [
+      "sir-john-brute"
+    ],
+    "A65060-e47470": [
+      "madamoiselle"
+    ],
+    "A65060-e47540": [
+      "constant"
+    ],
+    "A65060-e47580": [
+      "heartfree"
+    ],
+    "A65060-e47610": [
+      "bellinda"
+    ],
+    "A65060-e47640": [
+      "lady-brute"
+    ],
+    "A65060-e47670": [
+      "bellinda"
+    ],
+    "A65060-e47700": [
+      "heartfree"
+    ],
+    "A65060-e47730": [
+      "sir-john-brute"
+    ],
+    "A65060-e47810": [
+      "rasor"
+    ],
+    "A65060-e47840": [
+      "lady-brute"
+    ],
+    "A65060-e47870": [
+      "rasor"
+    ],
+    "A65060-e47900": [
+      "constable",
+	  "heartfree",
+	  "bellinda",
+	  "lady-brute",
+	  "sir-john-brute"
+    ],
+    "A65060-e47940": [
+      "lady-brute"
+    ],
+    "A65060-e47970": [
+      "rasor"
+    ],
+    "A65060-e48000": [
+      "lady-brute"
+    ],
+    "A65060-e48030": [
+      "rasor"
+    ],
+    "A65060-e48200": [
+      "sir-john-brute"
+    ],
+    "A65060-e48250": [
+      "bellinda"
+    ],
+    "A65060-e48280": [
+      "rasor"
+    ],
+    "A65060-e48320": [
+      "bellinda"
+    ],
+    "A65060-e48370": [
+      "rasor"
+    ],
+    "A65060-e48420": [
+      "constable",
+	  "heartfree",
+	  "bellinda",
+	  "lady-brute",
+	  "sir-john-brute"
+    ],
+    "A65060-e48450": [
+      "madamoiselle"
+    ],
+    "A65060-e48480": [
+      "sir-john-brute"
+    ],
+    "A65060-e48550": [
+      "rasor"
+    ],
+    "A65060-e48650": [
+      "constable",
+	  "heartfree",
+	  "bellinda",
+	  "lady-brute",
+	  "sir-john-brute"
+    ],
+    "A65060-e48690": [
+      "bellinda"
+    ],
+    "A65060-e48720": [
+      "lady-brute"
+    ],
+    "A65060-e48750": [
+      "constable",
+	  "heartfree",
+	  "bellinda",
+	  "lady-brute",
+	  "sir-john-brute"
+    ],
+    "A65060-e48780": [
+      "bellinda"
+    ],
+    "A65060-e48830": [
+      "constable",
+	  "heartfree",
+	  "bellinda",
+	  "lady-brute",
+	  "sir-john-brute"
+    ],
+    "A65060-e48860": [
+      "lady-fancyfull"
+    ],
+    "A65060-e48900": [
+      "madamoiselle"
+    ],
+    "A65060-e48940": [
+      "bellinda"
+    ],
+    "A65060-e48980": [
+      "lady-fancyfull"
+    ],
+    "A65060-e49070": [
+      "madamoiselle"
+    ],
+    "A65060-e49100": [
+      "constable",
+	  "heartfree",
+	  "bellinda",
+	  "lady-brute",
+	  "sir-john-brute"
+    ],
+    "A65060-e49130": [
+      "sir-john-brute"
+    ],
+    "A65060-e49180": [
+      "bellinda"
+    ],
+    "A65060-e49210": [
+      "heartfree"
+    ],
+    "A65060-e49240": [
+      "bellinda"
+    ],
+    "A65060-e49270": [
+      "heartfree"
+    ],
+    "A65060-e49300": [
+      "constant"
+    ],
+    "A65060-e49560": [
+      "heartfree"
+    ],
+    "A65060-e49590": [
+      "bellinda"
+    ],
+    "A65060-e49620": [
+      "heartfree"
+    ],
+    "A65060-e49650": [
+      "bellinda"
+    ],
+    "A65060-e49680": [
+      "heartfree"
+    ],
+    "A65060-e49720": [
+      "bellinda"
+    ]
+  }
+}

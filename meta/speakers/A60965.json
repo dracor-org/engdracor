@@ -1,0 +1,3049 @@
+{
+  "particDesc": [
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Women ",
+      "id": "women",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Slaves",
+      "id": "slaves",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Planter 4",
+      "id": "planter-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Planter 3",
+      "id": "planter-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Planter 2",
+      "id": "planter-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Planter 1",
+      "id": "planter-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "oroonoko",
+      "name": "Oroonoko",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "aboan",
+      "name": "Aboan",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lieutenant-governor-of-surinam",
+      "name": "Lieutenant-Governor of Surinam",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "blanford",
+      "name": "Blanford",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "stanmore",
+      "name": "Stanmore",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "jack-stanmore",
+      "name": "Jack Stanmore",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "capt-driver",
+      "name": "Capt. Driver",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "daniel",
+      "name": "Daniel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hottman",
+      "name": "Hottman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "imoinda",
+      "name": "Imoinda",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "widow-lackitt",
+      "name": "Widow Lackitt",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "charlot-welldon",
+      "name": "Charlot Welldon",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lucy-welldon",
+      "name": "Lucy Welldon",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A60965-e1950": [
+      "lucy-welldon"
+    ],
+    "A60965-e2010": [
+      "charlot-welldon"
+    ],
+    "A60965-e2040": [
+      "lucy-welldon"
+    ],
+    "A60965-e2070": [
+      "charlot-welldon"
+    ],
+    "A60965-e2120": [
+      "lucy-welldon"
+    ],
+    "A60965-e2150": [
+      "charlot-welldon"
+    ],
+    "A60965-e2190": [
+      "lucy-welldon"
+    ],
+    "A60965-e2220": [
+      "charlot-welldon"
+    ],
+    "A60965-e2260": [
+      "lucy-welldon"
+    ],
+    "A60965-e2290": [
+      "charlot-welldon"
+    ],
+    "A60965-e2320": [
+      "lucy-welldon"
+    ],
+    "A60965-e2350": [
+      "charlot-welldon"
+    ],
+    "A60965-e2380": [
+      "lucy-welldon"
+    ],
+    "A60965-e2420": [
+      "charlot-welldon"
+    ],
+    "A60965-e2450": [
+      "lucy-welldon"
+    ],
+    "A60965-e2480": [
+      "charlot-welldon"
+    ],
+    "A60965-e2510": [
+      "lucy-welldon"
+    ],
+    "A60965-e2540": [
+      "charlot-welldon"
+    ],
+    "A60965-e2570": [
+      "lucy-welldon"
+    ],
+    "A60965-e2600": [
+      "charlot-welldon"
+    ],
+    "A60965-e2640": [
+      "lucy-welldon"
+    ],
+    "A60965-e2670": [
+      "charlot-welldon"
+    ],
+    "A60965-e2720": [
+      "lucy-welldon"
+    ],
+    "A60965-e2770": [
+      "widow-lackitt"
+    ],
+    "A60965-e2840": [
+      "charlot-welldon"
+    ],
+    "A60965-e2880": [
+      "widow-lackitt"
+    ],
+    "A60965-e2910": [
+      "charlot-welldon"
+    ],
+    "A60965-e2940": [
+      "widow-lackitt"
+    ],
+    "A60965-e2990": [
+      "charlot-welldon"
+    ],
+    "A60965-e3020": [
+      "widow-lackitt"
+    ],
+    "A60965-e3050": [
+      "charlot-welldon"
+    ],
+    "A60965-e3080": [
+      "widow-lackitt"
+    ],
+    "A60965-e3110": [
+      "lucy-welldon"
+    ],
+    "A60965-e3150": [
+      "charlot-welldon"
+    ],
+    "A60965-e3180": [
+      "widow-lackitt"
+    ],
+    "A60965-e3210": [
+      "charlot-welldon"
+    ],
+    "A60965-e3240": [
+      "widow-lackitt"
+    ],
+    "A60965-e3270": [
+      "charlot-welldon"
+    ],
+    "A60965-e3310": [
+      "widow-lackitt"
+    ],
+    "A60965-e3340": [
+      "charlot-welldon"
+    ],
+    "A60965-e3370": [
+      "widow-lackitt"
+    ],
+    "A60965-e3410": [
+      "charlot-welldon"
+    ],
+    "A60965-e3490": [
+      "widow-lackitt"
+    ],
+    "A60965-e3520": [
+      "charlot-welldon"
+    ],
+    "A60965-e3550": [
+      "widow-lackitt"
+    ],
+    "A60965-e3580": [
+      "charlot-welldon"
+    ],
+    "A60965-e3610": [
+      "widow-lackitt"
+    ],
+    "A60965-e3650": [
+      "charlot-welldon"
+    ],
+    "A60965-e3690": [
+      "widow-lackitt"
+    ],
+    "A60965-e3740": [
+      "charlot-welldon"
+    ],
+    "A60965-e3770": [
+      "widow-lackitt"
+    ],
+    "A60965-e3820": [
+      "charlot-welldon"
+    ],
+    "A60965-e3850": [
+      "widow-lackitt"
+    ],
+    "A60965-e3890": [
+      "charlot-welldon"
+    ],
+    "A60965-e3940": [
+      "widow-lackitt"
+    ],
+    "A60965-e3980": [
+      "charlot-welldon"
+    ],
+    "A60965-e4010": [
+      "widow-lackitt"
+    ],
+    "A60965-e4040": [
+      "charlot-welldon"
+    ],
+    "A60965-e4070": [
+      "widow-lackitt"
+    ],
+    "A60965-e4110": [
+      "charlot-welldon"
+    ],
+    "A60965-e4150": [
+      "widow-lackitt"
+    ],
+    "A60965-e4210": [
+      "stanmore"
+    ],
+    "A60965-e4260": [
+      "widow-lackitt"
+    ],
+    "A60965-e4310": [
+      "charlot-welldon"
+    ],
+    "A60965-e4340": [
+      "stanmore"
+    ],
+    "A60965-e4370": [
+      "charlot-welldon"
+    ],
+    "A60965-e4400": [
+      "stanmore"
+    ],
+    "A60965-e4430": [
+      "charlot-welldon"
+    ],
+    "A60965-e4460": [
+      "stanmore"
+    ],
+    "A60965-e4500": [
+      "charlot-welldon"
+    ],
+    "A60965-e4530": [
+      "widow-lackitt"
+    ],
+    "A60965-e4590": [
+      "stanmore"
+    ],
+    "A60965-e4620": [
+      "charlot-welldon"
+    ],
+    "A60965-e4650": [
+      "stanmore"
+    ],
+    "A60965-e4680": [
+      "charlot-welldon"
+    ],
+    "A60965-e4710": [
+      "stanmore"
+    ],
+    "A60965-e4740": [
+      "charlot-welldon"
+    ],
+    "A60965-e4770": [
+      "stanmore"
+    ],
+    "A60965-e4800": [
+      "charlot-welldon"
+    ],
+    "A60965-e4840": [
+      "stanmore"
+    ],
+    "A60965-e4870": [
+      "charlot-welldon"
+    ],
+    "A60965-e4900": [
+      "stanmore"
+    ],
+    "A60965-e4930": [
+      "charlot-welldon"
+    ],
+    "A60965-e4960": [
+      "stanmore"
+    ],
+    "A60965-e5000": [
+      "charlot-welldon"
+    ],
+    "A60965-e5040": [
+      "stanmore"
+    ],
+    "A60965-e5070": [
+      "charlot-welldon"
+    ],
+    "A60965-e5100": [
+      "stanmore"
+    ],
+    "A60965-e5140": [
+      "charlot-welldon"
+    ],
+    "A60965-e5180": [
+      "stanmore"
+    ],
+    "A60965-e5210": [
+      "charlot-welldon"
+    ],
+    "A60965-e5240": [
+      "stanmore"
+    ],
+    "A60965-e5280": [
+      "charlot-welldon"
+    ],
+    "A60965-e5310": [
+      "stanmore"
+    ],
+    "A60965-e5340": [
+      "charlot-welldon"
+    ],
+    "A60965-e5440": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e5480": [
+      "blanford"
+    ],
+    "A60965-e5510": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e5550": [
+      "blanford"
+    ],
+    "A60965-e5580": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e5650": [
+      "widow-lackitt"
+    ],
+    "A60965-e5680": [
+      "planter-1"
+    ],
+    "A60965-e5710": [
+      "planter-2"
+    ],
+    "A60965-e5740": [
+      "capt-driver"
+    ],
+    "A60965-e5770": [
+      "planter-1"
+    ],
+    "A60965-e5800": [
+      "widow-lackitt"
+    ],
+    "A60965-e5830": [
+      "planter-1"
+    ],
+    "A60965-e5860": [
+      "widow-lackitt"
+    ],
+    "A60965-e5890": [
+      "capt-driver"
+    ],
+    "A60965-e5920": [
+      "planter-3"
+    ],
+    "A60965-e5950": [
+      "planter-4"
+    ],
+    "A60965-e5980": [
+      "planter-3"
+    ],
+    "A60965-e6010": [
+      "capt-driver"
+    ],
+    "A60965-e6040": [
+      "widow-lackitt"
+    ],
+    "A60965-e6070": [
+      "capt-driver"
+    ],
+    "A60965-e6100": [
+      "widow-lackitt"
+    ],
+    "A60965-e6130": [
+      "capt-driver"
+    ],
+    "A60965-e6160": [
+      "widow-lackitt"
+    ],
+    "A60965-e6190": [
+      "capt-driver"
+    ],
+    "A60965-e6220": [
+      "widow-lackitt"
+    ],
+    "A60965-e6250": [
+      "capt-driver"
+    ],
+    "A60965-e6280": [
+      "widow-lackitt"
+    ],
+    "A60965-e6310": [
+      "capt-driver"
+    ],
+    "A60965-e6340": [
+      "widow-lackitt"
+    ],
+    "A60965-e6370": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e6400": [
+      "capt-driver"
+    ],
+    "A60965-e6430": [
+      "widow-lackitt"
+    ],
+    "A60965-e6460": [
+      "jack-stanmore"
+    ],
+    "A60965-e6500": [
+      "widow-lackitt"
+    ],
+    "A60965-e6530": [
+      "stanmore"
+    ],
+    "A60965-e6570": [
+      "jack-stanmore"
+    ],
+    "A60965-e6600": [
+      "widow-lackitt"
+    ],
+    "A60965-e6650": [
+      "blanford"
+    ],
+    "A60965-e6680": [
+      "capt-driver"
+    ],
+    "A60965-e6710": [
+      "charlot-welldon"
+    ],
+    "A60965-e6750": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e6780": [
+      "capt-driver"
+    ],
+    "A60965-e6810": [
+      "stanmore"
+    ],
+    "A60965-e6840": [
+      "capt-driver"
+    ],
+    "A60965-e6870": [
+      "charlot-welldon"
+    ],
+    "A60965-e6900": [
+      "capt-driver"
+    ],
+    "A60965-e6930": [
+      "lucy-welldon"
+    ],
+    "A60965-e6970": [
+      "charlot-welldon"
+    ],
+    "A60965-e7000": [
+      "capt-driver"
+    ],
+    "A60965-e7040": [
+      "charlot-welldon"
+    ],
+    "A60965-e7100": [
+      "capt-driver"
+    ],
+    "A60965-e7130": [
+      "charlot-welldon"
+    ],
+    "A60965-e7160": [
+      "capt-driver"
+    ],
+    "A60965-e7190": [
+      "charlot-welldon"
+    ],
+    "A60965-e7220": [
+      "capt-driver"
+    ],
+    "A60965-e7250": [
+      "charlot-welldon"
+    ],
+    "A60965-e7280": [
+      "capt-driver"
+    ],
+    "A60965-e7310": [
+      "stanmore"
+    ],
+    "A60965-e7340": [
+      "capt-driver"
+    ],
+    "A60965-e7370": [
+      "charlot-welldon"
+    ],
+    "A60965-e7410": [
+      "capt-driver"
+    ],
+    "A60965-e7440": [
+      "charlot-welldon"
+    ],
+    "A60965-e7470": [
+      "capt-driver"
+    ],
+    "A60965-e7500": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e7530": [
+      "blanford"
+    ],
+    "A60965-e7560": [
+      "capt-driver"
+    ],
+    "A60965-e7600": [
+      "blanford"
+    ],
+    "A60965-e7630": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e7660": [
+      "capt-driver"
+    ],
+    "A60965-e7700": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e7730": [
+      "blanford"
+    ],
+    "A60965-e7760": [
+      "capt-driver"
+    ],
+    "A60965-e7800": [
+      "blanford"
+    ],
+    "A60965-e7830": [
+      "capt-driver"
+    ],
+    "A60965-e7870": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e7910": [
+      "capt-driver"
+    ],
+    "A60965-e7950": [
+      "planter-1"
+    ],
+    "A60965-e7980": [
+      "planter-2"
+    ],
+    "A60965-e8010": [
+      "planter-3"
+    ],
+    "A60965-e8040": [
+      "capt-driver"
+    ],
+    "A60965-e8070": [
+      "blanford"
+    ],
+    "A60965-e8100": [
+      "stanmore"
+    ],
+    "A60965-e8130": [
+      "blanford"
+    ],
+    "A60965-e8160": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e8200": [
+      "capt-driver"
+    ],
+    "A60965-e8280": [
+      "lucy-welldon"
+    ],
+    "A60965-e8310": [
+      "stanmore"
+    ],
+    "A60965-e8340": [
+      "lucy-welldon"
+    ],
+    "A60965-e8370": [
+      "blanford"
+    ],
+    "A60965-e8400": [
+      "capt-driver"
+    ],
+    "A60965-e8430": [
+      "oroonoko"
+    ],
+    "A60965-e8460": [
+      "capt-driver"
+    ],
+    "A60965-e8490": [
+      "oroonoko"
+    ],
+    "A60965-e8640": [
+      "capt-driver"
+    ],
+    "A60965-e8670": [
+      "oroonoko"
+    ],
+    "A60965-e8780": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e8810": [
+      "blanford"
+    ],
+    "A60965-e8860": [
+      "oroonoko"
+    ],
+    "A60965-e8890": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e8920": [
+      "capt-driver"
+    ],
+    "A60965-e8950": [
+      "oroonoko"
+    ],
+    "A60965-e9030": [
+      "capt-driver"
+    ],
+    "A60965-e9090": [
+      "blanford"
+    ],
+    "A60965-e9130": [
+      "oroonoko"
+    ],
+    "A60965-e9230": [
+      "blanford"
+    ],
+    "A60965-e9260": [
+      "oroonoko"
+    ],
+    "A60965-e9340": [
+      "blanford"
+    ],
+    "A60965-e9430": [
+      "oroonoko"
+    ],
+    "A60965-e9460": [
+      "stanmore"
+    ],
+    "A60965-e9500": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e9530": [
+      "oroonoko"
+    ],
+    "A60965-e9570": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e9600": [
+      "oroonoko"
+    ],
+    "A60965-e9630": [
+      "blanford"
+    ],
+    "A60965-e9660": [
+      "oroonoko"
+    ],
+    "A60965-e9690": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e9720": [
+      "oroonoko"
+    ],
+    "A60965-e9760": [
+      "blanford"
+    ],
+    "A60965-e9790": [
+      "oroonoko"
+    ],
+    "A60965-e9820": [
+      "blanford"
+    ],
+    "A60965-e9870": [
+      "lucy-welldon"
+    ],
+    "A60965-e9900": [
+      "charlot-welldon"
+    ],
+    "A60965-e9930": [
+      "lucy-welldon"
+    ],
+    "A60965-e9960": [
+      "stanmore"
+    ],
+    "A60965-e9990": [
+      "charlot-welldon"
+    ],
+    "A60965-e10020": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e10140": [
+      "charlot-welldon"
+    ],
+    "A60965-e10170": [
+      "widow-lackitt"
+    ],
+    "A60965-e10200": [
+      "charlot-welldon"
+    ],
+    "A60965-e10230": [
+      "widow-lackitt"
+    ],
+    "A60965-e10270": [
+      "charlot-welldon"
+    ],
+    "A60965-e10310": [
+      "widow-lackitt"
+    ],
+    "A60965-e10350": [
+      "charlot-welldon"
+    ],
+    "A60965-e10390": [
+      "widow-lackitt"
+    ],
+    "A60965-e10420": [
+      "charlot-welldon"
+    ],
+    "A60965-e10450": [
+      "widow-lackitt"
+    ],
+    "A60965-e10480": [
+      "charlot-welldon"
+    ],
+    "A60965-e10510": [
+      "widow-lackitt"
+    ],
+    "A60965-e10540": [
+      "charlot-welldon"
+    ],
+    "A60965-e10570": [
+      "widow-lackitt"
+    ],
+    "A60965-e10600": [
+      "charlot-welldon"
+    ],
+    "A60965-e10630": [
+      "widow-lackitt"
+    ],
+    "A60965-e10660": [
+      "charlot-welldon"
+    ],
+    "A60965-e10690": [
+      "widow-lackitt"
+    ],
+    "A60965-e10720": [
+      "charlot-welldon"
+    ],
+    "A60965-e10750": [
+      "widow-lackitt"
+    ],
+    "A60965-e10780": [
+      "charlot-welldon"
+    ],
+    "A60965-e10810": [
+      "widow-lackitt"
+    ],
+    "A60965-e10840": [
+      "charlot-welldon"
+    ],
+    "A60965-e10870": [
+      "widow-lackitt"
+    ],
+    "A60965-e10910": [
+      "charlot-welldon"
+    ],
+    "A60965-e10940": [
+      "widow-lackitt"
+    ],
+    "A60965-e11000": [
+      "charlot-welldon"
+    ],
+    "A60965-e11030": [
+      "widow-lackitt"
+    ],
+    "A60965-e11070": [
+      "charlot-welldon"
+    ],
+    "A60965-e11130": [
+      "lucy-welldon"
+    ],
+    "A60965-e11160": [
+      "charlot-welldon"
+    ],
+    "A60965-e11190": [
+      "lucy-welldon"
+    ],
+    "A60965-e11220": [
+      "charlot-welldon"
+    ],
+    "A60965-e11250": [
+      "lucy-welldon"
+    ],
+    "A60965-e11280": [
+      "charlot-welldon"
+    ],
+    "A60965-e11310": [
+      "lucy-welldon"
+    ],
+    "A60965-e11340": [
+      "charlot-welldon"
+    ],
+    "A60965-e11400": [
+      "widow-lackitt"
+    ],
+    "A60965-e11440": [
+      "daniel"
+    ],
+    "A60965-e11470": [
+      "widow-lackitt"
+    ],
+    "A60965-e11500": [
+      "daniel"
+    ],
+    "A60965-e11530": [
+      "widow-lackitt"
+    ],
+    "A60965-e11600": [
+      "lucy-welldon"
+    ],
+    "A60965-e11650": [
+      "widow-lackitt"
+    ],
+    "A60965-e11690": [
+      "daniel"
+    ],
+    "A60965-e11720": [
+      "widow-lackitt"
+    ],
+    "A60965-e11750": [
+      "daniel"
+    ],
+    "A60965-e11780": [
+      "widow-lackitt"
+    ],
+    "A60965-e11840": [
+      "daniel"
+    ],
+    "A60965-e11910": [
+      "charlot-welldon"
+    ],
+    "A60965-e11940": [
+      "daniel"
+    ],
+    "A60965-e11970": [
+      "charlot-welldon"
+    ],
+    "A60965-e12000": [
+      "daniel"
+    ],
+    "A60965-e12060": [
+      "lucy-welldon"
+    ],
+    "A60965-e12090": [
+      "daniel"
+    ],
+    "A60965-e12120": [
+      "widow-lackitt"
+    ],
+    "A60965-e12160": [
+      "daniel"
+    ],
+    "A60965-e12190": [
+      "widow-lackitt"
+    ],
+    "A60965-e12220": [
+      "daniel"
+    ],
+    "A60965-e12250": [
+      "charlot-welldon"
+    ],
+    "A60965-e12280": [
+      "daniel"
+    ],
+    "A60965-e12310": [
+      "charlot-welldon"
+    ],
+    "A60965-e12360": [
+      "daniel"
+    ],
+    "A60965-e12390": [
+      "charlot-welldon"
+    ],
+    "A60965-e12420": [
+      "widow-lackitt"
+    ],
+    "A60965-e12450": [
+      "daniel"
+    ],
+    "A60965-e12480": [
+      "widow-lackitt"
+    ],
+    "A60965-e12510": [
+      "daniel"
+    ],
+    "A60965-e12570": [
+      "widow-lackitt"
+    ],
+    "A60965-e12610": [
+      "charlot-welldon"
+    ],
+    "A60965-e12640": [
+      "widow-lackitt"
+    ],
+    "A60965-e12680": [
+      "charlot-welldon"
+    ],
+    "A60965-e12770": [
+      "oroonoko"
+    ],
+    "A60965-e12810": [
+      "blanford"
+    ],
+    "A60965-e12840": [
+      "oroonoko"
+    ],
+    "A60965-e12940": [
+      "blanford"
+    ],
+    "A60965-e12970": [
+      "oroonoko"
+    ],
+    "A60965-e13030": [
+      "blanford"
+    ],
+    "A60965-e13070": [
+      "oroonoko"
+    ],
+    "A60965-e13120": [
+      "blanford"
+    ],
+    "A60965-e13200": [
+      "oroonoko"
+    ],
+    "A60965-e13280": [
+      "blanford"
+    ],
+    "A60965-e13320": [
+      "oroonoko"
+    ],
+    "A60965-e13390": [
+      "blanford"
+    ],
+    "A60965-e13420": [
+      "oroonoko"
+    ],
+    "A60965-e13480": [
+      "blanford"
+    ],
+    "A60965-e13510": [
+      "oroonoko"
+    ],
+    "A60965-e13620": [
+      "blanford"
+    ],
+    "A60965-e13650": [
+      "oroonoko"
+    ],
+    "A60965-e13740": [
+      "blanford"
+    ],
+    "A60965-e13770": [
+      "oroonoko"
+    ],
+    "A60965-e13830": [
+      "blanford"
+    ],
+    "A60965-e13890": [
+      "oroonoko"
+    ],
+    "A60965-e13970": [
+      "blanford"
+    ],
+    "A60965-e14000": [
+      "oroonoko"
+    ],
+    "A60965-e14130": [
+      "blanford"
+    ],
+    "A60965-e14160": [
+      "oroonoko"
+    ],
+    "A60965-e14320": [
+      "blanford"
+    ],
+    "A60965-e14350": [
+      "oroonoko"
+    ],
+    "A60965-e14540": [
+      "blanford"
+    ],
+    "A60965-e14580": [
+      "oroonoko"
+    ],
+    "A60965-e14650": [
+      "stanmore"
+    ],
+    "A60965-e14720": [
+      "oroonoko"
+    ],
+    "A60965-e14750": [
+      "blanford"
+    ],
+    "A60965-e14790": [
+      "oroonoko"
+    ],
+    "A60965-e14850": [
+      "blanford"
+    ],
+    "A60965-e14880": [
+      "oroonoko"
+    ],
+    "A60965-e14970": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e15090": [
+      "imoinda"
+    ],
+    "A60965-e15130": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e15300": [
+      "imoinda"
+    ],
+    "A60965-e15370": [
+      "blanford"
+    ],
+    "A60965-e15400": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e15450": [
+      "stanmore"
+    ],
+    "A60965-e15480": [
+      "blanford"
+    ],
+    "A60965-e15510": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e15540": [
+      "blanford"
+    ],
+    "A60965-e15590": [
+      "oroonoko"
+    ],
+    "A60965-e15630": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e15680": [
+      "blanford"
+    ],
+    "A60965-e15710": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e15740": [
+      "blanford"
+    ],
+    "A60965-e15780": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e15810": [
+      "blanford"
+    ],
+    "A60965-e15900": [
+      "oroonoko"
+    ],
+    "A60965-e15930": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e15970": [
+      "oroonoko"
+    ],
+    "A60965-e16020": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e16060": [
+      "oroonoko"
+    ],
+    "A60965-e16140": [
+      "blanford"
+    ],
+    "A60965-e16240": [
+      "stanmore"
+    ],
+    "A60965-e16280": [
+      "blanford"
+    ],
+    "A60965-e17040": [
+      "capt-driver"
+    ],
+    "A60965-e17090": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e17120": [
+      "jack-stanmore"
+    ],
+    "A60965-e17180": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e17210": [
+      "blanford"
+    ],
+    "A60965-e17250": [
+      "jack-stanmore"
+    ],
+    "A60965-e17290": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e17380": [
+      "planter-1"
+    ],
+    "A60965-e17410": [
+      "capt-driver"
+    ],
+    "A60965-e17450": [
+      "oroonoko"
+    ],
+    "A60965-e17480": [
+      "planter-1"
+    ],
+    "A60965-e17510": [
+      "capt-driver"
+    ],
+    "A60965-e17570": [
+      "blanford"
+    ],
+    "A60965-e17600": [
+      "capt-driver"
+    ],
+    "A60965-e17630": [
+      "blanford"
+    ],
+    "A60965-e17660": [
+      "capt-driver"
+    ],
+    "A60965-e17700": [
+      "oroonoko"
+    ],
+    "A60965-e17780": [
+      "blanford"
+    ],
+    "A60965-e17820": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e17850": [
+      "oroonoko"
+    ],
+    "A60965-e17960": [
+      "imoinda"
+    ],
+    "A60965-e18110": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e18260": [
+      "oroonoko"
+    ],
+    "A60965-e18290": [
+      "blanford"
+    ],
+    "A60965-e18320": [
+      "oroonoko"
+    ],
+    "A60965-e18370": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e18400": [
+      "oroonoko"
+    ],
+    "A60965-e18460": [
+      "blanford"
+    ],
+    "A60965-e18490": [
+      "oroonoko"
+    ],
+    "A60965-e18540": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e18570": [
+      "oroonoko"
+    ],
+    "A60965-e18730": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e18760": [
+      "blanford"
+    ],
+    "A60965-e18790": [
+      "oroonoko"
+    ],
+    "A60965-e18860": [
+      "imoinda"
+    ],
+    "A60965-e18970": [
+      "oroonoko"
+    ],
+    "A60965-e19040": [
+      "imoinda"
+    ],
+    "A60965-e19130": [
+      "oroonoko"
+    ],
+    "A60965-e19230": [
+      "imoinda"
+    ],
+    "A60965-e19320": [
+      "oroonoko"
+    ],
+    "A60965-e19470": [
+      "stanmore"
+    ],
+    "A60965-e19500": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e19550": [
+      "stanmore"
+    ],
+    "A60965-e19580": [
+      "blanford"
+    ],
+    "A60965-e19610": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e19640": [
+      "oroonoko"
+    ],
+    "A60965-e19770": [
+      "imoinda"
+    ],
+    "A60965-e19830": [
+      "oroonoko"
+    ],
+    "A60965-e20000": [
+      "hottman"
+    ],
+    "A60965-e20040": [
+      "aboan"
+    ],
+    "A60965-e20090": [
+      "slaves"
+    ],
+    "A60965-e20120": [
+      "aboan"
+    ],
+    "A60965-e20150": [
+      "hottman"
+    ],
+    "A60965-e20250": [
+      "aboan"
+    ],
+    "A60965-e20280": [
+      "hottman"
+    ],
+    "A60965-e20310": [
+      "aboan"
+    ],
+    "A60965-e20340": [
+      "hottman"
+    ],
+    "A60965-e20420": [
+      "aboan"
+    ],
+    "A60965-e20460": [
+      "hottman"
+    ],
+    "A60965-e20500": [
+      "aboan"
+    ],
+    "A60965-e20530": [
+      "hottman"
+    ],
+    "A60965-e20560": [
+      "aboan"
+    ],
+    "A60965-e20610": [
+      "slaves"
+    ],
+    "A60965-e20660": [
+      "blanford"
+    ],
+    "A60965-e20720": [
+      "aboan"
+    ],
+    "A60965-e20760": [
+      "blanford"
+    ],
+    "A60965-e20840": [
+      "oroonoko"
+    ],
+    "A60965-e21010": [
+      "imoinda"
+    ],
+    "A60965-e21090": [
+      "oroonoko"
+    ],
+    "A60965-e21120": [
+      "imoinda"
+    ],
+    "A60965-e21180": [
+      "blanford"
+    ],
+    "A60965-e21210": [
+      "oroonoko"
+    ],
+    "A60965-e21240": [
+      "aboan"
+    ],
+    "A60965-e21270": [
+      "oroonoko"
+    ],
+    "A60965-e21370": [
+      "blanford"
+    ],
+    "A60965-e21440": [
+      "oroonoko"
+    ],
+    "A60965-e21470": [
+      "blanford"
+    ],
+    "A60965-e21500": [
+      "oroonoko"
+    ],
+    "A60965-e21530": [
+      "blanford"
+    ],
+    "A60965-e21580": [
+      "oroonoko"
+    ],
+    "A60965-e21620": [
+      "blanford"
+    ],
+    "A60965-e21720": [
+      "oroonoko"
+    ],
+    "A60965-e21750": [
+      "blanford"
+    ],
+    "A60965-e21800": [
+      "aboan"
+    ],
+    "A60965-e21830": [
+      "oroonoko"
+    ],
+    "A60965-e21860": [
+      "aboan"
+    ],
+    "A60965-e21890": [
+      "oroonoko"
+    ],
+    "A60965-e21940": [
+      "aboan"
+    ],
+    "A60965-e22010": [
+      "oroonoko"
+    ],
+    "A60965-e22090": [
+      "aboan"
+    ],
+    "A60965-e22120": [
+      "oroonoko"
+    ],
+    "A60965-e22150": [
+      "aboan"
+    ],
+    "A60965-e22200": [
+      "oroonoko"
+    ],
+    "A60965-e22230": [
+      "aboan"
+    ],
+    "A60965-e22330": [
+      "oroonoko"
+    ],
+    "A60965-e22360": [
+      "aboan"
+    ],
+    "A60965-e22470": [
+      "oroonoko"
+    ],
+    "A60965-e22500": [
+      "aboan"
+    ],
+    "A60965-e22530": [
+      "oroonoko"
+    ],
+    "A60965-e22560": [
+      "aboan"
+    ],
+    "A60965-e22610": [
+      "oroonoko"
+    ],
+    "A60965-e22640": [
+      "aboan"
+    ],
+    "A60965-e22670": [
+      "oroonoko"
+    ],
+    "A60965-e22700": [
+      "aboan"
+    ],
+    "A60965-e22730": [
+      "oroonoko"
+    ],
+    "A60965-e22760": [
+      "aboan"
+    ],
+    "A60965-e22840": [
+      "oroonoko"
+    ],
+    "A60965-e22970": [
+      "aboan"
+    ],
+    "A60965-e23000": [
+      "oroonoko"
+    ],
+    "A60965-e23160": [
+      "aboan"
+    ],
+    "A60965-e23300": [
+      "oroonoko"
+    ],
+    "A60965-e23340": [
+      "aboan"
+    ],
+    "A60965-e23470": [
+      "oroonoko"
+    ],
+    "A60965-e23550": [
+      "aboan"
+    ],
+    "A60965-e23600": [
+      "oroonoko"
+    ],
+    "A60965-e23630": [
+      "aboan"
+    ],
+    "A60965-e23680": [
+      "oroonoko"
+    ],
+    "A60965-e23720": [
+      "imoinda"
+    ],
+    "A60965-e23830": [
+      "oroonoko"
+    ],
+    "A60965-e23910": [
+      "aboan"
+    ],
+    "A60965-e24010": [
+      "imoinda"
+    ],
+    "A60965-e24040": [
+      "aboan"
+    ],
+    "A60965-e24170": [
+      "imoinda"
+    ],
+    "A60965-e24240": [
+      "oroonoko"
+    ],
+    "A60965-e24270": [
+      "aboan"
+    ],
+    "A60965-e24420": [
+      "oroonoko"
+    ],
+    "A60965-e24600": [
+      "aboan"
+    ],
+    "A60965-e24680": [
+      "oroonoko"
+    ],
+    "A60965-e24740": [
+      "aboan"
+    ],
+    "A60965-e24770": [
+      "oroonoko"
+    ],
+    "A60965-e24820": [
+      "aboan"
+    ],
+    "A60965-e24860": [
+      "oroonoko"
+    ],
+    "A60965-e24980": [
+      "widow-lackitt"
+    ],
+    "A60965-e25030": [
+      "charlot-welldon"
+    ],
+    "A60965-e25060": [
+      "widow-lackitt"
+    ],
+    "A60965-e25100": [
+      "charlot-welldon"
+    ],
+    "A60965-e25130": [
+      "widow-lackitt"
+    ],
+    "A60965-e25160": [
+      "charlot-welldon"
+    ],
+    "A60965-e25200": [
+      "widow-lackitt"
+    ],
+    "A60965-e25240": [
+      "charlot-welldon"
+    ],
+    "A60965-e25270": [
+      "widow-lackitt"
+    ],
+    "A60965-e25310": [
+      "charlot-welldon"
+    ],
+    "A60965-e25350": [
+      "widow-lackitt"
+    ],
+    "A60965-e25380": [
+      "charlot-welldon"
+    ],
+    "A60965-e25420": [
+      "widow-lackitt"
+    ],
+    "A60965-e25450": [
+      "charlot-welldon"
+    ],
+    "A60965-e25480": [
+      "widow-lackitt"
+    ],
+    "A60965-e25530": [
+      "charlot-welldon"
+    ],
+    "A60965-e25560": [
+      "widow-lackitt"
+    ],
+    "A60965-e25600": [
+      "charlot-welldon"
+    ],
+    "A60965-e25630": [
+      "widow-lackitt"
+    ],
+    "A60965-e25670": [
+      "charlot-welldon"
+    ],
+    "A60965-e25760": [
+      "stanmore"
+    ],
+    "A60965-e25800": [
+      "charlot-welldon"
+    ],
+    "A60965-e25830": [
+      "stanmore"
+    ],
+    "A60965-e25860": [
+      "charlot-welldon"
+    ],
+    "A60965-e25910": [
+      "stanmore"
+    ],
+    "A60965-e25940": [
+      "charlot-welldon"
+    ],
+    "A60965-e26030": [
+      "oroonoko"
+    ],
+    "A60965-e26130": [
+      "slaves"
+    ],
+    "A60965-e26240": [
+      "oroonoko"
+    ],
+    "A60965-e26380": [
+      "aboan"
+    ],
+    "A60965-e26440": [
+      "oroonoko"
+    ],
+    "A60965-e26500": [
+      "slaves",
+      "aboan"
+    ],
+    "A60965-e26530": [
+      "oroonoko"
+    ],
+    "A60965-e26580": [
+      "hottman"
+    ],
+    "A60965-e26620": [
+      "aboan"
+    ],
+    "A60965-e26700": [
+      "oroonoko"
+    ],
+    "A60965-e26840": [
+      "oroonoko"
+    ],
+    "A60965-e27000": [
+      "hottman"
+    ],
+    "A60965-e27030": [
+      "oroonoko"
+    ],
+    "A60965-e27190": [
+      "hottman"
+    ],
+    "A60965-e27230": [
+      "oroonoko"
+    ],
+    "A60965-e27260": [
+      "aboan"
+    ],
+    "A60965-e27290": [
+      "oroonoko"
+    ],
+    "A60965-e27330": [
+      "aboan"
+    ],
+    "A60965-e27370": [
+      "oroonoko"
+    ],
+    "A60965-e27410": [
+      "aboan"
+    ],
+    "A60965-e27440": [
+      "oroonoko"
+    ],
+    "A60965-e27470": [
+      "aboan"
+    ],
+    "A60965-e27520": [
+      "oroonoko"
+    ],
+    "A60965-e27550": [
+      "aboan"
+    ],
+    "A60965-e27580": [
+      "oroonoko"
+    ],
+    "A60965-e27610": [
+      "aboan"
+    ],
+    "A60965-e27660": [
+      "oroonoko"
+    ],
+    "A60965-e27690": [
+      "aboan"
+    ],
+    "A60965-e27750": [
+      "oroonoko"
+    ],
+    "A60965-e27780": [
+      "aboan"
+    ],
+    "A60965-e27810": [
+      "oroonoko"
+    ],
+    "A60965-e27940": [
+      "aboan"
+    ],
+    "A60965-e27990": [
+      "oroonoko"
+    ],
+    "A60965-e28080": [
+      "slaves",
+      "aboan"
+    ],
+    "A60965-e28110": [
+      "oroonoko"
+    ],
+    "A60965-e28270": [
+      "charlot-welldon"
+    ],
+    "A60965-e28310": [
+      "jack-stanmore"
+    ],
+    "A60965-e28350": [
+      "charlot-welldon"
+    ],
+    "A60965-e28400": [
+      "jack-stanmore"
+    ],
+    "A60965-e28440": [
+      "charlot-welldon"
+    ],
+    "A60965-e28470": [
+      "jack-stanmore"
+    ],
+    "A60965-e28500": [
+      "charlot-welldon"
+    ],
+    "A60965-e28530": [
+      "jack-stanmore"
+    ],
+    "A60965-e28570": [
+      "charlot-welldon"
+    ],
+    "A60965-e28600": [
+      "jack-stanmore"
+    ],
+    "A60965-e28630": [
+      "charlot-welldon"
+    ],
+    "A60965-e28670": [
+      "jack-stanmore"
+    ],
+    "A60965-e28700": [
+      "charlot-welldon"
+    ],
+    "A60965-e28730": [
+      "jack-stanmore"
+    ],
+    "A60965-e28760": [
+      "charlot-welldon"
+    ],
+    "A60965-e28790": [
+      "jack-stanmore"
+    ],
+    "A60965-e28820": [
+      "charlot-welldon"
+    ],
+    "A60965-e28850": [
+      "jack-stanmore"
+    ],
+    "A60965-e28880": [
+      "charlot-welldon"
+    ],
+    "A60965-e28910": [
+      "jack-stanmore"
+    ],
+    "A60965-e28940": [
+      "charlot-welldon"
+    ],
+    "A60965-e28970": [
+      "jack-stanmore"
+    ],
+    "A60965-e29000": [
+      "charlot-welldon"
+    ],
+    "A60965-e29040": [
+      "jack-stanmore"
+    ],
+    "A60965-e29080": [
+      "charlot-welldon"
+    ],
+    "A60965-e29130": [
+      "charlot-welldon"
+    ],
+    "A60965-e29170": [
+      "widow-lackitt"
+    ],
+    "A60965-e29210": [
+      "charlot-welldon"
+    ],
+    "A60965-e29240": [
+      "widow-lackitt"
+    ],
+    "A60965-e29280": [
+      "charlot-welldon"
+    ],
+    "A60965-e29310": [
+      "widow-lackitt"
+    ],
+    "A60965-e29340": [
+      "charlot-welldon"
+    ],
+    "A60965-e29370": [
+      "widow-lackitt"
+    ],
+    "A60965-e29400": [
+      "charlot-welldon"
+    ],
+    "A60965-e29430": [
+      "widow-lackitt"
+    ],
+    "A60965-e29460": [
+      "charlot-welldon"
+    ],
+    "A60965-e29490": [
+      "widow-lackitt"
+    ],
+    "A60965-e29530": [
+      "charlot-welldon"
+    ],
+    "A60965-e29560": [
+      "widow-lackitt"
+    ],
+    "A60965-e29600": [
+      "charlot-welldon"
+    ],
+    "A60965-e29630": [
+      "widow-lackitt"
+    ],
+    "A60965-e29660": [
+      "charlot-welldon"
+    ],
+    "A60965-e29690": [
+      "widow-lackitt"
+    ],
+    "A60965-e29730": [
+      "charlot-welldon"
+    ],
+    "A60965-e29760": [
+      "widow-lackitt"
+    ],
+    "A60965-e29790": [
+      "charlot-welldon"
+    ],
+    "A60965-e29820": [
+      "widow-lackitt"
+    ],
+    "A60965-e29860": [
+      "charlot-welldon"
+    ],
+    "A60965-e29890": [
+      "widow-lackitt"
+    ],
+    "A60965-e29970": [
+      "charlot-welldon"
+    ],
+    "A60965-e30000": [
+      "widow-lackitt"
+    ],
+    "A60965-e30040": [
+      "charlot-welldon"
+    ],
+    "A60965-e30070": [
+      "widow-lackitt"
+    ],
+    "A60965-e30100": [
+      "charlot-welldon"
+    ],
+    "A60965-e30130": [
+      "widow-lackitt"
+    ],
+    "A60965-e30160": [
+      "charlot-welldon"
+    ],
+    "A60965-e30190": [
+      "widow-lackitt"
+    ],
+    "A60965-e30230": [
+      "charlot-welldon"
+    ],
+    "A60965-e30260": [
+      "widow-lackitt"
+    ],
+    "A60965-e30300": [
+      "charlot-welldon"
+    ],
+    "A60965-e30330": [
+      "widow-lackitt"
+    ],
+    "A60965-e30360": [
+      "charlot-welldon"
+    ],
+    "A60965-e30390": [
+      "widow-lackitt"
+    ],
+    "A60965-e30440": [
+      "daniel"
+    ],
+    "A60965-e30470": [
+      "lucy-welldon"
+    ],
+    "A60965-e30500": [
+      "daniel"
+    ],
+    "A60965-e30530": [
+      "widow-lackitt"
+    ],
+    "A60965-e30570": [
+      "daniel"
+    ],
+    "A60965-e30620": [
+      "widow-lackitt"
+    ],
+    "A60965-e30650": [
+      "daniel"
+    ],
+    "A60965-e30680": [
+      "widow-lackitt"
+    ],
+    "A60965-e30710": [
+      "daniel"
+    ],
+    "A60965-e30740": [
+      "widow-lackitt"
+    ],
+    "A60965-e30770": [
+      "daniel"
+    ],
+    "A60965-e30800": [
+      "lucy-welldon"
+    ],
+    "A60965-e30830": [
+      "widow-lackitt"
+    ],
+    "A60965-e30870": [
+      "lucy-welldon"
+    ],
+    "A60965-e30900": [
+      "widow-lackitt"
+    ],
+    "A60965-e30930": [
+      "lucy-welldon"
+    ],
+    "A60965-e30960": [
+      "widow-lackitt"
+    ],
+    "A60965-e31000": [
+      "daniel"
+    ],
+    "A60965-e31040": [
+      "charlot-welldon"
+    ],
+    "A60965-e31070": [
+      "daniel"
+    ],
+    "A60965-e31110": [
+      "lucy-welldon"
+    ],
+    "A60965-e31140": [
+      "widow-lackitt"
+    ],
+    "A60965-e31180": [
+      "lucy-welldon"
+    ],
+    "A60965-e31210": [
+      "daniel"
+    ],
+    "A60965-e31240": [
+      "widow-lackitt"
+    ],
+    "A60965-e31280": [
+      "daniel"
+    ],
+    "A60965-e31320": [
+      "widow-lackitt"
+    ],
+    "A60965-e31350": [
+      "daniel"
+    ],
+    "A60965-e31380": [
+      "widow-lackitt"
+    ],
+    "A60965-e31430": [
+      "charlot-welldon"
+    ],
+    "A60965-e31460": [
+      "lucy-welldon"
+    ],
+    "A60965-e31500": [
+      "charlot-welldon"
+    ],
+    "A60965-e31530": [
+      "lucy-welldon"
+    ],
+    "A60965-e31560": [
+      "charlot-welldon"
+    ],
+    "A60965-e31590": [
+      "lucy-welldon"
+    ],
+    "A60965-e31630": [
+      "charlot-welldon"
+    ],
+    "A60965-e31690": [
+      "lucy-welldon"
+    ],
+    "A60965-e31730": [
+      "charlot-welldon"
+    ],
+    "A60965-e31840": [
+      "stanmore"
+    ],
+    "A60965-e31880": [
+      "charlot-welldon"
+    ],
+    "A60965-e31930": [
+      "stanmore"
+    ],
+    "A60965-e31970": [
+      "charlot-welldon"
+    ],
+    "A60965-e32000": [
+      "stanmore"
+    ],
+    "A60965-e32070": [
+      "charlot-welldon"
+    ],
+    "A60965-e32110": [
+      "stanmore"
+    ],
+    "A60965-e32140": [
+      "charlot-welldon"
+    ],
+    "A60965-e32170": [
+      "stanmore"
+    ],
+    "A60965-e32210": [
+      "charlot-welldon"
+    ],
+    "A60965-e32240": [
+      "stanmore"
+    ],
+    "A60965-e32270": [
+      "charlot-welldon"
+    ],
+    "A60965-e32300": [
+      "stanmore"
+    ],
+    "A60965-e32330": [
+      "charlot-welldon"
+    ],
+    "A60965-e32380": [
+      "stanmore"
+    ],
+    "A60965-e32410": [
+      "charlot-welldon"
+    ],
+    "A60965-e32440": [
+      "stanmore"
+    ],
+    "A60965-e32480": [
+      "charlot-welldon"
+    ],
+    "A60965-e32510": [
+      "stanmore"
+    ],
+    "A60965-e32550": [
+      "charlot-welldon"
+    ],
+    "A60965-e32580": [
+      "stanmore"
+    ],
+    "A60965-e32670": [
+      "oroonoko"
+    ],
+    "A60965-e32730": [
+      "imoinda"
+    ],
+    "A60965-e32760": [
+      "oroonoko"
+    ],
+    "A60965-e32790": [
+      "aboan"
+    ],
+    "A60965-e32840": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e32910": [
+      "aboan"
+    ],
+    "A60965-e32980": [
+      "oroonoko"
+    ],
+    "A60965-e33100": [
+      "capt-driver"
+    ],
+    "A60965-e33170": [
+      "oroonoko"
+    ],
+    "A60965-e33200": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e33320": [
+      "oroonoko"
+    ],
+    "A60965-e33360": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e33490": [
+      "oroonoko"
+    ],
+    "A60965-e33520": [
+      "women"
+    ],
+    "A60965-e33550": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e33600": [
+      "oroonoko"
+    ],
+    "A60965-e33640": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e33700": [
+      "slaves"
+    ],
+    "A60965-e33730": [
+      "oroonoko"
+    ],
+    "A60965-e33920": [
+      "aboan"
+    ],
+    "A60965-e33950": [
+      "oroonoko"
+    ],
+    "A60965-e34030": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e34090": [
+      "oroonoko"
+    ],
+    "A60965-e34120": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e34240": [
+      "oroonoko"
+    ],
+    "A60965-e34270": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e34370": [
+      "oroonoko"
+    ],
+    "A60965-e34440": [
+      "blanford"
+    ],
+    "A60965-e34490": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e34520": [
+      "oroonoko"
+    ],
+    "A60965-e34550": [
+      "blanford"
+    ],
+    "A60965-e34620": [
+      "oroonoko"
+    ],
+    "A60965-e34690": [
+      "blanford"
+    ],
+    "A60965-e34740": [
+      "oroonoko"
+    ],
+    "A60965-e34810": [
+      "blanford"
+    ],
+    "A60965-e34840": [
+      "oroonoko"
+    ],
+    "A60965-e34870": [
+      "blanford"
+    ],
+    "A60965-e34910": [
+      "oroonoko"
+    ],
+    "A60965-e34960": [
+      "blanford"
+    ],
+    "A60965-e35040": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e35110": [
+      "blanford"
+    ],
+    "A60965-e35140": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e35180": [
+      "blanford"
+    ],
+    "A60965-e35250": [
+      "oroonoko"
+    ],
+    "A60965-e35370": [
+      "blanford"
+    ],
+    "A60965-e35440": [
+      "oroonoko"
+    ],
+    "A60965-e35700": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e35740": [
+      "blanford"
+    ],
+    "A60965-e35770": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e35860": [
+      "imoinda"
+    ],
+    "A60965-e35920": [
+      "oroonoko"
+    ],
+    "A60965-e35960": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e36020": [
+      "imoinda"
+    ],
+    "A60965-e36050": [
+      "oroonoko"
+    ],
+    "A60965-e36190": [
+      "stanmore"
+    ],
+    "A60965-e36220": [
+      "lucy-welldon"
+    ],
+    "A60965-e36250": [
+      "stanmore"
+    ],
+    "A60965-e36280": [
+      "lucy-welldon"
+    ],
+    "A60965-e36310": [
+      "stanmore"
+    ],
+    "A60965-e36340": [
+      "charlot-welldon"
+    ],
+    "A60965-e36390": [
+      "stanmore"
+    ],
+    "A60965-e36420": [
+      "lucy-welldon"
+    ],
+    "A60965-e36450": [
+      "stanmore"
+    ],
+    "A60965-e36480": [
+      "charlot-welldon"
+    ],
+    "A60965-e36520": [
+      "stanmore"
+    ],
+    "A60965-e36550": [
+      "charlot-welldon"
+    ],
+    "A60965-e36580": [
+      "stanmore"
+    ],
+    "A60965-e36610": [
+      "lucy-welldon"
+    ],
+    "A60965-e36650": [
+      "stanmore"
+    ],
+    "A60965-e36680": [
+      "charlot-welldon"
+    ],
+    "A60965-e36710": [
+      "stanmore"
+    ],
+    "A60965-e36740": [
+      "charlot-welldon"
+    ],
+    "A60965-e36770": [
+      "stanmore"
+    ],
+    "A60965-e36800": [
+      "charlot-welldon"
+    ],
+    "A60965-e36850": [
+      "stanmore"
+    ],
+    "A60965-e36890": [
+      "charlot-welldon"
+    ],
+    "A60965-e36920": [
+      "stanmore"
+    ],
+    "A60965-e36960": [
+      "charlot-welldon"
+    ],
+    "A60965-e36990": [
+      "stanmore"
+    ],
+    "A60965-e37020": [
+      "charlot-welldon"
+    ],
+    "A60965-e37050": [
+      "stanmore"
+    ],
+    "A60965-e37080": [
+      "charlot-welldon"
+    ],
+    "A60965-e37110": [
+      "stanmore"
+    ],
+    "A60965-e37140": [
+      "charlot-welldon"
+    ],
+    "A60965-e37180": [
+      "stanmore"
+    ],
+    "A60965-e37210": [
+      "charlot-welldon"
+    ],
+    "A60965-e37240": [
+      "stanmore"
+    ],
+    "A60965-e37270": [
+      "charlot-welldon"
+    ],
+    "A60965-e37300": [
+      "stanmore"
+    ],
+    "A60965-e37330": [
+      "charlot-welldon"
+    ],
+    "A60965-e37360": [
+      "stanmore"
+    ],
+    "A60965-e37390": [
+      "charlot-welldon"
+    ],
+    "A60965-e37420": [
+      "stanmore"
+    ],
+    "A60965-e37450": [
+      "charlot-welldon"
+    ],
+    "A60965-e37480": [
+      "stanmore"
+    ],
+    "A60965-e37510": [
+      "charlot-welldon"
+    ],
+    "A60965-e37570": [
+      "stanmore"
+    ],
+    "A60965-e37610": [
+      "jack-stanmore"
+    ],
+    "A60965-e37680": [
+      "charlot-welldon"
+    ],
+    "A60965-e37760": [
+      "widow-lackitt"
+    ],
+    "A60965-e37810": [
+      "daniel"
+    ],
+    "A60965-e37840": [
+      "lucy-welldon"
+    ],
+    "A60965-e37890": [
+      "daniel"
+    ],
+    "A60965-e37920": [
+      "lucy-welldon"
+    ],
+    "A60965-e37970": [
+      "widow-lackitt"
+    ],
+    "A60965-e38030": [
+      "lucy-welldon"
+    ],
+    "A60965-e38070": [
+      "widow-lackitt"
+    ],
+    "A60965-e38100": [
+      "charlot-welldon"
+    ],
+    "A60965-e38130": [
+      "widow-lackitt"
+    ],
+    "A60965-e38170": [
+      "charlot-welldon"
+    ],
+    "A60965-e38230": [
+      "widow-lackitt"
+    ],
+    "A60965-e38280": [
+      "charlot-welldon"
+    ],
+    "A60965-e38310": [
+      "widow-lackitt"
+    ],
+    "A60965-e38340": [
+      "charlot-welldon"
+    ],
+    "A60965-e38370": [
+      "widow-lackitt"
+    ],
+    "A60965-e38400": [
+      "charlot-welldon"
+    ],
+    "A60965-e38430": [
+      "widow-lackitt"
+    ],
+    "A60965-e38460": [
+      "charlot-welldon"
+    ],
+    "A60965-e38490": [
+      "widow-lackitt"
+    ],
+    "A60965-e38520": [
+      "charlot-welldon"
+    ],
+    "A60965-e38550": [
+      "widow-lackitt"
+    ],
+    "A60965-e38580": [
+      "charlot-welldon"
+    ],
+    "A60965-e38630": [
+      "widow-lackitt"
+    ],
+    "A60965-e38660": [
+      "charlot-welldon"
+    ],
+    "A60965-e38700": [
+      "widow-lackitt"
+    ],
+    "A60965-e38730": [
+      "charlot-welldon"
+    ],
+    "A60965-e38780": [
+      "widow-lackitt"
+    ],
+    "A60965-e38810": [
+      "charlot-welldon"
+    ],
+    "A60965-e38840": [
+      "jack-stanmore"
+    ],
+    "A60965-e38870": [
+      "widow-lackitt"
+    ],
+    "A60965-e38900": [
+      "stanmore"
+    ],
+    "A60965-e38950": [
+      "servant"
+    ],
+    "A60965-e38990": [
+      "stanmore"
+    ],
+    "A60965-e39020": [
+      "daniel"
+    ],
+    "A60965-e39050": [
+      "lucy-welldon"
+    ],
+    "A60965-e39090": [
+      "daniel"
+    ],
+    "A60965-e39210": [
+      "blanford"
+    ],
+    "A60965-e39430": [
+      "planter-1"
+    ],
+    "A60965-e39460": [
+      "planter-2"
+    ],
+    "A60965-e39490": [
+      "planter-1"
+    ],
+    "A60965-e39530": [
+      "planter-2"
+    ],
+    "A60965-e39560": [
+      "planter-1",
+      "planter-2",
+      "planter-3",
+      "planter-4"
+    ],
+    "A60965-e39590": [
+      "widow-lackitt"
+    ],
+    "A60965-e39620": [
+      "charlot-welldon",
+      "lucy-welldon"
+    ],
+    "A60965-e39650": [
+      "jack-stanmore"
+    ],
+    "A60965-e39680": [
+      "blanford"
+    ],
+    "A60965-e39750": [
+      "stanmore"
+    ],
+    "A60965-e39810": [
+      "blanford"
+    ],
+    "A60965-e39990": [
+      "widow-lackitt"
+    ],
+    "A60965-e40020": [
+      "stanmore"
+    ],
+    "A60965-e40060": [
+      "charlot-welldon"
+    ],
+    "A60965-e40090": [
+      "blanford"
+    ],
+    "A60965-e40140": [
+      "charlot-welldon"
+    ],
+    "A60965-e40180": [
+      "widow-lackitt",
+      "charlot-welldon",
+      "lucy-welldon",
+      "blanford",
+      "stanmore"
+    ],
+    "A60965-e40210": [
+      "lucy-welldon"
+    ],
+    "A60965-e40240": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e40290": [
+      "blanford"
+    ],
+    "A60965-e40380": [
+      "blanford"
+    ],
+    "A60965-e40470": [
+      "stanmore"
+    ],
+    "A60965-e40520": [
+      "blanford"
+    ],
+    "A60965-e40620": [
+      "stanmore"
+    ],
+    "A60965-e40700": [
+      "blanford"
+    ],
+    "A60965-e40760": [
+      "stanmore"
+    ],
+    "A60965-e40800": [
+      "oroonoko"
+    ],
+    "A60965-e40940": [
+      "blanford"
+    ],
+    "A60965-e40980": [
+      "charlot-welldon"
+    ],
+    "A60965-e41010": [
+      "widow-lackitt"
+    ],
+    "A60965-e41040": [
+      "blanford"
+    ],
+    "A60965-e41120": [
+      "oroonoko"
+    ],
+    "A60965-e41520": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e41730": [
+      "widow-lackitt"
+    ],
+    "A60965-e41760": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e41790": [
+      "charlot-welldon"
+    ],
+    "A60965-e41850": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e41880": [
+      "widow-lackitt"
+    ],
+    "A60965-e41910": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e41940": [
+      "widow-lackitt"
+    ],
+    "A60965-e41970": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42010": [
+      "lucy-welldon"
+    ],
+    "A60965-e42040": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42070": [
+      "blanford"
+    ],
+    "A60965-e42100": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42130": [
+      "charlot-welldon"
+    ],
+    "A60965-e42160": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42200": [
+      "blanford"
+    ],
+    "A60965-e42250": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42390": [
+      "imoinda"
+    ],
+    "A60965-e42420": [
+      "blanford"
+    ],
+    "A60965-e42450": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42480": [
+      "blanford"
+    ],
+    "A60965-e42510": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42540": [
+      "blanford"
+    ],
+    "A60965-e42570": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42600": [
+      "blanford"
+    ],
+    "A60965-e42630": [
+      "imoinda"
+    ],
+    "A60965-e42700": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42750": [
+      "blanford"
+    ],
+    "A60965-e42790": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e42880": [
+      "oroonoko"
+    ],
+    "A60965-e43170": [
+      "aboan"
+    ],
+    "A60965-e43240": [
+      "oroonoko"
+    ],
+    "A60965-e43270": [
+      "aboan"
+    ],
+    "A60965-e43470": [
+      "oroonoko"
+    ],
+    "A60965-e43500": [
+      "aboan"
+    ],
+    "A60965-e43580": [
+      "oroonoko"
+    ],
+    "A60965-e43650": [
+      "aboan"
+    ],
+    "A60965-e43760": [
+      "oroonoko"
+    ],
+    "A60965-e44000": [
+      "imoinda"
+    ],
+    "A60965-e44030": [
+      "oroonoko"
+    ],
+    "A60965-e44060": [
+      "imoinda"
+    ],
+    "A60965-e44090": [
+      "oroonoko"
+    ],
+    "A60965-e44150": [
+      "imoinda"
+    ],
+    "A60965-e44180": [
+      "oroonoko"
+    ],
+    "A60965-e44210": [
+      "imoinda"
+    ],
+    "A60965-e44240": [
+      "oroonoko"
+    ],
+    "A60965-e44270": [
+      "imoinda"
+    ],
+    "A60965-e44300": [
+      "oroonoko"
+    ],
+    "A60965-e44330": [
+      "imoinda"
+    ],
+    "A60965-e44360": [
+      "oroonoko"
+    ],
+    "A60965-e44400": [
+      "imoinda"
+    ],
+    "A60965-e44460": [
+      "oroonoko"
+    ],
+    "A60965-e44500": [
+      "imoinda"
+    ],
+    "A60965-e44530": [
+      "oroonoko"
+    ],
+    "A60965-e44560": [
+      "imoinda"
+    ],
+    "A60965-e44590": [
+      "oroonoko"
+    ],
+    "A60965-e44640": [
+      "imoinda"
+    ],
+    "A60965-e44690": [
+      "oroonoko"
+    ],
+    "A60965-e44770": [
+      "imoinda"
+    ],
+    "A60965-e44810": [
+      "oroonoko"
+    ],
+    "A60965-e44860": [
+      "imoinda"
+    ],
+    "A60965-e44890": [
+      "oroonoko"
+    ],
+    "A60965-e44920": [
+      "imoinda"
+    ],
+    "A60965-e44950": [
+      "oroonoko"
+    ],
+    "A60965-e44980": [
+      "imoinda"
+    ],
+    "A60965-e45010": [
+      "oroonoko"
+    ],
+    "A60965-e45050": [
+      "imoinda"
+    ],
+    "A60965-e45080": [
+      "oroonoko"
+    ],
+    "A60965-e45120": [
+      "imoinda"
+    ],
+    "A60965-e45170": [
+      "oroonoko"
+    ],
+    "A60965-e45280": [
+      "imoinda"
+    ],
+    "A60965-e45320": [
+      "oroonoko"
+    ],
+    "A60965-e45390": [
+      "imoinda"
+    ],
+    "A60965-e45420": [
+      "oroonoko"
+    ],
+    "A60965-e45620": [
+      "imoinda"
+    ],
+    "A60965-e45670": [
+      "oroonoko"
+    ],
+    "A60965-e45700": [
+      "imoinda"
+    ],
+    "A60965-e45730": [
+      "oroonoko"
+    ],
+    "A60965-e45760": [
+      "imoinda"
+    ],
+    "A60965-e45800": [
+      "oroonoko"
+    ],
+    "A60965-e45930": [
+      "imoinda"
+    ],
+    "A60965-e45960": [
+      "oroonoko"
+    ],
+    "A60965-e45990": [
+      "imoinda"
+    ],
+    "A60965-e46060": [
+      "oroonoko"
+    ],
+    "A60965-e46110": [
+      "imoinda"
+    ],
+    "A60965-e46140": [
+      "oroonoko"
+    ],
+    "A60965-e46190": [
+      "imoinda"
+    ],
+    "A60965-e46230": [
+      "oroonoko"
+    ],
+    "A60965-e46270": [
+      "imoinda"
+    ],
+    "A60965-e46360": [
+      "oroonoko"
+    ],
+    "A60965-e46410": [
+      "imoinda"
+    ],
+    "A60965-e46440": [
+      "oroonoko"
+    ],
+    "A60965-e46500": [
+      "imoinda"
+    ],
+    "A60965-e46580": [
+      "oroonoko"
+    ],
+    "A60965-e46610": [
+      "imoinda"
+    ],
+    "A60965-e46660": [
+      "oroonoko"
+    ],
+    "A60965-e46780": [
+      "imoinda"
+    ],
+    "A60965-e46810": [
+      "oroonoko"
+    ],
+    "A60965-e46840": [
+      "imoinda"
+    ],
+    "A60965-e46900": [
+      "oroonoko"
+    ],
+    "A60965-e46930": [
+      "imoinda"
+    ],
+    "A60965-e47000": [
+      "oroonoko"
+    ],
+    "A60965-e47040": [
+      "imoinda"
+    ],
+    "A60965-e47080": [
+      "oroonoko"
+    ],
+    "A60965-e47120": [
+      "imoinda"
+    ],
+    "A60965-e47160": [
+      "oroonoko"
+    ],
+    "A60965-e47240": [
+      "imoinda"
+    ],
+    "A60965-e47270": [
+      "oroonoko"
+    ],
+    "A60965-e47380": [
+      "imoinda"
+    ],
+    "A60965-e47470": [
+      "oroonoko"
+    ],
+    "A60965-e47520": [
+      "imoinda"
+    ],
+    "A60965-e47570": [
+      "oroonoko"
+    ],
+    "A60965-e47680": [
+      "imoinda"
+    ],
+    "A60965-e47730": [
+      "oroonoko"
+    ],
+    "A60965-e47760": [
+      "imoinda"
+    ],
+    "A60965-e47800": [
+      "oroonoko"
+    ],
+    "A60965-e47860": [
+      "imoinda"
+    ],
+    "A60965-e47890": [
+      "oroonoko"
+    ],
+    "A60965-e47940": [
+      "imoinda"
+    ],
+    "A60965-e47970": [
+      "oroonoko"
+    ],
+    "A60965-e48010": [
+      "imoinda"
+    ],
+    "A60965-e48060": [
+      "oroonoko"
+    ],
+    "A60965-e48100": [
+      "imoinda"
+    ],
+    "A60965-e48190": [
+      "oroonoko"
+    ],
+    "A60965-e48370": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e48400": [
+      "blanford"
+    ],
+    "A60965-e48430": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e48460": [
+      "oroonoko"
+    ],
+    "A60965-e48530": [
+      "blanford"
+    ],
+    "A60965-e48580": [
+      "lieutenant-governor-of-surinam"
+    ],
+    "A60965-e48610": [
+      "oroonoko"
+    ],
+    "A60965-e48710": [
+      "stanmore"
+    ],
+    "A60965-e48740": [
+      "oroonoko"
+    ],
+    "A60965-e48800": [
+      "blanford"
+    ]
+  }
+}

@@ -1,0 +1,2216 @@
+{
+  "particDesc": [
+    {
+      "name": "Country Fellow",
+      "id": "country-fellow",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lady Lovemore’s Father",
+      "id": "lady-lovemore-s-father",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servants",
+      "id": "servants",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Servingman",
+      "id": "servingman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-richard-lovemore",
+      "name": "Sir Richard Lovemore",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rowland",
+      "name": "Rowland",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "longmore",
+      "name": "Longmore",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "butler",
+      "name": "Butler",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cook",
+      "name": "Cook",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "coachman",
+      "name": "Coachman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "noddy",
+      "name": "Noddy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "jobson",
+      "name": "Jobson",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "nadyr",
+      "name": "Nadyr",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "abyshog",
+      "name": "Abyshog",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "countryman",
+      "name": "Countryman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "fidler",
+      "name": "Fidler",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "footboy",
+      "name": "Footboy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lady-lovemore",
+      "name": "Lady Lovemore",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "chambermaid",
+      "name": "Chambermaid",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "jane",
+      "name": "Jane",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "nell",
+      "name": "Nell",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A46869-e1920": [
+      "nell"
+    ],
+    "A46869-e1950": [
+      "jobson"
+    ],
+    "A46869-e1980": [
+      "nell"
+    ],
+    "A46869-e2020": [
+      "jobson"
+    ],
+    "A46869-e2060": [
+      "nell"
+    ],
+    "A46869-e2090": [
+      "jobson"
+    ],
+    "A46869-e2140": [
+      "nell"
+    ],
+    "A46869-e2170": [
+      "jobson"
+    ],
+    "A46869-e2200": [
+      "nell"
+    ],
+    "A46869-e2230": [
+      "jobson"
+    ],
+    "A46869-e2260": [
+      "nell"
+    ],
+    "A46869-e2290": [
+      "jobson"
+    ],
+    "A46869-e2320": [
+      "nell"
+    ],
+    "A46869-e2360": [
+      "jobson"
+    ],
+    "A46869-e2390": [
+      "jobson"
+    ],
+    "A46869-e2480": [
+      "nell"
+    ],
+    "A46869-e2510": [
+      "jobson"
+    ],
+    "A46869-e2550": [
+      "nell"
+    ],
+    "A46869-e2580": [
+      "jobson"
+    ],
+    "A46869-e2610": [
+      "jobson"
+    ],
+    "A46869-e2710": [
+      "butler"
+    ],
+    "A46869-e2780": [
+      "jane"
+    ],
+    "A46869-e2820": [
+      "butler"
+    ],
+    "A46869-e2880": [
+      "servingman"
+    ],
+    "A46869-e2930": [
+      "chambermaid"
+    ],
+    "A46869-e2960": [
+      "jane"
+    ],
+    "A46869-e3020": [
+      "butler"
+    ],
+    "A46869-e3080": [
+      "jane"
+    ],
+    "A46869-e3110": [
+      "cook"
+    ],
+    "A46869-e3150": [
+      "butler"
+    ],
+    "A46869-e3180": [
+      "jane"
+    ],
+    "A46869-e3210": [
+      "butler"
+    ],
+    "A46869-e3240": [
+      "cook"
+    ],
+    "A46869-e3270": [
+      "butler"
+    ],
+    "A46869-e3320": [
+      "jane"
+    ],
+    "A46869-e3350": [
+      "butler"
+    ],
+    "A46869-e3380": [
+      "servingman"
+    ],
+    "A46869-e3410": [
+      "jane"
+    ],
+    "A46869-e3460": [
+      "butler"
+    ],
+    "A46869-e3500": [
+      "cook"
+    ],
+    "A46869-e3530": [
+      "chambermaid"
+    ],
+    "A46869-e3560": [
+      "jane"
+    ],
+    "A46869-e3590": [
+      "butler"
+    ],
+    "A46869-e3620": [
+      "cook"
+    ],
+    "A46869-e3650": [
+      "butler"
+    ],
+    "A46869-e3680": [
+      "noddy"
+    ],
+    "A46869-e3720": [
+      "cook"
+    ],
+    "A46869-e3750": [
+      "noddy"
+    ],
+    "A46869-e3790": [
+      "butler"
+    ],
+    "A46869-e3820": [
+      "cook"
+    ],
+    "A46869-e3870": [
+      "noddy"
+    ],
+    "A46869-e3970": [
+      "cook"
+    ],
+    "A46869-e4000": [
+      "noddy"
+    ],
+    "A46869-e4130": [
+      "jane"
+    ],
+    "A46869-e4160": [
+      "servingman"
+    ],
+    "A46869-e4220": [
+      "butler"
+    ],
+    "A46869-e4250": [
+      "cook"
+    ],
+    "A46869-e4300": [
+      "butler"
+    ],
+    "A46869-e4340": [
+      "jobson"
+    ],
+    "A46869-e4370": [
+      "jane"
+    ],
+    "A46869-e4400": [
+      "jobson"
+    ],
+    "A46869-e4430": [
+      "butler"
+    ],
+    "A46869-e4520": [
+      "cook"
+    ],
+    "A46869-e4550": [
+      "jobson"
+    ],
+    "A46869-e4580": [
+      "butler"
+    ],
+    "A46869-e4860": [
+      "cook"
+    ],
+    "A46869-e4890": [
+      "butler"
+    ],
+    "A46869-e4930": [
+      "cook"
+    ],
+    "A46869-e4990": [
+      "noddy"
+    ],
+    "A46869-e5090": [
+      "butler"
+    ],
+    "A46869-e5120": [
+      "cook"
+    ],
+    "A46869-e5150": [
+      "noddy"
+    ],
+    "A46869-e5190": [
+      "servingman"
+    ],
+    "A46869-e5220": [
+      "butler"
+    ],
+    "A46869-e5280": [
+      "cook"
+    ],
+    "A46869-e5320": [
+      "jane"
+    ],
+    "A46869-e5350": [
+      "jobson"
+    ],
+    "A46869-e5420": [
+      "lady-lovemore"
+    ],
+    "A46869-e5450": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e5500": [
+      "lady-lovemore"
+    ],
+    "A46869-e5530": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e5570": [
+      "lady-lovemore"
+    ],
+    "A46869-e5640": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e5690": [
+      "lady-lovemore"
+    ],
+    "A46869-e5730": [
+      "butler"
+    ],
+    "A46869-e5780": [
+      "lady-lovemore"
+    ],
+    "A46869-e5880": [
+      "jane"
+    ],
+    "A46869-e5910": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e5960": [
+      "lady-lovemore"
+    ],
+    "A46869-e6010": [
+      "noddy"
+    ],
+    "A46869-e6060": [
+      "lady-lovemore"
+    ],
+    "A46869-e6090": [
+      "noddy"
+    ],
+    "A46869-e6160": [
+      "lady-lovemore"
+    ],
+    "A46869-e6240": [
+      "jobson"
+    ],
+    "A46869-e6270": [
+      "lady-lovemore"
+    ],
+    "A46869-e6310": [
+      "jobson"
+    ],
+    "A46869-e6340": [
+      "lady-lovemore"
+    ],
+    "A46869-e6370": [
+      "noddy"
+    ],
+    "A46869-e6410": [
+      "jobson"
+    ],
+    "A46869-e6440": [
+      "noddy"
+    ],
+    "A46869-e6480": [
+      "jobson"
+    ],
+    "A46869-e6540": [
+      "lady-lovemore"
+    ],
+    "A46869-e6570": [
+      "noddy"
+    ],
+    "A46869-e6600": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e6640": [
+      "lady-lovemore"
+    ],
+    "A46869-e6670": [
+      "noddy"
+    ],
+    "A46869-e6720": [
+      "jobson"
+    ],
+    "A46869-e6790": [
+      "lady-lovemore"
+    ],
+    "A46869-e6820": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e6870": [
+      "lady-lovemore"
+    ],
+    "A46869-e6910": [
+      "fidler"
+    ],
+    "A46869-e6940": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e6980": [
+      "fidler"
+    ],
+    "A46869-e7050": [
+      "lady-lovemore"
+    ],
+    "A46869-e7080": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e7120": [
+      "lady-lovemore"
+    ],
+    "A46869-e7150": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e7220": [
+      "lady-lovemore"
+    ],
+    "A46869-e7290": [
+      "butler"
+    ],
+    "A46869-e7330": [
+      "doctor"
+    ],
+    "A46869-e7360": [
+      "lady-lovemore"
+    ],
+    "A46869-e7420": [
+      "noddy"
+    ],
+    "A46869-e7460": [
+      "lady-lovemore"
+    ],
+    "A46869-e7500": [
+      "doctor"
+    ],
+    "A46869-e7530": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e7570": [
+      "doctor"
+    ],
+    "A46869-e7620": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e7660": [
+      "lady-lovemore"
+    ],
+    "A46869-e7710": [
+      "noddy"
+    ],
+    "A46869-e7790": [
+      "cook"
+    ],
+    "A46869-e7820": [
+      "butler"
+    ],
+    "A46869-e7850": [
+      "cook"
+    ],
+    "A46869-e7880": [
+      "noddy"
+    ],
+    "A46869-e7930": [
+      "butler"
+    ],
+    "A46869-e7960": [
+      "cook"
+    ],
+    "A46869-e7990": [
+      "butler"
+    ],
+    "A46869-e8030": [
+      "noddy"
+    ],
+    "A46869-e8080": [
+      "jane"
+    ],
+    "A46869-e8120": [
+      "noddy"
+    ],
+    "A46869-e8150": [
+      "butler"
+    ],
+    "A46869-e8180": [
+      "noddy"
+    ],
+    "A46869-e8210": [
+      "butler"
+    ],
+    "A46869-e8300": [
+      "nell"
+    ],
+    "A46869-e8330": [
+      "doctor"
+    ],
+    "A46869-e8360": [
+      "nell"
+    ],
+    "A46869-e8390": [
+      "doctor"
+    ],
+    "A46869-e8420": [
+      "nell"
+    ],
+    "A46869-e8450": [
+      "doctor"
+    ],
+    "A46869-e8480": [
+      "nell"
+    ],
+    "A46869-e8510": [
+      "doctor"
+    ],
+    "A46869-e8540": [
+      "nell"
+    ],
+    "A46869-e8570": [
+      "doctor"
+    ],
+    "A46869-e8600": [
+      "nell"
+    ],
+    "A46869-e8630": [
+      "doctor"
+    ],
+    "A46869-e8660": [
+      "nell"
+    ],
+    "A46869-e8690": [
+      "doctor"
+    ],
+    "A46869-e8720": [
+      "nell"
+    ],
+    "A46869-e8750": [
+      "doctor"
+    ],
+    "A46869-e8810": [
+      "jobson"
+    ],
+    "A46869-e8860": [
+      "nell"
+    ],
+    "A46869-e8890": [
+      "jobson"
+    ],
+    "A46869-e8920": [
+      "doctor"
+    ],
+    "A46869-e8950": [
+      "jobson"
+    ],
+    "A46869-e9000": [
+      "nell"
+    ],
+    "A46869-e9030": [
+      "jobson"
+    ],
+    "A46869-e9070": [
+      "nell"
+    ],
+    "A46869-e9100": [
+      "doctor"
+    ],
+    "A46869-e9130": [
+      "jobson"
+    ],
+    "A46869-e9160": [
+      "doctor"
+    ],
+    "A46869-e9190": [
+      "jobson"
+    ],
+    "A46869-e9240": [
+      "doctor"
+    ],
+    "A46869-e9320": [
+      "nadyr",
+      "abyshog"
+    ],
+    "A46869-e9350": [
+      "doctor"
+    ],
+    "A46869-e9500": [
+      "nadyr",
+      "abyshog"
+    ],
+    "A46869-e9550": [
+      "doctor"
+    ],
+    "A46869-e9680": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e9720": [
+      "rowland"
+    ],
+    "A46869-e9750": [
+      "longmore"
+    ],
+    "A46869-e9790": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e9830": [
+      "rowland"
+    ],
+    "A46869-e9860": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e9900": [
+      "longmore"
+    ],
+    "A46869-e9930": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e9970": [
+      "rowland"
+    ],
+    "A46869-e10000": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10070": [
+      "longmore"
+    ],
+    "A46869-e10100": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10140": [
+      "rowland"
+    ],
+    "A46869-e10170": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10240": [
+      "jane"
+    ],
+    "A46869-e10290": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10330": [
+      "longmore"
+    ],
+    "A46869-e10360": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10470": [
+      "rowland"
+    ],
+    "A46869-e10500": [
+      "longmore"
+    ],
+    "A46869-e10550": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10600": [
+      "rowland"
+    ],
+    "A46869-e10630": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10690": [
+      "longmore"
+    ],
+    "A46869-e10730": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10790": [
+      "rowland"
+    ],
+    "A46869-e10820": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e10860": [
+      "longmore"
+    ],
+    "A46869-e10890": [
+      "rowland"
+    ],
+    "A46869-e10930": [
+      "lady-lovemore"
+    ],
+    "A46869-e11020": [
+      "rowland"
+    ],
+    "A46869-e11050": [
+      "lady-lovemore"
+    ],
+    "A46869-e11080": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e11120": [
+      "lady-lovemore"
+    ],
+    "A46869-e11150": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e11250": [
+      "butler"
+    ],
+    "A46869-e11280": [
+      "cook"
+    ],
+    "A46869-e11310": [
+      "servingman"
+    ],
+    "A46869-e11340": [
+      "butler"
+    ],
+    "A46869-e11370": [
+      "servingman"
+    ],
+    "A46869-e11400": [
+      "butler"
+    ],
+    "A46869-e11430": [
+      "servingman"
+    ],
+    "A46869-e11470": [
+      "cook"
+    ],
+    "A46869-e11500": [
+      "servingman"
+    ],
+    "A46869-e11530": [
+      "cook"
+    ],
+    "A46869-e11570": [
+      "butler"
+    ],
+    "A46869-e11600": [
+      "cook"
+    ],
+    "A46869-e11630": [
+      "butler"
+    ],
+    "A46869-e11660": [
+      "cook"
+    ],
+    "A46869-e11690": [
+      "butler"
+    ],
+    "A46869-e11720": [
+      "servingman"
+    ],
+    "A46869-e11780": [
+      "butler"
+    ],
+    "A46869-e11830": [
+      "noddy"
+    ],
+    "A46869-e11880": [
+      "butler"
+    ],
+    "A46869-e11910": [
+      "noddy"
+    ],
+    "A46869-e12070": [
+      "butler"
+    ],
+    "A46869-e12100": [
+      "noddy"
+    ],
+    "A46869-e12220": [
+      "butler"
+    ],
+    "A46869-e12260": [
+      "noddy"
+    ],
+    "A46869-e12290": [
+      "butler"
+    ],
+    "A46869-e12320": [
+      "noddy"
+    ],
+    "A46869-e12350": [
+      "butler"
+    ],
+    "A46869-e12380": [
+      "noddy"
+    ],
+    "A46869-e12420": [
+      "butler"
+    ],
+    "A46869-e12480": [
+      "noddy"
+    ],
+    "A46869-e12510": [
+      "butler"
+    ],
+    "A46869-e12550": [
+      "noddy"
+    ],
+    "A46869-e12580": [
+      "butler"
+    ],
+    "A46869-e12610": [
+      "noddy"
+    ],
+    "A46869-e12650": [
+      "butler"
+    ],
+    "A46869-e12700": [
+      "noddy"
+    ],
+    "A46869-e12730": [
+      "butler"
+    ],
+    "A46869-e12770": [
+      "servingman"
+    ],
+    "A46869-e12810": [
+      "cook"
+    ],
+    "A46869-e12840": [
+      "servingman"
+    ],
+    "A46869-e12870": [
+      "cook"
+    ],
+    "A46869-e12900": [
+      "butler"
+    ],
+    "A46869-e12960": [
+      "noddy"
+    ],
+    "A46869-e13010": [
+      "butler"
+    ],
+    "A46869-e13040": [
+      "nadyr"
+    ],
+    "A46869-e13090": [
+      "cook"
+    ],
+    "A46869-e13130": [
+      "servingman"
+    ],
+    "A46869-e13170": [
+      "butler"
+    ],
+    "A46869-e13210": [
+      "cook"
+    ],
+    "A46869-e13240": [
+      "servingman"
+    ],
+    "A46869-e13300": [
+      "butler"
+    ],
+    "A46869-e13330": [
+      "noddy"
+    ],
+    "A46869-e13360": [
+      "nadyr"
+    ],
+    "A46869-e13390": [
+      "butler"
+    ],
+    "A46869-e13420": [
+      "nadyr"
+    ],
+    "A46869-e13450": [
+      "noddy"
+    ],
+    "A46869-e13500": [
+      "nadyr"
+    ],
+    "A46869-e13550": [
+      "butler",
+      "cook",
+      "servingman"
+    ],
+    "A46869-e13610": [
+      "butler"
+    ],
+    "A46869-e13640": [
+      "cook"
+    ],
+    "A46869-e13670": [
+      "servingman"
+    ],
+    "A46869-e13730": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e13770": [
+      "butler"
+    ],
+    "A46869-e13800": [
+      "noddy"
+    ],
+    "A46869-e13830": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e13890": [
+      "noddy"
+    ],
+    "A46869-e13950": [
+      "rowland"
+    ],
+    "A46869-e13980": [
+      "longmore"
+    ],
+    "A46869-e14020": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e14060": [
+      "noddy"
+    ],
+    "A46869-e14090": [
+      "longmore"
+    ],
+    "A46869-e14120": [
+      "butler"
+    ],
+    "A46869-e14150": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e14190": [
+      "noddy"
+    ],
+    "A46869-e14220": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e14260": [
+      "noddy"
+    ],
+    "A46869-e14300": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e14340": [
+      "rowland"
+    ],
+    "A46869-e14370": [
+      "longmore"
+    ],
+    "A46869-e14400": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e14440": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e14500": [
+      "servingman"
+    ],
+    "A46869-e14530": [
+      "rowland"
+    ],
+    "A46869-e14560": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e14600": [
+      "longmore"
+    ],
+    "A46869-e14630": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e14710": [
+      "nadyr"
+    ],
+    "A46869-e14840": [
+      "jobson"
+    ],
+    "A46869-e15100": [
+      "lady-lovemore"
+    ],
+    "A46869-e15130": [
+      "jobson"
+    ],
+    "A46869-e15280": [
+      "lady-lovemore"
+    ],
+    "A46869-e15320": [
+      "jobson"
+    ],
+    "A46869-e15350": [
+      "lady-lovemore"
+    ],
+    "A46869-e15380": [
+      "jobson"
+    ],
+    "A46869-e15420": [
+      "lady-lovemore"
+    ],
+    "A46869-e15460": [
+      "jobson"
+    ],
+    "A46869-e15510": [
+      "lady-lovemore"
+    ],
+    "A46869-e15540": [
+      "jobson"
+    ],
+    "A46869-e15570": [
+      "lady-lovemore"
+    ],
+    "A46869-e15600": [
+      "jobson"
+    ],
+    "A46869-e15630": [
+      "lady-lovemore"
+    ],
+    "A46869-e15670": [
+      "jobson"
+    ],
+    "A46869-e15700": [
+      "lady-lovemore"
+    ],
+    "A46869-e15730": [
+      "jobson"
+    ],
+    "A46869-e15770": [
+      "lady-lovemore"
+    ],
+    "A46869-e15800": [
+      "jobson"
+    ],
+    "A46869-e15830": [
+      "lady-lovemore"
+    ],
+    "A46869-e15870": [
+      "jobson"
+    ],
+    "A46869-e15920": [
+      "lady-lovemore"
+    ],
+    "A46869-e15950": [
+      "jobson"
+    ],
+    "A46869-e15990": [
+      "lady-lovemore"
+    ],
+    "A46869-e16050": [
+      "countryman"
+    ],
+    "A46869-e16090": [
+      "lady-lovemore"
+    ],
+    "A46869-e16130": [
+      "countryman"
+    ],
+    "A46869-e16160": [
+      "jobson"
+    ],
+    "A46869-e16190": [
+      "lady-lovemore"
+    ],
+    "A46869-e16230": [
+      "jobson"
+    ],
+    "A46869-e16260": [
+      "countryman"
+    ],
+    "A46869-e16320": [
+      "jobson"
+    ],
+    "A46869-e16350": [
+      "countryman"
+    ],
+    "A46869-e16390": [
+      "lady-lovemore"
+    ],
+    "A46869-e16450": [
+      "jobson"
+    ],
+    "A46869-e16490": [
+      "lady-lovemore"
+    ],
+    "A46869-e16540": [
+      "countryman"
+    ],
+    "A46869-e16590": [
+      "lady-lovemore"
+    ],
+    "A46869-e16620": [
+      "countryman"
+    ],
+    "A46869-e16660": [
+      "lady-lovemore"
+    ],
+    "A46869-e16710": [
+      "jobson"
+    ],
+    "A46869-e16750": [
+      "lady-lovemore"
+    ],
+    "A46869-e16780": [
+      "jobson"
+    ],
+    "A46869-e16820": [
+      "lady-lovemore"
+    ],
+    "A46869-e16860": [
+      "jobson"
+    ],
+    "A46869-e16920": [
+      "nell"
+    ],
+    "A46869-e16970": [
+      "jane"
+    ],
+    "A46869-e17010": [
+      "nell"
+    ],
+    "A46869-e17040": [
+      "jane"
+    ],
+    "A46869-e17070": [
+      "nell"
+    ],
+    "A46869-e17100": [
+      "jane"
+    ],
+    "A46869-e17130": [
+      "nell"
+    ],
+    "A46869-e17160": [
+      "jane"
+    ],
+    "A46869-e17200": [
+      "chambermaid"
+    ],
+    "A46869-e17230": [
+      "jane"
+    ],
+    "A46869-e17260": [
+      "chambermaid"
+    ],
+    "A46869-e17300": [
+      "nell"
+    ],
+    "A46869-e17330": [
+      "chambermaid"
+    ],
+    "A46869-e17360": [
+      "nell"
+    ],
+    "A46869-e17390": [
+      "chambermaid"
+    ],
+    "A46869-e17420": [
+      "jane"
+    ],
+    "A46869-e17450": [
+      "chambermaid"
+    ],
+    "A46869-e17480": [
+      "jane"
+    ],
+    "A46869-e17510": [
+      "nell"
+    ],
+    "A46869-e17550": [
+      "footboy"
+    ],
+    "A46869-e17580": [
+      "jane"
+    ],
+    "A46869-e17610": [
+      "nell"
+    ],
+    "A46869-e17640": [
+      "footboy"
+    ],
+    "A46869-e17680": [
+      "jane"
+    ],
+    "A46869-e17710": [
+      "nell"
+    ],
+    "A46869-e17740": [
+      "jane"
+    ],
+    "A46869-e17770": [
+      "nell"
+    ],
+    "A46869-e17820": [
+      "jane"
+    ],
+    "A46869-e17850": [
+      "nell"
+    ],
+    "A46869-e17900": [
+      "chambermaid"
+    ],
+    "A46869-e17930": [
+      "nell"
+    ],
+    "A46869-e17960": [
+      "chambermaid"
+    ],
+    "A46869-e17990": [
+      "nell"
+    ],
+    "A46869-e18030": [
+      "cook"
+    ],
+    "A46869-e18060": [
+      "footboy"
+    ],
+    "A46869-e18090": [
+      "cook"
+    ],
+    "A46869-e18130": [
+      "chambermaid"
+    ],
+    "A46869-e18170": [
+      "cook"
+    ],
+    "A46869-e18200": [
+      "jane"
+    ],
+    "A46869-e18230": [
+      "nell"
+    ],
+    "A46869-e18270": [
+      "jane"
+    ],
+    "A46869-e18300": [
+      "cook"
+    ],
+    "A46869-e18330": [
+      "jane"
+    ],
+    "A46869-e18360": [
+      "nell"
+    ],
+    "A46869-e18390": [
+      "cook"
+    ],
+    "A46869-e18460": [
+      "butler"
+    ],
+    "A46869-e18490": [
+      "jane"
+    ],
+    "A46869-e18550": [
+      "nell"
+    ],
+    "A46869-e18590": [
+      "butler"
+    ],
+    "A46869-e18660": [
+      "nell"
+    ],
+    "A46869-e18700": [
+      "butler"
+    ],
+    "A46869-e18750": [
+      "coachman"
+    ],
+    "A46869-e18780": [
+      "jane"
+    ],
+    "A46869-e18820": [
+      "nell"
+    ],
+    "A46869-e18850": [
+      "coachman"
+    ],
+    "A46869-e18880": [
+      "nell"
+    ],
+    "A46869-e18910": [
+      "coachman"
+    ],
+    "A46869-e18950": [
+      "nell"
+    ],
+    "A46869-e18990": [
+      "jane"
+    ],
+    "A46869-e19040": [
+      "nell"
+    ],
+    "A46869-e19090": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e19140": [
+      "rowland"
+    ],
+    "A46869-e19170": [
+      "longmore"
+    ],
+    "A46869-e19200": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e19240": [
+      "longmore"
+    ],
+    "A46869-e19270": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e19310": [
+      "butler"
+    ],
+    "A46869-e19340": [
+      "jane"
+    ],
+    "A46869-e19370": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e19420": [
+      "coachman"
+    ],
+    "A46869-e19450": [
+      "butler"
+    ],
+    "A46869-e19480": [
+      "jane"
+    ],
+    "A46869-e19510": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e19550": [
+      "butler"
+    ],
+    "A46869-e19580": [
+      "jane"
+    ],
+    "A46869-e19610": [
+      "butler"
+    ],
+    "A46869-e19640": [
+      "jane"
+    ],
+    "A46869-e19670": [
+      "servants"
+    ],
+    "A46869-e19700": [
+      "chambermaid"
+    ],
+    "A46869-e19730": [
+      "butler"
+    ],
+    "A46869-e19760": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e19800": [
+      "butler"
+    ],
+    "A46869-e19830": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e19870": [
+      "jane"
+    ],
+    "A46869-e19900": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e19940": [
+      "butler"
+    ],
+    "A46869-e20030": [
+      "nell"
+    ],
+    "A46869-e20080": [
+      "jane"
+    ],
+    "A46869-e20110": [
+      "nell"
+    ],
+    "A46869-e20140": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20180": [
+      "nell"
+    ],
+    "A46869-e20210": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20250": [
+      "nell"
+    ],
+    "A46869-e20280": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20330": [
+      "nell"
+    ],
+    "A46869-e20360": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20410": [
+      "nell"
+    ],
+    "A46869-e20440": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20480": [
+      "nell"
+    ],
+    "A46869-e20510": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20560": [
+      "nell"
+    ],
+    "A46869-e20590": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20630": [
+      "nell"
+    ],
+    "A46869-e20660": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20700": [
+      "nell"
+    ],
+    "A46869-e20730": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20770": [
+      "nell"
+    ],
+    "A46869-e20800": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20840": [
+      "nell"
+    ],
+    "A46869-e20870": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20910": [
+      "nell"
+    ],
+    "A46869-e20940": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e20980": [
+      "nell"
+    ],
+    "A46869-e21010": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e21050": [
+      "nell"
+    ],
+    "A46869-e21080": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e21120": [
+      "nell"
+    ],
+    "A46869-e21180": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e21220": [
+      "nell"
+    ],
+    "A46869-e21250": [
+      "servants"
+    ],
+    "A46869-e21280": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e21320": [
+      "nell"
+    ],
+    "A46869-e21350": [
+      "rowland"
+    ],
+    "A46869-e21380": [
+      "longmore"
+    ],
+    "A46869-e21410": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e21450": [
+      "nell"
+    ],
+    "A46869-e21490": [
+      "servingman"
+    ],
+    "A46869-e21520": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e21560": [
+      "nell"
+    ],
+    "A46869-e21590": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e21910": [
+      "butler"
+    ],
+    "A46869-e21940": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e22010": [
+      "noddy"
+    ],
+    "A46869-e22040": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e22080": [
+      "noddy"
+    ],
+    "A46869-e22110": [
+      "nell"
+    ],
+    "A46869-e22140": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e22180": [
+      "noddy"
+    ],
+    "A46869-e22220": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e22260": [
+      "noddy"
+    ],
+    "A46869-e22320": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e22360": [
+      "nell"
+    ],
+    "A46869-e22410": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e22440": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e22480": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e22520": [
+      "nell"
+    ],
+    "A46869-e22550": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e22580": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e22650": [
+      "lady-lovemore"
+    ],
+    "A46869-e22700": [
+      "jobson"
+    ],
+    "A46869-e22740": [
+      "lady-lovemore"
+    ],
+    "A46869-e22770": [
+      "jobson"
+    ],
+    "A46869-e22800": [
+      "lady-lovemore"
+    ],
+    "A46869-e22830": [
+      "jobson"
+    ],
+    "A46869-e22860": [
+      "lady-lovemore"
+    ],
+    "A46869-e22900": [
+      "jobson"
+    ],
+    "A46869-e22940": [
+      "lady-lovemore"
+    ],
+    "A46869-e22970": [
+      "jobson"
+    ],
+    "A46869-e23000": [
+      "lady-lovemore"
+    ],
+    "A46869-e23040": [
+      "jobson"
+    ],
+    "A46869-e23070": [
+      "lady-lovemore"
+    ],
+    "A46869-e23100": [
+      "jobson"
+    ],
+    "A46869-e23140": [
+      "lady-lovemore"
+    ],
+    "A46869-e23190": [
+      "country-fellow"
+    ],
+    "A46869-e23230": [
+      "jobson"
+    ],
+    "A46869-e23260": [
+      "country-fellow"
+    ],
+    "A46869-e23300": [
+      "lady-lovemore"
+    ],
+    "A46869-e23340": [
+      "jobson"
+    ],
+    "A46869-e23370": [
+      "country-fellow"
+    ],
+    "A46869-e23400": [
+      "lady-lovemore"
+    ],
+    "A46869-e23430": [
+      "country-fellow"
+    ],
+    "A46869-e23460": [
+      "lady-lovemore"
+    ],
+    "A46869-e23490": [
+      "jobson"
+    ],
+    "A46869-e23520": [
+      "lady-lovemore"
+    ],
+    "A46869-e23550": [
+      "jobson"
+    ],
+    "A46869-e23580": [
+      "lady-lovemore"
+    ],
+    "A46869-e23610": [
+      "jobson"
+    ],
+    "A46869-e23660": [
+      "lady-lovemore"
+    ],
+    "A46869-e23750": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e23820": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e23860": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e23910": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e23950": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e23980": [
+      "nell"
+    ],
+    "A46869-e24020": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e24050": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e24130": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e24170": [
+      "noddy"
+    ],
+    "A46869-e24200": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e24260": [
+      "lady-lovemore"
+    ],
+    "A46869-e24290": [
+      "butler"
+    ],
+    "A46869-e24320": [
+      "lady-lovemore"
+    ],
+    "A46869-e24350": [
+      "butler"
+    ],
+    "A46869-e24390": [
+      "lady-lovemore"
+    ],
+    "A46869-e24440": [
+      "servingman"
+    ],
+    "A46869-e24470": [
+      "lady-lovemore"
+    ],
+    "A46869-e24510": [
+      "jane"
+    ],
+    "A46869-e24540": [
+      "lady-lovemore"
+    ],
+    "A46869-e24580": [
+      "jane"
+    ],
+    "A46869-e24610": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e24650": [
+      "lady-lovemore"
+    ],
+    "A46869-e24700": [
+      "chambermaid"
+    ],
+    "A46869-e24730": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e24770": [
+      "butler"
+    ],
+    "A46869-e24800": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e24850": [
+      "nell"
+    ],
+    "A46869-e24880": [
+      "lady-lovemore"
+    ],
+    "A46869-e24930": [
+      "noddy"
+    ],
+    "A46869-e24960": [
+      "lady-lovemore"
+    ],
+    "A46869-e24990": [
+      "noddy"
+    ],
+    "A46869-e25020": [
+      "lady-lovemore"
+    ],
+    "A46869-e25060": [
+      "noddy"
+    ],
+    "A46869-e25100": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e25140": [
+      "lady-lovemore"
+    ],
+    "A46869-e25170": [
+      "lady-lovemore-s-father"
+    ],
+    "A46869-e25200": [
+      "lady-lovemore"
+    ],
+    "A46869-e25230": [
+      "noddy"
+    ],
+    "A46869-e25260": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e25320": [
+      "longmore"
+    ],
+    "A46869-e25350": [
+      "rowland"
+    ],
+    "A46869-e25380": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e25420": [
+      "lady-lovemore"
+    ],
+    "A46869-e25450": [
+      "nell"
+    ],
+    "A46869-e25490": [
+      "lady-lovemore"
+    ],
+    "A46869-e25520": [
+      "noddy"
+    ],
+    "A46869-e25550": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e25590": [
+      "lady-lovemore"
+    ],
+    "A46869-e25620": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e25680": [
+      "lady-lovemore"
+    ],
+    "A46869-e25730": [
+      "jobson"
+    ],
+    "A46869-e25760": [
+      "lady-lovemore"
+    ],
+    "A46869-e25790": [
+      "nell"
+    ],
+    "A46869-e25820": [
+      "jobson"
+    ],
+    "A46869-e25860": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e25900": [
+      "jobson"
+    ],
+    "A46869-e25930": [
+      "nell"
+    ],
+    "A46869-e25970": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26010": [
+      "nell"
+    ],
+    "A46869-e26070": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26110": [
+      "jobson"
+    ],
+    "A46869-e26140": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26180": [
+      "jobson"
+    ],
+    "A46869-e26250": [
+      "lady-lovemore"
+    ],
+    "A46869-e26280": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26320": [
+      "butler"
+    ],
+    "A46869-e26350": [
+      "longmore"
+    ],
+    "A46869-e26380": [
+      "rowland"
+    ],
+    "A46869-e26410": [
+      "longmore"
+    ],
+    "A46869-e26440": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26480": [
+      "rowland"
+    ],
+    "A46869-e26520": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26570": [
+      "servingman"
+    ],
+    "A46869-e26600": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26670": [
+      "rowland"
+    ],
+    "A46869-e26700": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26740": [
+      "doctor"
+    ],
+    "A46869-e26770": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26810": [
+      "doctor"
+    ],
+    "A46869-e26840": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26890": [
+      "doctor"
+    ],
+    "A46869-e26940": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e26980": [
+      "doctor"
+    ],
+    "A46869-e27020": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e27060": [
+      "doctor"
+    ],
+    "A46869-e27090": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e27130": [
+      "doctor"
+    ],
+    "A46869-e27160": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e27200": [
+      "doctor"
+    ],
+    "A46869-e27230": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e27270": [
+      "doctor"
+    ],
+    "A46869-e27300": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e27340": [
+      "doctor"
+    ],
+    "A46869-e27370": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e27440": [
+      "butler"
+    ],
+    "A46869-e27470": [
+      "noddy"
+    ],
+    "A46869-e27510": [
+      "butler"
+    ],
+    "A46869-e27550": [
+      "noddy"
+    ],
+    "A46869-e27590": [
+      "butler"
+    ],
+    "A46869-e27630": [
+      "noddy"
+    ],
+    "A46869-e27660": [
+      "cook"
+    ],
+    "A46869-e27690": [
+      "noddy"
+    ],
+    "A46869-e27740": [
+      "servingman"
+    ],
+    "A46869-e27770": [
+      "noddy"
+    ],
+    "A46869-e27820": [
+      "butler"
+    ],
+    "A46869-e27850": [
+      "noddy"
+    ],
+    "A46869-e27930": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e28030": [
+      "butler"
+    ],
+    "A46869-e28080": [
+      "rowland"
+    ],
+    "A46869-e28110": [
+      "longmore"
+    ],
+    "A46869-e28140": [
+      "noddy"
+    ],
+    "A46869-e28190": [
+      "butler"
+    ],
+    "A46869-e28220": [
+      "noddy"
+    ],
+    "A46869-e28250": [
+      "butler"
+    ],
+    "A46869-e28280": [
+      "noddy"
+    ],
+    "A46869-e28310": [
+      "butler"
+    ],
+    "A46869-e28360": [
+      "cook",
+      "servingman"
+    ],
+    "A46869-e28390": [
+      "butler"
+    ],
+    "A46869-e28430": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e28480": [
+      "jobson"
+    ],
+    "A46869-e28530": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e28590": [
+      "butler"
+    ],
+    "A46869-e28620": [
+      "jobson"
+    ],
+    "A46869-e28660": [
+      "cook"
+    ],
+    "A46869-e28690": [
+      "lady-lovemore"
+    ],
+    "A46869-e28780": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e28820": [
+      "jobson"
+    ],
+    "A46869-e28870": [
+      "jane"
+    ],
+    "A46869-e28900": [
+      "chambermaid"
+    ],
+    "A46869-e28930": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e28970": [
+      "jane"
+    ],
+    "A46869-e29000": [
+      "chambermaid"
+    ],
+    "A46869-e29030": [
+      "jane"
+    ],
+    "A46869-e29060": [
+      "lady-lovemore"
+    ],
+    "A46869-e29130": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e29170": [
+      "lady-lovemore"
+    ],
+    "A46869-e29210": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e29270": [
+      "nell"
+    ],
+    "A46869-e29310": [
+      "jobson"
+    ],
+    "A46869-e29340": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e29410": [
+      "lady-lovemore"
+    ],
+    "A46869-e29440": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e29490": [
+      "butler"
+    ],
+    "A46869-e29550": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e29590": [
+      "lady-lovemore"
+    ],
+    "A46869-e29620": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e29660": [
+      "noddy"
+    ],
+    "A46869-e29690": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e29750": [
+      "jobson"
+    ],
+    "A46869-e29780": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e29820": [
+      "jobson"
+    ],
+    "A46869-e29870": [
+      "nell"
+    ],
+    "A46869-e29900": [
+      "jobson"
+    ],
+    "A46869-e29940": [
+      "lady-lovemore"
+    ],
+    "A46869-e29970": [
+      "nell"
+    ],
+    "A46869-e30000": [
+      "lady-lovemore"
+    ],
+    "A46869-e30030": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e30070": [
+      "rowland"
+    ],
+    "A46869-e30100": [
+      "longmore"
+    ],
+    "A46869-e30130": [
+      "lady-lovemore"
+    ],
+    "A46869-e30170": [
+      "sir-richard-lovemore"
+    ],
+    "A46869-e30240": [
+      "servants"
+    ],
+    "A46869-e30280": [
+      "jobson"
+    ],
+    "A46869-e30370": [
+      "jobson"
+    ],
+    "A46869-e30420": [
+      "nell"
+    ],
+    "A46869-e30470": [
+      "jobson"
+    ],
+    "A46869-e30510": [
+      "nell"
+    ],
+    "A46869-e30550": [
+      "nell"
+    ],
+    "A46869-e30590": [
+      "jobson"
+    ],
+    "A46869-e30660": [
+      "nell"
+    ]
+  }
+}

@@ -74,71 +74,65 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000600-lieutenant" sex="MALE">
-            <persName>Lieutenant</persName>
-          </person>
           <personGrp xml:id="eng000600-bravoes" sex="MALE">
             <name>Bravoes</name>
           </personGrp>
           <person xml:id="eng000600-woman" sex="FEMALE">
             <persName>Woman</persName>
           </person>
-          <personGrp xml:id="eng000600-women" sex="FEMALE">
-            <name>Women</name>
-          </personGrp>
-          <person xml:id="eng000600-child" sex="UNKNOWN">
-            <persName>Child</persName>
+          <person xml:id="eng000600-child-1" sex="MALE">
+            <persName>Child 1</persName>
           </person>
-          <person xml:id="eng000600-captain" sex="MALE">
-            <persName>Captain</persName>
-          </person>
-          <person xml:id="eng000600-bravo" sex="MALE">
-            <persName>Bravo</persName>
+          <person xml:id="eng000600-bravo-1" sex="MALE">
+            <persName>Bravo 1</persName>
           </person>
           <person xml:id="eng000600-monk" sex="MALE">
             <persName>Monk</persName>
           </person>
-          <person xml:id="eng000600-laura" sex="FEMALE">
-            <persName>Laura</persName>
-          </person>
-          <person xml:id="eng000600-fabiano" sex="MALE">
-            <persName>Fabiano</persName>
-          </person>
-          <person xml:id="eng000600-ferdinando" sex="MALE">
-            <persName>Ferdinando</persName>
-          </person>
           <person xml:id="eng000600-servant" sex="MALE">
             <persName>Servant</persName>
-          </person>
-          <person xml:id="eng000600-morella" sex="FEMALE">
-            <persName>Morella</persName>
-          </person>
-          <person xml:id="eng000600-melinda" sex="FEMALE">
-            <persName>Melinda</persName>
-          </person>
-          <personGrp xml:id="eng000600-servants" sex="MALE">
-            <name>Servants</name>
-          </personGrp>
-          <person xml:id="eng000600-ricardo" sex="MALE">
-            <persName>Ricardo</persName>
-          </person>
-          <person xml:id="eng000600-placentia" sex="FEMALE">
-            <persName>Placentia</persName>
-          </person>
-          <person xml:id="eng000600-zemet" sex="MALE">
-            <persName>Zemet</persName>
-          </person>
-          <person xml:id="eng000600-vincentio-morat" sex="MALE">
-            <persName>Vincentio/Morat</persName>
-          </person>
-          <person xml:id="eng000600-prompter" sex="MALE">
-            <persName>Prompter</persName>
           </person>
           <person xml:id="eng000600-mr-bowen" sex="MALE">
             <persName>Mr. Bowen</persName>
           </person>
+          <person xml:id="eng000600-prompter" sex="MALE">
+            <persName>Prompter</persName>
+          </person>
           <person xml:id="eng000600-player" sex="MALE">
             <persName>Player</persName>
+          </person>
+          <person xml:id="eng000600-melinda" sex="FEMALE">
+            <persName>Melinda</persName>
+          </person>
+          <person xml:id="eng000600-morella" sex="FEMALE">
+            <persName>Morella</persName>
+          </person>
+          <person xml:id="eng000600-placentia" sex="FEMALE">
+            <persName>Placentia</persName>
+          </person>
+          <person xml:id="eng000600-laura" sex="FEMALE">
+            <persName>Laura</persName>
+          </person>
+          <person xml:id="eng000600-lieutenant" sex="MALE">
+            <persName>Lieutenant</persName>
+          </person>
+          <person xml:id="eng000600-captain" sex="MALE">
+            <persName>Captain</persName>
+          </person>
+          <person xml:id="eng000600-zemet" sex="MALE">
+            <persName>Zemet</persName>
+          </person>
+          <person xml:id="eng000600-d-fabiano" sex="MALE">
+            <persName>D. Fabiano</persName>
+          </person>
+          <person xml:id="eng000600-d-ferdinand" sex="MALE">
+            <persName>D. Ferdinand</persName>
+          </person>
+          <person xml:id="eng000600-ricardo" sex="MALE">
+            <persName>Ricardo</persName>
+          </person>
+          <person xml:id="eng000600-don-vincentio" sex="MALE">
+            <persName>Don Vincentio</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -534,7 +528,7 @@
         <head>ACT I. </head>
         <stage xml:id="eng000600-e5960">The Scene throughout the Play is an Anti Chamber. </stage>
         <stage xml:id="eng000600-e5970">Enter Vincentio in a Moorish-Dress, his Skin black'd over, assuming the Name of <hi>Morat. Zemet </hi>his Servant. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e6000">
+        <sp who="#eng000600-morella" xml:id="eng000600-e6000">
           <speaker>Mor. </speaker>
           <l>AH! poor Vincentio, alter'd more by Passions </l>
           <l>Than by this new Disguise, who now cou'd know thee? </l>
@@ -553,7 +547,7 @@
           <l>He stab'd the Friend who strove to get your Pardon, </l>
           <l>To hinder your Return. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e6200">
+        <sp who="#eng000600-morella" xml:id="eng000600-e6200">
           <speaker>Mor. </speaker>
           <l>With what unnat'ral Joy, he, in the Morning, </l>
           <l>Heard us confirm the Tidings of my Death! </l>
@@ -569,7 +563,7 @@
           <l>Nor is it for their Vices, but their Natures, </l>
           <l>We shou'd destroy 'em both. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e6330">
+        <sp who="#eng000600-morella" xml:id="eng000600-e6330">
           <speaker>Mor. </speaker>
           <l>Yes, he's my Shame; </l>
           <l>But still my Brother; therefore yet a while </l>
@@ -583,7 +577,7 @@
           <l>It seems he's sure of it, for he has left </l>
           <l>The Sanctuary, and lords it in your House. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e6470">
+        <sp who="#eng000600-morella" xml:id="eng000600-e6470">
           <speaker>Mo. </speaker>
           <l>Upon the confirmation of my Death, </l>
           <l>The King has sign'd the Warrant for his Pardon; </l>
@@ -601,7 +595,7 @@
           <l>To a bad hand, and Murther watches sure. </l>
           <l>Then, give me leave to fear. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e6630">
+        <sp who="#eng000600-morella" xml:id="eng000600-e6630">
           <speaker>Mo. </speaker>
           <l>I'll keep Prevention's Eye upon the Watch; </l>
           <l>But I disdain to fear. For Death must come, </l>
@@ -621,7 +615,7 @@
           <l>Ah! my Lord, </l>
           <l>That rusts not, since it shines so bright in you. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e6820">
+        <sp who="#eng000600-morella" xml:id="eng000600-e6820">
           <speaker>Mor. </speaker>
           <l>Zemet, no more. I here expect Placentia; </l>
           <l>This is her way from Chappel— </l>
@@ -634,7 +628,7 @@
         </sp>
         <pb n="3" xml:id="eng000600-018-b"/>
         <stage xml:id="eng000600-e6940">Enter Placentia Weeping. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e6960">
+        <sp who="#eng000600-morella" xml:id="eng000600-e6960">
           <speaker>Mor. </speaker>
           <stage xml:id="eng000600-e6980">to himself.] </stage>
           <l>I shiver— </l>
@@ -649,7 +643,7 @@
           <l>Oh! gen'rous <hi>Don Vincentio</hi>, </l>
           <l>As soon shall I forget my self as thee. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e7100">
+        <sp who="#eng000600-morella" xml:id="eng000600-e7100">
           <speaker>Mo. </speaker>
           <stage xml:id="eng000600-e7120">aside.] </stage>
           <l>Now, by my Love, there's Life in that kind Sorrow; </l>
@@ -667,7 +661,7 @@
           <l>Can I do less than weep for that brave Lord? </l>
           <l>Oh! Sir, you were a Stranger to his worth. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e7280">
+        <sp who="#eng000600-morella" xml:id="eng000600-e7280">
           <speaker>Mor. </speaker>
           <l>No, Madam; none cou'd know Vincentio better </l>
           <l>Than did Morat; and you will think so too, </l>
@@ -689,7 +683,7 @@
           <l>His Vertuous Mother, for what Cause I know not, </l>
           <l>Took me from humble Birth, to breed me as her Child. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e7500">
+        <sp who="#eng000600-morella" xml:id="eng000600-e7500">
           <speaker>Mor. </speaker>
           <l>Madam, he told me this, and that his Mother </l>
           <l>Had made your Fortune equal to her Daughters; </l>
@@ -703,7 +697,7 @@
           <l>To clear my self to you, I'll tell you that </l>
           <l>Which shou'd not be reveal'd, were he still living. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e7620">
+        <sp who="#eng000600-morella" xml:id="eng000600-e7620">
           <pb n="4" xml:id="eng000600-019-a"/>
           <speaker>Mor. </speaker>
           <stage xml:id="eng000600-e7640">aside.] </stage>
@@ -718,7 +712,7 @@
           <l>Her Memory, or any Thing that's Sacred, </l>
           <l>I ne're shou'd marry him. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e7740">
+        <sp who="#eng000600-morella" xml:id="eng000600-e7740">
           <speaker>Mor. </speaker>
           <stage xml:id="eng000600-e7760">aside.] </stage>
           <l>Oh! Patience Heav'n! </l>
@@ -730,7 +724,7 @@
           <l>Resolving with my self a single Life, </l>
           <l>I solemnly did swear, Never to wed above my humble Birth. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e7840">
+        <sp who="#eng000600-morella" xml:id="eng000600-e7840">
           <speaker>Mor. </speaker>
           <stage xml:id="eng000600-e7860">aside.] </stage>
           <l>'Twill be in vain to live after this Story. </l>
@@ -748,7 +742,7 @@
           <l>You were my Brother's Servants; I dismiss you— </l>
           <l>Placentia, stay. </l>
         </sp>
-        <sp who="#eng000600-servants" xml:id="eng000600-e8020">
+        <sp who="#eng000600-servant" xml:id="eng000600-e8020">
           <speaker>Serv. </speaker>
           <l>My Lord, our Wages. </l>
         </sp>
@@ -756,7 +750,7 @@
           <speaker>Ric. </speaker>
           <l>Do Men like me pay Wages? </l>
         </sp>
-        <sp who="#eng000600-servants" xml:id="eng000600-e8080">
+        <sp who="#eng000600-servant" xml:id="eng000600-e8080">
           <speaker>Serv. </speaker>
           <l>My Lord— </l>
         </sp>
@@ -786,7 +780,7 @@
           <l>'Tis true, the humble Fop indulg'd her Pride </l>
           <l>With honourable Love, tho' still she scorn'd him. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e8330">
+        <sp who="#eng000600-morella" xml:id="eng000600-e8330">
           <speaker>Mo. </speaker>
           <stage xml:id="eng000600-e8350">asi.] </stage>
           <l>Hold! Patience yet! Thus most Heirs treat the Dead. </l>
@@ -803,7 +797,7 @@
           <l>I'll strip her of 'em all, if she consents not </l>
           <l>To yield to my Embraces. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e8490">
+        <sp who="#eng000600-morella" xml:id="eng000600-e8490">
           <speaker>Mor. </speaker>
           <l>My Lord, I fancy 'tis not in your Power. </l>
         </sp>
@@ -814,7 +808,7 @@
           <l>For the good News this Morning you confirm'd. </l>
           <l>But ne're believe I made you of my Council. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e8580">
+        <sp who="#eng000600-morella" xml:id="eng000600-e8580">
           <speaker>Mor. </speaker>
           <l>No; if you had, I shou'd advise you better </l>
           <l>Than thus to forfeit all your House's Honour </l>
@@ -824,7 +818,7 @@
           <speaker>Ric. </speaker>
           <l>How's this, Slave? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e8660">
+        <sp who="#eng000600-morella" xml:id="eng000600-e8660">
           <speaker>Mo. </speaker>
           <l>By all my former Honour, that Name Slave, </l>
           <l>Did not you share your noble Brother's Blood, </l>
@@ -834,7 +828,7 @@
           <speaker>Ric. </speaker>
           <l>Sure, he's run mad— Out of my House, thou Frenzy. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e8740">
+        <sp who="#eng000600-morella" xml:id="eng000600-e8740">
           <speaker>Mor. </speaker>
           <l>I will not stir. </l>
           <l>Your Brother made me Joynt-Executor </l>
@@ -846,7 +840,7 @@
           <l>You mean, till th' Inquisition seizes you. </l>
           <l>Do you not, Moor? you two Executors! </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e8840">
+        <sp who="#eng000600-morella" xml:id="eng000600-e8840">
           <speaker>Mor. </speaker>
           <l>Laugh not too fast, my Lord: Your Inquisition </l>
           <l>Can't fright me; for tho' my Complection's black, </l>
@@ -860,7 +854,7 @@
           <l>Nay, then I'll do't my self. </l>
         </sp>
         <stage xml:id="eng000600-e8950">[Draws, Mor. closes with him, and disarms him, </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e8970">
+        <sp who="#eng000600-morella" xml:id="eng000600-e8970">
           <speaker>Mor. </speaker>
           <l>Inhospitable Wretch! </l>
         </sp>
@@ -868,7 +862,7 @@
           <speaker>Plac. </speaker>
           <l>Hold! help! help! </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e9030">
+        <sp who="#eng000600-morella" xml:id="eng000600-e9030">
           <speaker>Mor. </speaker>
           <l>Here, take your Sword, and put it up, proud Lord, </l>
           <l>But oh! insult no further, if you'd live. </l>
@@ -885,7 +879,7 @@
           <l>Hence, Slaves! there's now no need of you. </l>
         </sp>
         <stage xml:id="eng000600-e9180">Exeunt Servants and Zemet. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e9200">
+        <sp who="#eng000600-morella" xml:id="eng000600-e9200">
           <speaker>Mor. </speaker>
           <l>My Lord, yet think from what great Stock you sprung, </l>
           <l>And how a Nobleman shou'd keep that Name: </l>
@@ -957,7 +951,7 @@
           <l>Who waits? </l>
         </sp>
         <stage xml:id="eng000600-e9850">Enter Servant. </stage>
-        <sp who="#eng000600-servants" xml:id="eng000600-e9860">
+        <sp who="#eng000600-servant" xml:id="eng000600-e9860">
           <speaker>Serv. </speaker>
           <l>My Lord! </l>
         </sp>
@@ -965,7 +959,7 @@
           <speaker>Ric. </speaker>
           <l>Call both my Sisters. </l>
         </sp>
-        <sp who="#eng000600-servants" xml:id="eng000600-e9920">
+        <sp who="#eng000600-servant" xml:id="eng000600-e9920">
           <speaker>Serv. </speaker>
           <l>Yes, my Lord. </l>
         </sp>
@@ -1068,7 +1062,7 @@
           <l>Sister Morella, let my Lord be us'd </l>
           <l>As his great Merit, and my Choice deserve. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e10910">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e10910">
           <speaker>Ferd. </speaker>
           <l>Son, scorn Ignoble Love! See there your better Fate. </l>
         </sp>
@@ -1108,7 +1102,7 @@
         </sp>
         <stage xml:id="eng000600-e11240">
           <hi>[Exit </hi>Mel. </stage>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e11260">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e11260">
           <speaker>Ferd. </speaker>
           <l>What's that bright Vision which now shot from hence, Swift as a Star? </l>
         </sp>
@@ -1118,7 +1112,7 @@
           <l>The worthless Creature of my Mother's Favour, </l>
           <l>Her Fortune ample, but her Birth unknown. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e11340">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e11340">
           <speaker>Ferd. </speaker>
           <l>'Tis a fair Destruction! </l>
           <l>I blush to own I've heard my Son was dazled </l>
@@ -1127,7 +1121,7 @@
           <l>Which was my Motive to demand your Sister </l>
           <l>When I engag'd to get your Pardon sign'd. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e11420">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e11420">
           <speaker>Fa. </speaker>
           <stage xml:id="eng000600-e11440">aside to Morel.] </stage>
           <l>Madam, you know the tye upon my Heart, </l>
@@ -1144,7 +1138,7 @@
           <speaker>Ric. </speaker>
           <l>She's his, My Lord: The Conqu'ror leads his Prize. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e11590">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e11590">
           <speaker>Ferd. </speaker>
           <stage xml:id="eng000600-e11610">aside.] </stage>
           <l>Now, as I love bright Honour, this sight charms me, </l>
@@ -1160,7 +1154,7 @@
           <speaker>Ser. </speaker>
           <l>My Lord, a Lady in a Veil desires to speak with your Lordship. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e11730">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e11730">
           <speaker>Fer. </speaker>
           <l>My Lord, I'll leave you, and in an Hour return. </l>
         </sp>
@@ -1456,7 +1450,7 @@
         <stage xml:id="eng000600-e14430">Enter Placentia, follow'd by Fabiano. </stage>
         <stage xml:id="eng000600-e14460">
           <hi>[Exeunt </hi>Morel. and Mel. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e14490">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e14490">
           <speaker>Fab. </speaker>
           <l>Stay, cruel Maid! Oh turn, and cast one look! </l>
           <l>One look, tho' 'twere a Frown, and but to see me dye. </l>
@@ -1468,7 +1462,7 @@
           <l>Fly, fly, my Lord, where equal Greatness calls </l>
           <l>Leave poor Placentia to her humble Fate. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e14600">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e14600">
           <speaker>Fab. </speaker>
           <l>Not hear me! </l>
         </sp>
@@ -1477,7 +1471,7 @@
           <l>I dread those Words that make ev'n ruine please, </l>
           <l>The tempting Musick of your Syren Love. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e14670">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e14670">
           <speaker>Fab. </speaker>
           <l>Can it bring ruine to be match'd to Greatness? </l>
         </sp>
@@ -1485,7 +1479,7 @@
           <speaker>Pla. </speaker>
           <l>When by the Match that Greatness is debas'd. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e14730">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e14730">
           <speaker>Fab. </speaker>
           <l>Why will you still urge this, too humble fair? </l>
           <l>Oh! wrong not thus your Merit, and my Love. </l>
@@ -1505,7 +1499,7 @@
           <l>I wish, I sigh, I grieve, I rage in vain; </l>
           <l>I wou'd ascend, but cannot break my Chain. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e14910">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e14910">
           <speaker>Fab. </speaker>
           <l>Love equals all, and you're most sure of mine. </l>
         </sp>
@@ -1518,7 +1512,7 @@
           <l>While thus I tear my self for ever from you. </l>
         </sp>
         <stage xml:id="eng000600-e15020">[going. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e15030">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e15030">
           <speaker>Fa. </speaker>
           <l>You tear my Heart, but shall not tear me from you. </l>
           <stage xml:id="eng000600-e15060">[kneels </stage>
@@ -1533,7 +1527,7 @@
           <l>Oh! hold! and rise! fright me not with your Danger, </l>
           <l>Nor humble me yet more with your Submissions. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e15160">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e15160">
           <speaker>Fab. </speaker>
           <l>Raise then at once a Wretch to Love and You. </l>
           <l>To rise thus, I'll descend, and mix with humble Swains, </l>
@@ -1544,7 +1538,7 @@
           <speaker>Pla. </speaker>
           <l>Oh! rise, degrade it not by kneeling thus. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e15250">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e15250">
           <speaker>Fab. </speaker>
           <l>No, let your Answer make me rise or fall. </l>
         </sp>
@@ -1557,7 +1551,7 @@
           <l>You'd wake to hatred of your self and me. </l>
         </sp>
         <stage xml:id="eng000600-e15350">Enter <hi>D. Ferdinand. Fab. </hi>starts and rises. </stage>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e15370">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e15370">
           <speaker>Ferd. </speaker>
           <l>My Son! </l>
           <l>Base Man! I thought t'have found you with Morella! </l>
@@ -1580,7 +1574,7 @@
           <l>For endless Grief, a Cloyster and Despair. </l>
         </sp>
         <stage xml:id="eng000600-e15590">[Exit. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e15600">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e15600">
           <pb n="15" xml:id="eng000600-024-b"/>
           <speaker>Fab. </speaker>
           <l>My Love!— my Father!— both conspire my Ruine! </l>
@@ -1588,12 +1582,12 @@
           <l>No pity— yes, you're kind, at once you kill me, </l>
           <l>And thus will quickly end the worst of Pains. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e15660">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e15660">
           <speaker>Fer. </speaker>
           <l>Unequal Nuptials show not Love, but Madness. </l>
           <l>If you're my Son, leave this ignoble Creature. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e15700">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e15700">
           <speaker>Fab. </speaker>
           <l>Leave her! ignoble! give me Patience, Heav'n! </l>
           <l>And Duty check my Rage! a Father said it. </l>
@@ -1601,12 +1595,12 @@
           <l>That Worth, whence true Nobility began: </l>
           <l>She claims a Birth immediately from Heav'n. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e15770">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e15770">
           <speaker>Fer. </speaker>
           <l>No more. She never shall be yours. </l>
           <l>Haste to Morella, Noble, and more Charming. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e15820">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e15820">
           <speaker>Fab. </speaker>
           <l>Ah Sir! I can love nothing but Placentia. </l>
           <l>Rather take back the wretched Life you gave me! </l>
@@ -1615,22 +1609,22 @@
           <l>You'll find a Heart where that sad Truth is written. </l>
           <l>Pity my Youth! pity your Son!— </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e15910">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e15910">
           <speaker>Fer. </speaker>
           <l>'Tis vain— Reason and Time will bring you to your self. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e15940">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e15940">
           <speaker>Fab. </speaker>
           <l>Oh stay! </l>
         </sp>
         <stage xml:id="eng000600-e15970">[follows him crawling on his Knees. </stage>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e15980">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e15980">
           <speaker>Fer. </speaker>
           <l>Away— comply, or never see me more. </l>
         </sp>
         <stage xml:id="eng000600-e16010">
           <hi>[Ferd. </hi>breaks from Fabiano, and Exit. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e16040">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e16040">
           <speaker>Fab. </speaker>
           <l>Yes, cruel Father; yes, unkind Placentia, </l>
           <l>I'll never see you more— </l>
@@ -1663,7 +1657,7 @@
           <l>Assist me to preserve my threaten'd Honour. </l>
         </sp>
         <stage xml:id="eng000600-e16360">Enter Morat and Zemet. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e16390">
+        <sp who="#eng000600-morella" xml:id="eng000600-e16390">
           <speaker>Mor. </speaker>
           <l>Can worth, like yours, want a Protector, Madam? </l>
           <l>My best Friend us'd me so to eccho back his Sighs, </l>
@@ -1684,7 +1678,7 @@
           <l>Let your Man wait— and I will tell you Things </l>
           <l>That are yet Secrets to all Souls but mine. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e16580">
+        <sp who="#eng000600-morella" xml:id="eng000600-e16580">
           <speaker>Mor. </speaker>
           <l>Zemet observe who comes, and give us notice. </l>
         </sp>
@@ -1698,7 +1692,7 @@
           <l>You will have Cause to pity me as much </l>
           <l>As e're you did Vincentio. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e16720">
+        <sp who="#eng000600-morella" xml:id="eng000600-e16720">
           <speaker>Mor. </speaker>
           <l>Do I live?— </l>
           <stage xml:id="eng000600-e16750">[Aside, and starting. </stage>
@@ -1710,7 +1704,7 @@
           <l>Your help, or such a Friend's, yet let not that </l>
           <l>Divert your Thoughts from your own great Concerns. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e16820">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e16820">
           <speaker>Morat. </speaker>
           <l>No, Madam, these are Fits that sometimes shake me: </l>
           <l>My Soul and Body are by turns at odds, </l>
@@ -1730,7 +1724,7 @@
           <l>Is that you wou'd convey me to some Cloyster, </l>
           <l>Where I may ever weep and pray for him. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e17000">
+        <sp who="#eng000600-morella" xml:id="eng000600-e17000">
           <speaker>Mor. </speaker>
           <stage xml:id="eng000600-e17020">aside.] </stage>
           <l>Sure 'tis for me, 'tis for the poor Vincentio </l>
@@ -1747,7 +1741,7 @@
           <l>Yet I too well regard his future Glory, </l>
           <l>E're to have sullied it with my mean Blood. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e17160">
+        <sp who="#eng000600-morella" xml:id="eng000600-e17160">
           <speaker>Mor. </speaker>
           <stage xml:id="eng000600-e17180">aside.] </stage>
           <l>'Tis my self— </l>
@@ -1771,7 +1765,7 @@
           <speaker>Pla. </speaker>
           <l>Heav'n guard me from his sight!— </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e17390">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e17390">
           <speaker>Morat. </speaker>
           <l>I'll strive to meet you here again with speed. </l>
           <l>Curse on his coming! But why am I troubl'd? </l>
@@ -1825,7 +1819,7 @@
           <l>Hah!— </l>
         </sp>
         <stage xml:id="eng000600-e17950">[Starts seeing Morat. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e17970">
+        <sp who="#eng000600-morella" xml:id="eng000600-e17970">
           <speaker>Mor. </speaker>
           <l>Does your Guilt make you start? </l>
         </sp>
@@ -1833,7 +1827,7 @@
           <speaker>Ri. </speaker>
           <l>Art thou Immortal, Moor? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e18030">
+        <sp who="#eng000600-morella" xml:id="eng000600-e18030">
           <speaker>Mor. </speaker>
           <l>Yes, Ravisher, all good Men are Immortal. </l>
           <l>Death is entail'd on none but such as you, </l>
@@ -1845,7 +1839,7 @@
           <l>Placentia has inform'd him of my Threats. </l>
         </sp>
         <stage xml:id="eng000600-e18130">[Aside. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e18140">
+        <sp who="#eng000600-morella" xml:id="eng000600-e18140">
           <speaker>Mor. </speaker>
           <l>Base Man, with Gyant Blood, and Pigmy Honour, </l>
           <l>I hear thou talk'st of Ravishing Placentia, </l>
@@ -1863,7 +1857,7 @@
           <l>To try her Vertue; but, since that, my Doubts </l>
           <l>Are chang'd to admiration of her Worth. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e18310">
+        <sp who="#eng000600-morella" xml:id="eng000600-e18310">
           <speaker>Mor. </speaker>
           <l>Oh that there were but hopes you yet wou'd mend! </l>
           <l>I'm bound, and strive to love you, as you're call'd </l>
@@ -1888,7 +1882,7 @@
           <l>I shall be proud of being taught by you, </l>
           <l>And fixing you my Friend. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e18550">
+        <sp who="#eng000600-morella" xml:id="eng000600-e18550">
           <speaker>Mor. </speaker>
           <l>Till then, farewel. </l>
           <l>Love truly, and I ll give you leave to hope; </l>
@@ -1921,7 +1915,7 @@
           <speaker>Ri. </speaker>
           <l>My Bravoes! </l>
         </sp>
-        <sp who="#eng000600-bravo" xml:id="eng000600-e18870">
+        <sp who="#eng000600-bravo-1" xml:id="eng000600-e18870">
           <speaker>1. Bravo. </speaker>
           <l>Your Lordship's Servants. </l>
         </sp>
@@ -1933,7 +1927,7 @@
         </sp>
         <stage xml:id="eng000600-e18950">
           <hi>[Ric. </hi>gives 'em Money. </stage>
-        <sp who="#eng000600-bravo" xml:id="eng000600-e18970">
+        <sp who="#eng000600-bravo-1" xml:id="eng000600-e18970">
           <speaker>1. Br. </speaker>
           <l>Thanks, my good Lord, whose Throat must we cut now? </l>
         </sp>
@@ -1948,7 +1942,7 @@
           <l>You shall no longer skulk disguis'd; but live </l>
           <l>At large, above the scandal of your Lives. </l>
         </sp>
-        <sp who="#eng000600-bravo" xml:id="eng000600-e19100">
+        <sp who="#eng000600-bravo-1" xml:id="eng000600-e19100">
           <speaker>1. Br. </speaker>
           <l>Conclude this done, my Lord; our Friends will help us. </l>
           <l>If by fair means we cannot get a Ship, we'll seize on one. </l>
@@ -1963,7 +1957,7 @@
           <speaker>Ri. </speaker>
           <l>What Letter's this? </l>
         </sp>
-        <sp who="#eng000600-servants" xml:id="eng000600-e19220">
+        <sp who="#eng000600-servant" xml:id="eng000600-e19220">
           <speaker>Serv. </speaker>
           <l>My Lord, 'tis for Placentia. </l>
         </sp>
@@ -2101,7 +2095,7 @@
           <l>To send for her— Who waits? </l>
         </sp>
         <stage xml:id="eng000600-e20430">Enter Servant. </stage>
-        <sp who="#eng000600-servants" xml:id="eng000600-e20440">
+        <sp who="#eng000600-servant" xml:id="eng000600-e20440">
           <speaker>Serv. </speaker>
           <l>My Lord— </l>
         </sp>
@@ -2188,7 +2182,7 @@
           <l>Prevent her going out. </l>
         </sp>
         <stage xml:id="eng000600-e21210">[Aside to a Servant. </stage>
-        <sp who="#eng000600-servants" xml:id="eng000600-e21220">
+        <sp who="#eng000600-servant" xml:id="eng000600-e21220">
           <speaker>Serv. </speaker>
           <l>I will, my Lord. </l>
         </sp>
@@ -2483,7 +2477,7 @@
           <l>And make him happier than I've made him wretched. </l>
         </sp>
         <stage xml:id="eng000600-e23800">Enter Fabiano, thrusting away some Servants, and runs to Placentia. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e23830">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e23830">
           <speaker>Fab. </speaker>
           <l>Hence! Slaves! she's here. </l>
         </sp>
@@ -2495,7 +2489,7 @@
           <speaker>Ri. </speaker>
           <l>Return'd! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e23920">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e23920">
           <speaker>Fab. </speaker>
           <l>Yes, here to dye. Look up, my Life, my Soul, </l>
           <stage xml:id="eng000600-e23950">[He Embraces her. </stage>
@@ -2506,7 +2500,7 @@
           <l>'Tis he; some Angel brings him— my lov'd Lord— </l>
         </sp>
         <stage xml:id="eng000600-e24020">[She drops the Bottle. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24030">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24030">
           <speaker>Fab. </speaker>
           <l>My Fate— </l>
         </sp>
@@ -2516,7 +2510,7 @@
           <l>Oh! I forget my Fears, my Grief, my very self, </l>
           <l>At this dear sight. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24110">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24110">
           <speaker>Fab. </speaker>
           <l>Senses awake! and thou my wand'ring Soul, </l>
           <l>Unwind thy self out of this maze of Joy. </l>
@@ -2526,7 +2520,7 @@
           <speaker>Ri. </speaker>
           <l>Must I bear this? my Lord, what do you mean? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24200">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24200">
           <speaker>Fab. </speaker>
           <l>To kill you, if you dare once more disturb me. </l>
         </sp>
@@ -2534,7 +2528,7 @@
           <speaker>Ri. </speaker>
           <l>You're in my House, but— </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24260">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24260">
           <speaker>Fab. </speaker>
           <l>What? </l>
         </sp>
@@ -2552,7 +2546,7 @@
           <l>More gnawing than the Draught he swallow'd now, </l>
           <l>Or that which he design'd me. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24410">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24410">
           <speaker>Fab. </speaker>
           <l>How!— </l>
         </sp>
@@ -2570,7 +2564,7 @@
           <speaker>Pla. </speaker>
           <l>I dread his coming back. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24560">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24560">
           <speaker>Fab. </speaker>
           <l>Fear nothing, Madam, </l>
           <l>I've a Friend waits without with some choice Men. </l>
@@ -2585,7 +2579,7 @@
           <l>For this blest Moment, e're we part for ever, </l>
           <l>For we must part. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24680">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24680">
           <speaker>Fab. </speaker>
           <l>Part! no, first let the Monarch part with Crowns, </l>
           <l>The Brave with Honour, and the Saint with Heav'n. </l>
@@ -2594,7 +2588,7 @@
           <speaker>Pla. </speaker>
           <l>Oh Reason, Honour, Duty!— </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24750">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24750">
           <speaker>Fab. </speaker>
           <l>Oh Love! Love! Love! great Love against them all. </l>
         </sp>
@@ -2603,7 +2597,7 @@
           <l>I've sworn to leave you; nor must I examine </l>
           <l>Whether I shall outlive the killing loss. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24820">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24820">
           <speaker>Fab. </speaker>
           <l>No, you will not leave me: I will ne're believe it: </l>
           <l>Placentia loves me— Placentia will not let me dye. </l>
@@ -2620,7 +2614,7 @@
           <speaker>Ri. </speaker>
           <l>She whom I sent for, Madam, will soon tell you— </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e24990">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e24990">
           <speaker>Fab. </speaker>
           <l>Nothing that can deserve our stay— farewel— </l>
         </sp>
@@ -2629,7 +2623,7 @@
           <speaker>Ri. </speaker>
           <l>Stay, do not lead my beauteous Charge to Ruine. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25070">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25070">
           <speaker>Fab. </speaker>
           <l>She's led from Ruine, when she's led from you. </l>
         </sp>
@@ -2637,7 +2631,7 @@
           <speaker>Ri. </speaker>
           <l>Hold! hear me! for I'll here dispute my Right. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25130">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25130">
           <speaker>Fab. </speaker>
           <l>Then somewhere else, and not with Words dispute it. </l>
         </sp>
@@ -2647,7 +2641,7 @@
           <stage xml:id="eng000600-e25190">[Shows his Sword. </stage>
           <l>I claim her as my due. I best deserve her. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25210">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25210">
           <speaker>Fab. </speaker>
           <l>Who e're pretends Desert, deserves her least. </l>
         </sp>
@@ -2655,7 +2649,7 @@
           <speaker>Ri. </speaker>
           <l>She's oblig'd to my Family. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25270">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25270">
           <speaker>Fab. </speaker>
           <l>But I'm oblig'd to her. </l>
         </sp>
@@ -2663,7 +2657,7 @@
           <speaker>Ri. </speaker>
           <l>You've nothing; but I've an Estate to give her. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25330">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25330">
           <speaker>Fab. </speaker>
           <l>I chuse to lose one for her. But that's little; </l>
           <l>I'd give the Globe to bribe her to a Smile. </l>
@@ -2681,7 +2675,7 @@
           <speaker>Ri. </speaker>
           <l>No, Madam, I'll sooner leave the World. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25480">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25480">
           <speaker>Fab. </speaker>
           <l>Let me conduct you, Madam. </l>
         </sp>
@@ -2690,7 +2684,7 @@
           <speaker>Ri. </speaker>
           <l>Hold! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25540">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25540">
           <speaker>Fab. </speaker>
           <l>Forbear, or in your very House I'll kill you. </l>
         </sp>
@@ -2698,7 +2692,7 @@
           <speaker>Ri. </speaker>
           <l>Hah! Will you break the Laws of Hospitality? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25600">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25600">
           <speaker>Fab. </speaker>
           <l>Talk'st thou of Hospitality, and dar'st </l>
           <l>Detain her there? 'tis Sacrilege and Death. </l>
@@ -2716,7 +2710,7 @@
           <stage xml:id="eng000600-e25730">[Aside. </stage>
           <l>The shortness of my Sword makes you insult, but— </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25750">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25750">
           <speaker>Fab. </speaker>
           <l>Give it me, and take mine. </l>
         </sp>
@@ -2730,7 +2724,7 @@
           <speaker>Pla. </speaker>
           <l>Oh! hold, my Lords! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25860">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25860">
           <speaker>Fab. </speaker>
           <l>A broken Sword! hah! Villain! </l>
         </sp>
@@ -2745,7 +2739,7 @@
           <speaker>Pla. </speaker>
           <l>Oh! wed her, wed her, tho' I dye my Lord. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e25980">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e25980">
           <speaker>Fab. </speaker>
           <l>I'll yet disarm thee, Traytor. </l>
         </sp>
@@ -2762,7 +2756,7 @@
         </sp>
         <stage xml:id="eng000600-e26110">
           <hi>[Fabiano </hi>snatches a Sword from one of 'em, and keeps 'em off. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e26130">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e26130">
           <speaker>Fab. </speaker>
           <l>What, hoa! my Friends! </l>
         </sp>
@@ -2776,7 +2770,7 @@
           <l>Courage, my Lord, we're here! Slaves! Villains! dye. </l>
         </sp>
         <stage xml:id="eng000600-e26240">Enter <hi>Don Ferdinand</hi>, with Musqueteers, who present, and all the Combatants cease Fighting. </stage>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e26260">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e26260">
           <speaker>Fer. </speaker>
           <l>Hold! or my Guards shall fire among you. </l>
         </sp>
@@ -2786,7 +2780,7 @@
           <l>Was forcing his way out with this ungrateful Maid, </l>
           <l>To wed her, and leave Portugal by Sea. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e26350">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e26350">
           <pb n="29" xml:id="eng000600-031-b"/>
           <speaker>Fer. </speaker>
           <l>I scarce believ'd the Messenger you sent me: </l>
@@ -2800,7 +2794,7 @@
           <l>For all this he must lose, or leave this Maid, </l>
           <l>To wed my nobler choice, the fair Morella. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e26490">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e26490">
           <speaker>Fab. </speaker>
           <l>Thus, as to Heav'n, to you, Sir, kneels your Son; </l>
           <l>And that Heav'n knows, I scarce can reverence it, </l>
@@ -2815,16 +2809,16 @@
           <l>For soon he'll take his everlasting leave </l>
           <l>Of Friends, of you, of her, and Life, I hope. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e26630">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e26630">
           <speaker>Fer. </speaker>
           <l>Rise, hear Age speak! Fabiana! Wisdom's old. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e26670">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e26670">
           <speaker>Fab. </speaker>
           <l>My Lord, my Father, </l>
           <l>Oh! let me kneeling thus attend your Will. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e26710">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e26710">
           <speaker>Fer. </speaker>
           <l>Rise, rise, my Son, nor let thy poor old Father </l>
           <l>Lose the sole Comfort of his widow'd Years. </l>
@@ -2839,21 +2833,21 @@
           <l>They're the last drops, the dying hand of Age </l>
           <l>Has left to dew this drooping with'ring Plant— Oh speak! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e26850">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e26850">
           <speaker>Fab. </speaker>
           <l>Can Nature plead against it self? </l>
           <l>I cannot speak: my throbbing Heart's too full. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e26890">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e26890">
           <speaker>Fer. </speaker>
           <l>Then kill me, cruel Son; that Parricide </l>
           <l>Will be less barb'rous than the other— speak! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e26930">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e26930">
           <speaker>Fab. </speaker>
           <l>Then with obedient boldness I must own, I cannot wed Morella. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e26970">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e26970">
           <pb n="30" xml:id="eng000600-032-a"/>
           <speaker>Fer. </speaker>
           <l>Just Heav'n! what have I done? what are my Crimes? </l>
@@ -2865,24 +2859,24 @@
           <l>Retract thy words, consent, lest, in my Fury, </l>
           <l>I wrong the dead, and ev'n suspect thy Mother. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e27070">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e27070">
           <speaker>Fab. </speaker>
           <l>Oh! use me as you please; but spare my Mother! </l>
           <l>For your own sake, for hers, tread gently on her Grave. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e27110">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e27110">
           <speaker>Fer. </speaker>
           <l>No, she was Vertue's self, but sure some Peasant </l>
           <l>Impos'd thee on me, and displac'd the Heir. </l>
           <l>Be banish'd then my House, my Heart, my Thoughts! </l>
           <l>Be stript of all— </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e27170">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e27170">
           <speaker>Fab. </speaker>
           <l>But my Placentia's Love: </l>
           <l>You cannot take that from me. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e27220">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e27220">
           <speaker>Fer. </speaker>
           <l>Tortures and Daggers! Wretch, lose all but that. </l>
         </sp>
@@ -2896,7 +2890,7 @@
           <l>First, I'll remove the Cause, this fatal Charmer, </l>
           <l>Then soon my Sister shall restore his Reason. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e27350">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e27350">
           <speaker>Fer. </speaker>
           <l>'Tis well advis'd— Guards stay— obey my Lord. </l>
           <l>Curst be this Frantick Love, that rashly hurries </l>
@@ -2936,7 +2930,7 @@
         </sp>
         <stage xml:id="eng000600-e27670">
           <hi>[Fabiano </hi>who was talking to the Captain, runs suddenly to prevent her going out. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e27690">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e27690">
           <pb n="31" xml:id="eng000600-032-b"/>
           <speaker>Fab. </speaker>
           <l>See me no more? then I'm poor indeed; </l>
@@ -2946,7 +2940,7 @@
           <speaker>Ri. </speaker>
           <l>Hold! my Lord. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e27760">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e27760">
           <speaker>Fab. </speaker>
           <l>Forbear! Despair is frantick; play not with it; </l>
           <l>I've lost all hopes but of one parting look; </l>
@@ -2962,7 +2956,7 @@
           <l>" Bare Walls my only prospect, the cold Ground, </l>
           <l>" Or harder Floor, my Bed; and Grief my End. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e27900">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e27900">
           <speaker>Fab. </speaker>
           <l>" Oh! why did I come back! why wou'd I see her! </l>
         </sp>
@@ -2975,7 +2969,7 @@
           <l>" For then will I be praying on my Knees, </l>
           <l>" That Heav'n may bless you and your future Bride. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e28030">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e28030">
           <speaker>Fab. </speaker>
           <l>Too gen'rous Fair, Oh! spare your Grief's Profusion; </l>
           <l>Show me less Love, be cruel out of Pity; </l>
@@ -2991,7 +2985,7 @@
           <l>For I am grown familiar with Affliction. </l>
           <l>But live, and think your Death my greatest dread. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e28170">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e28170">
           <speaker>Fab. </speaker>
           <l>Then I must strive to live: But oh! Placentia, </l>
           <l>'Twill cost my Love much dearer than to dye. </l>
@@ -3009,7 +3003,7 @@
           <speaker>Ri. </speaker>
           <l>Take her away, she heightens his Distraction. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e28350">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e28350">
           <pb n="32" xml:id="eng000600-033-a"/>
           <speaker>Fab. </speaker>
           <l>Oh! stay one moment more, then tear me from my self, </l>
@@ -3028,7 +3022,7 @@
           <speaker>Ric. </speaker>
           <l>Part them. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e28500">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e28500">
           <speaker>Fab. </speaker>
           <l>Oh! let me take another parting Look. </l>
         </sp>
@@ -3046,7 +3040,7 @@
           <l>Hold, stir not, on your Lives. </l>
         </sp>
         <stage xml:id="eng000600-e28640">[To the Captain and his Attendants. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e28650">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e28650">
           <speaker>Fab. </speaker>
           <l>Hold, impious, sacrilegious Villains, hold! </l>
           <l>Pull, hale, drag, cut, part, tear me Limb from Limb, </l>
@@ -3059,7 +3053,7 @@
         </sp>
         <stage xml:id="eng000600-e28750">
           <hi>[Placentia </hi>is led off. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e28770">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e28770">
           <speaker>Fab. </speaker>
           <l>Wolves, Tigers, Fiends, you shall not 'scape unpunish'd. </l>
         </sp>
@@ -3074,7 +3068,7 @@
           <l>My Sister on you, tho' your Father wou'd. </l>
           <l>This private way you may get out unseen. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e28910">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e28910">
           <speaker>Fa. </speaker>
           <stage xml:id="eng000600-e28930">to Ri.] </stage>
           <l>Tho' I can't thank you, I accept the offer. </l>
@@ -3088,7 +3082,7 @@
           <l>The rest aboard wait for us: All the Slaves </l>
           <l>Sit ready at their Oars. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e29050">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e29050">
           <speaker>Fa. </speaker>
           <l>Alas! poor Men! </l>
           <l>Tho' they're not half so wretched as my self. </l>
@@ -3185,7 +3179,7 @@
       <div n="4" type="act" xml:id="eng000600-e29900">
         <head>ACT IV. </head>
         <stage xml:id="eng000600-e29920">Enter Morat, and Zemet, who keeps at a distance. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e29950">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e29950">
           <speaker>Morat. </speaker>
           <l>THe Day's grown old, and almost lost in night: </l>
           <l>Work in each Street gives way to soft amusements: </l>
@@ -3213,7 +3207,7 @@
           <speaker>Ri. </speaker>
           <l>But are you sure the Ship's at your disposal. </l>
         </sp>
-        <sp who="#eng000600-bravo" xml:id="eng000600-e30250">
+        <sp who="#eng000600-bravo-1" xml:id="eng000600-e30250">
           <speaker>1 Bra. </speaker>
           <l>The Brigantine is ours, my Lord; we could not </l>
           <l>Get one sor any hire; but seiz'd on this with ease. </l>
@@ -3223,7 +3217,7 @@
           <stage xml:id="eng000600-e30320">Enter Servants with Lights, which they set upon the Table. </stage>
           <l>Hush! here's the Moor!— In half an hour attend me. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e30340">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e30340">
           <pb n="35" xml:id="eng000600-034-b"/>
           <speaker>Morat </speaker>
           <stage xml:id="eng000600-e30360">aside. </stage>
@@ -3235,7 +3229,7 @@
           <speaker>Ri. </speaker>
           <l>You're punctual, worthy Moor, but why so thoughtful? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e30430">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e30430">
           <speaker>Morat. </speaker>
           <l>I was but thinking </l>
           <l>Why men, who know each other to be Cheats, </l>
@@ -3245,7 +3239,7 @@
           <speaker>Ri. </speaker>
           <l>What, do you think I now dissemble with you? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e30510">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e30510">
           <speaker>Morat. </speaker>
           <l>Why not, my Lord? since I my self dissembled. </l>
         </sp>
@@ -3253,7 +3247,7 @@
           <speaker>Ri. </speaker>
           <l>How! you? plain-dealing blunt Morat dissemble? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e30580">
+        <sp who="#eng000600-morella" xml:id="eng000600-e30580">
           <speaker>Mor. </speaker>
           <l>We all for Love, Revenge, or Int'rest feign, </l>
           <l>And all, for diff'rent ends, seem diff'rent men, </l>
@@ -3277,7 +3271,7 @@
           <l>I've been deceiv'd indeed. What, wou'd you tempt </l>
           <l>Your Convert to relapse? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e30800">
+        <sp who="#eng000600-morella" xml:id="eng000600-e30800">
           <speaker>Mor. </speaker>
           <l>Come, come, unmask my Lord, I'm bare-fac'd now, </l>
           <l>And know you; know me too; I'm left Executor, </l>
@@ -3290,7 +3284,7 @@
           <speaker>Ri. </speaker>
           <l>Shall I believe thee true? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e30920">
+        <sp who="#eng000600-morella" xml:id="eng000600-e30920">
           <speaker>Mor. </speaker>
           <l>Like all mankind, true to my Interest. </l>
         </sp>
@@ -3301,7 +3295,7 @@
           <l>With feeble Oaths we'll not each other bind; </l>
           <l>No Tye but Int'rest strongly links mankind. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e31010">
+        <sp who="#eng000600-morella" xml:id="eng000600-e31010">
           <speaker>Mor. </speaker>
           <l>You love Placentia? </l>
         </sp>
@@ -3317,7 +3311,7 @@
           <l>The lights; perhaps we may know more. </l>
         </sp>
         <stage xml:id="eng000600-e31140">They put out the Lights. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e31150">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e31150">
           <speaker>Morat. </speaker>
           <l>Placentia! hah! I find I am not proof </l>
           <l>Against th'intruding Monster Jealousy. </l>
@@ -3341,11 +3335,11 @@
           <stage xml:id="eng000600-e31370">Enter Fabiano, Captain, a Servant, with a dark Lanthorn. </stage>
           <l>Ha! who are these? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e31400">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e31400">
           <speaker>Fa. </speaker>
           <l>She's here; fear not, my Soul. 'Tis your adorer. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e31430">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e31430">
           <speaker>Morat. </speaker>
           <l>Ha! </l>
         </sp>
@@ -3355,7 +3349,7 @@
           <l>Stir not yet. </l>
         </sp>
         <stage xml:id="eng000600-e31500">(aside to Mor. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e31520">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e31520">
           <speaker>Fa. </speaker>
           <l>Take this, thou friendly guide, with my best Thanks, </l>
           <l>And watch to let us out. </l>
@@ -3366,7 +3360,7 @@
           <l>Oh! I am all surprize. Why wou'd you venture thus? </l>
           <l>Why, with this Musick? Is't to punish me? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e31610">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e31610">
           <speaker>Fa. </speaker>
           <l>Think not those accents meant to move the Soul. </l>
           <l>Oh! lovely Maid, more Musick's in your name; </l>
@@ -3381,13 +3375,13 @@
           <l>Oh I must share your grief where e're you go; </l>
           <l>You never can be absent from my heart. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e31740">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e31740">
           <speaker>Morat. </speaker>
           <l>I hope, I dream. </l>
           <stage xml:id="eng000600-e31770">(aside▪) </stage>
           <l>Is this the love I blest my self withal! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e31790">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e31790">
           <speaker>Fa. </speaker>
           <l>Sighs stop my words. </l>
         </sp>
@@ -3395,7 +3389,7 @@
           <speaker>Pla. </speaker>
           <l>And Tears obstruct my sight. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e31850">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e31850">
           <speaker>Fa. </speaker>
           <l>Oh! if you lov'd! </l>
         </sp>
@@ -3404,7 +3398,7 @@
           <l>I love you but too well, </l>
           <l>For my Soul's quiet, dear unhappy man. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e31920">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e31920">
           <pb n="37" xml:id="eng000600-035-b"/>
           <speaker>Morat, </speaker>
           <l>Oh cursed sound! he's lov'd! he's but too happy. </l>
@@ -3415,7 +3409,7 @@
           <l>Go prosecute your generous Design, </l>
           <l>See foreign Lands, and visit distant Courts! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e32000">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e32000">
           <speaker>Fa. </speaker>
           <l>Since you will have me go, I will Placentia: </l>
           <l>But not to Courts. No, I will find some Desart: </l>
@@ -3429,7 +3423,7 @@
           <l>I wish you'd lov'd me still, I wish you wou'd forget me. </l>
           <l>Yet love me, love me still, where e're you go. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e32130">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e32130">
           <speaker>Morat. </speaker>
           <l>Racks, Wheels, and Vultures!— </l>
         </sp>
@@ -3442,7 +3436,7 @@
           <l>For there's no safety here, now brave Vincentio's Dead. </l>
         </sp>
         <stage xml:id="eng000600-e32240">Ex: Pla. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e32250">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e32250">
           <speaker>Morat. </speaker>
           <l>Oh! that he were!— (aside.) I can forbear no longer. </l>
           <l>Who are you there, that with false Lights and Vows </l>
@@ -3450,22 +3444,22 @@
           <stage xml:id="eng000600-e32310">Zemet comes up to Morat.) </stage>
           <l>By ravishing young Virgins from their Houses? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e32350">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e32350">
           <speaker>Fa. </speaker>
           <l>Whoe're thou art, I justly fling the lye back in thy face. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e32380">
+        <sp who="#eng000600-morella" xml:id="eng000600-e32380">
           <speaker>Mor. </speaker>
           <l>Our quarrel's just o' both sides, if 't be so: </l>
           <l>Then let not odds on mine e're make it less. </l>
           <l>How many are you arm'd? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e32430">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e32430">
           <speaker>Fa. </speaker>
           <l>We're only two, yet dare defie you all; </l>
           <l>Tho, if the Moon's faint light deceives me not, you're three. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e32470">
+        <sp who="#eng000600-morella" xml:id="eng000600-e32470">
           <speaker>Mor. </speaker>
           <l>That shall not be; Ricardo, now stand by. Draw, <hi>Zemet▪ </hi>
           </l>
@@ -3476,7 +3470,7 @@
           <l>No, I'll get lights— I hope they'll rid me of a Rival. </l>
         </sp>
         <stage xml:id="eng000600-e32560">Exit Ricardo. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e32580">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e32580">
           <speaker>Fa. </speaker>
           <l>Whoe're thou art, tho thy Reproach was base, </l>
           <l>Yet this proceeding's noble. Wou'd we had </l>
@@ -3484,29 +3478,29 @@
           <l>Let's to some fitter place to sight this quarrel, </l>
           <l>For which I know no motive but thy Rudeness. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e32650">
+        <sp who="#eng000600-morella" xml:id="eng000600-e32650">
           <speaker>Mor. </speaker>
           <l>Yes, there are many; but my face wou'd show </l>
           <l>By light but little otherwise than now. </l>
           <l>I am the Moor, deceas'd Vincentio's friend. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e32710">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e32710">
           <speaker>Fa. </speaker>
           <l>I ever lov'd him; </l>
           <l>And, for his sake, I wou'd not kill thee, Moor. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e32750">
+        <sp who="#eng000600-morella" xml:id="eng000600-e32750">
           <speaker>Mor. </speaker>
           <l>But he wou'd thee, if he were in my place, </l>
           <l>For stealing thus from him Placentia's love. </l>
           <l>But I'll revenge at once his wrongs and mine. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e32810">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e32810">
           <speaker>Fa. </speaker>
           <l>Were he alive. I'd not invade his right; </l>
           <l>And as for thee, how canst thou say I wrong'd thee? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e32850">
+        <sp who="#eng000600-morella" xml:id="eng000600-e32850">
           <pb n="38" xml:id="eng000600-036-a"/>
           <speaker>Mor. </speaker>
           <l>Oh! ye immortal Pow'rs! What, have I got </l>
@@ -3515,7 +3509,7 @@
           <l>Know, whosoe're thou art, I love Placentia. </l>
           <l>Will that yet rouse thy Courage? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e32940">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e32940">
           <speaker>Fa. </speaker>
           <l>Hah! Thou love her! </l>
           <l>Vile Black! I'll free her from that shame, or dye. </l>
@@ -3538,11 +3532,11 @@
           <l>Oh! hold! or know you kill a harmless Maid. </l>
         </sp>
         <stage xml:id="eng000600-e33170">[They stop. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e33180">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e33180">
           <speaker>Morat. </speaker>
           <l>Madam, retire. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e33210">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e33210">
           <speaker>Fa. </speaker>
           <l>Leave us a while, dear Madam. </l>
         </sp>
@@ -3550,7 +3544,7 @@
           <speaker>Pla. </speaker>
           <l>No, here I'll take my death, or hinder yours. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e33270">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e33270">
           <speaker>Fa. </speaker>
           <l>Oh! fly! while this Moor lives, I cannot free you. </l>
         </sp>
@@ -3558,7 +3552,7 @@
           <speaker>Pla. </speaker>
           <l>Ah! why so cruel, Moor! </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e33330">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e33330">
           <speaker>Morat. </speaker>
           <l>I love and will not lose you. </l>
         </sp>
@@ -3568,7 +3562,7 @@
           <l>Oh! sully not my Virtue with thy passion. </l>
           <l>Can you now think me worth your care, my Lord? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e33410">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e33410">
           <speaker>Fa. </speaker>
           <l>Heav'n can receive no spots from Blasphemy; </l>
           <l>But, spight of that, the pious pay their duty, </l>
@@ -3580,7 +3574,7 @@
           <l>Oh! stay! hold! if you love your selves or me, </l>
           <l>Who first desists, I'll think the truest lover. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e33510">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e33510">
           <speaker>Fa. </speaker>
           <l>Must I not punish him? </l>
         </sp>
@@ -3591,7 +3585,7 @@
           <l>Now, Moor, if thou woud'st kill him, kill me too. </l>
         </sp>
         <stage xml:id="eng000600-e33600">Enter <hi>Ricardo, Zemet</hi>, and Servantss with lights. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e33620">
+        <sp who="#eng000600-morella" xml:id="eng000600-e33620">
           <speaker>Mor. </speaker>
           <l>Fabiano! </l>
         </sp>
@@ -3599,7 +3593,7 @@
           <speaker>Ri. </speaker>
           <l>How does my worthy friend? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e33680">
+        <sp who="#eng000600-morella" xml:id="eng000600-e33680">
           <speaker>Mor. </speaker>
           <l>Oh! never worse. </l>
         </sp>
@@ -3607,11 +3601,11 @@
           <speaker>Ri. </speaker>
           <l>Where are you wounded, Sir? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e33740">
+        <sp who="#eng000600-morella" xml:id="eng000600-e33740">
           <speaker>Mor. </speaker>
           <l>Oh! at the heart— by killing jealousy. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e33770">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e33770">
           <speaker>Fa. </speaker>
           <l>Madam, till morning I must leave you here, </l>
           <l>And then I'll wait on you. </l>
@@ -3620,18 +3614,18 @@
           <speaker>Pla. </speaker>
           <l>Oh that's too long, where honour is unsafe. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e33840">
+        <sp who="#eng000600-morella" xml:id="eng000600-e33840">
           <speaker>Mor. </speaker>
           <l>Let him protect you there, if I am grown </l>
           <l>So fear'd a Ravisher. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e33880">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e33880">
           <pb n="39" xml:id="eng000600-036-b"/>
           <speaker>Fa. </speaker>
           <l>Madam, we will: my wounded friend wants help, </l>
           <l>The Moor is brave, and thus we must be safe. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e33920">
+        <sp who="#eng000600-morella" xml:id="eng000600-e33920">
           <speaker>Mor. </speaker>
           <l>Zemet, While I retire, stay and observe 'em. </l>
         </sp>
@@ -3689,7 +3683,7 @@
           <l>These Innocents, depriv'd like their poor Mother, </l>
           <l>Ev'n of a place to lay their little heads. </l>
         </sp>
-        <sp who="#eng000600-child" xml:id="eng000600-e34470">
+        <sp who="#eng000600-child-1" xml:id="eng000600-e34470">
           <speaker>1 Child. </speaker>
           <l>Oh sad! have we then ne'r another home? </l>
           <l>I'm hungry, cold, and tir'd, indeed I am. </l>
@@ -3698,7 +3692,7 @@
           <speaker>Lau. </speaker>
           <l>Oh wretched Children, but more wretched Mother! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e34540">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e34540">
           <speaker>Fa. </speaker>
           <l>This Scene adds grief to grief, yet tempts to stay: </l>
         </sp>
@@ -3724,7 +3718,7 @@
           <speaker>Lau. </speaker>
           <l>Stay, thou invader of my right. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e34760">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e34760">
           <speaker>Fa. </speaker>
           <l>Hold, Madam. </l>
         </sp>
@@ -3914,7 +3908,7 @@
           <l>My Rage works inwards— help; I faint— I dye! </l>
         </sp>
         <stage xml:id="eng000600-e36420">Swoons in her Womens arms, and is laid in an Arm-Chair. </stage>
-        <sp who="#eng000600-women" xml:id="eng000600-e36430">
+        <sp who="#eng000600-woman" xml:id="eng000600-e36430">
           <speaker>Wom. </speaker>
           <l>Oh help my Lady! </l>
         </sp>
@@ -4079,7 +4073,7 @@
           <l>That Lady's wrongs, her Rage, and all things here, </l>
           <l>Must have convinc'd you, 'tis unsafe to stay. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e38010">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e38010">
           <speaker>Fa. </speaker>
           <l>But oh my Captain? </l>
         </sp>
@@ -4088,11 +4082,11 @@
           <l>The danger cannot reach him. </l>
         </sp>
         <stage xml:id="eng000600-e38070">Enter three Bravoes, who surprize Fab. take his Sword, throw it by, and bind him. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e38090">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e38090">
           <speaker>Fa. </speaker>
           <l>Ha! Villains! by whose orders am I seiz'd? </l>
         </sp>
-        <sp who="#eng000600-bravo" xml:id="eng000600-e38120">
+        <sp who="#eng000600-bravo-1" xml:id="eng000600-e38120">
           <speaker>1 Bra. </speaker>
           <l>By Don Ricardo's hedesigns no hurt: </l>
           <l>As for you, Madam, you must now deliver </l>
@@ -4107,7 +4101,7 @@
           <stage xml:id="eng000600-e38240">To them </stage>
           <l>You'll find much more than e're your hearts cou'd wish: </l>
         </sp>
-        <sp who="#eng000600-bravo" xml:id="eng000600-e38260">
+        <sp who="#eng000600-bravo-1" xml:id="eng000600-e38260">
           <speaker>1 Bra. </speaker>
           <l>Search ev'ry where, while I attend Ricardo. </l>
         </sp>
@@ -4126,7 +4120,8 @@
           <speaker>Ri. </speaker>
           <l>Hold! </l>
         </sp>
-        <sp who="#eng000600-placentia #eng000600-fabiano" xml:id="eng000600-e38450">
+        <sp who="#eng000600-placentia #eng000600-d-fabiano"
+                xml:id="eng000600-e38450">
           <speaker>Pla. and Fa. </speaker>
           <l>Hah! </l>
         </sp>
@@ -4134,7 +4129,7 @@
           <speaker>Ri. </speaker>
           <l>Attempt to free him, and he dyes. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e38510">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e38510">
           <speaker>Fa. </speaker>
           <l>Thus Robbers steal our wealth, then leave us bound. </l>
         </sp>
@@ -4143,7 +4138,7 @@
           <l>You're robb'd of nothing since she'd be a Nun; </l>
           <l>Neither shall you be left, but go with us. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e38580">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e38580">
           <speaker>Fa. </speaker>
           <l>She shall not go. </l>
         </sp>
@@ -4166,7 +4161,7 @@
           <l>Come, quickly yield! for I'll this very moment. </l>
           <l>Secure my bliss, lest my design shou'd fail. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e38780">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e38780">
           <speaker>Fa. </speaker>
           <l>If thou'rt a man, unbind and kill me first. </l>
         </sp>
@@ -4179,7 +4174,7 @@
           <speaker>Pla. </speaker>
           <l>Oh save me, heav'n! Ricardo, think of heav'n. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e38890">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e38890">
           <speaker>Fa. </speaker>
           <l>Hold! Is the man lost in the lustful Brute? </l>
           <l>Thou lookst a man, then bear thee now like one, </l>
@@ -4221,7 +4216,7 @@
           <l>Kind broken words, and trickling pearly Tears, </l>
           <l>While my proud Rival by, sees, rages, and despairs. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e39270">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e39270">
           <speaker>Fa. </speaker>
           <l>Racks, Wheels, and Fires, must I be still restrain'd! </l>
         </sp>
@@ -4271,7 +4266,7 @@
           <speaker>Pla. </speaker>
           <l>Oh Heav'n! Crush, crush us both with Thunder! oh! my Lord! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e39650">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e39650">
           <speaker>Fa. </speaker>
           <l>Curst Sight! Death to my Eyes! Hell to my Soul! </l>
           <l>I cannot bear it </l>
@@ -4293,7 +4288,7 @@
           <speaker>Ri. </speaker>
           <l>Fond, rash fool, take thy wish! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e39870">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e39870">
           <speaker>Fa. </speaker>
           <l>Hah! What means Placentia? </l>
         </sp>
@@ -4301,7 +4296,7 @@
           <speaker>Pla. </speaker>
           <l>To rob you of that blow; I want it most. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e39940">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e39940">
           <speaker>Fa. </speaker>
           <l>Restraint, your danger, check, distract, unman me— </l>
           <l>Oh! my Placentia! Oh Ricardo spare her! </l>
@@ -4338,7 +4333,7 @@
           <l>Let me adjure you, spare him, spare my honour, </l>
           <l>Nor act a Crime you'd wish undone too late. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e40290">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e40290">
           <speaker>Fa. </speaker>
           <l>Down Stubborn Heart! bend knees! </l>
           <stage xml:id="eng000600-e40320">Placentia kneels. </stage>
@@ -4360,7 +4355,7 @@
           <speaker>Pla. </speaker>
           <l>Oh do no drag me thus! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e40490">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e40490">
           <speaker>Fa. </speaker>
           <l>Bound as I am, I'll strive to snatch thy Dagger. </l>
         </sp>
@@ -4393,7 +4388,7 @@
           <l>" Infection's busie where you breathe! Dye— </l>
         </sp>
         <stage xml:id="eng000600-e40770">Pla. offers to kill <hi>Ri. Fa. </hi>hinders her. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e40800">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e40800">
           <speaker>Fa. </speaker>
           <l>" Hold, dear Placentia, let me interpose: </l>
           <l>" i'll shield him, but to punish him my self. </l>
@@ -4443,7 +4438,7 @@
           <l>" Thou never hadst that goodness as to love. </l>
           <l>Dye, Virtue strikes, not I. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e41190">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e41190">
           <speaker>Fa. </speaker>
           <l>Hold, Madam, free my hands; I'll kill him then. </l>
         </sp>
@@ -4451,7 +4446,7 @@
           <speaker>Pla. </speaker>
           <l>Why venture twice your life against a Villain? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e41250">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e41250">
           <speaker>Fa. </speaker>
           <l>What can I have to lose, when you are lost? </l>
         </sp>
@@ -4464,7 +4459,7 @@
           <speaker>Pla. </speaker>
           <l>Ha! now he's scap'd, and 'tis our turn to fear. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e41360">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e41360">
           <speaker>Fa. </speaker>
           <l>I'll fly for help, unbind me. </l>
         </sp>
@@ -4482,7 +4477,7 @@
         </sp>
         <pb n="48" xml:id="eng000600-041-a"/>
         <stage xml:id="eng000600-e41520">They unbind Fabiano, who takes up the Sword. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e41540">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e41540">
           <speaker>Fa. </speaker>
           <l>Quick, call the Captain: now his wound is bound, </l>
           <l>Tho lame, he may assist. </l>
@@ -4492,7 +4487,7 @@
           <speaker>Ri. </speaker>
           <l>without. Open the door. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e41630">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e41630">
           <speaker>Fa. </speaker>
           <l>No, not to Thieves and Ravishers. </l>
         </sp>
@@ -4511,7 +4506,7 @@
         </sp>
         <stage xml:id="eng000600-e41770">The Bell is rung. </stage>
         <stage xml:id="eng000600-e41780">Enter Captain, supporting himself on a stick. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e41790">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e41790">
           <speaker>Fa. </speaker>
           <l>Why, then I can but dye for you, Placentia. </l>
         </sp>
@@ -4556,7 +4551,7 @@
           <l>Being resolv'd to seize 'em, when my men </l>
           <l>Were got together, as they are now. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e42210">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e42210">
           <speaker>Fa. </speaker>
           <l>Where is the Moor? </l>
         </sp>
@@ -4564,16 +4559,16 @@
           <speaker>Lieu </speaker>
           <l>We cannot find him yet. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e42270">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e42270">
           <speaker>Fa. </speaker>
           <l>Bind all the Villains, and confine Ricardo. </l>
         </sp>
         <stage xml:id="eng000600-e42310">Enter Don Vincentio undisguis'd, with Attendants. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e42330">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e42330">
           <speaker>Vin. </speaker>
           <l>Forbear, presumptuous Lord! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e42360">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e42360">
           <speaker>Fa. </speaker>
           <l>How! Don Vincentio living! </l>
         </sp>
@@ -4585,7 +4580,7 @@
           <speaker>Ri. </speaker>
           <l>Risen from the Grave; </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e42460">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e42460">
           <speaker>Vin. </speaker>
           <l>Why d' you all shun me? But perhaps you ought. </l>
           <l>Yet, tho much chang'd, I am Vincentio still. </l>
@@ -4594,7 +4589,7 @@
           <speaker>Pla. </speaker>
           <l>Alive! oh grant it heav'n. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e42540">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e42540">
           <speaker>Vin. </speaker>
           <l>You've been impos'd upon, I find. </l>
         </sp>
@@ -4610,7 +4605,7 @@
           <l>" That I may know one joyful Moment more. </l>
         </sp>
         <stage xml:id="eng000600-e42650">[The Ladies and Ri. run to embrace him, he makes 'em sign to forbear. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e42670">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e42670">
           <speaker>Vin. </speaker>
           <l>Spare Compliments! It is your love I'd have; </l>
           <l>When I am sure of that, the rest is needless. </l>
@@ -4620,7 +4615,7 @@
           <l>My Lord, your Ear a moment. </l>
         </sp>
         <stage xml:id="eng000600-e42740">(Ri. whispers Vin.) </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e42760">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e42760">
           <speaker>Vinc. </speaker>
           <l>I find, there have been strange disorders here. </l>
           <l>Placentia, as for you, I hear you're grown </l>
@@ -4633,7 +4628,7 @@
           <l>Oh! my best Lord! upon my knees I beg </l>
           <l>That Calumny may not possess your Soul! </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e42880">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e42880">
           <speaker>Vin. </speaker>
           <stage xml:id="eng000600-e42900">(aside.) </stage>
           <l>How am I chang'd indeed; I can stand by, </l>
@@ -4642,20 +4637,20 @@
           <l>Thou drov'st out flatt'ring hope when most secure, </l>
           <l>And all my Gen'rous passions follow'd it. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e42970">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e42970">
           <speaker>Fa. </speaker>
           <l>Do's it become Placentia thus to kneel, my Lord? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e43010">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e43010">
           <speaker>Vin. </speaker>
           <l>If you dislike her low Condition, raise her! </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e43040">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e43040">
           <speaker>Fa. </speaker>
           <l>So, I can, Sir, and to as high a pitch </l>
           <l>As yours, tho mounted thus in all its pride. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e43080">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e43080">
           <speaker>Vin. </speaker>
           <l>My Lord, you've in my absence stoln a Jewel </l>
           <stage xml:id="eng000600-e43110">(To F. aside. </stage>
@@ -4663,7 +4658,7 @@
           <l>Restore it me again on your Sword's point; </l>
           <l>And by the Grove where I kill'd rash Don John. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e43170">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e43170">
           <speaker>Fa. </speaker>
           <l>
             <hi>to him.</hi>] I'll meet you; say no more— Rise, noble Maid. </l>
@@ -4673,7 +4668,7 @@
           <l>No, I will grow to Earth, except my Lord </l>
           <l>Turns merciful again, and hears me speak! </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e43250">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e43250">
           <speaker>Vin. </speaker>
           <l>aside. Hopes of Revenge have beat out jealousy, </l>
           <l>And I'm my self again— Ah lovely Maid, </l>
@@ -4688,7 +4683,7 @@
           <l>For I have proofs, I wish the Moor were here! </l>
           <l>He first betray'd their ill designs to me. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e43400">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e43400">
           <speaker>Vin. </speaker>
           <l>Why then, ye equal judges, hear him speak! </l>
           <l>I am the Moor— do you start, base Traducer? </l>
@@ -4707,7 +4702,7 @@
           <speaker>Pla. </speaker>
           <l>" Alas! Vows firm as fate for ever part us. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e43580">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e43580">
           <speaker>Vin. </speaker>
           <l>" Yet stay, That I may see you shine at Court. </l>
         </sp>
@@ -4715,7 +4710,7 @@
           <speaker>Pla. </speaker>
           <l>" Ah no! my Lord, vertue shines best in Cloysters. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e43640">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e43640">
           <speaker>Vin. </speaker>
           <l>" But oh! if you're resolv'd to live recluse, </l>
           <l>" And make your fond Vincentio miserable, </l>
@@ -4728,7 +4723,7 @@
           <l>Is by a secret charm bound to Fabiano, </l>
           <l>But yet, its Duty must be wholly yours. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e43770">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e43770">
           <speaker>Vin. </speaker>
           <l>Oh! break that cursed charm, or else deny </l>
           <l>All thoughts that prompt a friendship or respect. </l>
@@ -4740,7 +4735,7 @@
           <speaker>Pla. </speaker>
           <l>Oh! tho I love him— </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e43870">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e43870">
           <speaker>Vin. </speaker>
           <l>Oh unspeak those words. </l>
           <l>Ten thousand Vipers stung me at the sound; </l>
@@ -4755,14 +4750,14 @@
           <l>I'm ripe for ruin, like some batter'd wall, </l>
           <l>But haughty Foe, I'll crush thee with my fall. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44010">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44010">
           <speaker>Fa. </speaker>
           <l>Kill me, I'll thank you; for I'm hopeless too. </l>
           <l>But live, my Lord, and think me not your foe. </l>
           <l>Nothing but barbarous wrong done to Placentia </l>
           <l>Cou'd make me draw my Sword against my friend. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44080">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44080">
           <speaker>Vin. </speaker>
           <l>Must I be wicked e're I can be eas'd? </l>
           <l>Take, take your friendship back. Oh why am I thus curst. </l>
@@ -4789,18 +4784,18 @@
           <speaker>Mel. </speaker>
           <l>Oh why will you lye thus? </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44300">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44300">
           <speaker>Vin. </speaker>
           <l>Oh why indeed indeed! my sword, my sword shou'd end me and my pain. </l>
         </sp>
         <stage xml:id="eng000600-e44330">[rises and draws his Sword. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44340">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44340">
           <speaker>Fa. </speaker>
           <l>Hold! are you mad? </l>
           <stage xml:id="eng000600-e44370">[Takes his Sword from him, and others hold him. </stage>
           <l>Let Reason end 'em, and preserve your Life. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44390">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44390">
           <speaker>Vin. </speaker>
           <l>Away; Life's my worst foe, and you the next; </l>
           <l>Think not t'impose it on me. Reason's self, </l>
@@ -4810,41 +4805,41 @@
           <l>Delay not thus my wisht for Dissolution. </l>
           <l>Oh rid me of Intolerable Life. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44480">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44480">
           <speaker>Fa. </speaker>
           <l>Forgive your Friends, and live my Lord. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44510">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44510">
           <speaker>Vin </speaker>
           <l>My Friends! wou'd you be thought my Friend? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44540">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44540">
           <speaker>Fa. </speaker>
           <l>Yes, from my Soul. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44570">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44570">
           <speaker>Vin. </speaker>
           <l>Then dare be such, and rid me now of Life. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44600">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44600">
           <speaker>Fa. </speaker>
           <l>Wou'd that be like a Friend? Reflect, my Lord: </l>
           <l>Exert your Soul, and bear like your great self. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44640">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44640">
           <speaker>Vin. </speaker>
           <l>Will you not kill me then? </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44670">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44670">
           <speaker>Fa. </speaker>
           <l>Were ev'ry door to ease shut up but Death, </l>
           <l>Unwillingly I wou'd. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44710">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44710">
           <speaker>Vin. </speaker>
           <l>There's no other. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44740">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44740">
           <speaker>Fa. </speaker>
           <l>Then I must be cruelly kind. </l>
         </sp>
@@ -4853,11 +4848,11 @@
           <speaker>Pla. </speaker>
           <l>My Lord— </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44810">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44810">
           <speaker>Fa. </speaker>
           <l>Madam forbear? Let one friend ease another. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44840">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44840">
           <speaker>Vin. </speaker>
           <l>Well said? </l>
           <l>Come, take your Sword my Friend, and lay its point close to my Breast? </l>
@@ -4865,12 +4860,12 @@
           <l>That when I do you the same hated Office, </l>
           <l>We both may fall at once. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e44920">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e44920">
           <speaker>Vin. </speaker>
           <l>What, both! forbid it friendship! </l>
           <l>I dare not buy my ease at your Life's Cost. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e44960">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e44960">
           <speaker>Fa. </speaker>
           <l>See, whither passion hurried you, my Lord! </l>
           <l>Were wilful Death an ease, shou'd you deny it him </l>
@@ -4879,7 +4874,7 @@
           <pb n="52" xml:id="eng000600-043-a"/>
           <l>Till heav'n commands it back, to gain a better. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e45030">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e45030">
           <speaker>Vin. </speaker>
           <l>Oh! you have touch'd my Soul! Come to my Arms! </l>
           <l>I'm reconcil'd to wretchedness, to Life, </l>
@@ -4894,11 +4889,11 @@
           <l>My Ld, Don Ferdinand, with guards was forcing Entrance, </l>
           <l>But, hearing you're return'd, wou'd only kiss your hand. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e45180">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e45180">
           <speaker>Fa. </speaker>
           <l>My Lord conceal me, lest I be detain'd. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e45210">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e45210">
           <speaker>Vin. </speaker>
           <l>
             <stage xml:id="eng000600-e45240">to Fab. </stage>Retire into that Room▪ Go bring him in. </l>
@@ -4906,7 +4901,7 @@
         <stage xml:id="eng000600-e45250">(To Zem. </stage>
         <stage xml:id="eng000600-e45270">[Exit. Fa. and Zemet severally. </stage>
         <stage xml:id="eng000600-e45300">Enter Don Ferdinand, with Zemet with him. </stage>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e45330">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e45330">
           <speaker>Fer. </speaker>
           <l>Welcome, my Lord, to Portugal, that mourn'd </l>
           <l>The brave Vincentio's loss! The King himself </l>
@@ -4914,49 +4909,49 @@
           <l>And doubtless will rejoyce, to see you contradict </l>
           <l>That most unwelcome news. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e45420">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e45420">
           <speaker>Vin. </speaker>
           <l>I must employ my Friends, my Lord, for a new pardon, </l>
           <l>'Twas I that caus'd the Rumour to be spread; </l>
           <l>But 'twas to save a Brother. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e45470">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e45470">
           <speaker>Fer. </speaker>
           <l>He's no Brother. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e45500">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e45500">
           <speaker>Vin. </speaker>
           <l>My Lord, he's but an ill one, I confess: </l>
           <l>Yet, nature still will work. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e45540">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e45540">
           <speaker>Fer. </speaker>
           <l>I'll say no more, till I have got your promise, of one thing. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e45570">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e45570">
           <speaker>Vin. </speaker>
           <l>Name it, my Lord; a gift that you can ask </l>
           <l>Must needs be too well plac'd to be deny'd. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e45610">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e45610">
           <speaker>Fer. </speaker>
           <l>I had a Son, and hope once more to have him, </l>
           <l>If this fair Lady will restore him to me, </l>
           <l>Once I despis'd her, but admire her now. </l>
           <l>I ask her for his Wife, my Lord, that's all. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e45670">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e45670">
           <speaker>Vin. </speaker>
           <l>All!— ask me my Lord, to rip my breast my self, </l>
           <l>And give you thence my heart. Ask any thing, </l>
           <l>Rather than ask Placentia for your Son. </l>
           <l>She must be mine, or no man's in the World. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e45740">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e45740">
           <speaker>Fer. </speaker>
           <l>My Lord, she is your Sister. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e45770">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e45770">
           <speaker>Vin. </speaker>
           <l>Hah! my Sister. </l>
         </sp>
@@ -4966,7 +4961,7 @@
           <l>Nay then 'tis time to fly: These perjur'd Monks, </l>
           <l>Tho he's not dead have made the secret known. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e45850">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e45850">
           <speaker>Fer. </speaker>
           <l>Lay hold on him!— </l>
           <stage xml:id="eng000600-e45880">(going is stopt by the Lieutenant.) </stage>
@@ -4977,7 +4972,7 @@
           <speaker>1. Monk. </speaker>
           <l>No, he's a peasants Son, and she your Sister. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e45940">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e45940">
           <speaker>Vin. </speaker>
           <l>Can Heav'n and Earth conspire to make me wretched? </l>
           <pb n="53" xml:id="eng000600-043-b"/>
@@ -4989,7 +4984,7 @@
           <speaker>1. Monk. </speaker>
           <l>I hope, My Lord, we shall, if you'll but hear. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e46030">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e46030">
           <speaker>Vin </speaker>
           <l>Let me hear any thing but Sister from you. </l>
           <l>That fatal sound will murther me at once; </l>
@@ -5011,7 +5006,7 @@
           <l>Under his Parents hands. </l>
         </sp>
         <stage xml:id="eng000600-e46230">Gives Vinc. a paper. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e46250">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e46250">
           <speaker>Vin. </speaker>
           <l>This is enough— Placentia is my Sister. Oh! my heart! </l>
           <l>Turn, turn thy self about, that I may ask </l>
@@ -5037,7 +5032,7 @@
           <l>Yet with no breach of trust on our-side neither, </l>
           <l>Since we believ'd you dead, when we reveal'd it. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e46500">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e46500">
           <speaker>Vin. </speaker>
           <l>Have I not patience, fathers, thus to hear </l>
           <l>Such killing news, yet lye here without raving? </l>
@@ -5048,7 +5043,7 @@
           <speaker>Pla. </speaker>
           <l>Look to my Lord! </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e46590">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e46590">
           <speaker>Fer. </speaker>
           <l>Alas! he's much disturb'd— As for these Villains, </l>
           <l>To dungeons with them. But for this mock-Lord— </l>
@@ -5089,7 +5084,7 @@
           <l>Oh run, for pities sake! she is poyson'd. </l>
           <l>Get Antidotes! But tell her not, I did it. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e46960">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e46960">
           <speaker>Fer. </speaker>
           <l>Run, help the Lady. </l>
         </sp>
@@ -5305,7 +5300,7 @@
           <l>And dye perhaps an ignominious Death? </l>
           <l>No, I must strike— </l>
         </sp>
-        <sp who="#eng000600-child" xml:id="eng000600-e48900">
+        <sp who="#eng000600-child-1" xml:id="eng000600-e48900">
           <speaker>1. Child. </speaker>
           <l>Pray, mother, don't look so, indeed it frights me </l>
           <l>Oh pray ben't angry! oh I'll hug and kiss you. </l>
@@ -5314,7 +5309,7 @@
           <speaker>Lau. </speaker>
           <l>Away, we're ruin'd, and we ought to dye. </l>
         </sp>
-        <sp who="#eng000600-child" xml:id="eng000600-e48970">
+        <sp who="#eng000600-child-1" xml:id="eng000600-e48970">
           <speaker>1. Child. </speaker>
           <l>Oh my dear Mother, live; We'll beg for you. </l>
         </sp>
@@ -5322,7 +5317,7 @@
           <speaker>Lau. </speaker>
           <l>Beg! cou'd you Beg? </l>
         </sp>
-        <sp who="#eng000600-child" xml:id="eng000600-e49030">
+        <sp who="#eng000600-child-1" xml:id="eng000600-e49030">
           <speaker>1. Child. </speaker>
           <l>Yes, for our dearest mother. </l>
         </sp>
@@ -5365,7 +5360,7 @@
           <l>Oh Heav'n!— Oh my Children!— </l>
         </sp>
         <stage xml:id="eng000600-e49410">(Dyes. </stage>
-        <sp who="#eng000600-women" xml:id="eng000600-e49420">
+        <sp who="#eng000600-woman" xml:id="eng000600-e49420">
           <speaker>Wom. </speaker>
           <l>She's dead, she's dead. </l>
         </sp>
@@ -5387,7 +5382,7 @@
           <stage xml:id="eng000600-e49590">Re-enter Ferdinand, and a Servant. </stage>
           <l>No News yet of Vincentio?— Oh most dismal sight! </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e49630">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e49630">
           <speaker>Fer. </speaker>
           <l>Remove that Scene of Grief— force off that wretch. </l>
         </sp>
@@ -5397,7 +5392,7 @@
           <l>Be joyn'd with her at least in Death!— Oh <hi>Laura! Laura</hi>, </l>
         </sp>
         <stage xml:id="eng000600-e49710">(Laura is carried off, Ricardo follows, bolding by the garments, but is forced off, faints, falls and is carried off. </stage>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e49740">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e49740">
           <speaker>Fer. </speaker>
           <l>A doleful Scene! but where's my Lord Vincentio. </l>
           <l>I dread some greater mischief from his Stay. </l>
@@ -5410,19 +5405,19 @@
           <stage xml:id="eng000600-e49870">(Exit Servant </stage>
           <l>He brings my Lord Fabiano to be blest. </l>
         </sp>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e49900">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e49900">
           <speaker>Fer. </speaker>
           <l>My Son! </l>
         </sp>
         <stage xml:id="eng000600-e49930">Enter Vincentio and Fabiano at one Door▪ </stage>
         <stage xml:id="eng000600-e49960">
           <hi>Placentia, Morella</hi>, and Melinda at the other. </stage>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e49990">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e49990">
           <speaker>Vin. </speaker>
           <l>Love's sacrific'd at last to Reason, Take her, </l>
           <l>She's yours, my Lord. </l>
         </sp>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e50030">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e50030">
           <speaker>Fa. </speaker>
           <l>Oh 'tis too much at once— oh rapture— oh Placentia. </l>
         </sp>
@@ -5431,7 +5426,7 @@
           <l>Oh my lov'd Lord!— </l>
         </sp>
         <stage xml:id="eng000600-e50100">[He embraces her. </stage>
-        <sp who="#eng000600-fabiano" xml:id="eng000600-e50110">
+        <sp who="#eng000600-d-fabiano" xml:id="eng000600-e50110">
           <speaker>Fa. </speaker>
           <l>My Life! my Soul! oh I am lost in Bliss, and suffer with delight. </l>
           <l>Thou kind omnipotence, forgive my doubts, </l>
@@ -5439,12 +5434,12 @@
           <l>My Lord, my Father! </l>
         </sp>
         <stage xml:id="eng000600-e50170">[kneels to his Father. </stage>
-        <sp who="#eng000600-ferdinando" xml:id="eng000600-e50180">
+        <sp who="#eng000600-d-ferdinand" xml:id="eng000600-e50180">
           <speaker>Fer. </speaker>
           <l>Oh my dear Son, be blest, and let my tears </l>
           <l>Now speak my Joy as once they did my Grief. </l>
         </sp>
-        <sp who="#eng000600-vincentio-morat" xml:id="eng000600-e50220">
+        <sp who="#eng000600-don-vincentio" xml:id="eng000600-e50220">
           <speaker>Vin. </speaker>
           <l>Thus Providence has wrought my desperate cure. </l>
           <l>Oh! you, no more my Mistress nor my Rival, </l>

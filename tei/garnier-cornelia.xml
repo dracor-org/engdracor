@@ -104,35 +104,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000623-cicero">
-            <persName>Cicero</persName>
-          </person>
-          <person xml:id="eng000623-chorus">
-            <persName>Chorus</persName>
-          </person>
-          <person xml:id="eng000623-multiple">
-            <persName>Multiple</persName>
-          </person>
-          <person xml:id="eng000623-cornelia">
-            <persName>Cornelia</persName>
-          </person>
-          <person xml:id="eng000623-philip">
-            <persName>Philip</persName>
-          </person>
-          <person xml:id="eng000623-brutus">
-            <persName>Brutus</persName>
-          </person>
-          <person xml:id="eng000623-cassius">
-            <persName>Cassius</persName>
-          </person>
-          <person xml:id="eng000623-caesar">
+          <person xml:id="eng000623-caesar" sex="MALE">
             <persName>Caesar</persName>
           </person>
-          <person xml:id="eng000623-antony">
-            <persName>Antony</persName>
+          <person xml:id="eng000623-decim" sex="MALE">
+            <persName>Decim</persName>
           </person>
-          <person xml:id="eng000623-messenger">
+          <personGrp xml:id="eng000623-chorus-of-friends-of-ceasar" sex="MALE">
+            <name>Chorus of friends of Ceasar</name>
+          </personGrp>
+          <person xml:id="eng000623-messenger" sex="MALE">
             <persName>Messenger</persName>
+          </person>
+          <person xml:id="eng000623-anthony" sex="MALE">
+            <persName>Anthony</persName>
+          </person>
+          <person xml:id="eng000623-brutus" sex="MALE">
+            <persName>Brutus</persName>
+          </person>
+          <person xml:id="eng000623-cassius" sex="MALE">
+            <persName>Cassius</persName>
+          </person>
+          <person xml:id="eng000623-phillip" sex="MALE">
+            <persName>Phillip</persName>
+          </person>
+          <person xml:id="eng000623-cornelia" sex="FEMALE">
+            <persName>Cornelia</persName>
+          </person>
+          <personGrp xml:id="eng000623-chorus" sex="UNKNOWN">
+            <name>Chorus</name>
+          </personGrp>
+          <person xml:id="eng000623-cicero" sex="MALE">
+            <persName>Cicero</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -429,7 +432,7 @@
       </div>
       <div n="2" type="act" xml:id="eng000623-e102540">
         <head>ACTVS SECVNDVS. </head>
-        <sp who="#eng000623-multiple" xml:id="eng000623-e102550">
+        <sp who="#eng000623-cornelia" xml:id="eng000623-e102550">
           <speaker>Cornelia. and Cicero. </speaker>
           <l>AND wil ye needs bedew my dead-grown ioyes, </l>
           <l>And nourish sorrow with eternall teares? </l>
@@ -558,7 +561,7 @@
           <l>That your desastrous griefes shall turne to ioy, </l>
           <l>And we haue time to burie our annoy? </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e103760">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e103760">
           <speaker>
             <pb xml:id="eng000623-012-b"/>Cornelia. </speaker>
           <l>Ne're shall I see that day, for Heauen and Time, </l>
@@ -604,7 +607,7 @@
           <l>Leauing our Cittie, where so long agoe, </l>
           <l>Heauens did theyr fauors lauishly bestow. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e104160">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e104160">
           <speaker>Cornelia. </speaker>
           <l>T'is true, the Heauens (at least-wise if they please) </l>
           <l>May giue poore Rome her former libertie. </l>
@@ -624,7 +627,7 @@
           <l>Brauely he died, and (haplie) takes it ill, </l>
           <l>That (enuious) we repine at heauens will. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e104310">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e104310">
           <speaker>Cornelia. </speaker>
           <l>Alas, my sorrow would be so much lesse, </l>
           <l>If he had died (his fauchin in his fist.) </l>
@@ -683,7 +686,7 @@
           <l>What one he is that in this broile hath bin </l>
           <l>And mourneth not for some man of his kin? </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e104840">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e104840">
           <speaker>Cornelia. </speaker>
           <l>If all the world were in the like distresse, </l>
           <l>My sorrow yet would neuer seeme the lesse. </l>
@@ -695,7 +698,7 @@
           <l>"And nothing more (in vprores) men can please, </l>
           <l>" Then when they see their woes not worst of all. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e104920">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e104920">
           <speaker>Cornelia. </speaker>
           <l>"Our friendes mis-fortune dooth increase our owne. </l>
         </sp>
@@ -703,7 +706,7 @@
           <speaker>Cicero. </speaker>
           <l>"But ours of others will not be acknowne. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e104960">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e104960">
           <speaker>Cornelia. </speaker>
           <l>"Yet one mans sorrow will another tutch. </l>
         </sp>
@@ -711,7 +714,7 @@
           <speaker>Cicero. </speaker>
           <l>"I when himselfe will entertaine none such. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105000">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105000">
           <speaker>Cornelia. </speaker>
           <l>"Anothers teares, draw teares fro forth our eyes. </l>
         </sp>
@@ -719,7 +722,7 @@
           <speaker>Cicero. </speaker>
           <l>"And choyce of streames the greatest Riuer dryes. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105040">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105040">
           <speaker>Cornelia. </speaker>
           <l>When sand within a Whirle-poole lyes vnwet, </l>
           <pb xml:id="eng000623-015-a"/>
@@ -736,7 +739,7 @@
           <l>"No, no, Cornelia, Caron takes not paine, </l>
           <l>" To ferry those that must be fetcht againe. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105160">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105160">
           <speaker>Cornelia. </speaker>
           <l>Proserpina indeed neglects my plaints, </l>
           <l>And hell it selfe is deafe to my laments; </l>
@@ -782,7 +785,7 @@
           <l>"With brandisht dart, doth make the passage free; </l>
           <l>" And timeles doth our soules to Pluto send. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105570">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105570">
           <speaker>
             <pb xml:id="eng000623-016-a"/>Cornelia. </speaker>
           <l>Would Death had steept his date in Lerna-s blood, </l>
@@ -796,7 +799,7 @@
           <l>"Death's alwaies ready, and our time is knowne </l>
           <l>" To be at heauens dispose, and not our owne. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105660">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105660">
           <speaker>Cornelia. </speaker>
           <l>Can wee be ouer-hastie to good hap? </l>
         </sp>
@@ -804,7 +807,7 @@
           <speaker>Cicero. </speaker>
           <l>What good expect wee in a fiery gap? </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105700">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105700">
           <speaker>Cornelia. </speaker>
           <l>To scape the feares that followes Fortunes glaunces. </l>
         </sp>
@@ -812,7 +815,7 @@
           <speaker>Cicero. </speaker>
           <l>"A noble minde doth neuer feare mischaunces. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105740">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105740">
           <speaker>Cornelia. </speaker>
           <l>"A noble minde disdaineth seruitude. </l>
         </sp>
@@ -820,7 +823,7 @@
           <speaker>Cicero. </speaker>
           <l>Can bondage true nobility exclude? </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105780">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105780">
           <speaker>Cornelia. </speaker>
           <l>How if I doe, or suffer that I would not? </l>
         </sp>
@@ -828,7 +831,7 @@
           <speaker>Cicero. </speaker>
           <l>"True noblesse neuer doth the thing it should not. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105820">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105820">
           <speaker>
             <pb xml:id="eng000623-016-b"/>Cornelia. </speaker>
           <l>Then must I dye. </l>
@@ -838,7 +841,7 @@
           <l>Yet dying thinke this stil; </l>
           <l>"No feare of death should force vs to doe ill. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105870">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105870">
           <speaker>Cornelia. </speaker>
           <l>If death be such, why is your feare so rife? </l>
         </sp>
@@ -846,7 +849,7 @@
           <speaker>Cicero. </speaker>
           <l>My works will shew I neuer feard my life. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e105910">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e105910">
           <speaker>Cornelia. </speaker>
           <l>And yet you will not that (in our distresse,) </l>
           <l>We aske Deaths ayde to end lifes wretchednes. </l>
@@ -864,7 +867,7 @@
           <l>"Then t'is (for feare) that we our selues doe kill, </l>
           <l>" So fond we are to feare the worlds disgrace. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e106050">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e106050">
           <speaker>Cornelia. </speaker>
           <l>T'is not for frailtie or faint cowardize, </l>
           <l>That men (to shunne mischaunces) seeke for death. </l>
@@ -977,7 +980,7 @@
       <div n="3" type="act" xml:id="eng000623-e107040">
         <pb xml:id="eng000623-019-a"/>
         <head>ACTVS TERTIVS. </head>
-        <sp who="#eng000623-multiple" xml:id="eng000623-e107050">
+        <sp who="#eng000623-cornelia" xml:id="eng000623-e107050">
           <speaker>Cornelia. and Chorus. </speaker>
           <l>THE cheerefull Cock (the sad nights comforter,) </l>
           <l>Wayting vpon the rysing of the Sunne, </l>
@@ -1010,7 +1013,7 @@
           <l>O poore Cornelia, haue not we good cause, </l>
           <l>For former wrongs to furnish vs with teares? </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107330">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107330">
           <speaker>Cornelia. </speaker>
           <l>O but I feare that Fortune seekes new flawes, </l>
           <l>And stil (vnsatisfide) more hatred beares. </l>
@@ -1026,7 +1029,7 @@
           <l>(Lyke exil'd vs) from fertill Italy, </l>
           <l>To proudest Spayne, or poorest Getulie. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107450">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107450">
           <speaker>Cornelia. </speaker>
           <l>And will the heauens that haue so oft defended </l>
           <l>Our Romaine walls, from fury of fierce kings, </l>
@@ -1052,7 +1055,7 @@
           <speaker>Chorus. </speaker>
           <l>What feare you Madam? </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107660">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107660">
           <speaker>Cornelia. </speaker>
           <l>That the frowning heauens, </l>
           <l>Oppose themselues against vs in theyr wrath. </l>
@@ -1061,7 +1064,7 @@
           <speaker>Chorus. </speaker>
           <l>Our losse (I hope) hath satis-fide theyr ire. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107710">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107710">
           <speaker>Cornelia. </speaker>
           <l>O no, our losse lyfts Caesars fortunes hyer. </l>
         </sp>
@@ -1069,7 +1072,7 @@
           <speaker>Chorus. </speaker>
           <l>Fortune is fickle. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107750">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107750">
           <speaker>Cornelia. </speaker>
           <l>But hath fayld him neuer. </l>
         </sp>
@@ -1077,7 +1080,7 @@
           <speaker>Chorus. </speaker>
           <l>The more vnlike she should continue euer. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107790">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107790">
           <speaker>
             <pb xml:id="eng000623-020-b"/>Cornelia. </speaker>
           <l>My fearefull dreames doe my despairs redouble. </l>
@@ -1086,7 +1089,7 @@
           <speaker>Chorus. </speaker>
           <l>Why suffer you vayne dreames your heade to trouble? </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107830">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107830">
           <speaker>Cornelia. </speaker>
           <l>Who is not troubled with strange visions? </l>
         </sp>
@@ -1094,7 +1097,7 @@
           <speaker>Chorus. </speaker>
           <l>That of our spyrit are but illusions. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107870">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107870">
           <speaker>Cornelia. </speaker>
           <l>God graunt these dreames, to good effect bee brought. </l>
         </sp>
@@ -1102,7 +1105,7 @@
           <speaker>Chorus. </speaker>
           <l>We dreame by night what we by day haue thought. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e107910">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e107910">
           <speaker>Cornelia. </speaker>
           <l>The silent Night that long had soiurned, </l>
           <l>Now gan to cast her sable mantle off, </l>
@@ -1285,7 +1288,7 @@
           <l>And thy dismembred body (stab'd and torne,) </l>
           <l>Dragd through the streets, disdained to bee borne. </l>
         </sp>
-        <sp who="#eng000623-philip #eng000623-cornelia" xml:id="eng000623-e109580">
+        <sp who="#eng000623-phillip #eng000623-cornelia" xml:id="eng000623-e109580">
           <speaker>Phillip. and Cornelia. </speaker>
           <l>Amongst the rest of mine extreame mishaps, </l>
           <l>I finde my fortune not the least in this, </l>
@@ -1312,11 +1315,11 @@
           <l>I bring to faire Cornelia to interr </l>
           <l>Within his Elders Tombe that honoured her. </l>
         </sp>
-        <sp who="#eng000623-cornelia" xml:id="eng000623-e109820">
+        <sp who="#eng000623-cicero" xml:id="eng000623-e109820">
           <speaker>Cornelia. </speaker>
           <l>Ayh-me, what see I? </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e109840">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e109840">
           <speaker>Phil. </speaker>
           <l>Pompeys tender bones, </l>
           <l>which (in extreames) an earthen Vrne containeth. </l>
@@ -1350,7 +1353,7 @@
           <l>A hatefull race, mongst whom there dooth abide </l>
           <l>All treason, luxurie, and homicide: </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110130">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110130">
           <speaker>Phillip. </speaker>
           <l>Cease these laments. </l>
         </sp>
@@ -1358,7 +1361,7 @@
           <speaker>Corn. </speaker>
           <l>I doe but what I ought to mourne his death: </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110170">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110170">
           <speaker>Phil. </speaker>
           <l>Alas that profits nought. </l>
         </sp>
@@ -1367,7 +1370,7 @@
             <pb xml:id="eng000623-025-a"/>Cor. </speaker>
           <l>Will heauen let treason be vnpunished? </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110210">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110210">
           <speaker>Phil. </speaker>
           <l>Heauens will performe what they haue promised. </l>
         </sp>
@@ -1375,7 +1378,7 @@
           <speaker>Cor. </speaker>
           <l>I feare the heauens will not heare our prayer. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110250">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110250">
           <speaker>Phil. </speaker>
           <l>The plaints of men opprest, doe pierce the ayre. </l>
         </sp>
@@ -1383,7 +1386,7 @@
           <speaker>Cor. </speaker>
           <l>Yet Caesar liueth still. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110290">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110290">
           <speaker>Phil. </speaker>
           <l>"Due punishment </l>
           <l>" Succeedes not alwaies after an offence. </l>
@@ -1411,7 +1414,7 @@
           <l>Pompey may not reuiue, (and Pompey dead) </l>
           <l>Let me but see the murdrer murdered. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110530">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110530">
           <speaker>
             <pb xml:id="eng000623-025-b"/>Phil. </speaker>
           <l>Caesar bewail'd his death. </l>
@@ -1420,7 +1423,7 @@
           <speaker>Corn. </speaker>
           <l>His death hee mournd, whom while hee lyu'd, to lyue lyke him hee scorne. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110570">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110570">
           <speaker>Phil. </speaker>
           <l>Hee punished his murdrers. </l>
         </sp>
@@ -1433,7 +1436,7 @@
           <l>Whose fell ambition (founded first in blood) </l>
           <l>By nought but Pompeys lyfe could be with-stood. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110660">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110660">
           <speaker>Phil. </speaker>
           <l>Photis and false Achillas he beheadded. </l>
         </sp>
@@ -1441,7 +1444,7 @@
           <speaker>Corn. </speaker>
           <l>That was, because that Pompey being theyr freend, they had determin'd once of Caesars end. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110700">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110700">
           <speaker>Phil. </speaker>
           <l>What got he by his death? </l>
         </sp>
@@ -1449,7 +1452,7 @@
           <speaker>Cor. </speaker>
           <l>Supremacie. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110740">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110740">
           <speaker>Phil. </speaker>
           <l>Yet Caesar speakes of Pompey honourablie. </l>
         </sp>
@@ -1457,7 +1460,7 @@
           <speaker>Corn. </speaker>
           <l>Words are but winde, nor meant he what he spoke. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110780">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110780">
           <speaker>Phil. </speaker>
           <l>He will not let his statues be broke. </l>
         </sp>
@@ -1468,7 +1471,7 @@
           <l>And by the traynes where-with he vs allures, </l>
           <l>His owne estate more firmely he assures. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110850">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110850">
           <speaker>Phil. </speaker>
           <l>He tooke no pleasure in his death you see. </l>
         </sp>
@@ -1476,7 +1479,7 @@
           <speaker>Corn. </speaker>
           <l>Because hymselfe of life did not bereaue him. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e110890">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e110890">
           <speaker>Phil. </speaker>
           <l>Nay, he was mou'd with former amitie. </l>
         </sp>
@@ -1496,7 +1499,7 @@
           <l>" All these, nor any thing we can deuise, </l>
           <l>"Can stoope the hart resolu'd to tyrannize. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e111040">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e111040">
           <speaker>Phil. </speaker>
           <l>I feare your griefes increase with thys discourse. </l>
         </sp>
@@ -1504,7 +1507,7 @@
           <speaker>Corn. </speaker>
           <l>My griefes are such, as hardly can be worse. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e111080">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e111080">
           <speaker>Phil. </speaker>
           <l>"Tyme calmeth all things. </l>
         </sp>
@@ -1519,7 +1522,7 @@
           <l>Yet herewithall my passion neither dyes, </l>
           <l>Nor dryes the heate the moysture of mine eyes. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e111190">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e111190">
           <speaker>Phil. </speaker>
           <l>Can nothing then recure these endlesse teares? </l>
         </sp>
@@ -1527,7 +1530,7 @@
           <speaker>Corn. </speaker>
           <l>Yes, newes of Caesars death that medcyn beares. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e111230">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e111230">
           <speaker>
             <pb xml:id="eng000623-026-b"/>Phil. </speaker>
           <l>Madam, beware, for should hee heare of thys, his wrath against you t'will exasperate. </l>
@@ -1536,7 +1539,7 @@
           <speaker>Corn. </speaker>
           <l>I neither stand in feare of him nor his. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e111270">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e111270">
           <speaker>Phil. </speaker>
           <l>T'is pollicie to feare a powrefull hate. </l>
         </sp>
@@ -1544,7 +1547,7 @@
           <speaker>Corn. </speaker>
           <l>What can he doe? </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e111310">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e111310">
           <speaker>Phil. </speaker>
           <l>Madam what cannot men that haue the powre to doe what pleaseth them? </l>
         </sp>
@@ -1552,7 +1555,7 @@
           <speaker>Corn. </speaker>
           <l>He can doe mee no mischiefe that I dread. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e111350">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e111350">
           <speaker>Phil. </speaker>
           <l>Yes, cause your death. </l>
         </sp>
@@ -1560,7 +1563,7 @@
           <speaker>Corn. </speaker>
           <l>Thrise happy were I dead. </l>
         </sp>
-        <sp who="#eng000623-philip" xml:id="eng000623-e111390">
+        <sp who="#eng000623-phillip" xml:id="eng000623-e111390">
           <speaker>Phil. </speaker>
           <l>With rigorous torments. </l>
         </sp>
@@ -1663,7 +1666,8 @@
       <div n="4" type="act" xml:id="eng000623-e112290">
         <pb xml:id="eng000623-028-b"/>
         <head>ACTVS QVARTVS. </head>
-        <sp who="#eng000623-multiple" xml:id="eng000623-e112300">
+        <sp who="#eng000623-cassius #eng000623-brutus #eng000623-decim"
+                xml:id="eng000623-e112300">
           <speaker>Cassius, Decim and Brutus. </speaker>
           <l>ACcursed Rome, that arm'st against thy selfe </l>
           <l>A Tyrants rage, and mak'st a wretch thy King. </l>
@@ -2074,7 +2078,7 @@
           <l>For brideling those that dyd maligne our glory, </l>
           <l>Lets to the Capitoll. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e115820">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e115820">
           <speaker>Anth. </speaker>
           <l>Come on braue Caesar, </l>
           <l>And crowne thy head, and mount thy Chariot. </l>
@@ -2092,7 +2096,7 @@
           <l>But through my selfe-wild enemies despight, </l>
           <l>And Romains wrong, was I constraind to fight. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e115960">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e115960">
           <speaker>Anth. </speaker>
           <l>They sought t'eclipse thy fame, but destinie </l>
           <l>Reuers'd th'effect of theyr ambition. </l>
@@ -2109,7 +2113,7 @@
           <l>For as I am inferior to none, </l>
           <l>So can I suffer no Superiors. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116080">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116080">
           <speaker>Anth. </speaker>
           <l>Well Caesar, now they are discomfited, </l>
           <l>And Crowes are feasted with theyr carcases. </l>
@@ -2124,7 +2128,7 @@
           <l>Vntill th'ill spyrit that doth them defend, </l>
           <l>Doe bring their treasons to a bloody end. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116190">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116190">
           <speaker>Anth. </speaker>
           <l>I feare not those that to theyr weapons flye, </l>
           <l>And keepe theyr state in Spaine, in Spaine to die. </l>
@@ -2133,7 +2137,7 @@
           <speaker>Caes. </speaker>
           <l>Whom fear'st thou then Mark Anthony? </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116240">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116240">
           <speaker>Anth. </speaker>
           <l>The hatefull crue, </l>
           <l>That wanting powre in fielde to conquer you, </l>
@@ -2144,7 +2148,7 @@
           <speaker>Caesar. </speaker>
           <l>Will those conspire my death that liue by mee? </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116310">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116310">
           <speaker>Anth. </speaker>
           <l>In conquered foes what credite can there be? </l>
         </sp>
@@ -2152,7 +2156,7 @@
           <speaker>Caesar. </speaker>
           <l>Besides theyr liues, I did theyr goods restore. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116350">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116350">
           <speaker>Anth. </speaker>
           <l>O but theyr Countries good concerns them more. </l>
         </sp>
@@ -2160,7 +2164,7 @@
           <speaker>Caesar. </speaker>
           <l>What, thinke they mee to be their Countries foe? </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116390">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116390">
           <speaker>Anth. </speaker>
           <l>No, but that thou vsurp'st the right they owe. </l>
         </sp>
@@ -2168,7 +2172,7 @@
           <speaker>Caesar. </speaker>
           <l>To Rome haue I submitted mighty things. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116430">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116430">
           <speaker>Anth. </speaker>
           <l>Yet Rome endures not the commaund of Kings. </l>
         </sp>
@@ -2177,7 +2181,7 @@
             <pb xml:id="eng000623-036-a"/>Caes. </speaker>
           <l>Who dares to contradict our empery? </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116470">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116470">
           <speaker>Anth. </speaker>
           <l>Those whom thy rule hath rob'd of liberty. </l>
         </sp>
@@ -2185,7 +2189,7 @@
           <speaker>Caes. </speaker>
           <l>I feare them not whose death is but deferd. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116510">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116510">
           <speaker>Anth. </speaker>
           <l>I feare my foe vntill he be interd. </l>
         </sp>
@@ -2193,7 +2197,7 @@
           <speaker>Caes. </speaker>
           <l>A man may make his foe his friend you know. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116550">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116550">
           <speaker>Anth. </speaker>
           <l>A man may easier make his friend his foe. </l>
         </sp>
@@ -2201,7 +2205,7 @@
           <speaker>Caes. </speaker>
           <l>Good deeds the cruelst hart to kindnes bring, </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116590">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116590">
           <speaker>Anth. </speaker>
           <l>But resolution is a deadly thing. </l>
         </sp>
@@ -2210,7 +2214,7 @@
           <l>If Cittizens my kindnes haue forgot, </l>
           <l>whom shall I then not feare? </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116640">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116640">
           <speaker>Anth. </speaker>
           <l>Those that are not. </l>
         </sp>
@@ -2218,7 +2222,7 @@
           <speaker>Caes. </speaker>
           <l>What, shall I slay them all that I suspect? </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116680">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116680">
           <speaker>Anth. </speaker>
           <l>Els cannot Caesars Empery endure. </l>
         </sp>
@@ -2235,7 +2239,7 @@
           <l>No Anthony, Death cannot iniure vs, </l>
           <l>'For he liues long that dyes victorious. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116810">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116810">
           <speaker>Anthony. </speaker>
           <l>Thy prayses show thy life is long enough, </l>
           <l>But for thy friends and Country all too-short. </l>
@@ -2247,7 +2251,7 @@
           <speaker>Caesar. </speaker>
           <l>Heauen sets our time, with heauen may nought dispence. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116880">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116880">
           <speaker>Anth. </speaker>
           <l>But we may shorten time with negligence. </l>
         </sp>
@@ -2255,7 +2259,7 @@
           <speaker>Caes. </speaker>
           <l>But Fortune and the heauens haue care of vs. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116920">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116920">
           <speaker>Anth. </speaker>
           <l>Fortune is fickle, Heauen imperious. </l>
         </sp>
@@ -2263,7 +2267,7 @@
           <speaker>Caes. </speaker>
           <l>What shall I then doe? </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e116960">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e116960">
           <speaker>Anth. </speaker>
           <l>As befits your state, </l>
           <l>Maintaine a watchfull guard about your gate. </l>
@@ -2273,7 +2277,7 @@
           <l>What more assurance may our state defend </l>
           <l>Then loue of those that doe on vs attend? </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e117020">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e117020">
           <speaker>Anth. </speaker>
           <l>There is no hatred more if it be mou'd, </l>
           <l>Then theirs whom we offend, and once belou'd. </l>
@@ -2282,7 +2286,7 @@
           <speaker>Caes. </speaker>
           <l>Better it is to die then be suspitious. </l>
         </sp>
-        <sp who="#eng000623-antony" xml:id="eng000623-e117070">
+        <sp who="#eng000623-anthony" xml:id="eng000623-e117070">
           <speaker>Anth. </speaker>
           <l>T'is wisdom yet not to be credulous. </l>
         </sp>
@@ -2299,7 +2303,7 @@
           <l>Then th'euill it selfe, though it be nere so sore. </l>
         </sp>
         <pb xml:id="eng000623-037-a"/>
-        <sp who="#eng000623-chorus" xml:id="eng000623-e117190">
+        <sp who="#eng000623-chorus-of-friends-of-ceasar" xml:id="eng000623-e117190">
           <speaker>A Chorus of Caesars friends. </speaker>
           <lg>
             <l>O Faire Sunne that gentlie smiles, </l>

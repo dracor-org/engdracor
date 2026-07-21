@@ -4,7 +4,7 @@
       "id": "satyr",
       "name": "Satyr",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "clorin",
@@ -34,13 +34,13 @@
       "id": "amoret",
       "name": "Amoret",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "MALE"
     },
     {
       "id": "amarillis",
       "name": "Amarillis",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "MALE"
     },
     {
       "id": "sullen",
@@ -64,7 +64,7 @@
       "id": "daphnis",
       "name": "Daphnis",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "FEMALE"
     },
     {
       "id": "alexis",
@@ -74,9 +74,9 @@
     },
     {
       "id": "god",
-      "name": "God of the River",
+      "name": "God",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     }
   ],
   "speeches": {
@@ -576,7 +576,7 @@
       "perigot"
     ],
     "A00962-e119850": [
-      "amoret"
+      "amarillis"
     ],
     "A00962-e119980": [
       "perigot"
@@ -1086,13 +1086,9 @@
       "clorin"
     ],
     "A00962-e133190": [
-      "perigot",
-      "amoret",
-      "amarillis",
-      "old-shepherd",
-      "alexis",
-      "cloe",
-      "clorin"
+      "clorin",
+      "satyr",
+      "amarillis"
     ],
     "A00962-e133220": [
       "priest"

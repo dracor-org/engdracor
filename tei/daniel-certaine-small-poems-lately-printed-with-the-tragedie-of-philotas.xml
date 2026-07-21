@@ -71,6 +71,49 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="eng000729-syren" sex="FEMALE">
+            <persName>Syren</persName>
+          </person>
+          <person xml:id="eng000729-vlisses" sex="MALE">
+            <persName>Vlisses</persName>
+          </person>
+          <person xml:id="eng000729-cleopatra" sex="FEMALE">
+            <persName>Cleopatra</persName>
+          </person>
+          <person xml:id="eng000729-octauius-caesar" sex="MALE">
+            <persName>Octauius Caesar</persName>
+          </person>
+          <person xml:id="eng000729-proculeius" sex="MALE">
+            <persName>Proculeius</persName>
+          </person>
+          <person xml:id="eng000729-dolobella" sex="MALE">
+            <persName>Dolobella</persName>
+          </person>
+          <person xml:id="eng000729-titius" sex="MALE">
+            <persName>Titius</persName>
+          </person>
+          <person xml:id="eng000729-arius" sex="MALE">
+            <persName>Arius</persName>
+          </person>
+          <person xml:id="eng000729-philostratus" sex="MALE">
+            <persName>Philostratus</persName>
+          </person>
+          <person xml:id="eng000729-seleucus" sex="MALE">
+            <persName>Seleucus</persName>
+          </person>
+          <person xml:id="eng000729-rodon" sex="MALE">
+            <persName>Rodon</persName>
+          </person>
+          <person xml:id="eng000729-nuntius" sex="MALE">
+            <persName>Nuntius</persName>
+          </person>
+          <personGrp xml:id="eng000729-chorus" sex="UNKNOWN">
+            <name>Chorus</name>
+          </personGrp>
+        </listPerson>
+      </particDesc>
       <textClass>
         <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
       </textClass>
@@ -739,7 +782,7 @@
               </div>
               <div n="1" type="act" xml:id="eng000729-e6330">
                 <head>ACTVS PRIMVS. </head>
-                <sp xml:id="eng000729-e6350">
+                <sp who="#eng000729-cleopatra" xml:id="eng000729-e6350">
                   <speaker>Cleopatra. </speaker>
                   <lg>
                     <l>YET do I liue, and yet doth breath extend </l>
@@ -962,7 +1005,7 @@
                   </lg>
                 </sp>
                 <stage xml:id="eng000729-e8550">Exit </stage>
-                <sp xml:id="eng000729-e8560">
+                <sp who="#eng000729-chorus" xml:id="eng000729-e8560">
                   <speaker>CHORVS. </speaker>
                   <lg>
                     <l>BEhold what furies still </l>
@@ -1076,7 +1119,7 @@
                     <l>Will shee be brought to condiscend to liue? </l>
                   </lg>
                 </sp>
-                <sp xml:id="eng000729-e9560">
+                <sp who="#eng000729-proculeius" xml:id="eng000729-e9560">
                   <speaker>Proc. </speaker>
                   <lg>
                     <l>My Lord, what time being sent from you to try </l>
@@ -1186,56 +1229,56 @@
                     <l>L●●● her for then, seeming in better rest. </l>
                   </lg>
                 </sp>
-                <sp xml:id="eng000729-e10700">
+                <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e10700">
                   <speaker>Caes. </speaker>
                   <l>But dost thou thinke she will remaine so still? </l>
                 </sp>
-                <sp xml:id="eng000729-e10730">
+                <sp who="#eng000729-proculeius" xml:id="eng000729-e10730">
                   <speaker>Pro. </speaker>
                   <l>I thinke, and do assure my selfe she will. </l>
                 </sp>
-                <sp xml:id="eng000729-e10760">
+                <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e10760">
                   <speaker>Caes. </speaker>
                   <l>Ah, priuate men sound not the harts of Princes, </l>
                   <l>Whose purposes beare contrarie pretences. </l>
                 </sp>
-                <sp xml:id="eng000729-e10800">
+                <sp who="#eng000729-proculeius" xml:id="eng000729-e10800">
                   <speaker>Pro. </speaker>
                   <l>Why tis her safetie to come yeeld to thee. </l>
                 </sp>
-                <sp xml:id="eng000729-e10830">
+                <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e10830">
                   <speaker>Caes. </speaker>
                   <l>But tis more honour for her to die free. </l>
                 </sp>
-                <sp xml:id="eng000729-e10860">
+                <sp who="#eng000729-proculeius" xml:id="eng000729-e10860">
                   <speaker>Pro. </speaker>
                   <l>She may thereby procure her childrens good. </l>
                 </sp>
-                <sp xml:id="eng000729-e10890">
+                <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e10890">
                   <speaker>Caes. </speaker>
                   <l>Princes are not ally'd vnto their blood. </l>
                 </sp>
-                <sp xml:id="eng000729-e10920">
+                <sp who="#eng000729-proculeius" xml:id="eng000729-e10920">
                   <speaker>Pro. </speaker>
                   <l>Can Princes powre dispence with nature than? </l>
                 </sp>
-                <sp xml:id="eng000729-e10950">
+                <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e10950">
                   <speaker>Caes. </speaker>
                   <l>To be a Prince, is more then be a man. </l>
                 </sp>
-                <sp xml:id="eng000729-e10980">
+                <sp who="#eng000729-proculeius" xml:id="eng000729-e10980">
                   <speaker>Pro. </speaker>
                   <l>There's none but haue in time perswaded beene, </l>
                 </sp>
-                <sp xml:id="eng000729-e11010">
+                <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e11010">
                   <speaker>Caes, </speaker>
                   <l>And so might she too, were she not a Queene. </l>
                 </sp>
-                <sp xml:id="eng000729-e11040">
+                <sp who="#eng000729-proculeius" xml:id="eng000729-e11040">
                   <speaker>Pro. </speaker>
                   <l>Diuers respects will force her be reclaim'd. </l>
                 </sp>
-                <sp xml:id="eng000729-e11070">
+                <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e11070">
                   <speaker>Caes. </speaker>
                   <l>Princes (like Lions) neuer will be fam'd </l>
                   <l>A priuate man may yeeld and care not how, </l>
@@ -1248,7 +1291,7 @@
                   <l>And looke that none with her come to confer: </l>
                   <l>Shortly my selfe will go to visite her. </l>
                 </sp>
-                <sp xml:id="eng000729-e11180">
+                <sp who="#eng000729-chorus" xml:id="eng000729-e11180">
                   <speaker>CHORVS. </speaker>
                   <lg>
                     <l>OPINION, how doost thou molest </l>
@@ -1380,7 +1423,7 @@
                       <l>So shamefully to seeke t'auoide my death. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e12430">
+                  <sp who="#eng000729-arius" xml:id="eng000729-e12430">
                     <speaker>Arius. </speaker>
                     <lg>
                       <l>Philostratus, that selfe s●me care to liue, </l>
@@ -1457,43 +1500,43 @@
                       <l>For her offence that pulld the warres vpon her, </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e13180">
+                  <sp who="#eng000729-philostratus" xml:id="eng000729-e13180">
                     <speaker>Phi. </speaker>
                     <l>Must all her yssue be confounded now? </l>
                   </sp>
-                  <sp xml:id="eng000729-e13210">
+                  <sp who="#eng000729-arius" xml:id="eng000729-e13210">
                     <speaker>Ari. </speaker>
                     <l>Yea all that from the roots of kings did grow, </l>
                   </sp>
-                  <sp xml:id="eng000729-e13240">
+                  <sp who="#eng000729-philostratus" xml:id="eng000729-e13240">
                     <speaker>Phi. </speaker>
                     <l>And sweet Caesario sprong of Caesars blood? </l>
                   </sp>
-                  <sp xml:id="eng000729-e13290">
+                  <sp who="#eng000729-arius" xml:id="eng000729-e13290">
                     <speaker>Ari. </speaker>
                     <l>Plurality of Caesars are not good. </l>
                   </sp>
-                  <sp xml:id="eng000729-e13320">
+                  <sp who="#eng000729-philostratus" xml:id="eng000729-e13320">
                     <speaker>Phi. </speaker>
                     <l>Alas, what hurt procures his feeble arme? </l>
                   </sp>
-                  <sp xml:id="eng000729-e13350">
+                  <sp who="#eng000729-arius" xml:id="eng000729-e13350">
                     <speaker>Ari. </speaker>
                     <l>Not for it doth, but that it may do harme. </l>
                   </sp>
-                  <sp xml:id="eng000729-e13380">
+                  <sp who="#eng000729-philostratus" xml:id="eng000729-e13380">
                     <speaker>Phi. </speaker>
                     <l>Then when it offers hurt, represse the same. </l>
                   </sp>
-                  <sp xml:id="eng000729-e13410">
+                  <sp who="#eng000729-arius" xml:id="eng000729-e13410">
                     <speaker>Ari. </speaker>
                     <l>Tis best to quench a sparke before it flame. </l>
                   </sp>
-                  <sp xml:id="eng000729-e13440">
+                  <sp who="#eng000729-philostratus" xml:id="eng000729-e13440">
                     <speaker>Phi. </speaker>
                     <l>Tis inhumane, an innocent to kill. </l>
                   </sp>
-                  <sp xml:id="eng000729-e13470">
+                  <sp who="#eng000729-arius" xml:id="eng000729-e13470">
                     <speaker>Ari. </speaker>
                     <lg>
                       <l>Such innocents seldome remaine so still. </l>
@@ -1516,7 +1559,7 @@
                   <pb xml:id="eng000729-025-a"/>
                   <head>SCENA SECVNDA. </head>
                   <stage xml:id="eng000729-e13640">Caesar, Cleopatra, Selucus, Dolabella. </stage>
-                  <sp xml:id="eng000729-e13650">
+                  <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e13650">
                     <speaker>Caesar. </speaker>
                     <lg>
                       <l>VVHat Cleopatra, doost thou doubt so much </l>
@@ -1525,7 +1568,7 @@
                       <l>That they surmount the measure of our grace? </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e13730">
+                  <sp who="#eng000729-cleopatra" xml:id="eng000729-e13730">
                     <speaker>Cle. </speaker>
                     <lg>
                       <l>O Caesar, not for that I flie thy sight </l>
@@ -1542,7 +1585,7 @@
                       <l>Stood late on that same ground thou standest now. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e13890">
+                  <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e13890">
                     <speaker>Caes. </speaker>
                     <lg>
                       <l>Rise Queene, none but thy selfe is cause of all, </l>
@@ -1556,7 +1599,7 @@
                       <l>And all, we must attribute vnto thee. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e14010">
+                  <sp who="#eng000729-cleopatra" xml:id="eng000729-e14010">
                     <pb xml:id="eng000729-025-b"/>
                     <speaker>Cle. </speaker>
                     <lg>
@@ -1573,7 +1616,7 @@
                       <l>My loue to his most firmely did combine. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e14160">
+                  <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e14160">
                     <speaker>Caes. </speaker>
                     <lg>
                       <l>Loue? ah no no, it was th'innated hatred </l>
@@ -1586,7 +1629,7 @@
                       <l>And (with the rest our foes,) to ioy thereat. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e14270">
+                  <sp who="#eng000729-cleopatra" xml:id="eng000729-e14270">
                     <speaker>Cleo: </speaker>
                     <lg>
                       <l>O Caesar, see how easie tis t'accuse </l>
@@ -1626,21 +1669,21 @@
                       <l>And looke what Cleopatra hath, is there. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e14720">
+                  <sp who="#eng000729-seleucus" xml:id="eng000729-e14720">
                     <speaker>Seleu. </speaker>
                     <l>Nay there's not all set down within that roule, </l>
                     <l>I know some things she hath reseru'd apart. </l>
                   </sp>
-                  <sp xml:id="eng000729-e14760">
+                  <sp who="#eng000729-cleopatra" xml:id="eng000729-e14760">
                     <speaker>Cle. </speaker>
                     <l>What vile vngrateful wretch, dar'st tho● cōtroule </l>
                     <l>Thy Queene and soueraigne, caitive as thou art. </l>
                   </sp>
-                  <sp xml:id="eng000729-e14800">
+                  <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e14800">
                     <speaker>Caes. </speaker>
                     <l>Holde, holde; a poore reuenge cā worke so feeble hands </l>
                   </sp>
-                  <sp xml:id="eng000729-e14830">
+                  <sp who="#eng000729-cleopatra" xml:id="eng000729-e14830">
                     <speaker>Cle. </speaker>
                     <lg>
                       <l>Ah Caesar, what a great indignitie </l>
@@ -1657,7 +1700,7 @@
                       <l>Might mediate thy fauour in my case. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e15000">
+                  <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e15000">
                     <speaker>Caes. </speaker>
                     <lg>
                       <l>Well Cleopatra, feare not, thou shalt finde </l>
@@ -1672,7 +1715,7 @@
                       <l>Poore Cleopatra rests thine owne for ●uer. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e15180">
+                  <sp who="#eng000729-dolobella" xml:id="eng000729-e15180">
                     <speaker>Dol. </speaker>
                     <lg>
                       <l>No maruell Caesar though our greatest spirits, </l>
@@ -1706,7 +1749,7 @@
                       <l>And that true beauty needs no ornament, </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e15490">
+                  <sp who="#eng000729-octauius-caesar" xml:id="eng000729-e15490">
                     <speaker>Caes. </speaker>
                     <lg>
                       <l>What in passion a Dolabella? what take heed: </l>
@@ -1736,7 +1779,7 @@
                       <l>Whilst I by Syria thither take my way. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e15770">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e15770">
                     <speaker>CHORVS. </speaker>
                     <lg>
                       <l>O Fearefull frowning Nemesis, </l>
@@ -1816,7 +1859,7 @@
               <div n="4" type="act" xml:id="eng000729-e16450">
                 <head>ACTVS QVARTVS. </head>
                 <stage xml:id="eng000729-e16470">Seleucus. Rodon. </stage>
-                <sp xml:id="eng000729-e16480">
+                <sp who="#eng000729-seleucus" xml:id="eng000729-e16480">
                   <speaker>Sel. </speaker>
                   <lg>
                     <l>FRiend Rodon neuer in a better bowre, </l>
@@ -1829,7 +1872,7 @@
                     <l>And meete vs with a sigh but at a cloze. </l>
                   </lg>
                 </sp>
-                <sp xml:id="eng000729-e16600">
+                <sp who="#eng000729-rodon" xml:id="eng000729-e16600">
                   <speaker>Rod. </speaker>
                   <lg>
                     <l>And neuer (friend Seleuchus) found'st thou one </l>
@@ -1845,7 +1888,7 @@
                     <l>Ile waile thy state, and thou shalt pittie mine. </l>
                   </lg>
                 </sp>
-                <sp xml:id="eng000729-e16740">
+                <sp who="#eng000729-seleucus" xml:id="eng000729-e16740">
                   <speaker>Cel. </speaker>
                   <lg>
                     <l>Wel then, thou know'st how I haue liu'd in grace </l>
@@ -1878,7 +1921,7 @@
                     <l>The marke of infamy, that is pointed at. </l>
                   </lg>
                 </sp>
-                <sp xml:id="eng000729-e17080">
+                <sp who="#eng000729-rodon" xml:id="eng000729-e17080">
                   <speaker>Rod. </speaker>
                   <lg>
                     <l>Tis much thou saist, and O too much to feele, </l>
@@ -2114,11 +2157,11 @@
                     <l>Thus he complain'd, and thus thou hea'rst my shame, </l>
                   </lg>
                 </sp>
-                <sp xml:id="eng000729-e19550">
+                <sp who="#eng000729-seleucus" xml:id="eng000729-e19550">
                   <speaker>S●l. </speaker>
                   <l>But how hath Caesar now rewarded thee? </l>
                 </sp>
-                <sp xml:id="eng000729-e19590">
+                <sp who="#eng000729-rodon" xml:id="eng000729-e19590">
                   <speaker>Rod. </speaker>
                   <lg>
                     <l>As he hath thee. And I expect the same, </l>
@@ -2140,7 +2183,7 @@
                   </lg>
                   <stage xml:id="eng000729-e19820">Exeunt. </stage>
                 </sp>
-                <sp xml:id="eng000729-e19830">
+                <sp who="#eng000729-cleopatra" xml:id="eng000729-e19830">
                   <pb xml:id="eng000729-033-a"/>
                   <speaker>Cleopatra. </speaker>
                   <lg>
@@ -2278,7 +2321,7 @@
                   </lg>
                   <stage xml:id="eng000729-e21190">Exit. </stage>
                 </sp>
-                <sp xml:id="eng000729-e21200">
+                <sp who="#eng000729-chorus" xml:id="eng000729-e21200">
                   <pb xml:id="eng000729-035-a"/>
                   <speaker>CHORVS. </speaker>
                   <lg>
@@ -2369,7 +2412,7 @@
                 <head>ACTVS QVINTVS. </head>
                 <div type="scene" xml:id="eng000729-e22030">
                   <stage xml:id="eng000729-e22040">Dolabella. Titius. </stage>
-                  <sp xml:id="eng000729-e22050">
+                  <sp who="#eng000729-dolobella" xml:id="eng000729-e22050">
                     <speaker>Dol. </speaker>
                     <lg>
                       <l>COme tell me Titius eu'ry circumstance </l>
@@ -2378,7 +2421,7 @@
                       <l>That she did in my Letters reading vse. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e22140">
+                  <sp who="#eng000729-titius" xml:id="eng000729-e22140">
                     <speaker>Tit. </speaker>
                     <lg>
                       <l>I shall my Lord, so farre as I could note, </l>
@@ -2437,7 +2480,7 @@
                       <l>And this was all she did, and all she said. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e22730">
+                  <sp who="#eng000729-dolobella" xml:id="eng000729-e22730">
                     <speaker>Dol. </speaker>
                     <lg>
                       <l>Ah sweete distressed Lady. What hard hart </l>
@@ -2467,7 +2510,7 @@
                       <l>To doe my best with Caesar in this case. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e23030">
+                  <sp who="#eng000729-titius" xml:id="eng000729-e23030">
                     <speaker>Tit. </speaker>
                     <lg>
                       <l>And sir, euen now herselfe hath letters sent. </l>
@@ -2484,7 +2527,7 @@
                       <l>But her two maides, and one Poore countriman. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e23210">
+                  <sp who="#eng000729-dolobella" xml:id="eng000729-e23210">
                     <speaker>Dol. </speaker>
                     <lg>
                       <l>Why then I know she sends t'haue audience now, </l>
@@ -2517,7 +2560,7 @@
                 </div>
                 <div n="2" type="scene" xml:id="eng000729-e23510">
                   <head>SCENA SECVNDA. </head>
-                  <sp xml:id="eng000729-e23530">
+                  <sp who="#eng000729-nuntius" xml:id="eng000729-e23530">
                     <speaker>Nuntius. </speaker>
                     <lg>
                       <l>AM I ordain'd the carefull Messenger, </l>
@@ -2530,7 +2573,7 @@
                       <l>That euer pitty, glory, wonder gat. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e23640">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e23640">
                     <speaker>Cho. </speaker>
                     <lg>
                       <l>What newes bringst thou, can Egipt yet yeeld more, </l>
@@ -2546,7 +2589,7 @@
                       <l>For sorrow euer longs to heare her worst. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e23770">
+                  <sp who="#eng000729-nuntius" xml:id="eng000729-e23770">
                     <speaker>Nu. </speaker>
                     <lg>
                       <l>Well then, the strangest thing relate I will, </l>
@@ -2563,43 +2606,43 @@
                       <l>And left her not, till now she left vs all. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e23910">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e23910">
                     <speaker>Cho. </speaker>
                     <l>What is she gone. Hath Caesar forst her so? </l>
                   </sp>
-                  <sp xml:id="eng000729-e23950">
+                  <sp who="#eng000729-nuntius" xml:id="eng000729-e23950">
                     <speaker>Nun. </speaker>
                     <l>Yea, she is gone, and hath deceiu'd him too. </l>
                   </sp>
-                  <sp xml:id="eng000729-e23980">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e23980">
                     <speaker>Cho. </speaker>
                     <l>What, fled to India; to go find her sonne? </l>
                   </sp>
-                  <sp xml:id="eng000729-e24020">
+                  <sp who="#eng000729-nuntius" xml:id="eng000729-e24020">
                     <speaker>Nun. </speaker>
                     <l>No, not to India, but to finde her sonne. </l>
                   </sp>
-                  <sp xml:id="eng000729-e24060">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e24060">
                     <speaker>Cho. </speaker>
                     <l>Why thē there's hope she may her state recouer </l>
                   </sp>
-                  <sp xml:id="eng000729-e24090">
+                  <sp who="#eng000729-nuntius" xml:id="eng000729-e24090">
                     <speaker>Nun. </speaker>
                     <l>Her state? nay rather honour, and her Louer. </l>
                   </sp>
-                  <sp xml:id="eng000729-e24120">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e24120">
                     <speaker>Cho. </speaker>
                     <l>Her Louer? him she cannot haue againe. </l>
                   </sp>
-                  <sp xml:id="eng000729-e24150">
+                  <sp who="#eng000729-nuntius" xml:id="eng000729-e24150">
                     <speaker>Nun. </speaker>
                     <l>Wel, him she hath, with him she doth remaine </l>
                   </sp>
-                  <sp xml:id="eng000729-e24180">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e24180">
                     <speaker>Cho. </speaker>
                     <l>Why thē she's dead Istso? why speakst not thou </l>
                   </sp>
-                  <sp xml:id="eng000729-e24210">
+                  <sp who="#eng000729-nuntius" xml:id="eng000729-e24210">
                     <speaker>Nun. </speaker>
                     <lg>
                       <l>You gesse aright, and I will tell you how. </l>
@@ -2879,11 +2922,11 @@
                       <l>To passe th'assurance of her loue with death. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e27050">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e27050">
                     <speaker>Cho. </speaker>
                     <l>But how knew Caesar of her close intents </l>
                   </sp>
-                  <sp xml:id="eng000729-e27090">
+                  <sp who="#eng000729-nuntius" xml:id="eng000729-e27090">
                     <speaker>Nun. </speaker>
                     <lg>
                       <l>By Letters which before to him she sent. </l>
@@ -2898,7 +2941,7 @@
                       <l>That she was sure none should her plot preuent. </l>
                     </lg>
                   </sp>
-                  <sp xml:id="eng000729-e27230">
+                  <sp who="#eng000729-chorus" xml:id="eng000729-e27230">
                     <speaker>CHORVS. </speaker>
                     <lg>
                       <l>THen thus we haue beheld </l>
@@ -4329,7 +4372,7 @@
           <div type="dialogue" xml:id="eng000729-e39910">
             <pb xml:id="eng000729-063-a"/>
             <head>Vlisses and the Syren. </head>
-            <sp xml:id="eng000729-e39930">
+            <sp who="#eng000729-syren" xml:id="eng000729-e39930">
               <speaker>Syren. </speaker>
               <lg>
                 <l>COme worthy Greeke, Vlisses come </l>
@@ -4342,7 +4385,7 @@
                 <l>And spend the night in sleepe. </l>
               </lg>
             </sp>
-            <sp xml:id="eng000729-e40050">
+            <sp who="#eng000729-vlisses" xml:id="eng000729-e40050">
               <speaker>Vlis. </speaker>
               <lg>
                 <l>Faire Nimph, if fame, or honor were </l>
@@ -4355,7 +4398,7 @@
                 <l>Becomes not men of worth. </l>
               </lg>
             </sp>
-            <sp xml:id="eng000729-e40160">
+            <sp who="#eng000729-syren #eng000729-vlisses" xml:id="eng000729-e40160">
               <speaker>Syr. Vlisses, </speaker>
               <lg>
                 <l>O be not deceiu'd </l>
@@ -4368,7 +4411,7 @@
                 <l>And giue vs vp to toile. </l>
               </lg>
             </sp>
-            <sp xml:id="eng000729-e40270">
+            <sp who="#eng000729-vlisses" xml:id="eng000729-e40270">
               <pb xml:id="eng000729-063-b"/>
               <speaker>Vlis. </speaker>
               <lg>
@@ -4382,7 +4425,7 @@
                 <l>As labour yeelds annoy. </l>
               </lg>
             </sp>
-            <sp xml:id="eng000729-e40380">
+            <sp who="#eng000729-syren" xml:id="eng000729-e40380">
               <speaker>Syr. </speaker>
               <lg>
                 <l>Then pleasure likewise seemes the shore, </l>
@@ -4395,7 +4438,7 @@
                 <l>As well as action may. </l>
               </lg>
             </sp>
-            <sp xml:id="eng000729-e40490">
+            <sp who="#eng000729-vlisses" xml:id="eng000729-e40490">
               <speaker>Vlis. </speaker>
               <lg>
                 <l>But natures of the noblest frame </l>
@@ -4408,7 +4451,7 @@
                 <l>To shew that it was ill. </l>
               </lg>
             </sp>
-            <sp xml:id="eng000729-e40600">
+            <sp who="#eng000729-syren" xml:id="eng000729-e40600">
               <pb xml:id="eng000729-064-a"/>
               <speaker>Sy. </speaker>
               <lg>
@@ -4424,7 +4467,7 @@
                 <l>Receiues more hurt then good. </l>
               </lg>
             </sp>
-            <sp xml:id="eng000729-e40720">
+            <sp who="#eng000729-vlisses" xml:id="eng000729-e40720">
               <speaker>Vlis. </speaker>
               <lg>
                 <l>But yet the state of things require </l>
@@ -4437,7 +4480,7 @@
                 <l>To be well chang'd for war. </l>
               </lg>
             </sp>
-            <sp xml:id="eng000729-e40830">
+            <sp who="#eng000729-syren" xml:id="eng000729-e40830">
               <speaker>Sy. </speaker>
               <lg>
                 <l>Well, well Vlisses then I see, </l>

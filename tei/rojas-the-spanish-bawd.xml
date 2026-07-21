@@ -104,56 +104,47 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000732-calisto">
+          <person xml:id="eng000732-calisto" sex="MALE">
             <persName>Calisto</persName>
           </person>
-          <person xml:id="eng000732-melibea">
+          <person xml:id="eng000732-melibea" sex="FEMALE">
             <persName>Melibea</persName>
           </person>
-          <person xml:id="eng000732-unassigned">
-            <persName>Unassigned</persName>
-          </person>
-          <person xml:id="eng000732-sempronio">
+          <person xml:id="eng000732-sempronio" sex="MALE">
             <persName>Sempronio</persName>
           </person>
-          <person xml:id="eng000732-celestina">
+          <person xml:id="eng000732-celestina" sex="FEMALE">
             <persName>Celestina</persName>
           </person>
-          <person xml:id="eng000732-elicia">
+          <person xml:id="eng000732-elicia" sex="FEMALE">
             <persName>Elicia</persName>
           </person>
-          <person xml:id="eng000732-crito">
+          <person xml:id="eng000732-crito" sex="MALE">
             <persName>Crito</persName>
           </person>
-          <person xml:id="eng000732-parmeno">
+          <person xml:id="eng000732-parmeno" sex="MALE">
             <persName>Parmeno</persName>
           </person>
-          <person xml:id="eng000732-calista">
-            <persName>Calista</persName>
-          </person>
-          <person xml:id="eng000732-lucretia">
+          <person xml:id="eng000732-lucretia" sex="FEMALE">
             <persName>Lucretia</persName>
           </person>
-          <person xml:id="eng000732-alisa">
+          <person xml:id="eng000732-alisa" sex="FEMALE">
             <persName>Alisa</persName>
           </person>
-          <person xml:id="eng000732-areusa">
+          <person xml:id="eng000732-areusa" sex="FEMALE">
             <persName>Areusa</persName>
           </person>
-          <person xml:id="eng000732-pleberio">
+          <person xml:id="eng000732-pleberio" sex="MALE">
             <persName>Pleberio</persName>
           </person>
-          <person xml:id="eng000732-tristan">
+          <person xml:id="eng000732-tristan" sex="MALE">
             <persName>Tristan</persName>
           </person>
-          <person xml:id="eng000732-sosia">
-            <persName>Sosia</persName>
+          <person xml:id="eng000732-sofia" sex="FEMALE">
+            <persName>Sofia</persName>
           </person>
-          <person xml:id="eng000732-centurio">
+          <person xml:id="eng000732-centurio" sex="MALE">
             <persName>Centurio</persName>
-          </person>
-          <person xml:id="eng000732-multiple">
-            <persName>Multiple</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -276,7 +267,7 @@
             <speaker>Cal. </speaker>
             <p>O fortunate eares! which are (though vnworthily) admitted to heare so gracious a word, such great and comfortable tydings. </p>
           </sp>
-          <sp who="#eng000732-unassigned" xml:id="eng000732-e100730">
+          <sp xml:id="eng000732-e100730">
             <speaker>Melibea. </speaker>
             <p>But vnfortunate, by that time thou hast heard thy doome. For thy payment shall be as foule, as thy presumption was foolish, and thy entertainment as small, at thy intrusion was great. <pb n="3" xml:id="eng000732-009-b"/>How durst such a one as thou hazard thy selfe on the vertue of such a one as I? Goe wretch, be gone out of my sight, for my patience cannot endure, that so much as a thought should enter into any mans heart, to communicate his mind vnto me in illicite loue. </p>
           </sp>
@@ -862,15 +853,15 @@
             <speaker>Celest. </speaker>
             <p>You see, wee women must beare all, and it were greater wee 〈…〉 you haue seene but few murders committed vpon a woman in 〈◊〉 </p>
           </sp>
-          <sp who="#eng000732-unassigned" xml:id="eng000732-e103710">
+          <sp who="#eng000732-sempronio" xml:id="eng000732-e103710">
             <speaker>〈◊〉. </speaker>
             <p>〈…〉 No but many great swellings, besides 〈…〉 what not? </p>
           </sp>
-          <sp who="#eng000732-unassigned" xml:id="eng000732-e103730">
+          <sp who="#eng000732-celestina" xml:id="eng000732-e103730">
             <speaker>〈◊〉. </speaker>
             <p>〈…〉 vpon you how you talke; you doe but 〈…〉 </p>
           </sp>
-          <sp who="#eng000732-unassigned" xml:id="eng000732-e103750">
+          <sp who="#eng000732-sempronio" xml:id="eng000732-e103750">
             <speaker>〈◊〉. </speaker>
             <p>〈…〉 mee see her. </p>
           </sp>
@@ -890,7 +881,7 @@
             <speaker>Sempr. </speaker>
             <p>Mother, you may relye vpon what I haue told you, and assure your selfe, that of all the women in the world, I would 〈…〉 or dissemble with you: Put on your Mantle then, and 〈…〉 and by the way, I will tell you all. For if I should stay heere citating vpon the businesse, and protract the time in deliuering my minde, it would turne much to both our hurts, and hinder thy profit 〈…〉 </p>
           </sp>
-          <sp who="#eng000732-unassigned" xml:id="eng000732-e103850">
+          <sp who="#eng000732-sempronio" xml:id="eng000732-e103850">
             <speaker>〈◊〉. </speaker>
             <p>〈…〉, fare well; make fast the doore; 〈…〉 </p>
           </sp>
@@ -1335,7 +1326,7 @@
             <p>CELESTINA, being departed from Calisto, and gone home to her owne house; Calisto continues talking with Sempronio, his seruant; who like one that is put in some good hope, thinking all speed too slow, sends away Sempronio to Celestina, to solicit her for the quicker dispatch of his conceiued businesse; Calisto and Parmeno in the meane while reasoning together. </p>
           </argument>
           <stage xml:id="eng000732-e106070">INTERLOCVTORS. Calisto, Sempronio, Parmeno. </stage>
-          <sp who="#eng000732-calista" xml:id="eng000732-e106080">
+          <sp xml:id="eng000732-e106080">
             <speaker>CAlisto. </speaker>
             <p>Tell me (my Masters) The hundred crownes which I gaue yonder old Bel-dame, are they well bestowed, or no? </p>
           </sp>
@@ -1868,7 +1859,7 @@
             <speaker>Melibea. </speaker>
             <p>You mine enemy, what say you? Speake out, I pray, that I may heare you. Hast thou any thing to say in thy excuse, whereby thou maist satisfie my anger, and cleare thy selfe of this thy errour and bold attempt? </p>
           </sp>
-          <sp who="#eng000732-unassigned" xml:id="eng000732-e108720">
+          <sp xml:id="eng000732-e108720">
             <speaker>Celestina. </speaker>
             <p>Whilest your choler liues, my cause must needes dye. And the longer your anger lasteth, the lesse shall my excuse be heard. But wonder not that you should be thus rigorous with mee: <pb n="56" xml:id="eng000732-036-a"/>For a little heate will serue to set young bloud a boyling. </p>
           </sp>
@@ -2151,7 +2142,7 @@
             <p>CELESTINA being entred Calisto's house, Calisto with great affection and earnestnesse, demandeth of her, what had hapned betwixt her and Melibea? While they continue talking together, Parmeno hearing Celestina speake wholy for her selfe, and her owne priuate profit, turning himselfe toward Sempronio, at euery word he giues her a nip, for the which he is reprehended by Sempronio. In the end, old Celestina discouers to Calisto all the whole businesse, and shewes him the Girdle she brought from Melibea. And so taking her leaue of Calisto, shee gets her home to her owne house, taking Parmeno along with her. </p>
           </argument>
           <stage xml:id="eng000732-e110110">INTERLOCVTORS. Calisto, Celestina, Parmeno, Sempronio. </stage>
-          <sp who="#eng000732-calista" xml:id="eng000732-e110120">
+          <sp xml:id="eng000732-e110120">
             <speaker>CAlisto. </speaker>
             <p>What good newes (mother?) speak (deare mother.) </p>
           </sp>
@@ -4017,7 +4008,7 @@
             <p>MIdnight being come, Calisto, Sempronio, and Parmeno, being well armed, goe towards the house of Melibea. Lucrecia and Melibea stand at the doore, watching for Calisto. Calisto comes; Lucrecia first speakes vnto him; she calls Melibea. Lucrecia goes aside; Melibea and Calisto talke together, the doore being betwixt them; Parmeno and Sempronio withdraw themselues a little waies off. They heare some people comming along the street; they prepare themselues for flight. Calisto takes his leaue of Melibea, leauing order for his returne the next night following; <pb n="132" xml:id="eng000732-073-a"/>Pleberio awakened with the noise which he heard in the street, calls to his wife Alisa; they aske of Melibea who that was, that walk't vp and downe in her chamber? Melibea answers her father, by faining she was athirst. Calisto with his seruants, goe talking home to his house. Being come home, he laies him downe to sleepe; Parmeno and Sempronio goe to Celestina's house, they demand their share of her paines; Celestina dissembles the matter, they fall a wrangling; they lay hands on Celestina, they murther her. Elicia cryes out; the Iustice comes, and apprehends them both. </p>
           </argument>
           <stage xml:id="eng000732-e119410">INTERLOCVTORS. Calisto, Lucrecia, Melibea, Parmeno, Sempronio, Pleberio, Alisa, Celestina, Elicia. </stage>
-          <sp who="#eng000732-calista" xml:id="eng000732-e119420">
+          <sp xml:id="eng000732-e119420">
             <speaker>CAlisto. </speaker>
             <l>Sirs, what's a clock? </l>
           </sp>
@@ -4510,7 +4501,7 @@
             <p>O cruell-hearted as you are! Enemies in the highest nature; shame and confusion light vpon you; the extremity of Iustice fall vpon you, with it's greatest vigour, and all those that haue had a hand in it. My mother is dead, and with her, all my happinesse. </p>
           </sp>
           <pb n="148" xml:id="eng000732-081-a"/>
-          <sp who="#eng000732-unassigned" xml:id="eng000732-e121860">
+          <sp xml:id="eng000732-e121860">
             <speaker>Sempronio. </speaker>
             <p>Flye, flye, Parmeno, the people beginne to flocke hitherward. See, see, yonder comes the Alguazil. </p>
           </sp>
@@ -4534,7 +4525,7 @@
             <p>CALISTO awakened from sleepe, talkes a while with himselfe; anon after hee calls vnto Tristan, and some other of his seruants. By and by Calisto falls asleepe againe; Tristan goes downe, and stands at the doore. Sosia comes weeping vnto him; Tristan, demanding the cause, Sosia deliuers vnto him the death of Sempronio and Parmeno; they goe and acquaint Calisto with it, who knowing the truth thereof, maketh great lamentation. </p>
           </argument>
           <stage xml:id="eng000732-e121970">INTERLOCVTORS. Calisto, Tristan, Sosia. </stage>
-          <sp who="#eng000732-calista" xml:id="eng000732-e121980">
+          <sp xml:id="eng000732-e121980">
             <speaker>CAlisto. </speaker>
             <p>O how daintily haue I slept! Euer since that sweete short space of time, since that harmonious discourse I inioyed; I haue had exceeding ease, taken very good rest; this contentment and quietude hath proceeded from my ioy. Either the trauaile of my body caused so sound a sleepe; or else the glory and pleasure of my minde: Nor doe I much wonder, that both the one and the other should linke hands, and ioyne together to cloze the lids of mine eyes, since I trauail'd the last night with my body and person, and tooke pleasure with my spirit and senses. True it is, that sorrow causeth much thought; and ouermuch thought, much <pb n="149" xml:id="eng000732-081-b"/>hindreth sleepe: as it was mine owne case within these few daies, when I was much discomfited and quite out of heart, of euer hoping to inioy that surpassing happinesse, which I now possesse. O my sweete Lady, and dearest Loue, Melibea, what dost thou thinke on now? Art thou asleepe, or awake? Thinkst thou on mee, or some body else? Art thou vp and ready, or art thou not yet stirring? O most happy, and most fortunate Calisto, if it be true, and that it be no dreame, which hath already passed! Dream't I, or dream't I not? was it a meere phantasie, or was it a reall truth? But now I remember my selfe, I was not alone, my seruants waited on me, there were two of them with me; if they shall affirme it to be no dreame, but that all that past was true; I am bound to beleeue it: I will command them to be called, for the further confirmation of my ioy. Tristanico, Why ●ho? Where are my men? Tristanico, Hye you and come vp: arise, I say, get you vp quickly and come hither. </p>
           </sp>
@@ -4582,7 +4573,7 @@
             <p>I will goe downe and stand at the doore, that my Master may take out his full sleepe; and to as many as shall aske for him; I shall answer that hee is not within. O what an out-cry doe I heare in the Market-place! whats the matter a Gods name? There is some execution of Iustice to be done, or else they are vp so earely to see some Bull-baiting. I do not know what to make of this noyse, it is some great matter, the noyse is so great; but lo, yonder comes Sosia, my Masters foot-boy; hee will tell mee what the businesse is. Looke how the Rogue comes pulling and tearing of his hayre; he hath tumbled into one Tauerne or other, where he hath beene scuffling. But if my Master chance to sent him, hee will cause his coat to be well cudgelled; for though hee be somewhat foolish, punishment will make him wise; but mee thinkes hee comes weeping. What's the matter, Sosia? Why dost thou weepe? Whence com'st thou now? Why speak'st thou not? </p>
           </sp>
           <pb n="150" xml:id="eng000732-082-a"/>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122250">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122250">
             <speaker>Sosia. </speaker>
             <p>O miserable that I am! what misfortune could be 〈◊〉 ore? O what great dishonour to my Masters house! O what an vnfortunate morning is this? O vnhappy young men! </p>
           </sp>
@@ -4590,7 +4581,7 @@
             <speaker>Tristan. </speaker>
             <p>What's the matter, man? Why dost thou keepe such adoe? Why grieu'st thou thus? What mischiefe hath befalne vs? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122290">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122290">
             <speaker>Sosia. </speaker>
             <p>Sempronio, and Parmeno! </p>
           </sp>
@@ -4598,7 +4589,7 @@
             <speaker>Tristan. </speaker>
             <p>What of Sempronio and Parmeno? What meanes this foole? Speake a little plainer, thou torment'st me with delayes. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122330">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122330">
             <speaker>Sosia. </speaker>
             <p>Our old companions, our fellowes, our brethren. </p>
           </sp>
@@ -4606,7 +4597,7 @@
             <speaker>Tristan. </speaker>
             <p>Thou art eyther drunke or mad; or thou bringest some ill newes along with thee. Why dost thou not tell mee what thou hast to say, concerning these young men? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122370">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122370">
             <speaker>Sosia. </speaker>
             <p>That they lie slayne in the streete. </p>
           </sp>
@@ -4614,7 +4605,7 @@
             <speaker>Tristan. </speaker>
             <p>O vnfortunate mischance! Is it true? Didst thou see them? Did they speake vnto thee? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122410">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122410">
             <speaker>Sosia. </speaker>
             <p>No. They were e'n almost past all sense; but one of them with much adoe, when hee saw I beheld him with teares, beganne to looke a little towards me, fixing his eyes vpon me, and lifting vp his hands to heauen, as one that is making his prayers vnto God; and looking on mee, as if hee had ask't mee, if I were not sorry for his death? And straight after, as one, that perceiu'd whither he was presently to goe, he let fall his head, with teares in his eyes, giuing thereby to vnderstand, that hee should neuer see mee againe, till we did meete at that day of the great Iudgement. </p>
           </sp>
@@ -4622,7 +4613,7 @@
             <speaker>Tristan. </speaker>
             <p>You did not obserue in him, that he would haue askt you whether Calisto were there or no? But since thou hast such manifest proofes of this cruell sorrow, let vs haste with these dolefull tidings to our Master. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122450">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122450">
             <speaker>Sosia. </speaker>
             <p>Master, Master, doe you heare, Sir? </p>
           </sp>
@@ -4630,7 +4621,7 @@
             <speaker>Calisto. </speaker>
             <p>What, are you mad? Did not I will you, I should not be wakened? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122490">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122490">
             <speaker>Sosia. </speaker>
             <p>Rowze vp your selfe, and rise: for if you doe not sticke vnto vs, we are all vndone. Sempronio and Parmeno lie beheaded in the Market-place, as publike malefactors; and their fault proclaimed by the common Cryer. </p>
           </sp>
@@ -4638,7 +4629,7 @@
             <speaker>Calisto. </speaker>
             <p>Now heauen helpe mee! What it's thou tell'st mee? I know not whether I may beleeue thee, in this thy so sudden and sorrowfull newes. Didst thou see them? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122530">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122530">
             <speaker>Sosia. </speaker>
             <p>I saw them, Sir. </p>
           </sp>
@@ -4646,7 +4637,7 @@
             <speaker>Calisto. </speaker>
             <p>Take heede what thou say'st; for this night they were with mee. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122570">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122570">
             <speaker>Sosia. </speaker>
             <p>But rose too earely to their deaths. </p>
           </sp>
@@ -4654,7 +4645,7 @@
             <speaker>Calisto. </speaker>
             <p>O my loyall seruants! O my chiefest followers! O my faithfull Secretaries and Counsellours in all my affaires. Can it be, that this should be true? O vnfortunate Calisto! thou art dishonoured as long as thou hast a day to liue; what shall become of thee, hauing lost such a paire of trusty seruants? Tell mee, for pitty's <pb n="151" xml:id="eng000732-082-b"/>sake) Sosia, what was the cause of their deaths? What spake the Prolamation? Where were they slaine? by what Iustice were they beheaded? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122610">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122610">
             <speaker>Sosia. </speaker>
             <p>The cause, Sir, of their deaths, was published by the cruell executioner, or common hangman, who deliuered with a loud voyce; Iustice hath commanded, that these violent murderers be put to death. </p>
           </sp>
@@ -4662,7 +4653,7 @@
             <speaker>Calisto. </speaker>
             <p>Who was it they so suddenly slew? who might it be? it is not foure houres agoe since they left me. How call you the party whom they murthered? What was hee for a man? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122650">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122650">
             <speaker>Sosia. </speaker>
             <p>It was a woman, Sir, one whom they call Celestina. </p>
           </sp>
@@ -4670,7 +4661,7 @@
             <speaker>Calisto. </speaker>
             <p>What's that thou sayest? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122690">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122690">
             <speaker>Sosia. </speaker>
             <p>That which you heard me tell you, Sir. </p>
           </sp>
@@ -4678,7 +4669,7 @@
             <speaker>Calisto. </speaker>
             <p>If this be true, kill thou me too, &amp; I will forgiue thee. For sure, there is more ill behinde; more then was either seene, or thought vpon, if that Celestina be slaine, that hath the slash ouer her face. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122730">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122730">
             <speaker>Sosia. </speaker>
             <p>It is the very same, Sir: for I saw her stretcht out in her owne house, and her maide weeping by her, hauing receiued in her body aboue thirty seuerall wounds. </p>
           </sp>
@@ -4686,7 +4677,7 @@
             <speaker>Calisto. </speaker>
             <p>O vnfortunate young men! How went they? Did they see thee? Spake they vnto thee? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122770">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122770">
             <speaker>Sosia. </speaker>
             <p>O Sir, had you seen them, your heart would haue burst with griefe: One of them had all his braines beaten out in most pittifull manner, and lay without any sense, or motion in the world: The other had both his armes broken, &amp; his face so sorely bruised, that it was all blacke, and blue, and all of a goare-bloud. For, that they might not fall into the Alguazils hands, they leapt downe out of a high window; and so being in a manner quite dead, they chopt off their heads, when, I thinke, they scarce felt, what harme was done them. </p>
           </sp>
@@ -4694,7 +4685,7 @@
             <speaker>Calisto. </speaker>
             <p>Now I beginne to haue a taste of shame; and to feele how much I am toucht in mine honour: would I had excused them and had lost my life, so I had not lost my honour, &amp; my hope of atchieuing my commenced purpose, which is, the greatest griefe and distaste that in this case I feele. O my name and reputation, how vnfortunately dost thou goe from Table to Table, from mouth to mouth! O yee my secret, my secret actions, how openly will you now walke thorow euery publike street, and open Market-place? What shall become of me? Whither shall I go? If I goe forth to the dead, I am vnable to recouer them, and if I stay heere, it will be deemed cowardize. What counsell shall I take? Tell me, Sosia, what was the cause they kild her? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122810">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122810">
             <speaker>Sosia. </speaker>
             <p>That maid (Sir) of hers, which sate weeping and crying ouer her, made knowne the cause of her death to as many as would heare it; saying, that they slew her, because she would not let them share with her in that chaine of gold, which you had lately giuen her. </p>
           </sp>
@@ -4724,7 +4715,7 @@
             <speaker>Melibea. </speaker>
             <p>Good spirits be his guard, and preserue his person from perill. For, his long stay doth not so much grieue mee: but I am afraid, lest some misfortune or other may befall him, as he is on his way vnto vs. For, who knowes, whether he comming so willingly to the place appointed, and in that kind of fashion, as such Gentlemen as hee, on the like occasion, and the like houre vse to goe; whether, or no, I say, he may chance to light vpon the night-watch, or be met by the Alguazils, and they not knowing him, haue set vpon him, and he to defend himselfe, hath either hurt them, or they him? Or whether some roguish Curre or other with his cruel teeth (for such dogs, as they make no difference of persons,) haue <pb n="154" xml:id="eng000732-084-a"/>perhaps vnfortunately bit him? Or whether, he hath fallen vpon the Causey, or into some dangerous pit, whereby he may receiue some harme? But (Ay me) these are but inconueniences which my conceiued loue brings forth, and my troubled thoughts present vnto me. Goodnes forbid, that any of these misfortunes should befall him! Rather let him stay as long as it shall please himselfe from comming to visit mee. But harke, harke, what steps are those that▪ I heare in the street? And to my thinking likewise, I heare somebody talking on this side of the garden. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e122950">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e122950">
             <speaker>Sosia. </speaker>
             <p>Tristan, set the ladder here; for, though it be the higher, yet I take it to be the better place. </p>
           </sp>
@@ -4772,7 +4763,7 @@
             <speaker>Melibea. </speaker>
             <p>So would not I, when I doe amisse. And had I but thought that you would haue vs'd mee thus, or beene but halfe so violent, as I now see you are; I would not haue trusted my person with such a rough and cruell conuersation. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e123190">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e123190">
             <speaker>Sosia. </speaker>
             <l>Tristan, you heare what hath past, and how the geare goes. </l>
           </sp>
@@ -4780,7 +4771,7 @@
             <speaker>Tristan. </speaker>
             <p>I heare so much, that I hold my Master the happiest man that liues. And I assure thee (though I am but a boy to speake of) me thinks, I could giue as good account of such a businesse as my Master. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e123230">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e123230">
             <speaker>Sosia. </speaker>
             <p>To such a iewell as this, who would not reach out his hand? But allow him this flesh to his bread, and much good may it doe him. For, he hath paid well for it: for a couple of his seruants serued to make sauce for this his Loue. </p>
           </sp>
@@ -4792,7 +4783,7 @@
             <speaker>Melibea. </speaker>
             <p>O my life and my deare Lord, how could you finde in your heart, that I should lose the name and crowne of a Virgin, for so momentary and so short a pleasure? O my poore Mother, <pb n="156" xml:id="eng000732-085-a"/>If thou didst but know what wee haue done, with what willingnes wouldst thou take thine owne death? and with what violence and inforcement giue mee mine? How cruell a butcher wouldst thou become of thine owne blood? And how dolefull an end should I bee of thy dayes? O my most honoured father, how haue I wrong'd thy reputation? And giuen both opportunitie and place to the vtter ouerthrowing and vndoing of thy house? O Traitour that I am! Why did I not first looke into that great error, which would insue by thy entrance, as also that great danger; which I could not but expect? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e123290">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e123290">
             <speaker>Sosia. </speaker>
             <p>You should haue sung this song before. Now, it comes too late: you know, it is an old saying; when a thing is done, it cannot be vndone. There is no fence for it, but what, if the foole Calisto should hap to heare me? </p>
           </sp>
@@ -4808,7 +4799,7 @@
             <speaker>Calisto. </speaker>
             <p>Doe you heare there? bring hither the ladder: </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e123370">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e123370">
             <speaker>Sosia. </speaker>
             <p>Sir, it is here ready for you to come downe. </p>
           </sp>
@@ -4820,7 +4811,7 @@
             <speaker>Lucrecia. </speaker>
             <l>No Madame, I was fast asleepe. </l>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e123430">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e123430">
             <speaker>Sosia. </speaker>
             <p>Tristan, wee must goe very softely, and not speake a word. For, iust about this time, rise your rich men, your couetous money-mongers, your penny-fathers, your Venereans and Loue-sicke soules, such as our Master; your day-labourers, your plough-men and your sheepheards; who about this time vnpinne their sheepe, and bring them to their sheepcotts to be milk't. And it may be, they may heare some word escape vs, which may wrong either Calisto's or Melibea's honour. </p>
           </sp>
@@ -4832,7 +4823,7 @@
             <speaker>Calisto. </speaker>
             <p>My Masters, what a noise make you there? My cares and yours are not alike. Enter softely, I pray, and leaue your pratling, that they in the house may not heare vs; Shut this doore, and let vs go take our rest. For, I will vp alone to my chamber, and there disarme mee. Goe get you to bed; O wretch that I am, how sutable and naturall vnto mee is solitarinesse, silence, and darkenes. I know not whether the cause of it be, that there commeth now to minde, the treason that I haue committed in taking my leaue of that Lady, whom I so dearelie loue, before it was further day? Or whether it be the griefe, which I conceiue of my dishonour, by the death of my seruants? I, I; this is it that greiues mee, this is that wound whereof I bleed. Now, that I am growen a little cooler; now, that that bloud waxeth cold, which yesterday did 〈◊〉 in mee; now that I see the decaying of my house, my want of seruice, the wasting of my patrimony, and the infamie which lights vpon mee by the death of my seruants? what haue I done? How can I possibly containe my selfe? How can I forbeare any longer, but that I should presently expresse my selfe, as a man much wronged? and shew my selfe a proud &amp; speedy reuenger of that open iniurie, which hath been offered mee? O the miserable sweetnes of this most short and transitorie life! who is he so couetous of thy countenance, who will not rather choose to die presently, then to inioy a whole yeere of a shamfull life? and to prorogue it with dishonour, loosing the good report and honourable memory of his noble Ancestours? Especially, sithence that in this world, wee haue not any certaine or limited time: no not so much as a moment or a minute. We are debtours without time: wee stand continually bound to present payment. Why haue I not gone abroad, and made all the inquiry I can, after the secret cause of my open perdition? O thou short delight of the world, how little do thy pleasure last? and how much doe they cost? Repentance should not be bought so deare. O miserable that I am, when shall I recouer so great a losse? what shall I doe? what counsell shall I take? To whom shall I discouer my disgrace? why do I conceale it from the rest of my seruants and kinsefolke? They clip and note my good name in their Councell-house and publike Assemblie, and make mee infamous throughout the whole Kingdome: and they of mine owne house and kindred must not know of it; I will out amongst them. But if I goe out and tell them that I was present, it is too late; if absent, it is too soone. And to prouide mee of friends, antient seruants, and neere àllyes, it will aske some time, as likewise that we be furnish'd with Armes, and other preparations <pb n="158" xml:id="eng000732-086-a"/>of vengeance. O thou cruell Iudge, what ill payment hast thou made mee of that my fathers bread, which so often thou hast eaten? I thought, that by thy fauour I might haue kill'd a thousand men without controlment. O thou falsifier of faith, thou persecutor of the truth, thou man moulded of the baser sort of earth! Truly is the prouerbe verified in thee; that for want of good men thou wast made a Iudge. Thou shouldst haue considered, that thy selfe, and those thou didst put to death, were seruants to my Ancestors and me, and thy fellowes and companions. But when the base to riches doth ascend, he regardeth neither kindred nor friend. Who would haue thought, that thou wouldst haue wrought my vndoing? But there is nothing more hurtfull, then an vnexpected enemy. Why wouldst thou that it should be verified of thee, That that which came out of Aetna, should consume Aetna? And that I hatcht the Crow, which pick't out mine eyes? Thou thy selfe art a publike delinquent, and yet punishest those that were priuate offendors. But I would haue thee to know; that a priuate fault is lesse then a publike, and lesse the inconuenience and danger: At least, according to the Lawes of Athens, which were not written in blood, but doe shew that it is a lesse error, not to condemne a delinquent, then to punish the innocent. O how hard a matter is it, to follow a iust cause before an vniust Iudge! How much more this excesse of my seruants, which was not free from offence! But consider with all spite of all Stoicall Paradoxe, their guilt was not equall, though their sufferings alike. What deseru'd the one, for that which the other did? That onely because he was his companion, thou shouldst doome them both to death? But why doe I talke thus? With whom doe I discourse? Am I in my right wits? What's the matter with thee, Calisto? Dream'st thou, sleep'st thou, or wak'st thou? Stand'st thou on thy feete? Or liest thou all along? Consider with thy selfe that thou art in thy chamber. Doest thou not see that the offendor is not present? With whome doest thou contend? Come againe to thy self; weigh with thy selfe, that the absent were neuer fōnd iust. But if thou wilt be vpright in thy iudgement, thou must keepe an eare for either party. Doest thou not see, that the Law is supposed to be equall vnto all? Remember that Romulus, the first founder of Rome, kill'd his owne brother, because he transgressed the Law. Consider that Torquatus the Romane slew his owne sonne, because he exceeded his Commission. And many other like vnto these did this man doe. Thinke likewise with thy selfe, that if the Iudge were here present, hee would make thee this Answer; that the Principall and the Accessary, the Actor and Consenter, doe merit equall punishment. Howbeit, they were both notwithstanding executed, for that which was committed but by one. And if that other had not his pardon, but receiued a speedy iudgement, it was, because the fault was notorious, and needed no further proofes: as also that they were taken in the very <pb n="159" xml:id="eng000732-086-b"/>Act of murther, and that one of them was found dead of his fall from the window. And it is likewise to be imagined, That that weeping wench which Celestina kept in her house, made them to hasten the more by her wofull and lamentable noyse: And that the Iudge, that he might not make a hurly burly of it, that he might not defame mee, and that he might not stay till the people should presse together, and heare the proclaiming of that great infamy, which could not choose but follow mee, hee did sentence them so early as he did; and the common Hangman, which was the Cryer, could doe no otherwise, that he might cumply with their execution and his owne discharge. All which, if it were done as I conceiue it to bee, I ought rather to rest his debtor, and thinke my selfe bound vnto him the longest day of my life, not as to my fathers sometimes seruant, but as to my true and naturall brother. But put case it were not so; or suppose I should not conster it in the better sence, yet call, Calisto, to mind the great ioy and solace thou hast had, bethinke thy selfe of thy sweete Lady and Mistrisse, and thy whole and sole happines: and since for her sake thou esteemest thy life as nothing for to doe her seruice, thou art not to make any reckoning of the death of others: and the rather, because no sorrow can equall thy receiued pleasure. O my Lady and my life, that I should euer thinke to offend thee in thy absence! And yet in doing as I doe, me thinks, it argues against mee, that I hold in small esteeme that great and singular fauour, which I haue receiued at thy hands. I will now no longer thinke on griefe; I will no longer entertaine friendship with sorrow. O incomparable good! O insatiable contentment! And what could I haue asked more of heauen, in requitall of all my merits in this life (if they be any) then that which I haue already receiued? Why should I not concent my selfe with so great a blessing? which being so, it stands not with reason that I should be vngratefull vnto him, who hath conferr'd vpon mee so great a good: I will therefore acknowledge it, I will not with care craze my vnderstanding, lest that being lost, I should fall from so high and so glorious a possession. I desire no other honour, no other glory, no other riches, no other father nor mother, no other friends nor kinsfolkes. In the day, I will abide in my chamber: In the night, in that sweete Paradise, in that pleasant groue, that greene plot of ground amidst those sweete trees and fresh and delightsome walks. O night of sweet rest and quiet! O that thou hadst made thy returne! O bright shining Phoebus, driue on thy Charriot apace, make haste to thy iourneys end. O comfortable and delightfull starres, breake your wont, and appeare before your time, &amp; out of your wonted and continued course! O dull and slow clocke, I wish to see thee burned in the quickest and loueliest fire that Loue can make. For didst thou but expect that which I doe, when thou strikest twelue, thou wouldst neuer indure to bee tyed to the will of the master that made thee! O yee hyematicall <pb n="160" xml:id="eng000732-087-a"/>and winterly months, which now hide your heads, and liue in darknes and obscurity! Why haste yee not to cut off these tedious daies with your longer nights? Me thinks, it is almost a yeere, since I saw that sweete comfort and most delightfull refreshing of my trauels. But what doe I aske? Why like a foole doe I, out of impatiencie desire that which neuer either was or shall bee? For your naturall courses did neuer learne to wheele away. For to all of them there is an equall course, to all of them one and the selfe-same space and time. Not so much as to life and death, but there is a settled and limited end. The secret motions of the high firmament of heauen, of the Planets and the North-starre, and of the increase and wane of the Moone, all of these are ruled with an equall reyne, all of these are moued with an equall spurre. Heauen, Earth, Sea, Fire, Wind, Heate and Cold. What will it benefit me, that this clocke of yron should strike twelue, if that of heauen doe not hammer with it? And therefore though I rise neuer so soone, it will neuer the sooner be day. But thou my sweete Imagination, thou, who canst onely helpe me in this case, bring thou vnto my Phantasie the vnparaleld presence of that glorious Image. Cause thou to come vnto my eares that sweete Musicke of her words, those her vnwilling hangings off without profit, that her prety, I prythee leaue off; Forbeare, good Sir, if you loue me; Touch me not; Doe not deale so discourteously with me. Out of whose ruddy lips, me thinks, I heare these words still sound, Doe not seek my vndoing: which she would euermore be out withall. Besides, those her amorous imbracements betwixt euery word; that her loosing of her selfe from me; and clypping mee againe; that her flying from mee and her comming to mee; those her sweete sugred Kisses; and that her last salutation wherewith shee tooke her leaue of mee. O with what paine did it issue from her mouth! with what resuscitation of her spirits! with how many teares, which did seeme to be so many round pearles, which did fall without any noyse from her cleare and resplendent eyes! </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e123490">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e123490">
             <speaker>Sosia. </speaker>
             <p>What thinkst thou of Calisto? How hath he slept? It is now vpon foure of the clocke in the after-noone, and he hath neyther as yet called vs, nor eaten any thing. </p>
           </sp>
@@ -4840,7 +4831,7 @@
             <speaker>Tristan. </speaker>
             <p>Hold your peace, for sleepe requires no haste. Besides, on the one side, he is oppressed with sadnes and melancholy for his seruants: and on the other side transported with that gladsome delight and singular great pleasure, which he hath inioyed with his Melibea. And thou know'st, that where two such strong and contrary passions meete, in whomsoeuer they shall house themselues, with what forcible violence they will worke vpon a weake and feeble subiect. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e123530">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e123530">
             <speaker>Sosia. </speaker>
             <p>Dost thou thinke that he takes any great griefe and care for those that are dead? If she did not grieue more, whom I see here out of the window goe along the street, she would not weare a vayle <pb n="161" xml:id="eng000732-087-b"/>that colour as she does. </p>
           </sp>
@@ -4848,7 +4839,7 @@
             <speaker>Tristan. </speaker>
             <l>Who is that, brother? </l>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e123570">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e123570">
             <speaker>Sosia. </speaker>
             <p>Come hither and see her, before she be past. Seest thou that mournefull mayd, which wipes the teares from her eyes? That is Elicia, Celestina's seruant, and Sempronio's friend: she is a good, pretty, handsome, wel-fauoured wench, though now (poore soule) shee be left to the wide world, and forsaken of all. For shee accounted Celestina her mother, and Sempronio her chiefest and best friend. And in that house, where you see her now enter, there dwels a very fayre woman, she is exceeding wel-fauoured, very fresh and louely, she is halfe Courtezane; yet happy is hee, and counts himselfe so to be, that can purchase her fauour at an easie rate, and winne her to be his friend. Her name is Areusa, for whose sake, I know, that vnfortunate and poore Parmeno indured many a miserable night. And I know, that shee (poore soule) is nothing pleased with his death. </p>
           </sp>
@@ -5042,7 +5033,7 @@
             <speaker>Areusa. </speaker>
             <p>No, not yet; stay, wee will talke more anon. How loud hee knocks! I will goe downe and see who it is. Sure; either he is a mad-man, or our familiar friend. Who ist that knocks there? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e124530">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e124530">
             <speaker>Sosia. </speaker>
             <p>Open the doore, Mistresse: its Sosia, seruant to Calisto. </p>
           </sp>
@@ -5050,7 +5041,7 @@
             <speaker>Areusa. </speaker>
             <p>Now in good time: The Wolfe is in the fable. Hide your selfe, sister, behinde these hangings, and you shall see how I <pb n="175" xml:id="eng000732-094-b"/>will worke him; and how I will puffe him vp with the wind of my faire and flattring words. And assure your selfe, that before we two part, I will make him wholy ours; he shall not goe hence the same Sosia that he came; but with my smooth and inticing termes, my soft and gentle handling of him, I will quite vnmaw him, and draw from him all that hee either knowes concerning his Master or any body else, as hee drawes dust from his horses with his curry-combe. What? My Sosia? My inward friend? Him whom I wish so well vnto, though perhaps he knowes not of it? Him, whom I haue longed to know, led only by the fame and good report, which I heare of him? What? He that is so faithfull to his Master? So good a friend to his acquaintance? I will imbrace thee (my Loue) I will hugge thee in mine armes; for now that I see thee, I see report comes short; and verily perswade my selfe, that there are more vertues in thee, then I haue been told of. Fame hath been too sparing of thy praise; come (sweet heart) let vs goe in, and sit downe in my chamber; for it does me good to looke vpon thee. O! how thou dost resemble my vnfortunate Parmeno! How liuely doth thy person represent him vnto mee? This is it that makes this day to shine so cleare, that thou art come to visit mee. Tell mee (gentle Sir) did you euer know mee before? </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e124570">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e124570">
             <speaker>Sosia. </speaker>
             <p>The fame (gentlewoman) of your gentle and sweete disposition of your good graces, discretion and wisdome, flies with so swift a wing, and in so high a pitch, through all this City, that you need not much to maruell, if you be of more knowne, then knowing. For there is not any man, that speakes any thing in praise of the fairest and beautifullest in this City, but that you are ranked in the first place, and remembred, as the prime and chiefest amongst them all. </p>
           </sp>
@@ -5062,7 +5053,7 @@
             <speaker>Areusa. </speaker>
             <p>Your talke would make mee blush, and runne away for shame, were there any body heere, to heare how you play vpon me. But (as it is the fashion of all you men) you neuer goe vnprouided of such kinde of phrases as these: these false and deceitfull praises are too common amongst you; you haue words moulded of purpose, to serue your turne withall, and to suite your selues as you see cause, to any woman whatsoeuer: yet for all this, am I not afraid of you, neyther will I start, or budge from you. But I must tell you (Sosia) by the way; this praising of me thus, is more then needs, for though <pb n="176" xml:id="eng000732-095-a"/>thou shouldst commend me, yet should I loue thee. And that thereby thou shouldst thinke to gaine my loue, is as needlesse; for thou hast gained it already. There are two things, which caused me (Sosia) for to send for thee, intreating thee to take the paines to come and see me; wherein if I finde you to double, or dissemble with mee, I haue done with you. What they are, I will leaue them to your selfe to relate, though I know it is for your owne good, which makes mee to doe as I doe. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e124630">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e124630">
             <speaker>Sosia. </speaker>
             <p>Heauen forbid that I should vse any cogging with you, or seeke by subtilty to deceiue you. I came hither vpon the assurance that I had of the great fauors which you intend, and now do me; holding my selfe not worthy to pull off your shooes. Do thou therefore direct my tongue; answer thou for mee to thine owne questions: for I shall ratifie and confirme whatsoeuer thou shalt propound. </p>
           </sp>
@@ -5071,7 +5062,7 @@
             <p>My Loue, thou know'st how dearely I lou'd Parmeno. And as it is in the Prouerbe, Hee that loues Beltram, loues any thing that is his; all his friends were alwaies welcome vnto mee; his good seruice to his Master did as much please mee, as it pleased himselfe. When hee saw any harme towards Calisto, hee did study to preuent it. Now as all this is true, so thought I it good to accquaint thee with it. First then did I send for thee, that I might giue thee to vnderstand how much I loue thee; &amp; how much I ioy and euer shall, in this thy visiting mee; nor shalt thou lose any thing by it, if I can helpe it, but rather turne to thy profit and benefit. Secondly, since that I haue setled my eyes, my loue and affection on thee, that I may aduise thee to take heede how thou commest in danger; and besides, to admonish thee, that thou doe not discouer thy secrets to any: For you see what ill befell Parmeno and Sempronio, by imparting things of secrecy vnto Celestina; for I would not willingly see thee dye in such an ill fashion, as your fellow and companion did; it is enough for mee that I haue bewayled one of you already, and therefore I would haue you to know, that there came one vnto mee, and told me that you had discouered vnto him the loue, that is betwixt Calisto and Melibea; and how hee wanne her; and how you your selfe night by night went along with him; and many other things which now I cannot call to minde. Take heede (friend) for not to keepe a secret, is proper onely vnto women, yet not vnto all, but such as are fooles and children. Take heede (I say) for heere-hence great hurt may come vnto you: and to this end did Nature giue you two eares, and two eyes, and but one tongue; to the end that what you see and heare, should be double to that you speake. Take heede, and doe not thinke your friend will keepe your secret, when you your selfe cannot keepe it; when therefore thou art to goe with thy Master, Calisto, to that Ladies house, make no noyse, lest you be heard; for some haue told me, that euery night you keepe a coyle, and cannot containe your selues, as men transported and ouer-ioyed. </p>
           </sp>
           <pb n="177" xml:id="eng000732-095-b"/>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e124670">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e124670">
             <speaker>Sosia. </speaker>
             <p>O what busie-bodies, and what idle-headed persons be they who abuse your eares with such friuolous tales! whosoeuer told you that hee heard any such matter out of my mouth, hee told you an vntruth; and some others, perhaps, because they see me goe anights when the Moone shines, to water my horses, whisling, and singing, and such like kinde of mirth, to driue away care, and to make me forget my toyling and my moyling, and all this before tenne a clocke at night, conceiue an euill suspition; and of this suspition, make certaineties, and affirme that to be true, which themselues doe falsly surmize. And Calisto is not so madde, or foolish, that at such an houre as that, he should goe about a businesse of so great a consequence, but that he will first be sure that all abroad is quiet, and that euery man reposes himselfe in the sweetenesse of his first sleepe: and lesse are you to suppose, that hee should goe euery night vnto her; for such a duty will not endure a daily visitation. And that you may (Mistresse) more manifestly see their falsehood; for (as the Prouerbe is) A lyer is sooner ta'ne, then he that is lame; wee haue not gone eight times a-month; and yet these lying babblers sticke not to auouch, we goe night after night. </p>
           </sp>
@@ -5079,7 +5070,7 @@
             <speaker>Areusa. </speaker>
             <p>If you loue mee then (my deare Loue) that I may accuse them to their faces, and take them in the nooze of their falsehood, acquaint mee with those dayes you determine to goe thither; and if then they shall erre in their report, I shall thereby be assured of your secrecy, and their roguery; for that being not true, which they tell mee, your person shall be secured from danger, and I freed from any sudden feare of your life, hoping long to enioy you. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e124710">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e124710">
             <speaker>Sosia. </speaker>
             <p>Mistresse, let vs not stand any longer vpon examination of witnesses. This very night, when the clocke shall strike twelue, they haue appointed to meet by the way of the garden; to morrow, you may aske them what they know; whereof, if any man shall giue you true notice, I will be content that hee shall scotch and notch me for a foole. </p>
           </sp>
@@ -5087,7 +5078,7 @@
             <speaker>Areusa. </speaker>
             <p>And on which side of the garden (my sweet-heart?) because I may contradict them the better, if I finde them varying. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e124750">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e124750">
             <speaker>Sosia. </speaker>
             <p>By the streete where the fat Hostesse dwels, iust on the backeside of her house. </p>
           </sp>
@@ -5103,7 +5094,7 @@
             <speaker>Elicia. </speaker>
             <p>O wise wench! O what a proper dismission, well befitting such an Asse, who hath so easily reuealed his secrets. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e124830">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e124830">
             <speaker>Sosia. </speaker>
             <p>Courteous sweet Mistresse, pardon mee, if my long stay <pb n="178" xml:id="eng000732-096-a"/>hath beene troublesome vnto you. And if it shall please you to accept of my seruice, you shall neuer light vpon any that shall more willingly therein aduenture his life. And so your owne best wishes attend you. </p>
           </sp>
@@ -5260,7 +5251,7 @@
             <p>CALISTO, going with Sosia and Tristan to Pleberic's garden to visit his Melibea, who staid looking for him, attended by Lucrecia; Sosia recounts vnto Tristan all that which had passed betwixt him and Areusa. Calisto remaining in the garden with Melibea: Thraso and his companions come, sent thither by the appointment of Centurio, for the fulfilling of that which hee had promised to Areusa, and Elicia. Vpon whom Sosia sallies forth. Now Calisto hearing from the garden where hee remained with Melibea, the clashing and clattering which they made, would needes goe foorth amongst them. Which issuing forth was the cause <pb n="184" xml:id="eng000732-099-a"/>that his daies were finished; for this is the recompence which such Louers receiue. Whence they may learne, that it is better for them not to loue at all, then so to loue. </p>
           </argument>
           <stage xml:id="eng000732-e125600">INTERLOCVTORS. Sosia, Tristan, Calisto, Melibea, Lucrecia. </stage>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e125610">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e125610">
             <speaker>SOsia. </speaker>
             <p>Softly, that wee may not be heard. As wee goe from hence to Pleberio's garden, I will tell thee all (brother Tristan) that passed this day, betwixt Areusa, and my selfe, taking my selfe now to be the happiest man in the world. Thou shalt vnderstand then, that vpon the good report which shee heard of mee, shee fell extremely in loue with mee, and sent me word by Elicia, that I would doe her the kindnesse, as to come and speake with her. But omitting many other speaches of good counsell, which then past betweene vs, shee made present shew vnto mee, that shee was now as much mine, as euer shee was Parmeno's. Shee requested mee, that I would continually come and visit her; and that she did not doubt, but that shee should long inioy my loue. And I sweare to thee (brother) by that dangerous way wherein wee walke, and as euer any good may heereafter befall mee, that twice or thrice it was as much as euer I could doe for my life, to forbeare from boording her; but that very shame did hinder mee, seeing her so faire, and so well clad, and my selfe in an old Mouse-eaten cloake: still as shee moued and aduanced her selfe, shee did breathe forth a most sweet and redolent odour of Muske; and I neuer stirr'd, or heau'd my body, but I sent forth a most ranke sent of that horse-dung, which had got within my shooes: Shee had a hand as white as snow, and euer and anon, as she pull'd off her gloue, thou wouldst haue thought, that she had scattered flowres of Orenges about the roome; so that as well in regard of this, as also because at that time shee was somewhat busie, I was content to deferre my boldnesse till another day: as likewise because all things at the first sight are not so tractable; for the more they are communicated, the better are they vnderstood in their participation. </p>
           </sp>
@@ -5268,7 +5259,7 @@
             <speaker>Tristan. </speaker>
             <p>Friend Sosia, another more ripe and mature braine, and better experimented in matters of the world then mine is, were very necessary to be your aduiser in this businesse; yet as farreforth as my tender age, and the meanes of my naturall parts and wit shall be able to reach vnto; I will tell you what I thinke. This woman, (as you told me your selfe) is a known and a noted whore; and therefore whatsoeuer hath past betweene you, flatter not your selfe, but rather beleeue, that her words doe not want deceit. Her offers, I <pb n="185" xml:id="eng000732-099-b"/>perswade mee were false, though I know not to what end she made them. If shee loue thee, because thou art a Gentleman; how many better then thy selfe hath she reiected? If because thou art rich; she knowes well enough that thou hast no other dust, then that which clings to the Curry-combe. If because thou art nobly descended, and of high Linage; she knowes thy name is Sosia, and so was thy fathers; and that he was borne and bred in a poore little Hamlet, getting his liuing by following the Plough-tayle, and breaking Clods of earth, for which thy selfe art more fit then to make a Louer. Be wise, Sosia, and consider with thy selfe, if she doe not goe a birding, to see if she could get out of thee, the secrecy of this walke, whereby to worke some heart-burning, and breed no good bloud betwixt Calisto and Pleberio, out of that enuy which she beares to Melibea's pleasure. Beware (I say:) for Enuy (I tell you) is an incurable infirmity, when it is once settled: shee is a guest that is alwaies more troublesome, then thankfull for her lodging, and is neuer merry, but at other folkes miseries; nor euer laughes, but at a shrewd turne. Now then, if this be so: O! how this wicked woman will deceiue thee with her smooth and subtill words, whereof, such as she are neuer to seeke, but haue them still ready in the deck, and more perfect then their Pater noster? With this venemous vice, shee will not sticke to damne her soule, so as shee may please her appetite; shee would faine turne all things topsituruy, and set men together by the eares, and onely for to content her damnable desire. O Ruffianly Strumpet! O mankind Queane! With what white bread hath shee giuen thee crooked pinnes, to choake thee? Shee cares not now shee sells and barters her body, so as shee may truck and exchange it for strife and contention. Heare mee, Sosia, and if thou doest as thou may'st presume vpon it, that it is as I tell thee, deale (if thou wilt be aduised by mee) as doubly with her; for he that deceiues the deceiuer, you know what I meane: and if the Foxe be crafty, more crafty is hee that catches him. I would haue thee make a counter-mine against these her wicked, and diuellish imaginations. Set vp scaling ladders to meete with her lewdnesse; and then cry quittance with her, when shee thinkes her selfe most safe and secure; and laugh at her afterwards, when thou art by thy selfe all alone in thy stable: the bay horse thinkes one thing, and hee that saddles him, another. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e125650">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e125650">
             <speaker>Sosia. </speaker>
             <p>O Tristan! thou discreete young man; more hast thou spoken then could be expected from one of thy yeeres. A shrewd suspition hast thou raised in mee, and I feare mee too true; but because wee are hard by the garden, and our Master is close at our heeles, let vs breake off this discourse, which is too large for the present, and deferre it to some fitter opportunity. </p>
           </sp>
@@ -5318,7 +5309,7 @@
             <speaker>Melibea. </speaker>
             <p>Friend Lucrecia, me thinkes, I see that which thou singest, represented most liuely vnto me; me thinks, I see him as perfectly with these mine eyes, as if hee stood iust before mee. Goe on; for thou dost exceeding well, and with an excellent Ayre: I will beare a part with thee, and helpe thee as well as I can. </p>
           </sp>
-          <sp who="#eng000732-multiple" xml:id="eng000732-e126010">
+          <sp who="#eng000732-melibea #eng000732-lucretia" xml:id="eng000732-e126010">
             <speaker>Melibea and Lucrecia. </speaker>
             <l>Sweet trees who shade this mold </l>
             <l>Of earth, your heads downe bend, </l>
@@ -5389,7 +5380,7 @@
             <speaker>Melibea. </speaker>
             <p>Sir, it is I that inioy this happinesse, this fulnesse of content. If any body gaine by it, it is I; and I must acknowledge my selfe most infinitly beholding vnto you, that you would vouchsafe to visit mee in so kinde and louing a manner, as no thankes are able to requite so great a fauour. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e126430">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e126430">
             <speaker>Sosia. </speaker>
             <p>Out, you Ruffianly Rascals; come yee to fright those that feare you not? Had I bin ware of your comming, or had you staid any longer, I would haue sent some of you packing, and haue giuen you somewhat that should haue stuck by your Out, you Rogues. </p>
           </sp>
@@ -5405,7 +5396,7 @@
             <speaker>Calisto. </speaker>
             <p>That (Mistresse) which a sword, a cloak, and a good heart cannot doe, can neuer be effected by Curace, Caske or Cowardice. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e126510">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e126510">
             <speaker>Sosia. </speaker>
             <p>Yea? are you come againe? I shall be with you to bring by and by; you come for wooll, doe you? But if you stay a little longer, I shall send you home without a fleece, I shall plume you, I shall, you Rascals. </p>
           </sp>
@@ -5429,7 +5420,7 @@
             <speaker>Tristan. </speaker>
             <p>Come hither quickly, Sosia; for our vnfortunate Master is falne from the ladder, and neither speakes nor wagges. </p>
           </sp>
-          <sp who="#eng000732-sosia" xml:id="eng000732-e126630">
+          <sp who="#eng000732-sofia" xml:id="eng000732-e126630">
             <speaker>Sosia. </speaker>
             <p>Master, Master, doe you heare, Sir? Let vs call a little at this other doore. Hee heares on neyther eare; hee is as dead as a doore-nayle; there is no more life in him, then in my great grand-father, who dy'd some hundred yeeres since. O foule mishappe! What will become of vs? </p>
           </sp>

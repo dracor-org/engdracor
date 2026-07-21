@@ -1,0 +1,2763 @@
+{
+  "particDesc": [
+    {
+      "name": "Puzzle",
+      "id": "puzzle",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Probe",
+      "id": "probe",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Constable",
+      "id": "constable",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Jaylor",
+      "id": "jaylor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Saywell ",
+      "id": "saywell",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Mary",
+      "id": "mary",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Parson",
+      "id": "parson",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Young Hob's Mother",
+      "id": "young-hob-s-mother",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Wife",
+      "id": "wife",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Roger ",
+      "id": "roger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Country People",
+      "id": "country-people",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Clown",
+      "id": "clown",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Robin",
+      "id": "robin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Jack",
+      "id": "jack",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Maid",
+      "id": "maid",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Betty",
+      "id": "betty",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lucia",
+      "id": "lucia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Flora",
+      "id": "flora",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Young Hob",
+      "id": "young-hob",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Old Hob",
+      "id": "old-hob",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Friendly",
+      "id": "friendly",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Woodvill",
+      "id": "woodvill",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-thomas-testie",
+      "name": "Sir Thomas Testie",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lady-testie",
+      "name": "Lady Testie",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A36266-e1630": [
+      "servant"
+    ],
+    "A36266-e1660": [
+      "friendly"
+    ],
+    "A36266-e1850": [
+      "servant"
+    ],
+    "A36266-e1900": [
+      "woodvill"
+    ],
+    "A36266-e1940": [
+      "friendly"
+    ],
+    "A36266-e1980": [
+      "woodvill"
+    ],
+    "A36266-e2010": [
+      "friendly"
+    ],
+    "A36266-e2040": [
+      "woodvill"
+    ],
+    "A36266-e2070": [
+      "friendly"
+    ],
+    "A36266-e2110": [
+      "woodvill"
+    ],
+    "A36266-e2140": [
+      "friendly"
+    ],
+    "A36266-e2170": [
+      "woodvill"
+    ],
+    "A36266-e2210": [
+      "friendly"
+    ],
+    "A36266-e2250": [
+      "woodvill"
+    ],
+    "A36266-e2290": [
+      "friendly"
+    ],
+    "A36266-e2320": [
+      "woodvill"
+    ],
+    "A36266-e2360": [
+      "friendly"
+    ],
+    "A36266-e2400": [
+      "woodvill"
+    ],
+    "A36266-e2430": [
+      "friendly"
+    ],
+    "A36266-e2460": [
+      "woodvill"
+    ],
+    "A36266-e2520": [
+      "servant"
+    ],
+    "A36266-e2550": [
+      "friendly"
+    ],
+    "A36266-e2610": [
+      "woodvill"
+    ],
+    "A36266-e2670": [
+      "friendly"
+    ],
+    "A36266-e2770": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e2810": [
+      "lucia"
+    ],
+    "A36266-e2840": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e2880": [
+      "lucia"
+    ],
+    "A36266-e2910": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e2950": [
+      "lucia"
+    ],
+    "A36266-e2980": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e3020": [
+      "lucia"
+    ],
+    "A36266-e3050": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e3100": [
+      "lucia"
+    ],
+    "A36266-e3130": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e3180": [
+      "lucia"
+    ],
+    "A36266-e3210": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e3250": [
+      "lucia"
+    ],
+    "A36266-e3290": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e3330": [
+      "lucia"
+    ],
+    "A36266-e3380": [
+      "flora"
+    ],
+    "A36266-e3410": [
+      "lucia"
+    ],
+    "A36266-e3440": [
+      "flora"
+    ],
+    "A36266-e3470": [
+      "lucia"
+    ],
+    "A36266-e3530": [
+      "flora"
+    ],
+    "A36266-e3570": [
+      "lucia"
+    ],
+    "A36266-e3600": [
+      "flora"
+    ],
+    "A36266-e3630": [
+      "lucia"
+    ],
+    "A36266-e3660": [
+      "flora"
+    ],
+    "A36266-e3690": [
+      "lucia"
+    ],
+    "A36266-e3720": [
+      "flora"
+    ],
+    "A36266-e3750": [
+      "lucia"
+    ],
+    "A36266-e3790": [
+      "flora"
+    ],
+    "A36266-e3820": [
+      "lucia"
+    ],
+    "A36266-e3850": [
+      "flora"
+    ],
+    "A36266-e3880": [
+      "lucia"
+    ],
+    "A36266-e3910": [
+      "flora"
+    ],
+    "A36266-e3940": [
+      "lucia"
+    ],
+    "A36266-e3980": [
+      "flora"
+    ],
+    "A36266-e4010": [
+      "lucia"
+    ],
+    "A36266-e4120": [
+      "betty"
+    ],
+    "A36266-e4150": [
+      "lady-testie"
+    ],
+    "A36266-e4190": [
+      "betty"
+    ],
+    "A36266-e4220": [
+      "lady-testie"
+    ],
+    "A36266-e4250": [
+      "betty"
+    ],
+    "A36266-e4290": [
+      "lady-testie"
+    ],
+    "A36266-e4320": [
+      "betty"
+    ],
+    "A36266-e4350": [
+      "lady-testie"
+    ],
+    "A36266-e4380": [
+      "betty"
+    ],
+    "A36266-e4410": [
+      "lady-testie"
+    ],
+    "A36266-e4440": [
+      "betty"
+    ],
+    "A36266-e4470": [
+      "lady-testie"
+    ],
+    "A36266-e4500": [
+      "betty"
+    ],
+    "A36266-e4530": [
+      "lady-testie"
+    ],
+    "A36266-e4560": [
+      "betty"
+    ],
+    "A36266-e4590": [
+      "lady-testie"
+    ],
+    "A36266-e4660": [
+      "woodvill"
+    ],
+    "A36266-e4690": [
+      "jack"
+    ],
+    "A36266-e4720": [
+      "woodvill"
+    ],
+    "A36266-e4780": [
+      "jack"
+    ],
+    "A36266-e4820": [
+      "woodvill"
+    ],
+    "A36266-e4860": [
+      "woodvill"
+    ],
+    "A36266-e4890": [
+      "lady-testie"
+    ],
+    "A36266-e4920": [
+      "woodvill"
+    ],
+    "A36266-e4950": [
+      "lady-testie"
+    ],
+    "A36266-e4980": [
+      "woodvill"
+    ],
+    "A36266-e5010": [
+      "betty"
+    ],
+    "A36266-e5040": [
+      "woodvill"
+    ],
+    "A36266-e5070": [
+      "betty"
+    ],
+    "A36266-e5100": [
+      "lady-testie"
+    ],
+    "A36266-e5130": [
+      "woodvill"
+    ],
+    "A36266-e5160": [
+      "lady-testie"
+    ],
+    "A36266-e5190": [
+      "betty"
+    ],
+    "A36266-e5220": [
+      "woodvill"
+    ],
+    "A36266-e5250": [
+      "lady-testie"
+    ],
+    "A36266-e5280": [
+      "woodvill"
+    ],
+    "A36266-e5310": [
+      "lady-testie"
+    ],
+    "A36266-e5340": [
+      "woodvill"
+    ],
+    "A36266-e5370": [
+      "lady-testie"
+    ],
+    "A36266-e5400": [
+      "woodvill"
+    ],
+    "A36266-e5440": [
+      "lady-testie"
+    ],
+    "A36266-e5470": [
+      "woodvill"
+    ],
+    "A36266-e5500": [
+      "lady-testie"
+    ],
+    "A36266-e5530": [
+      "woodvill"
+    ],
+    "A36266-e5560": [
+      "betty"
+    ],
+    "A36266-e5590": [
+      "woodvill"
+    ],
+    "A36266-e5740": [
+      "friendly"
+    ],
+    "A36266-e5770": [
+      "flora"
+    ],
+    "A36266-e5810": [
+      "friendly"
+    ],
+    "A36266-e5840": [
+      "flora"
+    ],
+    "A36266-e5870": [
+      "friendly"
+    ],
+    "A36266-e5910": [
+      "maid"
+    ],
+    "A36266-e5950": [
+      "flora"
+    ],
+    "A36266-e5980": [
+      "friendly"
+    ],
+    "A36266-e6010": [
+      "flora"
+    ],
+    "A36266-e6040": [
+      "friendly"
+    ],
+    "A36266-e6120": [
+      "jack"
+    ],
+    "A36266-e6150": [
+      "friendly"
+    ],
+    "A36266-e6240": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e6280": [
+      "betty"
+    ],
+    "A36266-e6340": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e6380": [
+      "betty"
+    ],
+    "A36266-e6410": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e6450": [
+      "betty"
+    ],
+    "A36266-e6480": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e6520": [
+      "betty"
+    ],
+    "A36266-e6550": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e6590": [
+      "betty"
+    ],
+    "A36266-e6630": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e6680": [
+      "betty"
+    ],
+    "A36266-e6760": [
+      "lady-testie"
+    ],
+    "A36266-e6800": [
+      "flora"
+    ],
+    "A36266-e6830": [
+      "lady-testie"
+    ],
+    "A36266-e6870": [
+      "lucia"
+    ],
+    "A36266-e6900": [
+      "lady-testie"
+    ],
+    "A36266-e6930": [
+      "lucia"
+    ],
+    "A36266-e6960": [
+      "flora"
+    ],
+    "A36266-e6990": [
+      "lady-testie"
+    ],
+    "A36266-e7030": [
+      "betty"
+    ],
+    "A36266-e7060": [
+      "lady-testie"
+    ],
+    "A36266-e7120": [
+      "flora"
+    ],
+    "A36266-e7160": [
+      "lucia"
+    ],
+    "A36266-e7220": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e7270": [
+      "flora"
+    ],
+    "A36266-e7320": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e7360": [
+      "lucia"
+    ],
+    "A36266-e7390": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e7440": [
+      "lady-testie"
+    ],
+    "A36266-e7470": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e7510": [
+      "betty"
+    ],
+    "A36266-e7540": [
+      "lady-testie"
+    ],
+    "A36266-e7570": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e7610": [
+      "lady-testie"
+    ],
+    "A36266-e7650": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e7690": [
+      "betty"
+    ],
+    "A36266-e7720": [
+      "lady-testie"
+    ],
+    "A36266-e7750": [
+      "betty"
+    ],
+    "A36266-e7780": [
+      "lady-testie"
+    ],
+    "A36266-e7820": [
+      "betty"
+    ],
+    "A36266-e7860": [
+      "lady-testie"
+    ],
+    "A36266-e7900": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e7950": [
+      "lady-testie"
+    ],
+    "A36266-e8000": [
+      "betty"
+    ],
+    "A36266-e8040": [
+      "flora"
+    ],
+    "A36266-e8090": [
+      "lucia"
+    ],
+    "A36266-e8120": [
+      "flora"
+    ],
+    "A36266-e8200": [
+      "woodvill"
+    ],
+    "A36266-e8230": [
+      "lady-testie"
+    ],
+    "A36266-e8260": [
+      "betty"
+    ],
+    "A36266-e8290": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e8330": [
+      "woodvill"
+    ],
+    "A36266-e8400": [
+      "lucia"
+    ],
+    "A36266-e8430": [
+      "flora"
+    ],
+    "A36266-e8470": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e8510": [
+      "woodvill"
+    ],
+    "A36266-e8550": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e8590": [
+      "woodvill"
+    ],
+    "A36266-e8630": [
+      "betty"
+    ],
+    "A36266-e8680": [
+      "woodvill"
+    ],
+    "A36266-e8740": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e8780": [
+      "woodvill"
+    ],
+    "A36266-e8820": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e8880": [
+      "lady-testie"
+    ],
+    "A36266-e8910": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e8970": [
+      "woodvill"
+    ],
+    "A36266-e9000": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e9040": [
+      "woodvill"
+    ],
+    "A36266-e9070": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e9110": [
+      "woodvill"
+    ],
+    "A36266-e9140": [
+      "lady-testie"
+    ],
+    "A36266-e9180": [
+      "betty"
+    ],
+    "A36266-e9210": [
+      "woodvill"
+    ],
+    "A36266-e9240": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e9280": [
+      "woodvill"
+    ],
+    "A36266-e9310": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e9350": [
+      "woodvill"
+    ],
+    "A36266-e9390": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e9430": [
+      "woodvill"
+    ],
+    "A36266-e9470": [
+      "lady-testie"
+    ],
+    "A36266-e9530": [
+      "betty"
+    ],
+    "A36266-e9560": [
+      "woodvill"
+    ],
+    "A36266-e9600": [
+      "flora"
+    ],
+    "A36266-e9630": [
+      "lucia"
+    ],
+    "A36266-e9670": [
+      "flora"
+    ],
+    "A36266-e9700": [
+      "woodvill"
+    ],
+    "A36266-e9730": [
+      "flora"
+    ],
+    "A36266-e9760": [
+      "woodvill"
+    ],
+    "A36266-e9790": [
+      "flora"
+    ],
+    "A36266-e9820": [
+      "woodvill"
+    ],
+    "A36266-e9850": [
+      "flora"
+    ],
+    "A36266-e9880": [
+      "lucia"
+    ],
+    "A36266-e9910": [
+      "flora"
+    ],
+    "A36266-e9940": [
+      "woodvill"
+    ],
+    "A36266-e9970": [
+      "flora"
+    ],
+    "A36266-e10000": [
+      "woodvill"
+    ],
+    "A36266-e10030": [
+      "flora"
+    ],
+    "A36266-e10060": [
+      "lucia"
+    ],
+    "A36266-e10090": [
+      "flora"
+    ],
+    "A36266-e10120": [
+      "woodvill"
+    ],
+    "A36266-e10160": [
+      "flora"
+    ],
+    "A36266-e10190": [
+      "woodvill"
+    ],
+    "A36266-e10220": [
+      "lucia"
+    ],
+    "A36266-e10250": [
+      "flora"
+    ],
+    "A36266-e10280": [
+      "woodvill"
+    ],
+    "A36266-e10340": [
+      "betty"
+    ],
+    "A36266-e10370": [
+      "lucia"
+    ],
+    "A36266-e10400": [
+      "betty"
+    ],
+    "A36266-e10440": [
+      "flora"
+    ],
+    "A36266-e10480": [
+      "betty"
+    ],
+    "A36266-e10510": [
+      "flora"
+    ],
+    "A36266-e10540": [
+      "woodvill"
+    ],
+    "A36266-e10570": [
+      "betty"
+    ],
+    "A36266-e10610": [
+      "woodvill"
+    ],
+    "A36266-e10660": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e10700": [
+      "flora"
+    ],
+    "A36266-e10730": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e10770": [
+      "flora"
+    ],
+    "A36266-e10810": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e10880": [
+      "woodvill"
+    ],
+    "A36266-e10910": [
+      "betty"
+    ],
+    "A36266-e10940": [
+      "woodvill"
+    ],
+    "A36266-e10980": [
+      "betty"
+    ],
+    "A36266-e11010": [
+      "woodvill"
+    ],
+    "A36266-e11050": [
+      "betty"
+    ],
+    "A36266-e11080": [
+      "woodvill"
+    ],
+    "A36266-e11240": [
+      "friendly"
+    ],
+    "A36266-e11290": [
+      "robin"
+    ],
+    "A36266-e11350": [
+      "friendly"
+    ],
+    "A36266-e11400": [
+      "young-hob"
+    ],
+    "A36266-e11430": [
+      "friendly"
+    ],
+    "A36266-e11470": [
+      "young-hob"
+    ],
+    "A36266-e11500": [
+      "friendly"
+    ],
+    "A36266-e11530": [
+      "young-hob"
+    ],
+    "A36266-e11570": [
+      "friendly"
+    ],
+    "A36266-e11600": [
+      "young-hob"
+    ],
+    "A36266-e11650": [
+      "friendly"
+    ],
+    "A36266-e11680": [
+      "young-hob"
+    ],
+    "A36266-e11710": [
+      "friendly"
+    ],
+    "A36266-e11740": [
+      "young-hob"
+    ],
+    "A36266-e11770": [
+      "friendly"
+    ],
+    "A36266-e11800": [
+      "young-hob"
+    ],
+    "A36266-e11830": [
+      "friendly"
+    ],
+    "A36266-e11860": [
+      "young-hob"
+    ],
+    "A36266-e11900": [
+      "friendly"
+    ],
+    "A36266-e11930": [
+      "young-hob"
+    ],
+    "A36266-e11960": [
+      "friendly"
+    ],
+    "A36266-e11990": [
+      "young-hob"
+    ],
+    "A36266-e12030": [
+      "friendly"
+    ],
+    "A36266-e12060": [
+      "young-hob"
+    ],
+    "A36266-e12160": [
+      "woodvill"
+    ],
+    "A36266-e12270": [
+      "lady-testie"
+    ],
+    "A36266-e12300": [
+      "woodvill"
+    ],
+    "A36266-e12330": [
+      "lady-testie"
+    ],
+    "A36266-e12360": [
+      "woodvill"
+    ],
+    "A36266-e12390": [
+      "lady-testie"
+    ],
+    "A36266-e12420": [
+      "woodvill"
+    ],
+    "A36266-e12450": [
+      "lady-testie"
+    ],
+    "A36266-e12480": [
+      "woodvill"
+    ],
+    "A36266-e12510": [
+      "lady-testie"
+    ],
+    "A36266-e12540": [
+      "woodvill"
+    ],
+    "A36266-e12580": [
+      "lady-testie"
+    ],
+    "A36266-e12620": [
+      "woodvill"
+    ],
+    "A36266-e12650": [
+      "lady-testie"
+    ],
+    "A36266-e12680": [
+      "woodvill"
+    ],
+    "A36266-e12730": [
+      "lady-testie"
+    ],
+    "A36266-e12760": [
+      "woodvill"
+    ],
+    "A36266-e12810": [
+      "lady-testie"
+    ],
+    "A36266-e12840": [
+      "woodvill"
+    ],
+    "A36266-e12880": [
+      "lady-testie"
+    ],
+    "A36266-e12910": [
+      "woodvill"
+    ],
+    "A36266-e12940": [
+      "lady-testie"
+    ],
+    "A36266-e12970": [
+      "woodvill"
+    ],
+    "A36266-e13010": [
+      "lady-testie"
+    ],
+    "A36266-e13040": [
+      "woodvill"
+    ],
+    "A36266-e13070": [
+      "lady-testie"
+    ],
+    "A36266-e13110": [
+      "woodvill"
+    ],
+    "A36266-e13150": [
+      "lady-testie"
+    ],
+    "A36266-e13190": [
+      "woodvill"
+    ],
+    "A36266-e13220": [
+      "lady-testie"
+    ],
+    "A36266-e13250": [
+      "woodvill"
+    ],
+    "A36266-e13300": [
+      "lady-testie"
+    ],
+    "A36266-e13400": [
+      "woodvill"
+    ],
+    "A36266-e13440": [
+      "lady-testie"
+    ],
+    "A36266-e13480": [
+      "woodvill"
+    ],
+    "A36266-e13560": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e13610": [
+      "servant"
+    ],
+    "A36266-e13650": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e13690": [
+      "servant"
+    ],
+    "A36266-e13730": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e13780": [
+      "servant"
+    ],
+    "A36266-e13810": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e13880": [
+      "young-hob"
+    ],
+    "A36266-e13990": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14030": [
+      "young-hob"
+    ],
+    "A36266-e14060": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14100": [
+      "young-hob"
+    ],
+    "A36266-e14150": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14190": [
+      "young-hob"
+    ],
+    "A36266-e14230": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14270": [
+      "young-hob"
+    ],
+    "A36266-e14330": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14370": [
+      "young-hob"
+    ],
+    "A36266-e14440": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14480": [
+      "young-hob"
+    ],
+    "A36266-e14530": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14590": [
+      "young-hob"
+    ],
+    "A36266-e14630": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14670": [
+      "young-hob"
+    ],
+    "A36266-e14700": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e14780": [
+      "woodvill"
+    ],
+    "A36266-e14810": [
+      "lady-testie"
+    ],
+    "A36266-e14850": [
+      "woodvill"
+    ],
+    "A36266-e14880": [
+      "lady-testie"
+    ],
+    "A36266-e14910": [
+      "woodvill"
+    ],
+    "A36266-e14940": [
+      "lady-testie"
+    ],
+    "A36266-e14970": [
+      "woodvill"
+    ],
+    "A36266-e15000": [
+      "lady-testie"
+    ],
+    "A36266-e15030": [
+      "woodvill"
+    ],
+    "A36266-e15060": [
+      "lady-testie"
+    ],
+    "A36266-e15090": [
+      "woodvill"
+    ],
+    "A36266-e15120": [
+      "lady-testie"
+    ],
+    "A36266-e15190": [
+      "flora"
+    ],
+    "A36266-e15220": [
+      "lucia"
+    ],
+    "A36266-e15250": [
+      "flora"
+    ],
+    "A36266-e15290": [
+      "lucia"
+    ],
+    "A36266-e15320": [
+      "flora"
+    ],
+    "A36266-e15350": [
+      "lucia"
+    ],
+    "A36266-e15380": [
+      "flora"
+    ],
+    "A36266-e15410": [
+      "lucia"
+    ],
+    "A36266-e15440": [
+      "flora"
+    ],
+    "A36266-e15470": [
+      "lucia"
+    ],
+    "A36266-e15500": [
+      "flora"
+    ],
+    "A36266-e15530": [
+      "lucia"
+    ],
+    "A36266-e15560": [
+      "flora"
+    ],
+    "A36266-e15610": [
+      "lucia"
+    ],
+    "A36266-e15640": [
+      "flora"
+    ],
+    "A36266-e15670": [
+      "lucia"
+    ],
+    "A36266-e15700": [
+      "flora"
+    ],
+    "A36266-e15730": [
+      "lucia"
+    ],
+    "A36266-e15760": [
+      "flora"
+    ],
+    "A36266-e15860": [
+      "young-hob"
+    ],
+    "A36266-e15890": [
+      "flora"
+    ],
+    "A36266-e15920": [
+      "young-hob"
+    ],
+    "A36266-e15950": [
+      "flora"
+    ],
+    "A36266-e15980": [
+      "young-hob"
+    ],
+    "A36266-e16010": [
+      "flora"
+    ],
+    "A36266-e16040": [
+      "young-hob"
+    ],
+    "A36266-e16070": [
+      "flora"
+    ],
+    "A36266-e16100": [
+      "young-hob"
+    ],
+    "A36266-e16140": [
+      "flora"
+    ],
+    "A36266-e16180": [
+      "clown"
+    ],
+    "A36266-e16220": [
+      "young-hob"
+    ],
+    "A36266-e16250": [
+      "clown"
+    ],
+    "A36266-e16280": [
+      "young-hob"
+    ],
+    "A36266-e16310": [
+      "clown"
+    ],
+    "A36266-e16340": [
+      "young-hob"
+    ],
+    "A36266-e16370": [
+      "clown"
+    ],
+    "A36266-e16410": [
+      "young-hob"
+    ],
+    "A36266-e16450": [
+      "clown"
+    ],
+    "A36266-e16480": [
+      "young-hob"
+    ],
+    "A36266-e16510": [
+      "clown"
+    ],
+    "A36266-e16540": [
+      "young-hob"
+    ],
+    "A36266-e16590": [
+      "clown"
+    ],
+    "A36266-e16620": [
+      "young-hob"
+    ],
+    "A36266-e16650": [
+      "clown"
+    ],
+    "A36266-e16680": [
+      "young-hob"
+    ],
+    "A36266-e16720": [
+      "clown"
+    ],
+    "A36266-e16750": [
+      "young-hob"
+    ],
+    "A36266-e16790": [
+      "clown"
+    ],
+    "A36266-e16820": [
+      "young-hob"
+    ],
+    "A36266-e16850": [
+      "clown"
+    ],
+    "A36266-e16880": [
+      "young-hob"
+    ],
+    "A36266-e16920": [
+      "clown"
+    ],
+    "A36266-e16950": [
+      "country-people"
+    ],
+    "A36266-e16980": [
+      "clown"
+    ],
+    "A36266-e17010": [
+      "young-hob"
+    ],
+    "A36266-e17040": [
+      "clown"
+    ],
+    "A36266-e17070": [
+      "young-hob"
+    ],
+    "A36266-e17100": [
+      "clown"
+    ],
+    "A36266-e17130": [
+      "young-hob"
+    ],
+    "A36266-e17160": [
+      "clown"
+    ],
+    "A36266-e17190": [
+      "young-hob"
+    ],
+    "A36266-e17220": [
+      "clown"
+    ],
+    "A36266-e17250": [
+      "young-hob"
+    ],
+    "A36266-e17320": [
+      "roger"
+    ],
+    "A36266-e17350": [
+      "servant"
+    ],
+    "A36266-e17380": [
+      "roger"
+    ],
+    "A36266-e17420": [
+      "servant"
+    ],
+    "A36266-e17520": [
+      "friendly"
+    ],
+    "A36266-e17560": [
+      "woodvill"
+    ],
+    "A36266-e17600": [
+      "friendly"
+    ],
+    "A36266-e17630": [
+      "woodvill"
+    ],
+    "A36266-e17660": [
+      "friendly"
+    ],
+    "A36266-e17690": [
+      "woodvill"
+    ],
+    "A36266-e17720": [
+      "friendly"
+    ],
+    "A36266-e17750": [
+      "woodvill"
+    ],
+    "A36266-e17780": [
+      "friendly"
+    ],
+    "A36266-e17820": [
+      "woodvill"
+    ],
+    "A36266-e17870": [
+      "lady-testie"
+    ],
+    "A36266-e17900": [
+      "betty"
+    ],
+    "A36266-e17930": [
+      "lady-testie"
+    ],
+    "A36266-e17960": [
+      "betty"
+    ],
+    "A36266-e17990": [
+      "lady-testie"
+    ],
+    "A36266-e18060": [
+      "betty"
+    ],
+    "A36266-e18090": [
+      "lady-testie"
+    ],
+    "A36266-e18120": [
+      "betty"
+    ],
+    "A36266-e18150": [
+      "lady-testie"
+    ],
+    "A36266-e18250": [
+      "wife"
+    ],
+    "A36266-e18280": [
+      "old-hob"
+    ],
+    "A36266-e18320": [
+      "young-hob"
+    ],
+    "A36266-e18350": [
+      "old-hob"
+    ],
+    "A36266-e18380": [
+      "young-hob"
+    ],
+    "A36266-e18410": [
+      "old-hob"
+    ],
+    "A36266-e18510": [
+      "friendly"
+    ],
+    "A36266-e18550": [
+      "woodvill"
+    ],
+    "A36266-e18580": [
+      "friendly"
+    ],
+    "A36266-e18620": [
+      "woodvill"
+    ],
+    "A36266-e18660": [
+      "friendly"
+    ],
+    "A36266-e18700": [
+      "woodvill"
+    ],
+    "A36266-e18730": [
+      "friendly"
+    ],
+    "A36266-e18760": [
+      "woodvill"
+    ],
+    "A36266-e18790": [
+      "friendly"
+    ],
+    "A36266-e18820": [
+      "woodvill"
+    ],
+    "A36266-e18850": [
+      "friendly"
+    ],
+    "A36266-e18880": [
+      "woodvill"
+    ],
+    "A36266-e18910": [
+      "friendly"
+    ],
+    "A36266-e18940": [
+      "woodvill"
+    ],
+    "A36266-e18970": [
+      "friendly"
+    ],
+    "A36266-e19000": [
+      "woodvill"
+    ],
+    "A36266-e19050": [
+      "friendly"
+    ],
+    "A36266-e19080": [
+      "woodvill"
+    ],
+    "A36266-e19130": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e19170": [
+      "lucia"
+    ],
+    "A36266-e19200": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e19240": [
+      "lucia"
+    ],
+    "A36266-e19270": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e19310": [
+      "flora"
+    ],
+    "A36266-e19340": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e19380": [
+      "flora"
+    ],
+    "A36266-e19410": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e19450": [
+      "flora"
+    ],
+    "A36266-e19480": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e19530": [
+      "lucia"
+    ],
+    "A36266-e19580": [
+      "flora"
+    ],
+    "A36266-e19620": [
+      "lucia"
+    ],
+    "A36266-e19650": [
+      "flora"
+    ],
+    "A36266-e19680": [
+      "lucia"
+    ],
+    "A36266-e19720": [
+      "flora"
+    ],
+    "A36266-e19780": [
+      "young-hob"
+    ],
+    "A36266-e19820": [
+      "friendly"
+    ],
+    "A36266-e19860": [
+      "young-hob"
+    ],
+    "A36266-e19900": [
+      "woodvill"
+    ],
+    "A36266-e19940": [
+      "young-hob"
+    ],
+    "A36266-e19980": [
+      "friendly"
+    ],
+    "A36266-e20010": [
+      "woodvill"
+    ],
+    "A36266-e20050": [
+      "young-hob"
+    ],
+    "A36266-e20080": [
+      "woodvill"
+    ],
+    "A36266-e20110": [
+      "young-hob"
+    ],
+    "A36266-e20140": [
+      "woodvill"
+    ],
+    "A36266-e20170": [
+      "young-hob"
+    ],
+    "A36266-e20200": [
+      "woodvill"
+    ],
+    "A36266-e20230": [
+      "young-hob"
+    ],
+    "A36266-e20270": [
+      "friendly"
+    ],
+    "A36266-e20320": [
+      "woodvill"
+    ],
+    "A36266-e20360": [
+      "friendly"
+    ],
+    "A36266-e20430": [
+      "young-hob"
+    ],
+    "A36266-e20460": [
+      "woodvill"
+    ],
+    "A36266-e20490": [
+      "young-hob"
+    ],
+    "A36266-e20540": [
+      "woodvill"
+    ],
+    "A36266-e20580": [
+      "friendly"
+    ],
+    "A36266-e20610": [
+      "young-hob"
+    ],
+    "A36266-e20640": [
+      "woodvill"
+    ],
+    "A36266-e20670": [
+      "young-hob"
+    ],
+    "A36266-e20720": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e20800": [
+      "clown"
+    ],
+    "A36266-e20840": [
+      "young-hob"
+    ],
+    "A36266-e20890": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e20930": [
+      "young-hob"
+    ],
+    "A36266-e20980": [
+      "friendly"
+    ],
+    "A36266-e21010": [
+      "young-hob"
+    ],
+    "A36266-e21050": [
+      "old-hob"
+    ],
+    "A36266-e21100": [
+      "young-hob"
+    ],
+    "A36266-e21300": [
+      "old-hob"
+    ],
+    "A36266-e21350": [
+      "young-hob"
+    ],
+    "A36266-e21410": [
+      "old-hob"
+    ],
+    "A36266-e21460": [
+      "young-hob"
+    ],
+    "A36266-e21490": [
+      "old-hob"
+    ],
+    "A36266-e21530": [
+      "young-hob"
+    ],
+    "A36266-e21560": [
+      "old-hob"
+    ],
+    "A36266-e21600": [
+      "young-hob"
+    ],
+    "A36266-e21640": [
+      "old-hob"
+    ],
+    "A36266-e21710": [
+      "young-hob"
+    ],
+    "A36266-e21740": [
+      "clown"
+    ],
+    "A36266-e21770": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e21820": [
+      "roger"
+    ],
+    "A36266-e21850": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e21910": [
+      "young-hob"
+    ],
+    "A36266-e21970": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e22020": [
+      "puzzle"
+    ],
+    "A36266-e22050": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e22100": [
+      "roger"
+    ],
+    "A36266-e22130": [
+      "friendly"
+    ],
+    "A36266-e22170": [
+      "woodvill"
+    ],
+    "A36266-e22220": [
+      "young-hob"
+    ],
+    "A36266-e22250": [
+      "friendly"
+    ],
+    "A36266-e22290": [
+      "woodvill"
+    ],
+    "A36266-e22330": [
+      "young-hob"
+    ],
+    "A36266-e22360": [
+      "roger"
+    ],
+    "A36266-e22400": [
+      "young-hob"
+    ],
+    "A36266-e22440": [
+      "roger"
+    ],
+    "A36266-e22470": [
+      "clown"
+    ],
+    "A36266-e22510": [
+      "clown"
+    ],
+    "A36266-e22550": [
+      "clown"
+    ],
+    "A36266-e22620": [
+      "clown"
+    ],
+    "A36266-e22670": [
+      "young-hob"
+    ],
+    "A36266-e22700": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e22740": [
+      "young-hob"
+    ],
+    "A36266-e22770": [
+      "clown"
+    ],
+    "A36266-e22810": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e22860": [
+      "friendly"
+    ],
+    "A36266-e22900": [
+      "young-hob"
+    ],
+    "A36266-e22970": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e23020": [
+      "young-hob"
+    ],
+    "A36266-e23050": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e23150": [
+      "woodvill"
+    ],
+    "A36266-e23190": [
+      "friendly"
+    ],
+    "A36266-e23220": [
+      "woodvill"
+    ],
+    "A36266-e23250": [
+      "flora"
+    ],
+    "A36266-e23280": [
+      "woodvill"
+    ],
+    "A36266-e23310": [
+      "friendly"
+    ],
+    "A36266-e23340": [
+      "flora"
+    ],
+    "A36266-e23380": [
+      "friendly"
+    ],
+    "A36266-e23410": [
+      "woodvill"
+    ],
+    "A36266-e23450": [
+      "flora"
+    ],
+    "A36266-e23480": [
+      "friendly"
+    ],
+    "A36266-e23510": [
+      "flora"
+    ],
+    "A36266-e23550": [
+      "lucia"
+    ],
+    "A36266-e23580": [
+      "flora"
+    ],
+    "A36266-e23610": [
+      "lucia"
+    ],
+    "A36266-e23640": [
+      "flora"
+    ],
+    "A36266-e23670": [
+      "friendly"
+    ],
+    "A36266-e23700": [
+      "flora"
+    ],
+    "A36266-e23750": [
+      "woodvill"
+    ],
+    "A36266-e23800": [
+      "friendly"
+    ],
+    "A36266-e23830": [
+      "flora"
+    ],
+    "A36266-e23860": [
+      "friendly"
+    ],
+    "A36266-e23890": [
+      "woodvill"
+    ],
+    "A36266-e23920": [
+      "lucia"
+    ],
+    "A36266-e23950": [
+      "woodvill"
+    ],
+    "A36266-e24010": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e24070": [
+      "maid"
+    ],
+    "A36266-e24120": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e24150": [
+      "maid"
+    ],
+    "A36266-e24180": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e24210": [
+      "roger"
+    ],
+    "A36266-e24240": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e24270": [
+      "servant"
+    ],
+    "A36266-e24300": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e24360": [
+      "lady-testie"
+    ],
+    "A36266-e24390": [
+      "betty"
+    ],
+    "A36266-e24420": [
+      "lady-testie"
+    ],
+    "A36266-e24450": [
+      "betty"
+    ],
+    "A36266-e24480": [
+      "lady-testie"
+    ],
+    "A36266-e24530": [
+      "woodvill"
+    ],
+    "A36266-e24560": [
+      "lady-testie"
+    ],
+    "A36266-e24590": [
+      "woodvill"
+    ],
+    "A36266-e24620": [
+      "lady-testie"
+    ],
+    "A36266-e24670": [
+      "woodvill"
+    ],
+    "A36266-e24710": [
+      "lady-testie"
+    ],
+    "A36266-e24740": [
+      "woodvill"
+    ],
+    "A36266-e24770": [
+      "lady-testie"
+    ],
+    "A36266-e24800": [
+      "woodvill"
+    ],
+    "A36266-e24830": [
+      "lady-testie"
+    ],
+    "A36266-e24860": [
+      "woodvill"
+    ],
+    "A36266-e24900": [
+      "lady-testie"
+    ],
+    "A36266-e24940": [
+      "woodvill"
+    ],
+    "A36266-e24970": [
+      "lady-testie"
+    ],
+    "A36266-e25000": [
+      "woodvill"
+    ],
+    "A36266-e25030": [
+      "lady-testie"
+    ],
+    "A36266-e25070": [
+      "woodvill"
+    ],
+    "A36266-e25100": [
+      "lady-testie"
+    ],
+    "A36266-e25160": [
+      "betty"
+    ],
+    "A36266-e25190": [
+      "woodvill"
+    ],
+    "A36266-e25220": [
+      "lady-testie"
+    ],
+    "A36266-e25250": [
+      "woodvill"
+    ],
+    "A36266-e25280": [
+      "lady-testie"
+    ],
+    "A36266-e25310": [
+      "woodvill"
+    ],
+    "A36266-e25340": [
+      "lady-testie"
+    ],
+    "A36266-e25370": [
+      "woodvill"
+    ],
+    "A36266-e25440": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e25480": [
+      "constable"
+    ],
+    "A36266-e25510": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e25550": [
+      "constable"
+    ],
+    "A36266-e25580": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e25620": [
+      "constable"
+    ],
+    "A36266-e25660": [
+      "clown"
+    ],
+    "A36266-e25690": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e25730": [
+      "clown"
+    ],
+    "A36266-e25840": [
+      "friendly"
+    ],
+    "A36266-e25880": [
+      "probe"
+    ],
+    "A36266-e25910": [
+      "friendly"
+    ],
+    "A36266-e25950": [
+      "probe"
+    ],
+    "A36266-e25980": [
+      "friendly"
+    ],
+    "A36266-e26070": [
+      "woodvill"
+    ],
+    "A36266-e26110": [
+      "lady-testie"
+    ],
+    "A36266-e26140": [
+      "woodvill"
+    ],
+    "A36266-e26170": [
+      "lady-testie"
+    ],
+    "A36266-e26200": [
+      "woodvill"
+    ],
+    "A36266-e26260": [
+      "lady-testie"
+    ],
+    "A36266-e26290": [
+      "betty"
+    ],
+    "A36266-e26320": [
+      "lady-testie"
+    ],
+    "A36266-e26400": [
+      "friendly"
+    ],
+    "A36266-e26440": [
+      "robin"
+    ],
+    "A36266-e26470": [
+      "woodvill"
+    ],
+    "A36266-e26500": [
+      "friendly"
+    ],
+    "A36266-e26540": [
+      "woodvill"
+    ],
+    "A36266-e26580": [
+      "friendly"
+    ],
+    "A36266-e26610": [
+      "woodvill"
+    ],
+    "A36266-e26640": [
+      "friendly"
+    ],
+    "A36266-e26670": [
+      "woodvill"
+    ],
+    "A36266-e26710": [
+      "friendly"
+    ],
+    "A36266-e26790": [
+      "lady-testie"
+    ],
+    "A36266-e26820": [
+      "woodvill"
+    ],
+    "A36266-e26850": [
+      "lady-testie"
+    ],
+    "A36266-e26880": [
+      "woodvill"
+    ],
+    "A36266-e26910": [
+      "lady-testie"
+    ],
+    "A36266-e26940": [
+      "woodvill"
+    ],
+    "A36266-e26970": [
+      "lady-testie"
+    ],
+    "A36266-e27010": [
+      "woodvill"
+    ],
+    "A36266-e27160": [
+      "old-hob"
+    ],
+    "A36266-e27190": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e27220": [
+      "young-hob"
+    ],
+    "A36266-e27250": [
+      "old-hob"
+    ],
+    "A36266-e27290": [
+      "young-hob"
+    ],
+    "A36266-e27330": [
+      "parson"
+    ],
+    "A36266-e27360": [
+      "old-hob"
+    ],
+    "A36266-e27400": [
+      "young-hob"
+    ],
+    "A36266-e27430": [
+      "clown"
+    ],
+    "A36266-e27470": [
+      "young-hob"
+    ],
+    "A36266-e27500": [
+      "parson"
+    ],
+    "A36266-e27530": [
+      "young-hob"
+    ],
+    "A36266-e27560": [
+      "parson"
+    ],
+    "A36266-e27590": [
+      "young-hob"
+    ],
+    "A36266-e27620": [
+      "parson"
+    ],
+    "A36266-e27650": [
+      "young-hob"
+    ],
+    "A36266-e27680": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e27750": [
+      "mary"
+    ],
+    "A36266-e27790": [
+      "young-hob"
+    ],
+    "A36266-e27830": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e27860": [
+      "young-hob"
+    ],
+    "A36266-e27910": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e27980": [
+      "young-hob"
+    ],
+    "A36266-e28120": [
+      "probe"
+    ],
+    "A36266-e28150": [
+      "young-hob"
+    ],
+    "A36266-e28180": [
+      "probe"
+    ],
+    "A36266-e28220": [
+      "young-hob"
+    ],
+    "A36266-e28250": [
+      "probe"
+    ],
+    "A36266-e28280": [
+      "young-hob"
+    ],
+    "A36266-e28310": [
+      "probe"
+    ],
+    "A36266-e28340": [
+      "young-hob"
+    ],
+    "A36266-e28370": [
+      "probe"
+    ],
+    "A36266-e28400": [
+      "young-hob"
+    ],
+    "A36266-e28440": [
+      "probe"
+    ],
+    "A36266-e28470": [
+      "young-hob"
+    ],
+    "A36266-e28500": [
+      "probe"
+    ],
+    "A36266-e28540": [
+      "young-hob"
+    ],
+    "A36266-e28570": [
+      "probe"
+    ],
+    "A36266-e28600": [
+      "young-hob"
+    ],
+    "A36266-e28630": [
+      "probe"
+    ],
+    "A36266-e28660": [
+      "young-hob"
+    ],
+    "A36266-e28700": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e28730": [
+      "young-hob"
+    ],
+    "A36266-e28760": [
+      "probe"
+    ],
+    "A36266-e28790": [
+      "young-hob"
+    ],
+    "A36266-e28820": [
+      "probe"
+    ],
+    "A36266-e28860": [
+      "young-hob"
+    ],
+    "A36266-e28890": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e28920": [
+      "young-hob"
+    ],
+    "A36266-e28950": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e28990": [
+      "young-hob"
+    ],
+    "A36266-e29030": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e29060": [
+      "young-hob"
+    ],
+    "A36266-e29090": [
+      "young-hob-s-mother"
+    ],
+    "A36266-e29120": [
+      "young-hob"
+    ],
+    "A36266-e29150": [
+      "old-hob"
+    ],
+    "A36266-e29250": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29320": [
+      "woodvill"
+    ],
+    "A36266-e29350": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29390": [
+      "woodvill"
+    ],
+    "A36266-e29420": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29460": [
+      "woodvill"
+    ],
+    "A36266-e29490": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29530": [
+      "woodvill"
+    ],
+    "A36266-e29570": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29610": [
+      "woodvill"
+    ],
+    "A36266-e29640": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29680": [
+      "woodvill"
+    ],
+    "A36266-e29710": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29750": [
+      "woodvill"
+    ],
+    "A36266-e29780": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29820": [
+      "woodvill"
+    ],
+    "A36266-e29890": [
+      "saywell"
+    ],
+    "A36266-e29920": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e29970": [
+      "saywell"
+    ],
+    "A36266-e30010": [
+      "jaylor"
+    ],
+    "A36266-e30040": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e30080": [
+      "woodvill"
+    ],
+    "A36266-e30110": [
+      "friendly"
+    ],
+    "A36266-e30150": [
+      "woodvill"
+    ],
+    "A36266-e30190": [
+      "friendly"
+    ],
+    "A36266-e30240": [
+      "flora"
+    ],
+    "A36266-e30270": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e30300": [
+      "woodvill"
+    ],
+    "A36266-e30330": [
+      "flora"
+    ],
+    "A36266-e30360": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e30390": [
+      "flora"
+    ],
+    "A36266-e30470": [
+      "friendly"
+    ],
+    "A36266-e30500": [
+      "woodvill"
+    ],
+    "A36266-e30540": [
+      "saywell"
+    ],
+    "A36266-e30570": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e30610": [
+      "flora"
+    ],
+    "A36266-e30640": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e30680": [
+      "flora"
+    ],
+    "A36266-e30710": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e30750": [
+      "flora"
+    ],
+    "A36266-e30780": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e30820": [
+      "flora"
+    ],
+    "A36266-e30850": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e30890": [
+      "flora"
+    ],
+    "A36266-e30920": [
+      "friendly"
+    ],
+    "A36266-e30960": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31000": [
+      "friendly"
+    ],
+    "A36266-e31040": [
+      "woodvill"
+    ],
+    "A36266-e31070": [
+      "saywell"
+    ],
+    "A36266-e31110": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31150": [
+      "saywell"
+    ],
+    "A36266-e31180": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31220": [
+      "friendly"
+    ],
+    "A36266-e31250": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31290": [
+      "woodvill"
+    ],
+    "A36266-e31320": [
+      "saywell"
+    ],
+    "A36266-e31350": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31410": [
+      "friendly"
+    ],
+    "A36266-e31450": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31490": [
+      "flora"
+    ],
+    "A36266-e31540": [
+      "friendly"
+    ],
+    "A36266-e31570": [
+      "flora"
+    ],
+    "A36266-e31600": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31640": [
+      "friendly"
+    ],
+    "A36266-e31670": [
+      "flora"
+    ],
+    "A36266-e31700": [
+      "friendly"
+    ],
+    "A36266-e31730": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31770": [
+      "woodvill"
+    ],
+    "A36266-e31800": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31840": [
+      "friendly"
+    ],
+    "A36266-e31870": [
+      "flora"
+    ],
+    "A36266-e31910": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e31950": [
+      "saywell"
+    ],
+    "A36266-e31980": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e32020": [
+      "saywell"
+    ],
+    "A36266-e32050": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e32090": [
+      "woodvill"
+    ],
+    "A36266-e32140": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e32180": [
+      "friendly"
+    ],
+    "A36266-e32210": [
+      "woodvill"
+    ],
+    "A36266-e32250": [
+      "friendly"
+    ],
+    "A36266-e32280": [
+      "woodvill"
+    ],
+    "A36266-e32320": [
+      "friendly"
+    ],
+    "A36266-e32350": [
+      "woodvill"
+    ],
+    "A36266-e32380": [
+      "friendly"
+    ],
+    "A36266-e32410": [
+      "woodvill"
+    ],
+    "A36266-e32440": [
+      "friendly"
+    ],
+    "A36266-e32470": [
+      "flora"
+    ],
+    "A36266-e32520": [
+      "lucia"
+    ],
+    "A36266-e32600": [
+      "lady-testie"
+    ],
+    "A36266-e32630": [
+      "woodvill"
+    ],
+    "A36266-e32660": [
+      "lady-testie"
+    ],
+    "A36266-e32690": [
+      "woodvill"
+    ],
+    "A36266-e32720": [
+      "lady-testie"
+    ],
+    "A36266-e32750": [
+      "woodvill"
+    ],
+    "A36266-e32780": [
+      "lady-testie"
+    ],
+    "A36266-e32810": [
+      "woodvill"
+    ],
+    "A36266-e32840": [
+      "lady-testie"
+    ],
+    "A36266-e32880": [
+      "woodvill"
+    ],
+    "A36266-e32930": [
+      "lady-testie"
+    ],
+    "A36266-e32970": [
+      "woodvill"
+    ],
+    "A36266-e33010": [
+      "friendly"
+    ],
+    "A36266-e33040": [
+      "woodvill"
+    ],
+    "A36266-e33070": [
+      "friendly"
+    ],
+    "A36266-e33100": [
+      "woodvill"
+    ],
+    "A36266-e33130": [
+      "friendly"
+    ],
+    "A36266-e33160": [
+      "woodvill"
+    ],
+    "A36266-e33210": [
+      "friendly"
+    ],
+    "A36266-e33240": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e33300": [
+      "lady-testie"
+    ],
+    "A36266-e33340": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e33380": [
+      "lady-testie"
+    ],
+    "A36266-e33410": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e33460": [
+      "friendly"
+    ],
+    "A36266-e33490": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e33530": [
+      "friendly"
+    ],
+    "A36266-e33570": [
+      "woodvill"
+    ],
+    "A36266-e33600": [
+      "lucia"
+    ],
+    "A36266-e33630": [
+      "friendly"
+    ],
+    "A36266-e33660": [
+      "lady-testie"
+    ],
+    "A36266-e33690": [
+      "friendly"
+    ],
+    "A36266-e33720": [
+      "lady-testie"
+    ],
+    "A36266-e33750": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e33790": [
+      "lucia"
+    ],
+    "A36266-e33820": [
+      "woodvill"
+    ],
+    "A36266-e33870": [
+      "flora"
+    ],
+    "A36266-e33920": [
+      "friendly"
+    ],
+    "A36266-e33990": [
+      "woodvill"
+    ],
+    "A36266-e34030": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e34070": [
+      "saywell"
+    ],
+    "A36266-e34110": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e34150": [
+      "lady-testie"
+    ],
+    "A36266-e34180": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e34220": [
+      "lady-testie"
+    ],
+    "A36266-e34270": [
+      "lucia"
+    ],
+    "A36266-e34300": [
+      "lady-testie"
+    ],
+    "A36266-e34330": [
+      "woodvill"
+    ],
+    "A36266-e34360": [
+      "lady-testie"
+    ],
+    "A36266-e34420": [
+      "woodvill"
+    ],
+    "A36266-e34460": [
+      "lady-testie"
+    ],
+    "A36266-e34510": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e34550": [
+      "friendly"
+    ],
+    "A36266-e34590": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e34630": [
+      "woodvill"
+    ],
+    "A36266-e34680": [
+      "jaylor"
+    ],
+    "A36266-e34720": [
+      "young-hob"
+    ],
+    "A36266-e34750": [
+      "friendly"
+    ],
+    "A36266-e34790": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e34830": [
+      "young-hob"
+    ],
+    "A36266-e34870": [
+      "friendly"
+    ],
+    "A36266-e34900": [
+      "young-hob"
+    ],
+    "A36266-e34930": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e34970": [
+      "young-hob"
+    ],
+    "A36266-e35040": [
+      "woodvill"
+    ],
+    "A36266-e35080": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e35130": [
+      "flora"
+    ],
+    "A36266-e35180": [
+      "friendly"
+    ],
+    "A36266-e35230": [
+      "young-hob"
+    ],
+    "A36266-e35280": [
+      "flora"
+    ],
+    "A36266-e35320": [
+      "woodvill"
+    ],
+    "A36266-e35380": [
+      "sir-thomas-testie"
+    ],
+    "A36266-e35440": [
+      "flora"
+    ],
+    "A36266-e35490": [
+      "friendly"
+    ],
+    "A36266-e35520": [
+      "flora"
+    ]
+  }
+}

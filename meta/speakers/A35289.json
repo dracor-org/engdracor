@@ -1,0 +1,2993 @@
+{
+  "particDesc": [
+    {
+      "name": "Lieutenant",
+      "id": "lieutenant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Spirit",
+      "id": "spirit",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": " Ghost of Richard the Second",
+      "id": "ghost-of-richard-the-second",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Gentleman",
+      "id": "gentleman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lord",
+      "id": "lord",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Woman to Lady Grey",
+      "id": "woman-to-lady-grey",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Father",
+      "id": "father",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Son",
+      "id": "son",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Commissioner 2",
+      "id": "commissioner-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Commissioner 1",
+      "id": "commissioner-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Scout",
+      "id": "scout",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Clifford",
+      "id": "clifford",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Waiting Woman",
+      "id": "waiting-woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Bearer 2",
+      "id": "bearer-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bearer 1",
+      "id": "bearer-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Trumpet",
+      "id": "trumpet",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer",
+      "id": "officer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Countryman 2",
+      "id": "countryman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Countryman 1",
+      "id": "countryman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 3",
+      "id": "soldier-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 2",
+      "id": "soldier-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 1",
+      "id": "soldier-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Carpenter",
+      "id": "carpenter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Taylor",
+      "id": "taylor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lord Say",
+      "id": "lord-say",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble",
+      "id": "rabble",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Cobler",
+      "id": "cobler",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Scrivener",
+      "id": "scrivener",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Butcher",
+      "id": "butcher",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cade",
+      "id": "cade",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "king-henry-the-sixth",
+      "name": "King Henry the Sixth",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "richard-plantagenet",
+      "name": "Richard Plantagenet",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "edward",
+      "name": "Edward",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "george",
+      "name": "George",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "richard",
+      "name": "Richard",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rutland",
+      "name": "Rutland",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "great-earl-of-warwick",
+      "name": " Great Earl of Warwick",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "old-lord-clifford",
+      "name": "Old Lord Clifford",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "young-clifford",
+      "name": "Young Clifford",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "queen-margaret",
+      "name": "Queen Margaret",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lady-grey",
+      "name": "Lady Grey",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "lady-elianor-butler",
+      "name": "Lady Elianor Butler",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A35289-e1360": [
+      "cade"
+    ],
+    "A35289-e1410": [
+      "butcher"
+    ],
+    "A35289-e1450": [
+      "cade"
+    ],
+    "A35289-e1570": [
+      "soldier"
+    ],
+    "A35289-e1600": [
+      "cade"
+    ],
+    "A35289-e1640": [
+      "butcher"
+    ],
+    "A35289-e1690": [
+      "cade"
+    ],
+    "A35289-e1730": [
+      "cobler"
+    ],
+    "A35289-e1760": [
+      "cade"
+    ],
+    "A35289-e1790": [
+      "cobler"
+    ],
+    "A35289-e1820": [
+      "cade"
+    ],
+    "A35289-e1850": [
+      "cobler"
+    ],
+    "A35289-e1880": [
+      "cade"
+    ],
+    "A35289-e1910": [
+      "cobler"
+    ],
+    "A35289-e1960": [
+      "cade"
+    ],
+    "A35289-e2000": [
+      "cobler"
+    ],
+    "A35289-e2060": [
+      "cade"
+    ],
+    "A35289-e2090": [
+      "cobler"
+    ],
+    "A35289-e2130": [
+      "cade"
+    ],
+    "A35289-e2160": [
+      "scrivener"
+    ],
+    "A35289-e2190": [
+      "cobler"
+    ],
+    "A35289-e2230": [
+      "cade"
+    ],
+    "A35289-e2270": [
+      "scrivener"
+    ],
+    "A35289-e2310": [
+      "rabble"
+    ],
+    "A35289-e2350": [
+      "cade"
+    ],
+    "A35289-e2460": [
+      "cade"
+    ],
+    "A35289-e2700": [
+      "cobler"
+    ],
+    "A35289-e2730": [
+      "cade"
+    ],
+    "A35289-e2760": [
+      "lord-say"
+    ],
+    "A35289-e2790": [
+      "cade"
+    ],
+    "A35289-e2840": [
+      "lord-say"
+    ],
+    "A35289-e2890": [
+      "rabble",
+	  "cobler",
+	  "butcher"
+    ],
+    "A35289-e2930": [
+      "lord-say"
+    ],
+    "A35289-e2980": [
+      "cade"
+    ],
+    "A35289-e3020": [
+      "lord-say"
+    ],
+    "A35289-e3050": [
+      "cade"
+    ],
+    "A35289-e3080": [
+      "rabble",
+	  "cobler"
+    ],
+    "A35289-e3120": [
+      "butcher"
+    ],
+    "A35289-e3150": [
+      "cade"
+    ],
+    "A35289-e3210": [
+      "lord-say"
+    ],
+    "A35289-e3290": [
+      "cobler"
+    ],
+    "A35289-e3340": [
+      "taylor"
+    ],
+    "A35289-e3410": [
+      "cade"
+    ],
+    "A35289-e3450": [
+      "taylor"
+    ],
+    "A35289-e3480": [
+      "cade"
+    ],
+    "A35289-e3520": [
+      "cobler"
+    ],
+    "A35289-e3590": [
+      "carpenter"
+    ],
+    "A35289-e3640": [
+      "cobler"
+    ],
+    "A35289-e3670": [
+      "cade"
+    ],
+    "A35289-e3700": [
+      "butcher"
+    ],
+    "A35289-e3730": [
+      "taylor"
+    ],
+    "A35289-e3760": [
+      "cobler"
+    ],
+    "A35289-e3810": [
+      "cade"
+    ],
+    "A35289-e3840": [
+      "butcher"
+    ],
+    "A35289-e3870": [
+      "cade"
+    ],
+    "A35289-e3920": [
+      "butcher"
+    ],
+    "A35289-e3950": [
+      "cade"
+    ],
+    "A35289-e3980": [
+      "butcher"
+    ],
+    "A35289-e4010": [
+      "taylor"
+    ],
+    "A35289-e4040": [
+      "cobler"
+    ],
+    "A35289-e4100": [
+      "cade"
+    ],
+    "A35289-e4200": [
+      "cobler"
+    ],
+    "A35289-e4240": [
+      "cade"
+    ],
+    "A35289-e4320": [
+      "cobler"
+    ],
+    "A35289-e4350": [
+      "rabble"
+    ],
+    "A35289-e4380": [
+      "cade"
+    ],
+    "A35289-e4420": [
+      "butcher"
+    ],
+    "A35289-e4500": [
+      "cade"
+    ],
+    "A35289-e4560": [
+      "butcher"
+    ],
+    "A35289-e4590": [
+      "cade"
+    ],
+    "A35289-e4750": [
+      "rabble"
+    ],
+    "A35289-e4780": [
+      "cobler"
+    ],
+    "A35289-e4840": [
+      "cade"
+    ],
+    "A35289-e4880": [
+      "cobler"
+    ],
+    "A35289-e5080": [
+      "cade"
+    ],
+    "A35289-e5160": [
+      "cobler"
+    ],
+    "A35289-e5190": [
+      "cade"
+    ],
+    "A35289-e5220": [
+      "cobler"
+    ],
+    "A35289-e5250": [
+      "butcher"
+    ],
+    "A35289-e5290": [
+      "cobler"
+    ],
+    "A35289-e5350": [
+      "butcher"
+    ],
+    "A35289-e5380": [
+      "cade"
+    ],
+    "A35289-e5420": [
+      "cobler"
+    ],
+    "A35289-e5470": [
+      "cade"
+    ],
+    "A35289-e5500": [
+      "cobler"
+    ],
+    "A35289-e5530": [
+      "cade"
+    ],
+    "A35289-e5580": [
+      "cobler"
+    ],
+    "A35289-e5610": [
+      "cade"
+    ],
+    "A35289-e5750": [
+      "butcher"
+    ],
+    "A35289-e5810": [
+      "cade"
+    ],
+    "A35289-e5840": [
+      "cobler"
+    ],
+    "A35289-e5880": [
+      "cade"
+    ],
+    "A35289-e5950": [
+      "cobler"
+    ],
+    "A35289-e6040": [
+      "cade"
+    ],
+    "A35289-e6150": [
+      "rabble"
+    ],
+    "A35289-e6180": [
+      "cade"
+    ],
+    "A35289-e6220": [
+      "soldier"
+    ],
+    "A35289-e6250": [
+      "cade"
+    ],
+    "A35289-e6310": [
+      "old-lord-clifford"
+    ],
+    "A35289-e6350": [
+      "cade"
+    ],
+    "A35289-e6380": [
+      "old-lord-clifford"
+    ],
+    "A35289-e6410": [
+      "cobler"
+    ],
+    "A35289-e6440": [
+      "cade"
+    ],
+    "A35289-e6530": [
+      "old-lord-clifford"
+    ],
+    "A35289-e6560": [
+      "cade"
+    ],
+    "A35289-e6640": [
+      "old-lord-clifford"
+    ],
+    "A35289-e6680": [
+      "cade"
+    ],
+    "A35289-e6710": [
+      "old-lord-clifford"
+    ],
+    "A35289-e6770": [
+      "rabble"
+    ],
+    "A35289-e6810": [
+      "cade"
+    ],
+    "A35289-e6900": [
+      "rabble"
+    ],
+    "A35289-e6960": [
+      "old-lord-clifford"
+    ],
+    "A35289-e7120": [
+      "rabble"
+    ],
+    "A35289-e7160": [
+      "cade"
+    ],
+    "A35289-e7220": [
+      "young-clifford"
+    ],
+    "A35289-e7360": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e7570": [
+      "queen-margaret"
+    ],
+    "A35289-e7630": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e7660": [
+      "queen-margaret"
+    ],
+    "A35289-e7690": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e7740": [
+      "old-lord-clifford"
+    ],
+    "A35289-e7820": [
+      "young-clifford"
+    ],
+    "A35289-e7870": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e7910": [
+      "young-clifford"
+    ],
+    "A35289-e7990": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e8050": [
+      "young-clifford"
+    ],
+    "A35289-e8130": [
+      "queen-margaret"
+    ],
+    "A35289-e8160": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e8200": [
+      "old-lord-clifford"
+    ],
+    "A35289-e8240": [
+      "officer"
+    ],
+    "A35289-e8280": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e8320": [
+      "trumpet"
+    ],
+    "A35289-e8380": [
+      "queen-margaret"
+    ],
+    "A35289-e8410": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e8460": [
+      "old-lord-clifford"
+    ],
+    "A35289-e8490": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e8550": [
+      "young-clifford"
+    ],
+    "A35289-e8630": [
+      "queen-margaret"
+    ],
+    "A35289-e8680": [
+      "old-lord-clifford"
+    ],
+    "A35289-e8730": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e8770": [
+      "richard-plantagenet"
+    ],
+    "A35289-e8800": [
+      "queen-margaret"
+    ],
+    "A35289-e8830": [
+      "old-lord-clifford"
+    ],
+    "A35289-e8860": [
+      "richard-plantagenet"
+    ],
+    "A35289-e8900": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e8930": [
+      "edward"
+    ],
+    "A35289-e8960": [
+      "richard-plantagenet"
+    ],
+    "A35289-e9010": [
+      "old-lord-clifford"
+    ],
+    "A35289-e9040": [
+      "richard-plantagenet"
+    ],
+    "A35289-e9120": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e9150": [
+      "richard-plantagenet"
+    ],
+    "A35289-e9250": [
+      "queen-margaret"
+    ],
+    "A35289-e9280": [
+      "richard-plantagenet"
+    ],
+    "A35289-e9440": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e9480": [
+      "young-clifford"
+    ],
+    "A35289-e9510": [
+      "edward"
+    ],
+    "A35289-e9560": [
+      "old-lord-clifford"
+    ],
+    "A35289-e9610": [
+      "queen-margaret"
+    ],
+    "A35289-e9640": [
+      "edward"
+    ],
+    "A35289-e9740": [
+      "queen-margaret"
+    ],
+    "A35289-e9770": [
+      "richard"
+    ],
+    "A35289-e9870": [
+      "queen-margaret"
+    ],
+    "A35289-e9930": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e9970": [
+      "richard-plantagenet"
+    ],
+    "A35289-e10070": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e10100": [
+      "richard-plantagenet"
+    ],
+    "A35289-e10140": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e10170": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e10220": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e10420": [
+      "queen-margaret"
+    ],
+    "A35289-e10450": [
+      "old-lord-clifford"
+    ],
+    "A35289-e10480": [
+      "young-clifford"
+    ],
+    "A35289-e10510": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e10650": [
+      "young-clifford"
+    ],
+    "A35289-e10760": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e10800": [
+      "young-clifford"
+    ],
+    "A35289-e11100": [
+      "edward"
+    ],
+    "A35289-e11130": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e11190": [
+      "richard-plantagenet"
+    ],
+    "A35289-e11240": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e11300": [
+      "richard-plantagenet"
+    ],
+    "A35289-e11330": [
+      "young-clifford"
+    ],
+    "A35289-e11410": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e11440": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e11470": [
+      "young-clifford",
+	  "king-henry-the-sixth",
+	  "old-lord-clifford",
+	  "edward",
+	  "richard"
+    ],
+    "A35289-e11590": [
+      "richard-plantagenet"
+    ],
+    "A35289-e11650": [
+      "old-lord-clifford"
+    ],
+    "A35289-e11710": [
+      "young-clifford"
+    ],
+    "A35289-e11780": [
+      "old-lord-clifford"
+    ],
+    "A35289-e11810": [
+      "young-clifford"
+    ],
+    "A35289-e11860": [
+      "old-lord-clifford"
+    ],
+    "A35289-e11890": [
+      "young-clifford"
+    ],
+    "A35289-e11980": [
+      "old-lord-clifford"
+    ],
+    "A35289-e12030": [
+      "young-clifford"
+    ],
+    "A35289-e12230": [
+      "queen-margaret"
+    ],
+    "A35289-e12270": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e12300": [
+      "queen-margaret"
+    ],
+    "A35289-e12340": [
+      "young-clifford"
+    ],
+    "A35289-e12370": [
+      "queen-margaret"
+    ],
+    "A35289-e12400": [
+      "young-clifford"
+    ],
+    "A35289-e12440": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e12480": [
+      "young-clifford"
+    ],
+    "A35289-e12520": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e12560": [
+      "young-clifford"
+    ],
+    "A35289-e12600": [
+      "queen-margaret"
+    ],
+    "A35289-e12680": [
+      "young-clifford"
+    ],
+    "A35289-e12900": [
+      "richard-plantagenet"
+    ],
+    "A35289-e12930": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e12960": [
+      "edward"
+    ],
+    "A35289-e13030": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e13090": [
+      "richard-plantagenet"
+    ],
+    "A35289-e13180": [
+      "edward"
+    ],
+    "A35289-e13280": [
+      "richard"
+    ],
+    "A35289-e13330": [
+      "edward"
+    ],
+    "A35289-e13380": [
+      "richard"
+    ],
+    "A35289-e13410": [
+      "richard-plantagenet"
+    ],
+    "A35289-e13460": [
+      "richard"
+    ],
+    "A35289-e13500": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e13690": [
+      "richard-plantagenet"
+    ],
+    "A35289-e13730": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e13820": [
+      "edward"
+    ],
+    "A35289-e13910": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e13970": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e14020": [
+      "bearer-2"
+    ],
+    "A35289-e14100": [
+      "lady-grey"
+    ],
+    "A35289-e14150": [
+      "lady-grey"
+    ],
+    "A35289-e14190": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e14230": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e14270": [
+      "lady-grey"
+    ],
+    "A35289-e14300": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e14450": [
+      "lady-grey"
+    ],
+    "A35289-e14480": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e14540": [
+      "lady-grey"
+    ],
+    "A35289-e14610": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e14660": [
+      "lady-grey"
+    ],
+    "A35289-e14690": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e14770": [
+      "lady-grey"
+    ],
+    "A35289-e14800": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e14880": [
+      "lady-grey"
+    ],
+    "A35289-e14910": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e15050": [
+      "lady-grey"
+    ],
+    "A35289-e15090": [
+      "bearer-1"
+    ],
+    "A35289-e15120": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e15160": [
+      "bearer-2"
+    ],
+    "A35289-e15190": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e15230": [
+      "lady-grey"
+    ],
+    "A35289-e15270": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e15450": [
+      "lady-grey"
+    ],
+    "A35289-e15520": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e15620": [
+      "lady-grey"
+    ],
+    "A35289-e15680": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e15740": [
+      "lady-grey"
+    ],
+    "A35289-e15780": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e15820": [
+      "lady-grey"
+    ],
+    "A35289-e15850": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e15960": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e16000": [
+      "edward"
+    ],
+    "A35289-e16030": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e16070": [
+      "edward"
+    ],
+    "A35289-e16150": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e16180": [
+      "edward"
+    ],
+    "A35289-e16260": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e16310": [
+      "edward"
+    ],
+    "A35289-e16340": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e16530": [
+      "edward"
+    ],
+    "A35289-e16590": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e16710": [
+      "edward"
+    ],
+    "A35289-e16780": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e16810": [
+      "edward"
+    ],
+    "A35289-e16900": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e16940": [
+      "edward"
+    ],
+    "A35289-e16980": [
+      "waiting-woman"
+    ],
+    "A35289-e17040": [
+      "edward"
+    ],
+    "A35289-e17090": [
+      "waiting-woman"
+    ],
+    "A35289-e17120": [
+      "edward"
+    ],
+    "A35289-e17160": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e17200": [
+      "edward"
+    ],
+    "A35289-e17230": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e17260": [
+      "richard"
+    ],
+    "A35289-e17290": [
+      "edward"
+    ],
+    "A35289-e17330": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e17370": [
+      "richard"
+    ],
+    "A35289-e17440": [
+      "edward"
+    ],
+    "A35289-e17690": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e17760": [
+      "richard-plantagenet"
+    ],
+    "A35289-e17860": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e17910": [
+      "richard-plantagenet"
+    ],
+    "A35289-e17950": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e17980": [
+      "edward"
+    ],
+    "A35289-e18070": [
+      "richard-plantagenet"
+    ],
+    "A35289-e18170": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e18200": [
+      "richard-plantagenet"
+    ],
+    "A35289-e18290": [
+      "rutland"
+    ],
+    "A35289-e18330": [
+      "richard-plantagenet"
+    ],
+    "A35289-e18390": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e18420": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e18500": [
+      "richard"
+    ],
+    "A35289-e18530": [
+      "edward"
+    ],
+    "A35289-e18560": [
+      "richard-plantagenet"
+    ],
+    "A35289-e18590": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e18780": [
+      "richard-plantagenet"
+    ],
+    "A35289-e18870": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e18910": [
+      "richard-plantagenet"
+    ],
+    "A35289-e18940": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e18970": [
+      "richard-plantagenet"
+    ],
+    "A35289-e19000": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e19050": [
+      "richard-plantagenet"
+    ],
+    "A35289-e19110": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e19170": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e19200": [
+      "young-clifford"
+    ],
+    "A35289-e19240": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e19300": [
+      "young-clifford"
+    ],
+    "A35289-e19370": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e19400": [
+      "young-clifford"
+    ],
+    "A35289-e19470": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e19650": [
+      "richard-plantagenet"
+    ],
+    "A35289-e19720": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e19750": [
+      "richard-plantagenet"
+    ],
+    "A35289-e19790": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e19830": [
+      "young-clifford"
+    ],
+    "A35289-e19870": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e19910": [
+      "young-clifford"
+    ],
+    "A35289-e19940": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e19990": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e20020": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e20060": [
+      "young-clifford"
+    ],
+    "A35289-e20180": [
+      "richard-plantagenet"
+    ],
+    "A35289-e20280": [
+      "richard-plantagenet"
+    ],
+    "A35289-e20310": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e20340": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e20380": [
+      "queen-margaret"
+    ],
+    "A35289-e20440": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e20490": [
+      "queen-margaret"
+    ],
+    "A35289-e20570": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e20630": [
+      "queen-margaret"
+    ],
+    "A35289-e20660": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e20700": [
+      "queen-margaret"
+    ],
+    "A35289-e20840": [
+      "edward"
+    ],
+    "A35289-e20900": [
+      "queen-margaret"
+    ],
+    "A35289-e21040": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e21070": [
+      "queen-margaret"
+    ],
+    "A35289-e21150": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e21190": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e21230": [
+      "richard-plantagenet"
+    ],
+    "A35289-e21340": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e21460": [
+      "richard-plantagenet"
+    ],
+    "A35289-e21570": [
+      "edward"
+    ],
+    "A35289-e21610": [
+      "richard-plantagenet"
+    ],
+    "A35289-e21680": [
+      "richard"
+    ],
+    "A35289-e21730": [
+      "richard-plantagenet"
+    ],
+    "A35289-e21910": [
+      "rutland"
+    ],
+    "A35289-e21960": [
+      "richard-plantagenet"
+    ],
+    "A35289-e22090": [
+      "young-clifford"
+    ],
+    "A35289-e22160": [
+      "rutland"
+    ],
+    "A35289-e22210": [
+      "young-clifford"
+    ],
+    "A35289-e22250": [
+      "rutland"
+    ],
+    "A35289-e22290": [
+      "young-clifford"
+    ],
+    "A35289-e22320": [
+      "rutland"
+    ],
+    "A35289-e22400": [
+      "young-clifford"
+    ],
+    "A35289-e22470": [
+      "rutland"
+    ],
+    "A35289-e22500": [
+      "young-clifford"
+    ],
+    "A35289-e22530": [
+      "rutland"
+    ],
+    "A35289-e22560": [
+      "young-clifford"
+    ],
+    "A35289-e22620": [
+      "rutland"
+    ],
+    "A35289-e22660": [
+      "young-clifford"
+    ],
+    "A35289-e22700": [
+      "rutland"
+    ],
+    "A35289-e22810": [
+      "young-clifford"
+    ],
+    "A35289-e22860": [
+      "rutland"
+    ],
+    "A35289-e22890": [
+      "young-clifford"
+    ],
+    "A35289-e22930": [
+      "rutland"
+    ],
+    "A35289-e22980": [
+      "young-clifford"
+    ],
+    "A35289-e23050": [
+      "richard-plantagenet"
+    ],
+    "A35289-e23190": [
+      "young-clifford"
+    ],
+    "A35289-e23290": [
+      "richard-plantagenet"
+    ],
+    "A35289-e23350": [
+      "young-clifford"
+    ],
+    "A35289-e23400": [
+      "richard-plantagenet"
+    ],
+    "A35289-e23460": [
+      "young-clifford"
+    ],
+    "A35289-e23490": [
+      "richard-plantagenet"
+    ],
+    "A35289-e23520": [
+      "young-clifford"
+    ],
+    "A35289-e23580": [
+      "richard-plantagenet"
+    ],
+    "A35289-e23630": [
+      "young-clifford"
+    ],
+    "A35289-e23680": [
+      "queen-margaret"
+    ],
+    "A35289-e23860": [
+      "richard-plantagenet"
+    ],
+    "A35289-e23890": [
+      "queen-margaret"
+    ],
+    "A35289-e23930": [
+      "richard-plantagenet"
+    ],
+    "A35289-e23980": [
+      "young-clifford"
+    ],
+    "A35289-e24030": [
+      "queen-margaret"
+    ],
+    "A35289-e24100": [
+      "richard-plantagenet"
+    ],
+    "A35289-e24240": [
+      "queen-margaret"
+    ],
+    "A35289-e24420": [
+      "richard-plantagenet"
+    ],
+    "A35289-e24450": [
+      "queen-margaret"
+    ],
+    "A35289-e24530": [
+      "richard-plantagenet"
+    ],
+    "A35289-e24590": [
+      "queen-margaret"
+    ],
+    "A35289-e24620": [
+      "young-clifford"
+    ],
+    "A35289-e24650": [
+      "queen-margaret"
+    ],
+    "A35289-e24680": [
+      "young-clifford"
+    ],
+    "A35289-e24710": [
+      "richard-plantagenet"
+    ],
+    "A35289-e24750": [
+      "queen-margaret"
+    ],
+    "A35289-e24830": [
+      "edward"
+    ],
+    "A35289-e24880": [
+      "richard"
+    ],
+    "A35289-e24910": [
+      "edward"
+    ],
+    "A35289-e24940": [
+      "richard"
+    ],
+    "A35289-e24970": [
+      "edward"
+    ],
+    "A35289-e25000": [
+      "richard"
+    ],
+    "A35289-e25240": [
+      "edward"
+    ],
+    "A35289-e25270": [
+      "richard"
+    ],
+    "A35289-e25350": [
+      "edward"
+    ],
+    "A35289-e25380": [
+      "richard"
+    ],
+    "A35289-e25420": [
+      "edward"
+    ],
+    "A35289-e25460": [
+      "richard"
+    ],
+    "A35289-e25510": [
+      "edward"
+    ],
+    "A35289-e25560": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e25590": [
+      "edward"
+    ],
+    "A35289-e25630": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e25690": [
+      "edward"
+    ],
+    "A35289-e25740": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e25800": [
+      "edward"
+    ],
+    "A35289-e25950": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e25990": [
+      "edward"
+    ],
+    "A35289-e26090": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26130": [
+      "edward"
+    ],
+    "A35289-e26210": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26270": [
+      "edward"
+    ],
+    "A35289-e26330": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26360": [
+      "edward"
+    ],
+    "A35289-e26390": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26420": [
+      "edward"
+    ],
+    "A35289-e26450": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26480": [
+      "edward"
+    ],
+    "A35289-e26520": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26550": [
+      "edward"
+    ],
+    "A35289-e26590": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26630": [
+      "edward"
+    ],
+    "A35289-e26680": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26710": [
+      "edward"
+    ],
+    "A35289-e26740": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e26790": [
+      "soldier-1"
+    ],
+    "A35289-e26820": [
+      "countryman-1"
+    ],
+    "A35289-e26870": [
+      "soldier-1"
+    ],
+    "A35289-e26980": [
+      "countryman-2"
+    ],
+    "A35289-e27020": [
+      "soldier-2"
+    ],
+    "A35289-e27110": [
+      "soldier-3"
+    ],
+    "A35289-e27140": [
+      "soldier-2"
+    ],
+    "A35289-e27170": [
+      "countryman-2"
+    ],
+    "A35289-e27200": [
+      "soldier-1"
+    ],
+    "A35289-e27240": [
+      "countryman-2"
+    ],
+    "A35289-e27270": [
+      "soldier-3"
+    ],
+    "A35289-e27300": [
+      "countryman-2"
+    ],
+    "A35289-e27330": [
+      "soldier-1"
+    ],
+    "A35289-e27370": [
+      "countryman-1"
+    ],
+    "A35289-e27400": [
+      "soldier-2"
+    ],
+    "A35289-e27430": [
+      "countryman-2"
+    ],
+    "A35289-e27460": [
+      "soldier-1"
+    ],
+    "A35289-e27490": [
+      "countryman-2"
+    ],
+    "A35289-e27520": [
+      "soldier-1"
+    ],
+    "A35289-e27560": [
+      "soldier-2"
+    ],
+    "A35289-e27590": [
+      "countryman-1"
+    ],
+    "A35289-e27630": [
+      "soldier-2"
+    ],
+    "A35289-e27670": [
+      "countryman-2"
+    ],
+    "A35289-e27700": [
+      "soldier-2"
+    ],
+    "A35289-e27790": [
+      "countryman-2"
+    ],
+    "A35289-e27820": [
+      "soldier-1"
+    ],
+    "A35289-e27880": [
+      "countryman-2"
+    ],
+    "A35289-e27950": [
+      "soldier-1"
+    ],
+    "A35289-e27990": [
+      "countryman-1"
+    ],
+    "A35289-e28030": [
+      "soldier-1"
+    ],
+    "A35289-e28060": [
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
+    ],
+    "A35289-e28100": [
+      "countryman-1"
+    ],
+    "A35289-e28160": [
+      "soldier-2"
+    ],
+    "A35289-e28270": [
+      "countryman-1"
+    ],
+    "A35289-e28310": [
+      "soldier-1"
+    ],
+    "A35289-e28370": [
+      "soldier-2"
+    ],
+    "A35289-e28440": [
+      "countryman-1"
+    ],
+    "A35289-e28470": [
+      "countryman-2"
+    ],
+    "A35289-e28500": [
+      "soldier-1"
+    ],
+    "A35289-e28530": [
+      "soldier-2"
+    ],
+    "A35289-e28590": [
+      "scout"
+    ],
+    "A35289-e28630": [
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
+    ],
+    "A35289-e28710": [
+      "richard"
+    ],
+    "A35289-e28740": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e28780": [
+      "richard"
+    ],
+    "A35289-e28930": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29000": [
+      "richard"
+    ],
+    "A35289-e29070": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29100": [
+      "edward"
+    ],
+    "A35289-e29160": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29190": [
+      "edward"
+    ],
+    "A35289-e29230": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29270": [
+      "edward"
+    ],
+    "A35289-e29370": [
+      "richard"
+    ],
+    "A35289-e29440": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29470": [
+      "richard"
+    ],
+    "A35289-e29500": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29540": [
+      "edward"
+    ],
+    "A35289-e29570": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29640": [
+      "edward"
+    ],
+    "A35289-e29670": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29710": [
+      "edward"
+    ],
+    "A35289-e29750": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29840": [
+      "edward"
+    ],
+    "A35289-e29870": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29900": [
+      "edward"
+    ],
+    "A35289-e29930": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e29960": [
+      "edward"
+    ],
+    "A35289-e30010": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e30120": [
+      "richard"
+    ],
+    "A35289-e30170": [
+      "edward"
+    ],
+    "A35289-e30200": [
+      "richard"
+    ],
+    "A35289-e30240": [
+      "edward"
+    ],
+    "A35289-e30360": [
+      "george"
+    ],
+    "A35289-e30420": [
+      "edward"
+    ],
+    "A35289-e30590": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e30620": [
+      "richard"
+    ],
+    "A35289-e30660": [
+      "edward"
+    ],
+    "A35289-e30720": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e30750": [
+      "richard"
+    ],
+    "A35289-e30780": [
+      "edward"
+    ],
+    "A35289-e30990": [
+      "richard"
+    ],
+    "A35289-e31020": [
+      "edward"
+    ],
+    "A35289-e31080": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e31170": [
+      "edward"
+    ],
+    "A35289-e31240": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e31290": [
+      "edward"
+    ],
+    "A35289-e31390": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e31420": [
+      "edward"
+    ],
+    "A35289-e31530": [
+      "richard"
+    ],
+    "A35289-e31560": [
+      "edward"
+    ],
+    "A35289-e31650": [
+      "richard"
+    ],
+    "A35289-e31690": [
+      "edward"
+    ],
+    "A35289-e31720": [
+      "george"
+    ],
+    "A35289-e31770": [
+      "richard"
+    ],
+    "A35289-e31830": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e31910": [
+      "edward"
+    ],
+    "A35289-e32110": [
+      "richard"
+    ],
+    "A35289-e32150": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e32200": [
+      "edward"
+    ],
+    "A35289-e32310": [
+      "commissioner-1"
+    ],
+    "A35289-e32340": [
+      "richard",
+	  "great-earl-of-warwick",
+	  "edward",
+	  "george"
+    ],
+    "A35289-e32370": [
+      "commissioner-2"
+    ],
+    "A35289-e32420": [
+      "richard"
+    ],
+    "A35289-e32480": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e32540": [
+      "edward"
+    ],
+    "A35289-e32600": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e32710": [
+      "young-clifford"
+    ],
+    "A35289-e32760": [
+      "queen-margaret"
+    ],
+    "A35289-e32800": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e32840": [
+      "young-clifford"
+    ],
+    "A35289-e32870": [
+      "edward"
+    ],
+    "A35289-e32910": [
+      "young-clifford"
+    ],
+    "A35289-e32940": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e33010": [
+      "young-clifford"
+    ],
+    "A35289-e33050": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e33230": [
+      "son"
+    ],
+    "A35289-e33410": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e33480": [
+      "father"
+    ],
+    "A35289-e33550": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e33590": [
+      "son"
+    ],
+    "A35289-e33620": [
+      "father"
+    ],
+    "A35289-e33650": [
+      "son"
+    ],
+    "A35289-e33690": [
+      "father"
+    ],
+    "A35289-e33730": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e33760": [
+      "son"
+    ],
+    "A35289-e33800": [
+      "father"
+    ],
+    "A35289-e33850": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e33990": [
+      "edward"
+    ],
+    "A35289-e34020": [
+      "queen-margaret"
+    ],
+    "A35289-e34050": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e34090": [
+      "queen-margaret"
+    ],
+    "A35289-e34210": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e34270": [
+      "young-clifford"
+    ],
+    "A35289-e34590": [
+      "edward"
+    ],
+    "A35289-e34660": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e34690": [
+      "richard"
+    ],
+    "A35289-e34750": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e34790": [
+      "george"
+    ],
+    "A35289-e34850": [
+      "young-clifford"
+    ],
+    "A35289-e34890": [
+      "edward"
+    ],
+    "A35289-e34940": [
+      "richard"
+    ],
+    "A35289-e34980": [
+      "edward"
+    ],
+    "A35289-e35010": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e35040": [
+      "george"
+    ],
+    "A35289-e35070": [
+      "richard"
+    ],
+    "A35289-e35120": [
+      "richard"
+    ],
+    "A35289-e35220": [
+      "george"
+    ],
+    "A35289-e35250": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e35280": [
+      "young-clifford"
+    ],
+    "A35289-e35320": [
+      "edward"
+    ],
+    "A35289-e35350": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e35380": [
+      "edward"
+    ],
+    "A35289-e35430": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e35480": [
+      "trumpet"
+    ],
+    "A35289-e35570": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e35650": [
+      "edward"
+    ],
+    "A35289-e35690": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e35750": [
+      "edward"
+    ],
+    "A35289-e35780": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e35940": [
+      "edward"
+    ],
+    "A35289-e35990": [
+      "george"
+    ],
+    "A35289-e36020": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e36050": [
+      "george"
+    ],
+    "A35289-e36080": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e36110": [
+      "george"
+    ],
+    "A35289-e36140": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e36170": [
+      "edward"
+    ],
+    "A35289-e36210": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e36240": [
+      "george"
+    ],
+    "A35289-e36270": [
+      "edward"
+    ],
+    "A35289-e36320": [
+      "richard"
+    ],
+    "A35289-e36370": [
+      "edward"
+    ],
+    "A35289-e36460": [
+      "richard"
+    ],
+    "A35289-e36490": [
+      "edward"
+    ],
+    "A35289-e36520": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e36560": [
+      "edward"
+    ],
+    "A35289-e36600": [
+      "george"
+    ],
+    "A35289-e36630": [
+      "edward"
+    ],
+    "A35289-e36690": [
+      "lady-grey"
+    ],
+    "A35289-e36750": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e36810": [
+      "lady-grey"
+    ],
+    "A35289-e36850": [
+      "page"
+    ],
+    "A35289-e36890": [
+      "lady-grey"
+    ],
+    "A35289-e36920": [
+      "page"
+    ],
+    "A35289-e36970": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37110": [
+      "lady-grey"
+    ],
+    "A35289-e37170": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37290": [
+      "lady-grey"
+    ],
+    "A35289-e37330": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37360": [
+      "lady-grey"
+    ],
+    "A35289-e37390": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37430": [
+      "lady-grey"
+    ],
+    "A35289-e37460": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37560": [
+      "lady-grey"
+    ],
+    "A35289-e37590": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37620": [
+      "lady-grey"
+    ],
+    "A35289-e37650": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37680": [
+      "lady-grey"
+    ],
+    "A35289-e37710": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37740": [
+      "lady-grey"
+    ],
+    "A35289-e37770": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e37900": [
+      "lady-grey"
+    ],
+    "A35289-e37970": [
+      "woman-to-lady-grey"
+    ],
+    "A35289-e38000": [
+      "lady-grey"
+    ],
+    "A35289-e38130": [
+      "edward"
+    ],
+    "A35289-e38160": [
+      "richard"
+    ],
+    "A35289-e38210": [
+      "edward"
+    ],
+    "A35289-e38240": [
+      "richard"
+    ],
+    "A35289-e38280": [
+      "edward"
+    ],
+    "A35289-e38330": [
+      "lord"
+    ],
+    "A35289-e38360": [
+      "richard"
+    ],
+    "A35289-e38430": [
+      "richard"
+    ],
+    "A35289-e38460": [
+      "edward"
+    ],
+    "A35289-e38500": [
+      "richard"
+    ],
+    "A35289-e38550": [
+      "lady-grey"
+    ],
+    "A35289-e38700": [
+      "edward"
+    ],
+    "A35289-e38760": [
+      "richard"
+    ],
+    "A35289-e38810": [
+      "edward"
+    ],
+    "A35289-e38840": [
+      "lady-grey"
+    ],
+    "A35289-e38900": [
+      "edward"
+    ],
+    "A35289-e38960": [
+      "lady-grey"
+    ],
+    "A35289-e38990": [
+      "edward"
+    ],
+    "A35289-e39060": [
+      "lord"
+    ],
+    "A35289-e39150": [
+      "edward"
+    ],
+    "A35289-e39180": [
+      "lord"
+    ],
+    "A35289-e39260": [
+      "edward"
+    ],
+    "A35289-e39300": [
+      "lord"
+    ],
+    "A35289-e39350": [
+      "edward"
+    ],
+    "A35289-e39400": [
+      "lord"
+    ],
+    "A35289-e39460": [
+      "edward"
+    ],
+    "A35289-e39660": [
+      "lady-grey"
+    ],
+    "A35289-e39690": [
+      "edward"
+    ],
+    "A35289-e39720": [
+      "lady-grey"
+    ],
+    "A35289-e39750": [
+      "edward"
+    ],
+    "A35289-e39790": [
+      "lady-grey"
+    ],
+    "A35289-e39820": [
+      "edward"
+    ],
+    "A35289-e39860": [
+      "lady-grey"
+    ],
+    "A35289-e39890": [
+      "edward"
+    ],
+    "A35289-e39920": [
+      "lady-grey"
+    ],
+    "A35289-e39950": [
+      "edward"
+    ],
+    "A35289-e39990": [
+      "lady-grey"
+    ],
+    "A35289-e40020": [
+      "edward"
+    ],
+    "A35289-e40050": [
+      "lady-grey"
+    ],
+    "A35289-e40080": [
+      "edward"
+    ],
+    "A35289-e40120": [
+      "lady-grey"
+    ],
+    "A35289-e40150": [
+      "edward"
+    ],
+    "A35289-e40180": [
+      "lady-grey"
+    ],
+    "A35289-e40220": [
+      "edward"
+    ],
+    "A35289-e40300": [
+      "lady-grey"
+    ],
+    "A35289-e40390": [
+      "edward"
+    ],
+    "A35289-e40470": [
+      "lady-grey"
+    ],
+    "A35289-e40520": [
+      "edward"
+    ],
+    "A35289-e40550": [
+      "lady-grey"
+    ],
+    "A35289-e40590": [
+      "edward"
+    ],
+    "A35289-e40650": [
+      "lady-grey"
+    ],
+    "A35289-e40700": [
+      "edward"
+    ],
+    "A35289-e40730": [
+      "lady-grey"
+    ],
+    "A35289-e40770": [
+      "edward"
+    ],
+    "A35289-e40810": [
+      "lady-grey"
+    ],
+    "A35289-e40840": [
+      "edward"
+    ],
+    "A35289-e40880": [
+      "lady-grey"
+    ],
+    "A35289-e40920": [
+      "edward"
+    ],
+    "A35289-e40950": [
+      "lady-grey"
+    ],
+    "A35289-e40990": [
+      "edward"
+    ],
+    "A35289-e41020": [
+      "lady-grey"
+    ],
+    "A35289-e41050": [
+      "edward"
+    ],
+    "A35289-e41080": [
+      "lady-grey"
+    ],
+    "A35289-e41110": [
+      "edward"
+    ],
+    "A35289-e41140": [
+      "lady-grey"
+    ],
+    "A35289-e41170": [
+      "edward"
+    ],
+    "A35289-e41220": [
+      "lady-grey"
+    ],
+    "A35289-e41260": [
+      "edward"
+    ],
+    "A35289-e41300": [
+      "lady-grey"
+    ],
+    "A35289-e41330": [
+      "edward"
+    ],
+    "A35289-e41360": [
+      "lady-grey"
+    ],
+    "A35289-e41390": [
+      "edward"
+    ],
+    "A35289-e41450": [
+      "gentleman"
+    ],
+    "A35289-e41520": [
+      "edward"
+    ],
+    "A35289-e41590": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e41660": [
+      "edward"
+    ],
+    "A35289-e41830": [
+      "richard"
+    ],
+    "A35289-e42210": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e42270": [
+      "edward"
+    ],
+    "A35289-e42310": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e42390": [
+      "edward"
+    ],
+    "A35289-e42440": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e42510": [
+      "lady-grey"
+    ],
+    "A35289-e42540": [
+      "edward"
+    ],
+    "A35289-e42570": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e42640": [
+      "edward"
+    ],
+    "A35289-e42670": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e42700": [
+      "edward"
+    ],
+    "A35289-e42730": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e42760": [
+      "edward"
+    ],
+    "A35289-e42830": [
+      "edward"
+    ],
+    "A35289-e42870": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e42910": [
+      "edward"
+    ],
+    "A35289-e42950": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e43020": [
+      "edward"
+    ],
+    "A35289-e43060": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e43090": [
+      "edward"
+    ],
+    "A35289-e43130": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e43170": [
+      "edward"
+    ],
+    "A35289-e43210": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e43420": [
+      "lady-grey"
+    ],
+    "A35289-e43460": [
+      "edward"
+    ],
+    "A35289-e43560": [
+      "edward"
+    ],
+    "A35289-e43600": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e43630": [
+      "edward"
+    ],
+    "A35289-e43660": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e43730": [
+      "edward"
+    ],
+    "A35289-e43760": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e43940": [
+      "lady-grey"
+    ],
+    "A35289-e44050": [
+      "edward"
+    ],
+    "A35289-e44080": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e44130": [
+      "edward"
+    ],
+    "A35289-e44170": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e44200": [
+      "edward"
+    ],
+    "A35289-e44260": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e44300": [
+      "edward"
+    ],
+    "A35289-e44360": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e44580": [
+      "queen-margaret"
+    ],
+    "A35289-e44640": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e44710": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e44800": [
+      "queen-margaret"
+    ],
+    "A35289-e44880": [
+      "edward"
+    ],
+    "A35289-e44950": [
+      "queen-margaret"
+    ],
+    "A35289-e45040": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e45100": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e45270": [
+      "edward"
+    ],
+    "A35289-e45310": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e45380": [
+      "queen-margaret"
+    ],
+    "A35289-e45420": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e45460": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e45550": [
+      "edward"
+    ],
+    "A35289-e45590": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e45620": [
+      "queen-margaret"
+    ],
+    "A35289-e45650": [
+      "edward"
+    ],
+    "A35289-e45700": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e45740": [
+      "george"
+    ],
+    "A35289-e45800": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e45840": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e45920": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e45970": [
+      "george"
+    ],
+    "A35289-e46010": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e46060": [
+      "queen-margaret"
+    ],
+    "A35289-e46090": [
+      "edward"
+    ],
+    "A35289-e46120": [
+      "queen-margaret"
+    ],
+    "A35289-e46150": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e46180": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e46210": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e46250": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e46300": [
+      "george"
+    ],
+    "A35289-e46340": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e46400": [
+      "george"
+    ],
+    "A35289-e46480": [
+      "edward"
+    ],
+    "A35289-e46540": [
+      "richard"
+    ],
+    "A35289-e46630": [
+      "edward"
+    ],
+    "A35289-e46680": [
+      "richard"
+    ],
+    "A35289-e46870": [
+      "officer"
+    ],
+    "A35289-e46910": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e46940": [
+      "officer"
+    ],
+    "A35289-e46990": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e47020": [
+      "officer"
+    ],
+    "A35289-e47100": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e47200": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e47250": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e47560": [
+      "queen-margaret"
+    ],
+    "A35289-e47620": [
+      "edward"
+    ],
+    "A35289-e47670": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e47700": [
+      "edward"
+    ],
+    "A35289-e47730": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e47800": [
+      "edward"
+    ],
+    "A35289-e47830": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e47870": [
+      "edward"
+    ],
+    "A35289-e47970": [
+      "george"
+    ],
+    "A35289-e48180": [
+      "richard"
+    ],
+    "A35289-e48210": [
+      "george"
+    ],
+    "A35289-e48270": [
+      "richard"
+    ],
+    "A35289-e48300": [
+      "george"
+    ],
+    "A35289-e48330": [
+      "richard"
+    ],
+    "A35289-e48380": [
+      "george"
+    ],
+    "A35289-e48440": [
+      "richard"
+    ],
+    "A35289-e48520": [
+      "queen-margaret"
+    ],
+    "A35289-e48560": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e48600": [
+      "edward"
+    ],
+    "A35289-e48650": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e48760": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e48840": [
+      "edward"
+    ],
+    "A35289-e48880": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e48910": [
+      "edward"
+    ],
+    "A35289-e48940": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e48990": [
+      "edward"
+    ],
+    "A35289-e49020": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e49080": [
+      "edward"
+    ],
+    "A35289-e49130": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e49160": [
+      "edward"
+    ],
+    "A35289-e49230": [
+      "lady-elianor-butler"
+    ],
+    "A35289-e49440": [
+      "edward"
+    ],
+    "A35289-e49540": [
+      "officer"
+    ],
+    "A35289-e49600": [
+      "edward"
+    ],
+    "A35289-e49770": [
+      "edward"
+    ],
+    "A35289-e49820": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e49980": [
+      "edward"
+    ],
+    "A35289-e50020": [
+      "great-earl-of-warwick"
+    ],
+    "A35289-e50080": [
+      "edward"
+    ],
+    "A35289-e50160": [
+      "george"
+    ],
+    "A35289-e50210": [
+      "edward"
+    ],
+    "A35289-e50280": [
+      "richard"
+    ],
+    "A35289-e50360": [
+      "edward"
+    ],
+    "A35289-e50430": [
+      "edward"
+    ],
+    "A35289-e50490": [
+      "queen-margaret"
+    ],
+    "A35289-e50520": [
+      "richard"
+    ],
+    "A35289-e50550": [
+      "edward"
+    ],
+    "A35289-e50590": [
+      "richard"
+    ],
+    "A35289-e50620": [
+      "edward"
+    ],
+    "A35289-e50660": [
+      "richard"
+    ],
+    "A35289-e50700": [
+      "edward"
+    ],
+    "A35289-e50740": [
+      "edward"
+    ],
+    "A35289-e50780": [
+      "george"
+    ],
+    "A35289-e50810": [
+      "edward"
+    ],
+    "A35289-e50860": [
+      "edward"
+    ],
+    "A35289-e50900": [
+      "richard"
+    ],
+    "A35289-e50930": [
+      "george"
+    ],
+    "A35289-e50990": [
+      "queen-margaret"
+    ],
+    "A35289-e51030": [
+      "richard"
+    ],
+    "A35289-e51070": [
+      "edward"
+    ],
+    "A35289-e51130": [
+      "richard"
+    ],
+    "A35289-e51170": [
+      "george"
+    ],
+    "A35289-e51220": [
+      "edward"
+    ],
+    "A35289-e51250": [
+      "queen-margaret"
+    ],
+    "A35289-e51300": [
+      "richard"
+    ],
+    "A35289-e51330": [
+      "queen-margaret"
+    ],
+    "A35289-e51410": [
+      "richard"
+    ],
+    "A35289-e51450": [
+      "edward"
+    ],
+    "A35289-e51500": [
+      "queen-margaret"
+    ],
+    "A35289-e51550": [
+      "george"
+    ],
+    "A35289-e51580": [
+      "queen-margaret"
+    ],
+    "A35289-e51610": [
+      "edward"
+    ],
+    "A35289-e51640": [
+      "queen-margaret"
+    ],
+    "A35289-e51710": [
+      "richard"
+    ],
+    "A35289-e51810": [
+      "george"
+    ],
+    "A35289-e51850": [
+      "edward"
+    ],
+    "A35289-e51920": [
+      "ghost-of-richard-the-second"
+    ],
+    "A35289-e52300": [
+      "spirit"
+    ],
+    "A35289-e52990": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e53140": [
+      "richard"
+    ],
+    "A35289-e53170": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e53210": [
+      "richard"
+    ],
+    "A35289-e53250": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e53300": [
+      "richard"
+    ],
+    "A35289-e53360": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e53560": [
+      "richard"
+    ],
+    "A35289-e53620": [
+      "king-henry-the-sixth"
+    ],
+    "A35289-e53660": [
+      "richard"
+    ],
+    "A35289-e53720": [
+      "richard"
+    ],
+    "A35289-e53750": [
+      "lieutenant"
+    ],
+    "A35289-e53810": [
+      "richard"
+    ],
+    "A35289-e53880": [
+      "edward"
+    ],
+    "A35289-e53910": [
+      "lieutenant"
+    ],
+    "A35289-e53940": [
+      "edward"
+    ],
+    "A35289-e53990": [
+      "lieutenant"
+    ],
+    "A35289-e54060": [
+      "george"
+    ],
+    "A35289-e54090": [
+      "edward"
+    ],
+    "A35289-e54310": [
+      "george"
+    ],
+    "A35289-e54340": [
+      "edward"
+    ]
+  }
+}

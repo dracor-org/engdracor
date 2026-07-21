@@ -1,0 +1,2881 @@
+{
+  "particDesc": [
+    {
+      "name": "Confessor",
+      "id": "confessor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Person",
+      "id": "person",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "People",
+      "id": "people",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Guard 1",
+      "id": "guard-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldiers",
+      "id": "soldiers",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Surgeon",
+      "id": "surgeon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer",
+      "id": "officer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Guard 2",
+      "id": "guard-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Gentleman 2",
+      "id": "gentleman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+	{
+      "name": "Gentleman",
+      "id": "gentleman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Hypolita",
+      "id": "hypolita",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Women",
+      "id": "women",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lubomirsky",
+      "id": "lubomirsky",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Gentleman 1",
+      "id": "gentleman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Guards",
+      "id": "guards",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Porter",
+      "id": "porter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cardinal",
+      "name": "Cardinal",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ladislaus",
+      "name": "Ladislaus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "demetrius",
+      "name": "Demetrius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sharnofsky",
+      "name": "Sharnofsky",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ossolinsky",
+      "name": "Ossolinsky",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cassonofsky",
+      "name": "Cassonofsky",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "colimsky",
+      "name": "Colimsky",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "landlord",
+      "name": "Landlord ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "theodore",
+      "name": "Theodore",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "alexey",
+      "name": "Alexey",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "battista",
+      "name": "Battista",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "juliana",
+      "name": "Juliana",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "paulina",
+      "name": "Paulina",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "joanna",
+      "name": "Joanna",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "francisca",
+      "name": "Francisca",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "emilia",
+      "name": "Emilia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A35287-e2850": [
+      "joanna"
+    ],
+    "A35287-e3050": [
+      "paulina"
+    ],
+    "A35287-e3130": [
+      "joanna"
+    ],
+    "A35287-e3170": [
+      "paulina"
+    ],
+    "A35287-e3250": [
+      "joanna"
+    ],
+    "A35287-e3290": [
+      "paulina"
+    ],
+    "A35287-e3340": [
+      "joanna"
+    ],
+    "A35287-e3380": [
+      "paulina"
+    ],
+    "A35287-e3410": [
+      "joanna"
+    ],
+    "A35287-e3480": [
+      "paulina"
+    ],
+    "A35287-e3540": [
+      "joanna"
+    ],
+    "A35287-e3590": [
+      "paulina"
+    ],
+    "A35287-e3700": [
+      "joanna"
+    ],
+    "A35287-e3730": [
+      "alexey"
+    ],
+    "A35287-e3760": [
+      "joanna"
+    ],
+    "A35287-e3790": [
+      "alexey"
+    ],
+    "A35287-e3820": [
+      "joanna"
+    ],
+    "A35287-e3860": [
+      "paulina"
+    ],
+    "A35287-e3900": [
+      "alexey"
+    ],
+    "A35287-e3940": [
+      "paulina"
+    ],
+    "A35287-e3970": [
+      "alexey"
+    ],
+    "A35287-e4100": [
+      "paulina"
+    ],
+    "A35287-e4150": [
+      "joanna"
+    ],
+    "A35287-e4180": [
+      "alexey"
+    ],
+    "A35287-e4260": [
+      "guards"
+    ],
+    "A35287-e4290": [
+      "landlord"
+    ],
+    "A35287-e4320": [
+      "guards"
+    ],
+    "A35287-e4360": [
+      "landlord"
+    ],
+    "A35287-e4390": [
+      "guards"
+    ],
+    "A35287-e4440": [
+      "paulina"
+    ],
+    "A35287-e4470": [
+      "guards"
+    ],
+    "A35287-e4500": [
+      "paulina"
+    ],
+    "A35287-e4560": [
+      "guards"
+    ],
+    "A35287-e4590": [
+      "paulina"
+    ],
+    "A35287-e4620": [
+      "joanna"
+    ],
+    "A35287-e4650": [
+      "guards"
+    ],
+    "A35287-e4680": [
+      "paulina"
+    ],
+    "A35287-e4710": [
+      "guards"
+    ],
+    "A35287-e4750": [
+      "landlord"
+    ],
+    "A35287-e4780": [
+      "paulina"
+    ],
+    "A35287-e4830": [
+      "joanna"
+    ],
+    "A35287-e4860": [
+      "landlord"
+    ],
+    "A35287-e4950": [
+      "demetrius"
+    ],
+    "A35287-e5000": [
+      "battista"
+    ],
+    "A35287-e5090": [
+      "demetrius"
+    ],
+    "A35287-e5140": [
+      "landlord"
+    ],
+    "A35287-e5190": [
+      "demetrius"
+    ],
+    "A35287-e5240": [
+      "landlord"
+    ],
+    "A35287-e5280": [
+      "battista"
+    ],
+    "A35287-e5350": [
+      "landlord"
+    ],
+    "A35287-e5390": [
+      "demetrius"
+    ],
+    "A35287-e5470": [
+      "battista"
+    ],
+    "A35287-e5560": [
+      "landlord"
+    ],
+    "A35287-e5640": [
+      "servant"
+    ],
+    "A35287-e5680": [
+      "landlord"
+    ],
+    "A35287-e5830": [
+      "ladislaus"
+    ],
+    "A35287-e5900": [
+      "theodore"
+    ],
+    "A35287-e5950": [
+      "ladislaus"
+    ],
+    "A35287-e6020": [
+      "theodore"
+    ],
+    "A35287-e6050": [
+      "ladislaus"
+    ],
+    "A35287-e6140": [
+      "theodore"
+    ],
+    "A35287-e6190": [
+      "ladislaus"
+    ],
+    "A35287-e6380": [
+      "theodore"
+    ],
+    "A35287-e6410": [
+      "ladislaus"
+    ],
+    "A35287-e6520": [
+      "theodore"
+    ],
+    "A35287-e6600": [
+      "ladislaus"
+    ],
+    "A35287-e6650": [
+      "landlord"
+    ],
+    "A35287-e6720": [
+      "theodore"
+    ],
+    "A35287-e6790": [
+      "landlord"
+    ],
+    "A35287-e6840": [
+      "theodore"
+    ],
+    "A35287-e6880": [
+      "landlord"
+    ],
+    "A35287-e6920": [
+      "ladislaus"
+    ],
+    "A35287-e6950": [
+      "theodore"
+    ],
+    "A35287-e6990": [
+      "landlord"
+    ],
+    "A35287-e7090": [
+      "theodore"
+    ],
+    "A35287-e7140": [
+      "landlord"
+    ],
+    "A35287-e7260": [
+      "theodore"
+    ],
+    "A35287-e7290": [
+      "landlord"
+    ],
+    "A35287-e7340": [
+      "ladislaus"
+    ],
+    "A35287-e7370": [
+      "landlord"
+    ],
+    "A35287-e7430": [
+      "ladislaus"
+    ],
+    "A35287-e7470": [
+      "theodore"
+    ],
+    "A35287-e7500": [
+      "landlord"
+    ],
+    "A35287-e7600": [
+      "theodore"
+    ],
+    "A35287-e7640": [
+      "ladislaus"
+    ],
+    "A35287-e7690": [
+      "landlord"
+    ],
+    "A35287-e7720": [
+      "servant"
+    ],
+    "A35287-e7760": [
+      "landlord"
+    ],
+    "A35287-e7820": [
+      "battista"
+    ],
+    "A35287-e7850": [
+      "ladislaus"
+    ],
+    "A35287-e7890": [
+      "demetrius"
+    ],
+    "A35287-e7950": [
+      "battista"
+    ],
+    "A35287-e7980": [
+      "demetrius"
+    ],
+    "A35287-e8010": [
+      "theodore"
+    ],
+    "A35287-e8070": [
+      "ladislaus"
+    ],
+    "A35287-e8110": [
+      "landlord"
+    ],
+    "A35287-e8180": [
+      "battista"
+    ],
+    "A35287-e8270": [
+      "demetrius"
+    ],
+    "A35287-e8340": [
+      "battista"
+    ],
+    "A35287-e8380": [
+      "demetrius"
+    ],
+    "A35287-e8480": [
+      "francisca"
+    ],
+    "A35287-e8510": [
+      "emilia"
+    ],
+    "A35287-e8590": [
+      "francisca"
+    ],
+    "A35287-e8680": [
+      "emilia"
+    ],
+    "A35287-e8760": [
+      "juliana"
+    ],
+    "A35287-e8890": [
+      "sharnofsky"
+    ],
+    "A35287-e9010": [
+      "gentleman"
+    ],
+    "A35287-e9040": [
+      "juliana"
+    ],
+    "A35287-e9090": [
+      "sharnofsky"
+    ],
+    "A35287-e9170": [
+      "colimsky"
+    ],
+    "A35287-e9270": [
+      "sharnofsky"
+    ],
+    "A35287-e9300": [
+      "colimsky"
+    ],
+    "A35287-e9430": [
+      "sharnofsky"
+    ],
+    "A35287-e9520": [
+      "colimsky"
+    ],
+    "A35287-e9660": [
+      "juliana"
+    ],
+    "A35287-e9720": [
+      "colimsky"
+    ],
+    "A35287-e9770": [
+      "sharnofsky"
+    ],
+    "A35287-e9840": [
+      "women"
+    ],
+    "A35287-e9870": [
+      "cassonofsky"
+    ],
+    "A35287-e9930": [
+      "ossolinsky"
+    ],
+    "A35287-e9960": [
+      "colimsky"
+    ],
+    "A35287-e9990": [
+      "cassonofsky"
+    ],
+    "A35287-e10050": [
+      "colimsky"
+    ],
+    "A35287-e10120": [
+      "sharnofsky"
+    ],
+    "A35287-e10150": [
+      "ossolinsky",
+      "lubomirsky"
+    ],
+    "A35287-e10180": [
+      "cassonofsky"
+    ],
+    "A35287-e10250": [
+      "women"
+    ],
+    "A35287-e10280": [
+      "juliana"
+    ],
+    "A35287-e10360": [
+      "colimsky"
+    ],
+    "A35287-e10490": [
+      "sharnofsky"
+    ],
+    "A35287-e10530": [
+      "juliana"
+    ],
+    "A35287-e10620": [
+      "cardinal"
+    ],
+    "A35287-e10650": [
+      "ossolinsky"
+    ],
+    "A35287-e10690": [
+      "cardinal"
+    ],
+    "A35287-e10720": [
+      "cassonofsky"
+    ],
+    "A35287-e10800": [
+      "lubomirsky"
+    ],
+    "A35287-e10850": [
+      "cassonofsky"
+    ],
+    "A35287-e10890": [
+      "cardinal"
+    ],
+    "A35287-e10990": [
+      "cassonofsky"
+    ],
+    "A35287-e11050": [
+      "ossolinsky"
+    ],
+    "A35287-e11150": [
+      "cardinal"
+    ],
+    "A35287-e11180": [
+      "cassonofsky"
+    ],
+    "A35287-e11250": [
+      "cardinal"
+    ],
+    "A35287-e11670": [
+      "guards"
+    ],
+    "A35287-e11710": [
+      "landlord"
+    ],
+    "A35287-e11870": [
+      "landlord"
+    ],
+    "A35287-e11930": [
+      "paulina"
+    ],
+    "A35287-e11960": [
+      "landlord"
+    ],
+    "A35287-e12010": [
+      "alexey"
+    ],
+    "A35287-e12060": [
+      "paulina"
+    ],
+    "A35287-e12100": [
+      "joanna"
+    ],
+    "A35287-e12130": [
+      "alexey"
+    ],
+    "A35287-e12210": [
+      "landlord"
+    ],
+    "A35287-e12240": [
+      "ladislaus",
+	  "theodore",
+	  "demetrius",
+	  "battista"
+    ],
+    "A35287-e12270": [
+      "landlord"
+    ],
+    "A35287-e12320": [
+      "theodore"
+    ],
+    "A35287-e12370": [
+      "ladislaus"
+    ],
+    "A35287-e12410": [
+      "paulina"
+    ],
+    "A35287-e12450": [
+      "demetrius"
+    ],
+    "A35287-e12480": [
+      "battista"
+    ],
+    "A35287-e12520": [
+      "servant"
+    ],
+    "A35287-e12560": [
+      "landlord"
+    ],
+    "A35287-e12590": [
+      "servant"
+    ],
+    "A35287-e12620": [
+      "landlord"
+    ],
+    "A35287-e12660": [
+      "demetrius"
+    ],
+    "A35287-e12690": [
+      "battista"
+    ],
+    "A35287-e12720": [
+      "demetrius"
+    ],
+    "A35287-e12750": [
+      "battista"
+    ],
+    "A35287-e12780": [
+      "ladislaus"
+    ],
+    "A35287-e12860": [
+      "alexey"
+    ],
+    "A35287-e12890": [
+      "battista"
+    ],
+    "A35287-e12920": [
+      "demetrius"
+    ],
+    "A35287-e12950": [
+      "battista"
+    ],
+    "A35287-e12980": [
+      "demetrius"
+    ],
+    "A35287-e13010": [
+      "battista"
+    ],
+    "A35287-e13050": [
+      "demetrius"
+    ],
+    "A35287-e13130": [
+      "landlord"
+    ],
+    "A35287-e13160": [
+      "ladislaus"
+    ],
+    "A35287-e13190": [
+      "landlord"
+    ],
+    "A35287-e13230": [
+      "paulina"
+    ],
+    "A35287-e13270": [
+      "ladislaus"
+    ],
+    "A35287-e13300": [
+      "landlord"
+    ],
+    "A35287-e13430": [
+      "theodore"
+    ],
+    "A35287-e13460": [
+      "ladislaus"
+    ],
+    "A35287-e13490": [
+      "landlord"
+    ],
+    "A35287-e13520": [
+      "paulina"
+    ],
+    "A35287-e13550": [
+      "ladislaus"
+    ],
+    "A35287-e13580": [
+      "landlord"
+    ],
+    "A35287-e13640": [
+      "ladislaus"
+    ],
+    "A35287-e13680": [
+      "landlord"
+    ],
+    "A35287-e13730": [
+      "ladislaus"
+    ],
+    "A35287-e13760": [
+      "theodore"
+    ],
+    "A35287-e13820": [
+      "ladislaus"
+    ],
+    "A35287-e13850": [
+      "landlord"
+    ],
+    "A35287-e13920": [
+      "theodore"
+    ],
+    "A35287-e13950": [
+      "paulina"
+    ],
+    "A35287-e13980": [
+      "joanna"
+    ],
+    "A35287-e14030": [
+      "theodore"
+    ],
+    "A35287-e14100": [
+      "ladislaus"
+    ],
+    "A35287-e14130": [
+      "theodore"
+    ],
+    "A35287-e14160": [
+      "ladislaus"
+    ],
+    "A35287-e14200": [
+      "paulina"
+    ],
+    "A35287-e14240": [
+      "ladislaus"
+    ],
+    "A35287-e14270": [
+      "paulina"
+    ],
+    "A35287-e14320": [
+      "ladislaus"
+    ],
+    "A35287-e14350": [
+      "paulina"
+    ],
+    "A35287-e14390": [
+      "ladislaus"
+    ],
+    "A35287-e14430": [
+      "paulina"
+    ],
+    "A35287-e14510": [
+      "ladislaus"
+    ],
+    "A35287-e14550": [
+      "paulina"
+    ],
+    "A35287-e14590": [
+      "ladislaus"
+    ],
+    "A35287-e14670": [
+      "paulina"
+    ],
+    "A35287-e14710": [
+      "ladislaus"
+    ],
+    "A35287-e14740": [
+      "paulina"
+    ],
+    "A35287-e14770": [
+      "ladislaus"
+    ],
+    "A35287-e14840": [
+      "paulina"
+    ],
+    "A35287-e14870": [
+      "ladislaus"
+    ],
+    "A35287-e14940": [
+      "ladislaus"
+    ],
+    "A35287-e14970": [
+      "paulina"
+    ],
+    "A35287-e15000": [
+      "ladislaus"
+    ],
+    "A35287-e15030": [
+      "paulina"
+    ],
+    "A35287-e15060": [
+      "ladislaus"
+    ],
+    "A35287-e15140": [
+      "paulina"
+    ],
+    "A35287-e15220": [
+      "ladislaus"
+    ],
+    "A35287-e15250": [
+      "paulina"
+    ],
+    "A35287-e15310": [
+      "ladislaus"
+    ],
+    "A35287-e15340": [
+      "paulina"
+    ],
+    "A35287-e15430": [
+      "ladislaus"
+    ],
+    "A35287-e15460": [
+      "paulina"
+    ],
+    "A35287-e15520": [
+      "ladislaus"
+    ],
+    "A35287-e15550": [
+      "joanna"
+    ],
+    "A35287-e15610": [
+      "alexey"
+    ],
+    "A35287-e15650": [
+      "theodore"
+    ],
+    "A35287-e15690": [
+      "ladislaus"
+    ],
+    "A35287-e15720": [
+      "paulina"
+    ],
+    "A35287-e15950": [
+      "ladislaus"
+    ],
+    "A35287-e16000": [
+      "paulina"
+    ],
+    "A35287-e16040": [
+      "ladislaus"
+    ],
+    "A35287-e16070": [
+      "paulina"
+    ],
+    "A35287-e16110": [
+      "ladislaus"
+    ],
+    "A35287-e16140": [
+      "paulina"
+    ],
+    "A35287-e16230": [
+      "ladislaus"
+    ],
+    "A35287-e16270": [
+      "paulina"
+    ],
+    "A35287-e16320": [
+      "joanna",
+      "alexey"
+    ],
+    "A35287-e16370": [
+      "paulina"
+    ],
+    "A35287-e16410": [
+      "alexey"
+    ],
+    "A35287-e16440": [
+      "paulina"
+    ],
+    "A35287-e16470": [
+      "joanna"
+    ],
+    "A35287-e16500": [
+      "paulina"
+    ],
+    "A35287-e16530": [
+      "joanna"
+    ],
+    "A35287-e16570": [
+      "alexey"
+    ],
+    "A35287-e16600": [
+      "theodore"
+    ],
+    "A35287-e16630": [
+      "juliana"
+    ],
+    "A35287-e16660": [
+      "sharnofsky"
+    ],
+    "A35287-e16700": [
+      "theodore"
+    ],
+    "A35287-e16730": [
+      "ladislaus"
+    ],
+    "A35287-e16880": [
+      "sharnofsky"
+    ],
+    "A35287-e16930": [
+      "ladislaus"
+    ],
+    "A35287-e16990": [
+      "theodore"
+    ],
+    "A35287-e17080": [
+      "juliana"
+    ],
+    "A35287-e17190": [
+      "sharnofsky"
+    ],
+    "A35287-e17390": [
+      "ladislaus"
+    ],
+    "A35287-e17440": [
+      "theodore"
+    ],
+    "A35287-e17480": [
+      "ladislaus"
+    ],
+    "A35287-e17520": [
+      "theodore"
+    ],
+    "A35287-e17550": [
+      "sharnofsky"
+    ],
+    "A35287-e17580": [
+      "hypolita"
+    ],
+    "A35287-e17610": [
+      "juliana"
+    ],
+    "A35287-e17670": [
+      "ladislaus"
+    ],
+    "A35287-e17810": [
+      "theodore"
+    ],
+    "A35287-e17840": [
+      "ladislaus"
+    ],
+    "A35287-e17870": [
+      "theodore"
+    ],
+    "A35287-e17920": [
+      "ladislaus"
+    ],
+    "A35287-e17950": [
+      "theodore"
+    ],
+    "A35287-e18020": [
+      "ladislaus"
+    ],
+    "A35287-e18240": [
+      "juliana"
+    ],
+    "A35287-e18270": [
+      "sharnofsky"
+    ],
+    "A35287-e18300": [
+      "juliana"
+    ],
+    "A35287-e18370": [
+      "emilia"
+    ],
+    "A35287-e18400": [
+      "francisca"
+    ],
+    "A35287-e18440": [
+      "emilia"
+    ],
+    "A35287-e18470": [
+      "juliana"
+    ],
+    "A35287-e18520": [
+      "colimsky"
+    ],
+    "A35287-e18550": [
+      "juliana"
+    ],
+    "A35287-e18580": [
+      "colimsky"
+    ],
+    "A35287-e18730": [
+      "juliana"
+    ],
+    "A35287-e18830": [
+      "paulina"
+    ],
+    "A35287-e18860": [
+      "joanna"
+    ],
+    "A35287-e18890": [
+      "paulina"
+    ],
+    "A35287-e18970": [
+      "joanna"
+    ],
+    "A35287-e19000": [
+      "paulina"
+    ],
+    "A35287-e19040": [
+      "joanna"
+    ],
+    "A35287-e19070": [
+      "paulina"
+    ],
+    "A35287-e19250": [
+      "alexey"
+    ],
+    "A35287-e19380": [
+      "paulina"
+    ],
+    "A35287-e19450": [
+      "joanna"
+    ],
+    "A35287-e19480": [
+      "paulina"
+    ],
+    "A35287-e19590": [
+      "cassonofsky",
+	  "lubomirsky"
+    ],
+    "A35287-e19620": [
+      "ossolinsky"
+    ],
+    "A35287-e19650": [
+      "cassonofsky"
+    ],
+    "A35287-e19690": [
+      "lubomirsky"
+    ],
+    "A35287-e19720": [
+      "cassonofsky"
+    ],
+    "A35287-e19770": [
+      "ossolinsky"
+    ],
+    "A35287-e19800": [
+      "cassonofsky"
+    ],
+    "A35287-e19840": [
+      "lubomirsky"
+    ],
+    "A35287-e19870": [
+      "ossolinsky"
+    ],
+    "A35287-e19900": [
+      "lubomirsky"
+    ],
+    "A35287-e19930": [
+      "ossolinsky"
+    ],
+    "A35287-e19960": [
+      "cassonofsky"
+    ],
+    "A35287-e19990": [
+      "lubomirsky"
+    ],
+    "A35287-e20020": [
+      "cassonofsky"
+    ],
+    "A35287-e20050": [
+      "ossolinsky"
+    ],
+    "A35287-e20080": [
+      "cassonofsky"
+    ],
+    "A35287-e20120": [
+      "lubomirsky"
+    ],
+    "A35287-e20150": [
+      "cassonofsky"
+    ],
+    "A35287-e20180": [
+      "gentleman-1"
+    ],
+    "A35287-e20230": [
+      "ossolinsky"
+    ],
+    "A35287-e20280": [
+      "cassonofsky"
+    ],
+    "A35287-e20320": [
+      "gentleman-2"
+    ],
+    "A35287-e20360": [
+      "gentleman-1"
+    ],
+    "A35287-e20410": [
+      "gentleman-2"
+    ],
+    "A35287-e20450": [
+      "gentleman-1"
+    ],
+    "A35287-e20560": [
+      "demetrius"
+    ],
+    "A35287-e20590": [
+      "battista"
+    ],
+    "A35287-e20620": [
+      "demetrius"
+    ],
+    "A35287-e20660": [
+      "juliana"
+    ],
+    "A35287-e20690": [
+      "battista"
+    ],
+    "A35287-e20720": [
+      "demetrius"
+    ],
+    "A35287-e20770": [
+      "battista"
+    ],
+    "A35287-e20800": [
+      "guards"
+    ],
+    "A35287-e20830": [
+      "demetrius"
+    ],
+    "A35287-e20870": [
+      "guards"
+    ],
+    "A35287-e20900": [
+      "guard-2"
+    ],
+    "A35287-e20940": [
+      "battista"
+    ],
+    "A35287-e20980": [
+      "sharnofsky",
+      "colimsky"
+    ],
+    "A35287-e21010": [
+      "guards"
+    ],
+    "A35287-e21040": [
+      "juliana"
+    ],
+    "A35287-e21070": [
+      "demetrius"
+    ],
+    "A35287-e21100": [
+      "battista"
+    ],
+    "A35287-e21130": [
+      "sharnofsky"
+    ],
+    "A35287-e21180": [
+      "juliana"
+    ],
+    "A35287-e21210": [
+      "demetrius"
+    ],
+    "A35287-e21250": [
+      "juliana"
+    ],
+    "A35287-e21280": [
+      "battista"
+    ],
+    "A35287-e21310": [
+      "demetrius"
+    ],
+    "A35287-e21340": [
+      "juliana"
+    ],
+    "A35287-e21370": [
+      "battista"
+    ],
+    "A35287-e21400": [
+      "demetrius"
+    ],
+    "A35287-e21430": [
+      "sharnofsky"
+    ],
+    "A35287-e21460": [
+      "demetrius"
+    ],
+    "A35287-e21510": [
+      "colimsky"
+    ],
+    "A35287-e21540": [
+      "juliana"
+    ],
+    "A35287-e22010": [
+      "officer"
+    ],
+    "A35287-e22040": [
+      "juliana"
+    ],
+    "A35287-e22140": [
+      "colimsky"
+    ],
+    "A35287-e22190": [
+      "officer"
+    ],
+    "A35287-e22220": [
+      "juliana"
+    ],
+    "A35287-e22250": [
+      "sharnofsky"
+    ],
+    "A35287-e22320": [
+      "cardinal"
+    ],
+    "A35287-e22370": [
+      "juliana"
+    ],
+    "A35287-e22410": [
+      "cardinal"
+    ],
+    "A35287-e22580": [
+      "juliana"
+    ],
+    "A35287-e22800": [
+      "cardinal"
+    ],
+    "A35287-e23170": [
+      "sharnofsky"
+    ],
+    "A35287-e23550": [
+      "cardinal"
+    ],
+    "A35287-e23680": [
+      "ossolinsky"
+    ],
+    "A35287-e23710": [
+      "lubomirsky"
+    ],
+    "A35287-e23740": [
+      "cassonofsky"
+    ],
+    "A35287-e23780": [
+      "sharnofsky"
+    ],
+    "A35287-e23810": [
+      "juliana"
+    ],
+    "A35287-e23840": [
+      "sharnofsky"
+    ],
+    "A35287-e23890": [
+      "juliana"
+    ],
+    "A35287-e23960": [
+      "cardinal"
+    ],
+    "A35287-e24030": [
+      "juliana"
+    ],
+    "A35287-e24110": [
+      "cardinal"
+    ],
+    "A35287-e24240": [
+      "juliana"
+    ],
+    "A35287-e24400": [
+      "theodore"
+    ],
+    "A35287-e24430": [
+      "surgeon"
+    ],
+    "A35287-e24460": [
+      "theodore"
+    ],
+    "A35287-e24540": [
+      "landlord"
+    ],
+    "A35287-e24570": [
+      "theodore"
+    ],
+    "A35287-e24600": [
+      "landlord"
+    ],
+    "A35287-e24630": [
+      "theodore"
+    ],
+    "A35287-e24660": [
+      "landlord"
+    ],
+    "A35287-e24690": [
+      "theodore"
+    ],
+    "A35287-e24720": [
+      "landlord"
+    ],
+    "A35287-e24780": [
+      "joanna"
+    ],
+    "A35287-e24810": [
+      "alexey"
+    ],
+    "A35287-e24840": [
+      "landlord"
+    ],
+    "A35287-e24900": [
+      "joanna"
+    ],
+    "A35287-e24960": [
+      "landlord"
+    ],
+    "A35287-e24990": [
+      "joanna"
+    ],
+    "A35287-e25020": [
+      "landlord"
+    ],
+    "A35287-e25050": [
+      "joanna"
+    ],
+    "A35287-e25080": [
+      "landlord"
+    ],
+    "A35287-e25110": [
+      "alexey"
+    ],
+    "A35287-e25140": [
+      "landlord"
+    ],
+    "A35287-e25170": [
+      "theodore"
+    ],
+    "A35287-e25200": [
+      "joanna"
+    ],
+    "A35287-e25230": [
+      "alexey"
+    ],
+    "A35287-e25260": [
+      "joanna"
+    ],
+    "A35287-e25290": [
+      "landlord"
+    ],
+    "A35287-e25320": [
+      "alexey"
+    ],
+    "A35287-e25350": [
+      "landlord"
+    ],
+    "A35287-e25380": [
+      "theodore"
+    ],
+    "A35287-e25410": [
+      "landlord"
+    ],
+    "A35287-e25450": [
+      "alexey"
+    ],
+    "A35287-e25480": [
+      "theodore"
+    ],
+    "A35287-e25510": [
+      "landlord"
+    ],
+    "A35287-e25540": [
+      "theodore"
+    ],
+    "A35287-e25570": [
+      "joanna"
+    ],
+    "A35287-e25600": [
+      "alexey"
+    ],
+    "A35287-e25630": [
+      "surgeon"
+    ],
+    "A35287-e25660": [
+      "landlord"
+    ],
+    "A35287-e25710": [
+      "surgeon"
+    ],
+    "A35287-e25740": [
+      "alexey"
+    ],
+    "A35287-e25770": [
+      "landlord"
+    ],
+    "A35287-e25850": [
+      "theodore"
+    ],
+    "A35287-e25880": [
+      "ladislaus"
+    ],
+    "A35287-e25920": [
+      "theodore"
+    ],
+    "A35287-e25950": [
+      "landlord"
+    ],
+    "A35287-e25990": [
+      "ladislaus"
+    ],
+    "A35287-e26040": [
+      "theodore"
+    ],
+    "A35287-e26070": [
+      "ladislaus"
+    ],
+    "A35287-e26250": [
+      "paulina"
+    ],
+    "A35287-e26290": [
+      "ladislaus"
+    ],
+    "A35287-e26460": [
+      "theodore"
+    ],
+    "A35287-e26520": [
+      "paulina"
+    ],
+    "A35287-e26620": [
+      "joanna"
+    ],
+    "A35287-e26650": [
+      "alexey"
+    ],
+    "A35287-e26680": [
+      "paulina"
+    ],
+    "A35287-e26750": [
+      "alexey"
+    ],
+    "A35287-e26780": [
+      "joanna"
+    ],
+    "A35287-e26810": [
+      "paulina"
+    ],
+    "A35287-e26940": [
+      "ossolinsky",
+      "cassonofsky"
+    ],
+    "A35287-e27010": [
+      "lubomirsky"
+    ],
+    "A35287-e27060": [
+      "cassonofsky"
+    ],
+    "A35287-e27090": [
+      "ossolinsky"
+    ],
+    "A35287-e27140": [
+      "demetrius"
+    ],
+    "A35287-e27220": [
+      "battista"
+    ],
+    "A35287-e27300": [
+      "colimsky"
+    ],
+    "A35287-e27370": [
+      "officer"
+    ],
+    "A35287-e27400": [
+      "colimsky"
+    ],
+    "A35287-e27450": [
+      "officer"
+    ],
+    "A35287-e27480": [
+      "colimsky"
+    ],
+    "A35287-e27540": [
+      "ladislaus"
+    ],
+    "A35287-e27620": [
+      "theodore"
+    ],
+    "A35287-e27730": [
+      "emilia",
+      "francisca"
+    ],
+    "A35287-e27800": [
+      "juliana"
+    ],
+    "A35287-e27840": [
+      "sharnofsky"
+    ],
+    "A35287-e27890": [
+      "juliana"
+    ],
+    "A35287-e27930": [
+      "sharnofsky"
+    ],
+    "A35287-e27970": [
+      "ossolinsky"
+    ],
+    "A35287-e28020": [
+      "demetrius"
+    ],
+    "A35287-e28070": [
+      "cassonofsky"
+    ],
+    "A35287-e28100": [
+      "demetrius"
+    ],
+    "A35287-e28200": [
+      "battista"
+    ],
+    "A35287-e28230": [
+      "ossolinsky",
+      "cassonofsky",
+      "lubomirsky"
+    ],
+    "A35287-e28270": [
+      "sharnofsky"
+    ],
+    "A35287-e28300": [
+      "juliana"
+    ],
+    "A35287-e28340": [
+      "emilia",
+      "francisca"
+    ],
+    "A35287-e28400": [
+      "ossolinsky",
+      "cassonofsky",
+      "lubomirsky"
+    ],
+    "A35287-e28430": [
+      "cassonofsky"
+    ],
+    "A35287-e28460": [
+      "francisca"
+    ],
+    "A35287-e28490": [
+      "ossolinsky",
+      "cassonofsky",
+      "lubomirsky"
+    ],
+    "A35287-e28520": [
+      "ossolinsky"
+    ],
+    "A35287-e28570": [
+      "lubomirsky"
+    ],
+    "A35287-e28610": [
+      "demetrius"
+    ],
+    "A35287-e28640": [
+      "battista"
+    ],
+    "A35287-e28680": [
+      "cassonofsky"
+    ],
+    "A35287-e28710": [
+      "juliana"
+    ],
+    "A35287-e28750": [
+      "sharnofsky"
+    ],
+    "A35287-e28780": [
+      "cassonofsky"
+    ],
+    "A35287-e28830": [
+      "emilia",
+      "francisca"
+    ],
+    "A35287-e28860": [
+      "juliana"
+    ],
+    "A35287-e28890": [
+      "sharnofsky"
+    ],
+    "A35287-e28920": [
+      "cassonofsky"
+    ],
+    "A35287-e28960": [
+      "sharnofsky"
+    ],
+    "A35287-e28990": [
+      "juliana"
+    ],
+    "A35287-e29030": [
+      "cassonofsky"
+    ],
+    "A35287-e29110": [
+      "ossolinsky"
+    ],
+    "A35287-e29140": [
+      "demetrius"
+    ],
+    "A35287-e29250": [
+      "cassonofsky"
+    ],
+    "A35287-e29280": [
+      "ossolinsky"
+    ],
+    "A35287-e29310": [
+      "demetrius"
+    ],
+    "A35287-e29390": [
+      "ossolinsky"
+    ],
+    "A35287-e29450": [
+      "cassonofsky"
+    ],
+    "A35287-e29480": [
+      "ossolinsky",
+      "cassonofsky"
+    ],
+    "A35287-e29530": [
+      "lubomirsky"
+    ],
+    "A35287-e29560": [
+      "ossolinsky",
+      "cassonofsky"
+    ],
+    "A35287-e29600": [
+      "lubomirsky"
+    ],
+    "A35287-e29630": [
+      "cassonofsky"
+    ],
+    "A35287-e29660": [
+      "cassonofsky",
+      "ossolinsky"
+    ],
+    "A35287-e29690": [
+      "lubomirsky"
+    ],
+    "A35287-e29720": [
+      "demetrius"
+    ],
+    "A35287-e29760": [
+      "battista"
+    ],
+    "A35287-e29790": [
+      "demetrius"
+    ],
+    "A35287-e29820": [
+      "sharnofsky"
+    ],
+    "A35287-e29860": [
+      "juliana"
+    ],
+    "A35287-e29940": [
+      "ladislaus"
+    ],
+    "A35287-e29980": [
+      "ossolinsky",
+      "cassonofsky",
+      "lubomirsky"
+    ],
+    "A35287-e30020": [
+      "demetrius"
+    ],
+    "A35287-e30060": [
+      "sharnofsky"
+    ],
+    "A35287-e30090": [
+      "ladislaus"
+    ],
+    "A35287-e30170": [
+      "theodore"
+    ],
+    "A35287-e30250": [
+      "juliana"
+    ],
+    "A35287-e30280": [
+      "hypolita"
+    ],
+    "A35287-e30310": [
+      "juliana"
+    ],
+    "A35287-e30340": [
+      "sharnofsky"
+    ],
+    "A35287-e30380": [
+      "demetrius"
+    ],
+    "A35287-e30440": [
+      "battista"
+    ],
+    "A35287-e30510": [
+      "sharnofsky"
+    ],
+    "A35287-e30550": [
+      "soldiers",
+      "guards"
+    ],
+    "A35287-e30590": [
+      "sharnofsky"
+    ],
+    "A35287-e30640": [
+      "cassonofsky"
+    ],
+    "A35287-e30690": [
+      "colimsky"
+    ],
+    "A35287-e30720": [
+      "juliana"
+    ],
+    "A35287-e30750": [
+      "soldiers",
+      "guards"
+    ],
+    "A35287-e30780": [
+      "colimsky"
+    ],
+    "A35287-e30810": [
+      "juliana"
+    ],
+    "A35287-e30890": [
+      "colimsky"
+    ],
+    "A35287-e30920": [
+      "sharnofsky"
+    ],
+    "A35287-e30980": [
+      "cassonofsky"
+    ],
+    "A35287-e31010": [
+      "ossolinsky",
+      "lubomirsky"
+    ],
+    "A35287-e31090": [
+      "demetrius"
+    ],
+    "A35287-e31130": [
+      "battista"
+    ],
+    "A35287-e31160": [
+      "demetrius"
+    ],
+    "A35287-e31190": [
+      "battista"
+    ],
+    "A35287-e31220": [
+      "demetrius"
+    ],
+    "A35287-e31250": [
+      "battista"
+    ],
+    "A35287-e31290": [
+      "demetrius"
+    ],
+    "A35287-e31340": [
+      "battista"
+    ],
+    "A35287-e31420": [
+      "cardinal"
+    ],
+    "A35287-e31450": [
+      "officer"
+    ],
+    "A35287-e31490": [
+      "cardinal"
+    ],
+    "A35287-e31520": [
+      "officer"
+    ],
+    "A35287-e31560": [
+      "cardinal"
+    ],
+    "A35287-e31610": [
+      "gentleman"
+    ],
+    "A35287-e31640": [
+      "cardinal"
+    ],
+    "A35287-e31670": [
+      "gentleman"
+    ],
+    "A35287-e31700": [
+      "officer"
+    ],
+    "A35287-e31730": [
+      "cardinal"
+    ],
+    "A35287-e31760": [
+      "officer"
+    ],
+    "A35287-e31790": [
+      "cardinal"
+    ],
+    "A35287-e31820": [
+      "gentleman"
+    ],
+    "A35287-e31880": [
+      "cardinal"
+    ],
+    "A35287-e31920": [
+      "gentleman"
+    ],
+    "A35287-e31950": [
+      "cardinal"
+    ],
+    "A35287-e32180": [
+      "gentleman"
+    ],
+    "A35287-e32310": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "sharnofsky",
+	  "colimsky"
+    ],
+    "A35287-e32360": [
+      "juliana"
+    ],
+    "A35287-e32390": [
+      "paulina"
+    ],
+    "A35287-e32540": [
+      "joanna"
+    ],
+    "A35287-e32570": [
+      "alexey"
+    ],
+    "A35287-e32600": [
+      "landlord"
+    ],
+    "A35287-e32630": [
+      "juliana"
+    ],
+    "A35287-e32660": [
+      "colimsky"
+    ],
+    "A35287-e32690": [
+      "landlord"
+    ],
+    "A35287-e32720": [
+      "guards"
+    ],
+    "A35287-e32770": [
+      "colimsky"
+    ],
+    "A35287-e32800": [
+      "alexey",
+      "joanna"
+    ],
+    "A35287-e32840": [
+      "landlord"
+    ],
+    "A35287-e32880": [
+      "colimsky"
+    ],
+    "A35287-e32910": [
+      "landlord"
+    ],
+    "A35287-e32950": [
+      "colimsky"
+    ],
+    "A35287-e32980": [
+      "landlord"
+    ],
+    "A35287-e33030": [
+      "colimsky"
+    ],
+    "A35287-e33060": [
+      "landlord"
+    ],
+    "A35287-e33100": [
+      "juliana"
+    ],
+    "A35287-e33130": [
+      "colimsky"
+    ],
+    "A35287-e33180": [
+      "officer"
+    ],
+    "A35287-e33210": [
+      "ossolinsky"
+    ],
+    "A35287-e33240": [
+      "officer"
+    ],
+    "A35287-e33270": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "sharnofsky",
+	  "colimsky"
+    ],
+    "A35287-e33300": [
+      "officer"
+    ],
+    "A35287-e33370": [
+      "landlord"
+    ],
+    "A35287-e33450": [
+      "guards"
+    ],
+    "A35287-e33480": [
+      "landlord"
+    ],
+    "A35287-e33530": [
+      "guards"
+    ],
+    "A35287-e33560": [
+      "juliana"
+    ],
+    "A35287-e33590": [
+      "officer"
+    ],
+    "A35287-e33680": [
+      "landlord"
+    ],
+    "A35287-e33710": [
+      "colimsky"
+    ],
+    "A35287-e33740": [
+      "landlord"
+    ],
+    "A35287-e33770": [
+      "guards"
+    ],
+    "A35287-e33800": [
+      "juliana"
+    ],
+    "A35287-e33830": [
+      "landlord"
+    ],
+    "A35287-e33910": [
+      "guards"
+    ],
+    "A35287-e33950": [
+      "landlord"
+    ],
+    "A35287-e33980": [
+      "sharnofsky"
+    ],
+    "A35287-e34050": [
+      "landlord"
+    ],
+    "A35287-e34080": [
+      "colimsky"
+    ],
+    "A35287-e34110": [
+      "sharnofsky"
+    ],
+    "A35287-e34140": [
+      "colimsky"
+    ],
+    "A35287-e34170": [
+      "landlord"
+    ],
+    "A35287-e34200": [
+      "juliana"
+    ],
+    "A35287-e34250": [
+      "landlord"
+    ],
+    "A35287-e34280": [
+      "juliana"
+    ],
+    "A35287-e34390": [
+      "landlord"
+    ],
+    "A35287-e34420": [
+      "colimsky"
+    ],
+    "A35287-e34450": [
+      "sharnofsky"
+    ],
+    "A35287-e34480": [
+      "hypolita"
+    ],
+    "A35287-e34520": [
+      "colimsky"
+    ],
+    "A35287-e34580": [
+      "landlord"
+    ],
+    "A35287-e34710": [
+      "battista"
+    ],
+    "A35287-e34800": [
+      "paulina"
+    ],
+    "A35287-e34870": [
+      "battista"
+    ],
+    "A35287-e34920": [
+      "demetrius"
+    ],
+    "A35287-e34950": [
+      "battista"
+    ],
+    "A35287-e34980": [
+      "demetrius"
+    ],
+    "A35287-e35030": [
+      "paulina"
+    ],
+    "A35287-e35080": [
+      "battista"
+    ],
+    "A35287-e35120": [
+      "demetrius"
+    ],
+    "A35287-e35160": [
+      "battista"
+    ],
+    "A35287-e35190": [
+      "demetrius"
+    ],
+    "A35287-e35240": [
+      "battista"
+    ],
+    "A35287-e35280": [
+      "demetrius"
+    ],
+    "A35287-e35310": [
+      "battista"
+    ],
+    "A35287-e35340": [
+      "demetrius"
+    ],
+    "A35287-e35400": [
+      "joanna"
+    ],
+    "A35287-e35430": [
+      "alexey"
+    ],
+    "A35287-e35460": [
+      "joanna"
+    ],
+    "A35287-e35490": [
+      "alexey"
+    ],
+    "A35287-e35520": [
+      "demetrius"
+    ],
+    "A35287-e35550": [
+      "battista"
+    ],
+    "A35287-e35580": [
+      "demetrius"
+    ],
+    "A35287-e35650": [
+      "ladislaus"
+    ],
+    "A35287-e35810": [
+      "demetrius"
+    ],
+    "A35287-e35850": [
+      "ladislaus"
+    ],
+    "A35287-e35920": [
+      "demetrius"
+    ],
+    "A35287-e35990": [
+      "battista"
+    ],
+    "A35287-e36020": [
+      "demetrius"
+    ],
+    "A35287-e36070": [
+      "battista"
+    ],
+    "A35287-e36110": [
+      "demetrius"
+    ],
+    "A35287-e36150": [
+      "battista"
+    ],
+    "A35287-e36220": [
+      "paulina"
+    ],
+    "A35287-e36260": [
+      "alexey"
+    ],
+    "A35287-e36290": [
+      "battista"
+    ],
+    "A35287-e36320": [
+      "demetrius"
+    ],
+    "A35287-e36370": [
+      "paulina"
+    ],
+    "A35287-e36410": [
+      "paulina",
+      "joanna"
+    ],
+    "A35287-e36480": [
+      "alexey"
+    ],
+    "A35287-e36530": [
+      "demetrius"
+    ],
+    "A35287-e36560": [
+      "battista"
+    ],
+    "A35287-e36600": [
+      "demetrius"
+    ],
+    "A35287-e36630": [
+      "battista"
+    ],
+    "A35287-e36670": [
+      "demetrius"
+    ],
+    "A35287-e36760": [
+      "battista"
+    ],
+    "A35287-e36830": [
+      "paulina"
+    ],
+    "A35287-e36870": [
+      "joanna"
+    ],
+    "A35287-e36920": [
+      "alexey"
+    ],
+    "A35287-e36950": [
+      "paulina"
+    ],
+    "A35287-e36980": [
+      "alexey"
+    ],
+    "A35287-e37010": [
+      "paulina"
+    ],
+    "A35287-e37050": [
+      "joanna"
+    ],
+    "A35287-e37110": [
+      "demetrius"
+    ],
+    "A35287-e37160": [
+      "demetrius"
+    ],
+    "A35287-e37190": [
+      "landlord"
+    ],
+    "A35287-e37220": [
+      "servant"
+    ],
+    "A35287-e37250": [
+      "demetrius"
+    ],
+    "A35287-e37280": [
+      "landlord"
+    ],
+    "A35287-e37310": [
+      "demetrius"
+    ],
+    "A35287-e37340": [
+      "landlord"
+    ],
+    "A35287-e37370": [
+      "demetrius"
+    ],
+    "A35287-e37400": [
+      "landlord"
+    ],
+    "A35287-e37430": [
+      "demetrius"
+    ],
+    "A35287-e37470": [
+      "landlord"
+    ],
+    "A35287-e37500": [
+      "servant"
+    ],
+    "A35287-e37550": [
+      "landlord"
+    ],
+    "A35287-e37610": [
+      "demetrius"
+    ],
+    "A35287-e37640": [
+      "servant"
+    ],
+    "A35287-e37680": [
+      "demetrius"
+    ],
+    "A35287-e37720": [
+      "servant"
+    ],
+    "A35287-e37760": [
+      "demetrius"
+    ],
+    "A35287-e37790": [
+      "servant"
+    ],
+    "A35287-e37820": [
+      "demetrius"
+    ],
+    "A35287-e37870": [
+      "servant"
+    ],
+    "A35287-e37970": [
+      "battista"
+    ],
+    "A35287-e38040": [
+      "ladislaus"
+    ],
+    "A35287-e38080": [
+      "theodore"
+    ],
+    "A35287-e38110": [
+      "ladislaus"
+    ],
+    "A35287-e38140": [
+      "paulina"
+    ],
+    "A35287-e38170": [
+      "joanna"
+    ],
+    "A35287-e38200": [
+      "theodore"
+    ],
+    "A35287-e38230": [
+      "ladislaus"
+    ],
+    "A35287-e38410": [
+      "theodore"
+    ],
+    "A35287-e38440": [
+      "porter"
+    ],
+    "A35287-e38470": [
+      "ladislaus"
+    ],
+    "A35287-e38500": [
+      "theodore"
+    ],
+    "A35287-e38530": [
+      "porter"
+    ],
+    "A35287-e38560": [
+      "people"
+    ],
+    "A35287-e38590": [
+      "paulina"
+    ],
+    "A35287-e38630": [
+      "theodore"
+    ],
+    "A35287-e38700": [
+      "joanna"
+    ],
+    "A35287-e38740": [
+      "alexey"
+    ],
+    "A35287-e38790": [
+      "battista"
+    ],
+    "A35287-e38860": [
+      "landlord"
+    ],
+    "A35287-e38900": [
+      "porter"
+    ],
+    "A35287-e38930": [
+      "landlord"
+    ],
+    "A35287-e38990": [
+      "porter"
+    ],
+    "A35287-e39020": [
+      "landlord"
+    ],
+    "A35287-e39070": [
+      "demetrius"
+    ],
+    "A35287-e39100": [
+      "landlord"
+    ],
+    "A35287-e39130": [
+      "demetrius"
+    ],
+    "A35287-e39160": [
+      "porter"
+    ],
+    "A35287-e39190": [
+      "guard-1"
+    ],
+    "A35287-e39220": [
+      "people"
+    ],
+    "A35287-e39250": [
+      "landlord"
+    ],
+    "A35287-e39280": [
+      "demetrius"
+    ],
+    "A35287-e39310": [
+      "porter"
+    ],
+    "A35287-e39340": [
+      "landlord"
+    ],
+    "A35287-e39370": [
+      "demetrius"
+    ],
+    "A35287-e39400": [
+      "porter"
+    ],
+    "A35287-e39450": [
+      "landlord"
+    ],
+    "A35287-e39490": [
+      "person"
+    ],
+    "A35287-e39520": [
+      "porter"
+    ],
+    "A35287-e39590": [
+      "colimsky"
+    ],
+    "A35287-e39730": [
+      "sharnofsky"
+    ],
+    "A35287-e39920": [
+      "juliana"
+    ],
+    "A35287-e40060": [
+      "confessor"
+    ],
+    "A35287-e40100": [
+      "colimsky"
+    ],
+    "A35287-e40210": [
+      "juliana",
+	  "hypolita",
+	  "emilia",
+	  "francisca",
+	  "sharnofsky"
+    ],
+    "A35287-e40240": [
+      "juliana"
+    ],
+    "A35287-e40270": [
+      "confessor"
+    ],
+    "A35287-e40760": [
+      "confessor"
+    ],
+    "A35287-e40870": [
+      "confessor"
+    ],
+    "A35287-e41050": [
+      "confessor"
+    ],
+    "A35287-e41240": [
+      "colimsky"
+    ],
+    "A35287-e41290": [
+      "gentleman-2"
+    ],
+    "A35287-e41330": [
+      "ossolinsky"
+    ],
+    "A35287-e41420": [
+      "ladislaus"
+    ],
+    "A35287-e41460": [
+      "battista"
+    ],
+    "A35287-e41510": [
+      "juliana"
+    ],
+    "A35287-e41570": [
+      "ladislaus"
+    ],
+    "A35287-e41610": [
+      "theodore"
+    ],
+    "A35287-e41650": [
+      "paulina"
+    ],
+    "A35287-e41690": [
+      "sharnofsky"
+    ],
+    "A35287-e41730": [
+      "ossolinsky",
+      "colimsky"
+    ],
+    "A35287-e41780": [
+      "ladislaus"
+    ],
+    "A35287-e41910": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "sharnofsky",
+	  "colimsky",
+	  "ossolinsky"
+    ],
+    "A35287-e41970": [
+      "juliana"
+    ],
+    "A35287-e42020": [
+      "hypolita"
+    ],
+    "A35287-e42050": [
+      "sharnofsky"
+    ],
+    "A35287-e42100": [
+      "ladislaus"
+    ],
+    "A35287-e42130": [
+      "sharnofsky"
+    ],
+    "A35287-e42200": [
+      "colimsky"
+    ],
+    "A35287-e42230": [
+      "theodore"
+    ],
+    "A35287-e42260": [
+      "paulina"
+    ],
+    "A35287-e42300": [
+      "battista"
+    ],
+    "A35287-e42330": [
+      "juliana"
+    ],
+    "A35287-e42380": [
+      "ladislaus"
+    ],
+    "A35287-e42520": [
+      "juliana"
+    ],
+    "A35287-e42560": [
+      "colimsky"
+    ],
+    "A35287-e42610": [
+      "theodore"
+    ],
+    "A35287-e42640": [
+      "juliana"
+    ],
+    "A35287-e42740": [
+      "ladislaus"
+    ],
+    "A35287-e42820": [
+      "juliana"
+    ],
+    "A35287-e42850": [
+      "colimsky"
+    ],
+    "A35287-e42890": [
+      "juliana"
+    ],
+    "A35287-e42980": [
+      "ladislaus"
+    ],
+    "A35287-e43100": [
+      "juliana"
+    ],
+    "A35287-e43500": [
+      "confessor"
+    ],
+    "A35287-e43530": [
+      "juliana"
+    ],
+    "A35287-e43580": [
+      "ladislaus"
+    ],
+    "A35287-e43690": [
+      "battista"
+    ],
+    "A35287-e43740": [
+      "joanna"
+    ],
+    "A35287-e43770": [
+      "alexey"
+    ],
+    "A35287-e43800": [
+      "paulina"
+    ],
+    "A35287-e43850": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "colimsky",
+	  "ossolinsky"
+    ],
+    "A35287-e43880": [
+      "juliana"
+    ],
+    "A35287-e43910": [
+      "paulina"
+    ],
+    "A35287-e44040": [
+      "battista"
+    ],
+    "A35287-e44070": [
+      "ladislaus"
+    ],
+    "A35287-e44110": [
+      "paulina"
+    ],
+    "A35287-e44410": [
+      "joanna",
+      "alexey"
+    ],
+    "A35287-e44460": [
+      "paulina"
+    ],
+    "A35287-e44490": [
+      "battista"
+    ],
+    "A35287-e44530": [
+      "juliana"
+    ],
+    "A35287-e44560": [
+      "ladislaus"
+    ],
+    "A35287-e44620": [
+      "joanna"
+    ],
+    "A35287-e44650": [
+      "alexey"
+    ],
+    "A35287-e44680": [
+      "juliana"
+    ],
+    "A35287-e44710": [
+      "confessor"
+    ],
+    "A35287-e44760": [
+      "juliana"
+    ],
+    "A35287-e44810": [
+      "battista"
+    ],
+    "A35287-e44850": [
+      "juliana"
+    ],
+    "A35287-e44880": [
+      "battista"
+    ],
+    "A35287-e45000": [
+      "ladislaus"
+    ],
+    "A35287-e45030": [
+      "paulina"
+    ],
+    "A35287-e45070": [
+      "battista"
+    ],
+    "A35287-e45200": [
+      "juliana"
+    ],
+    "A35287-e45250": [
+      "battista"
+    ],
+    "A35287-e45350": [
+      "juliana",
+	  "hypolita",
+	  "emilia",
+	  "francisca",
+	  "sharnofsky",
+	  "colimsky",
+	  "ossolinsky"
+    ],
+    "A35287-e45380": [
+      "battista"
+    ],
+    "A35287-e45460": [
+      "colimsky"
+    ],
+    "A35287-e45490": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "sharnofsky",
+	  "juliana",
+	  "ossolinsky"
+    ],
+    "A35287-e45520": [
+      "paulina"
+    ],
+    "A35287-e45550": [
+      "battista"
+    ],
+    "A35287-e45620": [
+      "ladislaus"
+    ],
+    "A35287-e45650": [
+      "landlord"
+    ],
+    "A35287-e45750": [
+      "demetrius"
+    ],
+    "A35287-e45780": [
+      "guards"
+    ],
+    "A35287-e45810": [
+      "landlord"
+    ],
+    "A35287-e45840": [
+      "demetrius"
+    ],
+    "A35287-e45900": [
+      "battista"
+    ],
+    "A35287-e45950": [
+      "demetrius"
+    ],
+    "A35287-e45990": [
+      "landlord"
+    ],
+    "A35287-e46020": [
+      "battista"
+    ],
+    "A35287-e46050": [
+      "demetrius"
+    ],
+    "A35287-e46080": [
+      "paulina"
+    ],
+    "A35287-e46140": [
+      "landlord"
+    ],
+    "A35287-e46170": [
+      "paulina"
+    ],
+    "A35287-e46300": [
+      "landlord"
+    ],
+    "A35287-e46330": [
+      "demetrius"
+    ],
+    "A35287-e46470": [
+      "landlord"
+    ],
+    "A35287-e46500": [
+      "paulina"
+    ],
+    "A35287-e46550": [
+      "landlord"
+    ],
+    "A35287-e46590": [
+      "demetrius"
+    ],
+    "A35287-e46620": [
+      "paulina"
+    ],
+    "A35287-e46660": [
+      "demetrius"
+    ],
+    "A35287-e46690": [
+      "alexey"
+    ],
+    "A35287-e46740": [
+      "demetrius"
+    ],
+    "A35287-e46780": [
+      "ladislaus"
+    ],
+    "A35287-e46810": [
+      "landlord"
+    ],
+    "A35287-e46840": [
+      "paulina"
+    ],
+    "A35287-e46870": [
+      "juliana"
+    ],
+    "A35287-e46900": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "demetrius",
+	  "colimsky",
+	  "battista"
+    ],
+    "A35287-e46930": [
+      "colimsky"
+    ],
+    "A35287-e47010": [
+      "landlord"
+    ],
+    "A35287-e47050": [
+      "colimsky"
+    ],
+    "A35287-e47110": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "demetrius",
+	  "colimsky",
+	  "battista"
+    ],
+    "A35287-e47170": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "demetrius",
+	  "colimsky",
+	  "battista"
+    ],
+    "A35287-e47230": [
+      "ladislaus",
+      "juliana"
+    ],
+    "A35287-e47260": [
+      "landlord"
+    ],
+    "A35287-e47290": [
+      "ladislaus"
+    ],
+    "A35287-e47320": [
+      "landlord"
+    ],
+    "A35287-e47370": [
+      "ladislaus"
+    ],
+    "A35287-e47400": [
+      "landlord"
+    ],
+    "A35287-e47440": [
+      "ladislaus"
+    ],
+    "A35287-e47470": [
+      "landlord"
+    ],
+    "A35287-e47500": [
+      "ladislaus"
+    ],
+    "A35287-e47540": [
+      "landlord"
+    ],
+    "A35287-e47600": [
+      "colimsky"
+    ],
+    "A35287-e47640": [
+      "ladislaus"
+    ],
+    "A35287-e47710": [
+      "ossolinsky",
+      "cassonofsky"
+    ],
+    "A35287-e47740": [
+      "juliana"
+    ],
+    "A35287-e47880": [
+      "ladislaus"
+    ],
+    "A35287-e47920": [
+      "paulina"
+    ],
+    "A35287-e47960": [
+      "alexey"
+    ],
+    "A35287-e47990": [
+      "cassonofsky"
+    ],
+    "A35287-e48030": [
+      "ladislaus"
+    ],
+    "A35287-e48080": [
+      "gentleman-1"
+    ],
+    "A35287-e48110": [
+      "ladislaus"
+    ],
+    "A35287-e48140": [
+      "juliana"
+    ],
+    "A35287-e48170": [
+      "hypolita",
+	  "emilia",
+	  "francisca",
+	  "demetrius",
+	  "colimsky",
+	  "alexey",
+	  "battista",
+	  "paulina"
+    ],
+    "A35287-e48200": [
+      "ladislaus"
+    ],
+    "A35287-e48350": [
+      "landlord"
+    ],
+    "A35287-e48380": [
+      "paulina"
+    ],
+    "A35287-e48420": [
+      "landlord"
+    ],
+    "A35287-e48460": [
+      "paulina"
+    ],
+    "A35287-e48620": [
+      "landlord"
+    ],
+    "A35287-e48740": [
+      "paulina"
+    ],
+    "A35287-e48770": [
+      "landlord"
+    ],
+    "A35287-e48830": [
+      "paulina"
+    ]
+  }
+}

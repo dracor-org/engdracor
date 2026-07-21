@@ -108,41 +108,41 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000440-fortunio">
-            <persName>Fortunio</persName>
+          <personGrp xml:id="eng000440-2-watchmen" sex="MALE">
+            <name>2 Watchmen</name>
+          </personGrp>
+          <person xml:id="eng000440-ottaviano" sex="MALE">
+            <persName>Ottaviano</persName>
           </person>
-          <person xml:id="eng000440-crack-stone">
-            <persName>Crack Stone</persName>
-          </person>
-          <person xml:id="eng000440-attilia">
-            <persName>Attilia</persName>
-          </person>
-          <person xml:id="eng000440-pedante">
-            <persName>Pedante</persName>
-          </person>
-          <person xml:id="eng000440-fedele">
-            <persName>Fedele</persName>
-          </person>
-          <person xml:id="eng000440-victoria">
-            <persName>Victoria</persName>
-          </person>
-          <person xml:id="eng000440-unassigned">
-            <persName>Unassigned</persName>
-          </person>
-          <person xml:id="eng000440-pamphila">
-            <persName>Pamphila</persName>
-          </person>
-          <person xml:id="eng000440-medusa">
-            <persName>Medusa</persName>
-          </person>
-          <person xml:id="eng000440-virginia">
-            <persName>Virginia</persName>
-          </person>
-          <person xml:id="eng000440-sbirri">
+          <person xml:id="eng000440-sbirri" sex="MALE">
             <persName>Sbirri</persName>
           </person>
-          <person xml:id="eng000440-ottavi">
-            <persName>Ottavi</persName>
+          <person xml:id="eng000440-victoria" sex="MALE">
+            <persName>Victoria</persName>
+          </person>
+          <person xml:id="eng000440-fedele" sex="MALE">
+            <persName>Fedele</persName>
+          </person>
+          <person xml:id="eng000440-virginia" sex="FEMALE">
+            <persName>Virginia</persName>
+          </person>
+          <person xml:id="eng000440-medusa" sex="FEMALE">
+            <persName>Medusa</persName>
+          </person>
+          <person xml:id="eng000440-pamphilia" sex="FEMALE">
+            <persName>Pamphilia</persName>
+          </person>
+          <person xml:id="eng000440-attilia" sex="FEMALE">
+            <persName>Attilia</persName>
+          </person>
+          <person xml:id="eng000440-pedante" sex="MALE">
+            <persName>Pedante</persName>
+          </person>
+          <person xml:id="eng000440-crack-stone" sex="MALE">
+            <persName>Crack-stone</persName>
+          </person>
+          <person xml:id="eng000440-fortunio" sex="MALE">
+            <persName>Fortunio</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -499,7 +499,7 @@
                 </lg>
               </lg>
             </sp>
-            <sp who="#eng000440-unassigned" xml:id="eng000440-e102500">
+            <sp who="#eng000440-victoria" xml:id="eng000440-e102500">
               <speaker>Speake. </speaker>
               <l>Ah poor Victoria, héer it was thy guise, </l>
               <l>To stand and sée Fortunio passing by: </l>
@@ -628,7 +628,7 @@
               <speaker>Attilia. </speaker>
               <l>¶ And must you séek Fedele out? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e103430">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e103430">
               <speaker>Pamphila. </speaker>
               <l>¶ I must. </l>
             </sp>
@@ -636,7 +636,7 @@
               <speaker>Attilia. </speaker>
               <l>¶ But to what end? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e103470">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e103470">
               <speaker>Pamphila. </speaker>
               <l>¶ To craue of curtesie, that he would stand my Mistres fréend. </l>
             </sp>
@@ -645,7 +645,7 @@
               <speaker>Attilia. </speaker>
               <l>¶ Mistres Virginia: </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e103510">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e103510">
               <speaker>Pamphil. </speaker>
               <l>¶ The same. </l>
             </sp>
@@ -653,7 +653,7 @@
               <speaker>Attilia. </speaker>
               <l>¶ In what matter I pray. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e103550">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e103550">
               <speaker>Pamphil. </speaker>
               <l>¶ That's counsaile vnto you, I must not euery thing bewray. </l>
               <l>And yet by her, so bitter is the taste of looue, I finde: </l>
@@ -664,7 +664,7 @@
               <speaker>Attilia. </speaker>
               <l>¶ But knowe you where Fedele is? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e103620">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e103620">
               <speaker>Pamphila </speaker>
               <l>¶ Him at his house, or walking in the stréet you shall not misse. </l>
             </sp>
@@ -673,7 +673,7 @@
               <l>¶ Farewell, I will goe séek him straight. <stage xml:id="eng000440-e103660">Exit. </stage>
               </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e103670">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e103670">
               <speaker>Pamphila </speaker>
               <l>¶ Yet finde him not too soon: </l>
             </sp>
@@ -1548,7 +1548,7 @@
           <div n="1" type="scene" xml:id="eng000440-e109650">
             <head>Scena prima. </head>
             <stage xml:id="eng000440-e109660">Enter Mistres Virginia, with Pamphila her maid. </stage>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e109670">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e109670">
               <speaker>Pamphila. </speaker>
               <l>MIstresse I may, and will once more goe séek him if you please: </l>
               <l>Although I feare his answere wil returne you little ease. </l>
@@ -1561,7 +1561,7 @@
               <speaker>Virginia. </speaker>
               <l>¶ How canst thou tell? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e109760">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e109760">
               <speaker>Pamphila. </speaker>
               <l>¶ Euen yesterday I heard it of her maid: </l>
             </sp>
@@ -1574,7 +1574,7 @@
               <l>And gather by his answere, that he hath forsaken mée. </l>
               <l>Therefore goe seeke him out againe. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e109840">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e109840">
               <speaker>Pamphil. </speaker>
               <l>¶ Mistresse it shall not néede, <stage xml:id="eng000440-e109860">Ent. Fedele. </stage>
               </l>
@@ -1584,7 +1584,7 @@
               <speaker>Virginia. </speaker>
               <l>¶ Steppe to him straighte. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e109900">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e109900">
               <speaker>Pamphil. </speaker>
               <l>¶ Master Fedele, if you knew as well </l>
               <l>To loue: and her that loues you, to reléeue, </l>
@@ -1597,7 +1597,7 @@
               <speaker>Fedele. </speaker>
               <l>¶ What meaneth this? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e109990">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e109990">
               <speaker>Pamphila. </speaker>
               <l>¶ Talke with my mistresse Sir, and you shall knowe, </l>
             </sp>
@@ -1609,7 +1609,7 @@
               <l>If you haue any thing to me to say, </l>
               <l>Speake, that I may resolue you of the doubt. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e110070">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e110070">
               <speaker>Pamphila. </speaker>
               <l>¶ Fedele, now beholde thy crueltie, </l>
               <l>Her voyce is stopt, and doth for sorowe die. </l>
@@ -1659,7 +1659,7 @@
               <l>Whose wandring choyse hath done me double wrong. </l>
               <l>Farewell Sir, as we met, we meane to parte. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e110480">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e110480">
               <speaker>Pamphila. </speaker>
               <l>¶ This gréeting answeres vnto his desert. <stage xml:id="eng000440-e110500">Exeunt Verg. &amp; Pam. </stage>
               </l>
@@ -1851,7 +1851,7 @@
               <l>Thus I being presented of all men with almes as you sée, </l>
               <l>Reuerenced of all men of force I must bée. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e111830">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e111830">
               <speaker>Pamphila. </speaker>
               <l>¶ For reasoning so déepely, no Almes shall you haue, </l>
               <l>Because I will not honour such a beggerly knaue. <stage xml:id="eng000440-e111860">Exit. </stage>
@@ -1960,7 +1960,7 @@
             <l>This famous Arte, and easely by it my liuing earnde. </l>
             <l>O that he knew how déere his life and learning was to me, </l>
             <l>O that he could but for his death my griefe and sorrowe sée. </l>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e112590">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e112590">
               <speaker>pamphila. </speaker>
               <l>¶ Medusa, if I did not feare my honour and my name, </l>
               <l>Would soone be lost hereby, and turne my credite into shame. </l>
@@ -1974,7 +1974,7 @@
               <l>By learning of myne Arte? which should be honord of the moste. </l>
               <l>And more estéemde then Phisike. </l>
             </sp>
-            <sp who="#eng000440-unassigned" xml:id="eng000440-e112680">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e112680">
               <speaker>Pamphila. </speaker>
               <l>¶ Why? </l>
             </sp>
@@ -1985,7 +1985,7 @@
               <l>So by my cunning, euery smarte that doth afflict the minde, </l>
               <l>Is put to chace, for euery griefe, a remedy I finde. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e112750">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e112750">
               <speaker>Pamphila. </speaker>
               <l>‡ And haue you any salue for loue? </l>
             </sp>
@@ -1993,7 +1993,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ I haue. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e112790">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e112790">
               <speaker>Pamphila. </speaker>
               <l>‡ Whereof is it made? </l>
             </sp>
@@ -2001,7 +2001,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ Of diuers things, simple, and mixte, according to my trade. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e112830">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e112830">
               <speaker>Pamphila. </speaker>
               <l>¶ Then if for loue, or mony, you will graunt me my requeste, </l>
               <l>Let me once by your cunning sée, my mistresse haue some reste. </l>
@@ -2010,7 +2010,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ Whome serue you then? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e112880">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e112880">
               <speaker>Pamphila. </speaker>
               <l>¶ Forsooth, I serue mistresse Virginia. </l>
             </sp>
@@ -2018,7 +2018,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ Yet farther, let me craue your name. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e112920">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e112920">
               <speaker>Pamphila. </speaker>
               <l>¶ My name is pamphila. </l>
             </sp>
@@ -2026,7 +2026,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ What's her disease? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e112960">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e112960">
               <speaker>Pamphila. </speaker>
               <l>¶ Nothing but loue. </l>
             </sp>
@@ -2034,7 +2034,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ How fareth she with it? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e113000">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e113000">
               <speaker>Pamphila. </speaker>
               <l>¶ Sad, sicke, and sore, with sorrow pinde, and disposseste of wit. </l>
             </sp>
@@ -2042,7 +2042,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ Whome loueth she? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e113040">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e113040">
               <speaker>Pamphila. </speaker>
               <l>¶ Fedele. </l>
             </sp>
@@ -2050,7 +2050,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ And how long hath she bin so? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e113080">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e113080">
               <speaker>Pamphila. </speaker>
               <l>¶ I know not, yet I gesse, that she sickned a yéere agoe. </l>
             </sp>
@@ -2058,7 +2058,7 @@
               <speaker>Medusa. </speaker>
               <l>¶ What if I helpe her? tell me who shall please me for my paine? </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e113120">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e113120">
               <speaker>Pamphila. </speaker>
               <l>¶ My selfe, because vnknowen to her, I séeke her health to gaine. </l>
             </sp>
@@ -2067,7 +2067,7 @@
               <l>¶ A louing seruant, goe thy wayes and leaue it all to me. </l>
               <l>But harke thée. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e113170">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e113170">
               <speaker>Pamphila. </speaker>
               <l>¶ What? </l>
             </sp>
@@ -2078,7 +2078,7 @@
               <l>By vertue of the which, her wounded heart may comfort take. </l>
               <l>The lesse she lookes for remedy, the more is her delight, when t'is obtaynde. </l>
             </sp>
-            <sp who="#eng000440-pamphila" xml:id="eng000440-e113240">
+            <sp who="#eng000440-pamphilia" xml:id="eng000440-e113240">
               <speaker>Pamphila. </speaker>
               <l>¶ Then let's be gon. </l>
             </sp>
@@ -2472,7 +2472,7 @@
               <l>With mirth and glée about the towne, to put him to the shame. </l>
               <l>Goe set it vp. </l>
             </sp>
-            <sp who="#eng000440-unassigned" xml:id="eng000440-e115720">
+            <sp who="#eng000440-2-watchmen" xml:id="eng000440-e115720">
               <speaker>Watchmen </speaker>
               <l>¶ We will. </l>
             </sp>
@@ -2976,7 +2976,7 @@
           <div n="4" type="scene" xml:id="eng000440-e119140">
             <head>Actus quinta. Scena quarta. </head>
             <stage xml:id="eng000440-e119150">Enter Fortunio running halfe vnreadie, after him Ottauiano the father to mistresse Virginia, and Medusa with a spitte in her hande, and to them Fedele and Pedante, with weapons in their handes. </stage>
-            <sp who="#eng000440-ottavi" xml:id="eng000440-e119160">
+            <sp who="#eng000440-ottaviano" xml:id="eng000440-e119160">
               <speaker>Ottaui. </speaker>
               <l>¶ Stoppe, stoppe. </l>
             </sp>
@@ -2997,12 +2997,12 @@
               <l>That I can not get out, I pray you make not such haste, </l>
               <l>Till you thinke that the hottest of the broile be paste. </l>
             </sp>
-            <sp who="#eng000440-unassigned" xml:id="eng000440-e119290">
+            <sp who="#eng000440-fortunio" xml:id="eng000440-e119290">
               <speaker>Fortunio. </speaker>
               <l>¶ Stay Captaine, lay no handes on me, a Gentleman I am, </l>
               <l>And will not flitte, </l>
             </sp>
-            <sp who="#eng000440-ottavi" xml:id="eng000440-e119320">
+            <sp who="#eng000440-ottaviano" xml:id="eng000440-e119320">
               <speaker>Ottaui. </speaker>
               <l>¶ Woe worth the time that to my house he came. </l>
             </sp>
@@ -3028,7 +3028,7 @@
               <speaker>Pedante. </speaker>
               <l>¶ What strange kinde of broyle is this that is begonne? </l>
             </sp>
-            <sp who="#eng000440-ottavi" xml:id="eng000440-e119460">
+            <sp who="#eng000440-ottaviano" xml:id="eng000440-e119460">
               <speaker>Ottaui. </speaker>
               <l>¶ Is it Fortunio in déede? This is thy treacherie, Medusa. </l>
             </sp>
@@ -3067,7 +3067,7 @@
               <l>But oh that my handes were at liberalitie now to strike, </l>
               <l>I would set my Gramariner a lesson to pike. </l>
             </sp>
-            <sp who="#eng000440-ottavi" xml:id="eng000440-e119710">
+            <sp who="#eng000440-ottaviano" xml:id="eng000440-e119710">
               <speaker>Ottaui. </speaker>
               <l>¶ Ah Sir Fortunio, vse you thus the man that lou'de you best, </l>
               <l>Take him, this villainie shall not be turned to a iest. </l>
@@ -3081,7 +3081,7 @@
               <l>But giue her vnto him to wife, and talke of it no more. </l>
               <l>His liuing is as good as yours, make vp the match with speede, </l>
             </sp>
-            <sp who="#eng000440-ottavi" xml:id="eng000440-e119800">
+            <sp who="#eng000440-ottaviano" xml:id="eng000440-e119800">
               <speaker>Ottaui. </speaker>
               <l>¶ Néede hath no lawe, I am content, if they be bothe agréede. </l>
             </sp>
@@ -3131,7 +3131,7 @@
               <speaker>Fortunio. </speaker>
               <l>¶ Shall I haue your good will? </l>
             </sp>
-            <sp who="#eng000440-ottavi" xml:id="eng000440-e120100">
+            <sp who="#eng000440-ottaviano" xml:id="eng000440-e120100">
               <speaker>Ottaui. </speaker>
               <l>¶ You haue. </l>
             </sp>
@@ -3171,7 +3171,7 @@
               <l>I haue heard it often, and nowe I do proue, </l>
               <l>That women are suttle wormes for the conuariance of loue. </l>
             </sp>
-            <sp who="#eng000440-ottavi" xml:id="eng000440-e120390">
+            <sp who="#eng000440-ottaviano" xml:id="eng000440-e120390">
               <speaker>Ottaui. </speaker>
               <l>¶ If this be true I ioy? </l>
             </sp>

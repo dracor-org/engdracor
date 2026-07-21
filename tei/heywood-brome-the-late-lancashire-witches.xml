@@ -109,14 +109,14 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp xml:id="eng000062-country-lasses" sex="FEMALE">
-            <name>Country Lasses</name>
-          </personGrp>
-          <personGrp xml:id="eng000062-spirits" sex="UNKNOWN">
-            <name>Spirits</name>
-          </personGrp>
+          <person xml:id="eng000062-voice" sex="UNKNOWN">
+            <persName>Voice </persName>
+          </person>
           <person xml:id="eng000062-arthur" sex="MALE">
             <persName>Arthur</persName>
+          </person>
+          <person xml:id="eng000062-spencer" sex="MALE">
+            <persName>Spencer</persName>
           </person>
           <person xml:id="eng000062-shakstone" sex="MALE">
             <persName>Shakstone</persName>
@@ -145,6 +145,12 @@
           <person xml:id="eng000062-winny" sex="FEMALE">
             <persName>Winny</persName>
           </person>
+          <personGrp xml:id="eng000062-country-lasses" sex="FEMALE">
+            <name>Two Country Lasses</name>
+          </personGrp>
+          <personGrp xml:id="eng000062-goody" sex="FEMALE">
+            <name>Goody Dickinson</name>
+          </personGrp>
           <person xml:id="eng000062-joan" sex="FEMALE">
             <persName>Joan</persName>
           </person>
@@ -160,6 +166,9 @@
           <person xml:id="eng000062-gillian" sex="FEMALE">
             <persName>Gillian</persName>
           </person>
+          <person xml:id="eng000062-robert" sex="MALE">
+            <persName>Robert</persName>
+          </person>
           <person xml:id="eng000062-soldier" sex="MALE">
             <persName>Soldier</persName>
           </person>
@@ -169,8 +178,8 @@
           <person xml:id="eng000062-boy" sex="MALE">
             <persName>Boy</persName>
           </person>
-          <person xml:id="eng000062-mall" sex="FEMALE">
-            <persName>Mall</persName>
+          <person xml:id="eng000062-mal" sex="FEMALE">
+            <persName>Mal</persName>
           </person>
           <person xml:id="eng000062-robin" sex="MALE">
             <persName>Robin</persName>
@@ -181,15 +190,9 @@
           <person xml:id="eng000062-fiddler" sex="MALE">
             <persName>Fiddler</persName>
           </person>
-          <person xml:id="eng000062-goody-dickieson" sex="MALE">
-            <persName>Goody Dickieson</persName>
+          <person xml:id="eng000062-spirit" sex="UNKNOWN">
+            <persName>Spirit</persName>
           </person>
-          <person xml:id="eng000062-peg" sex="FEMALE">
-            <persName>Peg</persName>
-          </person>
-          <personGrp xml:id="eng000062-witches" sex="FEMALE">
-            <name>Witches</name>
-          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -1317,7 +1320,7 @@
       <div n="2" type="act_and_scene" xml:id="eng000062-e106640">
         <head>ACTVS, II. SCAENA, I. </head>
         <stage xml:id="eng000062-e106650">Enter 4. Witches: (severally.) </stage>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson"
+        <sp who="#eng000062-meg #eng000062-maud #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e106660">
           <speaker>All. </speaker>
           <lg>
@@ -1397,7 +1400,7 @@
             <l>Whilst we make laughter of their woes. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson"
+        <sp who="#eng000062-meg #eng000062-maud #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e107160">
           <speaker>All. </speaker>
           <p>Ha, ha, ha! </p>
@@ -1433,7 +1436,7 @@
             <l>Master and dame that over-sway'd. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson"
+        <sp who="#eng000062-meg #eng000062-maud #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e107380">
           <speaker>All. </speaker>
           <p>Ha, ha, ha! </p>
@@ -1492,7 +1495,7 @@
           </lg>
         </sp>
         <pb xml:id="eng000062-011-b"/>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson"
+        <sp who="#eng000062-meg #eng000062-maud #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e107740">
           <speaker>All. </speaker>
           <p>The Divell on Dun is rid this way. Ha. ha, ha, ha. </p>
@@ -1539,7 +1542,7 @@
             <l>Your hands are witnesse. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-shakstone #eng000062-bantam" xml:id="eng000062-e108040">
+        <sp who="#eng000062-bantam #eng000062-shakstone" xml:id="eng000062-e108040">
           <speaker>Baxt. &amp; Shak. </speaker>
           <p>We acknowledge it. </p>
         </sp>
@@ -1678,7 +1681,7 @@
           <speaker>Gen. </speaker>
           <p>Robin. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e108880">
+        <sp who="#eng000062-robert" xml:id="eng000062-e108880">
           <speaker>Rob. </speaker>
           <p>Sir. </p>
         </sp>
@@ -1686,7 +1689,7 @@
           <speaker>Gen. </speaker>
           <p>Goe call your Mistresse hither. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e108920">
+        <sp who="#eng000062-robert" xml:id="eng000062-e108920">
           <speaker>Rob. </speaker>
           <p>My Mistresse Sir, I doe call her Mistresse, as I doe call you Master, but if you would have me call my Mistresse to my Master, I may call lowd enough before she can heare me. </p>
         </sp>
@@ -1697,7 +1700,7 @@
             <l>She had her hearing perfect. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e108980">
+        <sp who="#eng000062-robert" xml:id="eng000062-e108980">
           <speaker>Rob. </speaker>
           <p>And so she may have at Supper too for ought I know, but I can assure you she is not now within my call. </p>
         </sp>
@@ -1709,7 +1712,7 @@
             <l>Goe seeke her out, say she shall finde me there. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109050">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109050">
           <speaker>Rob. </speaker>
           <p>To tell you true sir, I shall neither finde my Mistresse here, nor you your Gelding there. </p>
         </sp>
@@ -1717,7 +1720,7 @@
           <speaker>Gener. </speaker>
           <p>Ha! how comes that to passe? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109090">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109090">
           <speaker>Rob. </speaker>
           <p>Whilst you were busie about your writings, she came and commanded me to saddle your Beast, and sayd she would ride abroad to take the ayre. </p>
         </sp>
@@ -1725,7 +1728,7 @@
           <speaker>Gener. </speaker>
           <p>Which of your fellowes did she take along to wayte on her? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109130">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109130">
           <speaker>Rob. </speaker>
           <p>None sir. </p>
         </sp>
@@ -1733,7 +1736,7 @@
           <speaker>Gener. </speaker>
           <p>None! hath she us'd it often? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109170">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109170">
           <speaker>Rob. </speaker>
           <p>Oftner I am sure then she goes to Church, and leave out Wednesdayes and Fridayes. </p>
         </sp>
@@ -1741,7 +1744,7 @@
           <speaker>Gener. </speaker>
           <p>And still alone? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109210">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109210">
           <speaker>Rob. </speaker>
           <p>If you call that alone, when no body rides in her company. </p>
         </sp>
@@ -1749,7 +1752,7 @@
           <speaker>Gen. </speaker>
           <p>But what times hath she sorted for these journeyes? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109250">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109250">
           <speaker>Rob. </speaker>
           <p>Commonly when you are abroad, and sometimes when you are full of businesse at home. </p>
         </sp>
@@ -1760,7 +1763,7 @@
             <l>When she takes horse, and at her backe returne? </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109310">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109310">
           <speaker>Rob. </speaker>
           <p>Onely conjures me that I shall keepe it from you, then clappes me in the fist with some small piece of silver, and then a <pb xml:id="eng000062-013-a"/>Fish cannot be more silent then I. </p>
         </sp>
@@ -1782,7 +1785,7 @@
             <l>Your duty and my service, see this done. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109480">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109480">
           <speaker>Rob. </speaker>
           <p>Now you have exprest your minde, I know what I have to doe; first, not to tell her what I have told you &amp;, next to keep her side-saddle from comming upon your Gueldings backe; but how soever it is like to hinder me of many a round tester. </p>
         </sp>
@@ -1793,7 +1796,7 @@
             <l>That teaster from me, 't shall be roundly payd. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109540">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109540">
           <speaker>Rob. </speaker>
           <p>You say well in that sir, I dare take your word, you are an honest Gentleman, and my Master; and now take mine as I am your true servant, before she shall backe your Guelding again in your absence, while I have the charge of his keeping; she shall ride me, or Ile ride her. </p>
         </sp>
@@ -1809,7 +1812,7 @@
             <l>There where you use to fetch it. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109650">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109650">
           <speaker>Rob. </speaker>
           <p>Good newes for me, I shall sir. </p>
         </sp>
@@ -1824,7 +1827,7 @@
             <l>Meere quintessence of Wine. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109740">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109740">
           <speaker>Rob. </speaker>
           <p>Yes sir, I so remember it, that most certaine it is I never shal forget it, my mouth waters ever since when I but think on't, whilst you were at supper above, the drawer had me down into the Cellar below, I know the way in againe if I see't, but at that time to finde the way out againe, I had the help of more eies than mine owne: is the taste of that Ipsitate stil in your pallat sir? </p>
         </sp>
@@ -1835,7 +1838,7 @@
             <l>And see them fil'd where I command you sir. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e109800">
+        <sp who="#eng000062-robert" xml:id="eng000062-e109800">
           <speaker>Rob. </speaker>
           <p>I shall: never c'ud I have met with such a faire opportunitie: for iust in the mid way lies my sweet-heart, as lovely a lasse as any is in Lancashire, and kisses as sweetly: I'le see her going or comming, i'le have one smouch at thy lips, and bee with thee to bring Mal Spencer. </p>
           <stage xml:id="eng000062-e109820">Exit. </stage>
@@ -2125,7 +2128,7 @@
           <stage xml:id="eng000062-e111440">As he beats them, there appeares before him, Gooddy Dickison, and the Boy upon the dogs, going in. </stage>
           <p>Now blesse me heaven, one of the Greyhounds turn'd into a woman, the other into a boy! The lad I never saw before, but her I know well; it is my gammer Dickison. </p>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e111460">
+        <sp who="#eng000062-gillian" xml:id="eng000062-e111460">
           <speaker>G. Dick. </speaker>
           <lg>
             <l>Sirah, you have serv'd me well to swindge me thus. </l>
@@ -2136,7 +2139,7 @@
           <speaker>Boy. </speaker>
           <p>When you had put your self into a dogs skin, I pray how c'ud I help it; but gammer are not you a Witch? if you bee, I beg upon my knees you will not hurt me. </p>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e111520">
+        <sp who="#eng000062-gillian" xml:id="eng000062-e111520">
           <speaker>Dickis. </speaker>
           <lg>
             <l>Stand up my boie, for thou shalt have no harme, </l>
@@ -2148,7 +2151,7 @@
           <speaker>Boy. </speaker>
           <p>Ile have none of your money gammer, because you are a Witch: and now she is out of her foure leg'd shape, ile see if with my two legs I can out-run her. </p>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e111590">
+        <sp who="#eng000062-gillian" xml:id="eng000062-e111590">
           <speaker>Dickis. </speaker>
           <p>Nay sirra, though you be yong, and I old, you are not so nimble, nor I so lame, but I can overtake you. </p>
         </sp>
@@ -2159,7 +2162,7 @@
             <l>Now you have me? </l>
           </lg>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e111650">
+        <sp who="#eng000062-gillian" xml:id="eng000062-e111650">
           <speaker>Dickis. </speaker>
           <lg>
             <l>To hugge thee, stroke thee, and embrace thee thus, </l>
@@ -2172,7 +2175,7 @@
           <speaker>Boy. </speaker>
           <p>Not I gammer indeed la, I dare not stay ont late, My father is a fell man, and if I bee out long, will both chide and beat me. </p>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e111730">
+        <sp who="#eng000062-gillian" xml:id="eng000062-e111730">
           <speaker>Dickis. </speaker>
           <lg>
             <l>Not sirra, then perforce thou shalt along, </l>
@@ -2192,7 +2195,7 @@
             <l>But a white horse redie sadled and bridled. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e111860">
+        <sp who="#eng000062-gillian" xml:id="eng000062-e111860">
           <speaker>Dickis. </speaker>
           <lg>
             <l>And thats the horse we must bestride, </l>
@@ -2213,7 +2216,7 @@
           <p>Thanks my sweet Mall for thy courteous entertainment, thy creame, thy cheese-cakes, and every good thing, this, this, &amp; this for all. </p>
           <stage xml:id="eng000062-e112010">kisse. </stage>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112020">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112020">
           <speaker>Mal. </speaker>
           <p>But why in such hast good Robin? </p>
         </sp>
@@ -2221,7 +2224,7 @@
           <speaker>Robin. </speaker>
           <p>I confesse my stay with thee is sweet to mee, but I must spur Cutt the faster for't, to be at home in the morning, I have yet to Lancaster to ride to night, and this my bandileer of bottles, to fill to night, and then halfe a score mile to ride by currie-combe time, i'the morning, or the old man chides Mal. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112060">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112060">
           <speaker>Mal. </speaker>
           <p>Hee shall not chide thee, feare it not. </p>
         </sp>
@@ -2229,88 +2232,88 @@
           <speaker>Robin. </speaker>
           <p>Pray Bacchus I may please him with his wine, which will be the hardest thing to do; for since hee was last at London and tasted the Divinitie of the Miter, scarce any liquour in Lancashire will go downe with him, sure, sure he will never be a Puritane, he holds so well with the Miter. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112100">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112100">
           <speaker>Mal. </speaker>
           <p>Well Robert, I find your love by your haste from me, ile undertake you shal be at Lancaster, &amp; twise as far, &amp; yet at home time enough, and be rul'd by me. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112120">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112120">
           <speaker>Rob. </speaker>
           <p>Thou art a witty rogue, and thinkst to make me believe any thing, because I saw thee make thy broome sweepe the house without hands t'other day. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112140">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112140">
           <speaker>Mal. </speaker>
           <p>You shall see more than that presently, because you shall beleeve me; you know the house is all a bed here: and I dare not be mist in the morning. Besides, I must be at the wedding of Lawrence and Parnell to morrow. </p>
         </sp>
         <pb xml:id="eng000062-017-a"/>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112160">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112160">
           <speaker>Rob. </speaker>
           <p>I your old sweet heart Lawrence? Old love will not be forgotten </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112180">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112180">
           <speaker>Mal. </speaker>
           <p>I care not for the losse of him, but if I fit him not hang me: but to the point, if I goe with you to night, and help you to as good wine as your master desires, and you keepe your time with him, you will give me a pinte for my company. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112200">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112200">
           <speaker>Rob. </speaker>
           <p>Thy belly full wench. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112220">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112220">
           <speaker>Mal. </speaker>
           <p>I'le but take up my milk payle and leave it in the field, till our comming backe in the morning, and wee'll away. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112240">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112240">
           <speaker>Rob. </speaker>
           <p>Goe fetch it quickly then. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112260">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112260">
           <speaker>Mal. </speaker>
           <p>No Robert, rather than leave your company so long, it shall come to me. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112280">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112280">
           <speaker>Rob. </speaker>
           <p>I would but see that. </p>
         </sp>
         <stage xml:id="eng000062-e112300">The Payle goes. </stage>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112310">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112310">
           <speaker>Mal. </speaker>
           <p>Looke yonder, what do you thinke on't. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112330">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112330">
           <speaker>Rob. </speaker>
           <p>Light, it comes; and I do thinke there is so much of the Divell in't as will turne all the milke shall come in't these seven yeares, and make it burne too, till it stinke worse than the Proverbe of the Bishops foot. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112350">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112350">
           <speaker>Mal. </speaker>
           <p>Looke you sir, heere I have it, will you get up and away. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112370">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112370">
           <speaker>Rob. </speaker>
           <p>My horse is gone, nay prithee Mal. thou hast set him away, leave thy Roguerie. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112390">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112390">
           <speaker>Mal. </speaker>
           <p>Looke againe. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112410">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112410">
           <speaker>Rob. </speaker>
           <p>There stands a blacke long-sided jade: mine was a truss'd gray. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112430">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112430">
           <speaker>Mal. </speaker>
           <lg>
             <l>Yours was too short to carrie double such a journey. </l>
             <l>Get up I say, you shall have your owne againe i'th morning. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112470">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112470">
           <speaker>Rob. </speaker>
           <p>Nay but, nay but. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e112490">
+        <sp who="#eng000062-mal" xml:id="eng000062-e112490">
           <speaker>Mal. </speaker>
           <p>Nay, and you stand butting now, i'le leave you to look your horse. Payle on afore to the field, and staie till I come. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e112510">
+        <sp who="#eng000062-robert" xml:id="eng000062-e112510">
           <speaker>Rob. </speaker>
           <p>Come away then, hey for Lancaster: stand up. </p>
           <stage xml:id="eng000062-e112530">Exeunt </stage>
@@ -2358,7 +2361,7 @@
         </sp>
         <stage xml:id="eng000062-e112740">
           <pb xml:id="eng000062-018-a"/>Enter Musitiane, Lawrence, Parnell, Win. Mal. Spencer, two Country Lasses Doughty, Greg. Arthur, Shakton, Bantam, and Whetstone. </stage>
-        <sp who="#eng000062-gregory #eng000062-seely #eng000062-joan #eng000062-winny #eng000062-arthur #eng000062-shakstone #eng000062-mall #eng000062-mall #eng000062-bantam #eng000062-whetstone #eng000062-country-lasses"
+        <sp who="#eng000062-lawrence #eng000062-parnell #eng000062-winny #eng000062-mal #eng000062-spencer #eng000062-doughty #eng000062-gregory #eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone #eng000062-country-lasses"
                 xml:id="eng000062-e112750">
           <speaker>All. </speaker>
           <p>Ioy, health; and children to the married paire. </p>
@@ -2420,7 +2423,7 @@
           <speaker>Ioan. </speaker>
           <p>It slipt out of my hand, and is falne into crums I think. </p>
         </sp>
-        <sp who="#eng000062-doughty" xml:id="eng000062-e113100">
+        <sp xml:id="eng000062-e113100">
           <speaker>Dought. </speaker>
           <p>Crums? the divell of crum is here, but bran; nothing but bran, what prodigie is this? </p>
         </sp>
@@ -2429,7 +2432,7 @@
           <p>Is my best Brides Cake come to this! o wea warth it. </p>
         </sp>
         <stage xml:id="eng000062-e113140">Exit Parn Seely, Joane, and Maides. </stage>
-        <sp who="#eng000062-whetstone" xml:id="eng000062-e113150">
+        <sp xml:id="eng000062-e113150">
           <speaker>Whet. </speaker>
           <p>How daintily the Brides haire is powder'd with it. </p>
         </sp>
@@ -2441,7 +2444,7 @@
           <speaker>Bant. </speaker>
           <p>And mine. </p>
         </sp>
-        <sp who="#eng000062-shakstone" xml:id="eng000062-e113210">
+        <sp xml:id="eng000062-e113210">
           <speaker>Shak. </speaker>
           <p>I was never so amaz'd! </p>
         </sp>
@@ -2449,12 +2452,12 @@
           <speaker>Dougb. </speaker>
           <p>What can it meane? </p>
         </sp>
-        <sp who="#eng000062-gregory" xml:id="eng000062-e113250">
+        <sp xml:id="eng000062-e113250">
           <speaker>Greg. </speaker>
           <p>Pax, I think not on't, 'tis but some of my Father and Mothers roguery, this is a Law-day with 'em, to doe what they list. </p>
         </sp>
         <pb xml:id="eng000062-018-b"/>
-        <sp who="#eng000062-seely" xml:id="eng000062-e113270">
+        <sp xml:id="eng000062-e113270">
           <speaker>Whet. </speaker>
           <p>I never feare any thing, so long as my Aunt has but bidden me thinke of her, and she'll warrant me. </p>
         </sp>
@@ -2474,7 +2477,7 @@
           <speaker>Seel. </speaker>
           <p>But sonne Gregory, Nephew Arthur, and the rest of the young Gentlemen, I shall take it for a favor if you will (it is an office which very good Gentlemen doe in this Country) accompane the Bridegroome in serving the meat. </p>
         </sp>
-        <sp who="#eng000062-gregory #eng000062-winny #eng000062-arthur #eng000062-shakstone #eng000062-mall #eng000062-mall #eng000062-bantam #eng000062-whetstone"
+        <sp who="#eng000062-parnell #eng000062-winny #eng000062-mal #eng000062-spencer #eng000062-doughty #eng000062-gregory #eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone #eng000062-country-lasses"
                 xml:id="eng000062-e113370">
           <speaker>All. </speaker>
           <p>With all our hearts. </p>
@@ -2649,7 +2652,7 @@
           <speaker>Seel. </speaker>
           <p>Gentlemen will you in? </p>
         </sp>
-        <sp who="#eng000062-gregory #eng000062-lawrence #eng000062-doughty #eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone"
+        <sp who="#eng000062-parnell #eng000062-winny #eng000062-mal #eng000062-spencer #eng000062-doughty #eng000062-gregory #eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone #eng000062-country-lasses #eng000062-joan"
                 xml:id="eng000062-e114280">
           <speaker>All. </speaker>
           <p>Agreed on all parts. </p>
@@ -2665,7 +2668,7 @@
           <speaker>Gener. </speaker>
           <p>I confesse thou hast done a Wonder in fetching me so good Wine, but my good Servant Robert, goe not about to put a Myracle upon me, I will rather beleeve that Lancaster affords this Wine, which I thought impossible till I tasted it, then that thou coo'dst in one night fetch it from London. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114360">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114360">
           <speaker>Rob. </speaker>
           <p>I have known when you have held mee for an honest fellow, and would have beleev'd me. </p>
         </sp>
@@ -2673,7 +2676,7 @@
           <speaker>Gener. </speaker>
           <p>Th' art a Knave to wish me to beleeve this, forgime, I would have sworne if thou had'st stayd but time answerable for the journey (to his that flew to Paris and back to London in a day) it had been the same Wine, but it can never fall within the compasse of a Christians beleefe, that thou cou'dst ride above three hundred miles in 8. houres: You were no longer out, and upon one Horse too, and in the Night too! </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114400">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114400">
           <speaker>Rob. </speaker>
           <p>And carry a Wench behind me too, and did something else too, but I must not speak of her lest I be divell-torne. </p>
         </sp>
@@ -2681,7 +2684,7 @@
           <speaker>Gen. </speaker>
           <p>And fill thy bottles too, and come home halfe drunke too, for so thou art, thou wouldst never a had such a fancy else! </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114440">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114440">
           <speaker>Rob. </speaker>
           <p>I am sorry I have sayd so much, and not let Lancaster have the credit o' the Wine. </p>
         </sp>
@@ -2689,7 +2692,7 @@
           <speaker>Gen. </speaker>
           <p>O are you so! and why have you abus'd me and your selfe then all this while, to glorifie the Myter in Fleet-street? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114480">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114480">
           <speaker>Rob. </speaker>
           <p>I could say sir, that you might have the better opinion of the Wine, for there are a great many pallats in the Kingdome that can relish no Wine, unlesse it be of such a Taverne, and drawne by such a Drawer— </p>
         </sp>
@@ -2697,7 +2700,7 @@
           <speaker>Gen. </speaker>
           <p>I sayd, and I say againe, if I were within ten mile of London, I durst sweare that this was Myter Wine, and drawn by honest Iacke Paine. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114520">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114520">
           <speaker>Rob. </speaker>
           <p>Nay then sir I swore, and I sweare againe, honest Iack Paine drew it. </p>
         </sp>
@@ -2706,7 +2709,7 @@
           <p>Ha, ha, ha, if I coo'd beleeve there were such a thing as Witchcraft, I should thinke this slave were bewitch'd now with an opinion. </p>
         </sp>
         <pb xml:id="eng000062-020-b"/>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114560">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114560">
           <speaker>Rob. </speaker>
           <p>Much good doe you sir, your Wine and your mirth, and my place for your next Groome, I desire not to stay to be laught out of my opinion. </p>
         </sp>
@@ -2714,7 +2717,7 @@
           <speaker>Gen. </speaker>
           <p>Nay be not angry Robin, we must not part so, and how does my honest Drawer? ha, ha, ha; and what newes at London, Robin? ha, ha, ha; but your stay was so short I think you coo'd heare none, and such your haste home that you coo'd make none: is't not so Robin? ha, ha, ha, what a strange fancy has good Wine begot in his head? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114600">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114600">
           <speaker>Rob. </speaker>
           <p>Now will I push him over and over with a peece of paper: Yes sir, I have brought you something from London. </p>
         </sp>
@@ -2722,7 +2725,7 @@
           <speaker>Gen. </speaker>
           <p>Come on, now let me heare. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114640">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114640">
           <speaker>Rob. </speaker>
           <p>Your honest Drawer sir, considering that you consider'd him well for his good wine— </p>
         </sp>
@@ -2730,7 +2733,7 @@
           <speaker>Gen. </speaker>
           <p>What shall we heare now? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114680">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114680">
           <speaker>Rob. </speaker>
           <p>Was very carefull to keepe or convay this paper to you, which it seemes you dropt in the roome there. </p>
         </sp>
@@ -2749,7 +2752,7 @@
           <speaker>Mrs. </speaker>
           <p>Robin. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114780">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114780">
           <speaker>Rob. </speaker>
           <p>I Mistresse. </p>
         </sp>
@@ -2757,7 +2760,7 @@
           <speaker>Mrs. </speaker>
           <p>Quickly good Robin, the gray Guelding. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114820">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114820">
           <speaker>Rob. </speaker>
           <p>What other horse you please Mistresse. </p>
         </sp>
@@ -2765,7 +2768,7 @@
           <speaker>Mrs. </speaker>
           <p>And why not that? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114860">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114860">
           <speaker>Rob. </speaker>
           <p>Truly Mistresse pray pardon me, I must be plaine with you, I dare not deliver him you; my master has tane notice of the ill case you have brought him home in divers times. </p>
         </sp>
@@ -2773,7 +2776,7 @@
           <speaker>Mrs. </speaker>
           <p>O is it so, and must he be made acquainted with my actions by you, and must I then be controll'd by him, and now by you; you are a sawcey Groome. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114900">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114900">
           <speaker>Rob. </speaker>
           <p>You may say your pleasure. </p>
           <stage xml:id="eng000062-e114920">He turnes from her, </stage>
@@ -2783,7 +2786,7 @@
           <p>No sir, Ile doe my pleasure. </p>
           <stage xml:id="eng000062-e114950">She Bridles him. </stage>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e114960">
+        <sp who="#eng000062-robert" xml:id="eng000062-e114960">
           <speaker>Rob. </speaker>
           <p>Aw. </p>
         </sp>
@@ -2895,7 +2898,7 @@
           <stage xml:id="eng000062-e115550">Kisses Mal. </stage>
         </sp>
         <pb xml:id="eng000062-022-a"/>
-        <sp who="#eng000062-mall" xml:id="eng000062-e115560">
+        <sp who="#eng000062-mal" xml:id="eng000062-e115560">
           <speaker>Mal. </speaker>
           <p>My nose! Nothing sir.— <stage xml:id="eng000062-e115580">turnes about</stage>— Yet mee thought a flie toucht it. Did you see any thing? </p>
         </sp>
@@ -2905,7 +2908,7 @@
           <stage xml:id="eng000062-e115610">Selengers Round. </stage>
           <p>Gentlemen will you dance? </p>
         </sp>
-        <sp who="#eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone #eng000062-doughty"
+        <sp who="#eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone"
                 xml:id="eng000062-e115630">
           <speaker>All. </speaker>
           <p>With all our hearts. </p>
@@ -3044,7 +3047,7 @@
           <speaker>Dough </speaker>
           <p>Thinke! I thinke they are drunke Prithee doe not thou thinke of Witchcraft; for my part, I shall as soone thinke this maid one, as that theres any in Lancashire. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e116360">
+        <sp who="#eng000062-mal" xml:id="eng000062-e116360">
           <speaker>Mal. </speaker>
           <p>Ha, ha ha. </p>
         </sp>
@@ -3052,7 +3055,7 @@
           <speaker>Dough. </speaker>
           <p>Why do'st thou laugh? </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e116400">
+        <sp who="#eng000062-mal" xml:id="eng000062-e116400">
           <speaker>Mal. </speaker>
           <p>To thinke this Bridegroome should once ha'bin mine, but he shall rue it, ile hold him this point on't, and thats all I care for him. </p>
         </sp>
@@ -3073,7 +3076,7 @@
           <p>O sir forget your anger. </p>
         </sp>
         <pb xml:id="eng000062-023-a"/>
-        <sp who="#eng000062-mall" xml:id="eng000062-e116500">
+        <sp who="#eng000062-mal" xml:id="eng000062-e116500">
           <speaker>Mal. </speaker>
           <p>Looke you Mr. Bridegroome, what my care provides for you </p>
         </sp>
@@ -3081,7 +3084,7 @@
           <speaker>Lawrence. </speaker>
           <p>What, a point? </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e116540">
+        <sp who="#eng000062-mal" xml:id="eng000062-e116540">
           <speaker>Mal. </speaker>
           <p>Yes put it in your pocket it may stand you instead anon, when all your points be tane away, to trusse up your trinkits, I meane your slopes withall. </p>
         </sp>
@@ -3118,7 +3121,7 @@
           <speaker>Dough. </speaker>
           <p>Doe you heare any thing? </p>
         </sp>
-        <sp who="#eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone #eng000062-doughty #eng000062-lawrence #eng000062-parnell"
+        <sp who="#eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone"
                 xml:id="eng000062-e116730">
           <speaker>All. </speaker>
           <p>Nothing not we sir. </p>
@@ -3139,7 +3142,7 @@
           <speaker>Whet. </speaker>
           <p>Oh brave Fidlers, there was never better scuffling for the Tudberry Bull. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e116840">
+        <sp who="#eng000062-mal" xml:id="eng000062-e116840">
           <speaker>Mal. </speaker>
           <p>This is mother Iohnson and Gooddy Dickisons roguerie, I finde it but I cannot helpe it, yet I will have musicke: sir theres a Piper withour, would be glad to earne money. </p>
         </sp>
@@ -3152,7 +3155,7 @@
           <p>Well said, a good boy nów; come bride and bridegroome, leave your kissing and fooling, and prepare to come into the daunce. Wee'le have a Horne-pipe, and then a posset and <pb xml:id="eng000062-023-b"/>to bed when you please. Welcome Piper, blow till thy bagge cracke agen, a lusty Horne-pipe, and all into the daunce, nay young and old. </p>
         </sp>
         <stage xml:id="eng000062-e116900">Daunce. Lawrence and Parnell reele in the daunce. At the end, Mal vanishes, &amp; the piper. </stage>
-        <sp who="#eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone #eng000062-doughty #eng000062-lawrence #eng000062-parnell"
+        <sp who="#eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone"
                 xml:id="eng000062-e116910">
           <speaker>All. </speaker>
           <p>Bravely performd. </p>
@@ -3200,7 +3203,7 @@
           <speaker>Par. </speaker>
           <p>Whay, whay, whats here to doe? Come awaw, and whickly, and see us into our Brayd Chember, &amp; delicatly ludgd togeder, or wee'l whap you out o'dores ith morne to sijourne in the common, come away. </p>
         </sp>
-        <sp who="#eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone #eng000062-doughty #eng000062-lawrence #eng000062-parnell"
+        <sp who="#eng000062-arthur #eng000062-shakstone #eng000062-bantam #eng000062-whetstone"
                 xml:id="eng000062-e117140">
           <speaker>All. </speaker>
           <p>Wee follow yee. </p>
@@ -3219,7 +3222,7 @@
           <speaker>Mrs. Gener. </speaker>
           <p>I see thou art not quite tyr'd by shaking of thy selfe, 'tis a signe that as thou hast brought mee hither, so thou art able to beare mee backe, and so you are like good Robert. You will not let me have your masters gelding, you will not. Wel fir, as you like this journey, so deny him to me hereafter. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e117240">
+        <sp who="#eng000062-robert" xml:id="eng000062-e117240">
           <speaker>Rob. </speaker>
           <p>You say well mistresse, you have jaded me (a pox take you for a jade.) Now I bethinke my selfe how damnably did I ride last night, and how divellishly have I bin rid now. </p>
         </sp>
@@ -3232,7 +3235,7 @@
           <p>A pox upon your tayle. </p>
         </sp>
         <stage xml:id="eng000062-e117300">Enter all the Witches and Mal, at severall dores. </stage>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson #eng000062-mall"
+        <sp who="#eng000062-maud #eng000062-meg #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e117310">
           <speaker>All. </speaker>
           <p>The Lady of the feast is come, welcome, welcome. </p>
@@ -3241,7 +3244,7 @@
           <speaker>Mrs. </speaker>
           <p>Is all the cheare that was prepared to grace the wedding feast, yet come? </p>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e117350">
+        <sp who="#eng000062-goody" xml:id="eng000062-e117350">
           <speaker>Gooddy Dick </speaker>
           <lg>
             <l>part of it's here. </l>
@@ -3252,21 +3255,21 @@
           <speaker>Mrs. </speaker>
           <p>My horse, my horse, ha, ha, ha. </p>
         </sp>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson #eng000062-mall"
+        <sp who="#eng000062-maud #eng000062-meg #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e117410">
           <speaker>All. </speaker>
           <p>Ha, ha, ha. </p>
           <stage xml:id="eng000062-e117430">Exeunt </stage>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e117440">
+        <sp who="#eng000062-robert" xml:id="eng000062-e117440">
           <speaker>Rob. </speaker>
           <p>My horse, my horse, I would I were now some country Major, and in authority, to see if I would not venter to rowze your Satanicall sisterhood: Horse, horse, see thou be, &amp; where I point thee, carry me: is that the trick on't? the divel himselfe shall be her carrier next if I can shun her: &amp; yet my Mr. will not beleeve theres any witches: theres no running away; for I neither know how nor whether, besides to my thinking, theres a deepe ditch, &amp; a hye quick-set about mee, how shall I passe the time? What place is this? it looks like an old barne: ile peep in at some cranny or other, and try if I can see what they are doing. Such a bevy of beldames did I never behold; and cramming <pb xml:id="eng000062-024-b"/>like so many Cormorants: Marry choke you with a mischiefe. </p>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e117460">
+        <sp who="#eng000062-goody" xml:id="eng000062-e117460">
           <speaker>Gooddy Dickison. </speaker>
           <p>Whoope, whurre, heres a sturre, never a cat, never a curre, but that we must have this demurre. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e117480">
+        <sp who="#eng000062-mal" xml:id="eng000062-e117480">
           <speaker>Mal. </speaker>
           <p>A second course. </p>
         </sp>
@@ -3278,14 +3281,14 @@
             <l>For the great wedding feast. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e117550">
+        <sp who="#eng000062-mal" xml:id="eng000062-e117550">
           <speaker>Mal. </speaker>
           <lg>
             <l>As chiefe. </l>
             <l>Of Doughtyes Surloine of rost Beefe. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson"
+        <sp who="#eng000062-maud #eng000062-meg #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e117590">
           <speaker>All. </speaker>
           <p>Ha, ha, ha. </p>
@@ -3314,7 +3317,7 @@
             <l>What sod or rost meat more, pray tell. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e117750">
+        <sp who="#eng000062-goody" xml:id="eng000062-e117750">
           <speaker>Good. Dick </speaker>
           <lg>
             <l>Pul for the Poultry, Foule, &amp; Fish, </l>
@@ -3332,19 +3335,19 @@
             <l>Fetch what belongs unto the Dairie. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e117850">
+        <sp who="#eng000062-mal" xml:id="eng000062-e117850">
           <speaker>Mal. </speaker>
           <lg>
             <l>Thats Butter, Milk, Whey, Curds and Cheese, </l>
             <l>Wee nothing by the bargaine leese. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson #eng000062-mall"
+        <sp who="#eng000062-maud #eng000062-meg #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e117890">
           <speaker>All. </speaker>
           <p>Ha, ha, ha. </p>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e117910">
+        <sp who="#eng000062-goody" xml:id="eng000062-e117910">
           <speaker>Goody Dickison. </speaker>
           <p>Boy, theres meat for you. </p>
         </sp>
@@ -3352,7 +3355,7 @@
           <speaker>Boy. </speaker>
           <p>Thanke you. </p>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e117950">
+        <sp who="#eng000062-goody" xml:id="eng000062-e117950">
           <speaker>Gooddy Dickis </speaker>
           <p>And drinke too. </p>
         </sp>
@@ -3371,7 +3374,7 @@
             <l>A Porcupine that never prickt. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e118050">
+        <sp who="#eng000062-mal" xml:id="eng000062-e118050">
           <speaker>Mal. </speaker>
           <lg>
             <l>The dull sides of a Beare I kickt. </l>
@@ -3383,7 +3386,7 @@
           <p>Ha, ha, ha, upon the knave my man. </p>
         </sp>
         <pb xml:id="eng000062-025-a"/>
-        <sp who="#eng000062-robin" xml:id="eng000062-e118110">
+        <sp who="#eng000062-robert" xml:id="eng000062-e118110">
           <speaker>Rob. </speaker>
           <p>A murrein take you, I am sure my hoofes payd for't. </p>
         </sp>
@@ -3391,7 +3394,7 @@
           <speaker>Boy. </speaker>
           <p>Meat lie there, for thou hast no taste, and drinke there, for thou hast no relish, for in neither of them is there either salt or savour. </p>
         </sp>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson #eng000062-mall"
+        <sp who="#eng000062-maud #eng000062-meg #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e118150">
           <speaker>All. </speaker>
           <p>Pull for the posset, pull. </p>
@@ -3408,7 +3411,7 @@
             <l>We will be lively all, and make this barn our hall. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e118240">
+        <sp who="#eng000062-goody" xml:id="eng000062-e118240">
           <speaker>Gooddy Dick. </speaker>
           <lg>
             <l>You our Familiers, come. </l>
@@ -3427,11 +3430,11 @@
           </lg>
           <stage xml:id="eng000062-e118360">Musick. </stage>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e118370">
+        <sp who="#eng000062-mal" xml:id="eng000062-e118370">
           <speaker>Mal. </speaker>
           <p>We are obeyd. </p>
         </sp>
-        <sp who="#eng000062-spirits" xml:id="eng000062-e118390">
+        <sp who="#eng000062-spirit" xml:id="eng000062-e118390">
           <speaker>Sprite. </speaker>
           <p>And we hels ministers shall lend our aid. </p>
         </sp>
@@ -3451,7 +3454,7 @@
             <l>For lacke o'th wedding chere. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e118520">
+        <sp who="#eng000062-goody" xml:id="eng000062-e118520">
           <speaker>Gooddy Dickison. </speaker>
           <p>But stay, wheres the Boy, looke out, if he escape us, we are all betrayed. </p>
         </sp>
@@ -3462,7 +3465,7 @@
             <l>In vaine is our pursuit, let's breake up court. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-goody-dickieson" xml:id="eng000062-e118580">
+        <sp who="#eng000062-goody" xml:id="eng000062-e118580">
           <speaker>Gooddy Dickison. </speaker>
           <p>Where shall we next met? </p>
         </sp>
@@ -3489,7 +3492,7 @@
           </lg>
           <stage xml:id="eng000062-e118720">Robin stands amaz'd at this. </stage>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e118730">
+        <sp who="#eng000062-mal" xml:id="eng000062-e118730">
           <speaker>Mal. </speaker>
           <p>My Puggie. </p>
         </sp>
@@ -3500,7 +3503,7 @@
             <l>The night we have Feasted, now comes on the day. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-maud #eng000062-gillian #eng000062-meg #eng000062-goody-dickieson #eng000062-mall"
+        <sp who="#eng000062-maud #eng000062-meg #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e118790">
           <speaker>All. </speaker>
           <p>Away, away, </p>
@@ -3512,7 +3515,7 @@
             <l>Whil'st I put on your Bridle. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e118850">
+        <sp who="#eng000062-robert" xml:id="eng000062-e118850">
           <speaker>Rob. </speaker>
           <p>I pray Mistresse ride me as you would be rid. </p>
         </sp>
@@ -3520,7 +3523,7 @@
           <speaker>Mrs. </speaker>
           <p>That's at full speed, </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e118890">
+        <sp who="#eng000062-robert" xml:id="eng000062-e118890">
           <speaker>Rob. </speaker>
           <lg>
             <l>Nay then Ile try Conclusions. </l>
@@ -3571,7 +3574,7 @@
             <l>What, feeds he well? </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119300">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119300">
           <speaker>Rob. </speaker>
           <p>Yes sir, he's broad buttock'd and full flanck'd, he doth not bate an ace of his flesh. </p>
         </sp>
@@ -3579,7 +3582,7 @@
           <speaker>Gen. </speaker>
           <p>When was he rid last? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119340">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119340">
           <speaker>Rob. </speaker>
           <p>Not sir since you backt him. </p>
         </sp>
@@ -3591,7 +3594,7 @@
             <l>So late as this last Night? </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119410">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119410">
           <speaker>Rob. </speaker>
           <p>Who I sir, may I dye sir, if you finde me in a lye sir. </p>
         </sp>
@@ -3622,7 +3625,7 @@
           </lg>
           <stage xml:id="eng000062-e119580">Exit. </stage>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119590">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119590">
           <speaker>Rob. </speaker>
           <p>Well sir, finde what you can, him you shall finde, and what you finde else; it may befor that, instead of Gramercy horse, you may say Gramercy Robin; you will beleeve there are no Witches! had I not been late brideled, I coo'd have sayd more, but I hope she is ty'd to the racke that will confesse something, and though not so much as I know, yet no more then I dare justifie— </p>
           <stage xml:id="eng000062-e119610">Enter Generous. </stage>
@@ -3633,7 +3636,7 @@
           <p>Yes, I have. </p>
         </sp>
         <pb xml:id="eng000062-026-b"/>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119650">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119650">
           <speaker>Rob. </speaker>
           <p>I hope not spurr'd, nor put into a sweat, you may see by his plump belly and sleeke legs he hath not bin sore travail'd. </p>
         </sp>
@@ -3646,7 +3649,7 @@
             <l>For every strangers jades? </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119730">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119730">
           <speaker>Rob. </speaker>
           <p>I hope sir you finde none feeding there but your owne, if there be any you suspect, they have nothing to champeon, but the Bridle. </p>
         </sp>
@@ -3654,7 +3657,7 @@
           <speaker>Gener. </speaker>
           <p>Sirrah, whose jade is that ty'd to the Racke? </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119770">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119770">
           <speaker>Rob. </speaker>
           <p>The Mare you meane sir? </p>
         </sp>
@@ -3662,7 +3665,7 @@
           <speaker>Gener. </speaker>
           <p>Yes, that old Mare. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119810">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119810">
           <speaker>Rob. </speaker>
           <p>Old doe you call her? You shall finde the marke still in her mouth, when the Bridle is out of it? I can assure you 'tis your owne Beast. </p>
         </sp>
@@ -3677,7 +3680,7 @@
             <l>And not to know mine owne. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119910">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119910">
           <speaker>Rob. </speaker>
           <p>Ile not perswade you to any thing, you will beleeve nothing but what you see, I say the Beast is your owne, and you have most right to keepe her, shee hath cost you more the currying, then all the Combs in your Stable are worth. You have paid for her Provender this twentie yeares and upwards, and furnisht her with all the Caparisons that she hath worne, of my Knowledge, and because she hath been ridden hard the last Night, doe you renounce her now? </p>
         </sp>
@@ -3688,7 +3691,7 @@
             <l>That you would have me keepe. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e119970">
+        <sp who="#eng000062-robert" xml:id="eng000062-e119970">
           <speaker>Rob. </speaker>
           <p>I am sure I found her no iade the last time I rid her, she carried me the best part of a hundred Miles in lesse then a quarter of an houre. </p>
         </sp>
@@ -3709,7 +3712,7 @@
           </lg>
           <stage xml:id="eng000062-e120070">Exit. </stage>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e120080">
+        <sp who="#eng000062-robert" xml:id="eng000062-e120080">
           <speaker>Rob. </speaker>
           <p>I pray doe Sir, but take heed lest when the Bridle is out of her mouth, she put it not into yours; if she doe, you are a gone man: if she but say once— Horse, horse, see thou be. Be you rid (if you please) for me. </p>
         </sp>
@@ -3742,7 +3745,7 @@
             <l>Into this new World. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e120310">
+        <sp who="#eng000062-robert" xml:id="eng000062-e120310">
           <speaker>Rob. </speaker>
           <p>You will beleeve no Witches? </p>
         </sp>
@@ -3755,7 +3758,7 @@
             <l>Or this new transform'd Creature? </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e120390">
+        <sp who="#eng000062-robert" xml:id="eng000062-e120390">
           <speaker>Rob. </speaker>
           <p>I am Robin, and this your wife, my Mrs. </p>
         </sp>
@@ -3771,7 +3774,7 @@
             <l>So like a wife? </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e120500">
+        <sp who="#eng000062-robert" xml:id="eng000062-e120500">
           <speaker>Rob. </speaker>
           <p>A Bridle, jugling Bridle Sir. </p>
         </sp>
@@ -3785,7 +3788,7 @@
           </lg>
           <stage xml:id="eng000062-e120570">Casts it away. Robin takes it up. </stage>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e120580">
+        <sp who="#eng000062-robert" xml:id="eng000062-e120580">
           <speaker>Rob. </speaker>
           <p>Take heed Sir what you do, if you cast it hence, and she catch it up, we that are here now, may be rid as far as the Indies within these few houres, Mistresse down of your Mares bones, or your Mary-bones whether you please, and confesse your selfe to be what you are; and that's in plaine English a Witch, a grand notorius Witch. </p>
         </sp>
@@ -3793,7 +3796,7 @@
           <speaker>Gen. </speaker>
           <p>A Witch! my wife a Witch! </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e120620">
+        <sp who="#eng000062-robert" xml:id="eng000062-e120620">
           <speaker>Rob. </speaker>
           <p>So it appeares by the storie. </p>
         </sp>
@@ -3873,7 +3876,7 @@
             <l>Then such a compact ever had bin made. Oh— </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e121120">
+        <sp who="#eng000062-robert" xml:id="eng000062-e121120">
           <speaker>Rob. </speaker>
           <p>What cheese sir, show your selfe a man, though she appear'd so late a Beast; Mistresse confesse all, better here than in a worse place, out with it. </p>
         </sp>
@@ -3987,7 +3990,7 @@
             <l>But if I finde you faithfull, you gaine me ever. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e121820">
+        <sp who="#eng000062-robert" xml:id="eng000062-e121820">
           <speaker>Rob. </speaker>
           <lg>
             <l>A match sir, you shall finde me as mute as if I had the </l>
@@ -4012,7 +4015,7 @@
           </lg>
           <stage xml:id="eng000062-e122000">Exeunt. </stage>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e122010">
+        <sp who="#eng000062-robert" xml:id="eng000062-e122010">
           <speaker>Rob. </speaker>
           <p>I shall Sir, well now my Mistresse hath promis'd to give over her Witchery, I hope though I still continue her man, yet she will make me no more her journey-man; to prevent which the first thing I doe shall be to burne the Bridle, and then away with the Witch. </p>
           <stage xml:id="eng000062-e122030">Exit. </stage>
@@ -4081,8 +4084,7 @@
         </sp>
         <stage xml:id="eng000062-e122430">
           <pb xml:id="eng000062-029-b"/>A shout within. </stage>
-        <sp who="#eng000062-whetstone #eng000062-arthur #eng000062-shakstone #eng000062-mall #eng000062-mrs-generous #eng000062-bantam #eng000062-whetstone #eng000062-spirits"
-                xml:id="eng000062-e122440">
+        <sp who="#eng000062-voice" xml:id="eng000062-e122440">
           <speaker>Cry. </speaker>
           <p>A Skimington, a Skimmington, a Skimington. </p>
         </sp>
@@ -4095,12 +4097,11 @@
           <speaker>Arth. </speaker>
           <p>Tom Shakstone, how now, canst tell the newes? </p>
         </sp>
-        <sp who="#eng000062-whetstone #eng000062-arthur #eng000062-shakstone #eng000062-mall #eng000062-mrs-generous #eng000062-bantam #eng000062-whetstone #eng000062-spirits"
-                xml:id="eng000062-e122510">
+        <sp who="#eng000062-shakstone" xml:id="eng000062-e122510">
           <speaker>Sha. </speaker>
           <p>The news, ye heare it up i'th aire, do you not? </p>
         </sp>
-        <sp who="#eng000062-bantam" xml:id="eng000062-e122530">
+        <sp who="#eng000062-voice" xml:id="eng000062-e122530">
           <speaker>Within. </speaker>
           <p>A Skimington, a Skimington, a Skimington. </p>
         </sp>
@@ -4238,7 +4239,7 @@
           <speaker>Par. </speaker>
           <p>I say agean and agean, hee connot, he connot. </p>
         </sp>
-        <sp who="#eng000062-arthur #eng000062-bantam #eng000062-shakstone"
+        <sp who="#eng000062-bantam #eng000062-shakstone #eng000062-arthur"
                 xml:id="eng000062-e123200">
           <speaker>Ar. Ba Sha. </speaker>
           <p>Alas poore Parnel. </p>
@@ -4361,7 +4362,7 @@
           <p>Very good, I like this beginning well: for where they sleighted me before, they shall finde me a man of note. </p>
           <stage xml:id="eng000062-e123840">Exit. </stage>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e123850">
+        <sp who="#eng000062-mal" xml:id="eng000062-e123850">
           <speaker>Mal. </speaker>
           <p>Of this the meaning </p>
         </sp>
@@ -4378,7 +4379,7 @@
             <l>'Tis all for mirth, we mean no hurt. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e123970">
+        <sp who="#eng000062-mal" xml:id="eng000062-e123970">
           <speaker>Mal. </speaker>
           <lg>
             <l>My Spirit and my selfe command; </l>
@@ -4484,15 +4485,16 @@
           <p>In his house, that goes for your father you would say: For know one morning, when your mothers husband rid early to have a Nisi prius tryed at Lancaster Syzes, hee crept into his warme place, lay close by her side, and then were you got. Then come, your heeles and tayle together, and kneele unto your own deare father. </p>
         </sp>
         <pb xml:id="eng000062-032-a"/>
-        <sp who="#eng000062-whetstone" xml:id="eng000062-e124560">
+        <sp who="#eng000062-mrs-generous #eng000062-mal #eng000062-arthur #eng000062-bantam #eng000062-shakstone"
+                xml:id="eng000062-e124560">
           <speaker>All. </speaker>
           <p>Ha, ha, ha. </p>
         </sp>
-        <sp who="#eng000062-whetstone" xml:id="eng000062-e124580">
+        <sp who="#eng000062-bantam" xml:id="eng000062-e124580">
           <speaker>Bant. </speaker>
           <p>I am abused. </p>
         </sp>
-        <sp who="#eng000062-bantam" xml:id="eng000062-e124600">
+        <sp who="#eng000062-whetstone" xml:id="eng000062-e124600">
           <speaker>Whet. </speaker>
           <p>Why laugh you Gentlemen? It may be more mens cases than his or mine. Bant. To be thus geer'd. </p>
         </sp>
@@ -4532,8 +4534,7 @@
             <l>Come downe, come downe, aske blessing of your dad. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-spirits #eng000062-arthur #eng000062-shakstone #eng000062-mrs-generous #eng000062-mall"
-                xml:id="eng000062-e124820">
+        <sp who="#eng000062-arthur #eng000062-whetstone" xml:id="eng000062-e124820">
           <speaker>All </speaker>
           <p>Ha, ha, ha </p>
         </sp>
@@ -4622,7 +4623,7 @@
           </lg>
           <stage xml:id="eng000062-e125300">Exeunt. </stage>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e125310">
+        <sp who="#eng000062-mal" xml:id="eng000062-e125310">
           <speaker>Mal. </speaker>
           <p>Now say what's next? </p>
         </sp>
@@ -4804,7 +4805,7 @@
           <speaker>Mrs. </speaker>
           <p>Is Nab come? </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e126360">
+        <sp who="#eng000062-mal" xml:id="eng000062-e126360">
           <speaker>Mal. </speaker>
           <p>Yes. </p>
         </sp>
@@ -4812,7 +4813,7 @@
           <speaker>Mrs. </speaker>
           <p>Where's Jug? </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e126400">
+        <sp who="#eng000062-mal" xml:id="eng000062-e126400">
           <speaker>Mal. </speaker>
           <l>On horseback yet, </l>
           <l>Now lighting from her Broome-staffe. </l>
@@ -4821,7 +4822,7 @@
           <speaker>Mrs. </speaker>
           <p>But where's Peg? </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e126450">
+        <sp who="#eng000062-mal" xml:id="eng000062-e126450">
           <speaker>Mal. </speaker>
           <p>Entred the Mill already. </p>
         </sp>
@@ -4829,7 +4830,7 @@
           <speaker>Mrs. </speaker>
           <p>Is he fast? </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e126490">
+        <sp who="#eng000062-mal" xml:id="eng000062-e126490">
           <speaker>Mal. </speaker>
           <p>As sencelesse as a Dormouse. </p>
         </sp>
@@ -4870,7 +4871,7 @@
             <l>But no words of that. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e126790">
+        <sp who="#eng000062-robert" xml:id="eng000062-e126790">
           <speaker>Rob. </speaker>
           <p>You have taught me silence. </p>
         </sp>
@@ -4887,7 +4888,7 @@
             <l>Than those which did precede him. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e126910">
+        <sp who="#eng000062-robert" xml:id="eng000062-e126910">
           <speaker>Rob. </speaker>
           <p>Sir I shall. </p>
         </sp>
@@ -4910,7 +4911,7 @@
             <l>His wife now I suspect. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e127070">
+        <sp who="#eng000062-robert" xml:id="eng000062-e127070">
           <speaker>Rob. </speaker>
           <p>By your leave Sir. </p>
         </sp>
@@ -4921,7 +4922,7 @@
             <l>Since you were first my Father? </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e127130">
+        <sp who="#eng000062-robert" xml:id="eng000062-e127130">
           <speaker>Rob </speaker>
           <p>Be patient I beseech you, what doe you meane Sir? </p>
         </sp>
@@ -4936,7 +4937,7 @@
             <l>By killing thee my Father. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e127220">
+        <sp who="#eng000062-robert" xml:id="eng000062-e127220">
           <speaker>Rob. </speaker>
           <lg>
             <l>I your Father? he was a man I alwayes lov'd </l>
@@ -4979,7 +4980,7 @@
             <l>As had I been his Bastard. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e127490">
+        <sp who="#eng000062-robert" xml:id="eng000062-e127490">
           <speaker>Rob. </speaker>
           <p>I doe this? I am a horse agen if I got you, Master, why Master. </p>
         </sp>
@@ -5038,7 +5039,7 @@
           <speaker>Mrs. Gen. </speaker>
           <p>If it be so, excuse my weaknes to him, say I can speake with none. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e127870">
+        <sp who="#eng000062-mal" xml:id="eng000062-e127870">
           <speaker>Mal. </speaker>
           <p>I will, and scape him if I can; by this accident all must come out, and here's no stay for me </p>
           <stage xml:id="eng000062-e127890">(Knock again) </stage>
@@ -5057,7 +5058,7 @@
             <l>Yet have I seldome seene you. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e127990">
+        <sp who="#eng000062-mal" xml:id="eng000062-e127990">
           <speaker>Mal. </speaker>
           <lg>
             <l>Pray, by your leave Sir, </l>
@@ -5442,11 +5443,11 @@
           <speaker>Maud. </speaker>
           <p>No reliefe. </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e130250">
+        <sp who="#eng000062-meg" xml:id="eng000062-e130250">
           <speaker>Peg. </speaker>
           <p>No comfort! </p>
         </sp>
-        <sp who="#eng000062-maud #eng000062-peg #eng000062-gillian #eng000062-goody-dickieson"
+        <sp who="#eng000062-maud #eng000062-meg #eng000062-gillian #eng000062-goody"
                 xml:id="eng000062-e130270">
           <speaker>All. </speaker>
           <p>Mawsy, my Mawsy, gentle Mawsy come, </p>
@@ -5455,7 +5456,7 @@
           <speaker>Maud. </speaker>
           <p>Come my sweet Puckling. </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e130310">
+        <sp who="#eng000062-meg" xml:id="eng000062-e130310">
           <speaker>Peg. </speaker>
           <p>My Mamilion. </p>
         </sp>
@@ -5491,7 +5492,7 @@
           <speaker>Boy. </speaker>
           <p>Yes Sir, and saw them all in the Barne together, and many more at their Feast and Witchery. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e130490">
+        <sp who="#eng000062-robert" xml:id="eng000062-e130490">
           <speaker>Rob. </speaker>
           <p>And so did I, by a Divellish token, I was rid thither, though I rid home againe as fast without switch or spur. </p>
         </sp>
@@ -5523,7 +5524,7 @@
           <speaker>Parn. </speaker>
           <p>Yeou can blame no honest woman, I trow, to scrat for the thing she leoves. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e130650">
+        <sp who="#eng000062-mal" xml:id="eng000062-e130650">
           <speaker>Mal. </speaker>
           <p>Ha, ha, ha. </p>
         </sp>
@@ -5546,7 +5547,7 @@
           <speaker>Mawd. </speaker>
           <p>And I. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e130770">
+        <sp who="#eng000062-mal" xml:id="eng000062-e130770">
           <speaker>Mal. </speaker>
           <p>And I, other confession you get none from us. </p>
         </sp>
@@ -5554,7 +5555,7 @@
           <speaker>Arth. </speaker>
           <p>What say you Granny? </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e130810">
+        <sp who="#eng000062-meg" xml:id="eng000062-e130810">
           <speaker>Peg. </speaker>
           <p>Mamilion, ho Mamilion, Mamilion. </p>
         </sp>
@@ -5562,11 +5563,11 @@
           <speaker>Arth. </speaker>
           <p>Who's that you call? </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e130850">
+        <sp who="#eng000062-meg" xml:id="eng000062-e130850">
           <speaker>Peg. </speaker>
           <p>My friend, my Sweet-heart, my Mamilion. </p>
         </sp>
-        <sp who="#eng000062-witches" xml:id="eng000062-e130870">
+        <sp who="#eng000062-maud #eng000062-gillian" xml:id="eng000062-e130870">
           <speaker>Witches. </speaker>
           <p>You are not mad? </p>
         </sp>
@@ -5575,7 +5576,7 @@
           <p>Ah ha, that's her Divell, her Incubus I warrant; take her off from the rest they'l hurt her. Come hether poore old woman. Ile dandle a Witch a little, thou wilt speake, and tell the truth, and shalt have favour doubt not. Say art not thou a Witch? </p>
           <stage xml:id="eng000062-e130910">They storme. </stage>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e130920">
+        <sp who="#eng000062-meg" xml:id="eng000062-e130920">
           <speaker>Peg. </speaker>
           <p>'Tis folly to dissemble yie sir, I am one. </p>
         </sp>
@@ -5586,7 +5587,7 @@
             <l>Is thy familiar Divell is't not? Nay prithee speake. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e130980">
+        <sp who="#eng000062-meg" xml:id="eng000062-e130980">
           <speaker>Peg. </speaker>
           <p>Yes Sir. </p>
         </sp>
@@ -5594,7 +5595,7 @@
           <speaker>Dough. </speaker>
           <p>That's a good woman, how long hast had's acquaintance, ha? </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e131020">
+        <sp who="#eng000062-meg" xml:id="eng000062-e131020">
           <speaker>Peg. </speaker>
           <p>A matter of sixe yeares Sir. </p>
         </sp>
@@ -5602,7 +5603,7 @@
           <speaker>Dought. </speaker>
           <p>A pretty matter. What was he like a man? </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e131060">
+        <sp who="#eng000062-meg" xml:id="eng000062-e131060">
           <speaker>Peg. </speaker>
           <p>Yes when I pleas'd. </p>
         </sp>
@@ -5610,7 +5611,7 @@
           <speaker>Dought. </speaker>
           <p>And then he lay with thee, did he not sometimes? </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e131100">
+        <sp who="#eng000062-meg" xml:id="eng000062-e131100">
           <speaker>Peg. </speaker>
           <p>Tis folly to dissemble; twice a Weeke he never fail'd me. </p>
         </sp>
@@ -5618,7 +5619,7 @@
           <speaker>Dough. </speaker>
           <p>Humh— and how? and how a little? was he a good Bedfellow? </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e131140">
+        <sp who="#eng000062-meg" xml:id="eng000062-e131140">
           <speaker>Peg. </speaker>
           <p>Tis folly to speake worse of him than he is. </p>
         </sp>
@@ -5626,7 +5627,7 @@
           <speaker>Dough. </speaker>
           <p>I trust me is't. Give the Divell his due. </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e131180">
+        <sp who="#eng000062-meg" xml:id="eng000062-e131180">
           <speaker>Peg. </speaker>
           <p>He pleas'd me well Sir, like a proper man. </p>
         </sp>
@@ -5634,7 +5635,7 @@
           <speaker>Dought. </speaker>
           <p>There was sweet coupling. </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e131220">
+        <sp who="#eng000062-meg" xml:id="eng000062-e131220">
           <speaker>Peg. </speaker>
           <p>Onely his flesh felt cold. </p>
         </sp>
@@ -5647,7 +5648,7 @@
           <speaker>Dough. </speaker>
           <p>Peace, and did he weare good clothes? </p>
         </sp>
-        <sp who="#eng000062-peg" xml:id="eng000062-e131280">
+        <sp who="#eng000062-meg" xml:id="eng000062-e131280">
           <speaker>Peg. </speaker>
           <p>Gentleman like, but blacke blacke points and all. </p>
         </sp>
@@ -5663,15 +5664,15 @@
             <l>Must never see her more. </l>
           </lg>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e131370">
+        <sp who="#eng000062-robert" xml:id="eng000062-e131370">
           <speaker>Rob. </speaker>
           <p>Mal, adiew sweet Mal, ride your next journey with the company you have there. </p>
         </sp>
-        <sp who="#eng000062-mall" xml:id="eng000062-e131390">
+        <sp who="#eng000062-mal" xml:id="eng000062-e131390">
           <speaker>Mal. </speaker>
           <p>Well Rogue I may live to ride in a Coach before I come to the Gallowes yet. </p>
         </sp>
-        <sp who="#eng000062-robin" xml:id="eng000062-e131410">
+        <sp who="#eng000062-robert" xml:id="eng000062-e131410">
           <speaker>Rob. </speaker>
           <p>And Mrs. the horse that stayes for you rides better with a Halter than your gingling bridle. </p>
           <stage xml:id="eng000062-e131430">Exeunt Gen. &amp; Robin. </stage>

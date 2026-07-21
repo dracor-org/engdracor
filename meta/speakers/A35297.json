@@ -1,0 +1,4135 @@
+{
+  "particDesc": [
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man",
+      "id": "man",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Woman",
+      "id": "woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Servant 2",
+      "id": "servant-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Servant",
+      "id": "servant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lord-belguard",
+      "name": "Lord Belguard",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "sir-courtly-nice",
+      "name": "Sir Courtly Nice",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "farewel",
+      "name": "Farewel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "surly",
+      "name": "Surly",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "crack",
+      "name": "Crack",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "hothead",
+      "name": "Hothead",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "testimony",
+      "name": "Testimony",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "violante",
+      "name": "Violante",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "leonora",
+      "name": "Leonora",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "aunt",
+      "name": "Aunt",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A35297-e2280": [
+      "leonora"
+    ],
+    "A35297-e2320": [
+      "violante"
+    ],
+    "A35297-e2350": [
+      "leonora"
+    ],
+    "A35297-e2380": [
+      "violante"
+    ],
+    "A35297-e2410": [
+      "leonora"
+    ],
+    "A35297-e2440": [
+      "violante"
+    ],
+    "A35297-e2470": [
+      "leonora"
+    ],
+    "A35297-e2500": [
+      "violante"
+    ],
+    "A35297-e2530": [
+      "leonora"
+    ],
+    "A35297-e2570": [
+      "violante"
+    ],
+    "A35297-e2600": [
+      "leonora"
+    ],
+    "A35297-e2630": [
+      "violante"
+    ],
+    "A35297-e2660": [
+      "leonora"
+    ],
+    "A35297-e2690": [
+      "violante"
+    ],
+    "A35297-e2730": [
+      "leonora"
+    ],
+    "A35297-e2760": [
+      "violante"
+    ],
+    "A35297-e2790": [
+      "leonora"
+    ],
+    "A35297-e2820": [
+      "violante"
+    ],
+    "A35297-e2850": [
+      "leonora"
+    ],
+    "A35297-e2880": [
+      "violante"
+    ],
+    "A35297-e2910": [
+      "leonora"
+    ],
+    "A35297-e2950": [
+      "violante"
+    ],
+    "A35297-e2980": [
+      "leonora"
+    ],
+    "A35297-e3010": [
+      "violante"
+    ],
+    "A35297-e3050": [
+      "leonora"
+    ],
+    "A35297-e3080": [
+      "violante"
+    ],
+    "A35297-e3110": [
+      "leonora"
+    ],
+    "A35297-e3140": [
+      "violante"
+    ],
+    "A35297-e3170": [
+      "leonora"
+    ],
+    "A35297-e3200": [
+      "violante"
+    ],
+    "A35297-e3230": [
+      "leonora"
+    ],
+    "A35297-e3260": [
+      "violante"
+    ],
+    "A35297-e3290": [
+      "leonora"
+    ],
+    "A35297-e3330": [
+      "violante"
+    ],
+    "A35297-e3360": [
+      "leonora"
+    ],
+    "A35297-e3400": [
+      "violante"
+    ],
+    "A35297-e3430": [
+      "leonora"
+    ],
+    "A35297-e3460": [
+      "violante"
+    ],
+    "A35297-e3490": [
+      "leonora"
+    ],
+    "A35297-e3560": [
+      "leonora"
+    ],
+    "A35297-e3620": [
+      "hothead"
+    ],
+    "A35297-e3650": [
+      "leonora"
+    ],
+    "A35297-e3680": [
+      "hothead"
+    ],
+    "A35297-e3720": [
+      "leonora"
+    ],
+    "A35297-e3750": [
+      "hothead"
+    ],
+    "A35297-e3780": [
+      "leonora"
+    ],
+    "A35297-e3810": [
+      "hothead"
+    ],
+    "A35297-e3840": [
+      "leonora"
+    ],
+    "A35297-e3870": [
+      "hothead"
+    ],
+    "A35297-e3930": [
+      "testimony"
+    ],
+    "A35297-e3960": [
+      "hothead"
+    ],
+    "A35297-e3990": [
+      "testimony"
+    ],
+    "A35297-e4020": [
+      "hothead"
+    ],
+    "A35297-e4050": [
+      "testimony"
+    ],
+    "A35297-e4090": [
+      "hothead"
+    ],
+    "A35297-e4130": [
+      "testimony"
+    ],
+    "A35297-e4170": [
+      "hothead"
+    ],
+    "A35297-e4200": [
+      "testimony"
+    ],
+    "A35297-e4230": [
+      "hothead"
+    ],
+    "A35297-e4270": [
+      "testimony"
+    ],
+    "A35297-e4320": [
+      "hothead"
+    ],
+    "A35297-e4360": [
+      "testimony"
+    ],
+    "A35297-e4420": [
+      "hothead"
+    ],
+    "A35297-e4450": [
+      "testimony"
+    ],
+    "A35297-e4500": [
+      "hothead"
+    ],
+    "A35297-e4530": [
+      "testimony"
+    ],
+    "A35297-e4560": [
+      "hothead"
+    ],
+    "A35297-e4590": [
+      "leonora"
+    ],
+    "A35297-e4620": [
+      "testimony"
+    ],
+    "A35297-e4650": [
+      "hothead"
+    ],
+    "A35297-e4680": [
+      "leonora"
+    ],
+    "A35297-e4720": [
+      "testimony"
+    ],
+    "A35297-e4760": [
+      "hothead"
+    ],
+    "A35297-e4800": [
+      "leonora"
+    ],
+    "A35297-e4840": [
+      "testimony"
+    ],
+    "A35297-e4870": [
+      "hothead"
+    ],
+    "A35297-e4900": [
+      "leonora"
+    ],
+    "A35297-e4930": [
+      "testimony"
+    ],
+    "A35297-e4960": [
+      "violante"
+    ],
+    "A35297-e4990": [
+      "leonora"
+    ],
+    "A35297-e5020": [
+      "hothead"
+    ],
+    "A35297-e5080": [
+      "testimony"
+    ],
+    "A35297-e5110": [
+      "hothead"
+    ],
+    "A35297-e5160": [
+      "testimony"
+    ],
+    "A35297-e5190": [
+      "hothead"
+    ],
+    "A35297-e5220": [
+      "testimony"
+    ],
+    "A35297-e5250": [
+      "hothead"
+    ],
+    "A35297-e5280": [
+      "testimony"
+    ],
+    "A35297-e5310": [
+      "hothead"
+    ],
+    "A35297-e5350": [
+      "testimony"
+    ],
+    "A35297-e5390": [
+      "violante"
+    ],
+    "A35297-e5420": [
+      "leonora"
+    ],
+    "A35297-e5470": [
+      "aunt"
+    ],
+    "A35297-e5500": [
+      "leonora"
+    ],
+    "A35297-e5540": [
+      "aunt"
+    ],
+    "A35297-e5570": [
+      "leonora"
+    ],
+    "A35297-e5610": [
+      "aunt"
+    ],
+    "A35297-e5640": [
+      "violante"
+    ],
+    "A35297-e5670": [
+      "aunt"
+    ],
+    "A35297-e5700": [
+      "violante"
+    ],
+    "A35297-e5730": [
+      "aunt"
+    ],
+    "A35297-e5760": [
+      "violante"
+    ],
+    "A35297-e5790": [
+      "aunt"
+    ],
+    "A35297-e5820": [
+      "violante"
+    ],
+    "A35297-e5850": [
+      "leonora"
+    ],
+    "A35297-e5890": [
+      "aunt"
+    ],
+    "A35297-e5920": [
+      "violante"
+    ],
+    "A35297-e5950": [
+      "aunt"
+    ],
+    "A35297-e5980": [
+      "violante"
+    ],
+    "A35297-e6010": [
+      "aunt"
+    ],
+    "A35297-e6040": [
+      "leonora"
+    ],
+    "A35297-e6080": [
+      "aunt"
+    ],
+    "A35297-e6110": [
+      "violante"
+    ],
+    "A35297-e6140": [
+      "aunt"
+    ],
+    "A35297-e6170": [
+      "violante"
+    ],
+    "A35297-e6220": [
+      "leonora"
+    ],
+    "A35297-e6250": [
+      "violante"
+    ],
+    "A35297-e6280": [
+      "leonora"
+    ],
+    "A35297-e6310": [
+      "violante"
+    ],
+    "A35297-e6340": [
+      "leonora"
+    ],
+    "A35297-e6370": [
+      "violante"
+    ],
+    "A35297-e6440": [
+      "lord-belguard"
+    ],
+    "A35297-e6470": [
+      "leonora"
+    ],
+    "A35297-e6500": [
+      "violante"
+    ],
+    "A35297-e6540": [
+      "lord-belguard"
+    ],
+    "A35297-e6570": [
+      "violante"
+    ],
+    "A35297-e6600": [
+      "lord-belguard"
+    ],
+    "A35297-e6630": [
+      "violante"
+    ],
+    "A35297-e6670": [
+      "lord-belguard"
+    ],
+    "A35297-e6700": [
+      "violante"
+    ],
+    "A35297-e6730": [
+      "lord-belguard"
+    ],
+    "A35297-e6760": [
+      "leonora"
+    ],
+    "A35297-e6790": [
+      "lord-belguard"
+    ],
+    "A35297-e6820": [
+      "violante"
+    ],
+    "A35297-e6850": [
+      "lord-belguard"
+    ],
+    "A35297-e6880": [
+      "leonora"
+    ],
+    "A35297-e6910": [
+      "lord-belguard"
+    ],
+    "A35297-e6940": [
+      "violante"
+    ],
+    "A35297-e6970": [
+      "lord-belguard"
+    ],
+    "A35297-e7000": [
+      "leonora"
+    ],
+    "A35297-e7030": [
+      "lord-belguard"
+    ],
+    "A35297-e7060": [
+      "leonora"
+    ],
+    "A35297-e7090": [
+      "lord-belguard"
+    ],
+    "A35297-e7120": [
+      "leonora"
+    ],
+    "A35297-e7150": [
+      "lord-belguard"
+    ],
+    "A35297-e7180": [
+      "violante"
+    ],
+    "A35297-e7210": [
+      "lord-belguard"
+    ],
+    "A35297-e7240": [
+      "leonora"
+    ],
+    "A35297-e7270": [
+      "lord-belguard"
+    ],
+    "A35297-e7300": [
+      "leonora"
+    ],
+    "A35297-e7330": [
+      "lord-belguard"
+    ],
+    "A35297-e7360": [
+      "violante"
+    ],
+    "A35297-e7390": [
+      "lord-belguard"
+    ],
+    "A35297-e7420": [
+      "leonora"
+    ],
+    "A35297-e7450": [
+      "lord-belguard"
+    ],
+    "A35297-e7590": [
+      "violante"
+    ],
+    "A35297-e7630": [
+      "servant"
+    ],
+    "A35297-e7660": [
+      "violante"
+    ],
+    "A35297-e7710": [
+      "farewel"
+    ],
+    "A35297-e7740": [
+      "violante"
+    ],
+    "A35297-e7780": [
+      "farewel"
+    ],
+    "A35297-e7810": [
+      "violante"
+    ],
+    "A35297-e7860": [
+      "farewel"
+    ],
+    "A35297-e7890": [
+      "violante"
+    ],
+    "A35297-e7920": [
+      "farewel"
+    ],
+    "A35297-e7950": [
+      "violante"
+    ],
+    "A35297-e7980": [
+      "farewel"
+    ],
+    "A35297-e8030": [
+      "violante"
+    ],
+    "A35297-e8060": [
+      "farewel"
+    ],
+    "A35297-e8090": [
+      "violante"
+    ],
+    "A35297-e8120": [
+      "farewel"
+    ],
+    "A35297-e8150": [
+      "violante"
+    ],
+    "A35297-e8180": [
+      "farewel"
+    ],
+    "A35297-e8210": [
+      "violante"
+    ],
+    "A35297-e8240": [
+      "farewel"
+    ],
+    "A35297-e8280": [
+      "violante"
+    ],
+    "A35297-e8310": [
+      "farewel"
+    ],
+    "A35297-e8340": [
+      "violante"
+    ],
+    "A35297-e8370": [
+      "farewel"
+    ],
+    "A35297-e8420": [
+      "servant"
+    ],
+    "A35297-e8460": [
+      "farewel"
+    ],
+    "A35297-e8510": [
+      "crack"
+    ],
+    "A35297-e8540": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e8570": [
+      "violante"
+    ],
+    "A35297-e8610": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e8640": [
+      "violante"
+    ],
+    "A35297-e8670": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e8700": [
+      "violante"
+    ],
+    "A35297-e8730": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e8760": [
+      "violante"
+    ],
+    "A35297-e8790": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e8820": [
+      "farewel"
+    ],
+    "A35297-e8860": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e8890": [
+      "farewel"
+    ],
+    "A35297-e8920": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e8990": [
+      "violante"
+    ],
+    "A35297-e9030": [
+      "farewel"
+    ],
+    "A35297-e9060": [
+      "violante"
+    ],
+    "A35297-e9090": [
+      "farewel"
+    ],
+    "A35297-e9120": [
+      "violante"
+    ],
+    "A35297-e9150": [
+      "farewel"
+    ],
+    "A35297-e9180": [
+      "violante"
+    ],
+    "A35297-e9210": [
+      "farewel"
+    ],
+    "A35297-e9240": [
+      "violante"
+    ],
+    "A35297-e9280": [
+      "farewel"
+    ],
+    "A35297-e9400": [
+      "violante"
+    ],
+    "A35297-e9430": [
+      "farewel"
+    ],
+    "A35297-e9460": [
+      "violante"
+    ],
+    "A35297-e9500": [
+      "surly"
+    ],
+    "A35297-e9530": [
+      "violante"
+    ],
+    "A35297-e9590": [
+      "farewel"
+    ],
+    "A35297-e9630": [
+      "surly"
+    ],
+    "A35297-e9660": [
+      "farewel"
+    ],
+    "A35297-e9690": [
+      "surly"
+    ],
+    "A35297-e9720": [
+      "farewel"
+    ],
+    "A35297-e9750": [
+      "surly"
+    ],
+    "A35297-e9780": [
+      "farewel"
+    ],
+    "A35297-e9810": [
+      "surly"
+    ],
+    "A35297-e9840": [
+      "farewel"
+    ],
+    "A35297-e9870": [
+      "surly"
+    ],
+    "A35297-e9900": [
+      "farewel"
+    ],
+    "A35297-e9930": [
+      "surly"
+    ],
+    "A35297-e9980": [
+      "farewel"
+    ],
+    "A35297-e10010": [
+      "surly"
+    ],
+    "A35297-e10040": [
+      "farewel"
+    ],
+    "A35297-e10070": [
+      "surly"
+    ],
+    "A35297-e10100": [
+      "farewel"
+    ],
+    "A35297-e10130": [
+      "surly"
+    ],
+    "A35297-e10160": [
+      "farewel"
+    ],
+    "A35297-e10190": [
+      "surly"
+    ],
+    "A35297-e10220": [
+      "farewel"
+    ],
+    "A35297-e10250": [
+      "surly"
+    ],
+    "A35297-e10280": [
+      "farewel"
+    ],
+    "A35297-e10310": [
+      "surly"
+    ],
+    "A35297-e10340": [
+      "farewel"
+    ],
+    "A35297-e10370": [
+      "surly"
+    ],
+    "A35297-e10400": [
+      "farewel"
+    ],
+    "A35297-e10430": [
+      "surly"
+    ],
+    "A35297-e10460": [
+      "farewel"
+    ],
+    "A35297-e10490": [
+      "surly"
+    ],
+    "A35297-e10520": [
+      "farewel"
+    ],
+    "A35297-e10550": [
+      "surly"
+    ],
+    "A35297-e10580": [
+      "farewel"
+    ],
+    "A35297-e10610": [
+      "surly"
+    ],
+    "A35297-e10640": [
+      "farewel"
+    ],
+    "A35297-e10670": [
+      "surly"
+    ],
+    "A35297-e10720": [
+      "farewel"
+    ],
+    "A35297-e10750": [
+      "surly"
+    ],
+    "A35297-e10780": [
+      "farewel"
+    ],
+    "A35297-e10830": [
+      "surly"
+    ],
+    "A35297-e10860": [
+      "violante"
+    ],
+    "A35297-e10890": [
+      "surly"
+    ],
+    "A35297-e10940": [
+      "violante"
+    ],
+    "A35297-e10970": [
+      "farewel"
+    ],
+    "A35297-e11020": [
+      "violante"
+    ],
+    "A35297-e11050": [
+      "surly"
+    ],
+    "A35297-e11080": [
+      "farewel"
+    ],
+    "A35297-e11130": [
+      "surly"
+    ],
+    "A35297-e11160": [
+      "farewel"
+    ],
+    "A35297-e11190": [
+      "surly"
+    ],
+    "A35297-e11220": [
+      "farewel"
+    ],
+    "A35297-e11250": [
+      "surly"
+    ],
+    "A35297-e11280": [
+      "farewel"
+    ],
+    "A35297-e11310": [
+      "surly"
+    ],
+    "A35297-e11340": [
+      "violante"
+    ],
+    "A35297-e11370": [
+      "farewel"
+    ],
+    "A35297-e11410": [
+      "violante"
+    ],
+    "A35297-e11440": [
+      "surly"
+    ],
+    "A35297-e11470": [
+      "violante"
+    ],
+    "A35297-e11510": [
+      "surly"
+    ],
+    "A35297-e11540": [
+      "violante"
+    ],
+    "A35297-e11570": [
+      "surly"
+    ],
+    "A35297-e11600": [
+      "violante"
+    ],
+    "A35297-e11630": [
+      "surly"
+    ],
+    "A35297-e11660": [
+      "violante"
+    ],
+    "A35297-e11700": [
+      "surly"
+    ],
+    "A35297-e11730": [
+      "violante"
+    ],
+    "A35297-e11770": [
+      "surly"
+    ],
+    "A35297-e11800": [
+      "violante"
+    ],
+    "A35297-e11830": [
+      "surly"
+    ],
+    "A35297-e11870": [
+      "violante"
+    ],
+    "A35297-e11960": [
+      "testimony"
+    ],
+    "A35297-e11990": [
+      "hothead"
+    ],
+    "A35297-e12020": [
+      "testimony"
+    ],
+    "A35297-e12050": [
+      "hothead"
+    ],
+    "A35297-e12080": [
+      "testimony"
+    ],
+    "A35297-e12110": [
+      "hothead"
+    ],
+    "A35297-e12140": [
+      "testimony"
+    ],
+    "A35297-e12170": [
+      "hothead"
+    ],
+    "A35297-e12200": [
+      "testimony"
+    ],
+    "A35297-e12230": [
+      "hothead"
+    ],
+    "A35297-e12260": [
+      "testimony"
+    ],
+    "A35297-e12290": [
+      "hothead"
+    ],
+    "A35297-e12320": [
+      "testimony"
+    ],
+    "A35297-e12350": [
+      "hothead"
+    ],
+    "A35297-e12380": [
+      "testimony"
+    ],
+    "A35297-e12410": [
+      "hothead"
+    ],
+    "A35297-e12440": [
+      "testimony"
+    ],
+    "A35297-e12470": [
+      "hothead"
+    ],
+    "A35297-e12530": [
+      "testimony"
+    ],
+    "A35297-e12590": [
+      "aunt"
+    ],
+    "A35297-e12630": [
+      "hothead"
+    ],
+    "A35297-e12660": [
+      "aunt"
+    ],
+    "A35297-e12690": [
+      "hothead"
+    ],
+    "A35297-e12720": [
+      "aunt"
+    ],
+    "A35297-e12750": [
+      "hothead"
+    ],
+    "A35297-e12810": [
+      "leonora"
+    ],
+    "A35297-e12840": [
+      "hothead"
+    ],
+    "A35297-e12870": [
+      "leonora"
+    ],
+    "A35297-e12900": [
+      "hothead"
+    ],
+    "A35297-e12930": [
+      "aunt"
+    ],
+    "A35297-e12960": [
+      "leonora"
+    ],
+    "A35297-e13020": [
+      "aunt"
+    ],
+    "A35297-e13050": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e13080": [
+      "aunt"
+    ],
+    "A35297-e13110": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e13150": [
+      "aunt"
+    ],
+    "A35297-e13180": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e13210": [
+      "aunt"
+    ],
+    "A35297-e13240": [
+      "leonora"
+    ],
+    "A35297-e13280": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e13310": [
+      "aunt"
+    ],
+    "A35297-e13340": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e13380": [
+      "testimony"
+    ],
+    "A35297-e13420": [
+      "hothead"
+    ],
+    "A35297-e13450": [
+      "testimony"
+    ],
+    "A35297-e13480": [
+      "hothead"
+    ],
+    "A35297-e13510": [
+      "testimony"
+    ],
+    "A35297-e13540": [
+      "hothead"
+    ],
+    "A35297-e13570": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e13600": [
+      "aunt"
+    ],
+    "A35297-e13650": [
+      "hothead"
+    ],
+    "A35297-e13680": [
+      "testimony"
+    ],
+    "A35297-e13730": [
+      "aunt"
+    ],
+    "A35297-e13770": [
+      "testimony"
+    ],
+    "A35297-e13800": [
+      "aunt"
+    ],
+    "A35297-e13830": [
+      "testimony"
+    ],
+    "A35297-e13860": [
+      "leonora"
+    ],
+    "A35297-e13890": [
+      "testimony"
+    ],
+    "A35297-e13930": [
+      "leonora"
+    ],
+    "A35297-e13960": [
+      "testimony"
+    ],
+    "A35297-e14000": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14050": [
+      "aunt"
+    ],
+    "A35297-e14080": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14110": [
+      "leonora"
+    ],
+    "A35297-e14160": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14200": [
+      "leonora"
+    ],
+    "A35297-e14230": [
+      "aunt"
+    ],
+    "A35297-e14260": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14330": [
+      "leonora"
+    ],
+    "A35297-e14360": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14390": [
+      "leonora"
+    ],
+    "A35297-e14420": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14470": [
+      "lord-belguard"
+    ],
+    "A35297-e14500": [
+      "leonora"
+    ],
+    "A35297-e14530": [
+      "lord-belguard"
+    ],
+    "A35297-e14560": [
+      "aunt"
+    ],
+    "A35297-e14590": [
+      "lord-belguard"
+    ],
+    "A35297-e14620": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14650": [
+      "lord-belguard"
+    ],
+    "A35297-e14680": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14710": [
+      "lord-belguard"
+    ],
+    "A35297-e14790": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14820": [
+      "leonora"
+    ],
+    "A35297-e14850": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14880": [
+      "leonora"
+    ],
+    "A35297-e14910": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e14940": [
+      "leonora"
+    ],
+    "A35297-e14970": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15000": [
+      "leonora"
+    ],
+    "A35297-e15030": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15060": [
+      "leonora"
+    ],
+    "A35297-e15090": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15130": [
+      "lord-belguard"
+    ],
+    "A35297-e15170": [
+      "aunt"
+    ],
+    "A35297-e15210": [
+      "leonora"
+    ],
+    "A35297-e15250": [
+      "lord-belguard"
+    ],
+    "A35297-e15290": [
+      "leonora"
+    ],
+    "A35297-e15320": [
+      "lord-belguard"
+    ],
+    "A35297-e15350": [
+      "leonora"
+    ],
+    "A35297-e15380": [
+      "lord-belguard"
+    ],
+    "A35297-e15410": [
+      "leonora"
+    ],
+    "A35297-e15440": [
+      "lord-belguard"
+    ],
+    "A35297-e15600": [
+      "farewel"
+    ],
+    "A35297-e15630": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15660": [
+      "farewel"
+    ],
+    "A35297-e15690": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15720": [
+      "farewel"
+    ],
+    "A35297-e15750": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15780": [
+      "farewel"
+    ],
+    "A35297-e15810": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15840": [
+      "farewel"
+    ],
+    "A35297-e15870": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15900": [
+      "farewel"
+    ],
+    "A35297-e15930": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e15960": [
+      "farewel"
+    ],
+    "A35297-e15990": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16020": [
+      "farewel"
+    ],
+    "A35297-e16050": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16090": [
+      "farewel"
+    ],
+    "A35297-e16170": [
+      "surly"
+    ],
+    "A35297-e16210": [
+      "servant"
+    ],
+    "A35297-e16250": [
+      "surly"
+    ],
+    "A35297-e16300": [
+      "servant"
+    ],
+    "A35297-e16340": [
+      "surly"
+    ],
+    "A35297-e16370": [
+      "servant"
+    ],
+    "A35297-e16400": [
+      "surly"
+    ],
+    "A35297-e16430": [
+      "servant"
+    ],
+    "A35297-e16490": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16540": [
+      "servant"
+    ],
+    "A35297-e16570": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16600": [
+      "servant"
+    ],
+    "A35297-e16630": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16660": [
+      "servant"
+    ],
+    "A35297-e16690": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16730": [
+      "servant"
+    ],
+    "A35297-e16760": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16790": [
+      "servant"
+    ],
+    "A35297-e16820": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16850": [
+      "servant"
+    ],
+    "A35297-e16880": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16910": [
+      "servant"
+    ],
+    "A35297-e16940": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e16980": [
+      "servant-2"
+    ],
+    "A35297-e17020": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17060": [
+      "servant-2"
+    ],
+    "A35297-e17090": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17140": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17190": [
+      "surly"
+    ],
+    "A35297-e17240": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17330": [
+      "surly"
+    ],
+    "A35297-e17360": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17390": [
+      "surly"
+    ],
+    "A35297-e17420": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17450": [
+      "surly"
+    ],
+    "A35297-e17480": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17510": [
+      "surly"
+    ],
+    "A35297-e17540": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17570": [
+      "surly"
+    ],
+    "A35297-e17600": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17630": [
+      "surly"
+    ],
+    "A35297-e17660": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17690": [
+      "surly"
+    ],
+    "A35297-e17720": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17750": [
+      "surly"
+    ],
+    "A35297-e17780": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17820": [
+      "surly"
+    ],
+    "A35297-e17850": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17880": [
+      "surly"
+    ],
+    "A35297-e17910": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e17950": [
+      "servant"
+    ],
+    "A35297-e17980": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18010": [
+      "servant"
+    ],
+    "A35297-e18040": [
+      "surly"
+    ],
+    "A35297-e18070": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18100": [
+      "surly"
+    ],
+    "A35297-e18130": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18160": [
+      "surly"
+    ],
+    "A35297-e18210": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18240": [
+      "surly"
+    ],
+    "A35297-e18280": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18330": [
+      "surly"
+    ],
+    "A35297-e18360": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18400": [
+      "surly"
+    ],
+    "A35297-e18440": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18480": [
+      "surly"
+    ],
+    "A35297-e18510": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18560": [
+      "surly"
+    ],
+    "A35297-e18590": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18630": [
+      "surly"
+    ],
+    "A35297-e18660": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18700": [
+      "surly"
+    ],
+    "A35297-e18730": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18770": [
+      "surly"
+    ],
+    "A35297-e18800": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18830": [
+      "surly"
+    ],
+    "A35297-e18860": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18900": [
+      "surly"
+    ],
+    "A35297-e18930": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e18970": [
+      "surly"
+    ],
+    "A35297-e19000": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19040": [
+      "surly"
+    ],
+    "A35297-e19080": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19130": [
+      "surly"
+    ],
+    "A35297-e19180": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19230": [
+      "surly"
+    ],
+    "A35297-e19260": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19300": [
+      "surly"
+    ],
+    "A35297-e19330": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19370": [
+      "surly"
+    ],
+    "A35297-e19430": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19470": [
+      "surly"
+    ],
+    "A35297-e19500": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19540": [
+      "surly"
+    ],
+    "A35297-e19570": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19620": [
+      "surly"
+    ],
+    "A35297-e19650": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19720": [
+      "surly"
+    ],
+    "A35297-e19760": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19810": [
+      "surly"
+    ],
+    "A35297-e19840": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19890": [
+      "surly"
+    ],
+    "A35297-e19920": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e19960": [
+      "surly"
+    ],
+    "A35297-e19990": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e20040": [
+      "surly"
+    ],
+    "A35297-e20070": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e20130": [
+      "surly"
+    ],
+    "A35297-e20160": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e20200": [
+      "surly"
+    ],
+    "A35297-e20230": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e20270": [
+      "surly"
+    ],
+    "A35297-e20300": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e20360": [
+      "surly"
+    ],
+    "A35297-e20430": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e20530": [
+      "lord-belguard"
+    ],
+    "A35297-e20570": [
+      "servant"
+    ],
+    "A35297-e20600": [
+      "lord-belguard"
+    ],
+    "A35297-e20660": [
+      "leonora"
+    ],
+    "A35297-e20690": [
+      "lord-belguard"
+    ],
+    "A35297-e20720": [
+      "leonora"
+    ],
+    "A35297-e20750": [
+      "aunt"
+    ],
+    "A35297-e20780": [
+      "leonora"
+    ],
+    "A35297-e20810": [
+      "lord-belguard"
+    ],
+    "A35297-e20840": [
+      "leonora"
+    ],
+    "A35297-e20870": [
+      "lord-belguard"
+    ],
+    "A35297-e20900": [
+      "leonora"
+    ],
+    "A35297-e20930": [
+      "lord-belguard"
+    ],
+    "A35297-e20960": [
+      "leonora"
+    ],
+    "A35297-e20990": [
+      "lord-belguard"
+    ],
+    "A35297-e21020": [
+      "leonora"
+    ],
+    "A35297-e21050": [
+      "lord-belguard"
+    ],
+    "A35297-e21090": [
+      "aunt"
+    ],
+    "A35297-e21120": [
+      "leonora"
+    ],
+    "A35297-e21160": [
+      "lord-belguard"
+    ],
+    "A35297-e21190": [
+      "leonora"
+    ],
+    "A35297-e21220": [
+      "lord-belguard"
+    ],
+    "A35297-e21250": [
+      "leonora"
+    ],
+    "A35297-e21280": [
+      "lord-belguard"
+    ],
+    "A35297-e21310": [
+      "aunt"
+    ],
+    "A35297-e21340": [
+      "leonora"
+    ],
+    "A35297-e21380": [
+      "aunt"
+    ],
+    "A35297-e21410": [
+      "lord-belguard"
+    ],
+    "A35297-e21440": [
+      "leonora"
+    ],
+    "A35297-e21470": [
+      "lord-belguard"
+    ],
+    "A35297-e21500": [
+      "leonora"
+    ],
+    "A35297-e21530": [
+      "lord-belguard"
+    ],
+    "A35297-e21570": [
+      "leonora"
+    ],
+    "A35297-e21610": [
+      "lord-belguard"
+    ],
+    "A35297-e21640": [
+      "leonora"
+    ],
+    "A35297-e21670": [
+      "aunt"
+    ],
+    "A35297-e21700": [
+      "lord-belguard"
+    ],
+    "A35297-e21730": [
+      "aunt"
+    ],
+    "A35297-e21760": [
+      "leonora"
+    ],
+    "A35297-e21800": [
+      "aunt"
+    ],
+    "A35297-e21830": [
+      "leonora"
+    ],
+    "A35297-e21870": [
+      "lord-belguard"
+    ],
+    "A35297-e21900": [
+      "aunt"
+    ],
+    "A35297-e21930": [
+      "leonora"
+    ],
+    "A35297-e21960": [
+      "aunt"
+    ],
+    "A35297-e21990": [
+      "leonora"
+    ],
+    "A35297-e22030": [
+      "woman"
+    ],
+    "A35297-e22060": [
+      "lord-belguard"
+    ],
+    "A35297-e22090": [
+      "aunt"
+    ],
+    "A35297-e22130": [
+      "leonora"
+    ],
+    "A35297-e22170": [
+      "lord-belguard"
+    ],
+    "A35297-e22200": [
+      "leonora"
+    ],
+    "A35297-e22230": [
+      "lord-belguard"
+    ],
+    "A35297-e22270": [
+      "leonora"
+    ],
+    "A35297-e22340": [
+      "lord-belguard"
+    ],
+    "A35297-e22380": [
+      "hothead"
+    ],
+    "A35297-e22410": [
+      "lord-belguard"
+    ],
+    "A35297-e22440": [
+      "hothead"
+    ],
+    "A35297-e22470": [
+      "lord-belguard"
+    ],
+    "A35297-e22500": [
+      "hothead"
+    ],
+    "A35297-e22530": [
+      "lord-belguard"
+    ],
+    "A35297-e22560": [
+      "hothead"
+    ],
+    "A35297-e22600": [
+      "lord-belguard"
+    ],
+    "A35297-e22630": [
+      "hothead"
+    ],
+    "A35297-e22660": [
+      "lord-belguard"
+    ],
+    "A35297-e22690": [
+      "hothead"
+    ],
+    "A35297-e22720": [
+      "lord-belguard"
+    ],
+    "A35297-e22750": [
+      "hothead"
+    ],
+    "A35297-e22780": [
+      "lord-belguard"
+    ],
+    "A35297-e22810": [
+      "hothead"
+    ],
+    "A35297-e22870": [
+      "lord-belguard"
+    ],
+    "A35297-e22910": [
+      "testimony"
+    ],
+    "A35297-e22940": [
+      "lord-belguard"
+    ],
+    "A35297-e22970": [
+      "testimony"
+    ],
+    "A35297-e23000": [
+      "hothead"
+    ],
+    "A35297-e23030": [
+      "testimony"
+    ],
+    "A35297-e23060": [
+      "lord-belguard"
+    ],
+    "A35297-e23120": [
+      "hothead"
+    ],
+    "A35297-e23170": [
+      "testimony"
+    ],
+    "A35297-e23200": [
+      "hothead"
+    ],
+    "A35297-e23240": [
+      "lord-belguard"
+    ],
+    "A35297-e23270": [
+      "testimony"
+    ],
+    "A35297-e23300": [
+      "lord-belguard"
+    ],
+    "A35297-e23330": [
+      "testimony"
+    ],
+    "A35297-e23360": [
+      "lord-belguard"
+    ],
+    "A35297-e23390": [
+      "testimony"
+    ],
+    "A35297-e23430": [
+      "lord-belguard"
+    ],
+    "A35297-e23480": [
+      "servant"
+    ],
+    "A35297-e23510": [
+      "lord-belguard"
+    ],
+    "A35297-e23550": [
+      "servant"
+    ],
+    "A35297-e23600": [
+      "lord-belguard"
+    ],
+    "A35297-e23640": [
+      "man"
+    ],
+    "A35297-e23700": [
+      "lord-belguard"
+    ],
+    "A35297-e23740": [
+      "man"
+    ],
+    "A35297-e23790": [
+      "lord-belguard"
+    ],
+    "A35297-e23820": [
+      "man"
+    ],
+    "A35297-e23950": [
+      "lord-belguard"
+    ],
+    "A35297-e23990": [
+      "man"
+    ],
+    "A35297-e24050": [
+      "lord-belguard"
+    ],
+    "A35297-e24080": [
+      "man"
+    ],
+    "A35297-e24160": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24190": [
+      "man"
+    ],
+    "A35297-e24220": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24250": [
+      "lord-belguard"
+    ],
+    "A35297-e24280": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24310": [
+      "lord-belguard"
+    ],
+    "A35297-e24340": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24380": [
+      "lord-belguard"
+    ],
+    "A35297-e24410": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24440": [
+      "lord-belguard"
+    ],
+    "A35297-e24470": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24530": [
+      "lord-belguard"
+    ],
+    "A35297-e24570": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24600": [
+      "lord-belguard"
+    ],
+    "A35297-e24630": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24660": [
+      "lord-belguard"
+    ],
+    "A35297-e24690": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24720": [
+      "lord-belguard"
+    ],
+    "A35297-e24750": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24780": [
+      "man"
+    ],
+    "A35297-e24830": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e24860": [
+      "lord-belguard"
+    ],
+    "A35297-e24890": [
+      "leonora"
+    ],
+    "A35297-e24940": [
+      "lord-belguard"
+    ],
+    "A35297-e24970": [
+      "leonora"
+    ],
+    "A35297-e25000": [
+      "lord-belguard"
+    ],
+    "A35297-e25030": [
+      "leonora"
+    ],
+    "A35297-e25060": [
+      "lord-belguard"
+    ],
+    "A35297-e25110": [
+      "leonora"
+    ],
+    "A35297-e25160": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25200": [
+      "leonora"
+    ],
+    "A35297-e25240": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25270": [
+      "leonora"
+    ],
+    "A35297-e25310": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25410": [
+      "lord-belguard"
+    ],
+    "A35297-e25440": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25470": [
+      "lord-belguard"
+    ],
+    "A35297-e25510": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25550": [
+      "lord-belguard"
+    ],
+    "A35297-e25580": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25610": [
+      "lord-belguard"
+    ],
+    "A35297-e25640": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25710": [
+      "lord-belguard"
+    ],
+    "A35297-e25740": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25770": [
+      "lord-belguard"
+    ],
+    "A35297-e25800": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25830": [
+      "lord-belguard"
+    ],
+    "A35297-e25860": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25890": [
+      "lord-belguard"
+    ],
+    "A35297-e25920": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e25970": [
+      "lord-belguard"
+    ],
+    "A35297-e26010": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26040": [
+      "lord-belguard"
+    ],
+    "A35297-e26070": [
+      "crack"
+    ],
+    "A35297-e26110": [
+      "lord-belguard"
+    ],
+    "A35297-e26140": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26170": [
+      "lord-belguard"
+    ],
+    "A35297-e26210": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26250": [
+      "lord-belguard"
+    ],
+    "A35297-e26290": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26330": [
+      "lord-belguard"
+    ],
+    "A35297-e26370": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26400": [
+      "lord-belguard"
+    ],
+    "A35297-e26430": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26460": [
+      "lord-belguard"
+    ],
+    "A35297-e26500": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26530": [
+      "lord-belguard"
+    ],
+    "A35297-e26560": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26600": [
+      "lord-belguard"
+    ],
+    "A35297-e26630": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26660": [
+      "lord-belguard"
+    ],
+    "A35297-e26690": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26720": [
+      "lord-belguard"
+    ],
+    "A35297-e26750": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26790": [
+      "lord-belguard"
+    ],
+    "A35297-e26820": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26850": [
+      "lord-belguard"
+    ],
+    "A35297-e26880": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e26910": [
+      "lord-belguard"
+    ],
+    "A35297-e27050": [
+      "violante"
+    ],
+    "A35297-e27080": [
+      "leonora"
+    ],
+    "A35297-e27120": [
+      "violante"
+    ],
+    "A35297-e27150": [
+      "leonora"
+    ],
+    "A35297-e27210": [
+      "lord-belguard"
+    ],
+    "A35297-e27240": [
+      "violante"
+    ],
+    "A35297-e27270": [
+      "leonora"
+    ],
+    "A35297-e27300": [
+      "lord-belguard"
+    ],
+    "A35297-e27330": [
+      "violante"
+    ],
+    "A35297-e27360": [
+      "leonora"
+    ],
+    "A35297-e27390": [
+      "lord-belguard"
+    ],
+    "A35297-e27430": [
+      "violante"
+    ],
+    "A35297-e27460": [
+      "lord-belguard"
+    ],
+    "A35297-e27490": [
+      "violante"
+    ],
+    "A35297-e27520": [
+      "lord-belguard"
+    ],
+    "A35297-e27580": [
+      "surly"
+    ],
+    "A35297-e27630": [
+      "violante"
+    ],
+    "A35297-e27670": [
+      "lord-belguard"
+    ],
+    "A35297-e27700": [
+      "violante"
+    ],
+    "A35297-e27730": [
+      "lord-belguard"
+    ],
+    "A35297-e27760": [
+      "violante"
+    ],
+    "A35297-e27790": [
+      "lord-belguard"
+    ],
+    "A35297-e27830": [
+      "violante"
+    ],
+    "A35297-e27910": [
+      "surly"
+    ],
+    "A35297-e27940": [
+      "lord-belguard"
+    ],
+    "A35297-e27970": [
+      "surly"
+    ],
+    "A35297-e28030": [
+      "servant"
+    ],
+    "A35297-e28100": [
+      "lord-belguard"
+    ],
+    "A35297-e28140": [
+      "testimony"
+    ],
+    "A35297-e28170": [
+      "lord-belguard"
+    ],
+    "A35297-e28200": [
+      "testimony"
+    ],
+    "A35297-e28230": [
+      "lord-belguard"
+    ],
+    "A35297-e28260": [
+      "testimony"
+    ],
+    "A35297-e28290": [
+      "lord-belguard"
+    ],
+    "A35297-e28350": [
+      "hothead"
+    ],
+    "A35297-e28380": [
+      "lord-belguard"
+    ],
+    "A35297-e28410": [
+      "hothead"
+    ],
+    "A35297-e28450": [
+      "lord-belguard"
+    ],
+    "A35297-e28480": [
+      "hothead"
+    ],
+    "A35297-e28520": [
+      "lord-belguard"
+    ],
+    "A35297-e28550": [
+      "hothead"
+    ],
+    "A35297-e28590": [
+      "lord-belguard"
+    ],
+    "A35297-e28620": [
+      "hothead"
+    ],
+    "A35297-e28650": [
+      "lord-belguard"
+    ],
+    "A35297-e28730": [
+      "lord-belguard"
+    ],
+    "A35297-e28760": [
+      "testimony"
+    ],
+    "A35297-e28790": [
+      "lord-belguard"
+    ],
+    "A35297-e28820": [
+      "testimony"
+    ],
+    "A35297-e28850": [
+      "lord-belguard"
+    ],
+    "A35297-e28890": [
+      "testimony"
+    ],
+    "A35297-e28920": [
+      "lord-belguard"
+    ],
+    "A35297-e28950": [
+      "testimony"
+    ],
+    "A35297-e28980": [
+      "lord-belguard"
+    ],
+    "A35297-e29010": [
+      "testimony"
+    ],
+    "A35297-e29040": [
+      "lord-belguard"
+    ],
+    "A35297-e29070": [
+      "testimony"
+    ],
+    "A35297-e29100": [
+      "lord-belguard"
+    ],
+    "A35297-e29130": [
+      "testimony"
+    ],
+    "A35297-e29160": [
+      "lord-belguard"
+    ],
+    "A35297-e29220": [
+      "hothead"
+    ],
+    "A35297-e29250": [
+      "lord-belguard"
+    ],
+    "A35297-e29280": [
+      "hothead"
+    ],
+    "A35297-e29310": [
+      "testimony"
+    ],
+    "A35297-e29340": [
+      "hothead"
+    ],
+    "A35297-e29370": [
+      "lord-belguard"
+    ],
+    "A35297-e29400": [
+      "hothead"
+    ],
+    "A35297-e29430": [
+      "lord-belguard"
+    ],
+    "A35297-e29460": [
+      "hothead"
+    ],
+    "A35297-e29500": [
+      "lord-belguard"
+    ],
+    "A35297-e29530": [
+      "hothead"
+    ],
+    "A35297-e29570": [
+      "lord-belguard"
+    ],
+    "A35297-e29600": [
+      "testimony"
+    ],
+    "A35297-e29640": [
+      "lord-belguard"
+    ],
+    "A35297-e29670": [
+      "testimony"
+    ],
+    "A35297-e29710": [
+      "hothead"
+    ],
+    "A35297-e29740": [
+      "testimony"
+    ],
+    "A35297-e29780": [
+      "hothead"
+    ],
+    "A35297-e29810": [
+      "lord-belguard"
+    ],
+    "A35297-e29840": [
+      "hothead"
+    ],
+    "A35297-e29890": [
+      "lord-belguard"
+    ],
+    "A35297-e29930": [
+      "page"
+    ],
+    "A35297-e29960": [
+      "lord-belguard"
+    ],
+    "A35297-e29990": [
+      "page"
+    ],
+    "A35297-e30030": [
+      "lord-belguard"
+    ],
+    "A35297-e30110": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e30150": [
+      "lord-belguard"
+    ],
+    "A35297-e30230": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e30270": [
+      "aunt"
+    ],
+    "A35297-e30310": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e30360": [
+      "aunt"
+    ],
+    "A35297-e30390": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e30450": [
+      "aunt"
+    ],
+    "A35297-e30480": [
+      "lord-belguard"
+    ],
+    "A35297-e30520": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e30560": [
+      "aunt"
+    ],
+    "A35297-e30620": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e30660": [
+      "aunt"
+    ],
+    "A35297-e30690": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e30730": [
+      "aunt"
+    ],
+    "A35297-e30760": [
+      "lord-belguard"
+    ],
+    "A35297-e30790": [
+      "aunt"
+    ],
+    "A35297-e30820": [
+      "lord-belguard"
+    ],
+    "A35297-e30850": [
+      "aunt"
+    ],
+    "A35297-e30890": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e30930": [
+      "aunt"
+    ],
+    "A35297-e30970": [
+      "lord-belguard"
+    ],
+    "A35297-e31010": [
+      "aunt"
+    ],
+    "A35297-e31040": [
+      "lord-belguard"
+    ],
+    "A35297-e31070": [
+      "aunt"
+    ],
+    "A35297-e31100": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31140": [
+      "lord-belguard"
+    ],
+    "A35297-e31170": [
+      "aunt"
+    ],
+    "A35297-e31210": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31250": [
+      "aunt"
+    ],
+    "A35297-e31280": [
+      "lord-belguard"
+    ],
+    "A35297-e31320": [
+      "aunt"
+    ],
+    "A35297-e31350": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31420": [
+      "leonora"
+    ],
+    "A35297-e31460": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31500": [
+      "leonora"
+    ],
+    "A35297-e31540": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31580": [
+      "leonora"
+    ],
+    "A35297-e31620": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31660": [
+      "leonora"
+    ],
+    "A35297-e31700": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31740": [
+      "leonora"
+    ],
+    "A35297-e31770": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31810": [
+      "leonora"
+    ],
+    "A35297-e31840": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31880": [
+      "leonora"
+    ],
+    "A35297-e31920": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e31960": [
+      "leonora"
+    ],
+    "A35297-e31990": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32030": [
+      "leonora"
+    ],
+    "A35297-e32060": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32100": [
+      "leonora"
+    ],
+    "A35297-e32140": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32180": [
+      "leonora"
+    ],
+    "A35297-e32210": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32250": [
+      "leonora"
+    ],
+    "A35297-e32290": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32330": [
+      "leonora"
+    ],
+    "A35297-e32370": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32410": [
+      "leonora"
+    ],
+    "A35297-e32450": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32490": [
+      "leonora"
+    ],
+    "A35297-e32520": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32560": [
+      "leonora"
+    ],
+    "A35297-e32590": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32630": [
+      "leonora"
+    ],
+    "A35297-e32660": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32710": [
+      "leonora"
+    ],
+    "A35297-e32740": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32780": [
+      "leonora"
+    ],
+    "A35297-e32810": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32850": [
+      "leonora"
+    ],
+    "A35297-e32880": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e32920": [
+      "leonora"
+    ],
+    "A35297-e32950": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33000": [
+      "leonora"
+    ],
+    "A35297-e33040": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33080": [
+      "leonora"
+    ],
+    "A35297-e33110": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33150": [
+      "leonora"
+    ],
+    "A35297-e33180": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33230": [
+      "leonora"
+    ],
+    "A35297-e33260": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33300": [
+      "leonora"
+    ],
+    "A35297-e33330": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33380": [
+      "leonora"
+    ],
+    "A35297-e33410": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33450": [
+      "leonora"
+    ],
+    "A35297-e33490": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33540": [
+      "leonora"
+    ],
+    "A35297-e33570": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33630": [
+      "leonora"
+    ],
+    "A35297-e33670": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33710": [
+      "surly"
+    ],
+    "A35297-e33740": [
+      "leonora"
+    ],
+    "A35297-e33770": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33810": [
+      "surly"
+    ],
+    "A35297-e33840": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33890": [
+      "surly"
+    ],
+    "A35297-e33920": [
+      "leonora"
+    ],
+    "A35297-e33950": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e33990": [
+      "surly"
+    ],
+    "A35297-e34020": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34060": [
+      "surly"
+    ],
+    "A35297-e34090": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34130": [
+      "surly"
+    ],
+    "A35297-e34160": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34210": [
+      "surly"
+    ],
+    "A35297-e34240": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34290": [
+      "surly"
+    ],
+    "A35297-e34320": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34370": [
+      "leonora"
+    ],
+    "A35297-e34400": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34440": [
+      "surly"
+    ],
+    "A35297-e34470": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34510": [
+      "leonora"
+    ],
+    "A35297-e34550": [
+      "surly"
+    ],
+    "A35297-e34580": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34620": [
+      "leonora"
+    ],
+    "A35297-e34670": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34710": [
+      "leonora"
+    ],
+    "A35297-e34750": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34790": [
+      "leonora"
+    ],
+    "A35297-e34820": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e34890": [
+      "surly"
+    ],
+    "A35297-e34930": [
+      "surly"
+    ],
+    "A35297-e34960": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35000": [
+      "surly"
+    ],
+    "A35297-e35030": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35070": [
+      "surly"
+    ],
+    "A35297-e35110": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35190": [
+      "leonora"
+    ],
+    "A35297-e35220": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35260": [
+      "leonora"
+    ],
+    "A35297-e35290": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35370": [
+      "lord-belguard"
+    ],
+    "A35297-e35410": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35440": [
+      "lord-belguard"
+    ],
+    "A35297-e35470": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35500": [
+      "lord-belguard"
+    ],
+    "A35297-e35530": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35560": [
+      "lord-belguard"
+    ],
+    "A35297-e35590": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35630": [
+      "lord-belguard"
+    ],
+    "A35297-e35660": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35690": [
+      "lord-belguard"
+    ],
+    "A35297-e35730": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35760": [
+      "lord-belguard"
+    ],
+    "A35297-e35790": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35820": [
+      "lord-belguard"
+    ],
+    "A35297-e35860": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35890": [
+      "lord-belguard"
+    ],
+    "A35297-e35920": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e35950": [
+      "lord-belguard"
+    ],
+    "A35297-e35980": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e36070": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e36110": [
+      "lord-belguard"
+    ],
+    "A35297-e36170": [
+      "lord-belguard"
+    ],
+    "A35297-e36200": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e36230": [
+      "lord-belguard"
+    ],
+    "A35297-e36270": [
+      "servant"
+    ],
+    "A35297-e36300": [
+      "lord-belguard"
+    ],
+    "A35297-e36330": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e36370": [
+      "lord-belguard"
+    ],
+    "A35297-e36410": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e36440": [
+      "lord-belguard"
+    ],
+    "A35297-e36470": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e36600": [
+      "leonora"
+    ],
+    "A35297-e36650": [
+      "farewel"
+    ],
+    "A35297-e36680": [
+      "leonora"
+    ],
+    "A35297-e36720": [
+      "farewel"
+    ],
+    "A35297-e36750": [
+      "leonora"
+    ],
+    "A35297-e36780": [
+      "farewel"
+    ],
+    "A35297-e36810": [
+      "leonora"
+    ],
+    "A35297-e36840": [
+      "farewel"
+    ],
+    "A35297-e36870": [
+      "leonora"
+    ],
+    "A35297-e36900": [
+      "farewel"
+    ],
+    "A35297-e36930": [
+      "leonora"
+    ],
+    "A35297-e36960": [
+      "farewel"
+    ],
+    "A35297-e36990": [
+      "leonora"
+    ],
+    "A35297-e37030": [
+      "farewel"
+    ],
+    "A35297-e37060": [
+      "leonora"
+    ],
+    "A35297-e37090": [
+      "farewel"
+    ],
+    "A35297-e37120": [
+      "leonora"
+    ],
+    "A35297-e37150": [
+      "farewel"
+    ],
+    "A35297-e37180": [
+      "leonora"
+    ],
+    "A35297-e37260": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e37290": [
+      "lord-belguard"
+    ],
+    "A35297-e37330": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e37420": [
+      "lord-belguard"
+    ],
+    "A35297-e37450": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e37480": [
+      "lord-belguard"
+    ],
+    "A35297-e37510": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e37540": [
+      "lord-belguard"
+    ],
+    "A35297-e37570": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e37600": [
+      "lord-belguard"
+    ],
+    "A35297-e37650": [
+      "servant"
+    ],
+    "A35297-e37680": [
+      "lord-belguard"
+    ],
+    "A35297-e37730": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e37790": [
+      "farewel"
+    ],
+    "A35297-e37820": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e37850": [
+      "leonora"
+    ],
+    "A35297-e37880": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38160": [
+      "farewel"
+    ],
+    "A35297-e38190": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38220": [
+      "farewel"
+    ],
+    "A35297-e38250": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38280": [
+      "farewel"
+    ],
+    "A35297-e38380": [
+      "leonora"
+    ],
+    "A35297-e38410": [
+      "farewel"
+    ],
+    "A35297-e38440": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38470": [
+      "leonora"
+    ],
+    "A35297-e38530": [
+      "woman"
+    ],
+    "A35297-e38560": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38590": [
+      "woman"
+    ],
+    "A35297-e38630": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38720": [
+      "lord-belguard"
+    ],
+    "A35297-e38750": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38780": [
+      "lord-belguard"
+    ],
+    "A35297-e38810": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38850": [
+      "lord-belguard"
+    ],
+    "A35297-e38880": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38920": [
+      "lord-belguard"
+    ],
+    "A35297-e38960": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e38990": [
+      "lord-belguard"
+    ],
+    "A35297-e39020": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e39050": [
+      "lord-belguard"
+    ],
+    "A35297-e39090": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e39120": [
+      "lord-belguard"
+    ],
+    "A35297-e39150": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e39200": [
+      "farewel"
+    ],
+    "A35297-e39230": [
+      "leonora"
+    ],
+    "A35297-e39290": [
+      "aunt"
+    ],
+    "A35297-e39320": [
+      "leonora"
+    ],
+    "A35297-e39380": [
+      "lord-belguard"
+    ],
+    "A35297-e39410": [
+      "aunt"
+    ],
+    "A35297-e39440": [
+      "leonora"
+    ],
+    "A35297-e39470": [
+      "aunt"
+    ],
+    "A35297-e39500": [
+      "lord-belguard"
+    ],
+    "A35297-e39570": [
+      "testimony"
+    ],
+    "A35297-e39600": [
+      "lord-belguard"
+    ],
+    "A35297-e39630": [
+      "hothead"
+    ],
+    "A35297-e39660": [
+      "lord-belguard"
+    ],
+    "A35297-e39690": [
+      "leonora"
+    ],
+    "A35297-e39730": [
+      "aunt"
+    ],
+    "A35297-e39760": [
+      "lord-belguard"
+    ],
+    "A35297-e39790": [
+      "aunt"
+    ],
+    "A35297-e39830": [
+      "lord-belguard"
+    ],
+    "A35297-e39870": [
+      "leonora"
+    ],
+    "A35297-e39900": [
+      "lord-belguard"
+    ],
+    "A35297-e39970": [
+      "aunt"
+    ],
+    "A35297-e40000": [
+      "leonora"
+    ],
+    "A35297-e40120": [
+      "farewel"
+    ],
+    "A35297-e40150": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40180": [
+      "farewel"
+    ],
+    "A35297-e40220": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40250": [
+      "farewel"
+    ],
+    "A35297-e40280": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40360": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40420": [
+      "lord-belguard"
+    ],
+    "A35297-e40450": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40490": [
+      "lord-belguard"
+    ],
+    "A35297-e40540": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40580": [
+      "lord-belguard"
+    ],
+    "A35297-e40620": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40660": [
+      "lord-belguard"
+    ],
+    "A35297-e40700": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40730": [
+      "lord-belguard"
+    ],
+    "A35297-e40760": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40820": [
+      "lord-belguard"
+    ],
+    "A35297-e40860": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40890": [
+      "lord-belguard"
+    ],
+    "A35297-e40920": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e40950": [
+      "lord-belguard"
+    ],
+    "A35297-e40980": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41020": [
+      "lord-belguard"
+    ],
+    "A35297-e41050": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41080": [
+      "lord-belguard"
+    ],
+    "A35297-e41120": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41190": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41220": [
+      "lord-belguard"
+    ],
+    "A35297-e41270": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41300": [
+      "farewel"
+    ],
+    "A35297-e41350": [
+      "lord-belguard"
+    ],
+    "A35297-e41390": [
+      "farewel"
+    ],
+    "A35297-e41420": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41450": [
+      "lord-belguard"
+    ],
+    "A35297-e41490": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41520": [
+      "farewel"
+    ],
+    "A35297-e41550": [
+      "lord-belguard"
+    ],
+    "A35297-e41590": [
+      "farewel"
+    ],
+    "A35297-e41620": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41650": [
+      "farewel"
+    ],
+    "A35297-e41700": [
+      "lord-belguard"
+    ],
+    "A35297-e41730": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e41800": [
+      "lord-belguard"
+    ],
+    "A35297-e41860": [
+      "hothead"
+    ],
+    "A35297-e41890": [
+      "testimony"
+    ],
+    "A35297-e41940": [
+      "hothead"
+    ],
+    "A35297-e41970": [
+      "lord-belguard"
+    ],
+    "A35297-e42010": [
+      "hothead"
+    ],
+    "A35297-e42060": [
+      "testimony"
+    ],
+    "A35297-e42130": [
+      "leonora"
+    ],
+    "A35297-e42160": [
+      "lord-belguard"
+    ],
+    "A35297-e42190": [
+      "leonora"
+    ],
+    "A35297-e42230": [
+      "lord-belguard"
+    ],
+    "A35297-e42310": [
+      "leonora"
+    ],
+    "A35297-e42400": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e42430": [
+      "leonora"
+    ],
+    "A35297-e42460": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e42490": [
+      "leonora"
+    ],
+    "A35297-e42520": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e42550": [
+      "leonora"
+    ],
+    "A35297-e42580": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e42610": [
+      "leonora"
+    ],
+    "A35297-e42640": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e42670": [
+      "leonora"
+    ],
+    "A35297-e42700": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e42730": [
+      "leonora"
+    ],
+    "A35297-e42810": [
+      "lord-belguard"
+    ],
+    "A35297-e42840": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e42880": [
+      "leonora"
+    ],
+    "A35297-e42920": [
+      "lord-belguard"
+    ],
+    "A35297-e42960": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43000": [
+      "leonora"
+    ],
+    "A35297-e43040": [
+      "lord-belguard"
+    ],
+    "A35297-e43080": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43120": [
+      "leonora"
+    ],
+    "A35297-e43160": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43200": [
+      "leonora"
+    ],
+    "A35297-e43230": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43270": [
+      "leonora"
+    ],
+    "A35297-e43310": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43350": [
+      "leonora"
+    ],
+    "A35297-e43380": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43420": [
+      "leonora"
+    ],
+    "A35297-e43450": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43490": [
+      "leonora"
+    ],
+    "A35297-e43530": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43570": [
+      "leonora"
+    ],
+    "A35297-e43610": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43710": [
+      "leonora"
+    ],
+    "A35297-e43750": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e43940": [
+      "leonora"
+    ],
+    "A35297-e43970": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44010": [
+      "leonora"
+    ],
+    "A35297-e44040": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44080": [
+      "leonora"
+    ],
+    "A35297-e44110": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44150": [
+      "leonora"
+    ],
+    "A35297-e44180": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44220": [
+      "leonora"
+    ],
+    "A35297-e44250": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44290": [
+      "leonora"
+    ],
+    "A35297-e44320": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44370": [
+      "leonora"
+    ],
+    "A35297-e44410": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44450": [
+      "leonora"
+    ],
+    "A35297-e44480": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44520": [
+      "leonora"
+    ],
+    "A35297-e44550": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44590": [
+      "leonora"
+    ],
+    "A35297-e44630": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44670": [
+      "leonora"
+    ],
+    "A35297-e44710": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44750": [
+      "leonora"
+    ],
+    "A35297-e44780": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44820": [
+      "leonora"
+    ],
+    "A35297-e44850": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44900": [
+      "leonora"
+    ],
+    "A35297-e44940": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e44990": [
+      "leonora"
+    ],
+    "A35297-e45030": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45090": [
+      "aunt"
+    ],
+    "A35297-e45130": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45190": [
+      "aunt"
+    ],
+    "A35297-e45230": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45280": [
+      "aunt"
+    ],
+    "A35297-e45320": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45370": [
+      "aunt"
+    ],
+    "A35297-e45400": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45440": [
+      "aunt"
+    ],
+    "A35297-e45470": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45510": [
+      "aunt"
+    ],
+    "A35297-e45540": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45580": [
+      "aunt"
+    ],
+    "A35297-e45620": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45660": [
+      "aunt"
+    ],
+    "A35297-e45700": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45740": [
+      "aunt"
+    ],
+    "A35297-e45770": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45820": [
+      "aunt"
+    ],
+    "A35297-e45850": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45890": [
+      "aunt"
+    ],
+    "A35297-e45930": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e45970": [
+      "aunt"
+    ],
+    "A35297-e46000": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46040": [
+      "aunt"
+    ],
+    "A35297-e46070": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46110": [
+      "aunt"
+    ],
+    "A35297-e46140": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46180": [
+      "aunt"
+    ],
+    "A35297-e46210": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46250": [
+      "aunt"
+    ],
+    "A35297-e46280": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46320": [
+      "aunt"
+    ],
+    "A35297-e46380": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46430": [
+      "aunt"
+    ],
+    "A35297-e46460": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46500": [
+      "aunt"
+    ],
+    "A35297-e46530": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46570": [
+      "aunt"
+    ],
+    "A35297-e46610": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46660": [
+      "aunt"
+    ],
+    "A35297-e46690": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46730": [
+      "aunt"
+    ],
+    "A35297-e46760": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46810": [
+      "aunt"
+    ],
+    "A35297-e46850": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46940": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e46970": [
+      "leonora"
+    ],
+    "A35297-e47010": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47090": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47120": [
+      "hothead"
+    ],
+    "A35297-e47150": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47220": [
+      "hothead"
+    ],
+    "A35297-e47250": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47280": [
+      "testimony"
+    ],
+    "A35297-e47310": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47340": [
+      "hothead"
+    ],
+    "A35297-e47370": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47400": [
+      "hothead"
+    ],
+    "A35297-e47430": [
+      "testimony"
+    ],
+    "A35297-e47470": [
+      "hothead"
+    ],
+    "A35297-e47500": [
+      "testimony"
+    ],
+    "A35297-e47540": [
+      "leonora"
+    ],
+    "A35297-e47570": [
+      "testimony"
+    ],
+    "A35297-e47610": [
+      "hothead"
+    ],
+    "A35297-e47670": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47700": [
+      "hothead"
+    ],
+    "A35297-e47730": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47760": [
+      "hothead"
+    ],
+    "A35297-e47790": [
+      "testimony"
+    ],
+    "A35297-e47820": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e47870": [
+      "hothead"
+    ],
+    "A35297-e47920": [
+      "testimony"
+    ],
+    "A35297-e48000": [
+      "farewel"
+    ],
+    "A35297-e48030": [
+      "testimony"
+    ],
+    "A35297-e48060": [
+      "farewel"
+    ],
+    "A35297-e48110": [
+      "testimony"
+    ],
+    "A35297-e48140": [
+      "leonora"
+    ],
+    "A35297-e48180": [
+      "testimony"
+    ],
+    "A35297-e48210": [
+      "leonora"
+    ],
+    "A35297-e48240": [
+      "farewel"
+    ],
+    "A35297-e48270": [
+      "testimony"
+    ],
+    "A35297-e48310": [
+      "farewel"
+    ],
+    "A35297-e48340": [
+      "testimony"
+    ],
+    "A35297-e48400": [
+      "violante"
+    ],
+    "A35297-e48430": [
+      "leonora"
+    ],
+    "A35297-e48460": [
+      "violante"
+    ],
+    "A35297-e48500": [
+      "testimony"
+    ],
+    "A35297-e48530": [
+      "violante"
+    ],
+    "A35297-e48560": [
+      "leonora"
+    ],
+    "A35297-e48620": [
+      "violante"
+    ],
+    "A35297-e48650": [
+      "leonora"
+    ],
+    "A35297-e48680": [
+      "violante"
+    ],
+    "A35297-e48710": [
+      "leonora"
+    ],
+    "A35297-e48760": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e48790": [
+      "testimony"
+    ],
+    "A35297-e48840": [
+      "violante"
+    ],
+    "A35297-e48900": [
+      "surly"
+    ],
+    "A35297-e48930": [
+      "violante"
+    ],
+    "A35297-e48960": [
+      "surly"
+    ],
+    "A35297-e48990": [
+      "violante"
+    ],
+    "A35297-e49020": [
+      "surly"
+    ],
+    "A35297-e49060": [
+      "violante"
+    ],
+    "A35297-e49090": [
+      "surly"
+    ],
+    "A35297-e49120": [
+      "violante"
+    ],
+    "A35297-e49150": [
+      "surly"
+    ],
+    "A35297-e49180": [
+      "violante"
+    ],
+    "A35297-e49210": [
+      "surly"
+    ],
+    "A35297-e49240": [
+      "violante"
+    ],
+    "A35297-e49320": [
+      "violante"
+    ],
+    "A35297-e49350": [
+      "lord-belguard"
+    ],
+    "A35297-e49380": [
+      "violante"
+    ],
+    "A35297-e49450": [
+      "lord-belguard"
+    ],
+    "A35297-e49480": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e49530": [
+      "lord-belguard"
+    ],
+    "A35297-e49560": [
+      "violante"
+    ],
+    "A35297-e49590": [
+      "lord-belguard"
+    ],
+    "A35297-e49620": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e49650": [
+      "lord-belguard"
+    ],
+    "A35297-e49680": [
+      "violante"
+    ],
+    "A35297-e49710": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e49740": [
+      "leonora"
+    ],
+    "A35297-e49780": [
+      "aunt"
+    ],
+    "A35297-e49810": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e49850": [
+      "aunt"
+    ],
+    "A35297-e49880": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e49910": [
+      "aunt"
+    ],
+    "A35297-e49940": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e49970": [
+      "violante"
+    ],
+    "A35297-e50000": [
+      "aunt"
+    ],
+    "A35297-e50030": [
+      "violante"
+    ],
+    "A35297-e50060": [
+      "lord-belguard"
+    ],
+    "A35297-e50090": [
+      "testimony"
+    ],
+    "A35297-e50120": [
+      "lord-belguard"
+    ],
+    "A35297-e50160": [
+      "violante"
+    ],
+    "A35297-e50230": [
+      "surly"
+    ],
+    "A35297-e50260": [
+      "lord-belguard"
+    ],
+    "A35297-e50300": [
+      "surly"
+    ],
+    "A35297-e50340": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e50380": [
+      "leonora"
+    ],
+    "A35297-e50420": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e50490": [
+      "aunt"
+    ],
+    "A35297-e50520": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e50560": [
+      "leonora"
+    ],
+    "A35297-e50610": [
+      "sir-courtly-nice"
+    ],
+    "A35297-e50660": [
+      "violante"
+    ],
+    "A35297-e50700": [
+      "surly"
+    ],
+    "A35297-e50730": [
+      "violante"
+    ],
+    "A35297-e50780": [
+      "lord-belguard"
+    ],
+    "A35297-e50810": [
+      "violante"
+    ],
+    "A35297-e50840": [
+      "lord-belguard"
+    ],
+    "A35297-e50870": [
+      "violante"
+    ],
+    "A35297-e50920": [
+      "lord-belguard"
+    ],
+    "A35297-e50950": [
+      "violante"
+    ],
+    "A35297-e50990": [
+      "lord-belguard"
+    ],
+    "A35297-e51020": [
+      "violante"
+    ],
+    "A35297-e51080": [
+      "lord-belguard"
+    ],
+    "A35297-e51120": [
+      "surly"
+    ],
+    "A35297-e51160": [
+      "violante"
+    ],
+    "A35297-e51190": [
+      "sir-courtly-nice",
+      "leonora",
+      "aunt",
+      "violante",
+      "lord-belguard",
+      "surly"
+    ],
+    "A35297-e51230": [
+      "surly"
+    ],
+    "A35297-e51290": [
+      "violante"
+    ],
+    "A35297-e51320": [
+      "surly"
+    ],
+    "A35297-e51390": [
+      "hothead"
+    ],
+    "A35297-e51420": [
+      "lord-belguard"
+    ],
+    "A35297-e51450": [
+      "hothead"
+    ],
+    "A35297-e51480": [
+      "violante"
+    ],
+    "A35297-e51510": [
+      "hothead"
+    ],
+    "A35297-e51540": [
+      "leonora"
+    ],
+    "A35297-e51570": [
+      "hothead"
+    ],
+    "A35297-e51600": [
+      "lord-belguard"
+    ],
+    "A35297-e51640": [
+      "hothead"
+    ],
+    "A35297-e51670": [
+      "testimony"
+    ],
+    "A35297-e51730": [
+      "hothead"
+    ],
+    "A35297-e51780": [
+      "testimony"
+    ],
+    "A35297-e51840": [
+      "lord-belguard"
+    ],
+    "A35297-e51880": [
+      "hothead"
+    ],
+    "A35297-e51940": [
+      "lord-belguard"
+    ],
+    "A35297-e52080": [
+      "man"
+    ],
+    "A35297-e52160": [
+      "woman"
+    ],
+    "A35297-e52240": [
+      "man"
+    ],
+    "A35297-e52320": [
+      "woman"
+    ],
+    "A35297-e52350": [
+      "man"
+    ],
+    "A35297-e52380": [
+      "woman"
+    ],
+    "A35297-e52410": [
+      "man",
+      "woman"
+    ],
+    "A35297-e52440": [
+      "chorus"
+    ],
+    "A35297-e52550": [
+      "man"
+    ],
+    "A35297-e52670": [
+      "woman"
+    ],
+    "A35297-e52820": [
+      "man"
+    ],
+    "A35297-e52960": [
+      "woman"
+    ],
+    "A35297-e53080": [
+      "man",
+      "woman"
+    ]
+  }
+}

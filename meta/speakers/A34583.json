@@ -1,0 +1,657 @@
+{
+  "particDesc": [
+    {
+      "id": "julius-caesar",
+      "name": "Julius Caesar",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "marcus-antonius",
+      "name": "Marcus Antonius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lepidus",
+      "name": "Lepidus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ptolomy",
+      "name": "Ptolomy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cleopatra",
+      "name": "Cleopatra",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "photinus",
+      "name": "Photinus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "achillas",
+      "name": "Achillas",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "septimius",
+      "name": "Septimius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "achoreus",
+      "name": "Achoreus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "charmion",
+      "name": "Charmion",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "cornelia",
+      "name": "Cornelia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "philip",
+      "name": "Philip",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A34583-e1120": [
+      "ptolomy"
+    ],
+    "A34583-e1700": [
+      "photinus"
+    ],
+    "A34583-e2520": [
+      "achillas"
+    ],
+    "A34583-e3090": [
+      "septimius"
+    ],
+    "A34583-e3470": [
+      "ptolomy"
+    ],
+    "A34583-e3750": [
+      "achillas"
+    ],
+    "A34583-e3780": [
+      "ptolomy"
+    ],
+    "A34583-e3880": [
+      "ptolomy"
+    ],
+    "A34583-e4020": [
+      "photinus"
+    ],
+    "A34583-e4210": [
+      "cleopatra"
+    ],
+    "A34583-e4250": [
+      "ptolomy"
+    ],
+    "A34583-e4310": [
+      "cleopatra"
+    ],
+    "A34583-e4340": [
+      "ptolomy"
+    ],
+    "A34583-e4370": [
+      "cleopatra"
+    ],
+    "A34583-e4400": [
+      "ptolomy"
+    ],
+    "A34583-e4430": [
+      "cleopatra"
+    ],
+    "A34583-e4480": [
+      "ptolomy"
+    ],
+    "A34583-e4520": [
+      "cleopatra"
+    ],
+    "A34583-e4570": [
+      "ptolomy"
+    ],
+    "A34583-e4630": [
+      "cleopatra"
+    ],
+    "A34583-e4660": [
+      "ptolomy"
+    ],
+    "A34583-e4690": [
+      "cleopatra"
+    ],
+    "A34583-e4720": [
+      "ptolomy"
+    ],
+    "A34583-e4770": [
+      "cleopatra"
+    ],
+    "A34583-e4810": [
+      "ptolomy"
+    ],
+    "A34583-e4850": [
+      "cleopatra"
+    ],
+    "A34583-e4910": [
+      "photinus"
+    ],
+    "A34583-e4940": [
+      "cleopatra"
+    ],
+    "A34583-e4990": [
+      "ptolomy"
+    ],
+    "A34583-e5040": [
+      "cleopatra"
+    ],
+    "A34583-e5110": [
+      "ptolomy"
+    ],
+    "A34583-e5210": [
+      "cleopatra"
+    ],
+    "A34583-e5680": [
+      "ptolomy"
+    ],
+    "A34583-e5710": [
+      "cleopatra"
+    ],
+    "A34583-e5930": [
+      "ptolomy"
+    ],
+    "A34583-e5970": [
+      "photinus"
+    ],
+    "A34583-e6040": [
+      "ptolomy"
+    ],
+    "A34583-e6080": [
+      "photinus"
+    ],
+    "A34583-e6180": [
+      "ptolomy"
+    ],
+    "A34583-e6210": [
+      "photinus"
+    ],
+    "A34583-e6240": [
+      "ptolomy"
+    ],
+    "A34583-e6280": [
+      "photinus"
+    ],
+    "A34583-e6350": [
+      "ptolomy"
+    ],
+    "A34583-e6750": [
+      "cleopatra"
+    ],
+    "A34583-e6880": [
+      "charmion"
+    ],
+    "A34583-e6990": [
+      "cleopatra"
+    ],
+    "A34583-e7140": [
+      "charmion"
+    ],
+    "A34583-e7180": [
+      "cleopatra"
+    ],
+    "A34583-e7220": [
+      "charmion"
+    ],
+    "A34583-e7250": [
+      "cleopatra"
+    ],
+    "A34583-e7280": [
+      "charmion"
+    ],
+    "A34583-e7310": [
+      "cleopatra"
+    ],
+    "A34583-e7680": [
+      "charmion"
+    ],
+    "A34583-e7810": [
+      "cleopatra"
+    ],
+    "A34583-e7900": [
+      "charmion"
+    ],
+    "A34583-e7930": [
+      "cleopatra"
+    ],
+    "A34583-e8250": [
+      "cleopatra"
+    ],
+    "A34583-e8290": [
+      "achoreus"
+    ],
+    "A34583-e8950": [
+      "cleopatra"
+    ],
+    "A34583-e8990": [
+      "achoreus"
+    ],
+    "A34583-e9150": [
+      "cleopatra"
+    ],
+    "A34583-e9230": [
+      "achoreus"
+    ],
+    "A34583-e9520": [
+      "cleopatra"
+    ],
+    "A34583-e9550": [
+      "achoreus"
+    ],
+    "A34583-e9930": [
+      "cleopatra"
+    ],
+    "A34583-e10280": [
+      "charmion"
+    ],
+    "A34583-e10340": [
+      "ptolomy"
+    ],
+    "A34583-e10370": [
+      "cleopatra"
+    ],
+    "A34583-e10430": [
+      "ptolomy"
+    ],
+    "A34583-e10460": [
+      "cleopatra"
+    ],
+    "A34583-e10490": [
+      "ptolomy"
+    ],
+    "A34583-e10520": [
+      "cleopatra"
+    ],
+    "A34583-e10570": [
+      "ptolomy"
+    ],
+    "A34583-e10600": [
+      "cleopatra"
+    ],
+    "A34583-e10630": [
+      "ptolomy"
+    ],
+    "A34583-e10660": [
+      "cleopatra"
+    ],
+    "A34583-e10720": [
+      "ptolomy"
+    ],
+    "A34583-e10810": [
+      "cleopatra"
+    ],
+    "A34583-e10850": [
+      "ptolomy"
+    ],
+    "A34583-e10880": [
+      "cleopatra"
+    ],
+    "A34583-e10930": [
+      "ptolomy"
+    ],
+    "A34583-e11030": [
+      "cleopatra"
+    ],
+    "A34583-e11090": [
+      "ptolomy"
+    ],
+    "A34583-e11120": [
+      "cleopatra"
+    ],
+    "A34583-e11150": [
+      "ptolomy"
+    ],
+    "A34583-e11180": [
+      "cleopatra"
+    ],
+    "A34583-e11250": [
+      "ptolomy"
+    ],
+    "A34583-e11280": [
+      "cleopatra"
+    ],
+    "A34583-e11310": [
+      "ptolomy"
+    ],
+    "A34583-e11340": [
+      "cleopatra"
+    ],
+    "A34583-e11380": [
+      "ptolomy"
+    ],
+    "A34583-e11410": [
+      "cleopatra"
+    ],
+    "A34583-e11530": [
+      "ptolomy"
+    ],
+    "A34583-e11760": [
+      "photinus"
+    ],
+    "A34583-e11900": [
+      "ptolomy"
+    ],
+    "A34583-e11940": [
+      "photinus"
+    ],
+    "A34583-e11970": [
+      "ptolomy"
+    ],
+    "A34583-e12000": [
+      "photinus"
+    ],
+    "A34583-e12030": [
+      "ptolomy"
+    ],
+    "A34583-e12080": [
+      "photinus"
+    ],
+    "A34583-e12530": [
+      "ptolomy"
+    ],
+    "A34583-e13170": [
+      "charmion"
+    ],
+    "A34583-e13260": [
+      "achoreus"
+    ],
+    "A34583-e13320": [
+      "charmion"
+    ],
+    "A34583-e13410": [
+      "achoreus"
+    ],
+    "A34583-e14280": [
+      "charmion"
+    ],
+    "A34583-e14350": [
+      "achoreus"
+    ],
+    "A34583-e14460": [
+      "ptolomy"
+    ],
+    "A34583-e14490": [
+      "julius-caesar"
+    ],
+    "A34583-e15050": [
+      "ptolomy"
+    ],
+    "A34583-e15390": [
+      "julius-caesar"
+    ],
+    "A34583-e15460": [
+      "ptolomy"
+    ],
+    "A34583-e15720": [
+      "julius-caesar"
+    ],
+    "A34583-e16190": [
+      "julius-caesar"
+    ],
+    "A34583-e16230": [
+      "marcus-antonius"
+    ],
+    "A34583-e16330": [
+      "julius-caesar"
+    ],
+    "A34583-e16360": [
+      "marcus-antonius"
+    ],
+    "A34583-e16410": [
+      "julius-caesar"
+    ],
+    "A34583-e16440": [
+      "marcus-antonius"
+    ],
+    "A34583-e16610": [
+      "julius-caesar"
+    ],
+    "A34583-e16660": [
+      "marcus-antonius"
+    ],
+    "A34583-e16760": [
+      "julius-caesar"
+    ],
+    "A34583-e16850": [
+      "septimius"
+    ],
+    "A34583-e16880": [
+      "julius-caesar"
+    ],
+    "A34583-e16980": [
+      "cornelia"
+    ],
+    "A34583-e17520": [
+      "julius-caesar"
+    ],
+    "A34583-e18110": [
+      "cornelia"
+    ],
+    "A34583-e18830": [
+      "ptolomy"
+    ],
+    "A34583-e18920": [
+      "achillas"
+    ],
+    "A34583-e18960": [
+      "photinus"
+    ],
+    "A34583-e19090": [
+      "ptolomy"
+    ],
+    "A34583-e19250": [
+      "photinus"
+    ],
+    "A34583-e19430": [
+      "ptolomy"
+    ],
+    "A34583-e19820": [
+      "achillas"
+    ],
+    "A34583-e20100": [
+      "ptolomy"
+    ],
+    "A34583-e20140": [
+      "photinus"
+    ],
+    "A34583-e20350": [
+      "ptolomy"
+    ],
+    "A34583-e20410": [
+      "cleopatra"
+    ],
+    "A34583-e20460": [
+      "ptolomy"
+    ],
+    "A34583-e20510": [
+      "cleopatra"
+    ],
+    "A34583-e20690": [
+      "ptolomy"
+    ],
+    "A34583-e21050": [
+      "cleopatra"
+    ],
+    "A34583-e21200": [
+      "ptolomy"
+    ],
+    "A34583-e21300": [
+      "julius-caesar"
+    ],
+    "A34583-e21760": [
+      "cleopatra"
+    ],
+    "A34583-e22120": [
+      "julius-caesar"
+    ],
+    "A34583-e22420": [
+      "cleopatra"
+    ],
+    "A34583-e22590": [
+      "julius-caesar"
+    ],
+    "A34583-e22740": [
+      "cornelia"
+    ],
+    "A34583-e22860": [
+      "julius-caesar"
+    ],
+    "A34583-e22990": [
+      "cornelia"
+    ],
+    "A34583-e23660": [
+      "julius-caesar"
+    ],
+    "A34583-e23700": [
+      "cleopatra"
+    ],
+    "A34583-e23820": [
+      "julius-caesar"
+    ],
+    "A34583-e23930": [
+      "cleopatra"
+    ],
+    "A34583-e24030": [
+      "achoreus"
+    ],
+    "A34583-e24600": [
+      "cornelia"
+    ],
+    "A34583-e25010": [
+      "philip"
+    ],
+    "A34583-e25420": [
+      "cornelia"
+    ],
+    "A34583-e25450": [
+      "philip"
+    ],
+    "A34583-e25700": [
+      "cornelia"
+    ],
+    "A34583-e25990": [
+      "cleopatra"
+    ],
+    "A34583-e26150": [
+      "cornelia"
+    ],
+    "A34583-e26180": [
+      "cleopatra"
+    ],
+    "A34583-e26210": [
+      "cornelia"
+    ],
+    "A34583-e26240": [
+      "cleopatra"
+    ],
+    "A34583-e26270": [
+      "cornelia"
+    ],
+    "A34583-e26530": [
+      "cleopatra"
+    ],
+    "A34583-e26560": [
+      "cornelia"
+    ],
+    "A34583-e26600": [
+      "cleopatra"
+    ],
+    "A34583-e26630": [
+      "cornelia"
+    ],
+    "A34583-e26670": [
+      "cleopatra"
+    ],
+    "A34583-e26700": [
+      "cornelia"
+    ],
+    "A34583-e26830": [
+      "cleopatra"
+    ],
+    "A34583-e26900": [
+      "achoreus"
+    ],
+    "A34583-e26940": [
+      "cleopatra"
+    ],
+    "A34583-e27120": [
+      "achoreus"
+    ],
+    "A34583-e27150": [
+      "cleopatra"
+    ],
+    "A34583-e27190": [
+      "achoreus"
+    ],
+    "A34583-e27220": [
+      "cleopatra"
+    ],
+    "A34583-e27260": [
+      "cornelia"
+    ],
+    "A34583-e27290": [
+      "cleopatra"
+    ],
+    "A34583-e27320": [
+      "achoreus"
+    ],
+    "A34583-e27360": [
+      "cleopatra"
+    ],
+    "A34583-e27400": [
+      "achoreus"
+    ],
+    "A34583-e27900": [
+      "cornelia"
+    ],
+    "A34583-e28130": [
+      "julius-caesar"
+    ],
+    "A34583-e28380": [
+      "cornelia"
+    ],
+    "A34583-e29140": [
+      "cleopatra"
+    ],
+    "A34583-e29230": [
+      "julius-caesar"
+    ],
+    "A34583-e29520": [
+      "cleopatra"
+    ],
+    "A34583-e29660": [
+      "achoreus"
+    ],
+    "A34583-e29720": [
+      "julius-caesar"
+    ]
+  }
+}

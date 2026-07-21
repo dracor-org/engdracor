@@ -1,8 +1,56 @@
 {
   "particDesc": [
     {
-      "name": "Third Thief",
-      "id": "third-thief",
+      "name": "Gentlemen",
+      "id": "gentlemen",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Thief 2",
+      "id": "thief-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Thief 1",
+      "id": "thief-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boy 2",
+      "id": "boy-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boy 1",
+      "id": "boy-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rogue 3",
+      "id": "rogue-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rogue 2",
+      "id": "rogue-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rogue 1",
+      "id": "rogue-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Boy",
+      "id": "boy",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -13,26 +61,8 @@
       "sex": "MALE"
     },
     {
-      "name": "Fiddlers",
-      "id": "fiddlers",
-      "isGroup": true,
-      "sex": "MALE"
-    },
-    {
-      "name": "Second Boy",
-      "id": "second-boy",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "First Boy",
-      "id": "first-boy",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Second Thief",
-      "id": "second-thief",
+      "name": "Page",
+      "id": "page",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -91,10 +121,10 @@
       "sex": "MALE"
     },
     {
-      "id": "first-thief",
-      "name": "First Thief",
-      "isGroup": false,
-      "sex": "MALE"
+      "id": "three-thieves",
+      "name": "Three Thieves",
+      "isGroup": true,
+	  "sex": "MALE"
     },
     {
       "id": "bianca",
@@ -103,8 +133,8 @@
       "sex": "FEMALE"
     },
     {
-      "id": "coach-man",
-      "name": "Coach-man",
+      "id": "coachman",
+      "name": "Coachman",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -291,7 +321,6 @@
       "don-felices"
     ],
     "A55490-e3320": [
-      "donna-miranda",
       "don-felices"
     ],
     "A55490-e3350": [
@@ -445,11 +474,7 @@
       "sancho"
     ],
     "A55490-e6040": [
-      "don-felices",
-      "don-alvaredo",
-      "don-ferdinando",
-      "ossorio",
-      "pedro"
+      "don-felices"
     ],
     "A55490-e6080": [
       "sancho"
@@ -782,7 +807,7 @@
       "don-lorenzo"
     ],
     "A55490-e12390": [
-      "bartolo"
+      "page"
     ],
     "A55490-e12420": [
       "don-lorenzo"
@@ -1247,15 +1272,13 @@
       "don-lorenzo"
     ],
     "A55490-e20710": [
-      "don-lorenzo",
-      "donna-elvira",
-      "don-alvaredo",
       "don-antonio",
       "don-ferdinando",
+      "don-alvaredo",
       "donna-beatrice",
-      "quintagona",
       "donna-miranda",
-      "servant"
+      "donna-elvira",
+      "quintagona"
     ],
     "A55490-e20740": [
       "donna-miranda"
@@ -1315,15 +1338,13 @@
       "donna-miranda"
     ],
     "A55490-e21960": [
-      "don-lorenzo",
-      "donna-elvira",
-      "don-alvaredo",
       "don-antonio",
       "don-ferdinando",
+      "don-alvaredo",
       "donna-beatrice",
-      "quintagona",
       "donna-miranda",
-      "servant"
+      "donna-elvira",
+      "quintagona"
     ],
     "A55490-e21990": [
       "don-lorenzo"
@@ -1335,7 +1356,7 @@
       "don-lorenzo"
     ],
     "A55490-e22120": [
-      "first-boy"
+      "boy"
     ],
     "A55490-e22160": [
       "bartolo"
@@ -1344,7 +1365,7 @@
       "don-lorenzo"
     ],
     "A55490-e22220": [
-      "first-boy"
+      "boy"
     ],
     "A55490-e22250": [
       "don-ferdinando"
@@ -1368,15 +1389,13 @@
       "don-lorenzo"
     ],
     "A55490-e22580": [
-      "don-lorenzo",
-      "donna-elvira",
-      "don-alvaredo",
       "don-antonio",
       "don-ferdinando",
+      "don-alvaredo",
       "donna-beatrice",
-      "quintagona",
       "donna-miranda",
-      "servant"
+      "donna-elvira",
+      "quintagona"
     ],
     "A55490-e22610": [
       "don-lorenzo"
@@ -1391,15 +1410,13 @@
       "bartolo"
     ],
     "A55490-e22750": [
-      "don-lorenzo",
-      "donna-elvira",
-      "don-alvaredo",
       "don-antonio",
       "don-ferdinando",
+      "don-alvaredo",
       "donna-beatrice",
-      "quintagona",
       "donna-miranda",
-      "servant"
+      "donna-elvira",
+      "quintagona"
     ],
     "A55490-e22780": [
       "don-lorenzo"
@@ -1549,43 +1566,43 @@
       "don-ferdinando"
     ],
     "A55490-e25510": [
-      "first-thief"
+      "rogue-1"
     ],
     "A55490-e25540": [
       "don-ferdinando"
     ],
     "A55490-e25590": [
-      "second-thief"
+      "rogue-2"
     ],
     "A55490-e25640": [
       "don-ferdinando"
     ],
     "A55490-e25680": [
-      "third-thief"
+      "rogue-3"
     ],
     "A55490-e25730": [
       "don-ferdinando"
     ],
     "A55490-e25770": [
-      "second-thief"
+      "rogue-2"
     ],
     "A55490-e25890": [
-      "third-thief"
+      "rogue-3"
     ],
     "A55490-e25950": [
-      "first-thief"
+      "rogue-1"
     ],
     "A55490-e26000": [
       "don-ferdinando"
     ],
     "A55490-e26080": [
-      "second-thief"
+      "rogue-2"
     ],
     "A55490-e26120": [
       "don-ferdinando"
     ],
     "A55490-e26160": [
-      "first-thief"
+      "rogue-1"
     ],
     "A55490-e26200": [
       "don-ferdinando"
@@ -1864,20 +1881,20 @@
       "donna-elvira"
     ],
     "A55490-e30460": [
-      "coach-man"
+      "coachman"
     ],
     "A55490-e30500": [
       "donna-elvira"
     ],
     "A55490-e30530": [
-      "coach-man"
+      "coachman"
     ],
     "A55490-e30570": [
       "donna-elvira"
     ],
     "A55490-e30790": [
-      "first-boy",
-      "second-boy"
+      "boy-1",
+      "boy-2"
     ],
     "A55490-e30820": [
       "sancho"
@@ -1895,13 +1912,13 @@
       "sancho"
     ],
     "A55490-e31020": [
-      "first-boy"
+      "boy-1"
     ],
     "A55490-e31060": [
-      "second-boy"
+      "boy-2"
     ],
     "A55490-e31100": [
-      "first-boy"
+      "boy-1"
     ],
     "A55490-e31180": [
       "donna-miranda"
@@ -1931,43 +1948,43 @@
       "sancho"
     ],
     "A55490-e31630": [
-      "first-thief"
+      "thief-1"
     ],
     "A55490-e31670": [
-      "second-thief"
+      "thief-2"
     ],
     "A55490-e31710": [
-      "first-thief"
+      "thief-1"
     ],
     "A55490-e31750": [
-      "second-thief"
+      "thief-2"
     ],
     "A55490-e31790": [
-      "first-thief"
+      "thief-1"
     ],
     "A55490-e31840": [
       "don-ferdinando"
     ],
     "A55490-e31890": [
-      "first-thief"
+      "thief-1"
     ],
     "A55490-e31960": [
       "don-ferdinando"
     ],
     "A55490-e32010": [
-      "second-thief"
+      "thief-2"
     ],
     "A55490-e32060": [
       "don-ferdinando"
     ],
     "A55490-e32120": [
-      "first-thief"
+      "thief-1"
     ],
     "A55490-e32190": [
       "don-ferdinando"
     ],
     "A55490-e32220": [
-      "second-thief"
+      "thief-2"
     ],
     "A55490-e32280": [
       "don-ferdinando"
@@ -2030,7 +2047,7 @@
       "donna-elvira"
     ],
     "A55490-e33290": [
-      "coach-man"
+      "coachman"
     ],
     "A55490-e33320": [
       "donna-elvira"
@@ -2483,7 +2500,7 @@
       "don-antonio"
     ],
     "A55490-e42460": [
-      "fiddlers"
+      "gentlemen"
     ],
     "A55490-e42740": [
       "bartolo"

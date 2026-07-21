@@ -1,158 +1,56 @@
 {
   "particDesc": [
     {
-      "name": "Chorus of Devils",
-      "id": "chorus-of-devils",
-      "isGroup": true,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "Devil III",
-      "id": "devil-iii",
-      "isGroup": false,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "Devil II",
-      "id": "devil-ii",
-      "isGroup": false,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "Devil I",
-      "id": "devil-i",
-      "isGroup": false,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "John's Father",
-      "id": "john-s-father",
+      "name": "Bravo",
+      "id": "bravo",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Nuns",
-      "id": "nuns",
-      "isGroup": true,
-      "sex": "FEMALE"
+      "name": "Statue",
+      "id": "statue",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
-      "name": "Nun",
-      "id": "nun",
+      "name": "Ghost of Leonora",
+      "id": "ghost-of-leonora",
       "isGroup": false,
       "sex": "FEMALE"
     },
     {
-      "name": "Voices",
-      "id": "voices",
+      "name": "Ghost of Flora",
+      "id": "ghost-of-flora",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Ghost of Don Francisco",
+      "id": "ghost-of-don-francisco",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Offstage Voices",
+      "id": "offstage-voices",
       "isGroup": true,
       "sex": "UNKNOWN"
     },
     {
-      "name": "Shepherdesses",
-      "id": "shepherdesses",
-      "isGroup": true,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Shepherdess II",
-      "id": "shepherdess-ii",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Shepherdess I",
-      "id": "shepherdess-i",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Chorus of Shepherds and Shepherdesses",
-      "id": "chorus-of-shepherds-and-shepherdesses",
-      "isGroup": true,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "Chorus with fidlers",
-      "id": "chorus-fidlers",
-      "isGroup": true,
-	  "sex": "UNKNOWN"
-    },
-	{
-      "name": "Semichorus I",
-      "id": "semichorus-1",
-      "isGroup": true,
-	  "sex": "UNKNOWN"
-    },
-	{
-      "name": "Semichorus II",
-      "id": "semichorus-2",
-      "isGroup": true,
-	  "sex": "UNKNOWN"
-    },
-	{
-      "name": "Semichorus III",
-      "id": "semichorus-3",
-      "isGroup": true,
-	  "sex": "UNKNOWN"
-    },
-	{
-      "name": "Chorus of maids",
-      "id": "chorus-maids",
-      "isGroup": true,
-	  "sex": "FEMALE"
-    },
-    {
-      "name": "Nymph II",
-      "id": "nymph-ii",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Nymph I",
-      "id": "nymph-i",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Sheperd II",
-      "id": "sheperd-ii",
+      "name": "Bridegroom 2",
+      "id": "bridegroom-2",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Sheperd I",
-      "id": "sheperd-i",
+      "name": "Bridegroom 1",
+      "id": "bridegroom-1",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Bridegroom II",
-      "id": "bridegroom-ii",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Bridegroom I",
-      "id": "bridegroom-i",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Country-fellow",
+      "name": "Country Fellow",
       "id": "country-fellow",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-    {
-      "name": "Sailors",
-      "id": "sailors",
-      "isGroup": true,
-      "sex": "MALE"
-    },
-    {
-      "name": "Captain",
-      "id": "captain",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -163,82 +61,46 @@
       "sex": "MALE"
     },
     {
-      "name": "Ghost",
-      "id": "ghost",
+      "name": "Ghost of Don John's Father",
+      "id": "ghost-of-don-john-s-father",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Bravo",
-      "id": "bravo",
+      "name": "Devil 3",
+      "id": "devil-3",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Servant I",
-      "id": "servant-1",
+      "name": "Devil 2",
+      "id": "devil-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Devil 1",
+      "id": "devil-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Flora",
+      "id": "flora",
       "isGroup": false,
 	  "sex": "MALE"
     },
-	{
-      "name": "Servant II",
-      "id": "servant-2",
+    {
+      "name": "Shepherd 2",
+      "id": "shepherd-2",
       "isGroup": false,
-	  "sex": "MALE"
-    },
-	{
-      "name": "Servant III",
-      "id": "servant-3",
-      "isGroup": false,
-	  "sex": "MALE"
+      "sex": "MALE"
     },
     {
-      "name": "Lady II",
-      "id": "lady-ii",
+      "name": "Servant",
+      "id": "servant",
       "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Lady I",
-      "id": "lady-i",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Woman VI",
-      "id": "woman-vi",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Woman V",
-      "id": "woman-v",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Woman IV",
-      "id": "woman-iv",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Woman III",
-      "id": "woman-iii",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Woman II",
-      "id": "woman-ii",
-      "isGroup": false,
-      "sex": "FEMALE"
-    },
-    {
-      "name": "Woman I",
-      "id": "woman-i",
-      "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "MALE"
     },
     {
       "name": "Officer",
@@ -247,32 +109,134 @@
       "sex": "MALE"
     },
     {
-      "name": "Flora",
-      "id": "flora",
+      "name": "Old Woman",
+      "id": "old-woman",
       "isGroup": false,
       "sex": "FEMALE"
     },
     {
-      "id": "john",
-      "name": "John",
+      "name": "Captain",
+      "id": "captain",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "id": "antonio",
-      "name": "Antonio",
+      "name": "Sailor",
+      "id": "sailor",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "id": "lopez",
-      "name": "Lopez",
+      "name": "Nymph 2",
+      "id": "nymph-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nymph 1",
+      "id": "nymph-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Shepherd 1",
+      "id": "shepherd-1",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "id": "octavio",
-      "name": "Octavio",
+      "name": "Chorus of Devils",
+      "id": "chorus-of-devils",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Nun 1",
+      "id": "nun-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nuns",
+      "id": "nuns",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Shepherdess 2",
+      "id": "shepherdess-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Shepherdess 1",
+      "id": "shepherdess-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Woman 6",
+      "id": "woman-6",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 5",
+      "id": "woman-5",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 4",
+      "id": "woman-4",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 3",
+      "id": "woman-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 2",
+      "id": "woman-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 1",
+      "id": "woman-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "don-john",
+      "name": "Don John",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "don-antonio",
+      "name": "Don Antonio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "don-lopez",
+      "name": "Don Lopez",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "don-octavio",
+      "name": "Don Octavio",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -295,8 +259,8 @@
       "sex": "FEMALE"
     },
     {
-      "id": "francisco",
-      "name": "Francisco",
+      "id": "don-francisco",
+      "name": "Don Francisco",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -317,182 +281,176 @@
       "name": "Hermit",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "id": "old-woman",
-      "name": "Old Woman",
-      "isGroup": false,
-      "sex": "FEMALE"
     }
   ],
   "speeches": {
     "A59432-e1520": [
-      "john"
+      "don-john"
     ],
     "A59432-e1640": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e1690": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e1770": [
-      "john"
+      "don-john"
     ],
     "A59432-e1850": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e1910": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e2000": [
-      "john"
+      "don-john"
     ],
     "A59432-e2140": [
       "jacomo"
     ],
     "A59432-e2170": [
-      "john"
+      "don-john"
     ],
     "A59432-e2250": [
       "jacomo"
     ],
     "A59432-e2290": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e2320": [
       "jacomo"
     ],
     "A59432-e2360": [
-      "john"
+      "don-john"
     ],
     "A59432-e2390": [
       "jacomo"
     ],
     "A59432-e2420": [
-      "john"
+      "don-john"
     ],
     "A59432-e2450": [
       "jacomo"
     ],
     "A59432-e2480": [
-      "john"
+      "don-john"
     ],
     "A59432-e2510": [
       "jacomo"
     ],
     "A59432-e2540": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e2570": [
       "jacomo"
     ],
     "A59432-e2610": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e2640": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e2680": [
       "jacomo"
     ],
     "A59432-e2720": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e2750": [
       "jacomo"
     ],
     "A59432-e2830": [
-      "john"
+      "don-john"
     ],
     "A59432-e2860": [
       "jacomo"
     ],
     "A59432-e2890": [
-      "john"
+      "don-john"
     ],
     "A59432-e2920": [
       "jacomo"
     ],
     "A59432-e2950": [
-      "john"
+      "don-john"
     ],
     "A59432-e2980": [
       "jacomo"
     ],
     "A59432-e3010": [
-      "john"
+      "don-john"
     ],
     "A59432-e3040": [
       "jacomo"
     ],
     "A59432-e3070": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e3100": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e3150": [
       "jacomo"
     ],
     "A59432-e3210": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e3240": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e3270": [
-      "john"
+      "don-john"
     ],
     "A59432-e3320": [
       "jacomo"
     ],
     "A59432-e3370": [
-      "john"
+      "don-john"
     ],
     "A59432-e3400": [
       "jacomo"
     ],
     "A59432-e3430": [
-      "john"
+      "don-john"
     ],
     "A59432-e3460": [
       "jacomo"
     ],
     "A59432-e3490": [
-      "john"
+      "don-john"
     ],
     "A59432-e3520": [
       "jacomo"
     ],
     "A59432-e3550": [
-      "john"
+      "don-john"
     ],
     "A59432-e3580": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e3610": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e3640": [
-      "john"
+      "don-john"
     ],
     "A59432-e3670": [
       "jacomo"
     ],
     "A59432-e3700": [
-      "john"
+      "don-john"
     ],
     "A59432-e3730": [
       "jacomo"
     ],
     "A59432-e3770": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e3800": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e3830": [
-      "john"
+      "don-john"
     ],
     "A59432-e3940": [
       "jacomo"
@@ -672,130 +630,127 @@
       "jacomo"
     ],
     "A59432-e5970": [
-      "john"
+      "don-john"
     ],
     "A59432-e6090": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e6120": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e6160": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e6210": [
-      "john"
+      "don-john"
     ],
     "A59432-e6240": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e6280": [
-      "john"
+      "don-john"
     ],
     "A59432-e6310": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e6350": [
-      "john"
+      "don-john"
     ],
     "A59432-e6380": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e6420": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e6450": [
-      "john"
+      "don-john"
     ],
     "A59432-e6480": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e6510": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e6550": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e6580": [
-      "john"
+      "don-john"
     ],
     "A59432-e6820": [
-      "john"
+      "don-john"
     ],
     "A59432-e6870": [
       "maria"
     ],
     "A59432-e6930": [
-      "john"
+      "don-john"
     ],
     "A59432-e7020": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e7050": [
-      "john"
+      "don-john"
     ],
     "A59432-e7080": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e7110": [
-      "john"
+      "don-john"
     ],
     "A59432-e7140": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e7170": [
-      "john"
+      "don-john"
     ],
     "A59432-e7200": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e7250": [
-      "john"
-    ],
-    "A59432-e7390": [
-      "octavio"
+      "don-john"
     ],
     "A59432-e7570": [
-      "octavio"
+      "don-octavio"
     ],
     "A59432-e7600": [
-      "john"
+      "don-john"
     ],
     "A59432-e7640": [
       "maria"
     ],
     "A59432-e7670": [
-      "octavio"
+      "don-octavio"
     ],
     "A59432-e7710": [
-      "john"
+      "don-john"
     ],
     "A59432-e7740": [
       "maria"
     ],
     "A59432-e7800": [
-      "octavio"
+      "don-octavio"
     ],
     "A59432-e7830": [
-      "john"
+      "don-john"
     ],
     "A59432-e7860": [
-      "octavio"
+      "don-octavio"
     ],
     "A59432-e7900": [
-      "john"
+      "don-john"
     ],
     "A59432-e7930": [
       "maria"
     ],
     "A59432-e7970": [
-      "octavio"
+      "don-octavio"
     ],
     "A59432-e8010": [
-      "john"
+      "don-john"
     ],
     "A59432-e8040": [
-      "octavio"
+      "don-octavio"
     ],
     "A59432-e8080": [
       "maria"
@@ -807,25 +762,25 @@
       "maria"
     ],
     "A59432-e8210": [
-      "john"
+      "don-john"
     ],
     "A59432-e8250": [
       "flora"
     ],
     "A59432-e8280": [
-      "john"
+      "don-john"
     ],
     "A59432-e8310": [
       "flora"
     ],
     "A59432-e8340": [
-      "john"
+      "don-john"
     ],
     "A59432-e8370": [
       "flora"
     ],
     "A59432-e8400": [
-      "john"
+      "don-john"
     ],
     "A59432-e8450": [
       "flora"
@@ -834,37 +789,37 @@
       "maria"
     ],
     "A59432-e8520": [
-      "john"
+      "don-john"
     ],
     "A59432-e8550": [
       "maria"
     ],
     "A59432-e8580": [
-      "john"
+      "don-john"
     ],
     "A59432-e8610": [
       "maria"
     ],
     "A59432-e8650": [
-      "john"
+      "don-john"
     ],
     "A59432-e8710": [
       "jacomo"
     ],
     "A59432-e8740": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e8770": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e8800": [
       "jacomo"
     ],
     "A59432-e8830": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e8860": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e8890": [
       "jacomo"
@@ -873,13 +828,13 @@
       "officer"
     ],
     "A59432-e8960": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e8990": [
       "jacomo"
     ],
     "A59432-e9030": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e9060": [
       "jacomo"
@@ -894,19 +849,19 @@
       "officer"
     ],
     "A59432-e9180": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e9210": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e9240": [
       "jacomo"
     ],
     "A59432-e9270": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e9300": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e9330": [
       "officer"
@@ -915,19 +870,19 @@
       "jacomo"
     ],
     "A59432-e9430": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e9460": [
       "jacomo"
     ],
     "A59432-e9490": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e9530": [
       "jacomo"
     ],
     "A59432-e9560": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e9600": [
       "jacomo"
@@ -936,7 +891,7 @@
       "maria"
     ],
     "A59432-e9700": [
-      "john"
+      "don-john"
     ],
     "A59432-e9760": [
       "maria"
@@ -948,7 +903,7 @@
       "maria"
     ],
     "A59432-e9860": [
-      "john"
+      "don-john"
     ],
     "A59432-e9890": [
       "maria"
@@ -957,13 +912,13 @@
       "flora"
     ],
     "A59432-e9950": [
-      "john"
+      "don-john"
     ],
     "A59432-e10000": [
-      "octavio"
+      "don-octavio"
     ],
     "A59432-e10030": [
-      "john"
+      "don-john"
     ],
     "A59432-e10080": [
       "flora"
@@ -972,13 +927,13 @@
       "maria"
     ],
     "A59432-e10160": [
-      "john"
+      "don-john"
     ],
     "A59432-e10250": [
       "flora"
     ],
     "A59432-e10290": [
-      "john"
+      "don-john"
     ],
     "A59432-e10370": [
       "jacomo"
@@ -996,85 +951,85 @@
       "jacomo"
     ],
     "A59432-e10600": [
-      "john"
+      "don-john"
     ],
     "A59432-e10630": [
       "jacomo"
     ],
     "A59432-e10660": [
-      "john"
+      "don-john"
     ],
     "A59432-e10690": [
       "jacomo"
     ],
     "A59432-e10720": [
-      "john"
+      "don-john"
     ],
     "A59432-e10750": [
       "jacomo"
     ],
     "A59432-e10780": [
-      "john"
+      "don-john"
     ],
     "A59432-e10810": [
       "jacomo"
     ],
     "A59432-e10840": [
-      "john"
+      "don-john"
     ],
     "A59432-e10870": [
       "jacomo"
     ],
     "A59432-e10900": [
-      "john"
+      "don-john"
     ],
     "A59432-e10930": [
       "jacomo"
     ],
     "A59432-e10960": [
-      "john"
+      "don-john"
     ],
     "A59432-e10990": [
       "jacomo"
     ],
     "A59432-e11020": [
-      "john"
+      "don-john"
     ],
     "A59432-e11070": [
       "jacomo"
     ],
     "A59432-e11110": [
-      "john"
+      "don-john"
     ],
     "A59432-e11140": [
       "jacomo"
     ],
     "A59432-e11170": [
-      "john"
+      "don-john"
     ],
     "A59432-e11200": [
       "jacomo"
     ],
     "A59432-e11230": [
-      "john"
+      "don-john"
     ],
     "A59432-e11260": [
       "jacomo"
     ],
     "A59432-e11290": [
-      "john"
+      "don-john"
     ],
     "A59432-e11320": [
       "jacomo"
     ],
     "A59432-e11350": [
-      "john"
+      "don-john"
     ],
     "A59432-e11380": [
       "jacomo"
     ],
     "A59432-e11410": [
-      "john"
+      "don-john"
     ],
     "A59432-e11440": [
       "jacomo"
@@ -1083,7 +1038,7 @@
       "leonora"
     ],
     "A59432-e11520": [
-      "john"
+      "don-john"
     ],
     "A59432-e11550": [
       "jacomo"
@@ -1092,97 +1047,97 @@
       "leonora"
     ],
     "A59432-e11620": [
-      "john"
+      "don-john"
     ],
     "A59432-e11650": [
       "leonora"
     ],
     "A59432-e11690": [
-      "john"
+      "don-john"
     ],
     "A59432-e11720": [
       "leonora"
     ],
     "A59432-e11750": [
-      "john"
+      "don-john"
     ],
     "A59432-e11780": [
       "leonora"
     ],
     "A59432-e11810": [
-      "john"
+      "don-john"
     ],
     "A59432-e11840": [
       "leonora"
     ],
     "A59432-e11870": [
-      "john"
+      "don-john"
     ],
     "A59432-e11900": [
       "leonora"
     ],
     "A59432-e11930": [
-      "john"
+      "don-john"
     ],
     "A59432-e11960": [
       "leonora"
     ],
     "A59432-e11990": [
-      "john"
+      "don-john"
     ],
     "A59432-e12020": [
       "leonora"
     ],
     "A59432-e12050": [
-      "john"
+      "don-john"
     ],
     "A59432-e12080": [
       "leonora"
     ],
     "A59432-e12110": [
-      "john"
+      "don-john"
     ],
     "A59432-e12140": [
       "leonora"
     ],
     "A59432-e12170": [
-      "john"
+      "don-john"
     ],
     "A59432-e12200": [
       "leonora"
     ],
     "A59432-e12230": [
-      "john"
+      "don-john"
     ],
     "A59432-e12260": [
       "leonora"
     ],
     "A59432-e12290": [
-      "john"
+      "don-john"
     ],
     "A59432-e12320": [
       "leonora"
     ],
     "A59432-e12350": [
-      "john"
+      "don-john"
     ],
     "A59432-e12380": [
       "leonora"
     ],
     "A59432-e12410": [
-      "john"
+      "don-john"
     ],
     "A59432-e12440": [
       "leonora"
     ],
     "A59432-e12470": [
-      "john"
+      "don-john"
     ],
     "A59432-e12500": [
       "leonora"
     ],
     "A59432-e12530": [
-      "john"
+      "don-john"
     ],
     "A59432-e12560": [
       "leonora"
@@ -1191,404 +1146,404 @@
       "jacomo"
     ],
     "A59432-e12640": [
-      "john"
+      "don-john"
     ],
     "A59432-e12670": [
       "jacomo"
     ],
     "A59432-e12710": [
-      "john"
+      "don-john"
     ],
     "A59432-e12740": [
       "jacomo"
     ],
     "A59432-e12770": [
-      "john"
+      "don-john"
     ],
     "A59432-e12800": [
       "leonora"
     ],
     "A59432-e12850": [
-      "woman-i"
+      "woman-1"
     ],
     "A59432-e12890": [
-      "john"
+      "don-john"
     ],
     "A59432-e12940": [
-      "woman-ii"
+      "woman-2"
     ],
     "A59432-e12990": [
-      "john"
+      "don-john"
     ],
     "A59432-e13020": [
-      "woman-iii"
+      "woman-3"
     ],
     "A59432-e13060": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e13100": [
-      "woman-vi"
+      "jacomo"
     ],
     "A59432-e13130": [
-      "woman-v"
+      "woman-5"
     ],
     "A59432-e13190": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e13230": [
-      "john"
+      "don-john"
     ],
     "A59432-e13270": [
-      "lady-i"
+      "woman-1"
     ],
     "A59432-e13310": [
-      "lady-ii"
+      "woman-2"
     ],
     "A59432-e13350": [
-      "john"
+      "don-john"
     ],
     "A59432-e13380": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e13420": [
-      "john"
+      "don-john"
     ],
     "A59432-e13450": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e13490": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e13530": [
-      "woman-iii"
+      "woman-3"
     ],
     "A59432-e13570": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e13610": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e13650": [
-      "woman-i"
+      "woman-1"
     ],
     "A59432-e13690": [
-      "john"
+      "don-john"
     ],
     "A59432-e13720": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e13760": [
-      "john"
+      "don-john"
     ],
     "A59432-e13790": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e13840": [
-      "woman-i",
-	  "woman-ii",
-	  "woman-iii",
-	  "woman-v",
-	  "woman-vi"
+      "woman-1",
+      "woman-3",
+      "woman-5",
+      "woman-6",
+      "woman-2"
     ],
     "A59432-e13870": [
-      "john"
+      "don-john"
     ],
     "A59432-e13900": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e13940": [
-      "woman-v"
+      "woman-5"
     ],
     "A59432-e13980": [
-      "woman-i"
+      "woman-1"
     ],
     "A59432-e14020": [
-      "woman-iii"
+      "woman-3"
     ],
     "A59432-e14060": [
-      "woman-ii"
+      "woman-2"
     ],
     "A59432-e14100": [
-      "woman-i",
-	  "woman-iv",
-	  "woman-iii",
-	  "woman-v",
-	  "woman-vi"
+      "woman-1",
+      "woman-3",
+      "woman-5",
+      "woman-6",
+      "woman-4"
     ],
     "A59432-e14130": [
-      "john"
+      "don-john"
     ],
     "A59432-e14160": [
       "jacomo"
     ],
     "A59432-e14190": [
-      "john"
+      "don-john"
     ],
     "A59432-e14220": [
       "jacomo"
     ],
     "A59432-e14250": [
-      "john"
+      "don-john"
     ],
     "A59432-e14280": [
-      "woman-i"
+      "woman-1"
     ],
     "A59432-e14320": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e14360": [
-      "woman-iii"
+      "woman-3"
     ],
     "A59432-e14410": [
-      "john"
+      "don-john"
     ],
     "A59432-e14440": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e14480": [
-      "woman-ii"
+      "woman-2"
     ],
     "A59432-e14520": [
       "jacomo"
     ],
     "A59432-e14550": [
-      "woman-vi",
-      "woman-v",
-      "woman-iv",
-      "woman-iii",
-      "woman-ii",
-      "woman-i"
+      "woman-6",
+      "woman-4",
+      "woman-1",
+      "woman-2",
+      "woman-3",
+      "woman-5"
     ],
     "A59432-e14580": [
-      "john"
+      "don-john"
     ],
     "A59432-e14620": [
       "jacomo"
     ],
     "A59432-e14650": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e14690": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e14760": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e14800": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e14840": [
-      "john"
+      "don-john"
     ],
     "A59432-e14870": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e14900": [
-      "john"
+      "don-john"
     ],
     "A59432-e14930": [
-      "woman-i"
+      "woman-1"
     ],
     "A59432-e14970": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e15000": [
-      "john"
+      "don-john"
     ],
     "A59432-e15030": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e15070": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e15110": [
-      "john"
+      "don-john"
     ],
     "A59432-e15290": [
-      "chorus-fidlers"
+      "chorus"
     ],
     "A59432-e15450": [
-      "chorus-fidlers"
+      "chorus"
     ],
     "A59432-e15590": [
-      "chorus-fidlers"
+      "chorus"
     ],
     "A59432-e15620": [
-      "john"
+      "don-john"
     ],
     "A59432-e15650": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e15690": [
-      "john"
+      "don-john"
     ],
     "A59432-e15730": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e15760": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e15810": [
-      "john"
+      "don-john"
     ],
     "A59432-e15840": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e15880": [
-      "john"
+      "don-john"
     ],
     "A59432-e15910": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e15950": [
-      "john"
+      "don-john"
     ],
     "A59432-e16000": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e16040": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e16070": [
-      "john"
+      "don-john"
     ],
     "A59432-e16120": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e16160": [
-      "john"
+      "don-john"
     ],
     "A59432-e16190": [
-      "woman-i"
+      "woman-1"
     ],
     "A59432-e16230": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e16260": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e16290": [
-      "woman-iv"
+      "woman-4"
     ],
     "A59432-e16340": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e16390": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e16420": [
-      "john"
+      "don-john"
     ],
     "A59432-e16450": [
-      "woman-ii"
+      "woman-2"
     ],
     "A59432-e16490": [
-      "john"
+      "don-john"
     ],
     "A59432-e16520": [
-      "woman-i"
+      "woman-1"
     ],
     "A59432-e16560": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e16600": [
-      "john"
+      "don-john"
     ],
     "A59432-e16630": [
-      "woman-vi"
+      "woman-6"
     ],
     "A59432-e16680": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e16710": [
-      "john"
+      "don-john"
     ],
     "A59432-e16750": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e16790": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e16820": [
-      "john"
+      "don-john"
     ],
     "A59432-e16880": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e16920": [
-      "john"
+      "don-john"
     ],
     "A59432-e16950": [
       "jacomo"
     ],
     "A59432-e16980": [
-      "john"
+      "don-john"
     ],
     "A59432-e17010": [
       "jacomo"
     ],
     "A59432-e17040": [
-      "john"
+      "don-john"
     ],
     "A59432-e17070": [
       "jacomo"
     ],
     "A59432-e17100": [
-      "john"
+      "don-john"
     ],
     "A59432-e17130": [
       "jacomo"
     ],
     "A59432-e17160": [
-      "john"
+      "don-john"
     ],
     "A59432-e17190": [
       "jacomo"
     ],
     "A59432-e17230": [
-      "john"
+      "don-john"
     ],
     "A59432-e17260": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e17290": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e17330": [
-      "john"
+      "don-john"
     ],
     "A59432-e17360": [
       "old-woman"
     ],
     "A59432-e17390": [
-      "john"
+      "don-john"
     ],
     "A59432-e17420": [
-      "servant-1"
+      "servant"
     ],
     "A59432-e17450": [
-      "john"
+      "don-john"
     ],
     "A59432-e17480": [
       "old-woman"
     ],
     "A59432-e17510": [
-      "john"
+      "don-john"
     ],
     "A59432-e17560": [
       "jacomo"
     ],
     "A59432-e17590": [
-      "john"
+      "don-john"
     ],
     "A59432-e17630": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e17660": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e17690": [
-      "john"
+      "don-john"
     ],
     "A59432-e17720": [
       "jacomo"
@@ -1645,31 +1600,31 @@
       "bravo"
     ],
     "A59432-e19180": [
-      "john"
+      "don-john"
     ],
     "A59432-e19210": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e19250": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e19290": [
       "jacomo"
     ],
     "A59432-e19320": [
-      "john"
+      "don-john"
     ],
     "A59432-e19350": [
       "jacomo"
     ],
     "A59432-e19390": [
-      "john"
+      "don-john"
     ],
     "A59432-e19420": [
       "jacomo"
     ],
     "A59432-e19450": [
-      "john"
+      "don-john"
     ],
     "A59432-e19480": [
       "jacomo"
@@ -1678,7 +1633,7 @@
       "maria"
     ],
     "A59432-e19560": [
-      "john"
+      "don-john"
     ],
     "A59432-e19630": [
       "jacomo"
@@ -1687,7 +1642,7 @@
       "maria"
     ],
     "A59432-e19720": [
-      "john"
+      "don-john"
     ],
     "A59432-e19750": [
       "flora"
@@ -1696,7 +1651,7 @@
       "maria"
     ],
     "A59432-e19860": [
-      "john"
+      "don-john"
     ],
     "A59432-e19890": [
       "maria"
@@ -1705,151 +1660,151 @@
       "jacomo"
     ],
     "A59432-e19990": [
-      "john"
+      "don-john"
     ],
     "A59432-e20020": [
       "jacomo"
     ],
     "A59432-e20050": [
-      "john"
+      "don-john"
     ],
     "A59432-e20080": [
       "jacomo"
     ],
     "A59432-e20120": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e20150": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e20180": [
       "jacomo"
     ],
     "A59432-e20210": [
-      "john"
+      "don-john"
     ],
     "A59432-e20240": [
       "jacomo"
     ],
     "A59432-e20270": [
-      "john"
+      "don-john"
     ],
     "A59432-e20300": [
       "jacomo"
     ],
     "A59432-e20330": [
-      "john"
+      "don-john"
     ],
     "A59432-e20360": [
       "jacomo"
     ],
     "A59432-e20390": [
-      "john"
+      "don-john"
     ],
     "A59432-e20420": [
       "jacomo"
     ],
     "A59432-e20450": [
-      "john"
+      "don-john"
     ],
     "A59432-e20480": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e20510": [
       "jacomo"
     ],
     "A59432-e20540": [
-      "john"
+      "don-john"
     ],
     "A59432-e20570": [
       "jacomo"
     ],
     "A59432-e20620": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e20650": [
       "jacomo"
     ],
     "A59432-e20690": [
-      "john"
+      "don-john"
     ],
     "A59432-e20720": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e20750": [
-      "john"
+      "don-john"
     ],
     "A59432-e20780": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e20810": [
-      "john"
+      "don-john"
     ],
     "A59432-e20840": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e20870": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e20900": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e21010": [
       "jacomo"
     ],
     "A59432-e21040": [
-      "john"
+      "don-john"
     ],
     "A59432-e21070": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e21100": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e21130": [
-      "john"
+      "don-john"
     ],
     "A59432-e21160": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e21190": [
-      "john"
+      "don-john"
     ],
     "A59432-e21220": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e21250": [
-      "john"
+      "don-john"
     ],
     "A59432-e21280": [
       "jacomo"
     ],
     "A59432-e21310": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e21340": [
       "jacomo"
     ],
     "A59432-e21370": [
-      "john"
+      "don-john"
     ],
     "A59432-e21400": [
       "jacomo"
     ],
     "A59432-e21430": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e21460": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e21490": [
-      "john"
+      "don-john"
     ],
     "A59432-e21520": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e21550": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e21630": [
       "master"
@@ -1858,43 +1813,43 @@
       "jacomo"
     ],
     "A59432-e21690": [
-      "john"
+      "don-john"
     ],
     "A59432-e21720": [
       "captain"
     ],
     "A59432-e21750": [
-      "john"
+      "don-john"
     ],
     "A59432-e21780": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e21810": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e21840": [
       "captain"
     ],
     "A59432-e21870": [
-      "john"
+      "don-john"
     ],
     "A59432-e21900": [
       "master"
     ],
     "A59432-e21930": [
-      "sailors"
+      "sailor"
     ],
     "A59432-e21960": [
       "jacomo"
     ],
     "A59432-e21990": [
-      "john"
+      "don-john"
     ],
     "A59432-e22020": [
       "jacomo"
     ],
     "A59432-e22050": [
-      "sailors"
+      "sailor"
     ],
     "A59432-e22080": [
       "captain"
@@ -1909,46 +1864,46 @@
       "captain"
     ],
     "A59432-e22220": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e22250": [
-      "john"
+      "don-john"
     ],
     "A59432-e22280": [
       "captain"
     ],
     "A59432-e22320": [
-      "john"
+      "don-john"
     ],
     "A59432-e22350": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e22380": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e22410": [
-      "john"
+      "don-john"
     ],
     "A59432-e22440": [
       "jacomo"
     ],
     "A59432-e22470": [
-      "john"
+      "don-john"
     ],
     "A59432-e22500": [
       "jacomo"
     ],
     "A59432-e22560": [
-      "john"
+      "don-john"
     ],
     "A59432-e22590": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e22620": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e22650": [
-      "john"
+      "don-john"
     ],
     "A59432-e22680": [
       "jacomo"
@@ -1963,184 +1918,184 @@
       "hermit"
     ],
     "A59432-e22840": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e22870": [
       "hermit"
     ],
     "A59432-e22900": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e22930": [
       "hermit"
     ],
     "A59432-e22980": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e23030": [
       "hermit"
     ],
     "A59432-e23090": [
-      "john"
+      "don-john"
     ],
     "A59432-e23120": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e23150": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e23180": [
-      "john"
+      "don-john"
     ],
     "A59432-e23210": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e23240": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e23270": [
-      "john"
+      "don-john"
     ],
     "A59432-e23300": [
       "hermit"
     ],
     "A59432-e23330": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e23360": [
       "hermit"
     ],
     "A59432-e23400": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e23430": [
       "hermit"
     ],
     "A59432-e23470": [
-      "john"
+      "don-john"
     ],
     "A59432-e23500": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e23540": [
       "hermit"
     ],
     "A59432-e23570": [
-      "john"
+      "don-john"
     ],
     "A59432-e23600": [
       "hermit"
     ],
     "A59432-e23630": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e23660": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e23690": [
-      "john"
+      "don-john"
     ],
     "A59432-e23720": [
       "hermit"
     ],
     "A59432-e23750": [
-      "john"
+      "don-john"
     ],
     "A59432-e23780": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e23810": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e23840": [
       "hermit"
     ],
     "A59432-e23870": [
-      "john"
+      "don-john"
     ],
     "A59432-e23900": [
       "hermit"
     ],
     "A59432-e23930": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e23960": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e23990": [
       "hermit"
     ],
     "A59432-e24020": [
-      "john"
+      "don-john"
     ],
     "A59432-e24130": [
       "hermit"
     ],
     "A59432-e24180": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e24240": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e24310": [
       "hermit"
     ],
     "A59432-e24340": [
-      "john"
+      "don-john"
     ],
     "A59432-e24440": [
       "hermit"
     ],
     "A59432-e24470": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e24500": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e24530": [
-      "john"
+      "don-john"
     ],
     "A59432-e24560": [
       "hermit"
     ],
     "A59432-e24600": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e24630": [
-      "john"
+      "don-john"
     ],
     "A59432-e24700": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e24730": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e24760": [
-      "john"
+      "don-john"
     ],
     "A59432-e24790": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e24820": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e24850": [
-      "john"
+      "don-john"
     ],
     "A59432-e24880": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e24920": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e24950": [
-      "john"
+      "don-john"
     ],
     "A59432-e25100": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e25140": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e25210": [
       "hermit"
@@ -2323,16 +2278,16 @@
       "clara"
     ],
     "A59432-e27450": [
-      "chorus-maids"
+      "chorus"
     ],
     "A59432-e27610": [
-      "chorus-maids"
+      "chorus"
     ],
     "A59432-e27740": [
-      "chorus-maids"
+      "chorus"
     ],
     "A59432-e27870": [
-      "chorus-maids"
+      "chorus"
     ],
     "A59432-e27930": [
       "flavia"
@@ -2356,55 +2311,55 @@
       "flavia"
     ],
     "A59432-e28200": [
-      "john"
+      "don-john"
     ],
     "A59432-e28240": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e28270": [
-      "john"
+      "don-john"
     ],
     "A59432-e28300": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e28350": [
-      "john"
+      "don-john"
     ],
     "A59432-e28400": [
       "jacomo"
     ],
     "A59432-e28430": [
-      "john"
+      "don-john"
     ],
     "A59432-e28460": [
       "jacomo"
     ],
     "A59432-e28490": [
-      "john"
+      "don-john"
     ],
     "A59432-e28520": [
       "jacomo"
     ],
     "A59432-e28550": [
-      "john"
+      "don-john"
     ],
     "A59432-e28580": [
       "jacomo"
     ],
     "A59432-e28610": [
-      "john"
+      "don-john"
     ],
     "A59432-e28640": [
       "jacomo"
     ],
     "A59432-e28670": [
-      "john"
+      "don-john"
     ],
     "A59432-e28700": [
       "jacomo"
     ],
     "A59432-e28730": [
-      "john"
+      "don-john"
     ],
     "A59432-e28760": [
       "jacomo"
@@ -2413,25 +2368,25 @@
       "clara"
     ],
     "A59432-e28870": [
-      "john"
+      "don-john"
     ],
     "A59432-e28900": [
       "clara"
     ],
     "A59432-e28930": [
-      "john"
+      "don-john"
     ],
     "A59432-e28960": [
       "clara"
     ],
     "A59432-e28990": [
-      "john"
+      "don-john"
     ],
     "A59432-e29020": [
       "jacomo"
     ],
     "A59432-e29060": [
-      "john"
+      "don-john"
     ],
     "A59432-e29090": [
       "clara"
@@ -2440,25 +2395,25 @@
       "jacomo"
     ],
     "A59432-e29150": [
-      "john"
+      "don-john"
     ],
     "A59432-e29180": [
       "jacomo"
     ],
     "A59432-e29210": [
-      "john"
+      "don-john"
     ],
     "A59432-e29240": [
       "clara"
     ],
     "A59432-e29270": [
-      "john"
+      "don-john"
     ],
     "A59432-e29300": [
       "jacomo"
     ],
     "A59432-e29330": [
-      "john"
+      "don-john"
     ],
     "A59432-e29360": [
       "jacomo"
@@ -2467,13 +2422,13 @@
       "clara"
     ],
     "A59432-e29420": [
-      "john"
+      "don-john"
     ],
     "A59432-e29450": [
       "clara"
     ],
     "A59432-e29480": [
-      "john"
+      "don-john"
     ],
     "A59432-e29510": [
       "jacomo"
@@ -2482,19 +2437,19 @@
       "clara"
     ],
     "A59432-e29600": [
-      "john"
+      "don-john"
     ],
     "A59432-e29630": [
       "clara"
     ],
     "A59432-e29660": [
-      "john"
+      "don-john"
     ],
     "A59432-e29690": [
       "clara"
     ],
     "A59432-e29720": [
-      "john"
+      "don-john"
     ],
     "A59432-e29760": [
       "clara"
@@ -2509,13 +2464,13 @@
       "jacomo"
     ],
     "A59432-e29880": [
-      "john"
+      "don-john"
     ],
     "A59432-e29910": [
       "clara"
     ],
     "A59432-e29940": [
-      "john"
+      "don-john"
     ],
     "A59432-e29970": [
       "jacomo"
@@ -2524,49 +2479,49 @@
       "clara"
     ],
     "A59432-e30030": [
-      "john"
+      "don-john"
     ],
     "A59432-e30100": [
       "jacomo"
     ],
     "A59432-e30150": [
-      "john"
+      "don-john"
     ],
     "A59432-e30180": [
       "jacomo"
     ],
     "A59432-e30210": [
-      "john"
+      "don-john"
     ],
     "A59432-e30240": [
       "flavia"
     ],
     "A59432-e30270": [
-      "john"
+      "don-john"
     ],
     "A59432-e30300": [
       "flavia"
     ],
     "A59432-e30330": [
-      "john"
+      "don-john"
     ],
     "A59432-e30360": [
       "flavia"
     ],
     "A59432-e30390": [
-      "john"
+      "don-john"
     ],
     "A59432-e30420": [
       "flavia"
     ],
     "A59432-e30450": [
-      "john"
+      "don-john"
     ],
     "A59432-e30480": [
       "flavia"
     ],
     "A59432-e30510": [
-      "john"
+      "don-john"
     ],
     "A59432-e30540": [
       "jacomo"
@@ -2575,25 +2530,25 @@
       "flavia"
     ],
     "A59432-e30600": [
-      "john"
+      "don-john"
     ],
     "A59432-e30640": [
       "flavia"
     ],
     "A59432-e30670": [
-      "john"
+      "don-john"
     ],
     "A59432-e30700": [
       "jacomo"
     ],
     "A59432-e30730": [
-      "john"
+      "don-john"
     ],
     "A59432-e30760": [
       "flavia"
     ],
     "A59432-e30810": [
-      "john"
+      "don-john"
     ],
     "A59432-e30840": [
       "jacomo"
@@ -2611,31 +2566,31 @@
       "maria"
     ],
     "A59432-e31100": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e31140": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31170": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e31200": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31230": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e31270": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31300": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e31330": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31360": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e31390": [
       "maria"
@@ -2644,22 +2599,22 @@
       "leonora"
     ],
     "A59432-e31450": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31480": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e31510": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31540": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e31570": [
       "maria"
     ],
     "A59432-e31600": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31630": [
       "maria"
@@ -2668,7 +2623,7 @@
       "leonora"
     ],
     "A59432-e31720": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31750": [
       "leonora"
@@ -2677,79 +2632,79 @@
       "country-fellow"
     ],
     "A59432-e31840": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e31880": [
       "leonora"
     ],
     "A59432-e31940": [
-      "john"
+      "don-john"
     ],
     "A59432-e31970": [
       "jacomo"
     ],
     "A59432-e32010": [
-      "john"
+      "don-john"
     ],
     "A59432-e32040": [
       "jacomo"
     ],
     "A59432-e32070": [
-      "john"
+      "don-john"
     ],
     "A59432-e32120": [
       "leonora"
     ],
     "A59432-e32150": [
-      "john"
+      "don-john"
     ],
     "A59432-e32180": [
       "leonora"
     ],
     "A59432-e32220": [
-      "john"
+      "don-john"
     ],
     "A59432-e32260": [
       "leonora"
     ],
     "A59432-e32290": [
-      "john"
+      "don-john"
     ],
     "A59432-e32320": [
       "leonora"
     ],
     "A59432-e32350": [
-      "john"
+      "don-john"
     ],
     "A59432-e32380": [
       "leonora"
     ],
     "A59432-e32410": [
-      "john"
+      "don-john"
     ],
     "A59432-e32440": [
       "leonora"
     ],
     "A59432-e32500": [
-      "john"
+      "don-john"
     ],
     "A59432-e32530": [
       "leonora"
     ],
     "A59432-e32560": [
-      "john"
+      "don-john"
     ],
     "A59432-e32590": [
       "jacomo"
     ],
     "A59432-e32620": [
-      "john"
+      "don-john"
     ],
     "A59432-e32650": [
       "leonora"
     ],
     "A59432-e32680": [
-      "john"
+      "don-john"
     ],
     "A59432-e32710": [
       "leonora"
@@ -2758,7 +2713,7 @@
       "jacomo"
     ],
     "A59432-e32770": [
-      "john"
+      "don-john"
     ],
     "A59432-e32800": [
       "leonora"
@@ -2767,169 +2722,169 @@
       "jacomo"
     ],
     "A59432-e32910": [
-      "john"
+      "don-john"
     ],
     "A59432-e33030": [
-      "john"
+      "don-john"
     ],
     "A59432-e33070": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e33120": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e33150": [
       "jacomo"
     ],
     "A59432-e33180": [
-      "john"
+      "don-john"
     ],
     "A59432-e33210": [
       "jacomo"
     ],
     "A59432-e33270": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e33300": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e33330": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e33360": [
       "jacomo"
     ],
     "A59432-e33390": [
-      "john"
+      "don-john"
     ],
     "A59432-e33420": [
       "jacomo"
     ],
     "A59432-e33460": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e33490": [
-      "bridegroom-i"
+      "bridegroom-1"
     ],
     "A59432-e33530": [
-      "bridegroom-ii"
+      "bridegroom-2"
     ],
     "A59432-e33570": [
-      "bridegroom-i"
+      "bridegroom-1"
     ],
     "A59432-e33610": [
-      "john"
+      "don-john"
     ],
     "A59432-e33640": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e33670": [
-      "john"
+      "don-john"
     ],
     "A59432-e33700": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e33730": [
-      "john"
+      "don-john"
     ],
     "A59432-e33780": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e33830": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e33860": [
-      "john"
+      "don-john"
     ],
     "A59432-e33890": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e33920": [
-      "john"
+      "don-john"
     ],
     "A59432-e33950": [
       "jacomo"
     ],
     "A59432-e33980": [
-      "john"
+      "don-john"
     ],
     "A59432-e34010": [
       "jacomo"
     ],
     "A59432-e34070": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34100": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e34140": [
-      "servant-2"
+      "servant"
     ],
     "A59432-e34170": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34220": [
       "maria"
     ],
     "A59432-e34250": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34280": [
       "maria"
     ],
     "A59432-e34310": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34340": [
       "jacomo"
     ],
     "A59432-e34370": [
-      "john"
+      "don-john"
     ],
     "A59432-e34400": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34430": [
       "maria"
     ],
     "A59432-e34460": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34490": [
       "jacomo"
     ],
     "A59432-e34520": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e34550": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e34580": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34610": [
-      "john"
+      "don-john"
     ],
     "A59432-e34640": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34670": [
       "maria"
     ],
     "A59432-e34700": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e34730": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e34760": [
       "maria"
     ],
     "A59432-e34810": [
-      "john"
+      "don-john"
     ],
     "A59432-e34840": [
-      "john"
+      "don-john"
     ],
     "A59432-e34870": [
       "jacomo"
@@ -2938,28 +2893,28 @@
       "maria"
     ],
     "A59432-e34950": [
-      "john"
+      "don-john"
     ],
     "A59432-e34980": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e35010": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e35040": [
-      "john"
+      "don-john"
     ],
     "A59432-e35070": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e35110": [
-      "bridegroom-i"
+      "bridegroom-1"
     ],
     "A59432-e35150": [
-      "john"
+      "don-john"
     ],
     "A59432-e35210": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e35250": [
       "maria"
@@ -2968,10 +2923,10 @@
       "jacomo"
     ],
     "A59432-e35310": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e35340": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e35370": [
       "jacomo"
@@ -2980,16 +2935,16 @@
       "maria"
     ],
     "A59432-e35470": [
-      "bridegroom-ii"
+      "bridegroom-2"
     ],
     "A59432-e35510": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e35540": [
       "jacomo"
     ],
     "A59432-e35570": [
-      "john"
+      "don-john"
     ],
     "A59432-e35600": [
       "jacomo"
@@ -2998,16 +2953,16 @@
       "maria"
     ],
     "A59432-e35690": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e35720": [
-      "john"
+      "don-john"
     ],
     "A59432-e35750": [
       "maria"
     ],
     "A59432-e35800": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e35830": [
       "jacomo"
@@ -3016,31 +2971,31 @@
       "clara"
     ],
     "A59432-e35900": [
-      "bridegroom-i"
+      "bridegroom-1"
     ],
     "A59432-e35940": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e35970": [
       "clara"
     ],
     "A59432-e36000": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e36030": [
-      "bridegroom-i"
+      "bridegroom-1"
     ],
     "A59432-e36070": [
-      "john"
+      "don-john"
     ],
     "A59432-e36100": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e36150": [
       "flavia"
     ],
     "A59432-e36190": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e36220": [
       "flavia"
@@ -3049,10 +3004,10 @@
       "clara"
     ],
     "A59432-e36280": [
-      "bridegroom-ii"
+      "bridegroom-2"
     ],
     "A59432-e36320": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e36350": [
       "maria"
@@ -3061,43 +3016,43 @@
       "jacomo"
     ],
     "A59432-e36410": [
-      "john"
+      "don-john"
     ],
     "A59432-e36440": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e36470": [
-      "john"
+      "don-john"
     ],
     "A59432-e36510": [
-      "francisco"
+      "don-francisco"
     ],
     "A59432-e36540": [
       "maria"
     ],
     "A59432-e36610": [
-      "john"
+      "don-john"
     ],
     "A59432-e36660": [
       "jacomo"
     ],
     "A59432-e36720": [
-      "john"
+      "don-john"
     ],
     "A59432-e36750": [
       "jacomo"
     ],
     "A59432-e36780": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e36810": [
-      "john"
+      "don-john"
     ],
     "A59432-e36840": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e36870": [
-      "john"
+      "don-john"
     ],
     "A59432-e36900": [
       "jacomo"
@@ -3121,727 +3076,731 @@
       "clara"
     ],
     "A59432-e37500": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e37580": [
-      "nymph-i"
+      "nymph-1"
     ],
     "A59432-e37680": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e37740": [
-      "nymph-ii"
+      "nymph-2"
     ],
     "A59432-e37820": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e37920": [
-      "nymph-i"
+      "nymph-1"
     ],
     "A59432-e38000": [
-      "nymph-ii"
+      "nymph-2"
     ],
     "A59432-e38080": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e38160": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e38240": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e38320": [
-      "nymph-i"
+      "nymph-1"
     ],
     "A59432-e38400": [
-      "nymph-ii"
+      "nymph-2"
     ],
     "A59432-e38470": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e38560": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e38780": [
-      "semichorus-1"
+      "shepherd-1"
     ],
     "A59432-e38810": [
-      "semichorus-2"
+      "shepherd-2"
     ],
     "A59432-e38840": [
-      "semichorus-3"
+      "shepherdess-1"
     ],
     "A59432-e38870": [
-      "chorus-of-shepherds-and-shepherdesses"
+      "shepherdess-1",
+      "shepherdess-2",
+      "shepherd-1",
+      "shepherd-2"
     ],
     "A59432-e38910": [
-      "semichorus-1"
+      "shepherd-1"
     ],
     "A59432-e38980": [
-      "chorus-of-shepherds-and-shepherdesses"
+      "chorus"
     ],
     "A59432-e39040": [
-      "semichorus-2"
+      "shepherd-2"
     ],
     "A59432-e39110": [
-      "chorus-of-shepherds-and-shepherdesses"
+      "chorus"
     ],
     "A59432-e39170": [
-      "semichorus-3"
+      "shepherdess-2"
     ],
     "A59432-e39260": [
-      "chorus-of-shepherds-and-shepherdesses"
+      "chorus"
     ],
     "A59432-e39310": [
-      "semichorus-3"
+      "shepherdess-2"
     ],
     "A59432-e39400": [
-      "chorus-of-shepherds-and-shepherdesses"
+      "chorus"
     ],
     "A59432-e39450": [
-      "chorus-of-shepherds-and-shepherdesses"
+      "chorus"
     ],
     "A59432-e39560": [
-      "john"
+      "don-john"
     ],
     "A59432-e39590": [
       "jacomo"
     ],
     "A59432-e39620": [
-      "john"
+      "don-john"
     ],
     "A59432-e39650": [
       "jacomo"
     ],
     "A59432-e39680": [
-      "john"
+      "don-john"
     ],
     "A59432-e39710": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e39740": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e39780": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e39810": [
-      "john"
+      "don-john"
     ],
     "A59432-e39860": [
       "jacomo"
     ],
     "A59432-e39890": [
-      "john"
+      "don-john"
     ],
     "A59432-e39920": [
       "jacomo"
     ],
     "A59432-e39950": [
-      "john"
+      "don-john"
     ],
     "A59432-e39980": [
       "jacomo"
     ],
     "A59432-e40010": [
-      "john"
+      "don-john"
     ],
     "A59432-e40040": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e40070": [
-      "john"
+      "don-john"
     ],
     "A59432-e40100": [
-      "shepherdess-i"
+      "shepherdess-1"
     ],
     "A59432-e40140": [
-      "shepherdess-i"
+      "shepherdess-2"
     ],
     "A59432-e40180": [
       "jacomo"
     ],
     "A59432-e40220": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e40250": [
-      "shepherdesses"
+      "shepherdess-1",
+      "shepherdess-2"
     ],
     "A59432-e40290": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e40360": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e40400": [
       "jacomo"
     ],
     "A59432-e40430": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e40470": [
       "jacomo"
     ],
     "A59432-e40500": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e40540": [
       "jacomo"
     ],
     "A59432-e40580": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e40620": [
       "jacomo"
     ],
     "A59432-e40650": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e40690": [
       "jacomo"
     ],
     "A59432-e40730": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e40770": [
       "jacomo"
     ],
     "A59432-e40800": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e40840": [
       "jacomo"
     ],
     "A59432-e40900": [
-      "john"
+      "don-john"
     ],
     "A59432-e40930": [
       "jacomo"
     ],
     "A59432-e40960": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e40990": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e41020": [
       "jacomo"
     ],
     "A59432-e41070": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e41140": [
-      "john"
+      "don-john"
     ],
     "A59432-e41170": [
       "jacomo"
     ],
     "A59432-e41220": [
-      "john"
+      "don-john"
     ],
     "A59432-e41250": [
       "jacomo"
     ],
     "A59432-e41320": [
-      "john"
+      "don-john"
     ],
     "A59432-e41360": [
       "jacomo"
     ],
     "A59432-e41390": [
-      "john"
+      "don-john"
     ],
     "A59432-e41420": [
       "jacomo"
     ],
     "A59432-e41450": [
-      "john"
+      "don-john"
     ],
     "A59432-e41480": [
       "jacomo"
     ],
     "A59432-e41560": [
-      "john"
+      "don-john"
     ],
     "A59432-e41590": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e41620": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e41650": [
       "jacomo"
     ],
     "A59432-e41680": [
-      "john"
+      "don-john"
     ],
     "A59432-e41730": [
       "jacomo"
     ],
     "A59432-e41760": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e41830": [
-      "john"
+      "don-john"
     ],
     "A59432-e41860": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e41890": [
       "jacomo"
     ],
     "A59432-e41940": [
-      "john"
+      "don-john"
     ],
     "A59432-e41970": [
       "jacomo"
     ],
     "A59432-e42000": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e42040": [
       "jacomo"
     ],
     "A59432-e42070": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e42100": [
       "jacomo"
     ],
     "A59432-e42130": [
-      "john"
+      "don-john"
     ],
     "A59432-e42160": [
       "jacomo"
     ],
     "A59432-e42190": [
-      "john"
+      "don-john"
     ],
     "A59432-e42220": [
       "jacomo"
     ],
     "A59432-e42250": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e42280": [
       "jacomo"
     ],
     "A59432-e42310": [
-      "john"
+      "don-john"
     ],
     "A59432-e42350": [
       "jacomo"
     ],
     "A59432-e42380": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e42410": [
       "jacomo"
     ],
     "A59432-e42450": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e42480": [
       "jacomo"
     ],
     "A59432-e42510": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e42540": [
       "jacomo"
     ],
     "A59432-e42590": [
-      "john"
+      "don-john"
     ],
     "A59432-e42620": [
       "jacomo"
     ],
     "A59432-e42710": [
-      "john"
+      "don-john"
     ],
     "A59432-e42740": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e42770": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e42800": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e42840": [
-      "john"
+      "don-john"
     ],
     "A59432-e42880": [
       "jacomo"
     ],
     "A59432-e42910": [
-      "jacomo"
+      "don-john"
     ],
     "A59432-e42950": [
       "jacomo"
     ],
     "A59432-e42980": [
-      "john"
+      "don-john"
     ],
     "A59432-e43010": [
       "jacomo"
     ],
     "A59432-e43060": [
-      "john"
+      "don-john"
     ],
     "A59432-e43100": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e43180": [
       "jacomo"
     ],
     "A59432-e43210": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e43240": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e43270": [
-      "john"
+      "don-john"
     ],
     "A59432-e43300": [
       "jacomo"
     ],
     "A59432-e43340": [
-      "john"
+      "don-john"
     ],
     "A59432-e43370": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e43410": [
       "jacomo"
     ],
     "A59432-e43440": [
-      "john"
+      "don-john"
     ],
     "A59432-e43470": [
       "jacomo"
     ],
     "A59432-e43500": [
-      "john"
+      "don-john"
     ],
     "A59432-e43530": [
       "jacomo"
     ],
     "A59432-e43560": [
-      "john"
+      "don-john"
     ],
     "A59432-e43600": [
       "jacomo"
     ],
     "A59432-e43640": [
-      "john"
+      "don-john"
     ],
     "A59432-e43670": [
       "jacomo"
     ],
     "A59432-e43700": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e43730": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e43760": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e43790": [
-      "john"
+      "don-john"
     ],
     "A59432-e43830": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e43900": [
-      "john"
+      "don-john"
     ],
     "A59432-e43980": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e44010": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e44040": [
       "jacomo"
     ],
     "A59432-e44070": [
-      "john"
+      "don-john"
     ],
     "A59432-e44100": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e44130": [
-      "john"
+      "don-john"
     ],
     "A59432-e44160": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e44190": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e44220": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e44250": [
-      "john"
+      "don-john"
     ],
     "A59432-e44280": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e44310": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e44340": [
-      "ghost"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e44370": [
-      "john"
+      "don-john"
     ],
     "A59432-e44400": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e44430": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e44460": [
       "jacomo"
     ],
     "A59432-e44490": [
-      "john"
+      "don-john"
     ],
     "A59432-e44520": [
       "jacomo"
     ],
     "A59432-e44550": [
-      "john"
+      "don-john"
     ],
     "A59432-e44700": [
       "jacomo"
     ],
     "A59432-e44760": [
-      "john"
+      "don-john"
     ],
     "A59432-e44790": [
       "jacomo"
     ],
     "A59432-e44820": [
-      "john"
+      "don-john"
     ],
     "A59432-e44850": [
       "jacomo"
     ],
     "A59432-e44890": [
-      "john"
+      "don-john"
     ],
     "A59432-e44920": [
       "jacomo"
     ],
     "A59432-e44980": [
-      "john"
+      "don-john"
     ],
     "A59432-e45010": [
       "jacomo"
     ],
     "A59432-e45040": [
-      "john"
+      "don-john"
     ],
     "A59432-e45070": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e45100": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e45150": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e45180": [
       "jacomo"
     ],
     "A59432-e45210": [
-      "john"
+      "don-john"
     ],
     "A59432-e45240": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e45270": [
-      "john"
+      "don-john"
     ],
     "A59432-e45300": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e45340": [
-      "john"
+      "don-john"
     ],
     "A59432-e45370": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e45400": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e45440": [
       "jacomo"
     ],
     "A59432-e45480": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e45510": [
-      "john"
+      "don-john"
     ],
     "A59432-e45540": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e45570": [
       "jacomo"
     ],
     "A59432-e45610": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e45640": [
       "jacomo"
     ],
     "A59432-e45690": [
-      "john"
+      "don-john"
     ],
     "A59432-e45720": [
       "jacomo"
     ],
     "A59432-e45760": [
-      "servant-3"
+      "servant"
     ],
     "A59432-e45790": [
-      "john"
+      "don-john"
     ],
     "A59432-e45820": [
       "jacomo"
     ],
     "A59432-e45850": [
-      "john"
+      "don-john"
     ],
     "A59432-e45880": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e45910": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e45950": [
       "jacomo"
     ],
     "A59432-e45980": [
-      "john"
+      "don-john"
     ],
     "A59432-e46010": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e46040": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e46070": [
       "jacomo"
     ],
     "A59432-e46110": [
-      "john"
+      "don-john"
     ],
     "A59432-e46140": [
       "jacomo"
     ],
     "A59432-e46170": [
-      "john"
+      "don-john"
     ],
     "A59432-e46200": [
       "jacomo"
     ],
     "A59432-e46230": [
-      "john"
+      "don-john"
     ],
     "A59432-e46280": [
       "jacomo"
     ],
     "A59432-e46320": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e46360": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e46400": [
       "jacomo"
     ],
     "A59432-e46440": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e46480": [
       "jacomo"
     ],
     "A59432-e46510": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e46550": [
       "jacomo"
     ],
     "A59432-e46580": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e46620": [
       "jacomo"
     ],
     "A59432-e46650": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e46690": [
       "jacomo"
     ],
     "A59432-e46720": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e46760": [
       "jacomo"
     ],
     "A59432-e46790": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e46840": [
       "jacomo"
     ],
     "A59432-e46890": [
-      "voices"
+      "offstage-voices"
     ],
     "A59432-e46930": [
       "jacomo"
     ],
     "A59432-e46990": [
-      "john"
+      "don-john"
     ],
     "A59432-e47020": [
-      "nun"
+      "nun-1"
     ],
     "A59432-e47060": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e47090": [
-      "nun"
+      "nun-1"
     ],
     "A59432-e47130": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e47160": [
-      "john"
+      "don-john"
     ],
     "A59432-e47190": [
-      "nun"
+      "nun-1"
     ],
     "A59432-e47230": [
-      "john"
+      "don-john"
     ],
     "A59432-e47260": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e47290": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e47320": [
-      "nun"
+      "nun-1"
     ],
     "A59432-e47400": [
       "flavia"
@@ -3850,7 +3809,7 @@
       "clara"
     ],
     "A59432-e47460": [
-      "john"
+      "don-john"
     ],
     "A59432-e47490": [
       "clara"
@@ -3859,46 +3818,46 @@
       "nuns"
     ],
     "A59432-e47550": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e47580": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e47610": [
-      "john"
+      "don-john"
     ],
     "A59432-e47640": [
-      "nun"
+      "nun-1"
     ],
     "A59432-e47680": [
-      "john"
+      "don-john"
     ],
     "A59432-e47710": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e47740": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e47800": [
       "jacomo"
     ],
     "A59432-e47850": [
-      "john"
+      "don-john"
     ],
     "A59432-e47880": [
       "jacomo"
     ],
     "A59432-e47910": [
-      "john"
+      "don-john"
     ],
     "A59432-e47950": [
       "nuns"
     ],
     "A59432-e47980": [
-      "sheperd-i"
+      "shepherd-1"
     ],
     "A59432-e48020": [
-      "sheperd-ii"
+      "shepherd-2"
     ],
     "A59432-e48060": [
       "jacomo"
@@ -3907,67 +3866,67 @@
       "officer"
     ],
     "A59432-e48140": [
-      "john"
+      "don-john"
     ],
     "A59432-e48170": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e48200": [
-      "john"
+      "don-john"
     ],
     "A59432-e48230": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e48270": [
       "jacomo"
     ],
     "A59432-e48310": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e48340": [
-      "john"
+      "don-john"
     ],
     "A59432-e48370": [
       "jacomo"
     ],
     "A59432-e48410": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e48440": [
       "jacomo"
     ],
     "A59432-e48480": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e48520": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e48550": [
-      "john"
+      "don-john"
     ],
     "A59432-e48580": [
       "jacomo"
     ],
     "A59432-e48610": [
-      "john"
+      "don-john"
     ],
     "A59432-e48640": [
       "jacomo"
     ],
     "A59432-e48670": [
-      "voices"
+      "offstage-voices"
     ],
     "A59432-e48700": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e48730": [
       "jacomo"
     ],
     "A59432-e48760": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e48790": [
-      "john"
+      "don-john"
     ],
     "A59432-e48820": [
       "jacomo"
@@ -3976,190 +3935,190 @@
       "jacomo"
     ],
     "A59432-e49020": [
-      "john"
+      "don-john"
     ],
     "A59432-e49050": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e49080": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e49110": [
-      "john"
+      "don-john"
     ],
     "A59432-e49140": [
       "jacomo"
     ],
     "A59432-e49170": [
-      "john"
+      "don-john"
     ],
     "A59432-e49200": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e49230": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e49270": [
-      "ghost"
+      "statue"
     ],
     "A59432-e49330": [
-      "john-s-father"
+      "ghost-of-don-john-s-father"
     ],
     "A59432-e49360": [
-      "john"
+      "don-john"
     ],
     "A59432-e49390": [
       "jacomo"
     ],
     "A59432-e49430": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e49480": [
-      "francisco"
+      "ghost-of-don-francisco"
     ],
     "A59432-e49510": [
-      "john"
+      "don-john"
     ],
     "A59432-e49550": [
-      "flora"
+      "ghost-of-flora"
     ],
     "A59432-e49580": [
-      "john"
+      "don-john"
     ],
     "A59432-e49610": [
-      "leonora"
+      "ghost-of-leonora"
     ],
     "A59432-e49640": [
-      "john"
+      "don-john"
     ],
     "A59432-e49680": [
       "maria"
     ],
     "A59432-e49730": [
-      "john"
+      "don-john"
     ],
     "A59432-e49770": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e49800": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e49830": [
-      "john"
+      "don-john"
     ],
     "A59432-e49860": [
-      "ghost"
+      "statue"
     ],
     "A59432-e49910": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e49940": [
-      "john"
+      "don-john"
     ],
     "A59432-e49970": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e50020": [
       "jacomo"
     ],
     "A59432-e50050": [
-      "john"
+      "don-john"
     ],
     "A59432-e50080": [
       "jacomo"
     ],
     "A59432-e50110": [
-      "john"
+      "don-john"
     ],
     "A59432-e50140": [
       "jacomo"
     ],
     "A59432-e50170": [
-      "john"
+      "don-john"
     ],
     "A59432-e50200": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e50230": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e50260": [
       "jacomo"
     ],
     "A59432-e50300": [
-      "john"
+      "don-john"
     ],
     "A59432-e50330": [
-      "ghost"
+      "statue"
     ],
     "A59432-e50360": [
-      "john"
+      "don-john"
     ],
     "A59432-e50390": [
-      "ghost"
+      "statue"
     ],
     "A59432-e50430": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e50460": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e50540": [
-      "devil-i"
+      "devil-1"
     ],
     "A59432-e50590": [
-      "devil-ii"
+      "devil-2"
     ],
     "A59432-e50670": [
       "chorus-of-devils"
     ],
     "A59432-e50730": [
-      "devil-iii"
+      "devil-3"
     ],
     "A59432-e50790": [
-      "devil-i"
+      "devil-1"
     ],
     "A59432-e50840": [
-      "devil-ii"
+      "devil-2"
     ],
     "A59432-e50890": [
-      "devil-iii"
+      "devil-3"
     ],
     "A59432-e50950": [
-      "chorus-of-devils"
+      "chorus"
     ],
     "A59432-e51010": [
-      "ghost"
+      "statue"
     ],
     "A59432-e51040": [
-      "john"
+      "don-john"
     ],
     "A59432-e51070": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e51100": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e51130": [
-      "lopez"
+      "don-lopez"
     ],
     "A59432-e51160": [
-      "antonio"
+      "don-antonio"
     ],
     "A59432-e51190": [
-      "ghost"
+      "statue"
     ],
     "A59432-e51280": [
-      "john"
+      "don-john"
     ],
     "A59432-e51310": [
       "jacomo"
     ],
     "A59432-e51350": [
-      "john"
+      "don-john"
     ],
     "A59432-e51490": [
-      "ghost"
+      "statue"
     ]
   }
 }

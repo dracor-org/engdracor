@@ -105,50 +105,41 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000441-simo">
-            <persName>Simo</persName>
-          </person>
-          <person xml:id="eng000441-sosia">
-            <persName>Sosia</persName>
-          </person>
-          <person xml:id="eng000441-davus">
-            <persName>Davus</persName>
-          </person>
-          <person xml:id="eng000441-mysis">
-            <persName>Mysis</persName>
-          </person>
-          <person xml:id="eng000441-pamphilus">
-            <persName>Pamphilus</persName>
-          </person>
-          <person xml:id="eng000441-carinus">
+          <person xml:id="eng000441-carinus" sex="MALE">
             <persName>Carinus</persName>
           </person>
-          <person xml:id="eng000441-byrria">
-            <persName>Byrria</persName>
-          </person>
-          <person xml:id="eng000441-pamphilu">
-            <persName>Pamphilu</persName>
-          </person>
-          <person xml:id="eng000441-lesbia">
-            <persName>Lesbia</persName>
-          </person>
-          <person xml:id="eng000441-glycerie">
-            <persName>Glycerie</persName>
-          </person>
-          <person xml:id="eng000441-chremes">
-            <persName>Chremes</persName>
-          </person>
-          <person xml:id="eng000441-charinus">
-            <persName>Charinus</persName>
-          </person>
-          <person xml:id="eng000441-crito">
-            <persName>Crito</persName>
-          </person>
-          <person xml:id="eng000441-dromo">
+          <person xml:id="eng000441-dromo" sex="MALE">
             <persName>Dromo</persName>
           </person>
-          <person xml:id="eng000441-missing">
-            <persName>Missing</persName>
+          <person xml:id="eng000441-crito" sex="MALE">
+            <persName>Crito</persName>
+          </person>
+          <person xml:id="eng000441-chremes" sex="MALE">
+            <persName>Chremes</persName>
+          </person>
+          <person xml:id="eng000441-glycerie" sex="FEMALE">
+            <persName>Glycerie</persName>
+          </person>
+          <person xml:id="eng000441-lesbia" sex="MALE">
+            <persName>Lesbia</persName>
+          </person>
+          <person xml:id="eng000441-byrria" sex="MALE">
+            <persName>Byrria</persName>
+          </person>
+          <person xml:id="eng000441-pamphilus" sex="MALE">
+            <persName>Pamphilus</persName>
+          </person>
+          <person xml:id="eng000441-mysis" sex="FEMALE">
+            <persName>Mysis</persName>
+          </person>
+          <person xml:id="eng000441-dauus" sex="MALE">
+            <persName>Dauus</persName>
+          </person>
+          <person xml:id="eng000441-sosia" sex="MALE">
+            <persName>Sosia</persName>
+          </person>
+          <person xml:id="eng000441-simo" sex="MALE">
+            <persName>Simo</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -391,7 +382,7 @@
               <item>Sosia, the seruant. </item>
             </list>
           </stage>
-          <sp who="#eng000441-simo" xml:id="eng000441-e101600">
+          <sp xml:id="eng000441-e101600">
             <p>SIrs, haue in these things: dispatch. Sosia stay thou héere. I wil speake a word or two with thée. </p>
           </sp>
           <sp who="#eng000441-sosia" xml:id="eng000441-e101620">
@@ -594,10 +585,10 @@
               <item>Dauus, the seruant. </item>
             </list>
           </stage>
-          <sp who="#eng000441-simo" xml:id="eng000441-e102620">
+          <sp xml:id="eng000441-e102620">
             <p>THere is no doubt of this, but that my Sonne will refuse to haue a wife: I noted such feare er while in Dauus, as soone as he hard that there was a marriage towards: but lo where he comes forth himselfe. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102640">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102640">
             <speaker>Dauus. </speaker>
             <p>I meruailed if this matter should passe away so, and still I feared whereto my Masters long gentlenes <pb xml:id="eng000441-016-a"/>would grow at length: who after he heard that shée whom hee thought of, should not bée geuen in marriage to his son, did, (notwithstanding) neuer speake woorde to any of vs, nor yet was any thing mooued at it. </p>
           </sp>
@@ -609,7 +600,7 @@
                 <stage xml:id="eng000441-e102690">Simo speaketh this out of the hearing of Dauus .</stage>
               </note>But now hee will, and that, as I wéene to thy cost. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102700">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102700">
             <speaker>Da. </speaker>
             <p>His purpose was to haue vs brought vnder hande into fooles paradise, to the end that now hoping the best, and hauing cast of all feare, wée should suddeinly bee taken napping, in such sorte, as wée might not haue time to bethinke vs how to preuent the marryage. A suttle foxe I warrant him. </p>
           </sp>
@@ -617,7 +608,7 @@
             <speaker>Si. </speaker>
             <p>What prates this Gallowelapper? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102740">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102740">
             <speaker>Da. </speaker>
             <p>Good Lord my maister is here, and I saw him not till now. </p>
           </sp>
@@ -625,7 +616,7 @@
             <speaker>Si. </speaker>
             <p>Dauus? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102780">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102780">
             <speaker>Da. </speaker>
             <p>Now, what is the matter? </p>
           </sp>
@@ -633,7 +624,7 @@
             <speaker>Si </speaker>
             <p>Come your way hether to mée. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102820">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102820">
             <speaker>Da. </speaker>
             <p>What a Deuill will hée haue? </p>
           </sp>
@@ -641,7 +632,7 @@
             <speaker>Si. </speaker>
             <p>What is that thou talkest of? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102860">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102860">
             <speaker>Da. </speaker>
             <p>Whereof should I talke? </p>
           </sp>
@@ -649,7 +640,7 @@
             <speaker>Si. </speaker>
             <p>Askest thow whereof? Sirra, the report is that my sonne is in loue. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102900">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102900">
             <speaker>Da. </speaker>
             <p>Yea no doubt the world cares much for that. </p>
           </sp>
@@ -657,7 +648,7 @@
             <speaker>Si. </speaker>
             <p>Nay, but dost thou minde what I speake to thee or not? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102940">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102940">
             <speaker>Da. </speaker>
             <p>Yes truly I mynde it well inough. </p>
           </sp>
@@ -666,7 +657,7 @@
             <p>Wel, for mée now to go serch and fift out that matter, were but the part of a harde father: for what he did heretofore, pertaynes nothing at all to mee: so long as he tooke time conuenient for it, I suffered him to fulfill his desire. Now it is high time for him to leade an other life, and chaunge his manners. And therefore I require, or if it be reason I desyre thée Dauos, that now at length he do returne into the right way. </p>
           </sp>
           <pb xml:id="eng000441-016-b"/>
-          <sp who="#eng000441-davus" xml:id="eng000441-e102980">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e102980">
             <speaker>Da. </speaker>
             <p>What meane you by this? </p>
           </sp>
@@ -674,7 +665,7 @@
             <speaker>Si. </speaker>
             <p>All men that bée in loue, can ill away to haue wiues appoynted them by others. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e103020">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e103020">
             <speaker>Da. </speaker>
             <p>So they say. </p>
           </sp>
@@ -682,7 +673,7 @@
             <speaker>Si. </speaker>
             <p>Then if one take a knaue for his scholmaister in that behalfe, The loue sicke mynde of the scholler is by him commonly applied to all naughtines. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e103060">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e103060">
             <speaker>Da. </speaker>
             <p>Truely I vnderstand you not. </p>
           </sp>
@@ -690,7 +681,7 @@
             <speaker>Si. </speaker>
             <p>No, dost thou not? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e103100">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e103100">
             <speaker>Da. </speaker>
             <p>No, I am plaine Dauus, and not Oedipus [the reader of Riddels.] </p>
           </sp>
@@ -698,7 +689,7 @@
             <speaker>Si. </speaker>
             <p>Wilt thou then that I speake the rest of my minde plainly. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e103140">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e103140">
             <speaker>Da. </speaker>
             <p>Yea a Gods name. </p>
           </sp>
@@ -706,7 +697,7 @@
             <speaker>Si. </speaker>
             <p>If I shall perceiue that thou go about to worke any deceyte this day, to the ende to breake of this marriage, or that thou wilt therein shew how slie and crafty a companion thou art: I will kudgill thee well and thriftely, and then cast thee into the grinding house to grinde till thou die: with this couenant and condicion, that if I take thée out thence, then I my selfe to grinde in thy place. What, hast thou vnderstoode me now? or dost thou not yet vnderstande this neither? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e103180">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e103180">
             <speaker>Da. </speaker>
             <p>Yes full well, you went now very plainly to the matter, and nothing about the bush. </p>
           </sp>
@@ -714,7 +705,7 @@
             <speaker>Si. </speaker>
             <p>I could rather beare any abuse at thy hands, than bée deluded in this matter. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e103220">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e103220">
             <speaker>Da. </speaker>
             <p>Yet good woordes I pray you sir. </p>
           </sp>
@@ -735,7 +726,7 @@
               <item>Dauus alone. </item>
             </list>
           </stage>
-          <sp who="#eng000441-davus" xml:id="eng000441-e103320">
+          <sp xml:id="eng000441-e103320">
             <p>IN good earnest Dauus it is no time now to be slow and sluggish, so far as I perceiued of late by the old mans speech touching the marriage: which if it bee not cunningly prouided for and preuented, will cast either me or my maister cleane vnder foote: And yet I wot not in the world what to doo: whether I shall helpe Pamphilus, or els listen after the old man. Yf I leaue him helples, I feare me yt will cost him his life: Contrariwise, if I ayd and further him, than stand I in feare of the old mans threatning, whom yt is a hard matter to beguyle: for first and formost, he knoweth certeynlie of this same loue, and beyng at deadly fewd with me, he watcheth least I go about some guile to hinder the marriage: yf hée shall sée any such matter by mée, I am vtterly vndon: or if the Toy take him in the head, hée will finde some cause or other, and so bée it right or wrong, he will tumble me headlong into the grinding hous: Now ouer and besides these mischeeues, this comes also in the very nicke: This same woman an of Andros whether she be wife to Pamphilus, or but his loue, I knowe not, but great with childe she is by him: And it is a world to heare their presumption: They fare as they were lunaticke, and not loue sicke, for be it boy or gyrle that she shal be deliuered of, they are determined to bring it <pb xml:id="eng000441-017-b"/>
               <ref corresp="A13611-e103340-b" target="A13611-e103340-b">* </ref>
               <note anchored="true" corresp="A13611-e103340-a" n="*" place="margin">* It was not Lawful in Athens to bring vp the children begotten out of wedlocke vpon strange women, but rather to doo them away. </note>vp. And now they faine betwixt themselues an od péece of craft, that this Glycerie is a free borne woman of Athens: Ther was a good while since (say they) a certaine old Marchant which suffred shipwracke at the Ile of Andros, who afterward died there: and that shée being then a small succourles childe cast on the shore, should (forsooth) bée fostred by Chrysis father: A trim fable. In good faith me thinks it soundes nothing like troth, and yet this fayned deuise pleaseth them well. But lo where Mysis comes furth from her. Now wil I go get me hence to the market place to méete with Pamphilus, least his father come vpon him vnawares with this mariage matter. </p>
@@ -752,7 +743,7 @@
               <item>Mysys, the mayde. </item>
             </list>
           </stage>
-          <sp who="#eng000441-mysis" xml:id="eng000441-e103410">
+          <sp xml:id="eng000441-e103410">
             <p>ARchillis, I heard you a prety while since, bid that Lesbia should be brought hither: In very truth she is a drunken harebraynd woman, and far vnfit to take charge of a woman in trauaile of her first child: yet neuerthelesse I will bring her: See how ernest the olde Trot is, to haue her here, and all because she is a drinking Gossip of hers. God graunt my Mistres safe and spéedy deliuerance, and that any other miscarry vnder the handes of the Tipsie <pb xml:id="eng000441-018-a"/>Midwiefe, rather than shée: But what is the matter that I sée Pamphilus so much out of quiet, I feare me all is not well: I will stay, and know whither this his trooble of minde, bring not some heauy newes. </p>
           </sp>
         </div>
@@ -768,7 +759,7 @@
               <item>Mysis the, Mayde. </item>
             </list>
           </stage>
-          <sp who="#eng000441-mysis" xml:id="eng000441-e103500">
+          <sp xml:id="eng000441-e103500">
             <p>IS this a point of good nature, or a kindely déede? Is this the part of a Father? </p>
           </sp>
           <sp who="#eng000441-mysis" xml:id="eng000441-e103520">
@@ -887,7 +878,7 @@
               <item>Pamphilus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-carinus" xml:id="eng000441-e104110">
+          <sp xml:id="eng000441-e104110">
             <p>BYrria, what sayest thou? shall shée bée married this day to Pamphilus? </p>
           </sp>
           <sp who="#eng000441-byrria" xml:id="eng000441-e104130">
@@ -1078,7 +1069,7 @@
               <item>Pamphilus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105070">
+          <sp xml:id="eng000441-e105070">
             <p>O Good God, what good newes doo I bring with me, But where shall I now finde Pamphilus, that I may release him from that feare he is in, and fill his hart with ioy. </p>
           </sp>
           <sp who="#eng000441-carinus" xml:id="eng000441-e105090">
@@ -1092,7 +1083,7 @@
             <speaker>Pamph. </speaker>
             <p>It is nothing to any purpos, he hath not yet vnderstood of this mischiefe. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105150">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105150">
             <speaker>Da: </speaker>
             <p>Whome I verily beléeue, if he haue yet hard of the marriage prepared for him. </p>
           </sp>
@@ -1103,7 +1094,7 @@
               <note anchored="true" corresp="A13611-e105190-a" n="*" place="margin">* <stage xml:id="eng000441-e105200">He speaketh still to Pamphilus .</stage>
               </note>Doo you not heare what he saith? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105210">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105210">
             <speaker>Da: </speaker>
             <p>That he is beside himselfe, séeking for me all the Towne ouer. But where shall I seke for him, or whither shall I now first go? </p>
           </sp>
@@ -1114,7 +1105,7 @@
               <note anchored="true" corresp="A13611-e105250-a" n="*" place="margin">* <stage xml:id="eng000441-e105260">And this also he speaketh to Pamphilus .</stage>
               </note>What, doo you linger to speake to him? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105270">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105270">
             <speaker>Da: </speaker>
             <p>Well, I go my waies. </p>
           </sp>
@@ -1122,7 +1113,7 @@
             <speaker>Pamph. </speaker>
             <p>Dauus, come hither, stay. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105310">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105310">
             <speaker>Da. </speaker>
             <p>Who calles me? O my Master Pamphilus, you are the man I looke for. Well met Carinus: I finde you both in good time, euen you two I would speaks with all. </p>
           </sp>
@@ -1130,7 +1121,7 @@
             <speaker>Pamph. </speaker>
             <p>Dauus, I am a forlorn man. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105350">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105350">
             <speaker>Da: </speaker>
             <p>But yet listen to me a little. </p>
           </sp>
@@ -1138,7 +1129,7 @@
             <speaker>Pamph. </speaker>
             <p>I am cast away. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105390">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105390">
             <speaker>Da: </speaker>
             <p>I wot what you feare. </p>
           </sp>
@@ -1146,7 +1137,7 @@
             <speaker>Car. </speaker>
             <p>Truely and my liefe is in hazard in very déede. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105430">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105430">
             <speaker>Da: </speaker>
             <p>I wot also what you feare. </p>
           </sp>
@@ -1154,7 +1145,7 @@
             <speaker>Pamph. </speaker>
             <p>I must be married. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105470">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105470">
             <speaker>Da: </speaker>
             <p>And that I know too. </p>
           </sp>
@@ -1163,7 +1154,7 @@
             <p>Yea but too day. </p>
           </sp>
           <pb xml:id="eng000441-022-a"/>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105510">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105510">
             <speaker>Da. </speaker>
             <p>You dull me with too many wordes, and yet I know the matter already. You feare least you must marry Philumena: And you (Carinus) take care how you may marry her. </p>
           </sp>
@@ -1175,7 +1166,7 @@
             <speaker>Pamph. </speaker>
             <p>That same is it. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105570">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105570">
             <speaker>Da. </speaker>
             <p>And in that, is there no daunger at all: I warrant you. </p>
           </sp>
@@ -1183,7 +1174,7 @@
             <speaker>Pamph. </speaker>
             <p>I pray thée for Gods sake, ryd me presently out of this feare, poore wretch that I am. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105610">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105610">
             <speaker>Da: </speaker>
             <p>Lo, I put you out of feare, Chremes will not at this time giue you his daughter to wife. </p>
           </sp>
@@ -1191,7 +1182,7 @@
             <speaker>Pamph. </speaker>
             <p>How knowest thou somuch? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105650">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105650">
             <speaker>Da: </speaker>
             <p>I know it full well: your father met me erewhile and told me that he would marry you this day to a wiefe, besides many things else, which now is no time to rehers. By and by I hasted me and ran euery foote to the market place, to tel you of this: and when I could not finde you there, I got me vp, on a high standing, and looked round about me, you were no where to be séene. By chaunce I spied Byrria this mans seruant, I aske him for you, he sayd he sawe you not. This troubled me: Then I bethink me what to doo: and as I was returning thence, I fell to mistrust whether there were any marriage towards or no, I remembred there was verie small prouision of meate: he himselfe was very sad: The marriage was to be made on the soddeyn, This did not hang well together. </p>
           </sp>
@@ -1199,7 +1190,7 @@
             <speaker>Pamph. </speaker>
             <p>What of all this? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105690">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105690">
             <speaker>Da: </speaker>
             <p>I presently got me to Chremes house, and being come thither, there was no body sturring about the doore, I was glad of that. </p>
           </sp>
@@ -1211,7 +1202,7 @@
             <speaker>Pamph. </speaker>
             <p>Tell on. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105750">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105750">
             <speaker>Da: </speaker>
             <p>I stay there a while, and could sée no body either <pb xml:id="eng000441-022-b"/>going in, or comming out, I went my waies in, and looked narrowly, there was neuer an elderly woman, no tryming vp of the house, no stur or preparacion. </p>
           </sp>
@@ -1219,7 +1210,7 @@
             <speaker>Pamph. </speaker>
             <p>I graunt you, it is great likelihood. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105790">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105790">
             <speaker>Da: </speaker>
             <p>Nay but doo these thinges séeme to agrée with a marriage matter? </p>
           </sp>
@@ -1227,7 +1218,7 @@
             <speaker>Pamph. </speaker>
             <p>No Dauus, as I ghesse. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105830">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105830">
             <speaker>Da: </speaker>
             <p>Ghesse say you? you take your marke amis: The matter is out of al doubt: Moreouer, as I was comming thence, I met with Chremes boy, carrying potherbs and a halpwoorth of small fish for the old mans supper. </p>
           </sp>
@@ -1235,7 +1226,7 @@
             <speaker>Car. </speaker>
             <p>Dauus, I am ryd out of danger this day by thy meanes. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105870">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105870">
             <speaker>Da: </speaker>
             <p>Truely but you are neuer the néerer. </p>
           </sp>
@@ -1243,7 +1234,7 @@
             <speaker>Car: </speaker>
             <p>How can that be? for surely Chremes will not giue his daughter in marriage to him. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e105910">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e105910">
             <speaker>Da: </speaker>
             <p>O wise woodcok, as though it must néedes folow, if he giue not his Daughter to him, that therefore you shall marry her: vnles you sée better vnto it, and vnlesse you make sute to the olde mans fréends, you do but throw your cap in the winde. </p>
           </sp>
@@ -1265,10 +1256,10 @@
               <item>Dauus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-pamphilus" xml:id="eng000441-e106020">
+          <sp xml:id="eng000441-e106020">
             <p>WHat meanes my father then? why doth he dissemble with vs? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106040">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106040">
             <speaker>Da: </speaker>
             <p>Mary I shal tel you, if so be it he be now in a chafe bycause Chremes will not marry his daughter vnto you: Then lo, may he thinke with himselfe that he doth you wrong: But yet he will thinke it no wrong at all, before such time as he shall perceyue how your minde is setled towards marriage. But if you shall refuse to marry, then will he lay all the fault vpon you, and then will be old sturre and hurleburly. </p>
           </sp>
@@ -1276,7 +1267,7 @@
             <speaker>Pamph. </speaker>
             <p>What wouldst thou haue me to doo? that I should yéeld to marry? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106080">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106080">
             <speaker>Da: </speaker>
             <p>O master consider, he is your father, it is hard to withstand him: Moreouer this Glycerie is a loue woman, he will quickly picke a quarell against her, and so turn her packing out of town: </p>
           </sp>
@@ -1284,7 +1275,7 @@
             <speaker>Pamph. </speaker>
             <p>May he turn her away? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106120">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106120">
             <speaker>Da. </speaker>
             <p>Yes, out of hand. </p>
           </sp>
@@ -1292,7 +1283,7 @@
             <speaker>Pamph. </speaker>
             <p>Then I pray thée Dauus what shall I doo? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106160">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106160">
             <speaker>Da. </speaker>
             <p>Say to your father that you will marry. </p>
           </sp>
@@ -1300,7 +1291,7 @@
             <speaker>Pamph. </speaker>
             <p>Alas. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106200">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106200">
             <speaker>Da. </speaker>
             <p>Why, what is the matter? </p>
           </sp>
@@ -1308,7 +1299,7 @@
             <speaker>Pamph. </speaker>
             <p>Should I say so? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106240">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106240">
             <speaker>Da. </speaker>
             <p>Why not? </p>
           </sp>
@@ -1317,7 +1308,7 @@
             <speaker>Pamph. </speaker>
             <p>I will neuer doe it. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106280">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106280">
             <speaker>Da: </speaker>
             <p>Neuer deny it. </p>
           </sp>
@@ -1325,7 +1316,7 @@
             <speaker>Pamph. </speaker>
             <p>Neuer doo thou perswade me to it. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106320">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106320">
             <speaker>Da: </speaker>
             <p>Do but consider what will follow of this. </p>
           </sp>
@@ -1333,7 +1324,7 @@
             <speaker>Pamph. </speaker>
             <p>This will follow, that I shall be shut from Glycerie, and tyed vp to this woman. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106360">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106360">
             <speaker>Da: </speaker>
             <p>Not so: Mary I wene your father will say thus much to you: I will haue you to marry a wyfe to day. You shall say, I will: And then I pray you what cause shall he haue to chide you? By this meanes you shall make all his deuises which now are of force, to be then altogether friuolous: and that without any danger to your selfe: for this is without all question, that Chremes will not marry his daughter vnto you: And for more surety, you shall not cease to vse Glyceries company still as you haue done, least haply he should alter his minde. Tell your father that you are willing to marry, so as when he would be angrie with you, he may haue no cause: for as for that vaine hope of yours (imagining thus with your selfe: Tush, it is no danger for me to withstand my father, No man will marry his daughter vnto a man of my manners) I shall easilie put you out of that hope: he will finde out a poore and meane marriage for you, rather than he will suffer you to be spilt by harlots. But if he shall perceiue that you are well content with this marriage, you shall make him reckles of the matter, he will seeke an other wife for you at leysure, and in the meane space some good fortune will fall. </p>
           </sp>
@@ -1341,7 +1332,7 @@
             <speaker>Pamph. </speaker>
             <p>Dost thou think so? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106400">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106400">
             <speaker>Da: </speaker>
             <p>Nay surely there is no doubt of that. </p>
           </sp>
@@ -1349,7 +1340,7 @@
             <speaker>Pamph. </speaker>
             <p>Yea, but take héede whereto thou perswadest me. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106440">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106440">
             <speaker>Da: </speaker>
             <p>What, are you not yet resolued? </p>
           </sp>
@@ -1357,7 +1348,7 @@
             <speaker>Pamph. </speaker>
             <p>Well, I will say so to my father: but we must take héede, that he vnderstand not of the childe I haue <pb xml:id="eng000441-024-a"/>by Glycerie, for I haue promised to bring it vp. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106480">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106480">
             <speaker>Da. </speaker>
             <p>O notable hold déede. </p>
           </sp>
@@ -1365,7 +1356,7 @@
             <speaker>Pamph. </speaker>
             <p>Shée earnestly besought mée to geue her my fayth and troth on this, that so shée might bée sure I would not forsake her. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106520">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106520">
             <speaker>Da. </speaker>
             <p>Well, it shall bée cared for. But your father is here hard by, beware that hée do not finde you sad. </p>
           </sp>
@@ -1383,10 +1374,10 @@
               <item>Pamphilus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-pamphilu" xml:id="eng000441-e106620">
+          <sp xml:id="eng000441-e106620">
             <p>I Come againe to sée what they are a dooing or consulting. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106640">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106640">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e106660-b" target="A13611-e106660-b">* </ref>
@@ -1397,7 +1388,7 @@
             <speaker>Pamph. </speaker>
             <p>I will doo as well as I may. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106700">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106700">
             <speaker>Da. </speaker>
             <p>Maister, credite mée in this: I say vnto you that your father will not geue you one euill woord to day, if you doo but say that you will marry. </p>
           </sp>
@@ -1417,7 +1408,7 @@
               <item>Pamphilus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106810">
+          <sp xml:id="eng000441-e106810">
             <p>MY maister gaue mée commaundement, that setting all busines aside, I should watch Pamphilus this day, to thend I might learne what hée did as touching the marriage: and that is the matter I am now come after him hither: but lo where he is with Dauus, here hard at hand. I will do that, that I come for. </p>
           </sp>
           <sp who="#eng000441-simo" xml:id="eng000441-e106830">
@@ -1427,7 +1418,7 @@
               <note anchored="true" corresp="A13611-e106850-a" n="*" place="margin">* <stage xml:id="eng000441-e106860">Simo saith this to himself, hauing Dauus and Pamphilus in sight .</stage>
               </note>I sée them both present before my face. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106870">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106870">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e106890-b" target="A13611-e106890-b">˘ </ref>
@@ -1438,7 +1429,7 @@
             <speaker>Si. </speaker>
             <p>Pamphilus. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106930">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106930">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e106950-b" target="A13611-e106950-b">ʒ. </ref>
@@ -1448,7 +1439,7 @@
             <speaker>Pamph. </speaker>
             <p>Oh father. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e106990">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e106990">
             <speaker>Da. </speaker>
             <p>Well handled of you. </p>
           </sp>
@@ -1474,7 +1465,7 @@
               <note anchored="true" corresp="A13611-e107110-a" n="℈" place="margin">℈ <stage xml:id="eng000441-e107120">All the speech of Byrria in this Scene, is either to himselfe, or to the Audiens: and not to any of the speakers .</stage>
               </note>Out alas. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107130">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107130">
             <speaker>Da. </speaker>
             <p>He hath neuer a word more to say. </p>
           </sp>
@@ -1487,7 +1478,7 @@
             <p>Thou dost as becommeth thée, in that I obteine with thy good wil, the thing which I require at thy hands. </p>
           </sp>
           <pb xml:id="eng000441-025-a"/>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107190">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107190">
             <speaker>Da: </speaker>
             <p>did not I say true? </p>
           </sp>
@@ -1521,7 +1512,7 @@
               <item>Simo. </item>
             </list>
           </stage>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107370">
+          <sp xml:id="eng000441-e107370">
             <p>
               <ref corresp="A13611-e107390-b" target="A13611-e107390-b"/>
               <note anchored="true" corresp="A13611-e107390-a" place="margin">
@@ -1532,7 +1523,7 @@
             <speaker>Si. </speaker>
             <p>What saith Dauus? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107430">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107430">
             <speaker>Da: </speaker>
             <p>Truly euen as much now as before. </p>
           </sp>
@@ -1540,7 +1531,7 @@
             <speaker>Si. </speaker>
             <p>What, is it nothing thou saiest? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107470">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107470">
             <speaker>Da: </speaker>
             <p>Nothing at all. </p>
           </sp>
@@ -1549,7 +1540,7 @@
             <speaker>Si. </speaker>
             <p>But I had hoped to heare somewhat. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107510">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107510">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e107530-b" target="A13611-e107530-b"/>
@@ -1561,7 +1552,7 @@
             <speaker>Si. </speaker>
             <p>Canst thou tell mée truth? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107570">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107570">
             <speaker>Da. </speaker>
             <p>Why, nothing readier. </p>
           </sp>
@@ -1569,7 +1560,7 @@
             <speaker>Si. </speaker>
             <p>Is my sonne any thing gréeued at this marriage, in respect of the loue and familiarity betwixt him and this strange harlatry? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107610">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107610">
             <speaker>Da. </speaker>
             <p>No certeinly, or if he be, his gréefe is but for two or three dayes (perceiue you mée?) and than it is don: for hée will take a right course with himselfe, as touching that matter. </p>
           </sp>
@@ -1577,7 +1568,7 @@
             <speaker>Si. </speaker>
             <p>I commend him for it. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107650">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107650">
             <speaker>Da. </speaker>
             <p>While he might, &amp; while it stood with his youthfull yéeres, he gaue himselfe to loue: nor then neither, but secretly: for he tooke héede that it should not at any tyme bring him to ill name, euen as became a manly man to do. Now it is méete for him to haue a wife, hée hath setled his minde on marriage. </p>
           </sp>
@@ -1585,7 +1576,7 @@
             <speaker>Si. </speaker>
             <p>Mée thought that he was somewhat sad. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107690">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107690">
             <speaker>Da. </speaker>
             <p>Not a whit for this matter, but there is some cause why he is not wel pleased with you. </p>
           </sp>
@@ -1593,7 +1584,7 @@
             <speaker>Si. </speaker>
             <p>What is that? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107730">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107730">
             <speaker>Da. </speaker>
             <p>A trifling matter. </p>
           </sp>
@@ -1601,7 +1592,7 @@
             <speaker>Si. </speaker>
             <p>What is it, I say? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107770">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107770">
             <speaker>Da. </speaker>
             <p>Nothing in effect. </p>
           </sp>
@@ -1609,7 +1600,7 @@
             <speaker>Si. </speaker>
             <p>But yet tell me what it is? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107810">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107810">
             <speaker>Da. </speaker>
             <p>He saith that there is too much niggardnes vsed in this matter. </p>
           </sp>
@@ -1617,7 +1608,7 @@
             <speaker>Si. </speaker>
             <p>What, by mée? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107850">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107850">
             <speaker>Da. </speaker>
             <p>Yea by you. Hée scarcely (quoth hée) bestowed forty pence in cates, and doth hée séeme to marry his sonne to a wife: what man of calling (of my fréendes and equalles) shall I bid to my wedding feast, as the case now stands? And you likewise, here be it spoken, are too much sparing indéede, which I do not commend in you. </p>
           </sp>
@@ -1626,7 +1617,7 @@
             <speaker>Si. </speaker>
             <p>Sirra hold you your peace. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e107890">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e107890">
             <speaker>Da. </speaker>
             <p>I haue mooued his patience. </p>
           </sp>
@@ -1652,7 +1643,7 @@
               <item>Glycerie, lying in childbed. </item>
             </list>
           </stage>
-          <sp who="#eng000441-mysis" xml:id="eng000441-e108040">
+          <sp xml:id="eng000441-e108040">
             <p>
               <ref corresp="A13611-e108060-b" target="A13611-e108060-b"/>
               <note anchored="true" corresp="A13611-e108060-a" place="margin">
@@ -1663,7 +1654,7 @@
             <speaker>Si. </speaker>
             <p>This mayde belongs to her of Andros, how saiest thou? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108100">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108100">
             <speaker>Da. </speaker>
             <p>Shée doth so. </p>
           </sp>
@@ -1686,7 +1677,7 @@
             <speaker>Si. </speaker>
             <p>What? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108220">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108220">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e108240-b" target="A13611-e108240-b">ʒ. </ref>
@@ -1717,7 +1708,7 @@
             <speaker>Lesb. </speaker>
             <p>I come after you. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108380">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108380">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e108400-b" target="A13611-e108400-b">℈ </ref>
@@ -1728,7 +1719,7 @@
             <speaker>Si. </speaker>
             <p>What meanes this? doth he dote so much on this strange harlat indéede? Now I perceiue how this geare cottens: I scarse found it out now at last, foolish man that I am. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108440">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108440">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e108460-b" target="A13611-e108460-b">˘ </ref>
@@ -1750,7 +1741,7 @@
             <speaker>Si. </speaker>
             <p>Whup hoyda: what in all the hast? sée a foolish deuise: as soone as she heard me at the dore, shée straight falles in labour: Dauus, this was not halfe cunningly contriued of thée, ech thing in his due time. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108560">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108560">
             <speaker>Da. </speaker>
             <p>What, by mée? </p>
           </sp>
@@ -1758,7 +1749,7 @@
             <speaker>Si. </speaker>
             <p>Why make you it so strange, haue you forgot your scholler? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108600">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108600">
             <speaker>Da. </speaker>
             <p>I wot not what you say. </p>
           </sp>
@@ -1781,14 +1772,14 @@
               <item>Dauus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-lesbia" xml:id="eng000441-e108720">
+          <sp xml:id="eng000441-e108720">
             <p>HItherto Archillis I sée all good signes of health in her, that are vsuall &amp; ought to bée in a woman in her case: Now first and formost, cause you those things to be washed, and then geue her that drink, and the same quantity that I appointed for her. I will come backe againe hither by and by. Before god there is a iolly bouncing boy borne vnto Pamphilus: Now I pray God send him long to liue, bycause he hath so honest a man to his father, who had care &amp; conscience not to deale amis with this kinde harted young woman. </p>
           </sp>
           <sp who="#eng000441-simo" xml:id="eng000441-e108740">
             <speaker>Si. </speaker>
             <p>And who that knew thée, would not iudge this also to be a craft of thy budget. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108760">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108760">
             <speaker>Da. </speaker>
             <p>And what is that, I pray you? </p>
           </sp>
@@ -1800,7 +1791,7 @@
                 <stage xml:id="eng000441-e108810">So as Simo thinks that Glycerie is not brought a bed, but that al this is fained to bleare his eyes with all .</stage>
               </note>Shée did not will them while she was in the house, to doo what was néedefull for the woman that lyes in, but after shee was come furth, she kept a pratling out of the stréet, vnto them which were within doores. Why Dauus, am I so little set by of thée? Or I pray thée, doo I séeme so fit a man, for thée to séeke to beguile, with such manifest fraud and falshood? At least wise thou dost <pb xml:id="eng000441-027-b"/>thy diligence, so as I may wel séeme to bée put in feare by thée: Surely if I had knowen it before. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108820">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108820">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e108840-b" target="A13611-e108840-b">* </ref>
@@ -1811,7 +1802,7 @@
             <speaker>Si. </speaker>
             <p>Why, did I not geue thée straight charge to the contrary? did I not threaten thée with punishment, that thou shouldst not doo it? did it feare thée a whit? what hath it booted? Shall I now geue thée credite in this: that shée there, is brought a bed of childe by Pamphilus? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108880">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108880">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e108900-b" target="A13611-e108900-b">* </ref>
@@ -1822,7 +1813,7 @@
             <speaker>Si </speaker>
             <p>Dost thou not answeare mée? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108940">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108940">
             <speaker>Da. </speaker>
             <p>What should you geue mée credite? as though it was not told you before, that these things would come so to passe. </p>
           </sp>
@@ -1830,7 +1821,7 @@
             <speaker>Si. </speaker>
             <p>Did any body tell mée so? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e108980">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e108980">
             <speaker>Da. </speaker>
             <p>Why than, did you of your selfe, finde that this is a fained matter? </p>
           </sp>
@@ -1838,7 +1829,7 @@
             <speaker>Si. </speaker>
             <p>Hée laughes mée to scorn. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109020">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109020">
             <speaker>Da. </speaker>
             <p>No doubt it was told you before, for how els should it come vpon you to suspect it? </p>
           </sp>
@@ -1846,7 +1837,7 @@
             <speaker>Si. </speaker>
             <p>How? marry bycause I knew thée. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109060">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109060">
             <speaker>Da. </speaker>
             <p>As who should say, it was done by my deuise. </p>
           </sp>
@@ -1854,7 +1845,7 @@
             <speaker>Si. </speaker>
             <p>Yea I am well assured of that. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109100">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109100">
             <speaker>Da. </speaker>
             <p>Well sir, you doo not yet throughly know what manner of man I am. </p>
           </sp>
@@ -1862,7 +1853,7 @@
             <speaker>Si. </speaker>
             <p>Doo not I know thée knaue? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109140">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109140">
             <speaker>Da. </speaker>
             <p>But when I begin to tell you any thing, you straight way thinke that I go about to beguyle you. </p>
           </sp>
@@ -1870,7 +1861,7 @@
             <speaker>Si. </speaker>
             <p>That is a lye. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109180">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109180">
             <speaker>Da. </speaker>
             <p>So as in good faith, now a daies, I dare not scarce open my lips to you. </p>
           </sp>
@@ -1878,7 +1869,7 @@
             <speaker>Si. </speaker>
             <p>This one thing I am sure of, that here is no woman deliuered of childe. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109220">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109220">
             <speaker>Da. </speaker>
             <p>Haue you vnderstoode so? But neuerthelesse ere it <pb xml:id="eng000441-028-a"/>be long, the childe shall be brought here and laid before the doore: Maister, I tel you of it now before hand, that you may certainly know what will follow: least hereafter you should say, that this was don by the counsaile or craft of Dauus: And I would in any wise, that this euil opinion which you haue of mée, were cleane out of your minde. </p>
           </sp>
@@ -1886,7 +1877,7 @@
             <speaker>Si. </speaker>
             <p>How camest thou to know this? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109260">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109260">
             <speaker>Da. </speaker>
             <p>I heard it, and I beléeue it be true. </p>
           </sp>
@@ -1894,7 +1885,7 @@
             <speaker>Si. </speaker>
             <p>There be many things mo than one, which cause me to coniecture as I doo: Euen now, is the first tyme that this queane declared her selfe to be with childe by Pamphilus, which is but a false deuise. Moreouer, now that she sées preparation at home for the wedding, the maid forsooth, in all hast is sent for the midwife to come to her, and withall to bring also a childe with her. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109300">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109300">
             <speaker>Da. </speaker>
             <p>Well, without that it come so to passe that you do sée the childe with your owne eies, nothing will hinder the course of this marriage. </p>
           </sp>
@@ -1902,7 +1893,7 @@
             <speaker>Si. </speaker>
             <p>What sayest thou? when thou once vnderstoodest that they purposed such a matter, why didst thou not than presently tell it vnto Pamphilus? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e109340">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e109340">
             <speaker>Da. </speaker>
             <p>Why than, who els hath withdrawen him from these harlots but my selfe? for certeynly we all know how excéedingly he loued this woman. Now he is desirous to haue a wife, and as for that matter, let mée alone withall: yet neuerthelesse go you on forward still with this marriage as you doo: and I hope God will prosper it. </p>
           </sp>
@@ -1925,7 +1916,7 @@
               <item>Simo, </item>
               <item>and Chremes ,</item>
             </list>the old men. </stage>
-          <sp who="#eng000441-simo" xml:id="eng000441-e109470">
+          <sp xml:id="eng000441-e109470">
             <p>GOD saue you neighbour Chremes. </p>
           </sp>
           <sp who="#eng000441-chremes" xml:id="eng000441-e109490">
@@ -1936,7 +1927,7 @@
             <speaker>Si. </speaker>
             <p>And I you. </p>
           </sp>
-          <sp who="#eng000441-charinus" xml:id="eng000441-e109530">
+          <sp who="#eng000441-chremes" xml:id="eng000441-e109530">
             <speaker>Ch. </speaker>
             <p>You com as wel as I could wish: There haue some bin with me, which told me they heard you say that my daughter should this day be marryed to your sonne: Now the matter I come for, is to sée, whether you, or they, do dote. </p>
           </sp>
@@ -1944,7 +1935,7 @@
             <speaker>Si. </speaker>
             <p>Heare me a word, or twoo, and you shall soone know both what I desire of you, and also what you require of me. </p>
           </sp>
-          <sp who="#eng000441-charinus" xml:id="eng000441-e109570">
+          <sp who="#eng000441-chremes" xml:id="eng000441-e109570">
             <speaker>Ch. </speaker>
             <p>I heare you, go too, speake your minde. </p>
           </sp>
@@ -2048,14 +2039,14 @@
               <item>Chremes. </item>
             </list>
           </stage>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110090">
+          <sp xml:id="eng000441-e110090">
             <p>I was comming to you. </p>
           </sp>
           <sp who="#eng000441-simo" xml:id="eng000441-e110110">
             <speaker>Si. </speaker>
             <p>well, what is the matter? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110130">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110130">
             <speaker>Da. </speaker>
             <p>Why is not the bryde sent for? it waxeth now very late. </p>
           </sp>
@@ -2066,7 +2057,7 @@
               <note anchored="true" corresp="A13611-e110170-a" n="*" place="margin">* <stage xml:id="eng000441-e110180">Simo saith this softly to Chremes .</stage>
               </note>Doo you not héere him. Well Dauus, I stood somewhat in feare of thée erewhile, least thou (as the common sort of seruants are wont) shouldst by craft and knauery haue deceyued me, in respect that my sonne is in loue. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110190">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110190">
             <speaker>Da. </speaker>
             <p>Alas sir, should I haue don such a déede? </p>
           </sp>
@@ -2074,7 +2065,7 @@
             <speaker>Si. </speaker>
             <p>I was of that beléefe, and therefore fearing such a matter, I kept secret from my sonne and thée, that which now I will tell thée. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110230">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110230">
             <speaker>Da. </speaker>
             <p>What is it? </p>
           </sp>
@@ -2082,7 +2073,7 @@
             <speaker>Si. </speaker>
             <p>Thou shalt know, for now in a manner, I begin to haue some trust in thée. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110270">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110270">
             <speaker>Da. </speaker>
             <p>At last then, you know what manner of man I am. </p>
           </sp>
@@ -2090,7 +2081,7 @@
             <speaker>Si. </speaker>
             <p>This marriage, was not meant to haue bin made indéede. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110310">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110310">
             <speaker>Da. </speaker>
             <p>What, was it not? </p>
           </sp>
@@ -2098,7 +2089,7 @@
             <speaker>Si. </speaker>
             <p>No, but I fayned it of purpose, that I might thoroughlie trye you. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110350">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110350">
             <speaker>Da. </speaker>
             <p>What, is it true sir? </p>
           </sp>
@@ -2107,7 +2098,7 @@
             <p>It is euen so as I tell thée. </p>
           </sp>
           <pb xml:id="eng000441-030-b"/>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110390">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110390">
             <speaker>Da. </speaker>
             <p>Sée, I could neuer perceyue so muche. O notable pollicie. </p>
           </sp>
@@ -2115,7 +2106,7 @@
             <speaker>Si. </speaker>
             <p>Nay but listen to me, as soone as I bade thée go hence in, this man met me in excellent good time. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110430">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110430">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e110450-b" target="A13611-e110450-b">* </ref>
@@ -2126,7 +2117,7 @@
             <speaker>Si. </speaker>
             <p>I shew him all that thou toldst me erewhile. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110490">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110490">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e110510-b" target="A13611-e110510-b">* </ref>
@@ -2137,7 +2128,7 @@
             <speaker>Si. </speaker>
             <p>I entreat him for his daughter, and with much a doo I obtaine her. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110550">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110550">
             <speaker>Da. </speaker>
             <p>I am vtterly vndon. </p>
           </sp>
@@ -2145,7 +2136,7 @@
             <speaker>Si. </speaker>
             <p>Hah, what sayest thou? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110590">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110590">
             <speaker>Da. </speaker>
             <p>I say it is excellently well don. </p>
           </sp>
@@ -2161,7 +2152,7 @@
             <speaker>Si. </speaker>
             <p>Now Dauus I pray thée, sith thou alone hast brought this marriage for mée to passe: </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110670">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110670">
             <speaker>(Da. </speaker>
             <p>Yea truly, I, and none else.) </p>
           </sp>
@@ -2169,7 +2160,7 @@
             <speaker>Si. </speaker>
             <p>That thou wilt yet moreouer labour my sonnes amendment. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110710">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110710">
             <speaker>Da. </speaker>
             <p>In déede I will doo what I can. </p>
           </sp>
@@ -2177,7 +2168,7 @@
             <speaker>Si. </speaker>
             <p>Thou maist now well do it, especially while he is netteled at the heart. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110750">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110750">
             <speaker>Da. </speaker>
             <p>Well, set your minde at rest. </p>
           </sp>
@@ -2185,7 +2176,7 @@
             <speaker>Si. </speaker>
             <p>Go to then, But where is he now? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110790">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110790">
             <speaker>Da. </speaker>
             <p>It is maruaile if he be not at home. </p>
           </sp>
@@ -2196,7 +2187,7 @@
               <note anchored="true" corresp="A13611-e110830-a" n="*" place="margin">* <stage xml:id="eng000441-e110840">Simo departeth and Dauus stayeth still .</stage>
               </note>I will go to him, and tell him my minde in the same sort, as I told it thée. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110850">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110850">
             <speaker>Da. </speaker>
             <p>I am a forlorne creature, what shall kéepe me but that I must go hence streight into the grinding house to prison? No prayer or intreaty wil serue, I haue now brought all out of frame: I haue deceyued my master: I haue forced a marriage on my Masters sonne: I was the cause that the marriage shal be made to day, euen quite vnhoped for of the old man, &amp; cleane contrary to the minde of Pamphilus. Sée these goodly crafts of mine: had I not <pb xml:id="eng000441-031-a"/>busied my selfe, there had hapned no harme at all: <ref corresp="A13611-e110870-b" target="A13611-e110870-b"/>
               <note anchored="true" corresp="A13611-e110870-a" place="margin">
@@ -2216,10 +2207,10 @@
               <item>Dauus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-pamphilus" xml:id="eng000441-e110960">
+          <sp xml:id="eng000441-e110960">
             <p>WHere is that same mischéeuous varlet, which hath cleane vndon mée? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e110980">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e110980">
             <speaker>Da. </speaker>
             <p>Now Lord haue mercy vpon mée. </p>
           </sp>
@@ -2227,7 +2218,7 @@
             <speaker>Pamph. </speaker>
             <p>And yet I confesse, this that hath hapned, is euen good enough for mée, when I would bée so sottish, and so very a dolt, as to commit my whole estate and welfare vnto a prating villaine. Therefore I reape a iust reward for my folly. But he shal neuer scape scotfrée with it. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111020">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111020">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e111040-b" target="A13611-e111040-b"/>
@@ -2239,7 +2230,7 @@
             <speaker>Pamph. </speaker>
             <p>But what may I now say to my father? shal I now refuse marriage, and yet promised erewhile that I would marry? with what face dare I doo that? I wot not what to doo with my selfe. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111080">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111080">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e111100-b" target="A13611-e111100-b">* </ref>
@@ -2250,7 +2241,7 @@
             <speaker>Pamph. </speaker>
             <p>Oh. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111140">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111140">
             <speaker>Da. </speaker>
             <p>Now hée sées mée. </p>
           </sp>
@@ -2259,7 +2250,7 @@
             <speaker>Pamph. </speaker>
             <p>Come hither you honest man: how say you sirra, sée you not how I (poore soule) am bestad by meanes of your deuises? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111180">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111180">
             <speaker>Da. </speaker>
             <p>But I will remedy it by and by. </p>
           </sp>
@@ -2267,7 +2258,7 @@
             <speaker>Pamph. </speaker>
             <p>Wilt thou remedy it? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111220">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111220">
             <speaker>Da. </speaker>
             <p>Yes certainly maister Pamphilus. </p>
           </sp>
@@ -2275,7 +2266,7 @@
             <speaker>Pamph. </speaker>
             <p>Yes, euen as thou didst of late. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111260">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111260">
             <speaker>Da. </speaker>
             <p>Nay rather better, I hope. </p>
           </sp>
@@ -2283,7 +2274,7 @@
             <speaker>Pamph. </speaker>
             <p>O, should I credit thée vile hangman? canst thou recouer a matter full of trouble, and past all hope of helpe? Out alas, what a sure stay had I of thée, who this day, out of my greatest quietnes, hast forced mée into a marriage spite of my téeth? did I not tell thee it would come thus to passe? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111300">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111300">
             <speaker>Da. </speaker>
             <p>You did so. </p>
           </sp>
@@ -2291,7 +2282,7 @@
             <speaker>Pamph. </speaker>
             <p>What then art thou woorthy of? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111340">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111340">
             <speaker>Da. </speaker>
             <p>Hanging. But yet suffer mée a litle to come to my selfe, I will straight way séeke out some helpe. </p>
           </sp>
@@ -2316,7 +2307,7 @@
               <item>Dauus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-carinus" xml:id="eng000441-e111470">
+          <sp xml:id="eng000441-e111470">
             <p>IS this a thing credible, or worthy to be spoken of, that there shold be somuch peruersnesse in any man, as to delight in euill, and to séeke his owne commoditie, euen by the discommodity of an other? Is this kinde of people to be trusted? Nay certainely, those are the very worst kinde of people, who are somewhat shamefast in denying a Request, but afterward, when time requires performance of their promises, Then of necessitie, they bewray themselues and faulter, and yet the matter it selfe driues them then to a flat denyall: Then is their spéech void of all shame and honesty, as thus: who are you sir? What friend of mine are you? why should you desire my swéete hart? O sir, heare you me, I loue you well, but my selfe better. Neuerthelesse, if you aske where is truth and trustines of promis, they are neuer a whit ashamed. Now they are not a frayd to deny, when as they ought to performe: And yet are they then afrayd, when they shold not. But what shall I doo? Is it best that I goe to him, to taunt and take him vp for this iniurie? I shall giue him shrewd woords his fill: But one may say to me, thou shalt be neuer the néere: yes very much: without doubt I shall anger euerie vayne in his hart, and withall shall ease mine owne minde. </p>
           </sp>
           <sp who="#eng000441-pamphilus" xml:id="eng000441-e111490">
@@ -2417,7 +2408,7 @@
             <speaker>Car. </speaker>
             <p>Dauus, Didst thou doo this? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e111970">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e111970">
             <speaker>Da. </speaker>
             <p>Yes. </p>
           </sp>
@@ -2425,7 +2416,7 @@
             <speaker>Car. </speaker>
             <p>Hah, what sayest thou villayne? Now I pray God geue thee a mischéeuous end as thou hast deserued. Why I pray thee tell me, if all the enemies hée hath in the world would haue wished to force a marryage vpon him, what other counsaile could they haue geuen him than this? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112010">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112010">
             <speaker>Da. </speaker>
             <p>Well, I am deceiued, but not discouraged. </p>
           </sp>
@@ -2436,7 +2427,7 @@
               <note anchored="true" corresp="A13611-e112050-a" n="*" place="margin">* <stage xml:id="eng000441-e112060">Ironice .</stage>
               </note>I know it well. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112070">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112070">
             <speaker>Da. </speaker>
             <p>The matter came not well to passe this way, now wee will take an other course, vnlesse you be of opinion, that bycause it had ill successe at the first: that therfore this euill may not now be remedied at the last. </p>
           </sp>
@@ -2444,7 +2435,7 @@
             <speaker>Pamph. </speaker>
             <p>Yes mary may it, for I verily beleeue if thou doo bend thy whole indeuor vnto it, thou wilt make for me two marriages of one. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112110">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112110">
             <speaker>Da. </speaker>
             <p>Maister Pamphilus, this I owe vnto you of duty, as being your seruaunt: euen day and night to labours to my vttermost with might and maine, and to hazard my life to doo you good withall: it is your part, if ought hath hapned otherwise than was looked for, to pardon mée. Be it that my doings prosper not: Why yet I doo my true intent: Or finde you some better remedy your selfe, and let not mée either make or meddle withall. </p>
           </sp>
@@ -2453,7 +2444,7 @@
             <p>That is it I desire: set mée againe in the same state thou foundest me. </p>
           </sp>
           <pb xml:id="eng000441-033-b"/>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112150">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112150">
             <speaker>Da. </speaker>
             <p>I will. </p>
           </sp>
@@ -2461,7 +2452,7 @@
             <speaker>Pamph. </speaker>
             <p>But it must be don by and by. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112190">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112190">
             <speaker>Da. </speaker>
             <p>Alas, but yet stay a little, Glyceries doore creaks. </p>
           </sp>
@@ -2469,7 +2460,7 @@
             <speaker>Pamph. </speaker>
             <p>That is nothing to thée. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112230">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112230">
             <speaker>Da. </speaker>
             <p>Yet I would know. </p>
           </sp>
@@ -2477,7 +2468,7 @@
             <speaker>Pamph. </speaker>
             <p>What, still more staying? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112270">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112270">
             <speaker>Da. </speaker>
             <p>Well, I will presently finde you out a deuise for this. </p>
           </sp>
@@ -2496,7 +2487,7 @@
               <item>Dauus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-mysis" xml:id="eng000441-e112380">
+          <sp xml:id="eng000441-e112380">
             <p>WHeresoeuer your friend Pamphilus be, I wil furthwith séeke him out, and bring him with me: In the meane time (dere hart) doo not you vexe your selfe with thought. </p>
           </sp>
           <sp who="#eng000441-pamphilus" xml:id="eng000441-e112400">
@@ -2523,7 +2514,7 @@
             <speaker>Car. </speaker>
             <p>Concerning which matter truly, full easily mought we haue bin at quiet, if this knaue had not busted himselfe. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112520">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112520">
             <speaker>Da. </speaker>
             <p>Go too, if he be not mad enough of himselfe, doo thou pricke him forward. </p>
           </sp>
@@ -2559,7 +2550,7 @@
             <speaker>Pamph. </speaker>
             <p>Dauus I know whereabout thou goest. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112700">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112700">
             <speaker>Da. </speaker>
             <p>Wel, certeinly I will bring this to passe for you. </p>
           </sp>
@@ -2567,7 +2558,7 @@
             <speaker>Pamph. </speaker>
             <p>It is more than time it were don. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112740">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112740">
             <speaker>Da. </speaker>
             <p>I haue it but euen now to doo. </p>
           </sp>
@@ -2575,7 +2566,7 @@
             <speaker>Car. </speaker>
             <p>What is it? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112780">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112780">
             <speaker>Da. </speaker>
             <p>That thou deceiue not thy selfe, I haue it for this mans behoofe, and not for thyne. </p>
           </sp>
@@ -2588,7 +2579,7 @@
             <speaker>Pam. </speaker>
             <p>Tell mée I pray thée, what is that thou wilt doo? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112840">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112840">
             <speaker>Da. </speaker>
             <p>I feare me, this day will skant serue me to doo my busines: Thinke not than, that I am now at leisure to discourse: Therefore get yée both away hence, for yée doo but trouble mée. </p>
           </sp>
@@ -2596,7 +2587,7 @@
             <speaker>Pamph. </speaker>
             <p>I will go sée Glycerie. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112880">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112880">
             <speaker>Da. </speaker>
             <p>And what will you? whither away hence? </p>
           </sp>
@@ -2604,7 +2595,7 @@
             <speaker>Car. </speaker>
             <p>Wilt thou haue me say the truth? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112920">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112920">
             <speaker>Da. </speaker>
             <p>Nay, now he begins to tell me some long tale. </p>
           </sp>
@@ -2612,7 +2603,7 @@
             <speaker>Car. </speaker>
             <p>But what shall become of mée? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e112960">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e112960">
             <speaker>Da. </speaker>
             <p>Why thou shameles man, is it not well for thée, that I gayne thée one litle dayes respite, in that I doo prolong his marriage? </p>
           </sp>
@@ -2620,7 +2611,7 @@
             <speaker>Car. </speaker>
             <p>O Dauus, yet notwithstanding. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113000">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113000">
             <speaker>Da. </speaker>
             <p>What then? </p>
           </sp>
@@ -2628,7 +2619,7 @@
             <speaker>Car. </speaker>
             <p>That I may attaine to marry her. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113040">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113040">
             <speaker>Da. </speaker>
             <p>Sée a foole. </p>
           </sp>
@@ -2636,7 +2627,7 @@
             <speaker>Car. </speaker>
             <p>Well, looke thou come hither to me, if so hée thou mayst doo any good in the matter. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113080">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113080">
             <speaker>Da. </speaker>
             <p>To what end shall I come? I can do nothing. </p>
           </sp>
@@ -2644,7 +2635,7 @@
             <speaker>Car. </speaker>
             <p>But yet if thou may doo ought. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113120">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113120">
             <speaker>Da. </speaker>
             <p>Well, go too, I will come. </p>
           </sp>
@@ -2652,7 +2643,7 @@
             <speaker>Car. </speaker>
             <p>Yf thou maist doo any thing, thou shalt finde me at home. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113160">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113160">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e113180-b" target="A13611-e113180-b">* </ref>
@@ -2663,7 +2654,7 @@
             <speaker>My. </speaker>
             <p>Wherefore? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113220">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113220">
             <speaker>Da. </speaker>
             <p>For a thing that must néedes be don. </p>
           </sp>
@@ -2671,7 +2662,7 @@
             <speaker>My. </speaker>
             <p>Hye thee apace. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113260">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113260">
             <speaker>Da. </speaker>
             <p>I tell thée, I will bée here againe by and by. </p>
           </sp>
@@ -2689,10 +2680,10 @@
               <item>Dauus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-mysis" xml:id="eng000441-e113350">
+          <sp xml:id="eng000441-e113350">
             <p>WHat, can one be sure of nothing in this world? O Lord God, I still thought, that this Pamphilus was my mistres chéefest ioy, as being her frend, her louer, her husband, and one ready to serue her turne in all assayes. But now (alack forlorne woman,) what gréefe takes she for his sake? without doubt there is more harme in this, than there was good in the other. But lo, Dauus comes furth. Abide fellow, what is that, I pray thée? whither away carriest thou the childe? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113370">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113370">
             <speaker>Da. </speaker>
             <p>Mysis, now must I néeds haue thée shew thy ready wit and cunning in this matter. </p>
           </sp>
@@ -2700,7 +2691,7 @@
             <speaker>My. </speaker>
             <p>Where about goest thou? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113410">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113410">
             <speaker>Da. </speaker>
             <p>Take this same childe of me quickly, and lay it downe before our doore. </p>
           </sp>
@@ -2708,7 +2699,7 @@
             <speaker>My. </speaker>
             <p>What I pray thée, on the bare ground? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113450">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113450">
             <speaker>Da. </speaker>
             <p>Take thée some herbes of this alter, and straw vnder it. </p>
           </sp>
@@ -2716,7 +2707,7 @@
             <speaker>My. </speaker>
             <p>And why doest not thou doo it thy selfe? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113490">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113490">
             <speaker>Da. </speaker>
             <p>Bycause if perhaps I shall be driuen to sweare to my maister, that I layd it not there: That then I <pb xml:id="eng000441-035-b"/>may sweare with a safe conscience. </p>
           </sp>
@@ -2724,7 +2715,7 @@
             <speaker>My. </speaker>
             <p>I perceiue you. But yet tell me, I pray thée, how is it come vpon thee to be so holy now of late? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113530">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113530">
             <speaker>Da. </speaker>
             <p>Go too, bestir thée, that thou mayest know further of my minde, what I will doo. O good Lord. </p>
           </sp>
@@ -2732,7 +2723,7 @@
             <speaker>My. </speaker>
             <p>Why, what now? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113570">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113570">
             <speaker>Da. </speaker>
             <p>The Brides father is come, and hath preuented me. Now I leaue of my purpose which I first entended. </p>
           </sp>
@@ -2740,7 +2731,7 @@
             <speaker>My. </speaker>
             <p>I wot not what thou sayest. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113610">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113610">
             <speaker>Da. </speaker>
             <p>I will now make as though I came this other way on the right hand: Sée that thou bée ready to answeare and vphold my talke, in euery point as shall bée néedfull. </p>
           </sp>
@@ -2763,7 +2754,7 @@
             </list>
           </stage>
           <pb xml:id="eng000441-036-a"/>
-          <sp who="#eng000441-chremes" xml:id="eng000441-e113730">
+          <sp xml:id="eng000441-e113730">
             <p>NOw that I haue made all things in a readines for my daughters marriage, I am come againe that I may cause her to be sent for. But what haue we here? In good faith it is a childe: woman didst thou lay this same childe here? </p>
           </sp>
           <sp who="#eng000441-mysis" xml:id="eng000441-e113750">
@@ -2781,7 +2772,7 @@
             <speaker>My. </speaker>
             <p>Alack he is no where in sight, wo is me (poore wench) the fellow is gon his waies, and left me here. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113830">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113830">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e113850-b" target="A13611-e113850-b">* </ref>
@@ -2792,7 +2783,7 @@
             <speaker>My. </speaker>
             <p>I pray you sirra, why did you leaue me here all alone? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113890">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113890">
             <speaker>Da. </speaker>
             <p>How now, what tale is this of a rosted horse? Nay but hearest thou me Mysis, whose childe is this? or who brought it hether? </p>
           </sp>
@@ -2800,7 +2791,7 @@
             <speaker>My. </speaker>
             <p>Art thou well in thy wits, that askest me this question? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113930">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113930">
             <speaker>Da. </speaker>
             <p>Whom then should I aske, séeing here is no body els? </p>
           </sp>
@@ -2811,7 +2802,7 @@
               <note anchored="true" corresp="A13611-e113970-a" n="*" place="margin">* <stage xml:id="eng000441-e113980">This he saith to himselfe. Chremes must be supposed to stand a loof listening vnto all the talke betweene Dauus and Mysis, and yet not shewing himselfe vnto them, but vppon occasion of their talke he oftimes vttereth speaches as to himselfe .</stage>
               </note>I marueil whence it should be? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e113990">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e113990">
             <speaker>Da. </speaker>
             <p>Wilt thou not tell me what I aske? </p>
           </sp>
@@ -2819,7 +2810,7 @@
             <speaker>My. </speaker>
             <p>Ahlas. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114030">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114030">
             <speaker>Da. </speaker>
             <p>Come thy way hither on my right hand. </p>
           </sp>
@@ -2827,7 +2818,7 @@
             <speaker>My. </speaker>
             <p>Thou rauest, dydst not thou thy selfe?— </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114070">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114070">
             <speaker>Da. </speaker>
             <p>Husht, be not so hard for thy eares as to speake one word more than I shall aske thée. </p>
           </sp>
@@ -2835,7 +2826,7 @@
             <speaker>My. </speaker>
             <p>Thou raylest. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114110">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114110">
             <speaker>Da. </speaker>
             <p>Whence is this childe? speake out aloud. </p>
           </sp>
@@ -2844,7 +2835,7 @@
             <p>From among you. </p>
           </sp>
           <pb xml:id="eng000441-036-b"/>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114150">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114150">
             <speaker>Da. </speaker>
             <p>Ha ha ha, it is a wonder no doubt, if a hoore play a shameles parte. </p>
           </sp>
@@ -2855,7 +2846,7 @@
               <note anchored="true" corresp="A13611-e114190-a" n="*" place="margin">* <stage xml:id="eng000441-e114200">He speakes this to himselfe </stage>
               </note>This maid belongs to her of Andros for ought I can perceiue. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114210">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114210">
             <speaker>Da. </speaker>
             <p>Doo we séeme such fit copesmates for you to mock and dally withall? </p>
           </sp>
@@ -2866,7 +2857,7 @@
               <note anchored="true" corresp="A13611-e114250-a" n="˘" place="margin">˘ <stage xml:id="eng000441-e114260">To himselfe .</stage>
               </note>I came in time. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114270">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114270">
             <speaker>Da. </speaker>
             <p>Bestur thée quickly, and take a way the childe hence from the doore. <ref corresp="A13611-e114290-b" target="A13611-e114290-b">℈ </ref>
               <note anchored="true" corresp="A13611-e114290-a" n="℈" place="margin">℈ <stage xml:id="eng000441-e114300">This, Dauus speakes in a lower voice, that Chremes may not here him .</stage>
@@ -2876,7 +2867,7 @@
             <speaker>My. </speaker>
             <p>I pray God a very vengeance light on thée, that so dost terrifie me, poore wretch that I am. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114330">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114330">
             <speaker>Da. </speaker>
             <p>Doo I speake to thée or not? </p>
           </sp>
@@ -2884,7 +2875,7 @@
             <speaker>My. </speaker>
             <p>What wouldst thou? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114370">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114370">
             <speaker>Da. </speaker>
             <p>And dost thou yet aske me what? I pray the whose childe hast thou laid here? Tel me. </p>
           </sp>
@@ -2892,7 +2883,7 @@
             <speaker>My. </speaker>
             <p>Dost not thou know? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114410">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114410">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e114430-b" target="A13611-e114430-b">£ </ref>
@@ -2903,7 +2894,7 @@
             <speaker>My. </speaker>
             <p>It is yours among you. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114470">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114470">
             <speaker>Da. </speaker>
             <p>Which of vs oweth it? </p>
           </sp>
@@ -2911,7 +2902,7 @@
             <speaker>My. </speaker>
             <p>Pamphilus. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114510">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114510">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e114530-b" target="A13611-e114530-b">℥ </ref>
@@ -2929,7 +2920,7 @@
               <note anchored="true" corresp="A13611-e114590-a" n="℞" place="margin">℞ <stage xml:id="eng000441-e114600">To him self .</stage>
               </note>I sée I did wel alwaies to shun this same marriage. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114610">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114610">
             <speaker>Da. </speaker>
             <p>O notable prank worthie of punishment. </p>
           </sp>
@@ -2937,7 +2928,7 @@
             <speaker>My. </speaker>
             <p>What exclaming makest thou? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114650">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114650">
             <speaker>Da. </speaker>
             <p>Why, did not I sée this same child brought vnto you yesterday in the euening? </p>
           </sp>
@@ -2945,7 +2936,7 @@
             <speaker>My. </speaker>
             <p>O thou brasen faast fellow. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114690">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114690">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e114710-b" target="A13611-e114710-b">* </ref>
@@ -2956,7 +2947,7 @@
             <speaker>My. </speaker>
             <p>In good faith yet I thank GOD with all my hart, <pb xml:id="eng000441-037-a"/>that there were some frée women of the citie, at my mistres deliuerance. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114750">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114750">
             <speaker>Da. </speaker>
             <p>Without doubt she knewe not him, for whose cause she takes this matter in hand. If Chremes shall sée this same childe, layd héere before the doore, then will he not giue his daughter in marriage: Ah, in good sooth he will giue her somuch the sooner. </p>
           </sp>
@@ -2968,7 +2959,7 @@
                 <stage xml:id="eng000441-e114800">Meaning by him selfe .</stage>
               </note>But in good sooth he will not. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114810">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114810">
             <speaker>Da. </speaker>
             <p>Now be thou well assured of this, that if thou do not take awaie the childe, I will by and by spurn it into the midst of the strete, where I will trample thée also in the durt. </p>
           </sp>
@@ -2976,7 +2967,7 @@
             <speaker>My. </speaker>
             <p>In good sadnesse fellow, thou art not well in thy wits. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114850">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114850">
             <speaker>Da. </speaker>
             <p>One deceitfull deuise bringes an other to light: I heare now such whispering among them, that this same Glycerie is frée borne of Athens. </p>
           </sp>
@@ -2987,7 +2978,7 @@
               <note anchored="true" corresp="A13611-e114890-a" n="*" place="margin">* <stage xml:id="eng000441-e114900">Chremes speakes still to himselfe .</stage>
               </note>What is this? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114910">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114910">
             <speaker>Da. </speaker>
             <p>So as he shall be driuen by law to marry her. </p>
           </sp>
@@ -2999,7 +2990,7 @@
             <speaker>Chr. </speaker>
             <p>I sée I was well nigh fallen into a shrewd sporting game vnawares. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e114970">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e114970">
             <speaker>Da. </speaker>
             <p>Who talketh here? O Chremes, you come, in as good time as may be: heare me what I shall say. </p>
           </sp>
@@ -3007,7 +2998,7 @@
             <speaker>Chr. </speaker>
             <p>I haue heard euery word alredy. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e115010">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e115010">
             <speaker>Da. </speaker>
             <p>What, haue you hard all this talke? </p>
           </sp>
@@ -3015,7 +3006,7 @@
             <speaker>Chr. </speaker>
             <p>I tell thee I hard all from the beginning. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e115050">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e115050">
             <speaker>Da. </speaker>
             <p>I pray you and haue you hard it in déede? fye, out vppon these lewd pranks: Now should this same queane be had hence into Bridewell. This same is the man thou dost mock: think not then, that thou mockest Dauus. </p>
           </sp>
@@ -3028,7 +3019,7 @@
             <speaker>Chr. </speaker>
             <p>I know the whole matter already: but is Simo within. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e115110">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e115110">
             <speaker>Da. </speaker>
             <p>Yes. </p>
           </sp>
@@ -3039,7 +3030,7 @@
               <note anchored="true" corresp="A13611-e115150-a" n="*" place="margin">* <stage xml:id="eng000441-e115160">It seems that Dauus offereth to daly and play with Mysis, seeking thereby to please her: and shee wil not abide him .</stage>
               </note>Touch me not thou varlet. By God if I tell not all this vnto Glicerie, [neuer credit me.] </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e115170">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e115170">
             <speaker>Da. </speaker>
             <p>Why thou foolish wench, thou perceiuest not what is don. </p>
           </sp>
@@ -3047,7 +3038,7 @@
             <speaker>My. </speaker>
             <p>What should I perceiue? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e115210">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e115210">
             <speaker>Da. </speaker>
             <p>This man is the brides father: it might not otherwise be compassed, to make him vnderstand these things that we would haue him. </p>
           </sp>
@@ -3055,7 +3046,7 @@
             <speaker>My. </speaker>
             <p>Why then, thou shouldst haue told me so before. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e115250">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e115250">
             <speaker>Da. </speaker>
             <p>I pray thée now, and dost thou thinke but small difference betwéene that, that one doth in good earnest, and that which is done for the nones. </p>
           </sp>
@@ -3073,7 +3064,7 @@
               <item>Dauus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-crito" xml:id="eng000441-e115350">
+          <sp xml:id="eng000441-e115350">
             <p>IT was tolde me, that héere in this stréete, dwelt Chrysis, who chose rather in this town to gather goods with dishonesty, than to lead an honest poore life, in her owne countrey. By whose death, those same goods, by right of law, are come to me. But I sée now of whom I may <pb xml:id="eng000441-038-a"/>enquire. God spéede you. </p>
           </sp>
           <sp who="#eng000441-mysis" xml:id="eng000441-e115370">
@@ -3128,7 +3119,7 @@
             <speaker>My. </speaker>
             <p>With a very-good will. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e115630">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e115630">
             <speaker>Da. </speaker>
             <p>I will follow these, but I would not for any thing, that the old man should now sée me. </p>
           </sp>
@@ -3148,7 +3139,7 @@
               <item>Simo. </item>
             </list>
           </stage>
-          <sp who="#eng000441-chremes" xml:id="eng000441-e115730">
+          <sp xml:id="eng000441-e115730">
             <p>WEL neighbour Simo, you haue now had tryall enough and enough againe, of my loue and frendship towards you. I began to enter into daunger far enough for you. Now at length cease your entreating: for whyle I bent my selfe to follow your fancie, I had well nigh cast away my doughter. </p>
           </sp>
           <sp who="#eng000441-simo" xml:id="eng000441-e115750">
@@ -3203,7 +3194,7 @@
               <item>Dromo, the whipping Bedle. </item>
             </list>
           </stage>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116020">
+          <sp xml:id="eng000441-e116020">
             <p>AT my word, now (at length) set your hart at rest: </p>
           </sp>
           <sp who="#eng000441-chremes" xml:id="eng000441-e116040">
@@ -3220,7 +3211,7 @@
               <note anchored="true" corresp="A13611-e116100-a" n="*" place="margin">* <stage xml:id="eng000441-e116110">Thus Simo and Chremes do talk betwixt themselues, &amp; Dauus goeth on still in his speach .</stage>
               </note>Whence comes he? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116120">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116120">
             <speaker>Da. </speaker>
             <p>What thorough my helpe, and yonder stranger. </p>
           </sp>
@@ -3231,7 +3222,7 @@
               <note anchored="true" corresp="A13611-e116160-a" n="℈" place="margin">℈ <stage xml:id="eng000441-e116170">He speaketh out of Dauus hearing .</stage>
               </note>What knauery is that? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116180">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116180">
             <speaker>Da. </speaker>
             <p>I haue not séene a méeter man, a more seasonable comming, nor a fitter time. </p>
           </sp>
@@ -3242,7 +3233,7 @@
               <note anchored="true" corresp="A13611-e116220-a" n="˘" place="margin">˘ <stage xml:id="eng000441-e116230">And so heere likewise .</stage>
               </note>Whome doth this varlet prays thus? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116240">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116240">
             <speaker>Da. </speaker>
             <p>Now all is out of danger. </p>
           </sp>
@@ -3250,7 +3241,7 @@
             <speaker>Si. </speaker>
             <p>Why doo I linger to speake to him? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116280">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116280">
             <speaker>Da. </speaker>
             <p>
               <ref corresp="A13611-e116300-b" target="A13611-e116300-b">℥ </ref>
@@ -3261,7 +3252,7 @@
             <speaker>Si. </speaker>
             <p>O, all haill to you honest man. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116340">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116340">
             <speaker>Da. </speaker>
             <p>Now master, and master Chremes, all things be in a redines within. </p>
           </sp>
@@ -3269,7 +3260,7 @@
             <speaker>Si. </speaker>
             <p>O it is trimly don of you. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116380">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116380">
             <speaker>Da. </speaker>
             <p>Now send for him when you will. </p>
           </sp>
@@ -3280,7 +3271,7 @@
               </note>
             </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116440">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116440">
             <speaker>Da. </speaker>
             <p>Who, I? </p>
           </sp>
@@ -3288,7 +3279,7 @@
             <speaker>Si. </speaker>
             <p>Yea. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116480">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116480">
             <speaker>Da. </speaker>
             <p>What, I? </p>
           </sp>
@@ -3296,7 +3287,7 @@
             <speaker>Si. </speaker>
             <p>Yea, you sirra. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116520">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116520">
             <speaker>Da. </speaker>
             <p>I went in but euen now. </p>
           </sp>
@@ -3304,7 +3295,7 @@
             <speaker>Si. </speaker>
             <p>As though I asked how long ago it was. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116560">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116560">
             <speaker>Da. </speaker>
             <p>Your sonne and I went in together. </p>
           </sp>
@@ -3313,7 +3304,7 @@
             <p>Why than, and is Pamphilus within? I am still vext vnhappy man that I am. Why thou hangman thou, didst not thou tell me that they are fallen at debate. </p>
           </sp>
           <pb xml:id="eng000441-040-a"/>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116600">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116600">
             <speaker>Da. </speaker>
             <p>So they are. </p>
           </sp>
@@ -3328,7 +3319,7 @@
               <note anchored="true" corresp="A13611-e116660-a" n="*" place="margin">* <stage xml:id="eng000441-e116670">This is spoken in derision .</stage>
               </note>What think you that he is a dooing? he is sure chiding with her. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116680">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116680">
             <speaker>Da. </speaker>
             <p>Nay but master Chremes, you shall here me tel you of a notable strange matter: I wot not what olde man is come yonder euen now, but to looke to, he is a substantiall and warie man: if you sawe his face, you would take him for a right honest man. In his countenance is sad grauitie, and his wordes do sound of truth. </p>
           </sp>
@@ -3336,7 +3327,7 @@
             <speaker>Si. </speaker>
             <p>What tydings bringst thou? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116720">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116720">
             <speaker>Da. </speaker>
             <p>Nothing forsooth but what I hard him say. </p>
           </sp>
@@ -3344,7 +3335,7 @@
             <speaker>Si. </speaker>
             <p>And what saith he, I pray you? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116760">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116760">
             <speaker>Da. </speaker>
             <p>Mary that he knoweth Glycerie to be a frée born woman of Athens. </p>
           </sp>
@@ -3363,7 +3354,7 @@
             <speaker>Si. </speaker>
             <p>Dromo. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116860">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116860">
             <speaker>Da. </speaker>
             <p>Why, here me sir. </p>
           </sp>
@@ -3371,7 +3362,7 @@
             <speaker>Si. </speaker>
             <p>If thou speake one word more— Dromo. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e116900">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e116900">
             <speaker>Da. </speaker>
             <p>I besech you here me. </p>
           </sp>
@@ -3391,7 +3382,7 @@
             <speaker>Si. </speaker>
             <p>Dauus. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e117000">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e117000">
             <speaker>Da. </speaker>
             <p>Wherefore? </p>
           </sp>
@@ -3399,7 +3390,7 @@
             <speaker>Si. </speaker>
             <p>Bycause I will haue it so, take him away I say. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e117040">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e117040">
             <speaker>Da. </speaker>
             <p>What haue I don sir? </p>
           </sp>
@@ -3407,7 +3398,7 @@
             <speaker>Si. </speaker>
             <p>Away with him. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e117080">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e117080">
             <speaker>Da. </speaker>
             <p>If you do finde that I told you any lye, kill me furth right. </p>
           </sp>
@@ -3415,7 +3406,7 @@
             <speaker>Si. </speaker>
             <p>I will not here one word: I shall set thée in a beate by and by, I warrant thée. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e117120">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e117120">
             <speaker>Da. </speaker>
             <p>What, notwithstanding I say nothing but Troth? </p>
           </sp>
@@ -3451,7 +3442,7 @@
               <item>Chremes. </item>
             </list>
           </stage>
-          <sp who="#eng000441-pamphilus" xml:id="eng000441-e117320">
+          <sp xml:id="eng000441-e117320">
             <p>WHo calles me? O I am vndone, it is my father. </p>
           </sp>
           <sp who="#eng000441-simo" xml:id="eng000441-e117340">
@@ -3558,7 +3549,7 @@
               <item>Pamphilus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-crito" xml:id="eng000441-e117870">
+          <sp xml:id="eng000441-e117870">
             <p>CEas to pray me, any one of these respects, shall cause mée to doo it: as either for your owne sake, or for that the matter is truth, or in respect that I wish well to Glycerie. </p>
           </sp>
           <sp who="#eng000441-chremes" xml:id="eng000441-e117890">
@@ -3910,7 +3901,7 @@
               <item>Dauus. </item>
             </list>
           </stage>
-          <sp who="#eng000441-carinus" xml:id="eng000441-e119650">
+          <sp xml:id="eng000441-e119650">
             <p>I I am come furth, to sée what Pamphilus is a doing: but lo where he is. </p>
           </sp>
           <sp who="#eng000441-pamphilus" xml:id="eng000441-e119670">
@@ -3929,7 +3920,7 @@
             <speaker>Pamph. </speaker>
             <p>Lo, I see Dauus: There is no man liuing that I would fayner haue: for I am sure that he, of all other, will vnfainedly reioyce at my ioy and gladnesse. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e119750">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e119750">
             <speaker>Da. </speaker>
             <p>whereabout here, is Pamphilus? </p>
           </sp>
@@ -3937,7 +3928,7 @@
             <speaker>Pamph. </speaker>
             <p>Dauus. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e119790">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e119790">
             <speaker>Da. </speaker>
             <p>What man is that? </p>
           </sp>
@@ -3946,7 +3937,7 @@
             <speaker>Pamph. </speaker>
             <p>It is I. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e119830">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e119830">
             <speaker>Da. </speaker>
             <p>O my master Pamphilus. </p>
           </sp>
@@ -3954,7 +3945,7 @@
             <speaker>Pamph. </speaker>
             <p>Thou wotst not what hath hapned to me. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e119870">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e119870">
             <speaker>Da. </speaker>
             <p>Very true, but I wot well what hath hapned to my selfe. </p>
           </sp>
@@ -3962,7 +3953,7 @@
             <speaker>Pamph. </speaker>
             <p>And so doo I too. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e119910">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e119910">
             <speaker>Da. </speaker>
             <p>Yea it came to pas after the common course of the world, that you knew of the euil that hapned to me, sooner than I knew of the good that hapned to you. </p>
           </sp>
@@ -3970,7 +3961,7 @@
             <speaker>Pamph. </speaker>
             <p>My swéete loue Glycerie, hath found out who be her parents. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e119950">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e119950">
             <speaker>Da. </speaker>
             <p>O happy chaunce. </p>
           </sp>
@@ -3985,7 +3976,7 @@
             <speaker>Pamph. </speaker>
             <p>Her father is a very speciall frend of ours. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e120030">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e120030">
             <speaker>Da. </speaker>
             <p>Who is that? </p>
           </sp>
@@ -3993,7 +3984,7 @@
             <speaker>Pamph. </speaker>
             <p>Chremes. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e120070">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e120070">
             <speaker>Da. </speaker>
             <p>You say well. </p>
           </sp>
@@ -4013,7 +4004,7 @@
             <speaker>Pamph. </speaker>
             <p>Now moreouer Dauus, as touching the childe. </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e120170">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e120170">
             <speaker>Da. </speaker>
             <p>Tush let it alone, God doth specially prouide for it aboue all other children. </p>
           </sp>
@@ -4047,11 +4038,11 @@
             <pb xml:id="eng000441-045-a"/>
             <p>Therefore follow me along this way: he is now within with Glicerie. Dauus go thou thy way home: hye thée, go for company to bring her away hence. Why dost thou stand still? why goest thou not? </p>
           </sp>
-          <sp who="#eng000441-davus" xml:id="eng000441-e120340">
+          <sp who="#eng000441-dauus" xml:id="eng000441-e120340">
             <speaker>Da. </speaker>
             <p>I am going. </p>
           </sp>
-          <sp who="#eng000441-missing" xml:id="eng000441-e120360">
+          <sp xml:id="eng000441-e120360">
             <p>
               <ref corresp="A13611-e120380-b" target="A13611-e120380-b"/>
               <note anchored="true" corresp="A13611-e120380-a" place="margin">

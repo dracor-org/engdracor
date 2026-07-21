@@ -1,0 +1,1403 @@
+{
+  "particDesc": [
+    {
+      "name": "Goaler",
+      "id": "goaler",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Waiter",
+      "id": "waiter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Countryman",
+      "id": "countryman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Citizen 4",
+      "id": "citizen-4",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 3",
+      "id": "citizen-3",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 2",
+      "id": "citizen-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 1",
+      "id": "citizen-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Teagueland Evidence 3",
+      "id": "teagueland-evidence-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Teagueland Evidence 2",
+      "id": "teagueland-evidence-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Teagueland Evidence 1",
+      "id": "teagueland-evidence-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Jebesite 2",
+      "id": "jebesite-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rawbone",
+      "id": "rawbone",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cut-throat 3",
+      "id": "cut-throat-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cut-throat 2",
+      "id": "cut-throat-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cut-throat 1",
+      "id": "cut-throat-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Jebesite 1",
+      "id": "jebesite-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Remarquo",
+      "id": "remarquo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Nobbs",
+      "id": "nobbs",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Demophilus",
+      "id": "demophilus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Aristander",
+      "id": "aristander",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Count d'Arlin",
+      "id": "count-d-arlin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Damasippus",
+      "id": "damasippus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Intriguo",
+      "id": "intriguo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Le Talbo",
+      "id": "le-talbo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Count Paulbrough",
+      "id": "count-paulbrough",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Androgynes ",
+      "id": "androgynes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Leonora",
+      "id": "leonora",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Corinna",
+      "id": "corinna",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Caligula",
+      "id": "caligula",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble7",
+      "id": "rabble7",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": " Rabble 6",
+      "id": "rabble-6",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble 5",
+      "id": "rabble-5",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble 4",
+      "id": "rabble-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble 3",
+      "id": "rabble-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble 2",
+      "id": "rabble-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble 1",
+      "id": "rabble-1",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A28408-e680": [
+      "rabble-1"
+    ],
+    "A28408-e730": [
+      "rabble-2"
+    ],
+    "A28408-e800": [
+      "rabble-3"
+    ],
+    "A28408-e850": [
+      "rabble-4"
+    ],
+    "A28408-e890": [
+      "rabble-5"
+    ],
+    "A28408-e930": [
+      "rabble-4"
+    ],
+    "A28408-e970": [
+      "rabble-6"
+    ],
+    "A28408-e1010": [
+      "rabble-1"
+    ],
+    "A28408-e1050": [
+      "rabble-2"
+    ],
+    "A28408-e1130": [
+      "rabble-5"
+    ],
+    "A28408-e1180": [
+      "rabble-6"
+    ],
+    "A28408-e1240": [
+      "rabble7"
+    ],
+    "A28408-e1270": [
+      "rabble-1"
+    ],
+    "A28408-e1310": [
+      "rabble-1",
+      "rabble-2",
+      "rabble-3",
+      "rabble-4",
+      "rabble-5",
+      "rabble-6",
+      "rabble7"
+    ],
+    "A28408-e1380": [
+      "caligula"
+    ],
+    "A28408-e1850": [
+      "corinna"
+    ],
+    "A28408-e2030": [
+      "remarquo"
+    ],
+    "A28408-e2210": [
+      "caligula"
+    ],
+    "A28408-e2450": [
+      "leonora"
+    ],
+    "A28408-e2640": [
+      "remarquo"
+    ],
+    "A28408-e2820": [
+      "count-paulbrough"
+    ],
+    "A28408-e2880": [
+      "caligula"
+    ],
+    "A28408-e2920": [
+      "le-talbo"
+    ],
+    "A28408-e2960": [
+      "caligula"
+    ],
+    "A28408-e3010": [
+      "le-talbo"
+    ],
+    "A28408-e3070": [
+      "caligula"
+    ],
+    "A28408-e3100": [
+      "count-paulbrough"
+    ],
+    "A28408-e3150": [
+      "caligula"
+    ],
+    "A28408-e3190": [
+      "count-paulbrough"
+    ],
+    "A28408-e3240": [
+      "caligula"
+    ],
+    "A28408-e3360": [
+      "count-paulbrough"
+    ],
+    "A28408-e3400": [
+      "caligula"
+    ],
+    "A28408-e3620": [
+      "count-paulbrough"
+    ],
+    "A28408-e3660": [
+      "le-talbo"
+    ],
+    "A28408-e3700": [
+      "caligula"
+    ],
+    "A28408-e3730": [
+      "le-talbo"
+    ],
+    "A28408-e3770": [
+      "remarquo"
+    ],
+    "A28408-e3890": [
+      "caligula"
+    ],
+    "A28408-e3930": [
+      "le-talbo"
+    ],
+    "A28408-e3970": [
+      "caligula"
+    ],
+    "A28408-e4030": [
+      "count-paulbrough"
+    ],
+    "A28408-e4070": [
+      "caligula"
+    ],
+    "A28408-e4130": [
+      "le-talbo"
+    ],
+    "A28408-e4180": [
+      "caligula"
+    ],
+    "A28408-e4210": [
+      "count-paulbrough"
+    ],
+    "A28408-e4250": [
+      "caligula"
+    ],
+    "A28408-e4720": [
+      "leonora"
+    ],
+    "A28408-e4800": [
+      "caligula"
+    ],
+    "A28408-e5000": [
+      "count-paulbrough"
+    ],
+    "A28408-e5080": [
+      "caligula"
+    ],
+    "A28408-e5140": [
+      "le-talbo"
+    ],
+    "A28408-e5230": [
+      "caligula"
+    ],
+    "A28408-e5290": [
+      "count-paulbrough"
+    ],
+    "A28408-e5360": [
+      "messenger"
+    ],
+    "A28408-e5400": [
+      "caligula"
+    ],
+    "A28408-e5430": [
+      "messenger"
+    ],
+    "A28408-e5480": [
+      "caligula"
+    ],
+    "A28408-e5630": [
+      "caligula"
+    ],
+    "A28408-e6400": [
+      "intriguo"
+    ],
+    "A28408-e6470": [
+      "jebesite-1"
+    ],
+    "A28408-e6500": [
+      "remarquo"
+    ],
+    "A28408-e6600": [
+      "nobbs"
+    ],
+    "A28408-e6670": [
+      "remarquo"
+    ],
+    "A28408-e6770": [
+      "intriguo"
+    ],
+    "A28408-e6820": [
+      "nobbs"
+    ],
+    "A28408-e6890": [
+      "intriguo"
+    ],
+    "A28408-e6940": [
+      "nobbs"
+    ],
+    "A28408-e6980": [
+      "intriguo"
+    ],
+    "A28408-e7010": [
+      "nobbs"
+    ],
+    "A28408-e7050": [
+      "intriguo"
+    ],
+    "A28408-e7090": [
+      "remarquo"
+    ],
+    "A28408-e7160": [
+      "nobbs"
+    ],
+    "A28408-e7250": [
+      "intriguo"
+    ],
+    "A28408-e7290": [
+      "nobbs"
+    ],
+    "A28408-e7420": [
+      "remarquo"
+    ],
+    "A28408-e7470": [
+      "intriguo"
+    ],
+    "A28408-e7510": [
+      "nobbs"
+    ],
+    "A28408-e7570": [
+      "remarquo"
+    ],
+    "A28408-e7630": [
+      "intriguo"
+    ],
+    "A28408-e7680": [
+      "nobbs"
+    ],
+    "A28408-e7740": [
+      "jebesite-1"
+    ],
+    "A28408-e7800": [
+      "intriguo"
+    ],
+    "A28408-e7850": [
+      "jebesite-1"
+    ],
+    "A28408-e7900": [
+      "intriguo"
+    ],
+    "A28408-e7960": [
+      "jebesite-1"
+    ],
+    "A28408-e8010": [
+      "remarquo"
+    ],
+    "A28408-e8060": [
+      "jebesite-1"
+    ],
+    "A28408-e8150": [
+      "intriguo"
+    ],
+    "A28408-e8300": [
+      "androgynes"
+    ],
+    "A28408-e8640": [
+      "count-paulbrough"
+    ],
+    "A28408-e8720": [
+      "remarquo"
+    ],
+    "A28408-e8870": [
+      "aristander"
+    ],
+    "A28408-e9180": [
+      "count-paulbrough"
+    ],
+    "A28408-e9290": [
+      "demophilus"
+    ],
+    "A28408-e9350": [
+      "count-paulbrough"
+    ],
+    "A28408-e9430": [
+      "demophilus"
+    ],
+    "A28408-e9650": [
+      "count-paulbrough"
+    ],
+    "A28408-e9750": [
+      "remarquo"
+    ],
+    "A28408-e9810": [
+      "androgynes"
+    ],
+    "A28408-e10040": [
+      "count-paulbrough"
+    ],
+    "A28408-e10180": [
+      "androgynes"
+    ],
+    "A28408-e10310": [
+      "remarquo"
+    ],
+    "A28408-e10490": [
+      "le-talbo"
+    ],
+    "A28408-e10550": [
+      "cut-throat-1"
+    ],
+    "A28408-e10610": [
+      "cut-throat-2"
+    ],
+    "A28408-e10660": [
+      "le-talbo"
+    ],
+    "A28408-e10690": [
+      "cut-throat-1",
+      "cut-throat-2",
+      "cut-throat-3"
+    ],
+    "A28408-e10730": [
+      "cut-throat-3"
+    ],
+    "A28408-e10820": [
+      "le-talbo"
+    ],
+    "A28408-e10920": [
+      "cut-throat-1"
+    ],
+    "A28408-e10960": [
+      "cut-throat-2"
+    ],
+    "A28408-e11010": [
+      "le-talbo"
+    ],
+    "A28408-e11120": [
+      "cut-throat-3"
+    ],
+    "A28408-e11150": [
+      "le-talbo"
+    ],
+    "A28408-e11250": [
+      "cut-throat-1"
+    ],
+    "A28408-e11320": [
+      "le-talbo"
+    ],
+    "A28408-e11350": [
+      "cut-throat-2"
+    ],
+    "A28408-e11380": [
+      "le-talbo"
+    ],
+    "A28408-e11430": [
+      "cut-throat-3"
+    ],
+    "A28408-e11520": [
+      "le-talbo"
+    ],
+    "A28408-e11760": [
+      "cut-throat-1"
+    ],
+    "A28408-e11800": [
+      "cut-throat-2"
+    ],
+    "A28408-e11860": [
+      "cut-throat-1"
+    ],
+    "A28408-e11910": [
+      "cut-throat-2"
+    ],
+    "A28408-e11950": [
+      "cut-throat-1"
+    ],
+    "A28408-e12000": [
+      "cut-throat-2"
+    ],
+    "A28408-e12040": [
+      "cut-throat-1"
+    ],
+    "A28408-e12090": [
+      "cut-throat-2"
+    ],
+    "A28408-e12160": [
+      "cut-throat-1"
+    ],
+    "A28408-e12200": [
+      "cut-throat-3"
+    ],
+    "A28408-e12230": [
+      "cut-throat-2"
+    ],
+    "A28408-e12260": [
+      "cut-throat-3"
+    ],
+    "A28408-e12400": [
+      "rawbone"
+    ],
+    "A28408-e12440": [
+      "demophilus"
+    ],
+    "A28408-e12530": [
+      "cut-throat-1"
+    ],
+    "A28408-e12580": [
+      "cut-throat-2"
+    ],
+    "A28408-e12610": [
+      "demophilus"
+    ],
+    "A28408-e12660": [
+      "cut-throat-2"
+    ],
+    "A28408-e12690": [
+      "rawbone"
+    ],
+    "A28408-e12720": [
+      "demophilus"
+    ],
+    "A28408-e12760": [
+      "cut-throat-3"
+    ],
+    "A28408-e12810": [
+      "cut-throat-1"
+    ],
+    "A28408-e12860": [
+      "cut-throat-2"
+    ],
+    "A28408-e12890": [
+      "cut-throat-1"
+    ],
+    "A28408-e12960": [
+      "cut-throat-2"
+    ],
+    "A28408-e13040": [
+      "cut-throat-3"
+    ],
+    "A28408-e13070": [
+      "cut-throat-2"
+    ],
+    "A28408-e13120": [
+      "cut-throat-1"
+    ],
+    "A28408-e13160": [
+      "cut-throat-3"
+    ],
+    "A28408-e13270": [
+      "caligula"
+    ],
+    "A28408-e13340": [
+      "le-talbo"
+    ],
+    "A28408-e13370": [
+      "caligula"
+    ],
+    "A28408-e13420": [
+      "remarquo"
+    ],
+    "A28408-e13540": [
+      "le-talbo"
+    ],
+    "A28408-e13580": [
+      "remarquo"
+    ],
+    "A28408-e13630": [
+      "le-talbo"
+    ],
+    "A28408-e13660": [
+      "caligula"
+    ],
+    "A28408-e13720": [
+      "le-talbo"
+    ],
+    "A28408-e13750": [
+      "caligula"
+    ],
+    "A28408-e13790": [
+      "nobbs"
+    ],
+    "A28408-e13890": [
+      "caligula"
+    ],
+    "A28408-e13940": [
+      "nobbs"
+    ],
+    "A28408-e13990": [
+      "le-talbo"
+    ],
+    "A28408-e14020": [
+      "nobbs"
+    ],
+    "A28408-e14050": [
+      "caligula"
+    ],
+    "A28408-e14080": [
+      "nobbs"
+    ],
+    "A28408-e14170": [
+      "messenger"
+    ],
+    "A28408-e14250": [
+      "caligula"
+    ],
+    "A28408-e14280": [
+      "remarquo"
+    ],
+    "A28408-e14320": [
+      "caligula"
+    ],
+    "A28408-e14370": [
+      "nobbs"
+    ],
+    "A28408-e14460": [
+      "caligula"
+    ],
+    "A28408-e14500": [
+      "nobbs"
+    ],
+    "A28408-e14620": [
+      "caligula"
+    ],
+    "A28408-e14940": [
+      "caligula"
+    ],
+    "A28408-e15390": [
+      "le-talbo"
+    ],
+    "A28408-e15420": [
+      "caligula"
+    ],
+    "A28408-e15450": [
+      "le-talbo"
+    ],
+    "A28408-e15480": [
+      "caligula"
+    ],
+    "A28408-e15520": [
+      "le-talbo"
+    ],
+    "A28408-e15550": [
+      "caligula"
+    ],
+    "A28408-e15590": [
+      "le-talbo"
+    ],
+    "A28408-e15620": [
+      "caligula"
+    ],
+    "A28408-e15660": [
+      "le-talbo"
+    ],
+    "A28408-e15700": [
+      "caligula"
+    ],
+    "A28408-e15750": [
+      "le-talbo"
+    ],
+    "A28408-e15780": [
+      "caligula"
+    ],
+    "A28408-e15810": [
+      "le-talbo"
+    ],
+    "A28408-e15850": [
+      "caligula"
+    ],
+    "A28408-e15890": [
+      "le-talbo"
+    ],
+    "A28408-e15930": [
+      "remarquo"
+    ],
+    "A28408-e16320": [
+      "count-paulbrough"
+    ],
+    "A28408-e16350": [
+      "caligula"
+    ],
+    "A28408-e16380": [
+      "count-paulbrough"
+    ],
+    "A28408-e16440": [
+      "caligula"
+    ],
+    "A28408-e16580": [
+      "intriguo"
+    ],
+    "A28408-e16610": [
+      "goaler"
+    ],
+    "A28408-e16640": [
+      "intriguo"
+    ],
+    "A28408-e16670": [
+      "jebesite-1"
+    ],
+    "A28408-e16700": [
+      "jebesite-2"
+    ],
+    "A28408-e16740": [
+      "intriguo"
+    ],
+    "A28408-e16790": [
+      "goaler"
+    ],
+    "A28408-e16840": [
+      "intriguo"
+    ],
+    "A28408-e17240": [
+      "nobbs"
+    ],
+    "A28408-e17280": [
+      "intriguo"
+    ],
+    "A28408-e17350": [
+      "nobbs"
+    ],
+    "A28408-e17400": [
+      "intriguo"
+    ],
+    "A28408-e17490": [
+      "goaler"
+    ],
+    "A28408-e17550": [
+      "intriguo"
+    ],
+    "A28408-e17590": [
+      "goaler"
+    ],
+    "A28408-e17640": [
+      "nobbs"
+    ],
+    "A28408-e17780": [
+      "intriguo"
+    ],
+    "A28408-e17820": [
+      "jebesite-1"
+    ],
+    "A28408-e17870": [
+      "jebesite-2"
+    ],
+    "A28408-e17910": [
+      "intriguo"
+    ],
+    "A28408-e17970": [
+      "nobbs"
+    ],
+    "A28408-e18040": [
+      "androgynes"
+    ],
+    "A28408-e18080": [
+      "goaler"
+    ],
+    "A28408-e18120": [
+      "intriguo"
+    ],
+    "A28408-e18160": [
+      "nobbs"
+    ],
+    "A28408-e18200": [
+      "jebesite-1"
+    ],
+    "A28408-e18250": [
+      "goaler"
+    ],
+    "A28408-e18290": [
+      "intriguo"
+    ],
+    "A28408-e18680": [
+      "corinna"
+    ],
+    "A28408-e18850": [
+      "remarquo"
+    ],
+    "A28408-e18900": [
+      "leonora"
+    ],
+    "A28408-e19000": [
+      "androgynes"
+    ],
+    "A28408-e19180": [
+      "remarquo"
+    ],
+    "A28408-e19380": [
+      "androgynes"
+    ],
+    "A28408-e19550": [
+      "corinna"
+    ],
+    "A28408-e19600": [
+      "damasippus"
+    ],
+    "A28408-e19650": [
+      "corinna"
+    ],
+    "A28408-e19720": [
+      "damasippus"
+    ],
+    "A28408-e19750": [
+      "corinna"
+    ],
+    "A28408-e19850": [
+      "damasippus"
+    ],
+    "A28408-e19910": [
+      "corinna"
+    ],
+    "A28408-e19940": [
+      "damasippus"
+    ],
+    "A28408-e19980": [
+      "androgynes"
+    ],
+    "A28408-e20020": [
+      "damasippus"
+    ],
+    "A28408-e20070": [
+      "androgynes"
+    ],
+    "A28408-e20120": [
+      "damasippus"
+    ],
+    "A28408-e20730": [
+      "androgynes"
+    ],
+    "A28408-e20760": [
+      "damasippus"
+    ],
+    "A28408-e20790": [
+      "androgynes"
+    ],
+    "A28408-e20870": [
+      "corinna"
+    ],
+    "A28408-e20920": [
+      "androgynes"
+    ],
+    "A28408-e20950": [
+      "damasippus"
+    ],
+    "A28408-e20980": [
+      "androgynes"
+    ],
+    "A28408-e21050": [
+      "remarquo"
+    ],
+    "A28408-e21090": [
+      "damasippus"
+    ],
+    "A28408-e21140": [
+      "corinna"
+    ],
+    "A28408-e21320": [
+      "leonora"
+    ],
+    "A28408-e21350": [
+      "remarquo"
+    ],
+    "A28408-e21400": [
+      "androgynes"
+    ],
+    "A28408-e21570": [
+      "corinna"
+    ],
+    "A28408-e21610": [
+      "remarquo"
+    ],
+    "A28408-e21640": [
+      "androgynes"
+    ],
+    "A28408-e21790": [
+      "corinna"
+    ],
+    "A28408-e21870": [
+      "remarquo"
+    ],
+    "A28408-e21930": [
+      "androgynes"
+    ],
+    "A28408-e22020": [
+      "remarquo"
+    ],
+    "A28408-e22070": [
+      "corinna"
+    ],
+    "A28408-e22180": [
+      "androgynes"
+    ],
+    "A28408-e22220": [
+      "remarquo"
+    ],
+    "A28408-e22260": [
+      "corinna"
+    ],
+    "A28408-e22390": [
+      "remarquo"
+    ],
+    "A28408-e22460": [
+      "androgynes"
+    ],
+    "A28408-e23020": [
+      "remarquo"
+    ],
+    "A28408-e23090": [
+      "corinna"
+    ],
+    "A28408-e23170": [
+      "androgynes"
+    ],
+    "A28408-e23240": [
+      "leonora"
+    ],
+    "A28408-e23290": [
+      "remarquo"
+    ],
+    "A28408-e23330": [
+      "androgynes"
+    ],
+    "A28408-e23380": [
+      "remarquo"
+    ],
+    "A28408-e23420": [
+      "corinna"
+    ],
+    "A28408-e23450": [
+      "androgynes"
+    ],
+    "A28408-e23490": [
+      "leonora",
+      "corinna"
+    ],
+    "A28408-e23530": [
+      "corinna"
+    ],
+    "A28408-e23680": [
+      "remarquo"
+    ],
+    "A28408-e23730": [
+      "androgynes"
+    ],
+    "A28408-e23910": [
+      "le-talbo"
+    ],
+    "A28408-e23940": [
+      "teagueland-evidence-1"
+    ],
+    "A28408-e23970": [
+      "teagueland-evidence-2"
+    ],
+    "A28408-e24010": [
+      "le-talbo"
+    ],
+    "A28408-e24040": [
+      "teagueland-evidence-3"
+    ],
+    "A28408-e24080": [
+      "remarquo"
+    ],
+    "A28408-e24240": [
+      "le-talbo"
+    ],
+    "A28408-e24290": [
+      "teagueland-evidence-1"
+    ],
+    "A28408-e24330": [
+      "remarquo"
+    ],
+    "A28408-e24370": [
+      "le-talbo"
+    ],
+    "A28408-e24400": [
+      "teagueland-evidence-3"
+    ],
+    "A28408-e24440": [
+      "teagueland-evidence-2"
+    ],
+    "A28408-e24470": [
+      "le-talbo"
+    ],
+    "A28408-e24500": [
+      "teagueland-evidence-1",
+      "teagueland-evidence-2",
+      "teagueland-evidence-3"
+    ],
+    "A28408-e24550": [
+      "le-talbo"
+    ],
+    "A28408-e25060": [
+      "remarquo"
+    ],
+    "A28408-e25130": [
+      "nobbs"
+    ],
+    "A28408-e25190": [
+      "remarquo"
+    ],
+    "A28408-e25240": [
+      "nobbs"
+    ],
+    "A28408-e25290": [
+      "remarquo"
+    ],
+    "A28408-e25330": [
+      "nobbs"
+    ],
+    "A28408-e25360": [
+      "remarquo"
+    ],
+    "A28408-e25400": [
+      "nobbs"
+    ],
+    "A28408-e25440": [
+      "remarquo"
+    ],
+    "A28408-e25480": [
+      "nobbs"
+    ],
+    "A28408-e25560": [
+      "remarquo"
+    ],
+    "A28408-e25590": [
+      "nobbs"
+    ],
+    "A28408-e25620": [
+      "remarquo"
+    ],
+    "A28408-e25660": [
+      "nobbs"
+    ],
+    "A28408-e25700": [
+      "remarquo"
+    ],
+    "A28408-e25760": [
+      "nobbs"
+    ],
+    "A28408-e25810": [
+      "remarquo"
+    ],
+    "A28408-e25840": [
+      "remarquo"
+    ],
+    "A28408-e25870": [
+      "nobbs"
+    ],
+    "A28408-e25910": [
+      "remarquo"
+    ],
+    "A28408-e26280": [
+      "citizen-1"
+    ],
+    "A28408-e26330": [
+      "citizen-2"
+    ],
+    "A28408-e26370": [
+      "citizen-3"
+    ],
+    "A28408-e26430": [
+      "remarquo"
+    ],
+    "A28408-e26470": [
+      "citizen-1"
+    ],
+    "A28408-e26510": [
+      "citizen-3"
+    ],
+    "A28408-e26550": [
+      "remarquo"
+    ],
+    "A28408-e26590": [
+      "citizen-2"
+    ],
+    "A28408-e26660": [
+      "citizen-3"
+    ],
+    "A28408-e26700": [
+      "remarquo"
+    ],
+    "A28408-e26750": [
+      "citizen-3"
+    ],
+    "A28408-e26790": [
+      "countryman"
+    ],
+    "A28408-e26830": [
+      "citizen-3"
+    ],
+    "A28408-e26870": [
+      "countryman"
+    ],
+    "A28408-e26930": [
+      "remarquo"
+    ],
+    "A28408-e26960": [
+      "citizen-2"
+    ],
+    "A28408-e26990": [
+      "countryman"
+    ],
+    "A28408-e27050": [
+      "citizen-1"
+    ],
+    "A28408-e27090": [
+      "citizen-4"
+    ],
+    "A28408-e27120": [
+      "citizen-1"
+    ],
+    "A28408-e27170": [
+      "citizen-4"
+    ],
+    "A28408-e27200": [
+      "countryman"
+    ],
+    "A28408-e27230": [
+      "citizen-4"
+    ],
+    "A28408-e27270": [
+      "remarquo"
+    ],
+    "A28408-e27300": [
+      "citizen-4"
+    ],
+    "A28408-e27350": [
+      "citizen-1",
+      "citizen-2",
+      "citizen-3",
+      "remarquo"
+    ],
+    "A28408-e27380": [
+      "citizen-4"
+    ],
+    "A28408-e27430": [
+      "remarquo"
+    ],
+    "A28408-e27460": [
+      "citizen-4"
+    ],
+    "A28408-e27500": [
+      "remarquo"
+    ],
+    "A28408-e27910": [
+      "caligula"
+    ],
+    "A28408-e28110": [
+      "corinna"
+    ],
+    "A28408-e28370": [
+      "caligula"
+    ],
+    "A28408-e28510": [
+      "jebesite-1"
+    ],
+    "A28408-e28680": [
+      "jebesite-2"
+    ],
+    "A28408-e28760": [
+      "caligula"
+    ],
+    "A28408-e28820": [
+      "remarquo"
+    ],
+    "A28408-e28900": [
+      "caligula"
+    ],
+    "A28408-e28960": [
+      "corinna"
+    ],
+    "A28408-e29090": [
+      "caligula"
+    ],
+    "A28408-e29370": [
+      "androgynes"
+    ],
+    "A28408-e29410": [
+      "waiter"
+    ],
+    "A28408-e29500": [
+      "androgynes"
+    ],
+    "A28408-e29640": [
+      "demophilus"
+    ],
+    "A28408-e29780": [
+      "demophilus"
+    ],
+    "A28408-e29830": [
+      "damasippus"
+    ],
+    "A28408-e29860": [
+      "demophilus"
+    ],
+    "A28408-e29930": [
+      "chorus"
+    ],
+    "A28408-e29990": [
+      "androgynes"
+    ],
+    "A28408-e30020": [
+      "caligula"
+    ],
+    "A28408-e30080": [
+      "androgynes"
+    ],
+    "A28408-e30140": [
+      "caligula"
+    ],
+    "A28408-e30250": [
+      "androgynes"
+    ],
+    "A28408-e30300": [
+      "caligula"
+    ],
+    "A28408-e30350": [
+      "count-d-arlin"
+    ],
+    "A28408-e30380": [
+      "caligula"
+    ],
+    "A28408-e30440": [
+      "le-talbo"
+    ],
+    "A28408-e30470": [
+      "androgynes"
+    ],
+    "A28408-e30530": [
+      "caligula"
+    ],
+    "A28408-e30620": [
+      "androgynes"
+    ],
+    "A28408-e30670": [
+      "count-d-arlin"
+    ],
+    "A28408-e30710": [
+      "caligula"
+    ],
+    "A28408-e30750": [
+      "count-d-arlin"
+    ],
+    "A28408-e30790": [
+      "le-talbo"
+    ],
+    "A28408-e30840": [
+      "caligula"
+    ],
+    "A28408-e30920": [
+      "count-d-arlin"
+    ],
+    "A28408-e30950": [
+      "androgynes"
+    ],
+    "A28408-e31000": [
+      "damasippus"
+    ],
+    "A28408-e31070": [
+      "le-talbo"
+    ],
+    "A28408-e31110": [
+      "caligula"
+    ]
+  }
+}

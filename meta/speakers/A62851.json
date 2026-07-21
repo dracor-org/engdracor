@@ -1,0 +1,1463 @@
+{
+  "particDesc": [
+    {
+      "name": "Chorus",
+      "id": "chorus",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Soldier",
+      "id": "soldier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Captain of the Guards",
+      "id": "captain-of-the-guards",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Spirit",
+      "id": "spirit",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Woman 4",
+      "id": "woman-4",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 3",
+      "id": "woman-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 2",
+      "id": "woman-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 1",
+      "id": "woman-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Officer 2",
+      "id": "officer-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer 1",
+      "id": "officer-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Guard",
+      "id": "guard",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ambassador 2",
+      "id": "ambassador-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ambassador 1",
+      "id": "ambassador-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Attendant",
+      "id": "attendant",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "brutus",
+      "name": "Brutus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "locrinus",
+      "name": "Locrinus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "asaracus",
+      "name": "Asaracus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "soziman",
+      "name": "Soziman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "queen-of-syracuse",
+      "name": "Queen of Syracuse",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "amarante",
+      "name": "Amarante",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "ragusa",
+      "name": "Ragusa",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "four-women",
+      "name": "Four Women",
+      "isGroup": true,
+	  "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A62851-e1250": [
+      "brutus"
+    ],
+    "A62851-e1330": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e1460": [
+      "brutus"
+    ],
+    "A62851-e1530": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e1590": [
+      "brutus"
+    ],
+    "A62851-e1860": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e1910": [
+      "brutus"
+    ],
+    "A62851-e2270": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e2320": [
+      "brutus"
+    ],
+    "A62851-e2480": [
+      "attendant"
+    ],
+    "A62851-e2520": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e2550": [
+      "soziman"
+    ],
+    "A62851-e2680": [
+      "ambassador-1"
+    ],
+    "A62851-e2750": [
+      "ambassador-2"
+    ],
+    "A62851-e2810": [
+      "ambassador-1"
+    ],
+    "A62851-e2890": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e3060": [
+      "ambassador-1"
+    ],
+    "A62851-e3110": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e3220": [
+      "ambassador-2"
+    ],
+    "A62851-e3270": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e3370": [
+      "ambassador-1"
+    ],
+    "A62851-e3430": [
+      "soziman"
+    ],
+    "A62851-e3520": [
+      "locrinus"
+    ],
+    "A62851-e3590": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e3620": [
+      "guard"
+    ],
+    "A62851-e3670": [
+      "soziman"
+    ],
+    "A62851-e3780": [
+      "brutus"
+    ],
+    "A62851-e3860": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e3910": [
+      "locrinus"
+    ],
+    "A62851-e3940": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e3970": [
+      "locrinus"
+    ],
+    "A62851-e4040": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e4150": [
+      "soziman"
+    ],
+    "A62851-e4290": [
+      "brutus"
+    ],
+    "A62851-e4340": [
+      "asaracus"
+    ],
+    "A62851-e4380": [
+      "brutus"
+    ],
+    "A62851-e4560": [
+      "locrinus"
+    ],
+    "A62851-e4710": [
+      "brutus"
+    ],
+    "A62851-e4780": [
+      "asaracus"
+    ],
+    "A62851-e4850": [
+      "brutus"
+    ],
+    "A62851-e4910": [
+      "asaracus"
+    ],
+    "A62851-e5170": [
+      "brutus"
+    ],
+    "A62851-e5250": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e5360": [
+      "amarante"
+    ],
+    "A62851-e5460": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e5570": [
+      "amarante"
+    ],
+    "A62851-e5660": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e5740": [
+      "amarante"
+    ],
+    "A62851-e5780": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e5900": [
+      "amarante"
+    ],
+    "A62851-e5990": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e6140": [
+      "amarante"
+    ],
+    "A62851-e6190": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e6460": [
+      "soziman"
+    ],
+    "A62851-e6550": [
+      "ambassador-1"
+    ],
+    "A62851-e6600": [
+      "soziman"
+    ],
+    "A62851-e6690": [
+      "ambassador-2"
+    ],
+    "A62851-e6750": [
+      "soziman"
+    ],
+    "A62851-e6850": [
+      "ambassador-1"
+    ],
+    "A62851-e6900": [
+      "soziman"
+    ],
+    "A62851-e6990": [
+      "ambassador-2"
+    ],
+    "A62851-e7040": [
+      "soziman"
+    ],
+    "A62851-e7120": [
+      "ambassador-1"
+    ],
+    "A62851-e7170": [
+      "soziman"
+    ],
+    "A62851-e7240": [
+      "ambassador-1",
+      "ambassador-2"
+    ],
+    "A62851-e7280": [
+      "soziman"
+    ],
+    "A62851-e7450": [
+      "asaracus"
+    ],
+    "A62851-e7620": [
+      "amarante"
+    ],
+    "A62851-e7650": [
+      "asaracus"
+    ],
+    "A62851-e7710": [
+      "amarante"
+    ],
+    "A62851-e7740": [
+      "asaracus"
+    ],
+    "A62851-e7860": [
+      "amarante"
+    ],
+    "A62851-e7950": [
+      "asaracus"
+    ],
+    "A62851-e8070": [
+      "amarante"
+    ],
+    "A62851-e8100": [
+      "asaracus"
+    ],
+    "A62851-e8160": [
+      "amarante"
+    ],
+    "A62851-e8200": [
+      "asaracus"
+    ],
+    "A62851-e8250": [
+      "amarante"
+    ],
+    "A62851-e8340": [
+      "soziman"
+    ],
+    "A62851-e8380": [
+      "brutus"
+    ],
+    "A62851-e8430": [
+      "asaracus"
+    ],
+    "A62851-e8480": [
+      "brutus"
+    ],
+    "A62851-e8580": [
+      "asaracus"
+    ],
+    "A62851-e8730": [
+      "brutus"
+    ],
+    "A62851-e8790": [
+      "asaracus"
+    ],
+    "A62851-e8970": [
+      "brutus"
+    ],
+    "A62851-e9100": [
+      "asaracus"
+    ],
+    "A62851-e9130": [
+      "brutus"
+    ],
+    "A62851-e9190": [
+      "asaracus"
+    ],
+    "A62851-e9230": [
+      "brutus"
+    ],
+    "A62851-e9300": [
+      "asaracus"
+    ],
+    "A62851-e9330": [
+      "brutus"
+    ],
+    "A62851-e9650": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e9930": [
+      "brutus"
+    ],
+    "A62851-e10020": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e10100": [
+      "brutus"
+    ],
+    "A62851-e10170": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e10240": [
+      "brutus"
+    ],
+    "A62851-e10310": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e10350": [
+      "brutus"
+    ],
+    "A62851-e10400": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e10460": [
+      "brutus"
+    ],
+    "A62851-e10520": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e10550": [
+      "brutus"
+    ],
+    "A62851-e10670": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e10740": [
+      "brutus"
+    ],
+    "A62851-e10860": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e10890": [
+      "brutus"
+    ],
+    "A62851-e10930": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e10970": [
+      "brutus"
+    ],
+    "A62851-e11120": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e11200": [
+      "brutus"
+    ],
+    "A62851-e11390": [
+      "soziman"
+    ],
+    "A62851-e11510": [
+      "ragusa"
+    ],
+    "A62851-e11580": [
+      "soziman"
+    ],
+    "A62851-e11620": [
+      "ragusa"
+    ],
+    "A62851-e11700": [
+      "soziman"
+    ],
+    "A62851-e11730": [
+      "ragusa"
+    ],
+    "A62851-e11820": [
+      "soziman"
+    ],
+    "A62851-e11850": [
+      "ragusa"
+    ],
+    "A62851-e11970": [
+      "soziman"
+    ],
+    "A62851-e12000": [
+      "ragusa"
+    ],
+    "A62851-e12090": [
+      "soziman"
+    ],
+    "A62851-e12150": [
+      "ragusa"
+    ],
+    "A62851-e12270": [
+      "soziman"
+    ],
+    "A62851-e12480": [
+      "officer-1"
+    ],
+    "A62851-e12530": [
+      "asaracus"
+    ],
+    "A62851-e12590": [
+      "officer-2"
+    ],
+    "A62851-e12630": [
+      "asaracus"
+    ],
+    "A62851-e12700": [
+      "officer-1"
+    ],
+    "A62851-e12750": [
+      "asaracus"
+    ],
+    "A62851-e12880": [
+      "soziman"
+    ],
+    "A62851-e12910": [
+      "asaracus"
+    ],
+    "A62851-e13020": [
+      "soziman"
+    ],
+    "A62851-e13130": [
+      "asaracus"
+    ],
+    "A62851-e13170": [
+      "soziman"
+    ],
+    "A62851-e13230": [
+      "asaracus"
+    ],
+    "A62851-e13260": [
+      "soziman"
+    ],
+    "A62851-e13340": [
+      "asaracus"
+    ],
+    "A62851-e13400": [
+      "soziman"
+    ],
+    "A62851-e13480": [
+      "asaracus"
+    ],
+    "A62851-e13610": [
+      "soziman"
+    ],
+    "A62851-e13690": [
+      "asaracus"
+    ],
+    "A62851-e13790": [
+      "soziman"
+    ],
+    "A62851-e13930": [
+      "ragusa"
+    ],
+    "A62851-e14140": [
+      "woman-1",
+      "woman-2",
+      "woman-3",
+      "woman-4"
+    ],
+    "A62851-e14170": [
+      "ragusa"
+    ],
+    "A62851-e14210": [
+      "woman-1"
+    ],
+    "A62851-e14250": [
+      "woman-2"
+    ],
+    "A62851-e14290": [
+      "woman-3"
+    ],
+    "A62851-e14330": [
+      "woman-4"
+    ],
+    "A62851-e14400": [
+      "ragusa"
+    ],
+    "A62851-e14440": [
+      "woman-1"
+    ],
+    "A62851-e14540": [
+      "ragusa"
+    ],
+    "A62851-e14660": [
+      "woman-2"
+    ],
+    "A62851-e14750": [
+      "ragusa"
+    ],
+    "A62851-e14850": [
+      "woman-2"
+    ],
+    "A62851-e14900": [
+      "ragusa"
+    ],
+    "A62851-e15100": [
+      "woman-3"
+    ],
+    "A62851-e15140": [
+      "ragusa"
+    ],
+    "A62851-e15240": [
+      "woman-4"
+    ],
+    "A62851-e15280": [
+      "ragusa"
+    ],
+    "A62851-e15340": [
+      "woman-4"
+    ],
+    "A62851-e15400": [
+      "ragusa"
+    ],
+    "A62851-e15470": [
+      "brutus"
+    ],
+    "A62851-e15510": [
+      "asaracus"
+    ],
+    "A62851-e15540": [
+      "brutus"
+    ],
+    "A62851-e15590": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e15630": [
+      "soziman"
+    ],
+    "A62851-e15730": [
+      "brutus"
+    ],
+    "A62851-e15780": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e15820": [
+      "chorus"
+    ],
+    "A62851-e15850": [
+      "brutus"
+    ],
+    "A62851-e15890": [
+      "soziman"
+    ],
+    "A62851-e15960": [
+      "asaracus"
+    ],
+    "A62851-e16000": [
+      "brutus"
+    ],
+    "A62851-e16070": [
+      "ragusa"
+    ],
+    "A62851-e16410": [
+      "woman-1"
+    ],
+    "A62851-e16450": [
+      "ragusa"
+    ],
+    "A62851-e16480": [
+      "woman-2"
+    ],
+    "A62851-e16570": [
+      "woman-3"
+    ],
+    "A62851-e16620": [
+      "woman-4"
+    ],
+    "A62851-e16700": [
+      "ragusa"
+    ],
+    "A62851-e16770": [
+      "woman-1",
+      "woman-2",
+      "woman-3",
+      "woman-4"
+    ],
+    "A62851-e16800": [
+      "ragusa"
+    ],
+    "A62851-e16920": [
+      "woman-1",
+      "woman-2",
+      "woman-3",
+      "woman-4"
+    ],
+    "A62851-e17020": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e17070": [
+      "amarante"
+    ],
+    "A62851-e17110": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e17150": [
+      "amarante"
+    ],
+    "A62851-e17210": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e17350": [
+      "amarante"
+    ],
+    "A62851-e17390": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e17570": [
+      "amarante"
+    ],
+    "A62851-e17620": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e17740": [
+      "brutus"
+    ],
+    "A62851-e17780": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e17820": [
+      "brutus"
+    ],
+    "A62851-e17870": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e17940": [
+      "brutus"
+    ],
+    "A62851-e18000": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e18050": [
+      "brutus"
+    ],
+    "A62851-e18120": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e18210": [
+      "brutus"
+    ],
+    "A62851-e18280": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e18370": [
+      "brutus"
+    ],
+    "A62851-e18440": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e18520": [
+      "brutus"
+    ],
+    "A62851-e18610": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e18690": [
+      "brutus"
+    ],
+    "A62851-e18730": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e18790": [
+      "brutus"
+    ],
+    "A62851-e18920": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e18960": [
+      "brutus"
+    ],
+    "A62851-e19020": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e19180": [
+      "brutus"
+    ],
+    "A62851-e19300": [
+      "soziman"
+    ],
+    "A62851-e19500": [
+      "ragusa"
+    ],
+    "A62851-e19610": [
+      "soziman"
+    ],
+    "A62851-e19640": [
+      "ragusa"
+    ],
+    "A62851-e19700": [
+      "soziman"
+    ],
+    "A62851-e19760": [
+      "ragusa"
+    ],
+    "A62851-e19800": [
+      "soziman"
+    ],
+    "A62851-e19870": [
+      "ragusa"
+    ],
+    "A62851-e19930": [
+      "soziman"
+    ],
+    "A62851-e19990": [
+      "ragusa"
+    ],
+    "A62851-e20090": [
+      "soziman"
+    ],
+    "A62851-e20180": [
+      "ragusa"
+    ],
+    "A62851-e20230": [
+      "soziman"
+    ],
+    "A62851-e20280": [
+      "ragusa"
+    ],
+    "A62851-e20380": [
+      "soziman"
+    ],
+    "A62851-e20420": [
+      "ragusa"
+    ],
+    "A62851-e20520": [
+      "soziman"
+    ],
+    "A62851-e20640": [
+      "asaracus"
+    ],
+    "A62851-e20750": [
+      "brutus"
+    ],
+    "A62851-e20780": [
+      "asaracus"
+    ],
+    "A62851-e20810": [
+      "brutus"
+    ],
+    "A62851-e20850": [
+      "asaracus"
+    ],
+    "A62851-e20900": [
+      "brutus"
+    ],
+    "A62851-e20940": [
+      "asaracus"
+    ],
+    "A62851-e21000": [
+      "brutus"
+    ],
+    "A62851-e21030": [
+      "asaracus"
+    ],
+    "A62851-e21090": [
+      "brutus"
+    ],
+    "A62851-e21130": [
+      "asaracus"
+    ],
+    "A62851-e21190": [
+      "brutus"
+    ],
+    "A62851-e21220": [
+      "asaracus"
+    ],
+    "A62851-e21260": [
+      "brutus"
+    ],
+    "A62851-e21350": [
+      "asaracus"
+    ],
+    "A62851-e21450": [
+      "brutus"
+    ],
+    "A62851-e21600": [
+      "asaracus"
+    ],
+    "A62851-e21730": [
+      "locrinus"
+    ],
+    "A62851-e21790": [
+      "asaracus"
+    ],
+    "A62851-e21840": [
+      "locrinus"
+    ],
+    "A62851-e21970": [
+      "brutus"
+    ],
+    "A62851-e22060": [
+      "asaracus"
+    ],
+    "A62851-e22130": [
+      "brutus"
+    ],
+    "A62851-e22230": [
+      "asaracus"
+    ],
+    "A62851-e22290": [
+      "brutus"
+    ],
+    "A62851-e22430": [
+      "asaracus"
+    ],
+    "A62851-e22490": [
+      "brutus"
+    ],
+    "A62851-e22550": [
+      "asaracus"
+    ],
+    "A62851-e22600": [
+      "brutus"
+    ],
+    "A62851-e22720": [
+      "asaracus"
+    ],
+    "A62851-e22770": [
+      "brutus"
+    ],
+    "A62851-e22820": [
+      "asaracus"
+    ],
+    "A62851-e22880": [
+      "brutus"
+    ],
+    "A62851-e22910": [
+      "asaracus"
+    ],
+    "A62851-e23020": [
+      "brutus"
+    ],
+    "A62851-e23130": [
+      "asaracus"
+    ],
+    "A62851-e23220": [
+      "brutus"
+    ],
+    "A62851-e23270": [
+      "asaracus"
+    ],
+    "A62851-e23310": [
+      "brutus"
+    ],
+    "A62851-e23360": [
+      "asaracus"
+    ],
+    "A62851-e23460": [
+      "brutus"
+    ],
+    "A62851-e23660": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e23720": [
+      "brutus"
+    ],
+    "A62851-e23780": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e23850": [
+      "brutus"
+    ],
+    "A62851-e23940": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e23970": [
+      "brutus"
+    ],
+    "A62851-e24000": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e24040": [
+      "brutus"
+    ],
+    "A62851-e24090": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e24150": [
+      "brutus"
+    ],
+    "A62851-e24210": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e24270": [
+      "brutus"
+    ],
+    "A62851-e24380": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e24420": [
+      "brutus"
+    ],
+    "A62851-e24550": [
+      "soziman"
+    ],
+    "A62851-e24600": [
+      "ambassador-1"
+    ],
+    "A62851-e24690": [
+      "soziman"
+    ],
+    "A62851-e24720": [
+      "ambassador-2"
+    ],
+    "A62851-e24800": [
+      "soziman"
+    ],
+    "A62851-e24930": [
+      "ambassador-1"
+    ],
+    "A62851-e24970": [
+      "soziman"
+    ],
+    "A62851-e25000": [
+      "ambassador-1"
+    ],
+    "A62851-e25070": [
+      "soziman"
+    ],
+    "A62851-e25100": [
+      "ambassador-2"
+    ],
+    "A62851-e25140": [
+      "soziman"
+    ],
+    "A62851-e25170": [
+      "ambassador-1"
+    ],
+    "A62851-e25210": [
+      "soziman"
+    ],
+    "A62851-e25280": [
+      "ambassador-1",
+      "ambassador-2"
+    ],
+    "A62851-e25320": [
+      "soziman"
+    ],
+    "A62851-e25470": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e25550": [
+      "amarante"
+    ],
+    "A62851-e25580": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e25660": [
+      "amarante"
+    ],
+    "A62851-e25720": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e25800": [
+      "amarante"
+    ],
+    "A62851-e25830": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e25990": [
+      "amarante"
+    ],
+    "A62851-e26050": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e26130": [
+      "amarante"
+    ],
+    "A62851-e26190": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e26280": [
+      "amarante"
+    ],
+    "A62851-e26330": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e26390": [
+      "amarante"
+    ],
+    "A62851-e26530": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e26630": [
+      "ragusa"
+    ],
+    "A62851-e26700": [
+      "woman-1"
+    ],
+    "A62851-e26750": [
+      "woman-2"
+    ],
+    "A62851-e26800": [
+      "ragusa"
+    ],
+    "A62851-e26840": [
+      "woman-3"
+    ],
+    "A62851-e26900": [
+      "woman-4"
+    ],
+    "A62851-e26970": [
+      "woman-1"
+    ],
+    "A62851-e27020": [
+      "ragusa"
+    ],
+    "A62851-e27130": [
+      "woman-2"
+    ],
+    "A62851-e27210": [
+      "ragusa"
+    ],
+    "A62851-e27320": [
+      "woman-3"
+    ],
+    "A62851-e27360": [
+      "woman-4"
+    ],
+    "A62851-e27440": [
+      "woman-1"
+    ],
+    "A62851-e27520": [
+      "woman-2"
+    ],
+    "A62851-e27630": [
+      "woman-3"
+    ],
+    "A62851-e27730": [
+      "ragusa"
+    ],
+    "A62851-e27840": [
+      "woman-1",
+      "woman-2",
+      "woman-3",
+      "woman-4"
+    ],
+    "A62851-e27880": [
+      "ragusa"
+    ],
+    "A62851-e27950": [
+      "woman-1",
+      "woman-2",
+      "woman-3",
+      "woman-4"
+    ],
+    "A62851-e28010": [
+      "soziman"
+    ],
+    "A62851-e28090": [
+      "ragusa"
+    ],
+    "A62851-e28160": [
+      "soziman"
+    ],
+    "A62851-e28200": [
+      "ragusa"
+    ],
+    "A62851-e28380": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e28510": [
+      "ragusa"
+    ],
+    "A62851-e28650": [
+      "amarante"
+    ],
+    "A62851-e28680": [
+      "ragusa"
+    ],
+    "A62851-e28750": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e28820": [
+      "ragusa"
+    ],
+    "A62851-e29050": [
+      "spirit"
+    ],
+    "A62851-e29090": [
+      "ragusa"
+    ],
+    "A62851-e29140": [
+      "spirit"
+    ],
+    "A62851-e29170": [
+      "ragusa"
+    ],
+    "A62851-e29210": [
+      "spirit"
+    ],
+    "A62851-e29250": [
+      "ragusa"
+    ],
+    "A62851-e29280": [
+      "spirit"
+    ],
+    "A62851-e29340": [
+      "ragusa"
+    ],
+    "A62851-e29370": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e29400": [
+      "ragusa"
+    ],
+    "A62851-e29430": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e29520": [
+      "amarante"
+    ],
+    "A62851-e29580": [
+      "brutus"
+    ],
+    "A62851-e29660": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e29690": [
+      "brutus"
+    ],
+    "A62851-e29790": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e29820": [
+      "brutus"
+    ],
+    "A62851-e29850": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e29880": [
+      "brutus"
+    ],
+    "A62851-e29910": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e29940": [
+      "brutus"
+    ],
+    "A62851-e30000": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e30040": [
+      "brutus"
+    ],
+    "A62851-e30100": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e30130": [
+      "brutus"
+    ],
+    "A62851-e30230": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e30280": [
+      "brutus"
+    ],
+    "A62851-e30340": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e30380": [
+      "brutus"
+    ],
+    "A62851-e30480": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e30550": [
+      "brutus"
+    ],
+    "A62851-e30600": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e30660": [
+      "brutus"
+    ],
+    "A62851-e30700": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e30780": [
+      "locrinus"
+    ],
+    "A62851-e30870": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e30910": [
+      "locrinus"
+    ],
+    "A62851-e30960": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e31000": [
+      "locrinus"
+    ],
+    "A62851-e31110": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e31300": [
+      "brutus"
+    ],
+    "A62851-e31370": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e31460": [
+      "amarante"
+    ],
+    "A62851-e31510": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e31580": [
+      "brutus"
+    ],
+    "A62851-e31650": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e31690": [
+      "brutus"
+    ],
+    "A62851-e31730": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e31790": [
+      "brutus"
+    ],
+    "A62851-e31910": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32000": [
+      "brutus"
+    ],
+    "A62851-e32090": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32130": [
+      "brutus"
+    ],
+    "A62851-e32240": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32280": [
+      "brutus"
+    ],
+    "A62851-e32320": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32350": [
+      "brutus"
+    ],
+    "A62851-e32400": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32450": [
+      "brutus"
+    ],
+    "A62851-e32520": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32620": [
+      "brutus"
+    ],
+    "A62851-e32650": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32680": [
+      "brutus"
+    ],
+    "A62851-e32740": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32770": [
+      "brutus"
+    ],
+    "A62851-e32800": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32830": [
+      "brutus"
+    ],
+    "A62851-e32860": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32890": [
+      "brutus"
+    ],
+    "A62851-e32930": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e32970": [
+      "amarante"
+    ],
+    "A62851-e33000": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e33070": [
+      "soziman"
+    ],
+    "A62851-e33210": [
+      "captain-of-the-guards"
+    ],
+    "A62851-e33270": [
+      "soziman"
+    ],
+    "A62851-e33470": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e33640": [
+      "amarante"
+    ],
+    "A62851-e33680": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e33750": [
+      "amarante"
+    ],
+    "A62851-e34090": [
+      "soldier"
+    ],
+    "A62851-e34160": [
+      "amarante"
+    ],
+    "A62851-e34200": [
+      "queen-of-syracuse"
+    ],
+    "A62851-e34280": [
+      "amarante"
+    ],
+    "A62851-e34380": [
+      "ambassador-1"
+    ],
+    "A62851-e34420": [
+      "ambassador-2"
+    ],
+    "A62851-e34480": [
+      "ambassador-1"
+    ],
+    "A62851-e34560": [
+      "soziman"
+    ],
+    "A62851-e34690": [
+      "ambassador-2"
+    ],
+    "A62851-e34730": [
+      "ambassador-1"
+    ]
+  }
+}

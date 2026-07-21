@@ -72,7 +72,60 @@
         </listEvent>
       </sourceDesc>
     </fileDesc>
-    <profileDesc/>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <personGrp xml:id="eng000751-chorus" sex="UNKNOWN">
+            <name>Chorus</name>
+          </personGrp>
+          <person xml:id="eng000751-montano" sex="MALE">
+            <persName>Montano</persName>
+          </person>
+          <person xml:id="eng000751-sylvio" sex="MALE">
+            <persName>Sylvio</persName>
+          </person>
+          <person xml:id="eng000751-mirtillo" sex="MALE">
+            <persName>Mirtillo</persName>
+          </person>
+          <person xml:id="eng000751-titiro" sex="MALE">
+            <persName>Titiro</persName>
+          </person>
+          <person xml:id="eng000751-sylvano" sex="MALE">
+            <persName>Sylvano</persName>
+          </person>
+          <person xml:id="eng000751-ergasto" sex="MALE">
+            <persName>Ergasto</persName>
+          </person>
+          <person xml:id="eng000751-carino" sex="MALE">
+            <persName>Carino</persName>
+          </person>
+          <person xml:id="eng000751-dameta" sex="MALE">
+            <persName>Dameta</persName>
+          </person>
+          <person xml:id="eng000751-lynco" sex="MALE">
+            <persName>Lynco</persName>
+          </person>
+          <person xml:id="eng000751-dorco" sex="MALE">
+            <persName>Dorco</persName>
+          </person>
+          <person xml:id="eng000751-amaryllis" sex="FEMALE">
+            <persName>Amaryllis</persName>
+          </person>
+          <person xml:id="eng000751-corisca" sex="FEMALE">
+            <persName>Corisca</persName>
+          </person>
+          <person xml:id="eng000751-dorinda" sex="FEMALE">
+            <persName>Dorinda</persName>
+          </person>
+          <person xml:id="eng000751-gerana" sex="FEMALE">
+            <persName>Gerana</persName>
+          </person>
+          <person xml:id="eng000751-celia" sex="FEMALE">
+            <persName>Celia</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
   </teiHeader>
   <text>
     <front>
@@ -179,7 +232,7 @@
         <head>ACT the First. </head>
         <stage xml:id="eng000751-e1430">
           <hi>After a sound of Horns, and cry of Hunts-men, Enter </hi>Silvio and Lynco. </stage>
-        <sp xml:id="eng000751-e1460">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e1460">
           <speaker>Silvio. </speaker>
           <lg>
             <l>THere's Musick in this sound, Life, Soul, and Charm. </l>
@@ -191,7 +244,7 @@
             <l>This Savage Bore must Dye. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e1560">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e1560">
           <speaker>Lynco. </speaker>
           <lg>
             <l>" Oh Silvio, </l>
@@ -199,7 +252,7 @@
             <l>" I'de say to Beasts, and nobler Game pursue. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e1630">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e1630">
           <speaker>Silv. </speaker>
           <lg>
             <l>A Game more noble? what more Sacred task, </l>
@@ -208,7 +261,7 @@
             <l>And the Wo●… Terrour makes his dear delight? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e1700">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e1700">
           <speaker>Lync. </speaker>
           <lg>
             <l>This Savage Chace leave t'an Ignobler hand: </l>
@@ -228,14 +281,14 @@
             <l>" And thou (unworthy) not to value her? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e1890">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e1890">
           <speaker>Silv. </speaker>
           <lg>
             <l>Love, the dull Fetter of all slavish souls; </l>
             <l>No such weak power my free-born mind controuls. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e1940">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e1940">
           <speaker>Lync. </speaker>
           <lg>
             <l>" Oh Silvio, hadst thou tryed Love once, &amp; found </l>
@@ -246,7 +299,7 @@
             <l>" And follow Love. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e2040">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e2040">
           <speaker>Silv. </speaker>
           <lg>
             <l>Love, an unmanly Joy! </l>
@@ -254,7 +307,7 @@
             <l>" Who find a Soul in 'em, for I find none. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e2100">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e2100">
           <speaker>" Lync. </speaker>
           <lg>
             <l>No Soul in Love, the Worlds great Soul! Dull Youth </l>
@@ -268,7 +321,7 @@
             <l>" Of their Youths Pride, and Ages Impotence. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e2220">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e2220">
           <speaker>Silv. </speaker>
           <lg>
             <l>Must then my Youth for glorious actions lent, </l>
@@ -277,7 +330,7 @@
             <l>" Those strange Elysiums by Mens Feavours bred? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e2300">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e2300">
           <speaker>Lync. </speaker>
           <lg>
             <l>" Tell me, if in this pleasing month of May, </l>
@@ -304,7 +357,7 @@
             <l>" Is either Lover, or the work of Love. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e2570">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e2570">
           <speaker>Sylv. </speaker>
           <lg>
             <l>How canst thou with such trecherous Arts perswade: </l>
@@ -315,7 +368,7 @@
             <l>" With Love? Know'st who I am, or who thou art? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e2660">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e2660">
           <speaker>Lynco. </speaker>
           <lg>
             <l>" Thou art a Man, or should'st be one, and I </l>
@@ -325,7 +378,7 @@
             <l>" Thou turn not Beast. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e2740">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e2740">
           <speaker>Silv. </speaker>
           <lg>
             <l>" That Monster-taming King, </l>
@@ -335,7 +388,7 @@
             <l>And his great deeds by Glorys Standart framed. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e2820">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e2820">
           <speaker>Lync. </speaker>
           <lg>
             <l>See foolish Youth, how weak thy Reasons prove; </l>
@@ -358,19 +411,19 @@
             <l>Thy Wife already. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e3060">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e3060">
           <speaker>Silv. </speaker>
           <p>Heav'n defend me! </p>
         </sp>
-        <sp xml:id="eng000751-e3090">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e3090">
           <speaker>Lync. </speaker>
           <p>How? </p>
         </sp>
-        <sp xml:id="eng000751-e3120">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e3120">
           <speaker>Silv. </speaker>
           <p>My Wife? </p>
         </sp>
-        <sp xml:id="eng000751-e3150">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e3150">
           <speaker>Lync. </speaker>
           <lg>
             <l>Can Silvio forget his Vow? </l>
@@ -378,14 +431,14 @@
             <l>" Take heed, bold Youth, how you dare sport with Heav'n. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e3220">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e3220">
           <speaker>Silv. </speaker>
           <lg>
             <l>" Mans freedom is Heav'ns gift, which does not take </l>
             <l>" Us at our words, when a forc'd Vow we make. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e3270">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e3270">
           <speaker>Lync. </speaker>
           <lg>
             <l>" I; but (unless our Hopes and Judgments fail) </l>
@@ -393,7 +446,7 @@
             <l>" A thousand blessings on't. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e3330">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e3330">
           <speaker>Silv. </speaker>
           <lg>
             <l>" 'Tis like that there </l>
@@ -403,7 +456,7 @@
           </lg>
           <stage xml:id="eng000751-e3410">Exit. </stage>
         </sp>
-        <sp xml:id="eng000751-e3420">
+        <sp who="#eng000751-lynco" xml:id="eng000751-e3420">
           <speaker>Lynco. </speaker>
           <lg>
             <l>" Thou sprung from Heav'n, harsh Boy? nor of Divine </l>
@@ -416,14 +469,14 @@
         <div n="2" type="scene" xml:id="eng000751-e3520">
           <head>SCENE the Second. </head>
           <stage xml:id="eng000751-e3540">Enter Mirtillo and Ergasto. </stage>
-          <sp xml:id="eng000751-e3570">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e3570">
             <speaker>Mirt. </speaker>
             <lg>
               <l>" Fair Amaryllis, if by speaking, I </l>
               <l>" Offend thee, I will hold my peace, and dye. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e3630">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e3630">
             <speaker>Erg. </speaker>
             <lg>
               <l>" Mirtillo, Love is a great pain at best; </l>
@@ -431,7 +484,7 @@
               <l>Why do you inward burn, and find no tongue? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e3700">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e3700">
             <speaker>
               <pb n="5" xml:id="eng000751-007-b"/>Mirt. </speaker>
             <lg>
@@ -447,11 +500,11 @@
               <l>But Amaryllis Weds; say, does she not? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e3840">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e3840">
             <speaker>Erg. </speaker>
             <p>'Tis so resolved. </p>
           </sp>
-          <sp xml:id="eng000751-e3870">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e3870">
             <speaker>Mirt. </speaker>
             <lg>
               <l>Oh my unhappy Lot! </l>
@@ -471,14 +524,14 @@
               <l>" Though 'tis too late, I am resolv'd I'le speak. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4060">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e4060">
             <speaker>Erg. </speaker>
             <lg>
               <l>" Woe be to her, should her stern Father hear. </l>
               <l>" That to stoln prayers she ever lent an Ear. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4110">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e4110">
             <speaker>Mirt. </speaker>
             <lg>
               <l>Alas my Looks and Language shall be far, </l>
@@ -496,25 +549,25 @@
               <l>" So ripe for Harvest in his Spring of years. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4280">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e4280">
             <speaker>Erg. </speaker>
             <lg>
               <l>" Indeed you've little cause to envy him; </l>
               <l>Rather to pitty him. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4330">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e4330">
             <speaker>Mirt. </speaker>
             <lg>
               <l>To pitty him! </l>
               <l>Can pitty such a happy State befit? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4380">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e4380">
             <speaker>Ergast. </speaker>
             <p>" Because he Loves her not. </p>
           </sp>
-          <sp xml:id="eng000751-e4410">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e4410">
             <speaker>Mirt. </speaker>
             <lg>
               <l>" And has he Wit? </l>
@@ -527,7 +580,7 @@
               <l>" To one that knows it not, and scorns it so? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4520">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e4520">
             <speaker>Erg. </speaker>
             <lg>
               <l>Because from Silvios Marriage, Heav'n of old, </l>
@@ -538,7 +591,7 @@
               <l>Is yearly paid by this unhappy Land. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4640">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e4640">
             <speaker>Mirt. </speaker>
             <lg>
               <l>" But what strange Crime deserved so sharp a Doom? </l>
@@ -546,7 +599,7 @@
               <l>" In a Celestial mind? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4700">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e4700">
             <speaker>Erg. </speaker>
             <lg>
               <l>The cause of all </l>
@@ -564,11 +617,11 @@
               <l>Wash off her stain, and for her sins atone. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e4880">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e4880">
             <speaker>Mirt. </speaker>
             <p>But how did you at last the Goddess rage appease? </p>
           </sp>
-          <sp xml:id="eng000751-e4910">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e4910">
             <speaker>Erg. </speaker>
             <lg>
               <l>Our Cure's almost as ill, as our Disease. </l>
@@ -582,14 +635,14 @@
               <l>" That swallow'd thousands, one death should asswage. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e5040">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e5040">
             <speaker>Mirt. </speaker>
             <lg>
               <l>And was this Barbrous Tribute by her will, </l>
               <l>Doom'd to be paid for ever? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e5090">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e5090">
             <speaker>Erg. </speaker>
             <lg>
               <l>" The Oracle </l>
@@ -612,7 +665,7 @@
               <l>" And with this Marriage, one day will ensue. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e5370">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e5370">
             <speaker>Mirt. </speaker>
             <lg>
               <l>" And all this poor Mirtillo to undo. </l>
@@ -622,7 +675,7 @@
               <l>" Unless Fate too contrives my over-throw. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e5460">
+          <sp who="#eng000751-ergasto" xml:id="eng000751-e5460">
             <speaker>Erg. </speaker>
             <lg>
               <l>" Alas Mirtillo, grieving does no good; </l>
@@ -631,7 +684,7 @@
               <l>" This Cruel One shall hear thee: Courage Friend. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e5540">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e5540">
             <speaker>Mirt. </speaker>
             <lg>
               <l>That word has shot life through me; do but this, </l>
@@ -646,7 +699,7 @@
           <pb n="8" xml:id="eng000751-009-a"/>
           <head>SCENE the Third. </head>
           <stage xml:id="eng000751-e5640">Enter Corisca and Celia. </stage>
-          <sp xml:id="eng000751-e5670">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e5670">
             <speaker>Corisca. </speaker>
             <lg>
               <l>Yonder he goes; oh that bewitching Face; </l>
@@ -662,7 +715,7 @@
               <l>Who kill by Cruelty, by fondness dye. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e5820">
+          <sp who="#eng000751-celia" xml:id="eng000751-e5820">
             <speaker>Celia. </speaker>
             <lg>
               <l>Talk not of dying, Death's an end of pain </l>
@@ -672,7 +725,7 @@
               <l>Let those that starve in Love, complain they dye. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e5900">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e5900">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Yes Girl, had I no other Love but this, </l>
@@ -695,7 +748,7 @@
               <l>A Creature Charming, excellently fair. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e6110">
+          <sp who="#eng000751-celia" xml:id="eng000751-e6110">
             <speaker>
               <pb n="9" xml:id="eng000751-009-b"/>Celia. </speaker>
             <lg>
@@ -705,7 +758,7 @@
               <l>" A fourth for somewhat else. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e6180">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e6180">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Well Celia, when thy opening Beauty blows, </l>
@@ -724,7 +777,7 @@
               <l>" (Ay me) Mirtillo's crept too near it now. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e6380">
+          <sp who="#eng000751-celia" xml:id="eng000751-e6380">
             <speaker>Celia. </speaker>
             <lg>
               <l>For shame, leave sighing Sister, have more Pride▪ </l>
@@ -733,7 +786,7 @@
               <l>In half your plenty, none but Fools would fast. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e6450">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e6450">
             <speaker>Corisc. </speaker>
             <lg>
               <l>I never sigh'd, but to deceive before, </l>
@@ -751,7 +804,7 @@
             <stage xml:id="eng000751-e6600">Spying Sylvano Enter, she runs away. </stage>
           </sp>
           <stage xml:id="eng000751-e6620">Enter Sylvano and Dorco. </stage>
-          <sp xml:id="eng000751-e6650">
+          <sp who="#eng000751-sylvano" xml:id="eng000751-e6650">
             <speaker>Sylva. </speaker>
             <lg>
               <l>Corisca, stay. </l>
@@ -785,11 +838,11 @@
               <l>" His Flames are hot as Hell, Bonds strong as Death. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e6990">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e6990">
             <speaker>Dor. </speaker>
             <p>Why all this storm? leave her, and rage no more. </p>
           </sp>
-          <sp xml:id="eng000751-e7020">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e7020">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Preach silence to the Winds; I'le ne're give o're. </l>
@@ -815,22 +868,22 @@
               <l>" That 'tis at once a Penance and a Sin. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e7250">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e7250">
             <speaker>Dorco. </speaker>
             <lg>
               <l>But for Coriscas Crimes, why must you strike </l>
               <l>At the whole Sex? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e7310">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e7310">
             <speaker>Sylv. </speaker>
             <p>Damne 'em, they're all alike. </p>
           </sp>
-          <sp xml:id="eng000751-e7340">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e7340">
             <speaker>Dor. </speaker>
             <p>But why such rayling? </p>
           </sp>
-          <sp xml:id="eng000751-e7370">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e7370">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Rayling do you call't! </l>
@@ -845,14 +898,14 @@
               <l>" Seem, or Seem not; walk, sit, or stand, they lye. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e7500">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e7500">
             <speaker>Dor. </speaker>
             <lg>
               <l>If Women are such Monsters as you make, </l>
               <l>How have they Charms, mens hearts how can they take? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e7550">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e7550">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Their Snare's so plain, you'd wonder we are caught: </l>
@@ -878,7 +931,7 @@
               <l>" Which is the flattery of thy abject spirit. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e7780">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e7780">
             <speaker>Dor. </speaker>
             <lg>
               <l>Why then so humbly is that Sex adored? </l>
@@ -887,7 +940,7 @@
               <l>Pursue, and tire, and seize her as your prey. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e7850">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e7850">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Thou hast inspir'd my so ul, and I'le obey. </l>
@@ -909,7 +962,7 @@
       <div n="2" type="act" xml:id="eng000751-e8010">
         <head>ACT the Second. </head>
         <stage xml:id="eng000751-e8030">Enter Montano and Titiro. </stage>
-        <sp xml:id="eng000751-e8060">
+        <sp who="#eng000751-titiro" xml:id="eng000751-e8060">
           <speaker>Titiro. </speaker>
           <lg>
             <l>HOw is it possible my Daughter shou'd </l>
@@ -923,20 +976,20 @@
             <l>Beauty, not Hounds o're Sylvios heart should reign. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e8190">
+        <sp who="#eng000751-montano" xml:id="eng000751-e8190">
           <speaker>
             <pb n="13" xml:id="eng000751-011-b"/>Mont. </speaker>
           <p>" He's young; and has time yet to feel Loves Dart. </p>
         </sp>
-        <sp xml:id="eng000751-e8220">
+        <sp who="#eng000751-titiro" xml:id="eng000751-e8220">
           <speaker>Tit. </speaker>
           <p>He Love! The Woods have took up all his heart. </p>
         </sp>
-        <sp xml:id="eng000751-e8250">
+        <sp who="#eng000751-montano" xml:id="eng000751-e8250">
           <speaker>Mont. </speaker>
           <p>Not so, but Love may still new pleasures bring. </p>
         </sp>
-        <sp xml:id="eng000751-e8280">
+        <sp who="#eng000751-titiro" xml:id="eng000751-e8280">
           <speaker>Tit. </speaker>
           <lg>
             <l>" But Love's a Blossom that adorns our Spring. </l>
@@ -944,7 +997,7 @@
             <l>I have but little hope t'expect from Time. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e8340">
+        <sp who="#eng000751-montano" xml:id="eng000751-e8340">
           <speaker>Mont. </speaker>
           <lg>
             <l>" What if this Marriage be not writ in Heav'n, </l>
@@ -962,14 +1015,14 @@
             <l>" Which my old hopes has more than e're renew'd. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e8510">
+        <sp who="#eng000751-titiro" xml:id="eng000751-e8510">
           <speaker>Titr. </speaker>
           <lg>
             <l>Dreams, what are they? Your hope's too strongly bent; </l>
             <l>But say, what did the Airy form present? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e8560">
+        <sp who="#eng000751-montano" xml:id="eng000751-e8560">
           <speaker>Mont. </speaker>
           <lg>
             <l>" When swelling Ladon weary of his Yoke, </l>
@@ -985,14 +1038,14 @@
             <l>I owe my Death to that unhappy day. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e8700">
+        <sp who="#eng000751-titiro" xml:id="eng000751-e8700">
           <speaker>Tit. </speaker>
           <lg>
             <l>" And I may say of thy two Sons; the Floods </l>
             <l>" Have ravisht one, the other's lost i'th' Woods. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e8750">
+        <sp who="#eng000751-montano" xml:id="eng000751-e8750">
           <speaker>Mont. </speaker>
           <lg>
             <l>Perhaps kind Heav'n in the surviving Brother, </l>
@@ -1028,7 +1081,7 @@
             <l>" <hi>Thy fair </hi>Arcadia <hi>once agen shall flourish</hi>. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e9130">
+        <sp who="#eng000751-titiro" xml:id="eng000751-e9130">
           <speaker>Titi. </speaker>
           <lg>
             <l>Can your fond hope from such weak fancies rise? </l>
@@ -1044,7 +1097,7 @@
             <l>" And against Natures Laws does Love despise. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e9280">
+        <sp who="#eng000751-montano" xml:id="eng000751-e9280">
           <speaker>Mont. </speaker>
           <lg>
             <l>" Take courage Titiro, do not debase </l>
@@ -1068,7 +1121,7 @@
         <div n="2" type="scene" xml:id="eng000751-e9480">
           <head>SCENE the Second. </head>
           <stage xml:id="eng000751-e9500">Enter Amaryllis. </stage>
-          <sp xml:id="eng000751-e9520">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e9520">
             <speaker>Amar. </speaker>
             <lg>
               <l>" Riches, what are they, but our freedoms snares. </l>
@@ -1097,7 +1150,7 @@
             <stage xml:id="eng000751-e9770">
               <pb n="16" xml:id="eng000751-013-a"/>Enter Corisca. </stage>
           </sp>
-          <sp xml:id="eng000751-e9790">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e9790">
             <speaker>Cor. </speaker>
             <lg>
               <l>Beyond my wish I'm favourd by my Fate. </l>
@@ -1109,15 +1162,15 @@
               <l>I have fit means, and safe, to work my end. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e9930">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e9930">
             <speaker>Amar. </speaker>
             <p>Corisca! </p>
           </sp>
-          <sp xml:id="eng000751-e9960">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e9960">
             <speaker>Coris. </speaker>
             <p>My dear Amaryllis here? </p>
           </sp>
-          <sp xml:id="eng000751-e10000">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e10000">
             <speaker>Amaryll. </speaker>
             <lg>
               <l>Yes kind Corisca, all that's left of her. </l>
@@ -1127,7 +1180,7 @@
               <l>They are all seiz'd by a commanding Pow'r. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e10090">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e10090">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Do not with needless fears disturb your peace: </l>
@@ -1136,42 +1189,42 @@
               <l>Upon the sweet and happy Marryed state. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e10160">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e10160">
             <speaker>Amar. </speaker>
             <p>Happy and Sweet— Alass— </p>
           </sp>
-          <sp xml:id="eng000751-e10190">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e10190">
             <speaker>Corisc. </speaker>
             <lg>
               <l>" Why do you fetch </l>
               <l>" That ●…igh? Leave sighing to that Wretch. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e10240">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e10240">
             <speaker>Amar. </speaker>
             <p>" What Wretch? </p>
           </sp>
-          <sp xml:id="eng000751-e10270">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e10270">
             <speaker>Corisc. </speaker>
             <p>Mirtillo. </p>
           </sp>
-          <sp xml:id="eng000751-e10300">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e10300">
             <speaker>Amar. </speaker>
             <p>What of him— Oh that blest Name. </p>
             <stage xml:id="eng000751-e10330">aside. </stage>
           </sp>
-          <sp xml:id="eng000751-e10340">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e10340">
             <speaker>Corisc. </speaker>
             <p>Only I have saved his Life. </p>
           </sp>
-          <sp xml:id="eng000751-e10370">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e10370">
             <speaker>Amar. </speaker>
             <lg>
               <l>His Life! How came </l>
               <l>His Life in danger? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e10420">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e10420">
             <speaker>Cor. </speaker>
             <lg>
               <l>By his dispair for you. </l>
@@ -1183,22 +1236,22 @@
               <l>The way if need were— </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e10520">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e10520">
             <speaker>Amar. </speaker>
             <lg>
               <l>Dear Corisca, speak; </l>
               <l>Can thy kind help this cruel Gordian break? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e10580">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e10580">
             <speaker>Corisc. </speaker>
             <p>Yes, easily. </p>
           </sp>
-          <sp xml:id="eng000751-e10610">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e10610">
             <speaker>Amar. </speaker>
             <p>My better Angel, how? </p>
           </sp>
-          <sp xml:id="eng000751-e10640">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e10640">
             <speaker>
               <pb n="17" xml:id="eng000751-013-b"/>Cor. </speaker>
             <lg>
@@ -1208,7 +1261,7 @@
               <l>T' assist me, is a thing I'de do with ease. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e10710">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e10710">
             <speaker>Amar. </speaker>
             <lg>
               <l>Unkind Corisca, had you in your pow'r </l>
@@ -1234,14 +1287,14 @@
               <l>" Would Heav'n had made me such a one. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e10960">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e10960">
             <speaker>Coris. </speaker>
             <lg>
               <l>Why that </l>
               <l>I'le wish; to save you 'tis not yet too late. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11010">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11010">
             <speaker>Amar. </speaker>
             <lg>
               <l>" Not late! My Faith I have already given </l>
@@ -1253,7 +1306,7 @@
               <l>" Preserved, how blest, how proud— </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11110">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11110">
             <speaker>Cor. </speaker>
             <lg>
               <l>Leave it to me. </l>
@@ -1266,59 +1319,59 @@
               <l>Must give him leave to see you, and adore. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11230">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11230">
             <speaker>Amar. </speaker>
             <lg>
               <l>" ' swere better he'd in peace and silence rest, </l>
               <l>" And root so vain a love out of his Breast. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11280">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11280">
             <speaker>Coris. </speaker>
             <p>" Some comfort you shall give him e're he dye. </p>
           </sp>
-          <sp xml:id="eng000751-e11310">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11310">
             <speaker>Am. </speaker>
             <p>Half favours do but heighten misery. </p>
           </sp>
-          <sp xml:id="eng000751-e11340">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11340">
             <speaker>Coris. </speaker>
             <p>" If they do so, the seeking is his own. </p>
           </sp>
-          <sp xml:id="eng000751-e11370">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11370">
             <speaker>Amar. </speaker>
             <p>" And what must I expect, should it be known? </p>
           </sp>
-          <sp xml:id="eng000751-e11400">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11400">
             <speaker>Coris. </speaker>
             <p>" How Cowardly thou art. </p>
           </sp>
-          <sp xml:id="eng000751-e11430">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11430">
             <speaker>Amar. </speaker>
             <lg>
               <l>" And may I still </l>
               <l>" Be Cowardly in any thing that's ill. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11480">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11480">
             <speaker>Coris. </speaker>
             <lg>
               <l>" And can you fail me in this small request. </l>
               <l>" Farewell; so may I fail thee in the rest. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11530">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11530">
             <speaker>Amar. </speaker>
             <p>" Oh stay Corisca. </p>
           </sp>
-          <sp xml:id="eng000751-e11570">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11570">
             <speaker>Coris. </speaker>
             <lg>
               <l>" If you'l promise me </l>
               <l>" To hear Mirtillo. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11630">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11630">
             <speaker>Amar. </speaker>
             <lg>
               <l>Well, I'le promise thee </l>
@@ -1326,18 +1379,18 @@
               <l>But once. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11690">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11690">
             <speaker>Coris. </speaker>
             <p>But once. </p>
           </sp>
-          <sp xml:id="eng000751-e11720">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11720">
             <speaker>Amaryl. </speaker>
             <lg>
               <l>" And that he may not know </l>
               <l>" We meet with my consent or knowledg. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11770">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11770">
             <speaker>Coris. </speaker>
             <lg>
               <l>No: </l>
@@ -1347,12 +1400,12 @@
               <l>Your faithful Creatures pow'r and Life command. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e11850">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e11850">
             <speaker>Amar. </speaker>
             <p>Farewell kind Maid. </p>
             <stage xml:id="eng000751-e11880">Exit. </stage>
           </sp>
-          <sp xml:id="eng000751-e11890">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e11890">
             <speaker>Coris. </speaker>
             <lg>
               <l>Believing Fool, farewell; </l>
@@ -1372,7 +1425,7 @@
               <l>Stay and assist me. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12090">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e12090">
             <speaker>Sylv. </speaker>
             <lg>
               <l>No, she hears thee not. </l>
@@ -1382,11 +1435,11 @@
               <l>None of thy falsehoods shall deceive me now. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12170">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e12170">
             <speaker>Coris. </speaker>
             <p>To me this barbrous Language? </p>
           </sp>
-          <sp xml:id="eng000751-e12200">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e12200">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Yes to thee. </l>
@@ -1395,7 +1448,7 @@
               <l>Perjur'd Corisca. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12280">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e12280">
             <speaker>Corisc. </speaker>
             <lg>
               <l>" Yes, I do confess </l>
@@ -1404,7 +1457,7 @@
               <l>My gentle dear Sylvano. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12370">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e12370">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Gentle, dear! </l>
@@ -1416,7 +1469,7 @@
               <l>All your repeated Oaths to Niso swore. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12490">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e12490">
             <speaker>Coris. </speaker>
             <lg>
               <l>Who, I forsake thee? take back the lest part </l>
@@ -1424,7 +1477,7 @@
               <l>Which is thy sacred right. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12550">
+          <sp who="#eng000751-sylvano" xml:id="eng000751-e12550">
             <speaker>Sylvan. </speaker>
             <lg>
               <l>Oh wondrous strange! </l>
@@ -1433,11 +1486,11 @@
               <l>My Vengeance shall refresh your memory. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12620">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e12620">
             <speaker>Coris. </speaker>
             <p>Vengeance! Oh Heavens, on whom? </p>
           </sp>
-          <sp xml:id="eng000751-e12650">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e12650">
             <speaker>Sylv. </speaker>
             <lg>
               <l>On thee Enchantress, thee fair Infidel; </l>
@@ -1452,7 +1505,7 @@
               <l>I'le Conjure all the Devils in your Veins. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12780">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e12780">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Oh Horrour! My soft Peace, how can you fright? </l>
@@ -1461,18 +1514,18 @@
               <l>If my Sylvano ceases to be kind. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12860">
+          <sp who="#eng000751-sylvano" xml:id="eng000751-e12860">
             <speaker>Sylvan. </speaker>
             <lg>
               <l>Cease to be kind to thee. By Heav'n not I, </l>
               <l>I'le be so kind— </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e12920">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e12920">
             <speaker>Coris. </speaker>
             <p>Oh my hard destiny! </p>
           </sp>
-          <sp xml:id="eng000751-e12950">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e12950">
             <speaker>Sylv. </speaker>
             <lg>
               <l>— That not thy Father, when in all his heat, </l>
@@ -1484,7 +1537,7 @@
               <l>But I'le turn Ravisher, and sport like Jove. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13050">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e13050">
             <speaker>Coris. </speaker>
             <lg>
               <l>" Behold me at thy feet. Oh pardon me, </l>
@@ -1497,29 +1550,29 @@
               <l>" Wert wont to call two Stars, two Fountains now. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13190">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e13190">
             <speaker>Sylv. </speaker>
             <lg>
               <l>T' extract these Tears, what wonders have I done? </l>
               <l>Such soft Dew falls not after every Sun. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13250">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e13250">
             <speaker>Corisc. </speaker>
             <p>Dear Sylvan, pitty me, and let me go. </p>
           </sp>
-          <sp xml:id="eng000751-e13290">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e13290">
             <speaker>Sylv. </speaker>
             <p>" Thinkst thou still Syren to deceive me? No. </p>
           </sp>
-          <sp xml:id="eng000751-e13330">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e13330">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Oh let me go, try me but once, and see </l>
               <l>How just, how faithful, and how kind I'le be. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13380">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e13380">
             <speaker>Sylv. </speaker>
             <lg>
               <l>No, I am grown too wise to credit thee; </l>
@@ -1531,25 +1584,25 @@
               <l>Come my fair Martyr. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13490">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e13490">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Oh Inhumane stay, </l>
               <l>Hear me but one word more. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13540">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e13540">
             <speaker>Sylv. </speaker>
             <p>You beg in vain. </p>
           </sp>
-          <sp xml:id="eng000751-e13570">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e13570">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Have you no pitty left? shall I obtain </l>
               <l>No Mercy? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13620">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e13620">
             <speaker>Sylv. </speaker>
             <lg>
               <l>None, I'le drag you to my Cave, </l>
@@ -1557,21 +1610,21 @@
               <l>There, Oh my Vengeance! Oh my pleasure! </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13680">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e13680">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Hold. </l>
               <l>Are you resolv'd? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13730">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e13730">
             <speaker>Sylv. </speaker>
             <lg>
               <l>As firm as Fate, and less to be controul'd. </l>
               <l>Have you done whining? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13780">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e13780">
             <speaker>Corisc. </speaker>
             <lg>
               <l>" Oh thou base, and not </l>
@@ -1582,14 +1635,14 @@
               <l>" What should she see in such a Charming Youth? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13890">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e13890">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Now your true self appears; but do not think </l>
               <l>Curses or Prayers shall make Sylvano shrink. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e13950">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e13950">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Infernal Beast, let go your hold, be gone: </l>
@@ -1600,7 +1653,7 @@
               <l>Nay, I'le turn Basilisk, and look thee dead. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e14040">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e14040">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Call Thunder down! as if the Gods would hear </l>
@@ -1611,14 +1664,14 @@
               <l>That I'le my self call Heav'n to witness it. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e14130">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e14130">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Hell and Damnation thy black soul confound, </l>
               <l>And everlasting Horrour shade me round. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e14180">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e14180">
             <speaker>
               <pb n="22" xml:id="eng000751-016-a"/>Sylv. </speaker>
             <lg>
@@ -1658,7 +1711,7 @@
         <div n="3" type="scene" xml:id="eng000751-e14510">
           <head>SCENE the Third. </head>
           <stage xml:id="eng000751-e14530">Enter Gerana and Dorinda. </stage>
-          <sp xml:id="eng000751-e14550">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e14550">
             <speaker>Dor. </speaker>
             <lg>
               <l>To follow Sylvio, is that a Crime? </l>
@@ -1667,7 +1720,7 @@
               <l>And all their frightful Rocks should stop my way. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e14630">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e14630">
             <speaker>Ger. </speaker>
             <lg>
               <l>Come dear Dorinda, do not sigh in vain; </l>
@@ -1676,7 +1729,7 @@
               <l>Alas, they're Creatures not to please, but fright. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e14710">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e14710">
             <speaker>
               <pb n="23" xml:id="eng000751-016-b"/>Dor. </speaker>
             <lg>
@@ -1684,7 +1737,7 @@
               <l>You said You Lov'd, And did they frighten you? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e14760">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e14760">
             <speaker>Ger. </speaker>
             <lg>
               <l>But when I Loved, 'twas at a Womans Age. </l>
@@ -1697,11 +1750,11 @@
               <l>They have desires, to which You cannot bow. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e14880">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e14880">
             <speaker>Dor. </speaker>
             <p>But you have tryed, and you shall tell me how. </p>
           </sp>
-          <sp xml:id="eng000751-e14910">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e14910">
             <speaker>Ger. </speaker>
             <lg>
               <l>Poor Innocence, you know not what you say: </l>
@@ -1709,15 +1762,15 @@
               <l>Alas, thou'rt Ignorant— </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e14970">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e14970">
             <speaker>Dor. </speaker>
             <p>Why then I'de learn. </p>
           </sp>
-          <sp xml:id="eng000751-e15000">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e15000">
             <speaker>Ger. </speaker>
             <p>Alas, your own desires you can't discern. </p>
           </sp>
-          <sp xml:id="eng000751-e15030">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e15030">
             <speaker>Dor. </speaker>
             <lg>
               <l>To please my Love, What is it that I want? </l>
@@ -1732,22 +1785,22 @@
               <l>Tell me, they shall be all at his command. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15170">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e15170">
             <speaker>Ger. </speaker>
             <lg>
               <l>Inquire no farther— pretty Innocence, </l>
               <l>But think of Loving Sylvio seaven years hence. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15230">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e15230">
             <speaker>Dor. </speaker>
             <p>And must I stay so long, so long a time? </p>
           </sp>
-          <sp xml:id="eng000751-e15260">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e15260">
             <speaker>Ger. </speaker>
             <p>Your Beauty then will be in all its prime. </p>
           </sp>
-          <sp xml:id="eng000751-e15290">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e15290">
             <speaker>Dor. </speaker>
             <lg>
               <l>Have I not all my Beauty yet? is it▪ </l>
@@ -1756,7 +1809,7 @@
               <l>I've Love enough, what e're I want beside. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15370">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e15370">
             <speaker>Ger. </speaker>
             <lg>
               <l>Do but observe the Beauties of the May: </l>
@@ -1765,7 +1818,7 @@
               <l>All these gay flowers were once but in the Bud. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15440">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e15440">
             <speaker>
               <pb n="24" xml:id="eng000751-017-a"/>Dor. </speaker>
             <lg>
@@ -1773,14 +1826,14 @@
               <l>Pray, how is that? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15490">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e15490">
             <speaker>Ger. </speaker>
             <lg>
               <l>To Age their Sweets they owe. </l>
               <l>Whilst by th'warm Sun, and the kind Spring, they blow. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15540">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e15540">
             <speaker>Dor. </speaker>
             <lg>
               <l>If then my want of growth be all my fau't, </l>
@@ -1792,18 +1845,18 @@
             </lg>
             <stage xml:id="eng000751-e15650">Enter Sylvio and Hunts-men crossing the Stage: Sylvio seeing Dorinda, offers to go. </stage>
           </sp>
-          <sp xml:id="eng000751-e15700">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e15700">
             <speaker>Dor. </speaker>
             <p>Stay Sylvio, do not flye me. </p>
           </sp>
-          <sp xml:id="eng000751-e15740">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e15740">
             <speaker>Ger. </speaker>
             <lg>
               <l>Cruel, stay. </l>
               <l>Cannot such suppliant Beauty stop your way? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15790">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e15790">
             <speaker>Sylv. </speaker>
             <lg>
               <l>My Torment here. <stage xml:id="eng000751-e15830">aside. </stage>
@@ -1812,7 +1865,7 @@
               <l>I've no time now to fool away an hour. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15860">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e15860">
             <speaker>Ger. </speaker>
             <lg>
               <l>Inhumane; is this treat a recompence </l>
@@ -1821,7 +1874,7 @@
               <l>And Savager than the wild Beasts you chace. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e15940">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e15940">
             <speaker>Dor. </speaker>
             <lg>
               <l>Dearer than Life, and sweeter than the Spring. </l>
@@ -1838,25 +1891,25 @@
               <l>And says 'tis men should Court, and Maids deny. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16100">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e16100">
             <speaker>Sylv. </speaker>
             <p>What is the cause fair Nymph— </p>
           </sp>
-          <sp xml:id="eng000751-e16130">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e16130">
             <speaker>Dor. </speaker>
             <lg>
               <l>Fair Nymph! Ah no: </l>
               <l>You call me fair, but do not think me so. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16180">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e16180">
             <speaker>Sylv. </speaker>
             <lg>
               <l>What idle frenzy can so pow'rful be, </l>
               <l>To make you take such pains to follow me? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16230">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e16230">
             <speaker>
               <pb n="25" xml:id="eng000751-017-b"/>Dor. </speaker>
             <lg>
@@ -1877,7 +1930,7 @@
               <l>Takes all my Heart, yet gives me none of His. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16440">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e16440">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Why do you throw away a heart so ill? </l>
@@ -1886,7 +1939,7 @@
               <l>And Woods: My Hawks and Hounds have all my Loves. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16510">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e16510">
             <speaker>Dor. </speaker>
             <lg>
               <l>In Love with Hawks and Hounds! Those Creatures, Sir, have got </l>
@@ -1895,7 +1948,7 @@
               <l>Are not deserving to be Loved by You. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16580">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e16580">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Well Nymph, I see I wrong you by my stay; </l>
@@ -1903,7 +1956,7 @@
               <l>Adieu. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16640">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e16640">
             <speaker>Dor. </speaker>
             <lg>
               <l>Stay but one minute; must we part </l>
@@ -1911,7 +1964,7 @@
               <l>'Tis <hi>Amaryll is </hi>takes up all your heart. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16710">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e16710">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Before I go, </l>
@@ -1919,31 +1972,31 @@
               <l>I gave my hand; my heart I never gave. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e16770">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e16770">
             <speaker>Dor. </speaker>
             <p>Do you not Love her then? </p>
           </sp>
-          <sp xml:id="eng000751-e16800">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e16800">
             <speaker>Sylv. </speaker>
             <p>By Heav'ns, not I. </p>
           </sp>
-          <sp xml:id="eng000751-e16830">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e16830">
             <speaker>Dor. </speaker>
             <p>Does she want Charms? </p>
           </sp>
-          <sp xml:id="eng000751-e16860">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e16860">
             <speaker>Sylv. </speaker>
             <p>Their Influence I defie. </p>
           </sp>
-          <sp xml:id="eng000751-e16890">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e16890">
             <speaker>Dor. </speaker>
             <p>But are you sure you do not Love her? </p>
           </sp>
-          <sp xml:id="eng000751-e16920">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e16920">
             <speaker>Sylv. </speaker>
             <p>Why? </p>
           </sp>
-          <sp xml:id="eng000751-e16950">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e16950">
             <speaker>
               <pb n="26" xml:id="eng000751-018-a"/>Dor. </speaker>
             <lg>
@@ -1951,14 +2004,14 @@
               <l>And Dream of her a Nights, as I of You? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17000">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e17000">
             <speaker>Sylv. </speaker>
             <lg>
               <l>I think not of her waking, nor asleep, </l>
               <l>My heart does no such worthless Triffles keep. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17050">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e17050">
             <speaker>Dor. </speaker>
             <lg>
               <l>You've eas'd me of I know not how much pain: </l>
@@ -1968,30 +2021,30 @@
             </lg>
             <stage xml:id="eng000751-e17120">The Hunts-men hollow from within. </stage>
           </sp>
-          <sp xml:id="eng000751-e17130">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e17130">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Hark, I am call'd, my pleasure I delay. </l>
               <l>Farewell. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17180">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e17180">
             <speaker>Dor. </speaker>
             <p>You shall not go. </p>
           </sp>
-          <sp xml:id="eng000751-e17210">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e17210">
             <speaker>Sylv. </speaker>
             <p>I must not stay. </p>
           </sp>
-          <sp xml:id="eng000751-e17240">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e17240">
             <speaker>Dor. </speaker>
             <p>Have you no Love, nor pitty, cruel Man? </p>
           </sp>
-          <sp xml:id="eng000751-e17270">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e17270">
             <speaker>Sylv. </speaker>
             <p>I pitty you as much as e're I can. </p>
           </sp>
-          <sp xml:id="eng000751-e17300">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e17300">
             <speaker>Dor. </speaker>
             <lg>
               <l>Well Sylvio, </l>
@@ -1999,7 +2052,7 @@
               <l>I'm the first slighted Maid that dyed so soon. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17370">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e17370">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Well pow'rful Nymph, </l>
@@ -2008,7 +2061,7 @@
               <l>For once I will be kind. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17440">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e17440">
             <speaker>Dor. </speaker>
             <lg>
               <l>Will you be kind? </l>
@@ -2028,7 +2081,7 @@
               <l>Were I a Swain in Love, I should do so. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17630">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e17630">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Hold gentle Nymph, and give me leave to speak. </l>
@@ -2040,11 +2093,11 @@
               <l>Of your whole Sex could win, but you alone. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17720">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e17720">
             <speaker>Dor. </speaker>
             <p>And is it thus, you're kind? </p>
           </sp>
-          <sp xml:id="eng000751-e17750">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e17750">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Love I ne're can. </l>
@@ -2053,11 +2106,11 @@
               <l>Nor will I say I Love you, when I cant. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17820">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e17820">
             <speaker>Dor. </speaker>
             <p>You cannot Love? </p>
           </sp>
-          <sp xml:id="eng000751-e17850">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e17850">
             <speaker>Sylv. </speaker>
             <lg>
               <l>My kindness is so great, </l>
@@ -2069,7 +2122,7 @@
               <l>Once more fare-well. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e17950">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e17950">
             <speaker>Dor. </speaker>
             <lg>
               <l>Why all this hasty flight? </l>
@@ -2077,7 +2130,7 @@
             </lg>
             <stage xml:id="eng000751-e18000">Exit. Sylv. </stage>
           </sp>
-          <sp xml:id="eng000751-e18020">
+          <sp who="#eng000751-gerana" xml:id="eng000751-e18020">
             <speaker>Gerr. </speaker>
             <lg>
               <l>E'ne let him go, and to requite this scorn, </l>
@@ -2089,7 +2142,7 @@
               <l>And Chafed with Hunting, spill your precious blood? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e18120">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e18120">
             <speaker>Dor. </speaker>
             <lg>
               <l>Alas, I would forgive him, if he ●…nou'd. </l>
@@ -2129,7 +2182,7 @@
         <stage xml:id="eng000751-e18430">
           <hi>The Song ended, they Dance, which done, they go off singing, and </hi>Corisca <hi>enters and stays </hi>Amaryllis. </stage>
         <stage xml:id="eng000751-e18460">Manent only Corisc. and Amar. </stage>
-        <sp xml:id="eng000751-e18490">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e18490">
           <speaker>Cor. </speaker>
           <lg>
             <l>" I Must go speak to him, or he'l not stir. </l>
@@ -2138,22 +2191,22 @@
           <stage xml:id="eng000751-e18540">Calling to Mirtillo. </stage>
         </sp>
         <stage xml:id="eng000751-e18560">Enter Mirtillo. </stage>
-        <sp xml:id="eng000751-e18580">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e18580">
           <speaker>Mirt. </speaker>
           <lg>
             <l>I would approach her, but dare move no nigher: </l>
             <l>" How near to Impotence is strong desire? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e18630">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e18630">
           <speaker>Corisc. </speaker>
           <p>Make hast, or she is lost. </p>
         </sp>
-        <sp xml:id="eng000751-e18660">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e18660">
           <speaker>Amar. </speaker>
           <p>" What do I view! </p>
         </sp>
-        <sp xml:id="eng000751-e18690">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e18690">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" Stay; If this action to thy scorn be due, </l>
@@ -2161,7 +2214,7 @@
           </lg>
           <stage xml:id="eng000751-e18740">holding his Dagger to his Breast. </stage>
         </sp>
-        <sp xml:id="eng000751-e18750">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e18750">
           <speaker>Amar. </speaker>
           <lg>
             <l>Thou hast </l>
@@ -2171,15 +2224,15 @@
             <l>To interrupt my sost Retirements? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e18820">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e18820">
           <speaker>Mirt. </speaker>
           <p>Love. </p>
         </sp>
-        <sp xml:id="eng000751-e18850">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e18850">
           <speaker>Amar. </speaker>
           <p>" Love is not rude. </p>
         </sp>
-        <sp xml:id="eng000751-e18880">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e18880">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Can it be rudeness when I kneel before </l>
@@ -2192,14 +2245,14 @@
             <l>Should dastard Man, the Lord of Reason shun? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e18990">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e18990">
           <speaker>Amar. </speaker>
           <lg>
             <l>And is this Love? Did Love your soot-steps steer, </l>
             <l>Prayers, not surprizes would have brought you here. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e19040">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e19040">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" As a wilde Beast, enraged with want of Food, </l>
@@ -2212,25 +2265,25 @@
             <l>And 'twas a stratagem to save a Life. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e19150">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e19150">
           <speaker>Amar. </speaker>
           <lg>
             <l>" Alas, you persecute me, but in vain. </l>
             <l>What is it you can ask, or hope t'obtain? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e19200">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e19200">
           <speaker>Mirt. </speaker>
           <p>" Once ere I dye, to hear me. </p>
         </sp>
-        <sp xml:id="eng000751-e19230">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e19230">
           <speaker>Amar. </speaker>
           <lg>
             <l>" Well Sir, that Boon I grant. But this before, </l>
             <l>" Say little, quickly part, and come no more. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e19280">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e19280">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" Then that I love thee more than I do love </l>
@@ -2255,12 +2308,12 @@
             <l>" As once my rising, now my setting Sun? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e19500">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e19500">
           <speaker>Amar. </speaker>
           <p>What shall I say? I cannot speak. </p>
           <stage xml:id="eng000751-e19530">aside. </stage>
         </sp>
-        <sp xml:id="eng000751-e19540">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e19540">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Fair Saint, </l>
@@ -2270,18 +2323,18 @@
             <l>Say something Cruel Nymph,— </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e19620">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e19620">
           <speaker>Amar. </speaker>
           <lg>
             <l>What should I say? </l>
             <l>You know I must not answer you your way. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e19670">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e19670">
           <speaker>Mirt. </speaker>
           <p>" Say, dye, at least, if nothing else you'l say. </p>
         </sp>
-        <sp xml:id="eng000751-e19700">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e19700">
           <speaker>Amar. </speaker>
           <lg>
             <l>" That honest pitty I may grant, you have. </l>
@@ -2299,37 +2352,37 @@
             <l>" From what we love, if it will prove our bane. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e19860">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e19860">
           <speaker>Mirt. </speaker>
           <p>" He that no longer can resist, must yield. </p>
         </sp>
-        <sp xml:id="eng000751-e19890">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e19890">
           <speaker>Amar. </speaker>
           <p>" Where Virtue reigns, all passions quit the field. </p>
         </sp>
-        <sp xml:id="eng000751-e19920">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e19920">
           <speaker>Mirt. </speaker>
           <p>" Love tryumphs over Virtue. </p>
         </sp>
-        <sp xml:id="eng000751-e19950">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e19950">
           <speaker>Amar. </speaker>
           <lg>
             <l>" Let that man </l>
             <l>" That cannot what he will, will what he can. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20000">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e20000">
           <speaker>Mirt. </speaker>
           <p>" Necessity of Loving, has no Law. </p>
         </sp>
-        <sp xml:id="eng000751-e20030">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e20030">
           <speaker>Amar. </speaker>
           <lg>
             <l>But effects cease when Causes do with draw. </l>
             <l>I'le see you then no more. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20080">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e20080">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Oh stay; your form's fixt here; </l>
@@ -2338,7 +2391,7 @@
             <l>" There is no Cure but that which Death affords. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20140">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e20140">
           <speaker>Amar. </speaker>
           <lg>
             <l>" Death! Let me speak then, and be sure these words </l>
@@ -2352,14 +2405,14 @@
             <l>" Live then is you do love me, and adieu. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20260">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e20260">
           <speaker>Mirt. </speaker>
           <lg>
             <l>And must I live for ever in despair; </l>
             <l>Doom'd to a Life that is not worth my care? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20310">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e20310">
           <speaker>Amar. </speaker>
           <lg>
             <l>Mirtillo, 'tis high time you went away, </l>
@@ -2370,11 +2423,11 @@
             <l>" And there are others, who of Love complain. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20410">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e20410">
           <speaker>Mirt. </speaker>
           <p>How can I leave you? </p>
         </sp>
-        <sp xml:id="eng000751-e20440">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e20440">
           <speaker>Amar. </speaker>
           <lg>
             <l>Why, Sir, should you stay? </l>
@@ -2388,11 +2441,11 @@
             <l>I shall the weakness of my soul betray. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20560">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e20560">
           <speaker>Mirt. </speaker>
           <p>Why must I flye so sast from all that's dear? </p>
         </sp>
-        <sp xml:id="eng000751-e20590">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e20590">
           <speaker>Amar. </speaker>
           <lg>
             <l>Should but the Nymphs return, and find you here, </l>
@@ -2401,7 +2454,7 @@
             <l>" And Murder'd Orpheus so on Hebrus shore. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20680">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e20680">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Is that a fear should drive Mirtillo hence? </l>
@@ -2410,7 +2463,7 @@
             <l>They could not hurt the Slave that dyes for you. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20760">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e20760">
           <speaker>Amar. </speaker>
           <lg>
             <l>He has staid too long; his presence has such pow'r— <stage xml:id="eng000751-e20800">aside. </stage>
@@ -2422,7 +2475,7 @@
             <l>Sir, for my safety go. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e20850">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e20850">
           <speaker>Mirt. </speaker>
           <lg>
             <l>That word alone could force </l>
@@ -2432,7 +2485,7 @@
           </lg>
           <stage xml:id="eng000751-e20930">Exit. </stage>
         </sp>
-        <sp xml:id="eng000751-e20940">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e20940">
           <speaker>Amar. </speaker>
           <lg>
             <l>" Mirtillo, oh Mirtill●…, couldst thou see </l>
@@ -2458,7 +2511,7 @@
           </lg>
           <stage xml:id="eng000751-e21200">Enter Corisca and Celia. </stage>
         </sp>
-        <sp xml:id="eng000751-e21230">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e21230">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Why pangs and groans? what should your peace destroy? </l>
@@ -2466,14 +2519,14 @@
             <l>Come, you must love Mirtillo: Why so coy? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e21300">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e21300">
           <speaker>Amar. </speaker>
           <lg>
             <l>What do you mean? You know our breach of Faith </l>
             <l>Is punisht by th' Arcadian Laws with death? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e21360">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e21360">
           <speaker>Corisc. </speaker>
           <lg>
             <l>And is it that dull Nymph keeps you in awe? </l>
@@ -2487,7 +2540,7 @@
             <l>Like Rebels Circumscribed an Absolute Prince. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e21470">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e21470">
           <speaker>Amar. </speaker>
           <lg>
             <l>Oh Heavens! I scarce dare guess at what you mean: </l>
@@ -2496,7 +2549,7 @@
             <l>" Can Love of Life a Restitution make? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e21540">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e21540">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Thou art too nice: If Women all were such, </l>
@@ -2509,14 +2562,14 @@
             <l>" To hide their Theft. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e21660">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e21660">
           <speaker>Amar. </speaker>
           <lg>
             <l>Hold: this wild subject change. </l>
             <l>You starrle me to hear you talk so strange. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e21710">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e21710">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Why strange! </l>
@@ -2540,7 +2593,7 @@
           <l>" <hi>Love may return, but never Lover. </hi>
           </l>
         </lg>
-        <sp xml:id="eng000751-e21980">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e21980">
           <speaker>Amar. </speaker>
           <lg>
             <l>" Thou say'st all this only to try me sure: </l>
@@ -2551,7 +2604,7 @@
             <l>" I'de dye a thousand Deaths e're I'de my Honour stain. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22070">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e22070">
           <speaker>
             <pb n="34" xml:id="eng000751-022-a"/>Corisc. </speaker>
           <lg>
@@ -2560,14 +2613,14 @@
             <l>" As thou dost thine? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22150">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e22150">
           <speaker>Amar. </speaker>
           <lg>
             <l>Alas, how should I know? </l>
             <l>" What's Faith to him, who is to Love a Foe? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22200">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e22200">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Loves Foe! There's thy mistake: Oh these coy souls. </l>
@@ -2578,7 +2631,7 @@
             <l>" He Loves else-where. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22300">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e22300">
           <speaker>Amar. </speaker>
           <lg>
             <l>" What Goddess must she be. </l>
@@ -2587,34 +2640,34 @@
             <l>Where are her Altars, what's this Goddess Name? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22380">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e22380">
           <speaker>Corisc. </speaker>
           <p>" No Goddess, nor yet Nymph. </p>
         </sp>
-        <sp xml:id="eng000751-e22410">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e22410">
           <speaker>Amar. </speaker>
           <p>" What was't you said? </p>
         </sp>
-        <sp xml:id="eng000751-e22440">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e22440">
           <speaker>Corisc. </speaker>
           <p>" Do you know my Lisetta? </p>
         </sp>
-        <sp xml:id="eng000751-e22480">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e22480">
           <speaker>Amar. </speaker>
           <lg>
             <l>" Who, the Maid </l>
             <l>" That tends thy Flocks? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22530">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e22530">
           <speaker>Corisc. </speaker>
           <p>" The same: She's all his joy. </p>
         </sp>
-        <sp xml:id="eng000751-e22560">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e22560">
           <speaker>Amar. </speaker>
           <p>" A proper choyce for one that was so coy. </p>
         </sp>
-        <sp xml:id="eng000751-e22590">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e22590">
           <speaker>Corisc. </speaker>
           <lg>
             <l>But will you know what Magick's in her Arms, </l>
@@ -2629,11 +2682,11 @@
             <l>" Comes Laughing afterwards, and tells to me. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22720">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e22720">
           <speaker>Amar. </speaker>
           <p>'Tis well. </p>
         </sp>
-        <sp xml:id="eng000751-e22750">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e22750">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Now hear my plot, and let my Friendship prove </l>
@@ -2647,14 +2700,14 @@
             <l>And she'has free pow'r to Marry where she please. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22860">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e22860">
           <speaker>Amar. </speaker>
           <lg>
             <l>" I know Examples. Egle having found </l>
             <l>" Lycotas false, remaind her self unbound. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e22930">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e22930">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Now hear me out: My Maid by me set on, </l>
@@ -2665,14 +2718,14 @@
             <l>" And I too as your Witness, will be near. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e23020">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e23020">
           <speaker>Amar. </speaker>
           <lg>
             <l>Already I've a prospect of my Bliss. </l>
             <l>" I like it rarely, but the way— </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e23070">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e23070">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" 'Tis this. </l>
@@ -2691,11 +2744,11 @@
             <l>" This Fatal Knot. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e23260">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e23260">
           <speaker>Amar. </speaker>
           <p>" Before his Father? </p>
         </sp>
-        <sp xml:id="eng000751-e23290">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e23290">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Why? </l>
@@ -2703,18 +2756,18 @@
             <l>" Will stand in Ballance with his Countrys good. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e23360">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e23360">
           <speaker>Amar. </speaker>
           <lg>
             <l>" Go on then; setting all disputes aside, </l>
             <l>" I wink, and follow thee my faithful Guide. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e23410">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e23410">
           <speaker>Corisc. </speaker>
           <p>" Then linger not, dear Nymph, but enter in. </p>
         </sp>
-        <sp xml:id="eng000751-e23440">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e23440">
           <speaker>Amar. </speaker>
           <lg>
             <l>Before this mighty enterprize begin, </l>
@@ -2724,7 +2777,7 @@
           </lg>
           <stage xml:id="eng000751-e23500">Exit. </stage>
         </sp>
-        <sp xml:id="eng000751-e23510">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e23510">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Go, and return then quickly. How I'm pleas'd! </l>
@@ -2744,7 +2797,7 @@
             <l>" Rise all my Love into my Tongue, and Eyes. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e23730">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e23730">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" Hear ye damnd Spirits that in Hell lament, </l>
@@ -2757,7 +2810,7 @@
             <l>" That I may dye a thousand times a day. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e23840">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e23840">
           <speaker>Corisc. </speaker>
           <lg>
             <l>How fares your Love, Mirtillo, since you came▪ </l>
@@ -2765,7 +2818,7 @@
           </lg>
         </sp>
         <stage xml:id="eng000751-e23900">aside. </stage>
-        <sp xml:id="eng000751-e23910">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e23910">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" As one who in a violent Feaver cast, </l>
@@ -2774,7 +2827,7 @@
             <l>" And th●…s he quenches Life, but cannot Drouth. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e23980">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e23980">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Love over us, no pow'r can e're receiv●… </l>
@@ -2785,14 +2838,14 @@
             <l>" And straight grows up a Master from a Guest. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24080">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e24080">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Should not one Thought fill up Mirtilloes heart▪ </l>
             <l>Is here a Beauty to deserve but part? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24140">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e24140">
           <speaker>
             <pb n="37" xml:id="eng000751-023-b"/>Corisc. </speaker>
           <lg>
@@ -2800,7 +2853,7 @@
             <l>" You make, to exchange kindness for disdain? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24190">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e24190">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" The Cruelty of Beauty does refine </l>
@@ -2809,7 +2862,7 @@
             <l>" If charming Women did not Tyrants prove. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24260">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e24260">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Oh wretched and unhappy those, in whom </l>
@@ -2818,14 +2871,14 @@
             <l>" Look out, you cannot want a thousand hearts. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24340">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e24340">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Though scorn'd and hated, I had rather fall </l>
             <l>Her dying Victim, than command 'em all. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24390">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e24390">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Oh horrour! how he tortures me. <stage xml:id="eng000751-e24430">aside. </stage>
@@ -2837,7 +2890,7 @@
             <l>There's heat within. Enchanted Dreamer, no. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24490">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e24490">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" These are but Trophies of my constant Love, </l>
@@ -2846,7 +2899,7 @@
             <l>" O're Fortune and the World, o're Death and Fate. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24560">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e24560">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Wonder of Constancy! If this Man knew </l>
@@ -2855,11 +2908,11 @@
             <l>Mirtillo, were you e're in Love before. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24640">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e24640">
           <speaker>Mirt. </speaker>
           <p>Her, and her only can my soul adore. </p>
         </sp>
-        <sp xml:id="eng000751-e24670">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e24670">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Then it should seem your Heart was never laid, </l>
@@ -2879,14 +2932,14 @@
             <l>" I turn'd out my own heart to harbour thine. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24860">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e24860">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Happy's the man that's born under a Star </l>
             <l>So fortunate! </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e24910">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e24910">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Dull Swain; a Nymph as fair </l>
@@ -2899,7 +2952,7 @@
             <l>" More than her Life, and for that Love she dyes. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25020">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25020">
           <speaker>Mirt. </speaker>
           <lg>
             <l>If such a Nymph there be, conceal her Name; </l>
@@ -2908,29 +2961,29 @@
             <l>And blush to think I no return can make. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25090">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e25090">
           <speaker>Corisc. </speaker>
           <p>" How▪ ever try what kindness is, tast both. </p>
         </sp>
-        <sp xml:id="eng000751-e25120">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25120">
           <speaker>Mirt. </speaker>
           <p>" Distemper'd Pallats all sweet things do loath. </p>
         </sp>
-        <sp xml:id="eng000751-e25150">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e25150">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Uncharitable Youth, art not thou poor, </l>
             <l>" And cant'st thou beat a Beggar from thy door? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25200">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25200">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" What Alms can Beggars give? Alas, I've Sworn </l>
             <l>Allegiance, and a Traytor cannot turn. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25250">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e25250">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Blind Youth, who is it thou art constant to? </l>
@@ -2943,30 +2996,30 @@
             <l>Call'd Innocence, she has long since laid by. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25360">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25360">
           <speaker>Mirt. </speaker>
           <p>And can your profanation swell so high? </p>
         </sp>
-        <sp xml:id="eng000751-e25390">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e25390">
           <speaker>Corisc. </speaker>
           <p>You'l not believe! </p>
         </sp>
-        <sp xml:id="eng000751-e25420">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25420">
           <speaker>Mirt. </speaker>
           <p>Believe thee. </p>
         </sp>
-        <sp xml:id="eng000751-e25450">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e25450">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Then go on </l>
             <l>In wilfull Ignorance, and be undone. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25500">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25500">
           <speaker>Mirt. </speaker>
           <p>" Oh Torture! I must dye if this be true. </p>
         </sp>
-        <sp xml:id="eng000751-e25530">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e25530">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" No, live dull Man, and thy Revenge pursue. </l>
@@ -2983,14 +3036,14 @@
             <l>" To that kind Nymph that thus rewards thy Love. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25680">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25680">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" Ah me Corisca, dost thou tell me true? </l>
             <l>" And is it fit I should believe thee too? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25740">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e25740">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" Truth is, I did not see it, but thou may'st, </l>
@@ -3001,11 +3054,11 @@
             <l>And after her, her happy amorous Slave. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e25830">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25830">
           <speaker>Mirt. </speaker>
           <p>" So quickly must I dye? </p>
         </sp>
-        <sp xml:id="eng000751-e25860">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e25860">
           <speaker>Corisc. </speaker>
           <lg>
             <l>" See, I have spyed </l>
@@ -3017,7 +3070,7 @@
           </lg>
           <stage xml:id="eng000751-e25950">Exit. </stage>
         </sp>
-        <sp xml:id="eng000751-e25960">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e25960">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" Since the discovery of the Truth's so near, </l>
@@ -3025,7 +3078,7 @@
           </lg>
           <stage xml:id="eng000751-e26010">Enter Amaryllis. </stage>
         </sp>
-        <sp xml:id="eng000751-e26030">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e26030">
           <speaker>Amar. </speaker>
           <lg>
             <l>" I from the Temple come as light as Ayre: </l>
@@ -3044,7 +3097,7 @@
             <l>" <hi>Mirtillo▪ </hi>could'st thou dream for what I go. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e26230">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e26230">
           <speaker>
             <pb n="40" xml:id="eng000751-025-a"/>Mirt. </speaker>
           <lg>
@@ -3086,7 +3139,7 @@
           </lg>
           <stage xml:id="eng000751-e26660">Goes into the Cave. </stage>
         </sp>
-        <sp xml:id="eng000751-e26670">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e26670">
           <speaker>Sylv. </speaker>
           <lg>
             <l>" Does he believe Corisca, and pursue </l>
@@ -3132,7 +3185,7 @@
         <div n="1" type="scene" xml:id="eng000751-e27070">
           <head>Scene the first. </head>
           <stage xml:id="eng000751-e27090">Enter Corisca. </stage>
-          <sp xml:id="eng000751-e27110">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e27110">
             <speaker>Corisc. </speaker>
             <lg>
               <l>" THis day has Heav'n and Earth, Nature &amp; Art, </l>
@@ -3146,7 +3199,7 @@
             </lg>
             <stage xml:id="eng000751-e27260">Enter Sylvano. </stage>
           </sp>
-          <sp xml:id="eng000751-e27280">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e27280">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Corisca here! thou damn'd perfidious Cheat; </l>
@@ -3154,14 +3207,14 @@
               <l>How comes it, Devil, that I find thee here? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e27380">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e27380">
             <speaker>Corisc. </speaker>
             <lg>
               <l>To find me here, where lyes the wonder? where, </l>
               <l>Did you expect me? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e27430">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e27430">
             <speaker>Sylv. </speaker>
             <lg>
               <l>To have found thee Fool'd, </l>
@@ -3173,11 +3226,11 @@
               <l>Shame written in thy Fore-head, and thy Blood. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e27550">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e27550">
             <speaker>Corisc. </speaker>
             <p>Audacious Slave! </p>
           </sp>
-          <sp xml:id="eng000751-e27580">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e27580">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Was not that Stone enough </l>
@@ -3186,11 +3239,11 @@
               <l>Speak Sorceress! </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e27650">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e27650">
             <speaker>Corisc. </speaker>
             <p>What does the Traytor mean? </p>
           </sp>
-          <sp xml:id="eng000751-e27680">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e27680">
             <speaker>Sylv. </speaker>
             <lg>
               <l>How got you out o'th' Cave, that dear dark Scene </l>
@@ -3205,7 +3258,7 @@
               <l>All this betwitching Womans power can do. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e27800">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e27800">
             <speaker>Corisc. </speaker>
             <lg>
               <l>I scorn thy Imputations savage Slave. </l>
@@ -3215,7 +3268,7 @@
               <l>Father on guiltless me thy barb'rous Lyes. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e27900">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e27900">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Did he not name your Name in entring in, </l>
@@ -3229,7 +3282,7 @@
             </lg>
             <stage xml:id="eng000751-e28010">offers to go. </stage>
           </sp>
-          <sp xml:id="eng000751-e28020">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e28020">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Sylvano stay, and hear me e're you go. </l>
@@ -3240,19 +3293,19 @@
               <l>You've often said you Lov'd Corisca. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28130">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e28130">
             <speaker>Sylv. </speaker>
             <p>True. </p>
           </sp>
-          <sp xml:id="eng000751-e28160">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e28160">
             <speaker>Corisc. </speaker>
             <p>And she has often said that she lov'd you. </p>
           </sp>
-          <sp xml:id="eng000751-e28190">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e28190">
             <speaker>Sylv. </speaker>
             <p>And I, Fool as I was, believ'd you too. </p>
           </sp>
-          <sp xml:id="eng000751-e28220">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e28220">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Why was that Faith a Crime? how can you still </l>
@@ -3265,14 +3318,14 @@
               <l>And, cruel Man, you find me Innocent. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28330">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e28330">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Because I once have had a false distrust, </l>
               <l>Therefore my Jealousie must ne're be just. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28380">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e28380">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Well, if I am still that Monster you suppose, </l>
@@ -3282,7 +3335,7 @@
               <l>And yet forgive a style so infamous. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28450">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e28450">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Oh Syren, canst thou Love? how many Rogues, </l>
@@ -3291,7 +3344,7 @@
               <l>Do, call this Love, yes perjur'd Woman, do. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28530">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e28530">
             <speaker>Corisc. </speaker>
             <lg>
               <l>To those harsh words, I was by passion driven: </l>
@@ -3300,7 +3353,7 @@
               <l>And yet through all your Rage, you Lov'd me still. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28600">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e28600">
             <speaker>Sylv. </speaker>
             <lg>
               <l>And you deserv'd it; you can't less than prove </l>
@@ -3315,14 +3368,14 @@
               <l>By all those Legions of your Loves you're true. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28720">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e28720">
             <speaker>Corisc. </speaker>
             <lg>
               <l>How can your fears such wild Chimaera's frame? </l>
               <l>Can you my harmless Conversation blame? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28770">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e28770">
             <speaker>Sylv. </speaker>
             <lg>
               <l>How harmlesly you their kind Visits paid, </l>
@@ -3331,7 +3384,7 @@
               <l>For which your Vows were broke, and Honour sold. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28840">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e28840">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Can you object the Gifts and Treats they made●… </l>
@@ -3342,11 +3395,11 @@
               <l>To hear all Loves, when I receiv'd but one? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e28930">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e28930">
             <speaker>Sylv. </speaker>
             <p>Oh Cunning! </p>
           </sp>
-          <sp xml:id="eng000751-e28960">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e28960">
             <speaker>Corisc. </speaker>
             <lg>
               <l>She bestows a worthless heart, </l>
@@ -3356,11 +3409,11 @@
               <l>I'm all Sylvano's sacred and entire. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e29050">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e29050">
             <speaker>Sylv. </speaker>
             <p>Magick and Witchcraft, I shall take new fire. </p>
           </sp>
-          <sp xml:id="eng000751-e29080">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e29080">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Alas, I made you Jealous on design, </l>
@@ -3370,14 +3423,14 @@
               <l>Could I have too much tryal of your Faith? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e29150">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e29150">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Death and the Devil! I am snar'd agen. </l>
               <l>The came and silly loving Fool's got in. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e29200">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e29200">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Men best express how Treasures they esteem </l>
@@ -3390,12 +3443,12 @@
               <l>To morrow at the Altar seal my heart. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e29310">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e29310">
             <speaker>Sylv. </speaker>
             <p>Thou wilt be true, thou must— by Heav'ns thou art. </p>
             <stage xml:id="eng000751-e29340">Kisses her hand. </stage>
           </sp>
-          <sp xml:id="eng000751-e29350">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e29350">
             <speaker>Corisc. </speaker>
             <lg>
               <l>In all my Charms there my Dear Love I'le meet, </l>
@@ -3409,7 +3462,7 @@
               <l>That practice it, as much unpittyed fall. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e29480">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e29480">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Forgive me, if I take my self away: </l>
@@ -3420,33 +3473,33 @@
               <l>But see I find you true. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e29580">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e29580">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Can you suspect me now? </l>
               <l>By my Religion and my Lise I'm true. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e29630">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e29630">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Pray Heaven this pious resolution last, </l>
               <l>For to your Sex that Grace comes not in hast. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e29680">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e29680">
             <speaker>Corisc. </speaker>
             <p>Why this mistrust? </p>
           </sp>
-          <sp xml:id="eng000751-e29710">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e29710">
             <speaker>Sylv. </speaker>
             <p>You know you never told me truth before. </p>
           </sp>
-          <sp xml:id="eng000751-e29740">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e29740">
             <speaker>Corisc. </speaker>
             <p>Now you're unkind. </p>
           </sp>
-          <sp xml:id="eng000751-e29770">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e29770">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Well I'le suspect no more. </l>
@@ -3458,7 +3511,7 @@
             </lg>
             <stage xml:id="eng000751-e29850">Exit. </stage>
           </sp>
-          <sp xml:id="eng000751-e29860">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e29860">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Poor credulous Fool— What dangers did I shun? </l>
@@ -3477,7 +3530,7 @@
         <div n="2" type="scene" xml:id="eng000751-e29990">
           <head>SCENE the Second. </head>
           <stage xml:id="eng000751-e30010">Enter <hi>Montano, Amaryllis </hi>bound, with Attendants. </stage>
-          <sp xml:id="eng000751-e30030">
+          <sp who="#eng000751-montano" xml:id="eng000751-e30030">
             <speaker>Mont. </speaker>
             <lg>
               <l>" Base present Age, which dost with thy impure </l>
@@ -3492,7 +3545,7 @@
               <l>" So from the World they can the Theft conceal. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e30160">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e30160">
             <speaker>Amar. </speaker>
             <lg>
               <l>" Had I been guilty, then it wou'd have been </l>
@@ -3502,7 +3555,7 @@
               <l>" Is a sad case. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e30240">
+          <sp who="#eng000751-montano" xml:id="eng000751-e30240">
             <speaker>Mont. </speaker>
             <lg>
               <l>A sad one 'tis indeed, </l>
@@ -3516,7 +3569,7 @@
               <l>Oh wretched fall! </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e30370">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e30370">
             <speaker>Amar. </speaker>
             <lg>
               <l>" For all this have not I </l>
@@ -3529,7 +3582,7 @@
               <l>" The wretched object as affords no aid. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e30480">
+          <sp who="#eng000751-montano" xml:id="eng000751-e30480">
             <speaker>Mont. </speaker>
             <lg>
               <l>" Be patient Nymph, and give me cause to tell, </l>
@@ -3538,7 +3591,7 @@
               <l>" Content with what is writ above for thee. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e30550">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e30550">
             <speaker>Amar. </speaker>
             <lg>
               <l>Oh 'tis a cruel Sentence, whether given </l>
@@ -3550,7 +3603,7 @@
               <l>" But what does that avail, if I my Life must pay? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e30650">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e30650">
             <speaker>Mirt. </speaker>
             <lg>
               <l>" Who fears to dye, dyes every hour i'th'day. </l>
@@ -3560,18 +3613,18 @@
               <l>" Flye from their Death. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e30730">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e30730">
             <speaker>Amar. </speaker>
             <p>" Perhaps some help may come. </p>
           </sp>
-          <sp xml:id="eng000751-e30760">
+          <sp who="#eng000751-montano" xml:id="eng000751-e30760">
             <speaker>Mont. </speaker>
             <lg>
               <l>Good Nymph no more, our duty calls us hence; </l>
               <l>I with your stay no longer can dispence. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e30810">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e30810">
             <speaker>Amar. </speaker>
             <lg>
               <l>" Dear Woods adieu then, my dear Woods adie●…, </l>
@@ -3592,7 +3645,7 @@
               <l>Rescue my Honour, and my Life defend. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e31020">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e31020">
             <speaker>
               <pb n="48" xml:id="eng000751-029-a"/>Corisc. </speaker>
             <lg>
@@ -3600,14 +3653,14 @@
               <l>You lost my Friendship when you lost your Fame. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e31080">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e31080">
             <speaker>Amor. </speaker>
             <lg>
               <l>Nay, then my ruine does too plain appear, </l>
               <l>I little thought such Treason harbour'd here. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e31130">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e31130">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Treason! Heaven knows my heart.— Treason in me? </l>
@@ -3626,7 +3679,7 @@
               <l>Oh the strange Charms of Curiosity— </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e31300">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e31300">
             <speaker>Amar. </speaker>
             <lg>
               <l>Oh my tir'd patience! Oh thou barbarous </l>
@@ -3635,7 +3688,7 @@
               <l>Against thy blood, that thou should'st thirst for mine. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e31370">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e31370">
             <speaker>Corisc. </speaker>
             <lg>
               <l>Abuse thy Virtue! thou hast none to wrong; </l>
@@ -3651,7 +3704,7 @@
               <l>Not half my B●…ss, nor half thy sweetness tast. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e31510">
+          <sp who="#eng000751-amaryllis" xml:id="eng000751-e31510">
             <speaker>Amar. </speaker>
             <lg>
               <l>Oh torture me no more, dear Sir, make hast, </l>
@@ -3660,7 +3713,7 @@
             </lg>
             <stage xml:id="eng000751-e31570">Ex▪ guarded </stage>
           </sp>
-          <sp xml:id="eng000751-e31580">
+          <sp who="#eng000751-corisca" xml:id="eng000751-e31580">
             <speaker>Corisc. </speaker>
             <lg>
               <l>See with what hast she takes her self away; </l>
@@ -3673,7 +3726,7 @@
             </lg>
             <stage xml:id="eng000751-e31670">Exit. </stage>
           </sp>
-          <sp xml:id="eng000751-e31680">
+          <sp who="#eng000751-montano" xml:id="eng000751-e31680">
             <speaker>Mont. </speaker>
             <lg>
               <l>" Fair Golden Age, when Milk was th'only Food: </l>
@@ -3697,7 +3750,7 @@
             <stage xml:id="eng000751-e31880">Exit. </stage>
             <stage xml:id="eng000751-e31890">Enter Mirtillo. </stage>
           </sp>
-          <sp xml:id="eng000751-e31910">
+          <sp who="#eng000751-mirtillo" xml:id="eng000751-e31910">
             <speaker>Mirt. </speaker>
             <lg>
               <l>Wretched Mirtill●…, to the Temple flye, </l>
@@ -3713,7 +3766,7 @@
         <div n="3" type="scene" xml:id="eng000751-e32040">
           <head>SCENE the Third. </head>
           <stage xml:id="eng000751-e32060">Enter Dorinda disguis'd in a Coat of Furs. </stage>
-          <sp xml:id="eng000751-e32080">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e32080">
             <speaker>Dorind. </speaker>
             <lg>
               <l>Sylvio, when I appear in my own shape, </l>
@@ -3744,7 +3797,7 @@
             <l>" Oh glorious Youth, true Child of Hercules, </l>
             <l>" That kilst with ease such Monstrous Beasts as these. </l>
           </lg>
-          <sp xml:id="eng000751-e32400">
+          <sp who="#eng000751-lynco" xml:id="eng000751-e32400">
             <speaker>Lynco. </speaker>
             <lg>
               <l>" Oh glorious Conquerour, by whom lyes slain </l>
@@ -3762,14 +3815,14 @@
               <l>" That Kilst with ease such Monstrous Beasts as these. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e32560">
+          <sp who="#eng000751-lynco" xml:id="eng000751-e32560">
             <speaker>Lynco. </speaker>
             <lg>
               <l>" Oh glorious Youth, who didst despise thy own </l>
               <l>" For others safeties. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e32610">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e32610">
             <speaker>Sylv. </speaker>
             <lg>
               <l>All that I have done, </l>
@@ -3788,11 +3841,11 @@
             <l>No more shall the Shepherds be frightned away, </l>
             <l>The Nymphs and their Loves in the Forrests shall play. </l>
           </lg>
-          <sp xml:id="eng000751-e32760">
+          <sp who="#eng000751-chorus" xml:id="eng000751-e32760">
             <speaker>Chor. </speaker>
             <p>No more shall the Shepherds, &amp;c. </p>
           </sp>
-          <sp xml:id="eng000751-e32800">
+          <sp who="#eng000751-lynco" xml:id="eng000751-e32800">
             <speaker>Lync. </speaker>
             <lg>
               <l>" Such peradventure was the famous Bore </l>
@@ -3802,7 +3855,7 @@
               <l>" To kill worse Monsters in thy riper dayes. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e32890">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e32890">
             <speaker>Sylv. </speaker>
             <lg>
               <l>" But stay, I see, unless my eyes mistake </l>
@@ -3814,7 +3867,7 @@
             </lg>
             <stage xml:id="eng000751-e32990">Sylvio draws an Arrow and shoots; at which Lynco, and some of the other Shepherds go out. </stage>
           </sp>
-          <sp xml:id="eng000751-e33020">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e33020">
             <speaker>Sylv. </speaker>
             <lg>
               <l>" What have I done, what have my Eyes beheld?▪ </l>
@@ -3824,39 +3877,39 @@
             </lg>
             <stage xml:id="eng000751-e33100">Enter Lynco and the former Shepherds, leading in Dorinda bleeding as wounded with an Arrow. </stage>
           </sp>
-          <sp xml:id="eng000751-e33130">
+          <sp who="#eng000751-lynco" xml:id="eng000751-e33130">
             <speaker>Lync. </speaker>
             <p>Lean gently on my Arm. </p>
           </sp>
-          <sp xml:id="eng000751-e33160">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e33160">
             <speaker>Dorin. </speaker>
             <p>May I not know— </p>
           </sp>
-          <sp xml:id="eng000751-e33190">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e33190">
             <speaker>Sylv. </speaker>
             <p>Dorinda! </p>
           </sp>
-          <sp xml:id="eng000751-e33220">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e33220">
             <speaker>Dorin. </speaker>
             <p>To what hand my death I owe? </p>
           </sp>
-          <sp xml:id="eng000751-e33250">
+          <sp who="#eng000751-lynco" xml:id="eng000751-e33250">
             <speaker>Lynco. </speaker>
             <p>To Sylvio's. </p>
           </sp>
-          <sp xml:id="eng000751-e33290">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e33290">
             <speaker>Dorin. </speaker>
             <p>Must I Sylvio's Martyr prove? </p>
           </sp>
-          <sp xml:id="eng000751-e33330">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e33330">
             <speaker>Sylv. </speaker>
             <p>How ill poor Nymph have I repaid thy Love. </p>
           </sp>
-          <sp xml:id="eng000751-e33360">
+          <sp who="#eng000751-dorco" xml:id="eng000751-e33360">
             <speaker>Dor. </speaker>
             <p>Kill'd by so dear a hand? </p>
           </sp>
-          <sp xml:id="eng000751-e33390">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e33390">
             <speaker>Sylv. </speaker>
             <lg>
               <l>How can I gaze </l>
@@ -3867,7 +3920,7 @@
               <l>" To her, whom I of all the world did shun. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e33470">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e33470">
             <speaker>Dorin. </speaker>
             <lg>
               <l>Why do you look so wildly— do not start </l>
@@ -3876,7 +3929,7 @@
               <l>" Those hands to wound me, your fair Eyes have taught. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e33540">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e33540">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Run Linc●…, flye, and bring some quick relief; </l>
@@ -3885,14 +3938,14 @@
             </lg>
             <stage xml:id="eng000751-e33610">Exit Linco. </stage>
           </sp>
-          <sp xml:id="eng000751-e33630">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e33630">
             <speaker>Dorin. </speaker>
             <lg>
               <l>This Care is wondrous kind, indeed it is. </l>
               <l>But now I fear it comes too late. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e33680">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e33680">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Too late. </l>
@@ -3901,7 +3954,7 @@
               <l>Horrors and Hell will haunt my tortur'd soul▪ </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e33750">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e33750">
             <speaker>Dorin. </speaker>
             <lg>
               <l>Wipe your dear Eyes, this grief I cannot see. </l>
@@ -3922,14 +3975,14 @@
               <l>Then with a sigh you will remember me. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e33960">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e33960">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Remember thee; is this weak Tribute all </l>
               <l>That I must pay for thy unhappy ●…all? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e34010">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e34010">
             <speaker>Domin. </speaker>
             <lg>
               <l>And▪ is not this enough? Will you do more </l>
@@ -3938,7 +3991,7 @@
               <l>Say, will you not? </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e34080">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e34080">
             <speaker>
               <pb n="53" xml:id="eng000751-031-b"/>Sylv. </speaker>
             <lg>
@@ -3949,11 +4002,11 @@
               <l>Now dear Dorinda, I am intirely thine. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e34170">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e34170">
             <speaker>Dorind. </speaker>
             <p>Then I'le dye pleas'd, if Death hath made you mine. </p>
           </sp>
-          <sp xml:id="eng000751-e34200">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e34200">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Must so much goodness dye? when thou art dead, </l>
@@ -3961,26 +4014,26 @@
               <l>Thus o're thy Dust I'le hang my drooping Head. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e34260">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e34260">
             <speaker>Dorin. </speaker>
             <p>But will you wish I were alive agen? </p>
           </sp>
-          <sp xml:id="eng000751-e34290">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e34290">
             <speaker>Sylv. </speaker>
             <p>More then for Heaven. </p>
           </sp>
-          <sp xml:id="eng000751-e34320">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e34320">
             <speaker>Dorind. </speaker>
             <p>But would you love me then? </p>
           </sp>
-          <sp xml:id="eng000751-e34350">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e34350">
             <speaker>Sylv. </speaker>
             <lg>
               <l>More than the Saints love Bliss: I'de be all thine: </l>
               <l>No Constancy, no Faith, no Love like mine. </l>
             </lg>
           </sp>
-          <sp xml:id="eng000751-e34400">
+          <sp who="#eng000751-dorinda" xml:id="eng000751-e34400">
             <speaker>Dorind. </speaker>
             <lg>
               <l>With Joy before I could my Life resign. </l>
@@ -3989,7 +4042,7 @@
             </lg>
           </sp>
           <stage xml:id="eng000751-e34460">Enter Lynco and Dameta. </stage>
-          <sp xml:id="eng000751-e34490">
+          <sp who="#eng000751-sylvio" xml:id="eng000751-e34490">
             <speaker>Sylv. </speaker>
             <lg>
               <l>Oh save her Life, with hers redeem my Fate: <stage xml:id="eng000751-e34530">to Da. </stage>
@@ -4011,7 +4064,7 @@
         <stage xml:id="eng000751-e34640">SCENE, the Temple of Diana. </stage>
         <stage xml:id="eng000751-e34660">Amaryllis appears bound, with Guards of Shepherds attending, with a Heads-man and an Axe. </stage>
         <stage xml:id="eng000751-e34690">Enter to her Mirtillo, who kneels to her. </stage>
-        <sp xml:id="eng000751-e34710">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e34710">
           <speaker>Amar. </speaker>
           <lg>
             <l>MIrtill●… rise; this posture does not fit </l>
@@ -4020,7 +4073,7 @@
             <l>Now I must lay that Vanity aside. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e34790">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e34790">
           <speaker>Mirt. </speaker>
           <lg>
             <l>If so much Innocence must bleed, and all </l>
@@ -4030,18 +4083,18 @@
             <l>You are a part of Heav'n, and 'tis my Duty now. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e34870">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e34870">
           <speaker>Amar. </speaker>
           <lg>
             <l>Mirtillo, do not chide me when I own, </l>
             <l>I grieve in death we two must part so soon. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e34930">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e34930">
           <speaker>Mirt. </speaker>
           <p>Oh my charm'd Ears, dear Excellence go on. </p>
         </sp>
-        <sp xml:id="eng000751-e34960">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e34960">
           <speaker>Amar. </speaker>
           <lg>
             <l>Had Life been mine, I had kept this secret hid; </l>
@@ -4055,7 +4108,7 @@
             <l>That blood that blushes when I tell you so. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35090">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e35090">
           <speaker>Mirt. </speaker>
           <lg>
             <l>What divine Raptures from this sweetness flow. </l>
@@ -4064,7 +4117,7 @@
             <l>To break so soon. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35160">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e35160">
           <speaker>Amar. </speaker>
           <lg>
             <l>Since I have gone thus far, </l>
@@ -4078,7 +4131,7 @@
             <l>And so recall my Vows to pay 'em here. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35290">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e35290">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Now t' all this dazeling kindness hear </l>
@@ -4094,11 +4147,11 @@
             <l>A Devil such as I, or Saint like thee. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35440">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e35440">
           <speaker>Amar. </speaker>
           <p>Mirtillo, 'twas unkind, 'twas much unkind. </p>
         </sp>
-        <sp xml:id="eng000751-e35480">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e35480">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Is that the harshest name, that you can find? </l>
@@ -4109,40 +4162,40 @@
             <l>And fall a Funeral Taper at her Urn. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35570">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e35570">
           <speaker>Amar. </speaker>
           <p>Hold unkind Sir— </p>
         </sp>
-        <sp xml:id="eng000751-e35600">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e35600">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Let me go on▪ What Curse too great can be </l>
             <l>For that Infernal Slave that Murders thee? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35650">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e35650">
           <speaker>Amar. </speaker>
           <lg>
             <l>As I forgive you Sir (and may Heav'n too) </l>
             <l>No farther this unpleasing style pursue. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35700">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e35700">
           <speaker>Mirt. </speaker>
           <p>Must I be silent then? </p>
         </sp>
-        <sp xml:id="eng000751-e35730">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e35730">
           <speaker>Amar. </speaker>
           <lg>
             <l>Yes Sir, you shall. </l>
             <l>To our unhappy Stars impute my fall. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35780">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e35780">
           <speaker>Mirt. </speaker>
           <p>Oh Miracle of Goodness! </p>
         </sp>
-        <sp xml:id="eng000751-e35810">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e35810">
           <speaker>Amar. </speaker>
           <lg>
             <l>And if e're </l>
@@ -4151,7 +4204,7 @@
             <l>'Tis worse to bear your horrours than to dye. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e35880">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e35880">
           <speaker>
             <pb n="56" xml:id="eng000751-033-a"/>Mirt. </speaker>
           <lg>
@@ -4161,7 +4214,7 @@
           <stage xml:id="eng000751-e35930">Enter Corisca. </stage>
           <p>Corisca here? </p>
         </sp>
-        <sp xml:id="eng000751-e35970">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e35970">
           <speaker>Corisc. </speaker>
           <lg>
             <l>The Priest within, and the chief Ministers </l>
@@ -4170,11 +4223,11 @@
             <l>Keep distance, and I shall not be o're-heard. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e36040">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e36040">
           <speaker>Mirt. </speaker>
           <p>Dares thy Accursed Face— </p>
         </sp>
-        <sp xml:id="eng000751-e36070">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e36070">
           <speaker>Corisc. </speaker>
           <lg>
             <l>What dismal Prologue's there? <stage xml:id="eng000751-e36110">aside. </stage>
@@ -4183,23 +4236,23 @@
             <l>I come to save her Life. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e36140">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e36140">
           <speaker>Mirt. </speaker>
           <p>Wilt thou protect her Life, and clear her Fame. </p>
         </sp>
-        <sp xml:id="eng000751-e36170">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e36170">
           <speaker>Cor. </speaker>
           <p>I will. </p>
         </sp>
-        <sp xml:id="eng000751-e36200">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e36200">
           <speaker>Mirt. </speaker>
           <p>Then I'le raise Altars to thy Name. </p>
         </sp>
-        <sp xml:id="eng000751-e36230">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e36230">
           <speaker>Corisc. </speaker>
           <p>When I betray'd you— </p>
         </sp>
-        <sp xml:id="eng000751-e36260">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e36260">
           <speaker>Mirt. </speaker>
           <lg>
             <l>I forgive the sin. </l>
@@ -4208,15 +4261,15 @@
             <l>I'le Live for ever. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e36330">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e36330">
           <speaker>Corisc. </speaker>
           <p>Hold. Not in her Arms. </p>
         </sp>
-        <sp xml:id="eng000751-e36360">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e36360">
           <speaker>Mirt. </speaker>
           <p>What do I hear? </p>
         </sp>
-        <sp xml:id="eng000751-e36390">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e36390">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Unseal your blinded Eyes. </l>
@@ -4231,11 +4284,11 @@
             <l>And Amaryllis for that Grace shall live. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e36550">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e36550">
           <speaker>Amar. </speaker>
           <p>Oh horrour! what a killing sound is here? </p>
         </sp>
-        <sp xml:id="eng000751-e36580">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e36580">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Nor for her safety think you pay so dear. </l>
@@ -4244,7 +4297,7 @@
             <l>Betwixt your Loves, have your vain hopes undone. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e36650">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e36650">
           <speaker>
             <pb n="57" xml:id="eng000751-033-b"/>Amar. </speaker>
           <lg>
@@ -4256,18 +4309,18 @@
             <l>Let me not sink in Tortures to my Tomb. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e36750">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e36750">
           <speaker>Corisc. </speaker>
           <p>Oh my wrack'd heart! </p>
         </sp>
-        <sp xml:id="eng000751-e36780">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e36780">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Oh my transported soul! </l>
             <l>Was ever Love so true? </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e36830">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e36830">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Was ever Fool </l>
@@ -4276,7 +4329,7 @@
             <l>But know in one half hour thy darling dyes. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e36900">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e36900">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Infernal Fiend. </l>
@@ -4296,7 +4349,7 @@
           <l>" Ah pitty thy Arcadia, and that rage </l>
           <l>" Thou dost in others in thy self asswage. </l>
         </lg>
-        <sp xml:id="eng000751-e37140">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e37140">
           <speaker>Mirt. </speaker>
           <lg>
             <l>" Once more your sacred Voyces all Unite; </l>
@@ -4318,7 +4371,7 @@
           <l>Who following their corrupted Wills, </l>
           <l>" Thee and the glory of the ancient World forsake. </l>
         </lg>
-        <sp xml:id="eng000751-e37340">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e37340">
           <speaker>Mirt. </speaker>
           <lg>
             <l>To what dire Prodigies does sin give Birth? </l>
@@ -4329,7 +4382,7 @@
             <l>Our Ills too plain, and our Revenge too slow. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e37430">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e37430">
           <speaker>Mirt. </speaker>
           <lg>
             <l>These Prodigies by angry Heav'n are sent </l>
@@ -4341,7 +4394,7 @@
             <l>Heaven's only Clouded when the guiltless dyes. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e37530">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e37530">
           <speaker>Corisc. </speaker>
           <lg>
             <l>How! guiltless? would she were: Then these chast Groves </l>
@@ -4350,7 +4403,7 @@
             <l>Nor had this Funeral pomp drawn all this mourning crowd. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e37600">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e37600">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Exquisite Fiend! </l>
@@ -4361,11 +4414,11 @@
             <l>The Goddess you adore is not more Chast. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e37690">
+        <sp who="#eng000751-montano" xml:id="eng000751-e37690">
           <speaker>Mont. </speaker>
           <p>Forbear this Blasphemy. </p>
         </sp>
-        <sp xml:id="eng000751-e37720">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e37720">
           <speaker>Corisc. </speaker>
           <lg>
             <l>No, let him Rave; </l>
@@ -4374,24 +4427,24 @@
           </lg>
           <stage xml:id="eng000751-e37780">aside to Mirt. </stage>
         </sp>
-        <sp xml:id="eng000751-e37800">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e37800">
           <speaker>Mirt. </speaker>
           <p>Oh my distracted Soul! </p>
         </sp>
-        <sp xml:id="eng000751-e37830">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e37830">
           <speaker>Corisc. </speaker>
           <p>Yet yield, and she shall live. </p>
           <stage xml:id="eng000751-e37860">to Mirt. </stage>
         </sp>
-        <sp xml:id="eng000751-e37880">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e37880">
           <speaker>Mirt. </speaker>
           <p>No Traytress. </p>
         </sp>
-        <sp xml:id="eng000751-e37910">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e37910">
           <speaker>Corisc. </speaker>
           <p>Constant Fool! </p>
         </sp>
-        <sp xml:id="eng000751-e37940">
+        <sp who="#eng000751-montano" xml:id="eng000751-e37940">
           <speaker>
             <pb n="59" xml:id="eng000751-034-b"/>Mont. </speaker>
           <lg>
@@ -4400,7 +4453,7 @@
             <l>Make thy last Prayer. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38000">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e38000">
           <speaker>Amar. </speaker>
           <lg>
             <l>Kneeling. Since then my Stars my Martyrdom decree, </l>
@@ -4411,7 +4464,7 @@
             <l>" My Soul to Him, in whom alone I live. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38100">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e38100">
           <speaker>Mirt. </speaker>
           <lg>
             <l>If she must dye: </l>
@@ -4419,21 +4472,21 @@
           </lg>
           <stage xml:id="eng000751-e38150">Kneels &amp; kisses her hand. </stage>
         </sp>
-        <sp xml:id="eng000751-e38160">
+        <sp who="#eng000751-montano" xml:id="eng000751-e38160">
           <speaker>Mont. </speaker>
           <lg>
             <l>Rude Swain forbear. </l>
             <l>Such profanation is not suffer'd here. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38210">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e38210">
           <speaker>Mirt. </speaker>
           <lg>
             <l>You may more easily Seas from Seas divide: </l>
             <l>Our Souls are joyn'd, and make one mixing Tide. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38260">
+        <sp who="#eng000751-montano" xml:id="eng000751-e38260">
           <speaker>Mont. </speaker>
           <lg>
             <l>Force 'em asunder. <stage xml:id="eng000751-e38300">The Attendants force 'em apart. </stage>
@@ -4444,14 +4497,14 @@
             <l>And from such stains not their own Altars free. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38350">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e38350">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Is there such Treason in a parting kiss? </l>
             <l>For ever torn from all my dearest bliss. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38400">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e38400">
           <speaker>Amar. </speaker>
           <lg>
             <l>Mirtillo, this is an unkind Divorce; </l>
@@ -4461,15 +4514,15 @@
           </lg>
         </sp>
         <stage xml:id="eng000751-e38480">Enter Carino and Dameta. </stage>
-        <sp xml:id="eng000751-e38510">
+        <sp who="#eng000751-carino" xml:id="eng000751-e38510">
           <speaker>Car. </speaker>
           <p>Hold, hold, your Fatal Doom! </p>
         </sp>
-        <sp xml:id="eng000751-e38540">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e38540">
           <speaker>Mirt. </speaker>
           <p>My Father here? </p>
         </sp>
-        <sp xml:id="eng000751-e38570">
+        <sp who="#eng000751-carino" xml:id="eng000751-e38570">
           <speaker>Carin. </speaker>
           <lg>
             <l>Yes, and thy Father is thy Murderer. </l>
@@ -4478,11 +4531,11 @@
             <l>'Tis his own blood he spills. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38650">
+        <sp who="#eng000751-montano" xml:id="eng000751-e38650">
           <speaker>Mont. </speaker>
           <p>Take heed bold Man. </p>
         </sp>
-        <sp xml:id="eng000751-e38680">
+        <sp who="#eng000751-carino" xml:id="eng000751-e38680">
           <speaker>Car. </speaker>
           <lg>
             <l>Sir I speak truth, and fright me if you can. </l>
@@ -4494,15 +4547,15 @@
             <l>Such care had Heav'n— </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38780">
+        <sp who="#eng000751-montano" xml:id="eng000751-e38780">
           <speaker>Mont. </speaker>
           <p>Where is Dameta? </p>
         </sp>
-        <sp xml:id="eng000751-e38820">
+        <sp who="#eng000751-dameta" xml:id="eng000751-e38820">
           <speaker>Dam. </speaker>
           <p>Here. </p>
         </sp>
-        <sp xml:id="eng000751-e38850">
+        <sp who="#eng000751-montano" xml:id="eng000751-e38850">
           <speaker>Mont. </speaker>
           <lg>
             <l>" When you came back ('tis since some 20. year) </l>
@@ -4513,7 +4566,7 @@
             <l>" How comes it then— </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e38950">
+        <sp who="#eng000751-dameta" xml:id="eng000751-e38950">
           <speaker>Dam. </speaker>
           <lg>
             <l>Your pardon Royal Sir, </l>
@@ -4528,7 +4581,7 @@
             <l>" <hi>By his mis-guided Fathers Cruelty</hi>. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39090">
+        <sp who="#eng000751-montano" xml:id="eng000751-e39090">
           <speaker>Mont. </speaker>
           <lg>
             <l>" Ah me! it is too clear: This act of mine, </l>
@@ -4537,7 +4590,7 @@
             <l>Preserve my blood to have it thus defil'd. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39160">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e39160">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Great Sir, from whom my Royal Birth I draw, </l>
@@ -4551,7 +4604,7 @@
             <l>Your Cynthias juster Victim, offer me. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39300">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e39300">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Now all my hopes are ruin'd— </l>
@@ -4560,14 +4613,14 @@
             <l>By my curst Arts my dear Mirtillo slain! </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39380">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e39380">
           <speaker>Amar. </speaker>
           <lg>
             <l>Why generous Youth do you pursue this claim? </l>
             <l>You'l save me from the Axe to dye with shame. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39430">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e39430">
           <speaker>
             <pb n="61" xml:id="eng000751-035-b"/>Mirt. </speaker>
           <lg>
@@ -4575,7 +4628,7 @@
             <l>When to redeem thy Life, my blood may flow. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39480">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e39480">
           <speaker>Corisc. </speaker>
           <p>I cannot see him dye. </p>
           <stage xml:id="eng000751-e39510">aside. </stage>
@@ -4587,22 +4640,22 @@
             <l>And your Arcadias hope— </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39600">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e39600">
           <speaker>Sylvan. </speaker>
           <lg>
             <l>What do I see! </l>
             <l>By all the Devils in her Soul, 'tis she. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39650">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e39650">
           <speaker>Corisc. </speaker>
           <p>Alas, I've been unkind— </p>
         </sp>
-        <sp xml:id="eng000751-e39680">
+        <sp who="#eng000751-montano" xml:id="eng000751-e39680">
           <speaker>Mont. </speaker>
           <p>What does she say? </p>
         </sp>
-        <sp xml:id="eng000751-e39710">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e39710">
           <speaker>Corisc. </speaker>
           <lg>
             <l>To Death with him; take the fond Fool away. </l>
@@ -4610,7 +4663,7 @@
             <l>A Slave so senseless don't deserve to live. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39770">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e39770">
           <speaker>Sylvan. </speaker>
           <lg>
             <l>By all that's good, she Loves the smooth-fac'd Youth. </l>
@@ -4625,7 +4678,7 @@
             <l>And all the Prayers she makes, are Blasphemies. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e39900">
+        <sp who="#eng000751-carino" xml:id="eng000751-e39900">
           <speaker>Carin. </speaker>
           <lg>
             <l>" Thou art the happiest Father, and most dear </l>
@@ -4647,7 +4700,7 @@
             <l>" From Loving her, as Love and Hatred are. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e40140">
+        <sp who="#eng000751-montano" xml:id="eng000751-e40140">
           <speaker>Mont. </speaker>
           <lg>
             <l>" In what a mist of Errors, how profound </l>
@@ -4665,14 +4718,14 @@
           </lg>
           <stage xml:id="eng000751-e40340">Gives him Amaryllis. </stage>
         </sp>
-        <sp xml:id="eng000751-e40360">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e40360">
           <speaker>Mirt. </speaker>
           <lg>
             <l>Then the Immortal Treasure let me seize, </l>
             <l>And thus kind Sir, embrace your sacred knees. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e40410">
+        <sp who="#eng000751-amaryllis" xml:id="eng000751-e40410">
           <speaker>Amar. </speaker>
           <lg>
             <l>Our Loves thus Crown'd, Ergasto flye, and save </l>
@@ -4680,15 +4733,15 @@
             <l>Tell him I live, and all his fears remove. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e40480">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e40480">
           <speaker>Mirt. </speaker>
           <p>Thy Piety's as Charming as thy Love. </p>
         </sp>
-        <sp xml:id="eng000751-e40510">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e40510">
           <speaker>Corisc. </speaker>
           <p>Break, break my heart. </p>
         </sp>
-        <sp xml:id="eng000751-e40540">
+        <sp who="#eng000751-montano" xml:id="eng000751-e40540">
           <speaker>Mont. </speaker>
           <lg>
             <l>But as the Gods ordein'd </l>
@@ -4703,7 +4756,7 @@
             <l>Repent, and say she's Innocent. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e40670">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e40670">
           <speaker>Corisc. </speaker>
           <lg>
             <l>I do. </l>
@@ -4711,26 +4764,26 @@
           </lg>
           <stage xml:id="eng000751-e40720">to Mir. </stage>
         </sp>
-        <sp xml:id="eng000751-e40730">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e40730">
           <speaker>Sylvan. </speaker>
           <lg>
             <l>Yes, she has loved him, and all Man-kind beside; </l>
             <l>The Sex is not enough to please her Pride. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e40780">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e40780">
           <speaker>Corisc. </speaker>
           <p>Oh how I hate that Face. </p>
         </sp>
-        <sp xml:id="eng000751-e40810">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e40810">
           <speaker>Sylvan. </speaker>
           <p>I know you do. </p>
         </sp>
-        <sp xml:id="eng000751-e40840">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e40840">
           <speaker>Corisc. </speaker>
           <p>Dear World farewell, and all delights adieu. </p>
         </sp>
-        <sp xml:id="eng000751-e40870">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e40870">
           <speaker>
             <pb n="63" xml:id="eng000751-036-b"/>Silvan. </speaker>
           <lg>
@@ -4748,22 +4801,22 @@
             <l>Of Nature, Heav'n, and Natures works disgrace. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41020">
+        <sp who="#eng000751-montano" xml:id="eng000751-e41020">
           <speaker>Mont. </speaker>
           <p>Is all this Truth? </p>
         </sp>
-        <sp xml:id="eng000751-e41050">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e41050">
           <speaker>Sylvan. </speaker>
           <p>Too true. </p>
         </sp>
-        <sp xml:id="eng000751-e41080">
+        <sp who="#eng000751-montano" xml:id="eng000751-e41080">
           <speaker>Mont. </speaker>
           <lg>
             <l>Just Heav'n forbid. </l>
             <l>False Nymph, did You— </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41130">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41130">
           <speaker>Corisc. </speaker>
           <lg>
             <l>I know not what I did; </l>
@@ -4771,7 +4824,7 @@
             <l>I have my Pardon, and I Own it all. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41190">
+        <sp who="#eng000751-montano" xml:id="eng000751-e41190">
           <speaker>Mont. </speaker>
           <lg>
             <l>Had ever blood been so unjustly spilt. </l>
@@ -4780,11 +4833,11 @@
             <l>Not only pardon you, but make you just. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41260">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41260">
           <speaker>Cor. </speaker>
           <p>I am all horrour. </p>
         </sp>
-        <sp xml:id="eng000751-e41290">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e41290">
           <speaker>Mirt. </speaker>
           <lg>
             <l>If this false-Fair ones Crimes you can forgive, </l>
@@ -4792,11 +4845,11 @@
             <l>She's yours. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41350">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41350">
           <speaker>Corisc. </speaker>
           <p>Death and Confusion! </p>
         </sp>
-        <sp xml:id="eng000751-e41380">
+        <sp who="#eng000751-montano" xml:id="eng000751-e41380">
           <speaker>Mont. </speaker>
           <lg>
             <l>'Twas breach of Faith was the provoking guilt, </l>
@@ -4804,7 +4857,7 @@
             <l>But it shall end. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41450">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e41450">
           <speaker>Sylv. </speaker>
           <lg>
             <l>You could not please me more. </l>
@@ -4815,7 +4868,7 @@
             <l>Marriage is all the dear Revenge that's left. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41540">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41540">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Is this your promis'd mercy? </l>
@@ -4823,51 +4876,51 @@
             <l>Let me meet Wracks, Death, any thing but him. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41590">
+        <sp who="#eng000751-montano" xml:id="eng000751-e41590">
           <speaker>Mont. </speaker>
           <p>Is this your Penitence for your pardon'd Crime? </p>
         </sp>
-        <sp xml:id="eng000751-e41620">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41620">
           <speaker>Corisc. </speaker>
           <lg>
             <l>To Marry him is all the plagues of Hell: </l>
             <l>Adders and Scorpions. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41670">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e41670">
           <speaker>Sylvan. </speaker>
           <lg>
             <l>No, 'tis wondrous well. </l>
             <l>I shall Convert thee, pretty Infidel. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41720">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41720">
           <speaker>Corisc. </speaker>
           <p>Have you no mercy left? no pitty Sir? </p>
         </sp>
-        <sp xml:id="eng000751-e41750">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e41750">
           <speaker>Sylvan. </speaker>
           <p>Have you no Justice left? Give me but her— </p>
         </sp>
-        <sp xml:id="eng000751-e41780">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41780">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Of all the Savages the World can find, </l>
             <l>Let me but shun that Monster of the kind. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41830">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e41830">
           <speaker>Sylv. </speaker>
           <lg>
             <l>Of all the happiness of humane Life, </l>
             <l>I only beg that Jewel, for a Wife. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41880">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41880">
           <speaker>Cor. </speaker>
           <p>Oh Sir! you Stab me, Kill me— </p>
         </sp>
-        <sp xml:id="eng000751-e41910">
+        <sp who="#eng000751-montano" xml:id="eng000751-e41910">
           <speaker>Mont. </speaker>
           <lg>
             <l>When you Swore </l>
@@ -4876,22 +4929,22 @@
             <l>Be just, as you wou'd save your forfeit Head. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e41980">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e41980">
           <speaker>Corisc. </speaker>
           <p>I loath thy very sight. </p>
         </sp>
-        <sp xml:id="eng000751-e42010">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e42010">
           <speaker>Sylv. </speaker>
           <lg>
             <l>And I love thee, my pretty Innocence, </l>
             <l>As much as thy Hot blood loves Impotence. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42060">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e42060">
           <speaker>Cor. </speaker>
           <p>Why then Inhumane will you Marry me? </p>
         </sp>
-        <sp xml:id="eng000751-e42090">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e42090">
           <speaker>Sylvan. </speaker>
           <lg>
             <l>To torture every Vein of thy false heart, </l>
@@ -4905,7 +4958,7 @@
           </lg>
         </sp>
         <stage xml:id="eng000751-e42200">Enter Sylvio and Dorinda, who kneel to Montano. </stage>
-        <sp xml:id="eng000751-e42240">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e42240">
           <speaker>Corisc. </speaker>
           <lg>
             <l>Yes, Villain do, and my Revenge shall be, </l>
@@ -4914,11 +4967,11 @@
             <l>Oh I am Mad— </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42310">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e42310">
           <speaker>Sylvan. </speaker>
           <p>A very hopefull pair. </p>
         </sp>
-        <sp xml:id="eng000751-e42340">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e42340">
           <speaker>Corisc. </speaker>
           <lg>
             <l>I'le meet thy loath'd embrace in such a frightful shape, </l>
@@ -4936,14 +4989,14 @@
             <l>And love you with desires so pure, so chast— </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42490">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e42490">
           <speaker>Sylvna. </speaker>
           <lg>
             <l>Stand off; the Witchcrafts of those Eyes are past: </l>
             <l>Dear Mine, I'le lay thy wandring Devils fast. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42540">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e42540">
           <speaker>Corisc. </speaker>
           <lg>
             <l>You shall be welcome to my Soul, my Arms. </l>
@@ -4954,7 +5007,7 @@
             <l>And make him lead a wretched Husbands Life. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42630">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e42630">
           <speaker>Sylvan. </speaker>
           <lg>
             <l>Let him come near thee, Syren, if he can; </l>
@@ -4962,7 +5015,7 @@
             <l>I'le keep my aking Fore-head from that pain. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42700">
+        <sp who="#eng000751-corisca" xml:id="eng000751-e42700">
           <speaker>Corisc. </speaker>
           <lg>
             <l>In all the Cheats I used, the tricks I plaid, </l>
@@ -4974,21 +5027,21 @@
             <l>A Curse upon my Idle Honesty. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42810">
+        <sp who="#eng000751-sylvano" xml:id="eng000751-e42810">
           <speaker>Sylvan. </speaker>
           <lg>
             <l>Can she be honest then at last? If this </l>
             <l>Be true, ye Gods, I ask no greater Bliss. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42870">
+        <sp who="#eng000751-sylvio" xml:id="eng000751-e42870">
           <speaker>Sylvio. </speaker>
           <lg>
             <l>Your Confirmation of our Loves has given </l>
             <l>Me all the joys I wish on this side Heav'n. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e42920">
+        <sp who="#eng000751-dorinda" xml:id="eng000751-e42920">
           <speaker>Dorind. </speaker>
           <lg>
             <l>But Sylvio see you Love me as you shou'd, </l>
@@ -4998,7 +5051,7 @@
           </lg>
         </sp>
         <stage xml:id="eng000751-e43010">Enter Titiro. </stage>
-        <sp xml:id="eng000751-e43030">
+        <sp who="#eng000751-titiro" xml:id="eng000751-e43030">
           <speaker>Tit. </speaker>
           <lg>
             <l>Welcome to Life, and to thy Fathers Arms: </l>
@@ -5009,15 +5062,15 @@
             <l>This day has all the longest Life could give. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e43130">
+        <sp who="#eng000751-dorinda" xml:id="eng000751-e43130">
           <speaker>Dorin. </speaker>
           <p>Gerana. </p>
         </sp>
-        <sp xml:id="eng000751-e43160">
+        <sp who="#eng000751-gerana" xml:id="eng000751-e43160">
           <speaker>Ger. </speaker>
           <p>My dear Joy. </p>
         </sp>
-        <sp xml:id="eng000751-e43190">
+        <sp who="#eng000751-dorinda" xml:id="eng000751-e43190">
           <speaker>Dorind. </speaker>
           <lg>
             <l>The happy Dart </l>
@@ -5027,11 +5080,11 @@
             <l>But you have been unkind. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e43290">
+        <sp who="#eng000751-gerana" xml:id="eng000751-e43290">
           <speaker>Ger. </speaker>
           <p>I? </p>
         </sp>
-        <sp xml:id="eng000751-e43320">
+        <sp who="#eng000751-dorco" xml:id="eng000751-e43320">
           <speaker>Dor. </speaker>
           <lg>
             <l>Yes, you said </l>
@@ -5040,7 +5093,7 @@
             <l>My Sylvio finds no fault that I'm too Young. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e43410">
+        <sp who="#eng000751-montano" xml:id="eng000751-e43410">
           <speaker>Mont. </speaker>
           <lg>
             <l>Now my dear Children, share your Fathers heart; </l>
@@ -5051,7 +5104,7 @@
             <l>Is but a spark of the Celestial fires. </l>
           </lg>
         </sp>
-        <sp xml:id="eng000751-e43510">
+        <sp who="#eng000751-mirtillo" xml:id="eng000751-e43510">
           <speaker>Mirt. </speaker>
           <lg>
             <l>All other Vertues may be taught a hove; </l>

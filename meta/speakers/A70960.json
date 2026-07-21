@@ -1,0 +1,2384 @@
+{
+  "particDesc": [
+    {
+      "name": "Man",
+      "id": "man",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Simon",
+      "id": "simon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Surgeon",
+      "id": "surgeon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "old-gerald",
+      "name": "Old Gerald",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "young-gerald",
+      "name": "Young Gerald",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "doctor-s-wife",
+      "name": "Doctor's Wife",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "angelica",
+      "name": "Angelica",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "beatrice",
+      "name": "Beatrice",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "martin",
+      "name": "Martin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "crispin",
+      "name": "Crispin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "symon",
+      "name": "Symon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "waiting-woman",
+      "name": "Waiting Woman",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A70960-e1760": [
+      "angelica"
+    ],
+    "A70960-e1790": [
+      "beatrice"
+    ],
+    "A70960-e1820": [
+      "angelica"
+    ],
+    "A70960-e1860": [
+      "beatrice"
+    ],
+    "A70960-e1900": [
+      "angelica"
+    ],
+    "A70960-e1930": [
+      "beatrice"
+    ],
+    "A70960-e1960": [
+      "angelica"
+    ],
+    "A70960-e1990": [
+      "beatrice"
+    ],
+    "A70960-e2020": [
+      "angelica"
+    ],
+    "A70960-e2050": [
+      "beatrice"
+    ],
+    "A70960-e2080": [
+      "angelica"
+    ],
+    "A70960-e2110": [
+      "beatrice"
+    ],
+    "A70960-e2140": [
+      "angelica"
+    ],
+    "A70960-e2170": [
+      "beatrice"
+    ],
+    "A70960-e2210": [
+      "doctor-s-wife"
+    ],
+    "A70960-e2240": [
+      "doctor"
+    ],
+    "A70960-e2270": [
+      "doctor-s-wife"
+    ],
+    "A70960-e2320": [
+      "doctor"
+    ],
+    "A70960-e2350": [
+      "doctor-s-wife"
+    ],
+    "A70960-e2380": [
+      "doctor"
+    ],
+    "A70960-e2410": [
+      "doctor-s-wife"
+    ],
+    "A70960-e2440": [
+      "doctor"
+    ],
+    "A70960-e2480": [
+      "doctor-s-wife"
+    ],
+    "A70960-e2530": [
+      "crispin"
+    ],
+    "A70960-e2580": [
+      "beatrice"
+    ],
+    "A70960-e2660": [
+      "martin"
+    ],
+    "A70960-e2690": [
+      "old-gerald"
+    ],
+    "A70960-e2720": [
+      "martin"
+    ],
+    "A70960-e2750": [
+      "old-gerald"
+    ],
+    "A70960-e2790": [
+      "martin"
+    ],
+    "A70960-e2820": [
+      "old-gerald"
+    ],
+    "A70960-e2850": [
+      "martin"
+    ],
+    "A70960-e2880": [
+      "old-gerald"
+    ],
+    "A70960-e2910": [
+      "martin"
+    ],
+    "A70960-e2940": [
+      "old-gerald"
+    ],
+    "A70960-e2970": [
+      "martin"
+    ],
+    "A70960-e3000": [
+      "old-gerald"
+    ],
+    "A70960-e3030": [
+      "martin"
+    ],
+    "A70960-e3060": [
+      "old-gerald"
+    ],
+    "A70960-e3090": [
+      "martin"
+    ],
+    "A70960-e3120": [
+      "old-gerald"
+    ],
+    "A70960-e3150": [
+      "martin"
+    ],
+    "A70960-e3180": [
+      "old-gerald"
+    ],
+    "A70960-e3210": [
+      "martin"
+    ],
+    "A70960-e3240": [
+      "old-gerald"
+    ],
+    "A70960-e3270": [
+      "martin"
+    ],
+    "A70960-e3300": [
+      "old-gerald"
+    ],
+    "A70960-e3330": [
+      "martin"
+    ],
+    "A70960-e3370": [
+      "doctor"
+    ],
+    "A70960-e3410": [
+      "old-gerald"
+    ],
+    "A70960-e3440": [
+      "doctor"
+    ],
+    "A70960-e3470": [
+      "old-gerald"
+    ],
+    "A70960-e3500": [
+      "doctor"
+    ],
+    "A70960-e3530": [
+      "old-gerald"
+    ],
+    "A70960-e3560": [
+      "doctor"
+    ],
+    "A70960-e3590": [
+      "old-gerald"
+    ],
+    "A70960-e3620": [
+      "doctor"
+    ],
+    "A70960-e3650": [
+      "old-gerald"
+    ],
+    "A70960-e3680": [
+      "doctor"
+    ],
+    "A70960-e3710": [
+      "old-gerald"
+    ],
+    "A70960-e3740": [
+      "doctor"
+    ],
+    "A70960-e3770": [
+      "old-gerald"
+    ],
+    "A70960-e3800": [
+      "doctor"
+    ],
+    "A70960-e3830": [
+      "old-gerald"
+    ],
+    "A70960-e3860": [
+      "doctor"
+    ],
+    "A70960-e3890": [
+      "old-gerald"
+    ],
+    "A70960-e3920": [
+      "doctor"
+    ],
+    "A70960-e3950": [
+      "old-gerald"
+    ],
+    "A70960-e3980": [
+      "doctor"
+    ],
+    "A70960-e4010": [
+      "old-gerald"
+    ],
+    "A70960-e4040": [
+      "doctor"
+    ],
+    "A70960-e4070": [
+      "old-gerald"
+    ],
+    "A70960-e4100": [
+      "doctor"
+    ],
+    "A70960-e4130": [
+      "old-gerald"
+    ],
+    "A70960-e4160": [
+      "doctor"
+    ],
+    "A70960-e4190": [
+      "old-gerald"
+    ],
+    "A70960-e4220": [
+      "doctor"
+    ],
+    "A70960-e4250": [
+      "old-gerald"
+    ],
+    "A70960-e4280": [
+      "doctor"
+    ],
+    "A70960-e4310": [
+      "old-gerald"
+    ],
+    "A70960-e4340": [
+      "doctor"
+    ],
+    "A70960-e4370": [
+      "old-gerald"
+    ],
+    "A70960-e4400": [
+      "doctor"
+    ],
+    "A70960-e4430": [
+      "old-gerald"
+    ],
+    "A70960-e4460": [
+      "doctor"
+    ],
+    "A70960-e4490": [
+      "old-gerald"
+    ],
+    "A70960-e4520": [
+      "doctor"
+    ],
+    "A70960-e4550": [
+      "old-gerald"
+    ],
+    "A70960-e4580": [
+      "doctor"
+    ],
+    "A70960-e4620": [
+      "old-gerald"
+    ],
+    "A70960-e4660": [
+      "martin"
+    ],
+    "A70960-e4700": [
+      "doctor"
+    ],
+    "A70960-e4740": [
+      "doctor-s-wife"
+    ],
+    "A70960-e4770": [
+      "old-gerald"
+    ],
+    "A70960-e4800": [
+      "doctor"
+    ],
+    "A70960-e4830": [
+      "old-gerald"
+    ],
+    "A70960-e4860": [
+      "doctor"
+    ],
+    "A70960-e4890": [
+      "old-gerald"
+    ],
+    "A70960-e4920": [
+      "doctor"
+    ],
+    "A70960-e4950": [
+      "doctor-s-wife"
+    ],
+    "A70960-e4980": [
+      "old-gerald"
+    ],
+    "A70960-e5010": [
+      "doctor"
+    ],
+    "A70960-e5050": [
+      "old-gerald"
+    ],
+    "A70960-e5080": [
+      "doctor-s-wife"
+    ],
+    "A70960-e5120": [
+      "old-gerald"
+    ],
+    "A70960-e5150": [
+      "doctor-s-wife"
+    ],
+    "A70960-e5180": [
+      "old-gerald"
+    ],
+    "A70960-e5210": [
+      "doctor-s-wife"
+    ],
+    "A70960-e5240": [
+      "old-gerald"
+    ],
+    "A70960-e5270": [
+      "doctor"
+    ],
+    "A70960-e5300": [
+      "doctor-s-wife"
+    ],
+    "A70960-e5340": [
+      "doctor"
+    ],
+    "A70960-e5370": [
+      "doctor-s-wife"
+    ],
+    "A70960-e5400": [
+      "doctor"
+    ],
+    "A70960-e5430": [
+      "doctor-s-wife"
+    ],
+    "A70960-e5480": [
+      "martin"
+    ],
+    "A70960-e5510": [
+      "doctor"
+    ],
+    "A70960-e5540": [
+      "martin"
+    ],
+    "A70960-e5570": [
+      "old-gerald"
+    ],
+    "A70960-e5610": [
+      "doctor"
+    ],
+    "A70960-e5640": [
+      "martin"
+    ],
+    "A70960-e5670": [
+      "doctor"
+    ],
+    "A70960-e5700": [
+      "martin"
+    ],
+    "A70960-e5730": [
+      "doctor"
+    ],
+    "A70960-e5760": [
+      "martin"
+    ],
+    "A70960-e5790": [
+      "doctor"
+    ],
+    "A70960-e5840": [
+      "martin"
+    ],
+    "A70960-e5880": [
+      "old-gerald"
+    ],
+    "A70960-e5940": [
+      "crispin"
+    ],
+    "A70960-e5980": [
+      "martin"
+    ],
+    "A70960-e6020": [
+      "old-gerald"
+    ],
+    "A70960-e6050": [
+      "crispin"
+    ],
+    "A70960-e6080": [
+      "old-gerald"
+    ],
+    "A70960-e6110": [
+      "crispin"
+    ],
+    "A70960-e6140": [
+      "old-gerald"
+    ],
+    "A70960-e6170": [
+      "martin"
+    ],
+    "A70960-e6200": [
+      "old-gerald"
+    ],
+    "A70960-e6230": [
+      "crispin"
+    ],
+    "A70960-e6260": [
+      "old-gerald"
+    ],
+    "A70960-e6290": [
+      "martin"
+    ],
+    "A70960-e6330": [
+      "crispin"
+    ],
+    "A70960-e6360": [
+      "martin"
+    ],
+    "A70960-e6390": [
+      "crispin"
+    ],
+    "A70960-e6420": [
+      "old-gerald"
+    ],
+    "A70960-e6450": [
+      "crispin"
+    ],
+    "A70960-e6480": [
+      "old-gerald"
+    ],
+    "A70960-e6530": [
+      "crispin"
+    ],
+    "A70960-e6570": [
+      "young-gerald"
+    ],
+    "A70960-e6600": [
+      "crispin"
+    ],
+    "A70960-e6630": [
+      "young-gerald"
+    ],
+    "A70960-e6660": [
+      "crispin"
+    ],
+    "A70960-e6690": [
+      "young-gerald"
+    ],
+    "A70960-e6720": [
+      "crispin"
+    ],
+    "A70960-e6750": [
+      "young-gerald"
+    ],
+    "A70960-e6790": [
+      "crispin"
+    ],
+    "A70960-e6820": [
+      "young-gerald"
+    ],
+    "A70960-e6860": [
+      "crispin"
+    ],
+    "A70960-e6900": [
+      "young-gerald"
+    ],
+    "A70960-e6960": [
+      "young-gerald"
+    ],
+    "A70960-e7000": [
+      "angelica"
+    ],
+    "A70960-e7040": [
+      "young-gerald"
+    ],
+    "A70960-e7080": [
+      "angelica"
+    ],
+    "A70960-e7120": [
+      "young-gerald"
+    ],
+    "A70960-e7150": [
+      "angelica"
+    ],
+    "A70960-e7180": [
+      "young-gerald"
+    ],
+    "A70960-e7210": [
+      "angelica"
+    ],
+    "A70960-e7250": [
+      "young-gerald"
+    ],
+    "A70960-e7280": [
+      "angelica"
+    ],
+    "A70960-e7310": [
+      "young-gerald"
+    ],
+    "A70960-e7340": [
+      "angelica"
+    ],
+    "A70960-e7370": [
+      "young-gerald"
+    ],
+    "A70960-e7420": [
+      "angelica"
+    ],
+    "A70960-e7450": [
+      "young-gerald"
+    ],
+    "A70960-e7480": [
+      "angelica"
+    ],
+    "A70960-e7510": [
+      "young-gerald"
+    ],
+    "A70960-e7550": [
+      "angelica"
+    ],
+    "A70960-e7590": [
+      "young-gerald"
+    ],
+    "A70960-e7640": [
+      "crispin"
+    ],
+    "A70960-e7670": [
+      "young-gerald"
+    ],
+    "A70960-e7700": [
+      "crispin"
+    ],
+    "A70960-e7730": [
+      "young-gerald"
+    ],
+    "A70960-e7770": [
+      "crispin"
+    ],
+    "A70960-e7840": [
+      "doctor-s-wife"
+    ],
+    "A70960-e7880": [
+      "beatrice"
+    ],
+    "A70960-e7910": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8010": [
+      "angelica"
+    ],
+    "A70960-e8120": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8180": [
+      "young-gerald"
+    ],
+    "A70960-e8210": [
+      "angelica"
+    ],
+    "A70960-e8280": [
+      "young-gerald"
+    ],
+    "A70960-e8390": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8430": [
+      "beatrice"
+    ],
+    "A70960-e8460": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8500": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8530": [
+      "beatrice"
+    ],
+    "A70960-e8560": [
+      "young-gerald"
+    ],
+    "A70960-e8590": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8630": [
+      "angelica"
+    ],
+    "A70960-e8660": [
+      "young-gerald"
+    ],
+    "A70960-e8710": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8750": [
+      "angelica"
+    ],
+    "A70960-e8780": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8810": [
+      "angelica"
+    ],
+    "A70960-e8840": [
+      "doctor-s-wife"
+    ],
+    "A70960-e8950": [
+      "doctor"
+    ],
+    "A70960-e8990": [
+      "beatrice"
+    ],
+    "A70960-e9020": [
+      "doctor"
+    ],
+    "A70960-e9050": [
+      "beatrice"
+    ],
+    "A70960-e9080": [
+      "doctor"
+    ],
+    "A70960-e9110": [
+      "beatrice"
+    ],
+    "A70960-e9140": [
+      "doctor"
+    ],
+    "A70960-e9170": [
+      "beatrice"
+    ],
+    "A70960-e9200": [
+      "doctor"
+    ],
+    "A70960-e9230": [
+      "beatrice"
+    ],
+    "A70960-e9260": [
+      "doctor"
+    ],
+    "A70960-e9300": [
+      "beatrice"
+    ],
+    "A70960-e9330": [
+      "doctor"
+    ],
+    "A70960-e9360": [
+      "beatrice"
+    ],
+    "A70960-e9390": [
+      "doctor"
+    ],
+    "A70960-e9420": [
+      "beatrice"
+    ],
+    "A70960-e9450": [
+      "doctor"
+    ],
+    "A70960-e9480": [
+      "beatrice"
+    ],
+    "A70960-e9510": [
+      "doctor"
+    ],
+    "A70960-e9540": [
+      "beatrice"
+    ],
+    "A70960-e9570": [
+      "doctor"
+    ],
+    "A70960-e9610": [
+      "beatrice"
+    ],
+    "A70960-e9650": [
+      "crispin"
+    ],
+    "A70960-e9680": [
+      "crispin"
+    ],
+    "A70960-e9710": [
+      "beatrice"
+    ],
+    "A70960-e9740": [
+      "crispin"
+    ],
+    "A70960-e9780": [
+      "beatrice"
+    ],
+    "A70960-e9810": [
+      "crispin"
+    ],
+    "A70960-e9850": [
+      "beatrice"
+    ],
+    "A70960-e9880": [
+      "crispin"
+    ],
+    "A70960-e9910": [
+      "beatrice"
+    ],
+    "A70960-e9940": [
+      "crispin"
+    ],
+    "A70960-e9970": [
+      "beatrice"
+    ],
+    "A70960-e10000": [
+      "crispin"
+    ],
+    "A70960-e10030": [
+      "beatrice"
+    ],
+    "A70960-e10060": [
+      "crispin"
+    ],
+    "A70960-e10090": [
+      "doctor"
+    ],
+    "A70960-e10120": [
+      "beatrice"
+    ],
+    "A70960-e10150": [
+      "crispin"
+    ],
+    "A70960-e10180": [
+      "beatrice"
+    ],
+    "A70960-e10220": [
+      "doctor-s-wife"
+    ],
+    "A70960-e10260": [
+      "beatrice"
+    ],
+    "A70960-e10290": [
+      "crispin"
+    ],
+    "A70960-e10320": [
+      "beatrice"
+    ],
+    "A70960-e10350": [
+      "doctor"
+    ],
+    "A70960-e10390": [
+      "crispin"
+    ],
+    "A70960-e10420": [
+      "beatrice"
+    ],
+    "A70960-e10450": [
+      "crispin"
+    ],
+    "A70960-e10490": [
+      "beatrice"
+    ],
+    "A70960-e10550": [
+      "doctor"
+    ],
+    "A70960-e10590": [
+      "beatrice"
+    ],
+    "A70960-e10630": [
+      "doctor-s-wife"
+    ],
+    "A70960-e10660": [
+      "beatrice"
+    ],
+    "A70960-e10700": [
+      "doctor"
+    ],
+    "A70960-e10730": [
+      "doctor-s-wife"
+    ],
+    "A70960-e10760": [
+      "doctor"
+    ],
+    "A70960-e10800": [
+      "doctor-s-wife"
+    ],
+    "A70960-e10840": [
+      "beatrice"
+    ],
+    "A70960-e10910": [
+      "crispin"
+    ],
+    "A70960-e10940": [
+      "doctor"
+    ],
+    "A70960-e10990": [
+      "beatrice"
+    ],
+    "A70960-e11020": [
+      "crispin"
+    ],
+    "A70960-e11060": [
+      "doctor"
+    ],
+    "A70960-e11090": [
+      "beatrice"
+    ],
+    "A70960-e11120": [
+      "doctor"
+    ],
+    "A70960-e11150": [
+      "beatrice"
+    ],
+    "A70960-e11180": [
+      "doctor"
+    ],
+    "A70960-e11220": [
+      "beatrice"
+    ],
+    "A70960-e11250": [
+      "doctor"
+    ],
+    "A70960-e11280": [
+      "beatrice"
+    ],
+    "A70960-e11310": [
+      "doctor"
+    ],
+    "A70960-e11340": [
+      "beatrice"
+    ],
+    "A70960-e11370": [
+      "doctor"
+    ],
+    "A70960-e11400": [
+      "beatrice"
+    ],
+    "A70960-e11430": [
+      "doctor"
+    ],
+    "A70960-e11460": [
+      "beatrice"
+    ],
+    "A70960-e11500": [
+      "doctor"
+    ],
+    "A70960-e11590": [
+      "surgeon"
+    ],
+    "A70960-e11620": [
+      "doctor"
+    ],
+    "A70960-e11650": [
+      "surgeon"
+    ],
+    "A70960-e11680": [
+      "doctor"
+    ],
+    "A70960-e11710": [
+      "surgeon"
+    ],
+    "A70960-e11740": [
+      "doctor"
+    ],
+    "A70960-e11770": [
+      "surgeon"
+    ],
+    "A70960-e11800": [
+      "doctor"
+    ],
+    "A70960-e11830": [
+      "surgeon"
+    ],
+    "A70960-e11860": [
+      "doctor"
+    ],
+    "A70960-e11890": [
+      "surgeon"
+    ],
+    "A70960-e11930": [
+      "doctor"
+    ],
+    "A70960-e11970": [
+      "beatrice"
+    ],
+    "A70960-e12000": [
+      "doctor"
+    ],
+    "A70960-e12030": [
+      "beatrice"
+    ],
+    "A70960-e12060": [
+      "doctor"
+    ],
+    "A70960-e12090": [
+      "beatrice"
+    ],
+    "A70960-e12120": [
+      "doctor"
+    ],
+    "A70960-e12150": [
+      "beatrice"
+    ],
+    "A70960-e12180": [
+      "doctor"
+    ],
+    "A70960-e12220": [
+      "beatrice"
+    ],
+    "A70960-e12250": [
+      "doctor"
+    ],
+    "A70960-e12280": [
+      "beatrice"
+    ],
+    "A70960-e12320": [
+      "crispin"
+    ],
+    "A70960-e12350": [
+      "beatrice"
+    ],
+    "A70960-e12380": [
+      "crispin"
+    ],
+    "A70960-e12430": [
+      "beatrice"
+    ],
+    "A70960-e12470": [
+      "crispin"
+    ],
+    "A70960-e12500": [
+      "beatrice"
+    ],
+    "A70960-e12540": [
+      "crispin"
+    ],
+    "A70960-e12570": [
+      "beatrice"
+    ],
+    "A70960-e12600": [
+      "crispin"
+    ],
+    "A70960-e12630": [
+      "beatrice"
+    ],
+    "A70960-e12660": [
+      "crispin"
+    ],
+    "A70960-e12690": [
+      "beatrice"
+    ],
+    "A70960-e12720": [
+      "crispin"
+    ],
+    "A70960-e12750": [
+      "beatrice"
+    ],
+    "A70960-e12790": [
+      "crispin"
+    ],
+    "A70960-e12820": [
+      "beatrice"
+    ],
+    "A70960-e12860": [
+      "crispin"
+    ],
+    "A70960-e12900": [
+      "beatrice"
+    ],
+    "A70960-e12930": [
+      "crispin"
+    ],
+    "A70960-e12960": [
+      "beatrice"
+    ],
+    "A70960-e12990": [
+      "crispin"
+    ],
+    "A70960-e13020": [
+      "beatrice"
+    ],
+    "A70960-e13050": [
+      "crispin"
+    ],
+    "A70960-e13080": [
+      "beatrice"
+    ],
+    "A70960-e13110": [
+      "crispin"
+    ],
+    "A70960-e13160": [
+      "beatrice"
+    ],
+    "A70960-e13190": [
+      "crispin"
+    ],
+    "A70960-e13230": [
+      "beatrice"
+    ],
+    "A70960-e13270": [
+      "waiting-woman"
+    ],
+    "A70960-e13300": [
+      "beatrice"
+    ],
+    "A70960-e13330": [
+      "waiting-woman"
+    ],
+    "A70960-e13360": [
+      "crispin"
+    ],
+    "A70960-e13390": [
+      "waiting-woman"
+    ],
+    "A70960-e13420": [
+      "crispin"
+    ],
+    "A70960-e13450": [
+      "waiting-woman"
+    ],
+    "A70960-e13480": [
+      "crispin"
+    ],
+    "A70960-e13510": [
+      "waiting-woman"
+    ],
+    "A70960-e13540": [
+      "crispin"
+    ],
+    "A70960-e13570": [
+      "beatrice"
+    ],
+    "A70960-e13600": [
+      "crispin"
+    ],
+    "A70960-e13630": [
+      "waiting-woman"
+    ],
+    "A70960-e13660": [
+      "crispin"
+    ],
+    "A70960-e13690": [
+      "waiting-woman"
+    ],
+    "A70960-e13720": [
+      "crispin"
+    ],
+    "A70960-e13750": [
+      "waiting-woman"
+    ],
+    "A70960-e13780": [
+      "crispin"
+    ],
+    "A70960-e13810": [
+      "waiting-woman"
+    ],
+    "A70960-e13840": [
+      "beatrice"
+    ],
+    "A70960-e13870": [
+      "crispin"
+    ],
+    "A70960-e13900": [
+      "waiting-woman"
+    ],
+    "A70960-e13930": [
+      "crispin"
+    ],
+    "A70960-e13960": [
+      "waiting-woman"
+    ],
+    "A70960-e13990": [
+      "crispin"
+    ],
+    "A70960-e14020": [
+      "waiting-woman"
+    ],
+    "A70960-e14050": [
+      "crispin"
+    ],
+    "A70960-e14090": [
+      "beatrice"
+    ],
+    "A70960-e14120": [
+      "crispin"
+    ],
+    "A70960-e14150": [
+      "beatrice"
+    ],
+    "A70960-e14180": [
+      "crispin"
+    ],
+    "A70960-e14210": [
+      "waiting-woman"
+    ],
+    "A70960-e14240": [
+      "crispin"
+    ],
+    "A70960-e14270": [
+      "waiting-woman"
+    ],
+    "A70960-e14300": [
+      "crispin"
+    ],
+    "A70960-e14330": [
+      "waiting-woman"
+    ],
+    "A70960-e14360": [
+      "crispin"
+    ],
+    "A70960-e14390": [
+      "waiting-woman"
+    ],
+    "A70960-e14420": [
+      "crispin"
+    ],
+    "A70960-e14460": [
+      "waiting-woman"
+    ],
+    "A70960-e14490": [
+      "crispin"
+    ],
+    "A70960-e14520": [
+      "waiting-woman"
+    ],
+    "A70960-e14550": [
+      "crispin"
+    ],
+    "A70960-e14580": [
+      "waiting-woman"
+    ],
+    "A70960-e14620": [
+      "beatrice"
+    ],
+    "A70960-e14670": [
+      "crispin"
+    ],
+    "A70960-e14700": [
+      "beatrice"
+    ],
+    "A70960-e14730": [
+      "crispin"
+    ],
+    "A70960-e14770": [
+      "beatrice"
+    ],
+    "A70960-e14800": [
+      "crispin"
+    ],
+    "A70960-e14830": [
+      "beatrice"
+    ],
+    "A70960-e14870": [
+      "simon"
+    ],
+    "A70960-e14900": [
+      "beatrice"
+    ],
+    "A70960-e14930": [
+      "simon"
+    ],
+    "A70960-e14960": [
+      "beatrice"
+    ],
+    "A70960-e14990": [
+      "simon"
+    ],
+    "A70960-e15020": [
+      "beatrice"
+    ],
+    "A70960-e15050": [
+      "simon"
+    ],
+    "A70960-e15080": [
+      "beatrice"
+    ],
+    "A70960-e15110": [
+      "simon"
+    ],
+    "A70960-e15140": [
+      "crispin"
+    ],
+    "A70960-e15170": [
+      "simon"
+    ],
+    "A70960-e15220": [
+      "crispin"
+    ],
+    "A70960-e15250": [
+      "simon"
+    ],
+    "A70960-e15280": [
+      "crispin"
+    ],
+    "A70960-e15310": [
+      "simon"
+    ],
+    "A70960-e15350": [
+      "crispin"
+    ],
+    "A70960-e15380": [
+      "simon"
+    ],
+    "A70960-e15410": [
+      "crispin"
+    ],
+    "A70960-e15440": [
+      "simon"
+    ],
+    "A70960-e15470": [
+      "crispin"
+    ],
+    "A70960-e15500": [
+      "simon"
+    ],
+    "A70960-e15530": [
+      "crispin"
+    ],
+    "A70960-e15560": [
+      "simon"
+    ],
+    "A70960-e15590": [
+      "crispin"
+    ],
+    "A70960-e15620": [
+      "simon"
+    ],
+    "A70960-e15650": [
+      "crispin"
+    ],
+    "A70960-e15680": [
+      "beatrice"
+    ],
+    "A70960-e15720": [
+      "crispin"
+    ],
+    "A70960-e15770": [
+      "simon"
+    ],
+    "A70960-e15810": [
+      "crispin"
+    ],
+    "A70960-e15960": [
+      "simon"
+    ],
+    "A70960-e15990": [
+      "crispin"
+    ],
+    "A70960-e16020": [
+      "simon"
+    ],
+    "A70960-e16050": [
+      "crispin"
+    ],
+    "A70960-e16080": [
+      "simon"
+    ],
+    "A70960-e16110": [
+      "crispin"
+    ],
+    "A70960-e16140": [
+      "simon"
+    ],
+    "A70960-e16170": [
+      "crispin"
+    ],
+    "A70960-e16200": [
+      "simon"
+    ],
+    "A70960-e16230": [
+      "crispin"
+    ],
+    "A70960-e16260": [
+      "simon"
+    ],
+    "A70960-e16290": [
+      "crispin"
+    ],
+    "A70960-e16340": [
+      "beatrice"
+    ],
+    "A70960-e16370": [
+      "crispin"
+    ],
+    "A70960-e16400": [
+      "beatrice"
+    ],
+    "A70960-e16430": [
+      "crispin"
+    ],
+    "A70960-e16470": [
+      "beatrice"
+    ],
+    "A70960-e16500": [
+      "crispin"
+    ],
+    "A70960-e16540": [
+      "doctor"
+    ],
+    "A70960-e16580": [
+      "beatrice"
+    ],
+    "A70960-e16610": [
+      "doctor"
+    ],
+    "A70960-e16640": [
+      "crispin"
+    ],
+    "A70960-e16670": [
+      "beatrice"
+    ],
+    "A70960-e16700": [
+      "doctor"
+    ],
+    "A70960-e16730": [
+      "doctor"
+    ],
+    "A70960-e16760": [
+      "crispin"
+    ],
+    "A70960-e16790": [
+      "doctor"
+    ],
+    "A70960-e16880": [
+      "crispin"
+    ],
+    "A70960-e16910": [
+      "doctor"
+    ],
+    "A70960-e16940": [
+      "crispin"
+    ],
+    "A70960-e16970": [
+      "doctor"
+    ],
+    "A70960-e17000": [
+      "crispin"
+    ],
+    "A70960-e17030": [
+      "doctor"
+    ],
+    "A70960-e17060": [
+      "crispin"
+    ],
+    "A70960-e17090": [
+      "doctor"
+    ],
+    "A70960-e17120": [
+      "crispin"
+    ],
+    "A70960-e17150": [
+      "doctor"
+    ],
+    "A70960-e17180": [
+      "crispin"
+    ],
+    "A70960-e17220": [
+      "beatrice"
+    ],
+    "A70960-e17250": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17280": [
+      "doctor"
+    ],
+    "A70960-e17310": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17340": [
+      "crispin"
+    ],
+    "A70960-e17370": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17400": [
+      "crispin"
+    ],
+    "A70960-e17430": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17460": [
+      "crispin"
+    ],
+    "A70960-e17510": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17540": [
+      "doctor"
+    ],
+    "A70960-e17570": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17600": [
+      "doctor"
+    ],
+    "A70960-e17630": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17670": [
+      "doctor"
+    ],
+    "A70960-e17700": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17730": [
+      "doctor"
+    ],
+    "A70960-e17760": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17790": [
+      "doctor"
+    ],
+    "A70960-e17820": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17860": [
+      "beatrice"
+    ],
+    "A70960-e17890": [
+      "doctor-s-wife"
+    ],
+    "A70960-e17920": [
+      "doctor"
+    ],
+    "A70960-e17960": [
+      "doctor-s-wife"
+    ],
+    "A70960-e18000": [
+      "crispin"
+    ],
+    "A70960-e18040": [
+      "beatrice"
+    ],
+    "A70960-e18070": [
+      "crispin"
+    ],
+    "A70960-e18100": [
+      "beatrice"
+    ],
+    "A70960-e18130": [
+      "crispin"
+    ],
+    "A70960-e18170": [
+      "beatrice"
+    ],
+    "A70960-e18320": [
+      "beatrice"
+    ],
+    "A70960-e18350": [
+      "old-gerald"
+    ],
+    "A70960-e18380": [
+      "beatrice"
+    ],
+    "A70960-e18410": [
+      "old-gerald"
+    ],
+    "A70960-e18440": [
+      "beatrice"
+    ],
+    "A70960-e18470": [
+      "old-gerald"
+    ],
+    "A70960-e18500": [
+      "beatrice"
+    ],
+    "A70960-e18530": [
+      "old-gerald"
+    ],
+    "A70960-e18570": [
+      "beatrice"
+    ],
+    "A70960-e18600": [
+      "old-gerald"
+    ],
+    "A70960-e18630": [
+      "beatrice"
+    ],
+    "A70960-e18660": [
+      "old-gerald"
+    ],
+    "A70960-e18690": [
+      "beatrice"
+    ],
+    "A70960-e18720": [
+      "old-gerald"
+    ],
+    "A70960-e18750": [
+      "beatrice"
+    ],
+    "A70960-e18780": [
+      "old-gerald"
+    ],
+    "A70960-e18810": [
+      "beatrice"
+    ],
+    "A70960-e18840": [
+      "old-gerald"
+    ],
+    "A70960-e18870": [
+      "beatrice"
+    ],
+    "A70960-e18900": [
+      "old-gerald"
+    ],
+    "A70960-e18930": [
+      "beatrice"
+    ],
+    "A70960-e18960": [
+      "old-gerald"
+    ],
+    "A70960-e18990": [
+      "beatrice"
+    ],
+    "A70960-e19020": [
+      "old-gerald"
+    ],
+    "A70960-e19050": [
+      "beatrice"
+    ],
+    "A70960-e19080": [
+      "old-gerald"
+    ],
+    "A70960-e19120": [
+      "beatrice"
+    ],
+    "A70960-e19150": [
+      "old-gerald"
+    ],
+    "A70960-e19180": [
+      "beatrice"
+    ],
+    "A70960-e19210": [
+      "old-gerald"
+    ],
+    "A70960-e19240": [
+      "beatrice"
+    ],
+    "A70960-e19290": [
+      "old-gerald"
+    ],
+    "A70960-e19320": [
+      "beatrice"
+    ],
+    "A70960-e19350": [
+      "old-gerald"
+    ],
+    "A70960-e19380": [
+      "beatrice"
+    ],
+    "A70960-e19410": [
+      "old-gerald"
+    ],
+    "A70960-e19440": [
+      "beatrice"
+    ],
+    "A70960-e19470": [
+      "old-gerald"
+    ],
+    "A70960-e19500": [
+      "beatrice"
+    ],
+    "A70960-e19530": [
+      "old-gerald"
+    ],
+    "A70960-e19570": [
+      "beatrice"
+    ],
+    "A70960-e19600": [
+      "old-gerald"
+    ],
+    "A70960-e19630": [
+      "beatrice"
+    ],
+    "A70960-e19660": [
+      "old-gerald"
+    ],
+    "A70960-e19700": [
+      "beatrice"
+    ],
+    "A70960-e19740": [
+      "old-gerald"
+    ],
+    "A70960-e19770": [
+      "beatrice"
+    ],
+    "A70960-e19800": [
+      "old-gerald"
+    ],
+    "A70960-e19840": [
+      "beatrice"
+    ],
+    "A70960-e19900": [
+      "angelica"
+    ],
+    "A70960-e19930": [
+      "beatrice"
+    ],
+    "A70960-e19960": [
+      "angelica"
+    ],
+    "A70960-e20000": [
+      "beatrice"
+    ],
+    "A70960-e20050": [
+      "angelica"
+    ],
+    "A70960-e20100": [
+      "crispin"
+    ],
+    "A70960-e20130": [
+      "young-gerald"
+    ],
+    "A70960-e20160": [
+      "crispin"
+    ],
+    "A70960-e20190": [
+      "young-gerald"
+    ],
+    "A70960-e20220": [
+      "crispin"
+    ],
+    "A70960-e20250": [
+      "young-gerald"
+    ],
+    "A70960-e20280": [
+      "crispin"
+    ],
+    "A70960-e20310": [
+      "young-gerald"
+    ],
+    "A70960-e20340": [
+      "crispin"
+    ],
+    "A70960-e20370": [
+      "young-gerald"
+    ],
+    "A70960-e20400": [
+      "crispin"
+    ],
+    "A70960-e20430": [
+      "young-gerald"
+    ],
+    "A70960-e20460": [
+      "crispin"
+    ],
+    "A70960-e20500": [
+      "young-gerald"
+    ],
+    "A70960-e20530": [
+      "crispin"
+    ],
+    "A70960-e20560": [
+      "young-gerald"
+    ],
+    "A70960-e20590": [
+      "crispin"
+    ],
+    "A70960-e20690": [
+      "old-gerald"
+    ],
+    "A70960-e20730": [
+      "crispin"
+    ],
+    "A70960-e20760": [
+      "old-gerald"
+    ],
+    "A70960-e20790": [
+      "crispin"
+    ],
+    "A70960-e20820": [
+      "martin"
+    ],
+    "A70960-e20850": [
+      "crispin"
+    ],
+    "A70960-e20880": [
+      "martin"
+    ],
+    "A70960-e20910": [
+      "crispin"
+    ],
+    "A70960-e20940": [
+      "old-gerald"
+    ],
+    "A70960-e20970": [
+      "crispin"
+    ],
+    "A70960-e21000": [
+      "old-gerald"
+    ],
+    "A70960-e21030": [
+      "crispin"
+    ],
+    "A70960-e21070": [
+      "old-gerald"
+    ],
+    "A70960-e21100": [
+      "crispin"
+    ],
+    "A70960-e21130": [
+      "old-gerald"
+    ],
+    "A70960-e21160": [
+      "crispin"
+    ],
+    "A70960-e21200": [
+      "old-gerald"
+    ],
+    "A70960-e21230": [
+      "crispin"
+    ],
+    "A70960-e21260": [
+      "martin"
+    ],
+    "A70960-e21290": [
+      "old-gerald"
+    ],
+    "A70960-e21320": [
+      "crispin"
+    ],
+    "A70960-e21350": [
+      "old-gerald"
+    ],
+    "A70960-e21380": [
+      "crispin"
+    ],
+    "A70960-e21410": [
+      "old-gerald"
+    ],
+    "A70960-e21440": [
+      "crispin"
+    ],
+    "A70960-e21480": [
+      "martin"
+    ],
+    "A70960-e21510": [
+      "crispin"
+    ],
+    "A70960-e21540": [
+      "martin"
+    ],
+    "A70960-e21570": [
+      "crispin"
+    ],
+    "A70960-e21600": [
+      "old-gerald"
+    ],
+    "A70960-e21630": [
+      "martin"
+    ],
+    "A70960-e21660": [
+      "crispin"
+    ],
+    "A70960-e21690": [
+      "martin"
+    ],
+    "A70960-e21720": [
+      "old-gerald"
+    ],
+    "A70960-e21760": [
+      "crispin"
+    ],
+    "A70960-e21790": [
+      "old-gerald"
+    ],
+    "A70960-e21830": [
+      "crispin"
+    ],
+    "A70960-e21860": [
+      "old-gerald"
+    ],
+    "A70960-e21890": [
+      "crispin"
+    ],
+    "A70960-e21920": [
+      "old-gerald"
+    ],
+    "A70960-e21950": [
+      "crispin"
+    ],
+    "A70960-e21980": [
+      "old-gerald"
+    ],
+    "A70960-e22010": [
+      "crispin"
+    ],
+    "A70960-e22040": [
+      "old-gerald"
+    ],
+    "A70960-e22070": [
+      "crispin"
+    ],
+    "A70960-e22110": [
+      "old-gerald"
+    ],
+    "A70960-e22140": [
+      "crispin"
+    ],
+    "A70960-e22170": [
+      "old-gerald"
+    ],
+    "A70960-e22280": [
+      "martin"
+    ],
+    "A70960-e22310": [
+      "old-gerald"
+    ],
+    "A70960-e22350": [
+      "martin"
+    ],
+    "A70960-e22380": [
+      "old-gerald"
+    ],
+    "A70960-e22410": [
+      "martin"
+    ],
+    "A70960-e22440": [
+      "old-gerald"
+    ],
+    "A70960-e22480": [
+      "martin"
+    ],
+    "A70960-e22510": [
+      "old-gerald"
+    ],
+    "A70960-e22600": [
+      "young-gerald"
+    ],
+    "A70960-e22630": [
+      "crispin"
+    ],
+    "A70960-e22670": [
+      "young-gerald"
+    ],
+    "A70960-e22700": [
+      "crispin"
+    ],
+    "A70960-e22730": [
+      "young-gerald"
+    ],
+    "A70960-e22760": [
+      "crispin"
+    ],
+    "A70960-e22800": [
+      "young-gerald"
+    ],
+    "A70960-e22830": [
+      "crispin"
+    ],
+    "A70960-e22880": [
+      "old-gerald"
+    ],
+    "A70960-e22930": [
+      "beatrice"
+    ],
+    "A70960-e22960": [
+      "old-gerald"
+    ],
+    "A70960-e23000": [
+      "beatrice"
+    ],
+    "A70960-e23050": [
+      "young-gerald"
+    ],
+    "A70960-e23080": [
+      "crispin"
+    ],
+    "A70960-e23130": [
+      "beatrice"
+    ],
+    "A70960-e23160": [
+      "old-gerald"
+    ],
+    "A70960-e23190": [
+      "beatrice"
+    ],
+    "A70960-e23220": [
+      "old-gerald"
+    ],
+    "A70960-e23260": [
+      "angelica"
+    ],
+    "A70960-e23300": [
+      "beatrice"
+    ],
+    "A70960-e23340": [
+      "old-gerald"
+    ],
+    "A70960-e23370": [
+      "angelica"
+    ],
+    "A70960-e23400": [
+      "old-gerald"
+    ],
+    "A70960-e23430": [
+      "angelica"
+    ],
+    "A70960-e23470": [
+      "beatrice"
+    ],
+    "A70960-e23500": [
+      "angelica"
+    ],
+    "A70960-e23540": [
+      "old-gerald"
+    ],
+    "A70960-e23570": [
+      "angelica"
+    ],
+    "A70960-e23610": [
+      "old-gerald"
+    ],
+    "A70960-e23650": [
+      "angelica"
+    ],
+    "A70960-e23680": [
+      "old-gerald"
+    ],
+    "A70960-e23710": [
+      "angelica"
+    ],
+    "A70960-e23740": [
+      "beatrice"
+    ],
+    "A70960-e23770": [
+      "old-gerald"
+    ],
+    "A70960-e23800": [
+      "beatrice"
+    ],
+    "A70960-e23830": [
+      "old-gerald"
+    ],
+    "A70960-e23860": [
+      "angelica"
+    ],
+    "A70960-e23890": [
+      "beatrice"
+    ],
+    "A70960-e23920": [
+      "old-gerald"
+    ],
+    "A70960-e23950": [
+      "beatrice"
+    ],
+    "A70960-e23980": [
+      "angelica"
+    ],
+    "A70960-e24010": [
+      "beatrice"
+    ],
+    "A70960-e24040": [
+      "angelica"
+    ],
+    "A70960-e24080": [
+      "old-gerald"
+    ],
+    "A70960-e24110": [
+      "beatrice"
+    ],
+    "A70960-e24140": [
+      "angelica"
+    ],
+    "A70960-e24180": [
+      "old-gerald"
+    ],
+    "A70960-e24210": [
+      "beatrice"
+    ],
+    "A70960-e24240": [
+      "angelica"
+    ],
+    "A70960-e24290": [
+      "old-gerald"
+    ],
+    "A70960-e24320": [
+      "angelica"
+    ],
+    "A70960-e24350": [
+      "angelica"
+    ],
+    "A70960-e24390": [
+      "beatrice"
+    ],
+    "A70960-e24430": [
+      "angelica"
+    ],
+    "A70960-e24470": [
+      "beatrice"
+    ],
+    "A70960-e24500": [
+      "old-gerald"
+    ],
+    "A70960-e24530": [
+      "beatrice"
+    ],
+    "A70960-e24570": [
+      "old-gerald"
+    ],
+    "A70960-e24600": [
+      "beatrice"
+    ],
+    "A70960-e24640": [
+      "crispin"
+    ],
+    "A70960-e24670": [
+      "beatrice"
+    ],
+    "A70960-e24700": [
+      "crispin"
+    ],
+    "A70960-e24760": [
+      "beatrice"
+    ],
+    "A70960-e24800": [
+      "crispin"
+    ],
+    "A70960-e24850": [
+      "beatrice"
+    ],
+    "A70960-e24880": [
+      "crispin"
+    ],
+    "A70960-e24910": [
+      "beatrice"
+    ],
+    "A70960-e24940": [
+      "crispin"
+    ],
+    "A70960-e24980": [
+      "beatrice"
+    ],
+    "A70960-e25010": [
+      "crispin"
+    ],
+    "A70960-e25040": [
+      "beatrice"
+    ],
+    "A70960-e25090": [
+      "crispin"
+    ],
+    "A70960-e25120": [
+      "beatrice"
+    ],
+    "A70960-e25150": [
+      "crispin"
+    ],
+    "A70960-e25180": [
+      "beatrice"
+    ],
+    "A70960-e25210": [
+      "crispin"
+    ],
+    "A70960-e25240": [
+      "beatrice"
+    ],
+    "A70960-e25270": [
+      "crispin"
+    ],
+    "A70960-e25300": [
+      "beatrice"
+    ],
+    "A70960-e25330": [
+      "crispin"
+    ],
+    "A70960-e25360": [
+      "beatrice"
+    ],
+    "A70960-e25390": [
+      "crispin"
+    ],
+    "A70960-e25450": [
+      "crispin"
+    ],
+    "A70960-e25490": [
+      "man"
+    ],
+    "A70960-e25520": [
+      "crispin"
+    ],
+    "A70960-e25580": [
+      "beatrice"
+    ],
+    "A70960-e25610": [
+      "old-gerald"
+    ],
+    "A70960-e25650": [
+      "crispin",
+      "beatrice"
+    ],
+    "A70960-e25690": [
+      "old-gerald"
+    ],
+    "A70960-e25720": [
+      "crispin"
+    ],
+    "A70960-e25790": [
+      "doctor"
+    ],
+    "A70960-e25820": [
+      "doctor-s-wife"
+    ],
+    "A70960-e25860": [
+      "simon"
+    ],
+    "A70960-e25890": [
+      "waiting-woman"
+    ],
+    "A70960-e25920": [
+      "doctor"
+    ],
+    "A70960-e25950": [
+      "doctor-s-wife"
+    ],
+    "A70960-e25980": [
+      "waiting-woman"
+    ],
+    "A70960-e26010": [
+      "simon"
+    ],
+    "A70960-e26040": [
+      "waiting-woman"
+    ],
+    "A70960-e26070": [
+      "doctor-s-wife"
+    ],
+    "A70960-e26100": [
+      "doctor"
+    ],
+    "A70960-e26130": [
+      "simon"
+    ],
+    "A70960-e26160": [
+      "waiting-woman"
+    ],
+    "A70960-e26190": [
+      "doctor"
+    ],
+    "A70960-e26230": [
+      "simon"
+    ],
+    "A70960-e26260": [
+      "waiting-woman"
+    ],
+    "A70960-e26290": [
+      "crispin"
+    ],
+    "A70960-e26320": [
+      "simon"
+    ],
+    "A70960-e26350": [
+      "waiting-woman"
+    ],
+    "A70960-e26380": [
+      "crispin"
+    ],
+    "A70960-e26420": [
+      "beatrice"
+    ],
+    "A70960-e26450": [
+      "crispin"
+    ],
+    "A70960-e26480": [
+      "simon"
+    ],
+    "A70960-e26520": [
+      "doctor"
+    ],
+    "A70960-e26550": [
+      "doctor-s-wife"
+    ],
+    "A70960-e26590": [
+      "doctor"
+    ],
+    "A70960-e26620": [
+      "doctor-s-wife"
+    ],
+    "A70960-e26650": [
+      "doctor"
+    ],
+    "A70960-e26680": [
+      "beatrice"
+    ],
+    "A70960-e26710": [
+      "crispin"
+    ],
+    "A70960-e26740": [
+      "doctor"
+    ],
+    "A70960-e26770": [
+      "doctor-s-wife"
+    ],
+    "A70960-e26820": [
+      "old-gerald"
+    ],
+    "A70960-e26850": [
+      "doctor-s-wife",
+      "beatrice"
+    ],
+    "A70960-e26890": [
+      "doctor-s-wife"
+    ],
+    "A70960-e26920": [
+      "doctor"
+    ],
+    "A70960-e26950": [
+      "old-gerald"
+    ],
+    "A70960-e26980": [
+      "doctor"
+    ],
+    "A70960-e27010": [
+      "old-gerald"
+    ],
+    "A70960-e27040": [
+      "beatrice"
+    ],
+    "A70960-e27070": [
+      "old-gerald"
+    ],
+    "A70960-e27100": [
+      "beatrice"
+    ],
+    "A70960-e27130": [
+      "old-gerald"
+    ],
+    "A70960-e27160": [
+      "doctor"
+    ],
+    "A70960-e27200": [
+      "old-gerald"
+    ],
+    "A70960-e27230": [
+      "doctor-s-wife"
+    ],
+    "A70960-e27270": [
+      "crispin"
+    ],
+    "A70960-e27310": [
+      "doctor"
+    ],
+    "A70960-e27340": [
+      "old-gerald"
+    ],
+    "A70960-e27370": [
+      "doctor"
+    ],
+    "A70960-e27410": [
+      "old-gerald"
+    ],
+    "A70960-e27440": [
+      "young-gerald"
+    ],
+    "A70960-e27470": [
+      "doctor-s-wife"
+    ],
+    "A70960-e27500": [
+      "doctor"
+    ],
+    "A70960-e27530": [
+      "young-gerald"
+    ],
+    "A70960-e27560": [
+      "old-gerald"
+    ],
+    "A70960-e27590": [
+      "young-gerald"
+    ],
+    "A70960-e27630": [
+      "doctor"
+    ],
+    "A70960-e27660": [
+      "old-gerald"
+    ],
+    "A70960-e27690": [
+      "crispin"
+    ],
+    "A70960-e27750": [
+      "young-gerald"
+    ],
+    "A70960-e27780": [
+      "angelica"
+    ],
+    "A70960-e27810": [
+      "doctor-s-wife"
+    ],
+    "A70960-e27840": [
+      "doctor"
+    ],
+    "A70960-e27880": [
+      "old-gerald"
+    ],
+    "A70960-e27920": [
+      "crispin"
+    ],
+    "A70960-e27950": [
+      "doctor"
+    ],
+    "A70960-e27990": [
+      "crispin"
+    ]
+  }
+}

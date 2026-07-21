@@ -69,23 +69,14 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000652-bernardo" sex="MALE">
-            <persName>Bernardo</persName>
+          <person xml:id="eng000652-servant" sex="UNKNOWN">
+            <persName>Servant</persName>
           </person>
-          <person xml:id="eng000652-marian" sex="FEMALE">
-            <persName>Marian</persName>
-          </person>
-          <person xml:id="eng000652-servant-1" sex="MALE">
-            <persName>Servant 1</persName>
-          </person>
-          <person xml:id="eng000652-servant-2" sex="MALE">
-            <persName>Servant 2</persName>
+          <person xml:id="eng000652-count-roquelaure" sex="MALE">
+            <persName>Count Roquelaure</persName>
           </person>
           <person xml:id="eng000652-gramont" sex="MALE">
             <persName>Gramont</persName>
-          </person>
-          <person xml:id="eng000652-lamira" sex="FEMALE">
-            <persName>Lamira</persName>
           </person>
           <person xml:id="eng000652-castalio" sex="MALE">
             <persName>Castalio</persName>
@@ -93,11 +84,17 @@
           <person xml:id="eng000652-bellgard" sex="MALE">
             <persName>Bellgard</persName>
           </person>
-          <person xml:id="eng000652-roquelaure" sex="MALE">
-            <persName>Roquelaure</persName>
+          <person xml:id="eng000652-bernardo" sex="MALE">
+            <persName>Bernardo</persName>
+          </person>
+          <person xml:id="eng000652-lamira" sex="FEMALE">
+            <persName>Lamira</persName>
           </person>
           <person xml:id="eng000652-felicia" sex="FEMALE">
             <persName>Felicia</persName>
+          </person>
+          <person xml:id="eng000652-marian" sex="FEMALE">
+            <persName>Marian</persName>
           </person>
           <person xml:id="eng000652-soldier" sex="MALE">
             <persName>Soldier</persName>
@@ -105,11 +102,6 @@
         </listPerson>
       </particDesc>
     </profileDesc>
-    <revisionDesc>
-      <listChange>
-        <change when="2022-07-05">(Luca Giovannini) Fixed speaker tags and particDesc.</change>
-      </listChange>
-    </revisionDesc>
   </teiHeader>
   <text>
     <front>
@@ -1151,7 +1143,7 @@
             <head>ACT II. SCENE I. </head>
             <stage xml:id="eng000652-e9930">Roquelaure's House. </stage>
             <stage xml:id="eng000652-e9950">Enter Bellgard, <hi>and a </hi>Servant of the </stage>
-            <sp who="#eng000652-servant-1" xml:id="eng000652-e9990">
+            <sp who="#eng000652-servant" xml:id="eng000652-e9990">
               <speaker>Serv. </speaker>
               <l>BE pleas'd to stay here, Sir, </l>
               <l>My Lord will wait upon you instantly; </l>
@@ -1160,13 +1152,13 @@
               <speaker>Bell. </speaker>
               <l>You have told him I am here. </l>
             </sp>
-            <sp who="#eng000652-servant-1" xml:id="eng000652-e10060">
+            <sp who="#eng000652-servant" xml:id="eng000652-e10060">
               <speaker>Serv. </speaker>
               <l>I did, and hear him coming. <stage xml:id="eng000652-e10090">Exit Serv. </stage>
               </l>
             </sp>
             <stage xml:id="eng000652-e10110">Enter Roquelaure. </stage>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e10130">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e10130">
               <speaker>Roq. </speaker>
               <l>You're welcome, my Bellgard, the only Man </l>
               <l>That can give comfort to my tortur'd Heart. </l>
@@ -1175,7 +1167,7 @@
               <speaker>Bell. </speaker>
               <l>None can be prouder, or more joy'd to serve you. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e10210">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e10210">
               <speaker>Count. </speaker>
               <l>I'm just return'd from visiting your Sister, </l>
               <l>Whom I have seen in such a graceful Sorrow, </l>
@@ -1188,7 +1180,7 @@
               <l>And how my Lord </l>
               <l>Has she receiv'd the honour you design her? </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e10310">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e10310">
               <speaker>Count. </speaker>
               <l>With such aversion as she'd meet her fate; </l>
               <l>At first I found her in a solemn sadness, </l>
@@ -1204,7 +1196,7 @@
               <l>Hate, my Lord, </l>
               <l>Can you suspect her of so great injustice? </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e10450">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e10450">
               <speaker>Count. </speaker>
               <l>What else can make her so inexorable? </l>
               <l>Upon her knees she fell, and grasping mine, </l>
@@ -1217,7 +1209,7 @@
               <speaker>Bell. </speaker>
               <l>Stubborn Girl. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e10560">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e10560">
               <speaker>Count. </speaker>
               <l>Finding me more enflam'd, and still persisting, </l>
               <l>She said I might expose her to your anger, </l>
@@ -1230,7 +1222,7 @@
               <l>So positive, my Lord, I'll make her find </l>
               <l>There's not an Obstacle but I can vanquish. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e10670">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e10670">
               <speaker>Count. </speaker>
               <l>I fear her early kindness for my Son, </l>
               <l>Which we too long neglected, </l>
@@ -1243,7 +1235,7 @@
               <l>Gramont were married to yours, and his own liking; </l>
               <l>What think you of Lamira for a Daughter? </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e10800">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e10800">
               <speaker>Count. </speaker>
               <l>So well, I must not think of it. </l>
             </sp>
@@ -1256,7 +1248,7 @@
               <l>Of your alliance, which if desir'd by you, </l>
               <l>I know she'll not refuse. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e10910">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e10910">
               <speaker>Count. </speaker>
               <l>'Tis generously offer'd, and here he comes <stage xml:id="eng000652-e10940">Enter Gramont. </stage>
               </l>
@@ -1272,7 +1264,7 @@
               <l>Where he is kept in chains, as he were guilty </l>
               <l>Of some flagitious action. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e11060">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e11060">
               <speaker>Count. </speaker>
               <l>For what is he so us'd? </l>
             </sp>
@@ -1301,7 +1293,7 @@
               <l>Malice in power will be heard against 'em, </l>
               <l>And his reward be there to Starve neglected. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e11320">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e11320">
               <speaker>Count. </speaker>
               <l>Honour forbid. </l>
             </sp>
@@ -1311,7 +1303,7 @@
               <l>All forbid, yet I th' unhapyy cause </l>
               <l>Look on, and suffer it, unable to assist him. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e11400">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e11400">
               <speaker>Count. </speaker>
               <l>He must, he shall be aided, and by you, </l>
               <l>For whom he suffers all. </l>
@@ -1323,7 +1315,7 @@
               <l>Restor'd a Friend to me, preserv'd my honour, </l>
               <l>How shall I pay my thanks. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e11500">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e11500">
               <speaker>Count. </speaker>
               <l>To save you that be all the Act your own. </l>
             </sp>
@@ -1331,7 +1323,7 @@
               <speaker>Gra. </speaker>
               <l>Wou'd heav'n but give the power. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e11560">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e11560">
               <speaker>Count. </speaker>
               <l>Give it your self, and lose not time in wishing, </l>
               <l>A Friend, and Father, point you out the way, </l>
@@ -1341,7 +1333,7 @@
               <speaker>Gra. </speaker>
               <l>Ha! what of her, my Lord? </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e11650">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e11650">
               <speaker>Count. </speaker>
               <l>She may be yours. </l>
             </sp>
@@ -1377,7 +1369,7 @@
               <l>That will prevent all pryings, or suspicions </l>
               <l>Of her Marriage. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e11960">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e11960">
               <speaker>Count. </speaker>
               <l>Especially to him, a younger Brother </l>
               <l>Will ne'er be thought an Object for her choice, </l>
@@ -1389,7 +1381,7 @@
               <l>My Lord, I'll leave you to consult together. <stage xml:id="eng000652-e12050">Exit Bell. </stage>
               </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e12070">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e12070">
               <speaker>Count. </speaker>
               <l>You seem not much to relish this proposal; </l>
               <l>Cou'd you expect a match so advantageous? </l>
@@ -1400,7 +1392,7 @@
               <l>Which shou'd be made for nobler ends than interest; </l>
               <l>Hearts shou'd first be join'd. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e12160">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e12160">
               <speaker>Count. </speaker>
               <l>And who deserves your Heart more than Lamira? </l>
             </sp>
@@ -1415,7 +1407,7 @@
               <l>And hope you will not press a monstrous Union </l>
               <l>Of things by nature not agreeing. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e12300">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e12300">
               <speaker>Count. </speaker>
               <l>By heav'n a meer rebellious Sprit moves thee </l>
               <l>To this refusal, had it not been offer'd, </l>
@@ -1430,7 +1422,7 @@
               <l>E'er resolv'd on, and that Marriage bonds </l>
               <l>Were of too pond'rous weight, for youth to bear. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e12430">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e12430">
               <speaker>Count. </speaker>
               <l>Are you still a Boy? I have consider'd for you, </l>
               <l>Your part is to obey. </l>
@@ -1440,7 +1432,7 @@
               <l>I have yet too large a Stock of coming years, </l>
               <l>To be laid out upon one hasty purchase. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e12510">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e12510">
               <speaker>Count. </speaker>
               <l>Go satisfy your Friend thus, tell him the last </l>
               <l>Of that fine fansied stock, shall be laid out </l>
@@ -1450,7 +1442,7 @@
               <speaker>Gra. </speaker>
               <l>O Castalio! </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e12600">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e12600">
               <speaker>Count. </speaker>
               <l>You Love him well indeed ingrateful wretch, </l>
               <l>Insensible of every benefit, </l>
@@ -1476,7 +1468,7 @@
               <l>His Freedom will not cost you half so dear, </l>
               <l>Nor he be so ingrateful. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e12840">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e12840">
               <speaker>Count. </speaker>
               <l>Impudent request! what Friendship do I owe him, </l>
               <l>For sending me such a rebellious Son? </l>
@@ -1874,7 +1866,7 @@
             </sp>
             <stage xml:id="eng000652-e16540">
               <hi>Enter a </hi>Servant. </stage>
-            <sp who="#eng000652-servant-2" xml:id="eng000652-e16560">
+            <sp who="#eng000652-servant" xml:id="eng000652-e16560">
               <speaker>Serv. </speaker>
               <l>Sir, I am sent with an unwelcome Message </l>
               <l>From my Lord your Father; the time you took, </l>
@@ -1895,7 +1887,7 @@
               <l>Thy looks forebode me ill, if my Child is dead, </l>
               <l>Smile when thou tell'st me, for he is happy. </l>
             </sp>
-            <sp who="#eng000652-servant-2" xml:id="eng000652-e16750">
+            <sp who="#eng000652-servant" xml:id="eng000652-e16750">
               <pb n="20" xml:id="eng000652-017-a"/>
               <speaker>Serv. </speaker>
               <l>Sir, he lives, but in a wretched state; </l>
@@ -1912,7 +1904,7 @@
               <l>Methinks it shou'd be more a burthen to him, </l>
               <l>Than advantage. </l>
             </sp>
-            <sp who="#eng000652-servant-2" xml:id="eng000652-e16890">
+            <sp who="#eng000652-servant" xml:id="eng000652-e16890">
               <speaker>Serv. </speaker>
               <l>They say he does it, Sir, </l>
               <l>In hopes of a Considerable ransom, </l>
@@ -2009,7 +2001,7 @@
               <l>'TIs I my Lord, am honour'd in your choice, </l>
               <l>To make me sharer of your noble bloud. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e17850">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e17850">
               <speaker>Count. </speaker>
               <l>We shall esteem our House with greater Cause, </l>
               <l>When it can boast of such an Ornament; </l>
@@ -2027,7 +2019,7 @@
               </l>
               <l>Which it must love, and will not be controul'd. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e18020">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e18020">
               <speaker>Count. </speaker>
               <l>Bellgard, your fair relation has consented </l>
               <l>To all our wishes, tho' beyond our hopes. </l>
@@ -2043,7 +2035,7 @@
               <l>'Tis so above what I can say, or think, </l>
               <l>I cou'd not hope, nor ought to'ave aim'd at it. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e18170">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e18170">
               <speaker>Count. </speaker>
               <l>You must not wonder, Madam, if my Son </l>
               <l>Is eager to secure a happiness </l>
@@ -2060,7 +2052,7 @@
               <speaker>Gra. </speaker>
               <l>It might reward an Age of expectation. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e18310">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e18310">
               <speaker>Count. </speaker>
               <l>But happiness can never come too soon; </l>
               <l>May not th' account of his, begin to morrow? </l>
@@ -2069,7 +2061,7 @@
               <speaker>Lam. </speaker>
               <l>Nay now you are too hasty. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e18380">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e18380">
               <speaker>Count. </speaker>
               <l>Bellgard, you'll join in intercession with us. </l>
             </sp>
@@ -2083,7 +2075,7 @@
               <l>O Felicia? <stage xml:id="eng000652-e18500">Aside </stage>
               </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e18510">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e18510">
               <speaker>Count. </speaker>
               <l>Ha? methought he nam'd, Felicia, </l>
               <l>We must not let him cool; since all's agreed, </l>
@@ -2125,7 +2117,7 @@
               <l>You have an absolute command of me, </l>
               <l>But methinks this is too sudden. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e18870">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e18870">
               <speaker>Count. </speaker>
               <l>O the more unexpected the more pleasing. </l>
             </sp>
@@ -2139,7 +2131,7 @@
               <l>Whilst we within conclude the happy Union, </l>
               <l>Come Gramont, you'll lead your Bride. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e18990">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e18990">
               <speaker>Count. </speaker>
               <l>Hast, you lose time the night is almost spent. </l>
             </sp>
@@ -5183,7 +5175,7 @@
               <speaker>Lam. </speaker>
               <l>Desperate remorse! </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e45550">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e45550">
               <speaker>Roq. </speaker>
               <l>O my Son! </l>
             </sp>
@@ -5216,7 +5208,7 @@
               <speaker>Cast. </speaker>
               <l>An Accidental blow. </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e45810">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e45810">
               <speaker>Roq. </speaker>
               <l>Unhappy Son, of a more wretched Father! </l>
             </sp>
@@ -5263,7 +5255,7 @@
               <l>One day had chang'd the Scene, and made me happy. </l>
               <l>But O your Son, Felicia! </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e46240">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e46240">
               <speaker>Roq. </speaker>
               <l>I'll take him to my care. </l>
               <l>I've been to blame in using thee so harshly; </l>
@@ -5277,7 +5269,7 @@
               <l>If thou'dst have thy Husband's Spirit rest. <stage xml:id="eng000652-e46370">Dies. </stage>
               </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e46380">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e46380">
               <speaker>Roq. </speaker>
               <l>He's gone for ever! </l>
             </sp>
@@ -5285,7 +5277,7 @@
               <speaker>Fel. </speaker>
               <l>O! O! </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e46440">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e46440">
               <speaker>Roq. </speaker>
               <l>'Tis Heav'ns will, my Child— Some help she swoons. </l>
             </sp>
@@ -5295,7 +5287,7 @@
                 </stage>
               </l>
             </sp>
-            <sp who="#eng000652-roquelaure" xml:id="eng000652-e46530">
+            <sp who="#eng000652-count-roquelaure" xml:id="eng000652-e46530">
               <speaker>Roq. </speaker>
               <l>Pity from one who needs it more herself! </l>
               <l>What Reparation can be made, Lamira? </l>

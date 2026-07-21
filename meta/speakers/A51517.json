@@ -1,0 +1,2617 @@
+{
+  "particDesc": [
+    {
+      "name": "Lord",
+      "id": "lord",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Corporal",
+      "id": "corporal",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 2",
+      "id": "soldier-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 1",
+      "id": "soldier-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lucretia ",
+      "id": "lucretia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Page",
+      "id": "page",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Gentleman",
+      "id": "gentleman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "king",
+      "name": "King ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "rheusanes",
+      "name": "Rheusanes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ghinotto",
+      "name": "Ghinotto",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dorenalus",
+      "name": "Dorenalus ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "collonel",
+      "name": "Collonel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "oryala",
+      "name": "Oryala",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "antelina",
+      "name": "Antelina",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A51517-e1970": [
+      "king"
+    ],
+    "A51517-e2110": [
+      "gentleman"
+    ],
+    "A51517-e2160": [
+      "king"
+    ],
+    "A51517-e2250": [
+      "ghinotto"
+    ],
+    "A51517-e2340": [
+      "king"
+    ],
+    "A51517-e2390": [
+      "ghinotto"
+    ],
+    "A51517-e2460": [
+      "king"
+    ],
+    "A51517-e2580": [
+      "ghinotto"
+    ],
+    "A51517-e2680": [
+      "king"
+    ],
+    "A51517-e2720": [
+      "ghinotto"
+    ],
+    "A51517-e2790": [
+      "king"
+    ],
+    "A51517-e2850": [
+      "ghinotto"
+    ],
+    "A51517-e2950": [
+      "king"
+    ],
+    "A51517-e3030": [
+      "ghinotto"
+    ],
+    "A51517-e3080": [
+      "king"
+    ],
+    "A51517-e3210": [
+      "gentleman"
+    ],
+    "A51517-e3240": [
+      "king"
+    ],
+    "A51517-e3500": [
+      "rheusanes"
+    ],
+    "A51517-e3560": [
+      "king"
+    ],
+    "A51517-e3620": [
+      "rheusanes"
+    ],
+    "A51517-e3700": [
+      "king"
+    ],
+    "A51517-e3790": [
+      "dorenalus"
+    ],
+    "A51517-e3840": [
+      "king"
+    ],
+    "A51517-e3970": [
+      "rheusanes"
+    ],
+    "A51517-e4050": [
+      "king"
+    ],
+    "A51517-e4120": [
+      "dorenalus"
+    ],
+    "A51517-e4160": [
+      "king"
+    ],
+    "A51517-e4230": [
+      "rheusanes"
+    ],
+    "A51517-e4280": [
+      "king"
+    ],
+    "A51517-e4380": [
+      "dorenalus"
+    ],
+    "A51517-e4430": [
+      "rheusanes"
+    ],
+    "A51517-e4480": [
+      "oryala"
+    ],
+    "A51517-e4510": [
+      "rheusanes"
+    ],
+    "A51517-e4570": [
+      "oryala"
+    ],
+    "A51517-e4650": [
+      "rheusanes"
+    ],
+    "A51517-e4750": [
+      "oryala"
+    ],
+    "A51517-e4820": [
+      "rheusanes"
+    ],
+    "A51517-e4900": [
+      "oryala"
+    ],
+    "A51517-e4930": [
+      "rheusanes"
+    ],
+    "A51517-e5010": [
+      "oryala"
+    ],
+    "A51517-e5090": [
+      "rheusanes"
+    ],
+    "A51517-e5170": [
+      "oryala"
+    ],
+    "A51517-e5240": [
+      "rheusanes"
+    ],
+    "A51517-e5270": [
+      "oryala"
+    ],
+    "A51517-e5310": [
+      "rheusanes"
+    ],
+    "A51517-e5360": [
+      "oryala"
+    ],
+    "A51517-e5450": [
+      "rheusanes"
+    ],
+    "A51517-e5560": [
+      "oryala"
+    ],
+    "A51517-e5720": [
+      "rheusanes"
+    ],
+    "A51517-e5840": [
+      "oryala"
+    ],
+    "A51517-e5900": [
+      "rheusanes"
+    ],
+    "A51517-e5930": [
+      "oryala"
+    ],
+    "A51517-e5980": [
+      "rheusanes"
+    ],
+    "A51517-e6030": [
+      "oryala"
+    ],
+    "A51517-e6100": [
+      "rheusanes"
+    ],
+    "A51517-e6150": [
+      "oryala"
+    ],
+    "A51517-e6180": [
+      "rheusanes"
+    ],
+    "A51517-e6210": [
+      "oryala"
+    ],
+    "A51517-e6240": [
+      "rheusanes"
+    ],
+    "A51517-e6310": [
+      "oryala"
+    ],
+    "A51517-e6420": [
+      "rheusanes"
+    ],
+    "A51517-e6450": [
+      "oryala"
+    ],
+    "A51517-e6480": [
+      "rheusanes"
+    ],
+    "A51517-e6510": [
+      "oryala"
+    ],
+    "A51517-e6540": [
+      "rheusanes"
+    ],
+    "A51517-e6640": [
+      "oryala"
+    ],
+    "A51517-e6670": [
+      "rheusanes"
+    ],
+    "A51517-e6700": [
+      "oryala"
+    ],
+    "A51517-e6730": [
+      "rheusanes"
+    ],
+    "A51517-e6760": [
+      "oryala"
+    ],
+    "A51517-e6790": [
+      "rheusanes"
+    ],
+    "A51517-e6830": [
+      "oryala"
+    ],
+    "A51517-e6870": [
+      "rheusanes"
+    ],
+    "A51517-e6900": [
+      "oryala"
+    ],
+    "A51517-e6950": [
+      "rheusanes"
+    ],
+    "A51517-e6980": [
+      "oryala"
+    ],
+    "A51517-e7010": [
+      "rheusanes"
+    ],
+    "A51517-e7040": [
+      "oryala"
+    ],
+    "A51517-e7070": [
+      "rheusanes"
+    ],
+    "A51517-e7140": [
+      "oryala"
+    ],
+    "A51517-e7170": [
+      "rheusanes"
+    ],
+    "A51517-e7200": [
+      "oryala"
+    ],
+    "A51517-e7340": [
+      "rheusanes"
+    ],
+    "A51517-e7460": [
+      "dorenalus"
+    ],
+    "A51517-e7500": [
+      "rheusanes"
+    ],
+    "A51517-e7530": [
+      "dorenalus"
+    ],
+    "A51517-e7570": [
+      "rheusanes"
+    ],
+    "A51517-e7600": [
+      "dorenalus"
+    ],
+    "A51517-e7730": [
+      "rheusanes"
+    ],
+    "A51517-e7790": [
+      "dorenalus"
+    ],
+    "A51517-e7870": [
+      "rheusanes"
+    ],
+    "A51517-e7930": [
+      "dorenalus"
+    ],
+    "A51517-e7960": [
+      "rheusanes"
+    ],
+    "A51517-e8070": [
+      "dorenalus"
+    ],
+    "A51517-e8100": [
+      "rheusanes"
+    ],
+    "A51517-e8130": [
+      "dorenalus"
+    ],
+    "A51517-e8160": [
+      "rheusanes"
+    ],
+    "A51517-e8190": [
+      "dorenalus"
+    ],
+    "A51517-e8240": [
+      "rheusanes"
+    ],
+    "A51517-e8290": [
+      "dorenalus"
+    ],
+    "A51517-e8340": [
+      "rheusanes"
+    ],
+    "A51517-e8370": [
+      "dorenalus"
+    ],
+    "A51517-e8400": [
+      "rheusanes"
+    ],
+    "A51517-e8430": [
+      "dorenalus"
+    ],
+    "A51517-e8460": [
+      "rheusanes"
+    ],
+    "A51517-e8490": [
+      "dorenalus"
+    ],
+    "A51517-e8520": [
+      "rheusanes"
+    ],
+    "A51517-e8550": [
+      "dorenalus"
+    ],
+    "A51517-e8580": [
+      "rheusanes"
+    ],
+    "A51517-e8610": [
+      "dorenalus"
+    ],
+    "A51517-e8660": [
+      "rheusanes"
+    ],
+    "A51517-e8690": [
+      "dorenalus"
+    ],
+    "A51517-e8760": [
+      "rheusanes"
+    ],
+    "A51517-e8830": [
+      "dorenalus"
+    ],
+    "A51517-e8890": [
+      "rheusanes"
+    ],
+    "A51517-e8920": [
+      "dorenalus"
+    ],
+    "A51517-e8950": [
+      "rheusanes"
+    ],
+    "A51517-e9020": [
+      "dorenalus"
+    ],
+    "A51517-e9050": [
+      "rheusanes"
+    ],
+    "A51517-e9170": [
+      "rheusanes"
+    ],
+    "A51517-e9260": [
+      "antelina"
+    ],
+    "A51517-e9310": [
+      "rheusanes"
+    ],
+    "A51517-e9370": [
+      "antelina"
+    ],
+    "A51517-e9450": [
+      "rheusanes"
+    ],
+    "A51517-e9510": [
+      "antelina"
+    ],
+    "A51517-e9540": [
+      "rheusanes"
+    ],
+    "A51517-e9610": [
+      "antelina"
+    ],
+    "A51517-e9720": [
+      "rheusanes"
+    ],
+    "A51517-e9800": [
+      "antelina"
+    ],
+    "A51517-e9880": [
+      "rheusanes"
+    ],
+    "A51517-e9910": [
+      "antelina"
+    ],
+    "A51517-e9960": [
+      "rheusanes"
+    ],
+    "A51517-e10000": [
+      "antelina"
+    ],
+    "A51517-e10090": [
+      "rheusanes"
+    ],
+    "A51517-e10230": [
+      "antelina"
+    ],
+    "A51517-e10320": [
+      "rheusanes"
+    ],
+    "A51517-e10350": [
+      "antelina"
+    ],
+    "A51517-e10390": [
+      "rheusanes"
+    ],
+    "A51517-e10510": [
+      "ghinotto"
+    ],
+    "A51517-e10540": [
+      "antelina"
+    ],
+    "A51517-e10600": [
+      "rheusanes"
+    ],
+    "A51517-e10700": [
+      "antelina"
+    ],
+    "A51517-e10730": [
+      "rheusanes"
+    ],
+    "A51517-e10850": [
+      "ghinotto"
+    ],
+    "A51517-e10880": [
+      "antelina"
+    ],
+    "A51517-e10940": [
+      "rheusanes"
+    ],
+    "A51517-e10990": [
+      "antelina"
+    ],
+    "A51517-e11020": [
+      "rheusanes"
+    ],
+    "A51517-e11100": [
+      "ghinotto"
+    ],
+    "A51517-e11130": [
+      "antelina"
+    ],
+    "A51517-e11180": [
+      "rheusanes"
+    ],
+    "A51517-e11250": [
+      "antelina"
+    ],
+    "A51517-e11280": [
+      "rheusanes"
+    ],
+    "A51517-e11310": [
+      "antelina"
+    ],
+    "A51517-e11340": [
+      "rheusanes"
+    ],
+    "A51517-e11370": [
+      "antelina"
+    ],
+    "A51517-e11430": [
+      "rheusanes"
+    ],
+    "A51517-e11510": [
+      "antelina"
+    ],
+    "A51517-e11540": [
+      "rheusanes"
+    ],
+    "A51517-e11570": [
+      "ghinotto"
+    ],
+    "A51517-e11610": [
+      "antelina"
+    ],
+    "A51517-e11670": [
+      "rheusanes"
+    ],
+    "A51517-e11710": [
+      "page"
+    ],
+    "A51517-e11740": [
+      "antelina"
+    ],
+    "A51517-e11770": [
+      "rheusanes"
+    ],
+    "A51517-e11800": [
+      "antelina"
+    ],
+    "A51517-e11830": [
+      "rheusanes"
+    ],
+    "A51517-e11890": [
+      "antelina"
+    ],
+    "A51517-e11990": [
+      "ghinotto"
+    ],
+    "A51517-e12060": [
+      "antelina"
+    ],
+    "A51517-e12120": [
+      "king"
+    ],
+    "A51517-e12150": [
+      "antelina"
+    ],
+    "A51517-e12180": [
+      "king"
+    ],
+    "A51517-e12270": [
+      "antelina"
+    ],
+    "A51517-e12360": [
+      "king"
+    ],
+    "A51517-e12440": [
+      "antelina"
+    ],
+    "A51517-e12500": [
+      "king"
+    ],
+    "A51517-e12580": [
+      "antelina"
+    ],
+    "A51517-e12650": [
+      "king"
+    ],
+    "A51517-e12750": [
+      "antelina"
+    ],
+    "A51517-e12780": [
+      "king"
+    ],
+    "A51517-e12900": [
+      "antelina"
+    ],
+    "A51517-e13010": [
+      "king"
+    ],
+    "A51517-e13100": [
+      "antelina"
+    ],
+    "A51517-e13130": [
+      "king"
+    ],
+    "A51517-e13190": [
+      "antelina"
+    ],
+    "A51517-e13220": [
+      "king"
+    ],
+    "A51517-e13270": [
+      "antelina"
+    ],
+    "A51517-e13350": [
+      "king"
+    ],
+    "A51517-e13450": [
+      "antelina"
+    ],
+    "A51517-e13510": [
+      "king"
+    ],
+    "A51517-e13640": [
+      "antelina"
+    ],
+    "A51517-e13820": [
+      "oryala"
+    ],
+    "A51517-e13850": [
+      "king"
+    ],
+    "A51517-e13930": [
+      "oryala"
+    ],
+    "A51517-e14000": [
+      "king"
+    ],
+    "A51517-e14070": [
+      "oryala"
+    ],
+    "A51517-e14120": [
+      "king"
+    ],
+    "A51517-e14180": [
+      "oryala"
+    ],
+    "A51517-e14210": [
+      "king"
+    ],
+    "A51517-e14240": [
+      "oryala"
+    ],
+    "A51517-e14330": [
+      "king"
+    ],
+    "A51517-e14380": [
+      "oryala"
+    ],
+    "A51517-e14410": [
+      "king"
+    ],
+    "A51517-e14480": [
+      "oryala"
+    ],
+    "A51517-e14530": [
+      "king"
+    ],
+    "A51517-e14600": [
+      "oryala"
+    ],
+    "A51517-e14740": [
+      "ghinotto"
+    ],
+    "A51517-e14810": [
+      "dorenalus"
+    ],
+    "A51517-e14870": [
+      "ghinotto"
+    ],
+    "A51517-e14900": [
+      "dorenalus"
+    ],
+    "A51517-e15000": [
+      "ghinotto"
+    ],
+    "A51517-e15030": [
+      "dorenalus"
+    ],
+    "A51517-e15060": [
+      "ghinotto"
+    ],
+    "A51517-e15090": [
+      "dorenalus"
+    ],
+    "A51517-e15130": [
+      "ghinotto"
+    ],
+    "A51517-e15190": [
+      "dorenalus"
+    ],
+    "A51517-e15220": [
+      "ghinotto"
+    ],
+    "A51517-e15250": [
+      "dorenalus"
+    ],
+    "A51517-e15280": [
+      "ghinotto"
+    ],
+    "A51517-e15310": [
+      "dorenalus"
+    ],
+    "A51517-e15340": [
+      "ghinotto"
+    ],
+    "A51517-e15390": [
+      "dorenalus"
+    ],
+    "A51517-e15420": [
+      "ghinotto"
+    ],
+    "A51517-e15470": [
+      "dorenalus"
+    ],
+    "A51517-e15500": [
+      "ghinotto"
+    ],
+    "A51517-e15580": [
+      "dorenalus"
+    ],
+    "A51517-e15650": [
+      "ghinotto"
+    ],
+    "A51517-e15750": [
+      "dorenalus"
+    ],
+    "A51517-e15840": [
+      "ghinotto"
+    ],
+    "A51517-e15870": [
+      "dorenalus"
+    ],
+    "A51517-e15900": [
+      "ghinotto"
+    ],
+    "A51517-e16030": [
+      "rheusanes"
+    ],
+    "A51517-e16060": [
+      "dorenalus"
+    ],
+    "A51517-e16090": [
+      "rheusanes"
+    ],
+    "A51517-e16160": [
+      "dorenalus"
+    ],
+    "A51517-e16220": [
+      "rheusanes"
+    ],
+    "A51517-e16250": [
+      "dorenalus"
+    ],
+    "A51517-e16360": [
+      "rheusanes"
+    ],
+    "A51517-e16440": [
+      "dorenalus"
+    ],
+    "A51517-e16520": [
+      "rheusanes"
+    ],
+    "A51517-e16610": [
+      "dorenalus"
+    ],
+    "A51517-e16670": [
+      "rheusanes"
+    ],
+    "A51517-e16920": [
+      "dorenalus"
+    ],
+    "A51517-e16950": [
+      "page"
+    ],
+    "A51517-e17010": [
+      "dorenalus"
+    ],
+    "A51517-e17070": [
+      "rheusanes"
+    ],
+    "A51517-e17140": [
+      "dorenalus"
+    ],
+    "A51517-e17220": [
+      "rheusanes"
+    ],
+    "A51517-e17320": [
+      "dorenalus"
+    ],
+    "A51517-e17350": [
+      "rheusanes"
+    ],
+    "A51517-e17430": [
+      "dorenalus"
+    ],
+    "A51517-e17500": [
+      "rheusanes"
+    ],
+    "A51517-e17530": [
+      "dorenalus"
+    ],
+    "A51517-e17640": [
+      "rheusanes"
+    ],
+    "A51517-e17730": [
+      "dorenalus"
+    ],
+    "A51517-e17800": [
+      "rheusanes"
+    ],
+    "A51517-e17920": [
+      "dorenalus"
+    ],
+    "A51517-e17950": [
+      "rheusanes"
+    ],
+    "A51517-e18050": [
+      "dorenalus"
+    ],
+    "A51517-e18100": [
+      "rheusanes"
+    ],
+    "A51517-e18250": [
+      "page"
+    ],
+    "A51517-e18280": [
+      "rheusanes"
+    ],
+    "A51517-e18330": [
+      "dorenalus"
+    ],
+    "A51517-e18360": [
+      "rheusanes"
+    ],
+    "A51517-e18420": [
+      "king"
+    ],
+    "A51517-e18490": [
+      "rheusanes"
+    ],
+    "A51517-e18570": [
+      "king"
+    ],
+    "A51517-e18600": [
+      "rheusanes"
+    ],
+    "A51517-e18660": [
+      "ghinotto"
+    ],
+    "A51517-e18690": [
+      "rheusanes"
+    ],
+    "A51517-e18720": [
+      "king"
+    ],
+    "A51517-e18750": [
+      "ghinotto"
+    ],
+    "A51517-e18780": [
+      "king"
+    ],
+    "A51517-e18810": [
+      "rheusanes"
+    ],
+    "A51517-e18890": [
+      "king"
+    ],
+    "A51517-e18930": [
+      "rheusanes"
+    ],
+    "A51517-e19070": [
+      "king"
+    ],
+    "A51517-e19120": [
+      "ghinotto"
+    ],
+    "A51517-e19150": [
+      "rheusanes"
+    ],
+    "A51517-e19190": [
+      "king"
+    ],
+    "A51517-e19300": [
+      "rheusanes"
+    ],
+    "A51517-e19330": [
+      "king"
+    ],
+    "A51517-e19360": [
+      "oryala"
+    ],
+    "A51517-e19430": [
+      "king"
+    ],
+    "A51517-e19480": [
+      "rheusanes"
+    ],
+    "A51517-e19520": [
+      "king"
+    ],
+    "A51517-e19560": [
+      "rheusanes"
+    ],
+    "A51517-e19590": [
+      "king"
+    ],
+    "A51517-e19770": [
+      "rheusanes"
+    ],
+    "A51517-e20070": [
+      "dorenalus"
+    ],
+    "A51517-e20140": [
+      "rheusanes"
+    ],
+    "A51517-e20200": [
+      "dorenalus"
+    ],
+    "A51517-e20230": [
+      "rheusanes"
+    ],
+    "A51517-e20260": [
+      "dorenalus"
+    ],
+    "A51517-e20290": [
+      "rheusanes"
+    ],
+    "A51517-e20320": [
+      "dorenalus"
+    ],
+    "A51517-e20360": [
+      "rheusanes"
+    ],
+    "A51517-e20390": [
+      "dorenalus"
+    ],
+    "A51517-e20420": [
+      "rheusanes"
+    ],
+    "A51517-e20450": [
+      "dorenalus"
+    ],
+    "A51517-e20480": [
+      "rheusanes"
+    ],
+    "A51517-e20530": [
+      "dorenalus"
+    ],
+    "A51517-e20600": [
+      "rheusanes"
+    ],
+    "A51517-e20630": [
+      "dorenalus"
+    ],
+    "A51517-e20680": [
+      "rheusanes"
+    ],
+    "A51517-e20750": [
+      "dorenalus"
+    ],
+    "A51517-e20810": [
+      "rheusanes"
+    ],
+    "A51517-e20930": [
+      "dorenalus"
+    ],
+    "A51517-e20960": [
+      "rheusanes"
+    ],
+    "A51517-e21070": [
+      "dorenalus"
+    ],
+    "A51517-e21190": [
+      "rheusanes"
+    ],
+    "A51517-e21220": [
+      "dorenalus"
+    ],
+    "A51517-e21310": [
+      "rheusanes"
+    ],
+    "A51517-e21340": [
+      "dorenalus"
+    ],
+    "A51517-e21410": [
+      "rheusanes"
+    ],
+    "A51517-e21520": [
+      "dorenalus"
+    ],
+    "A51517-e21570": [
+      "rheusanes"
+    ],
+    "A51517-e21670": [
+      "dorenalus"
+    ],
+    "A51517-e21760": [
+      "rheusanes"
+    ],
+    "A51517-e21820": [
+      "dorenalus"
+    ],
+    "A51517-e21890": [
+      "rheusanes"
+    ],
+    "A51517-e21920": [
+      "dorenalus"
+    ],
+    "A51517-e21950": [
+      "rheusanes"
+    ],
+    "A51517-e21990": [
+      "dorenalus"
+    ],
+    "A51517-e22020": [
+      "rheusanes"
+    ],
+    "A51517-e22050": [
+      "dorenalus"
+    ],
+    "A51517-e22090": [
+      "rheusanes"
+    ],
+    "A51517-e22170": [
+      "dorenalus"
+    ],
+    "A51517-e22200": [
+      "rheusanes"
+    ],
+    "A51517-e22230": [
+      "dorenalus"
+    ],
+    "A51517-e22340": [
+      "rheusanes"
+    ],
+    "A51517-e22410": [
+      "dorenalus"
+    ],
+    "A51517-e22440": [
+      "rheusanes"
+    ],
+    "A51517-e22490": [
+      "dorenalus"
+    ],
+    "A51517-e22520": [
+      "rheusanes"
+    ],
+    "A51517-e22550": [
+      "dorenalus"
+    ],
+    "A51517-e22580": [
+      "rheusanes"
+    ],
+    "A51517-e22610": [
+      "dorenalus"
+    ],
+    "A51517-e22650": [
+      "rheusanes"
+    ],
+    "A51517-e22710": [
+      "dorenalus"
+    ],
+    "A51517-e22770": [
+      "rheusanes"
+    ],
+    "A51517-e22800": [
+      "dorenalus"
+    ],
+    "A51517-e22870": [
+      "rheusanes"
+    ],
+    "A51517-e22900": [
+      "dorenalus"
+    ],
+    "A51517-e23010": [
+      "rheusanes"
+    ],
+    "A51517-e23040": [
+      "dorenalus"
+    ],
+    "A51517-e23090": [
+      "rheusanes"
+    ],
+    "A51517-e23120": [
+      "dorenalus"
+    ],
+    "A51517-e23150": [
+      "rheusanes"
+    ],
+    "A51517-e23180": [
+      "dorenalus"
+    ],
+    "A51517-e23320": [
+      "rheusanes"
+    ],
+    "A51517-e23360": [
+      "oryala"
+    ],
+    "A51517-e23500": [
+      "rheusanes"
+    ],
+    "A51517-e23540": [
+      "oryala"
+    ],
+    "A51517-e23590": [
+      "rheusanes"
+    ],
+    "A51517-e23660": [
+      "oryala"
+    ],
+    "A51517-e23690": [
+      "rheusanes"
+    ],
+    "A51517-e23740": [
+      "oryala"
+    ],
+    "A51517-e23770": [
+      "rheusanes"
+    ],
+    "A51517-e23810": [
+      "oryala"
+    ],
+    "A51517-e23860": [
+      "rheusanes"
+    ],
+    "A51517-e23930": [
+      "oryala"
+    ],
+    "A51517-e23970": [
+      "rheusanes"
+    ],
+    "A51517-e24070": [
+      "oryala"
+    ],
+    "A51517-e24130": [
+      "rheusanes"
+    ],
+    "A51517-e24220": [
+      "oryala"
+    ],
+    "A51517-e24270": [
+      "rheusanes"
+    ],
+    "A51517-e24340": [
+      "oryala"
+    ],
+    "A51517-e24470": [
+      "rheusanes"
+    ],
+    "A51517-e24500": [
+      "oryala"
+    ],
+    "A51517-e24580": [
+      "rheusanes"
+    ],
+    "A51517-e24660": [
+      "oryala"
+    ],
+    "A51517-e24690": [
+      "rheusanes"
+    ],
+    "A51517-e24750": [
+      "oryala"
+    ],
+    "A51517-e24780": [
+      "rheusanes"
+    ],
+    "A51517-e24870": [
+      "oryala"
+    ],
+    "A51517-e24960": [
+      "rheusanes"
+    ],
+    "A51517-e24990": [
+      "oryala"
+    ],
+    "A51517-e25200": [
+      "rheusanes"
+    ],
+    "A51517-e25410": [
+      "antelina"
+    ],
+    "A51517-e25540": [
+      "rheusanes"
+    ],
+    "A51517-e25620": [
+      "antelina"
+    ],
+    "A51517-e25650": [
+      "rheusanes"
+    ],
+    "A51517-e25710": [
+      "antelina"
+    ],
+    "A51517-e25810": [
+      "rheusanes"
+    ],
+    "A51517-e25870": [
+      "antelina"
+    ],
+    "A51517-e25900": [
+      "rheusanes"
+    ],
+    "A51517-e25930": [
+      "antelina"
+    ],
+    "A51517-e25990": [
+      "rheusanes"
+    ],
+    "A51517-e26020": [
+      "antelina"
+    ],
+    "A51517-e26060": [
+      "rheusanes"
+    ],
+    "A51517-e26140": [
+      "antelina"
+    ],
+    "A51517-e26170": [
+      "rheusanes"
+    ],
+    "A51517-e26200": [
+      "antelina"
+    ],
+    "A51517-e26230": [
+      "rheusanes"
+    ],
+    "A51517-e26270": [
+      "antelina"
+    ],
+    "A51517-e26300": [
+      "rheusanes"
+    ],
+    "A51517-e26330": [
+      "antelina"
+    ],
+    "A51517-e26360": [
+      "rheusanes"
+    ],
+    "A51517-e26390": [
+      "antelina"
+    ],
+    "A51517-e26430": [
+      "rheusanes"
+    ],
+    "A51517-e26620": [
+      "antelina"
+    ],
+    "A51517-e26790": [
+      "king"
+    ],
+    "A51517-e26830": [
+      "ghinotto"
+    ],
+    "A51517-e26860": [
+      "antelina"
+    ],
+    "A51517-e26890": [
+      "ghinotto"
+    ],
+    "A51517-e26920": [
+      "antelina"
+    ],
+    "A51517-e26950": [
+      "king"
+    ],
+    "A51517-e27010": [
+      "antelina"
+    ],
+    "A51517-e27080": [
+      "king"
+    ],
+    "A51517-e27110": [
+      "antelina"
+    ],
+    "A51517-e27200": [
+      "king"
+    ],
+    "A51517-e27290": [
+      "antelina"
+    ],
+    "A51517-e27370": [
+      "king"
+    ],
+    "A51517-e27420": [
+      "ghinotto"
+    ],
+    "A51517-e27480": [
+      "king"
+    ],
+    "A51517-e27540": [
+      "antelina"
+    ],
+    "A51517-e27610": [
+      "king"
+    ],
+    "A51517-e27660": [
+      "antelina"
+    ],
+    "A51517-e27690": [
+      "king"
+    ],
+    "A51517-e27720": [
+      "antelina"
+    ],
+    "A51517-e27780": [
+      "king"
+    ],
+    "A51517-e27840": [
+      "ghinotto"
+    ],
+    "A51517-e27870": [
+      "king"
+    ],
+    "A51517-e27990": [
+      "ghinotto"
+    ],
+    "A51517-e28110": [
+      "king"
+    ],
+    "A51517-e28190": [
+      "antelina"
+    ],
+    "A51517-e28250": [
+      "king"
+    ],
+    "A51517-e28330": [
+      "antelina"
+    ],
+    "A51517-e28360": [
+      "king"
+    ],
+    "A51517-e28410": [
+      "antelina"
+    ],
+    "A51517-e28460": [
+      "king"
+    ],
+    "A51517-e28570": [
+      "antelina"
+    ],
+    "A51517-e28600": [
+      "king"
+    ],
+    "A51517-e28720": [
+      "antelina"
+    ],
+    "A51517-e28750": [
+      "king"
+    ],
+    "A51517-e28840": [
+      "antelina"
+    ],
+    "A51517-e28890": [
+      "king"
+    ],
+    "A51517-e28960": [
+      "antelina"
+    ],
+    "A51517-e28990": [
+      "king"
+    ],
+    "A51517-e29100": [
+      "antelina"
+    ],
+    "A51517-e29130": [
+      "king"
+    ],
+    "A51517-e29160": [
+      "antelina"
+    ],
+    "A51517-e29220": [
+      "king"
+    ],
+    "A51517-e29330": [
+      "antelina"
+    ],
+    "A51517-e29480": [
+      "rheusanes"
+    ],
+    "A51517-e29560": [
+      "antelina"
+    ],
+    "A51517-e29590": [
+      "rheusanes"
+    ],
+    "A51517-e29700": [
+      "antelina"
+    ],
+    "A51517-e29730": [
+      "rheusanes"
+    ],
+    "A51517-e29850": [
+      "antelina"
+    ],
+    "A51517-e29890": [
+      "rheusanes"
+    ],
+    "A51517-e29960": [
+      "antelina"
+    ],
+    "A51517-e29990": [
+      "rheusanes"
+    ],
+    "A51517-e30090": [
+      "antelina"
+    ],
+    "A51517-e30130": [
+      "rheusanes"
+    ],
+    "A51517-e30270": [
+      "antelina"
+    ],
+    "A51517-e30300": [
+      "rheusanes"
+    ],
+    "A51517-e30360": [
+      "antelina"
+    ],
+    "A51517-e30410": [
+      "rheusanes"
+    ],
+    "A51517-e30500": [
+      "antelina"
+    ],
+    "A51517-e30530": [
+      "rheusanes"
+    ],
+    "A51517-e30560": [
+      "antelina"
+    ],
+    "A51517-e30600": [
+      "rheusanes"
+    ],
+    "A51517-e30630": [
+      "antelina"
+    ],
+    "A51517-e30700": [
+      "rheusanes"
+    ],
+    "A51517-e30770": [
+      "antelina"
+    ],
+    "A51517-e30820": [
+      "rheusanes"
+    ],
+    "A51517-e30850": [
+      "antelina"
+    ],
+    "A51517-e30880": [
+      "rheusanes"
+    ],
+    "A51517-e30980": [
+      "antelina"
+    ],
+    "A51517-e31120": [
+      "rheusanes"
+    ],
+    "A51517-e31230": [
+      "antelina"
+    ],
+    "A51517-e31270": [
+      "rheusanes"
+    ],
+    "A51517-e31330": [
+      "antelina"
+    ],
+    "A51517-e31360": [
+      "rheusanes"
+    ],
+    "A51517-e31440": [
+      "antelina"
+    ],
+    "A51517-e31480": [
+      "rheusanes"
+    ],
+    "A51517-e31590": [
+      "ghinotto"
+    ],
+    "A51517-e31680": [
+      "rheusanes"
+    ],
+    "A51517-e31770": [
+      "ghinotto"
+    ],
+    "A51517-e31830": [
+      "rheusanes"
+    ],
+    "A51517-e31960": [
+      "ghinotto"
+    ],
+    "A51517-e32130": [
+      "rheusanes"
+    ],
+    "A51517-e32210": [
+      "ghinotto"
+    ],
+    "A51517-e32290": [
+      "rheusanes"
+    ],
+    "A51517-e32320": [
+      "ghinotto"
+    ],
+    "A51517-e32380": [
+      "rheusanes"
+    ],
+    "A51517-e32410": [
+      "ghinotto"
+    ],
+    "A51517-e32440": [
+      "rheusanes"
+    ],
+    "A51517-e32470": [
+      "ghinotto"
+    ],
+    "A51517-e32500": [
+      "rheusanes"
+    ],
+    "A51517-e32550": [
+      "ghinotto"
+    ],
+    "A51517-e32580": [
+      "rheusanes"
+    ],
+    "A51517-e32610": [
+      "ghinotto"
+    ],
+    "A51517-e32640": [
+      "rheusanes"
+    ],
+    "A51517-e32670": [
+      "ghinotto"
+    ],
+    "A51517-e32700": [
+      "rheusanes"
+    ],
+    "A51517-e32730": [
+      "ghinotto"
+    ],
+    "A51517-e32760": [
+      "rheusanes"
+    ],
+    "A51517-e32800": [
+      "ghinotto"
+    ],
+    "A51517-e32830": [
+      "rheusanes"
+    ],
+    "A51517-e32860": [
+      "ghinotto"
+    ],
+    "A51517-e32890": [
+      "rheusanes"
+    ],
+    "A51517-e32920": [
+      "ghinotto"
+    ],
+    "A51517-e32950": [
+      "rheusanes"
+    ],
+    "A51517-e33020": [
+      "ghinotto"
+    ],
+    "A51517-e33050": [
+      "antelina"
+    ],
+    "A51517-e33080": [
+      "ghinotto"
+    ],
+    "A51517-e33130": [
+      "antelina"
+    ],
+    "A51517-e33160": [
+      "ghinotto"
+    ],
+    "A51517-e33210": [
+      "antelina"
+    ],
+    "A51517-e33240": [
+      "ghinotto"
+    ],
+    "A51517-e33270": [
+      "antelina"
+    ],
+    "A51517-e33350": [
+      "ghinotto"
+    ],
+    "A51517-e33410": [
+      "rheusanes"
+    ],
+    "A51517-e33490": [
+      "ghinotto"
+    ],
+    "A51517-e33600": [
+      "antelina"
+    ],
+    "A51517-e33630": [
+      "ghinotto"
+    ],
+    "A51517-e33740": [
+      "rheusanes"
+    ],
+    "A51517-e33890": [
+      "ghinotto"
+    ],
+    "A51517-e33960": [
+      "rheusanes"
+    ],
+    "A51517-e34070": [
+      "ghinotto"
+    ],
+    "A51517-e34120": [
+      "rheusanes"
+    ],
+    "A51517-e34220": [
+      "antelina"
+    ],
+    "A51517-e34310": [
+      "ghinotto"
+    ],
+    "A51517-e34360": [
+      "rheusanes"
+    ],
+    "A51517-e34400": [
+      "ghinotto"
+    ],
+    "A51517-e34570": [
+      "rheusanes"
+    ],
+    "A51517-e34650": [
+      "ghinotto"
+    ],
+    "A51517-e34680": [
+      "antelina"
+    ],
+    "A51517-e34710": [
+      "ghinotto"
+    ],
+    "A51517-e34740": [
+      "rheusanes"
+    ],
+    "A51517-e34780": [
+      "lucretia"
+    ],
+    "A51517-e34860": [
+      "ghinotto"
+    ],
+    "A51517-e34990": [
+      "antelina"
+    ],
+    "A51517-e35070": [
+      "rheusanes"
+    ],
+    "A51517-e35310": [
+      "dorenalus"
+    ],
+    "A51517-e35520": [
+      "ghinotto"
+    ],
+    "A51517-e35550": [
+      "dorenalus"
+    ],
+    "A51517-e35580": [
+      "ghinotto"
+    ],
+    "A51517-e35610": [
+      "dorenalus"
+    ],
+    "A51517-e35640": [
+      "ghinotto"
+    ],
+    "A51517-e35720": [
+      "dorenalus"
+    ],
+    "A51517-e35750": [
+      "ghinotto"
+    ],
+    "A51517-e35810": [
+      "dorenalus"
+    ],
+    "A51517-e35860": [
+      "ghinotto"
+    ],
+    "A51517-e35910": [
+      "dorenalus"
+    ],
+    "A51517-e35940": [
+      "ghinotto"
+    ],
+    "A51517-e35970": [
+      "dorenalus"
+    ],
+    "A51517-e36000": [
+      "ghinotto"
+    ],
+    "A51517-e36050": [
+      "dorenalus"
+    ],
+    "A51517-e36080": [
+      "ghinotto"
+    ],
+    "A51517-e36110": [
+      "dorenalus"
+    ],
+    "A51517-e36200": [
+      "ghinotto"
+    ],
+    "A51517-e36230": [
+      "dorenalus"
+    ],
+    "A51517-e36260": [
+      "ghinotto"
+    ],
+    "A51517-e36290": [
+      "dorenalus"
+    ],
+    "A51517-e36350": [
+      "ghinotto"
+    ],
+    "A51517-e36420": [
+      "dorenalus"
+    ],
+    "A51517-e36450": [
+      "ghinotto"
+    ],
+    "A51517-e36490": [
+      "dorenalus"
+    ],
+    "A51517-e36640": [
+      "ghinotto"
+    ],
+    "A51517-e36720": [
+      "dorenalus"
+    ],
+    "A51517-e36800": [
+      "ghinotto"
+    ],
+    "A51517-e36880": [
+      "dorenalus"
+    ],
+    "A51517-e36960": [
+      "ghinotto"
+    ],
+    "A51517-e37130": [
+      "rheusanes"
+    ],
+    "A51517-e37330": [
+      "dorenalus"
+    ],
+    "A51517-e37400": [
+      "rheusanes"
+    ],
+    "A51517-e37430": [
+      "dorenalus"
+    ],
+    "A51517-e37460": [
+      "rheusanes"
+    ],
+    "A51517-e37530": [
+      "dorenalus"
+    ],
+    "A51517-e37630": [
+      "rheusanes"
+    ],
+    "A51517-e37660": [
+      "dorenalus"
+    ],
+    "A51517-e37690": [
+      "rheusanes"
+    ],
+    "A51517-e37780": [
+      "dorenalus"
+    ],
+    "A51517-e37860": [
+      "rheusanes"
+    ],
+    "A51517-e37900": [
+      "gentleman"
+    ],
+    "A51517-e37930": [
+      "rheusanes"
+    ],
+    "A51517-e37960": [
+      "dorenalus"
+    ],
+    "A51517-e37990": [
+      "rheusanes"
+    ],
+    "A51517-e38020": [
+      "dorenalus"
+    ],
+    "A51517-e38070": [
+      "rheusanes"
+    ],
+    "A51517-e38190": [
+      "dorenalus"
+    ],
+    "A51517-e38240": [
+      "rheusanes"
+    ],
+    "A51517-e38310": [
+      "dorenalus"
+    ],
+    "A51517-e38380": [
+      "rheusanes"
+    ],
+    "A51517-e38410": [
+      "dorenalus"
+    ],
+    "A51517-e38500": [
+      "rheusanes"
+    ],
+    "A51517-e38700": [
+      "soldier-1"
+    ],
+    "A51517-e38730": [
+      "soldier-2"
+    ],
+    "A51517-e38760": [
+      "soldier-1"
+    ],
+    "A51517-e38790": [
+      "soldier-2"
+    ],
+    "A51517-e38820": [
+      "corporal"
+    ],
+    "A51517-e38850": [
+      "soldier-2"
+    ],
+    "A51517-e38880": [
+      "corporal"
+    ],
+    "A51517-e38910": [
+      "soldier-2"
+    ],
+    "A51517-e38940": [
+      "corporal"
+    ],
+    "A51517-e38970": [
+      "soldier-2"
+    ],
+    "A51517-e39000": [
+      "soldier-1"
+    ],
+    "A51517-e39030": [
+      "soldier-2"
+    ],
+    "A51517-e39060": [
+      "soldier-1"
+    ],
+    "A51517-e39090": [
+      "soldier-2"
+    ],
+    "A51517-e39120": [
+      "corporal"
+    ],
+    "A51517-e39150": [
+      "soldier-2"
+    ],
+    "A51517-e39200": [
+      "corporal"
+    ],
+    "A51517-e39230": [
+      "soldier-2"
+    ],
+    "A51517-e39260": [
+      "soldier-1",
+      "soldier-2",
+      "corporal"
+    ],
+    "A51517-e39290": [
+      "soldier-1"
+    ],
+    "A51517-e39360": [
+      "corporal"
+    ],
+    "A51517-e39390": [
+      "soldier-2"
+    ],
+    "A51517-e39420": [
+      "soldier-1"
+    ],
+    "A51517-e39520": [
+      "corporal"
+    ],
+    "A51517-e39580": [
+      "soldier-2"
+    ],
+    "A51517-e39610": [
+      "soldier-1",
+      "soldier-2",
+      "corporal"
+    ],
+    "A51517-e39640": [
+      "corporal"
+    ],
+    "A51517-e39700": [
+      "soldier-1"
+    ],
+    "A51517-e39730": [
+      "soldier-2"
+    ],
+    "A51517-e39760": [
+      "soldier-1"
+    ],
+    "A51517-e39790": [
+      "corporal"
+    ],
+    "A51517-e39840": [
+      "soldier-2"
+    ],
+    "A51517-e39870": [
+      "soldier-1"
+    ],
+    "A51517-e39900": [
+      "soldier-2"
+    ],
+    "A51517-e39950": [
+      "soldier-1"
+    ],
+    "A51517-e39990": [
+      "corporal"
+    ],
+    "A51517-e40100": [
+      "collonel"
+    ],
+    "A51517-e40200": [
+      "corporal"
+    ],
+    "A51517-e40230": [
+      "collonel"
+    ],
+    "A51517-e40270": [
+      "soldier-1"
+    ],
+    "A51517-e40300": [
+      "collonel"
+    ],
+    "A51517-e40460": [
+      "soldier-1",
+      "soldier-2",
+      "corporal"
+    ],
+    "A51517-e40490": [
+      "collonel"
+    ],
+    "A51517-e40560": [
+      "corporal"
+    ],
+    "A51517-e40610": [
+      "collonel"
+    ],
+    "A51517-e40680": [
+      "soldier-2"
+    ],
+    "A51517-e40710": [
+      "soldier-1"
+    ],
+    "A51517-e40760": [
+      "soldier-2"
+    ],
+    "A51517-e40790": [
+      "corporal"
+    ],
+    "A51517-e40820": [
+      "collonel"
+    ],
+    "A51517-e40850": [
+      "soldier-2"
+    ],
+    "A51517-e40880": [
+      "corporal"
+    ],
+    "A51517-e40930": [
+      "soldier-2"
+    ],
+    "A51517-e40960": [
+      "soldier-1"
+    ],
+    "A51517-e40990": [
+      "corporal"
+    ],
+    "A51517-e41020": [
+      "soldier-1",
+      "soldier-2"
+    ],
+    "A51517-e41050": [
+      "corporal"
+    ],
+    "A51517-e41090": [
+      "soldier-1",
+      "soldier-2",
+      "corporal"
+    ],
+    "A51517-e41120": [
+      "collonel"
+    ],
+    "A51517-e41190": [
+      "soldier-1"
+    ],
+    "A51517-e41220": [
+      "corporal"
+    ],
+    "A51517-e41260": [
+      "soldier-1",
+      "soldier-2",
+      "corporal"
+    ],
+    "A51517-e41320": [
+      "collonel"
+    ],
+    "A51517-e41380": [
+      "soldier-2"
+    ],
+    "A51517-e41410": [
+      "collonel"
+    ],
+    "A51517-e41470": [
+      "corporal"
+    ],
+    "A51517-e41510": [
+      "ghinotto"
+    ],
+    "A51517-e41560": [
+      "collonel"
+    ],
+    "A51517-e41610": [
+      "ghinotto"
+    ],
+    "A51517-e41730": [
+      "corporal"
+    ],
+    "A51517-e41810": [
+      "soldier-1",
+      "soldier-2",
+      "corporal"
+    ],
+    "A51517-e41840": [
+      "ghinotto"
+    ],
+    "A51517-e41910": [
+      "soldier-2"
+    ],
+    "A51517-e41950": [
+      "collonel"
+    ],
+    "A51517-e42010": [
+      "corporal"
+    ],
+    "A51517-e42040": [
+      "collonel"
+    ],
+    "A51517-e42070": [
+      "soldier-2"
+    ],
+    "A51517-e42100": [
+      "collonel"
+    ],
+    "A51517-e42130": [
+      "soldier-1"
+    ],
+    "A51517-e42160": [
+      "collonel"
+    ],
+    "A51517-e42220": [
+      "soldier-1"
+    ],
+    "A51517-e42250": [
+      "collonel"
+    ],
+    "A51517-e42300": [
+      "soldier-2"
+    ],
+    "A51517-e42330": [
+      "ghinotto"
+    ],
+    "A51517-e42360": [
+      "collonel"
+    ],
+    "A51517-e42390": [
+      "corporal"
+    ],
+    "A51517-e42420": [
+      "soldier-1"
+    ],
+    "A51517-e42490": [
+      "king"
+    ],
+    "A51517-e42540": [
+      "gentleman"
+    ],
+    "A51517-e42570": [
+      "king"
+    ],
+    "A51517-e42610": [
+      "gentleman"
+    ],
+    "A51517-e42640": [
+      "king"
+    ],
+    "A51517-e42670": [
+      "gentleman"
+    ],
+    "A51517-e42700": [
+      "king"
+    ],
+    "A51517-e42730": [
+      "gentleman"
+    ],
+    "A51517-e42760": [
+      "king"
+    ],
+    "A51517-e42850": [
+      "gentleman"
+    ],
+    "A51517-e42890": [
+      "king"
+    ],
+    "A51517-e43050": [
+      "oryala"
+    ],
+    "A51517-e43090": [
+      "king"
+    ],
+    "A51517-e43120": [
+      "oryala"
+    ],
+    "A51517-e43220": [
+      "king"
+    ],
+    "A51517-e43340": [
+      "oryala"
+    ],
+    "A51517-e43450": [
+      "king"
+    ],
+    "A51517-e43490": [
+      "oryala"
+    ],
+    "A51517-e43540": [
+      "king"
+    ],
+    "A51517-e43590": [
+      "oryala"
+    ],
+    "A51517-e43670": [
+      "king"
+    ],
+    "A51517-e43700": [
+      "oryala"
+    ],
+    "A51517-e43810": [
+      "king"
+    ],
+    "A51517-e43850": [
+      "oryala"
+    ],
+    "A51517-e43900": [
+      "king"
+    ],
+    "A51517-e43950": [
+      "oryala"
+    ],
+    "A51517-e44000": [
+      "king"
+    ],
+    "A51517-e44160": [
+      "oryala"
+    ],
+    "A51517-e44210": [
+      "king"
+    ],
+    "A51517-e44320": [
+      "oryala"
+    ],
+    "A51517-e44350": [
+      "king"
+    ],
+    "A51517-e44400": [
+      "oryala"
+    ],
+    "A51517-e44450": [
+      "king"
+    ],
+    "A51517-e44600": [
+      "oryala"
+    ],
+    "A51517-e44740": [
+      "rheusanes"
+    ],
+    "A51517-e44850": [
+      "oryala"
+    ],
+    "A51517-e44880": [
+      "rheusanes"
+    ],
+    "A51517-e44910": [
+      "oryala"
+    ],
+    "A51517-e44960": [
+      "rheusanes"
+    ],
+    "A51517-e45020": [
+      "oryala"
+    ],
+    "A51517-e45050": [
+      "rheusanes"
+    ],
+    "A51517-e45140": [
+      "oryala"
+    ],
+    "A51517-e45170": [
+      "rheusanes"
+    ],
+    "A51517-e45270": [
+      "oryala"
+    ],
+    "A51517-e45360": [
+      "rheusanes"
+    ],
+    "A51517-e45440": [
+      "oryala"
+    ],
+    "A51517-e45490": [
+      "rheusanes"
+    ],
+    "A51517-e45520": [
+      "oryala"
+    ],
+    "A51517-e45600": [
+      "rheusanes"
+    ],
+    "A51517-e45630": [
+      "oryala"
+    ],
+    "A51517-e45740": [
+      "rheusanes"
+    ],
+    "A51517-e45810": [
+      "oryala"
+    ],
+    "A51517-e45920": [
+      "rheusanes"
+    ],
+    "A51517-e45970": [
+      "oryala"
+    ],
+    "A51517-e46000": [
+      "rheusanes"
+    ],
+    "A51517-e46130": [
+      "oryala"
+    ],
+    "A51517-e46160": [
+      "rheusanes"
+    ],
+    "A51517-e46190": [
+      "oryala"
+    ],
+    "A51517-e46240": [
+      "rheusanes"
+    ],
+    "A51517-e46270": [
+      "oryala"
+    ],
+    "A51517-e46310": [
+      "rheusanes"
+    ],
+    "A51517-e46340": [
+      "oryala"
+    ],
+    "A51517-e46390": [
+      "rheusanes"
+    ],
+    "A51517-e46420": [
+      "oryala"
+    ],
+    "A51517-e46450": [
+      "rheusanes"
+    ],
+    "A51517-e46500": [
+      "oryala"
+    ],
+    "A51517-e46580": [
+      "rheusanes"
+    ],
+    "A51517-e46650": [
+      "oryala"
+    ],
+    "A51517-e46740": [
+      "rheusanes"
+    ],
+    "A51517-e46770": [
+      "oryala"
+    ],
+    "A51517-e46840": [
+      "rheusanes"
+    ],
+    "A51517-e46870": [
+      "oryala"
+    ],
+    "A51517-e46920": [
+      "rheusanes"
+    ],
+    "A51517-e46950": [
+      "oryala"
+    ],
+    "A51517-e47060": [
+      "rheusanes"
+    ],
+    "A51517-e47290": [
+      "lord"
+    ],
+    "A51517-e47340": [
+      "antelina"
+    ],
+    "A51517-e47510": [
+      "king"
+    ],
+    "A51517-e47540": [
+      "lord"
+    ],
+    "A51517-e47570": [
+      "king"
+    ],
+    "A51517-e47620": [
+      "lord"
+    ],
+    "A51517-e47670": [
+      "king"
+    ],
+    "A51517-e47780": [
+      "antelina"
+    ],
+    "A51517-e47850": [
+      "king"
+    ],
+    "A51517-e47890": [
+      "antelina"
+    ],
+    "A51517-e47970": [
+      "king"
+    ],
+    "A51517-e48050": [
+      "antelina"
+    ],
+    "A51517-e48080": [
+      "king"
+    ],
+    "A51517-e48160": [
+      "antelina"
+    ],
+    "A51517-e48210": [
+      "king"
+    ],
+    "A51517-e48280": [
+      "antelina"
+    ],
+    "A51517-e48310": [
+      "king"
+    ],
+    "A51517-e48420": [
+      "antelina"
+    ],
+    "A51517-e48480": [
+      "king"
+    ],
+    "A51517-e48510": [
+      "antelina"
+    ],
+    "A51517-e48550": [
+      "king"
+    ],
+    "A51517-e48650": [
+      "antelina"
+    ],
+    "A51517-e48690": [
+      "king"
+    ],
+    "A51517-e48750": [
+      "antelina"
+    ],
+    "A51517-e48780": [
+      "king"
+    ],
+    "A51517-e48900": [
+      "antelina"
+    ],
+    "A51517-e48930": [
+      "king"
+    ],
+    "A51517-e48960": [
+      "antelina"
+    ],
+    "A51517-e48990": [
+      "king"
+    ],
+    "A51517-e49040": [
+      "antelina"
+    ],
+    "A51517-e49070": [
+      "king"
+    ],
+    "A51517-e49160": [
+      "antelina"
+    ],
+    "A51517-e49190": [
+      "king"
+    ],
+    "A51517-e49270": [
+      "antelina"
+    ],
+    "A51517-e49300": [
+      "king"
+    ],
+    "A51517-e49350": [
+      "antelina"
+    ],
+    "A51517-e49380": [
+      "king"
+    ],
+    "A51517-e49410": [
+      "antelina"
+    ],
+    "A51517-e49440": [
+      "king"
+    ],
+    "A51517-e49540": [
+      "antelina"
+    ],
+    "A51517-e49570": [
+      "king"
+    ],
+    "A51517-e49600": [
+      "antelina"
+    ],
+    "A51517-e49660": [
+      "king"
+    ],
+    "A51517-e49760": [
+      "lord"
+    ],
+    "A51517-e49850": [
+      "antelina"
+    ],
+    "A51517-e49920": [
+      "king"
+    ],
+    "A51517-e50100": [
+      "antelina"
+    ],
+    "A51517-e50260": [
+      "rheusanes"
+    ],
+    "A51517-e50370": [
+      "antelina"
+    ],
+    "A51517-e50400": [
+      "rheusanes"
+    ],
+    "A51517-e50470": [
+      "antelina"
+    ],
+    "A51517-e50500": [
+      "rheusanes"
+    ],
+    "A51517-e50550": [
+      "antelina"
+    ],
+    "A51517-e50620": [
+      "rheusanes"
+    ],
+    "A51517-e50650": [
+      "antelina"
+    ],
+    "A51517-e50720": [
+      "rheusanes"
+    ],
+    "A51517-e50750": [
+      "antelina"
+    ],
+    "A51517-e50810": [
+      "rheusanes"
+    ],
+    "A51517-e50870": [
+      "antelina"
+    ],
+    "A51517-e50900": [
+      "rheusanes"
+    ],
+    "A51517-e50970": [
+      "antelina"
+    ],
+    "A51517-e51080": [
+      "rheusanes"
+    ],
+    "A51517-e51110": [
+      "antelina"
+    ],
+    "A51517-e51140": [
+      "rheusanes"
+    ],
+    "A51517-e51220": [
+      "king"
+    ],
+    "A51517-e51300": [
+      "rheusanes"
+    ],
+    "A51517-e51330": [
+      "king"
+    ],
+    "A51517-e51490": [
+      "antelina"
+    ],
+    "A51517-e51540": [
+      "rheusanes"
+    ],
+    "A51517-e51570": [
+      "king"
+    ],
+    "A51517-e51710": [
+      "ghinotto"
+    ],
+    "A51517-e51780": [
+      "king"
+    ],
+    "A51517-e51810": [
+      "ghinotto"
+    ],
+    "A51517-e51840": [
+      "king"
+    ],
+    "A51517-e51910": [
+      "collonel"
+    ],
+    "A51517-e51960": [
+      "ghinotto"
+    ],
+    "A51517-e52000": [
+      "collonel"
+    ],
+    "A51517-e52070": [
+      "rheusanes"
+    ],
+    "A51517-e52100": [
+      "collonel"
+    ],
+    "A51517-e52130": [
+      "rheusanes"
+    ],
+    "A51517-e52230": [
+      "collonel"
+    ],
+    "A51517-e52300": [
+      "king"
+    ],
+    "A51517-e52350": [
+      "collonel"
+    ],
+    "A51517-e52380": [
+      "king"
+    ],
+    "A51517-e52420": [
+      "collonel"
+    ]
+  }
+}

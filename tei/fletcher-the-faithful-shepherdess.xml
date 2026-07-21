@@ -100,7 +100,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000007-satyr" sex="MALE">
+          <person xml:id="eng000007-satyr" sex="UNKNOWN">
             <persName>Satyr</persName>
           </person>
           <person xml:id="eng000007-clorin" sex="FEMALE">
@@ -115,10 +115,10 @@
           <person xml:id="eng000007-perigot" sex="MALE">
             <persName>Perigot</persName>
           </person>
-          <person xml:id="eng000007-amoret" sex="FEMALE">
+          <person xml:id="eng000007-amoret" sex="MALE">
             <persName>Amoret</persName>
           </person>
-          <person xml:id="eng000007-amarillis" sex="FEMALE">
+          <person xml:id="eng000007-amarillis" sex="MALE">
             <persName>Amarillis</persName>
           </person>
           <person xml:id="eng000007-sullen" sex="MALE">
@@ -130,14 +130,14 @@
           <person xml:id="eng000007-cloe" sex="FEMALE">
             <persName>Cloe</persName>
           </person>
-          <person xml:id="eng000007-daphnis" sex="MALE">
+          <person xml:id="eng000007-daphnis" sex="FEMALE">
             <persName>Daphnis</persName>
           </person>
           <person xml:id="eng000007-alexis" sex="MALE">
             <persName>Alexis</persName>
           </person>
-          <person xml:id="eng000007-god" sex="MALE">
-            <persName>God of the River</persName>
+          <person xml:id="eng000007-god" sex="UNKNOWN">
+            <persName>God</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -2551,7 +2551,7 @@
             <l>Of many dayes, can hold mee from my will, </l>
             <l>Tis not my selfe, but Amoret. byds kille </l>
           </sp>
-          <sp who="#eng000007-amoret" xml:id="eng000007-e119850">
+          <sp who="#eng000007-amarillis" xml:id="eng000007-e119850">
             <speaker>Amo.: </speaker>
             <l>Stay, but a little little but on hower, </l>
             <pb xml:id="eng000007-027-a"/>
@@ -4262,7 +4262,7 @@
             <l>Thus holy Priest, I wish to thee and these, </l>
             <l>All the best goods and comforts that may please, </l>
           </sp>
-          <sp who="#eng000007-perigot #eng000007-amoret #eng000007-amarillis #eng000007-old-shepherd #eng000007-alexis #eng000007-cloe #eng000007-clorin"
+          <sp who="#eng000007-clorin #eng000007-satyr #eng000007-amarillis"
                    xml:id="eng000007-e133190">
             <speaker>All. </speaker>
             <l>And all those blessings Heauen did euer giue, </l>

@@ -1,0 +1,2391 @@
+{
+  "particDesc": [
+    {
+      "name": " Executioner",
+      "id": "executioner",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Cutler",
+      "id": "cutler",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Fidler",
+      "id": "fidler",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Lady 6",
+      "id": "lady-6",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lady 5",
+      "id": "lady-5",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lady 4",
+      "id": "lady-4",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lady 3",
+      "id": "lady-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lady 2",
+      "id": "lady-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Lady 1",
+      "id": "lady-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nurse 3",
+      "id": "nurse-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nurse 2",
+      "id": "nurse-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Nurse 1",
+      "id": "nurse-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Guard",
+      "id": "guard",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "the-duke",
+      "name": "The Duke",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ortellus",
+      "name": "Ortellus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "arbatus",
+      "name": "Arbatus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "philidor",
+      "name": "Philidor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "zoranzo",
+      "name": "Zoranzo",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pinguister",
+      "name": "Pinguister",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lean-man",
+      "name": "Lean-man",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "taylor",
+      "name": "Taylor ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "iaylor",
+      "name": "Iaylor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "servant",
+      "name": "Servant ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "boy",
+      "name": "Boy",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "clown",
+      "name": "Clown",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "amphelia",
+      "name": "Amphelia",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "artabella",
+      "name": "Artabella",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "mirida",
+      "name": "Mirida",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "amarissa",
+      "name": "Amarissa",
+      "isGroup": false,
+      "sex": "FEMALE"
+    }
+  ],
+  "speeches": {
+    "A44632-e850": [
+      "the-duke"
+    ],
+    "A44632-e880": [
+      "artabella"
+    ],
+    "A44632-e910": [
+      "the-duke"
+    ],
+    "A44632-e960": [
+      "arbatus"
+    ],
+    "A44632-e1090": [
+      "the-duke"
+    ],
+    "A44632-e1300": [
+      "amphelia"
+    ],
+    "A44632-e1400": [
+      "ortellus"
+    ],
+    "A44632-e1440": [
+      "amphelia"
+    ],
+    "A44632-e1500": [
+      "the-duke"
+    ],
+    "A44632-e1640": [
+      "amphelia"
+    ],
+    "A44632-e1770": [
+      "the-duke"
+    ],
+    "A44632-e1810": [
+      "artabella"
+    ],
+    "A44632-e1840": [
+      "the-duke"
+    ],
+    "A44632-e1870": [
+      "guard"
+    ],
+    "A44632-e1900": [
+      "the-duke"
+    ],
+    "A44632-e1970": [
+      "zoranzo"
+    ],
+    "A44632-e2110": [
+      "amphelia"
+    ],
+    "A44632-e2150": [
+      "the-duke"
+    ],
+    "A44632-e2190": [
+      "zoranzo"
+    ],
+    "A44632-e2350": [
+      "the-duke"
+    ],
+    "A44632-e2430": [
+      "zoranzo"
+    ],
+    "A44632-e2520": [
+      "the-duke"
+    ],
+    "A44632-e2580": [
+      "guard"
+    ],
+    "A44632-e2620": [
+      "amphelia"
+    ],
+    "A44632-e2670": [
+      "ortellus"
+    ],
+    "A44632-e2710": [
+      "amphelia"
+    ],
+    "A44632-e3070": [
+      "the-duke"
+    ],
+    "A44632-e3130": [
+      "amphelia"
+    ],
+    "A44632-e3260": [
+      "the-duke"
+    ],
+    "A44632-e3300": [
+      "amphelia"
+    ],
+    "A44632-e3410": [
+      "the-duke"
+    ],
+    "A44632-e3450": [
+      "amphelia"
+    ],
+    "A44632-e3500": [
+      "the-duke"
+    ],
+    "A44632-e3540": [
+      "amphelia"
+    ],
+    "A44632-e3600": [
+      "the-duke"
+    ],
+    "A44632-e3910": [
+      "philidor"
+    ],
+    "A44632-e4070": [
+      "the-duke"
+    ],
+    "A44632-e4150": [
+      "philidor"
+    ],
+    "A44632-e4180": [
+      "the-duke"
+    ],
+    "A44632-e4220": [
+      "philidor"
+    ],
+    "A44632-e4250": [
+      "the-duke"
+    ],
+    "A44632-e4310": [
+      "philidor"
+    ],
+    "A44632-e4530": [
+      "nurse-1"
+    ],
+    "A44632-e4600": [
+      "philidor"
+    ],
+    "A44632-e4690": [
+      "nurse-2"
+    ],
+    "A44632-e4740": [
+      "philidor"
+    ],
+    "A44632-e4830": [
+      "nurse-3"
+    ],
+    "A44632-e4880": [
+      "philidor"
+    ],
+    "A44632-e4920": [
+      "nurse-1"
+    ],
+    "A44632-e4970": [
+      "philidor"
+    ],
+    "A44632-e5020": [
+      "nurse-1"
+    ],
+    "A44632-e5100": [
+      "philidor"
+    ],
+    "A44632-e5180": [
+      "nurse-1"
+    ],
+    "A44632-e5230": [
+      "philidor"
+    ],
+    "A44632-e5260": [
+      "nurse-1"
+    ],
+    "A44632-e5420": [
+      "nurse-2"
+    ],
+    "A44632-e5500": [
+      "philidor"
+    ],
+    "A44632-e5530": [
+      "nurse-3"
+    ],
+    "A44632-e5600": [
+      "nurse-1"
+    ],
+    "A44632-e5640": [
+      "nurse-2"
+    ],
+    "A44632-e5680": [
+      "nurse-1"
+    ],
+    "A44632-e5730": [
+      "nurse-2"
+    ],
+    "A44632-e5770": [
+      "philidor"
+    ],
+    "A44632-e5800": [
+      "nurse-1"
+    ],
+    "A44632-e5860": [
+      "nurse-2"
+    ],
+    "A44632-e5900": [
+      "philidor"
+    ],
+    "A44632-e5940": [
+      "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e5970": [
+      "philidor"
+    ],
+    "A44632-e6010": [
+      "nurse-1"
+    ],
+    "A44632-e6080": [
+      "philidor"
+    ],
+    "A44632-e6200": [
+      "nurse-1"
+    ],
+    "A44632-e6260": [
+      "nurse-2"
+    ],
+    "A44632-e6300": [
+      "nurse-3"
+    ],
+    "A44632-e6340": [
+      "philidor"
+    ],
+    "A44632-e6370": [
+      "nurse-1"
+    ],
+    "A44632-e6410": [
+      "nurse-2"
+    ],
+    "A44632-e6450": [
+      "nurse-3"
+    ],
+    "A44632-e6490": [
+      "philidor"
+    ],
+    "A44632-e6530": [
+      "boy"
+    ],
+    "A44632-e6560": [
+      "philidor"
+    ],
+    "A44632-e6900": [
+      "zoranzo"
+    ],
+    "A44632-e7150": [
+      "amphelia"
+    ],
+    "A44632-e7290": [
+      "zoranzo"
+    ],
+    "A44632-e7390": [
+      "amphelia"
+    ],
+    "A44632-e7480": [
+      "zoranzo"
+    ],
+    "A44632-e7540": [
+      "ortellus"
+    ],
+    "A44632-e7590": [
+      "amphelia"
+    ],
+    "A44632-e7620": [
+      "ortellus"
+    ],
+    "A44632-e7740": [
+      "iaylor"
+    ],
+    "A44632-e7780": [
+      "ortellus"
+    ],
+    "A44632-e7820": [
+      "amphelia"
+    ],
+    "A44632-e7850": [
+      "ortellus"
+    ],
+    "A44632-e7880": [
+      "amphelia"
+    ],
+    "A44632-e7910": [
+      "ortellus"
+    ],
+    "A44632-e7960": [
+      "amphelia"
+    ],
+    "A44632-e7990": [
+      "ortellus"
+    ],
+    "A44632-e8080": [
+      "amphelia"
+    ],
+    "A44632-e8110": [
+      "ortellus"
+    ],
+    "A44632-e8140": [
+      "amphelia"
+    ],
+    "A44632-e8170": [
+      "ortellus"
+    ],
+    "A44632-e8200": [
+      "amphelia"
+    ],
+    "A44632-e8230": [
+      "ortellus"
+    ],
+    "A44632-e8260": [
+      "amphelia"
+    ],
+    "A44632-e8290": [
+      "ortellus"
+    ],
+    "A44632-e8320": [
+      "amphelia"
+    ],
+    "A44632-e8350": [
+      "ortellus"
+    ],
+    "A44632-e8400": [
+      "amphelia"
+    ],
+    "A44632-e8430": [
+      "ortellus"
+    ],
+    "A44632-e8460": [
+      "amphelia"
+    ],
+    "A44632-e8490": [
+      "ortellus"
+    ],
+    "A44632-e8520": [
+      "amphelia"
+    ],
+    "A44632-e8550": [
+      "ortellus"
+    ],
+    "A44632-e8580": [
+      "amphelia"
+    ],
+    "A44632-e8610": [
+      "ortellus"
+    ],
+    "A44632-e8650": [
+      "amphelia"
+    ],
+    "A44632-e8680": [
+      "ortellus"
+    ],
+    "A44632-e8710": [
+      "amphelia"
+    ],
+    "A44632-e8750": [
+      "ortellus"
+    ],
+    "A44632-e8880": [
+      "amphelia"
+    ],
+    "A44632-e8990": [
+      "ortellus"
+    ],
+    "A44632-e9050": [
+      "amphelia"
+    ],
+    "A44632-e9090": [
+      "ortellus"
+    ],
+    "A44632-e9220": [
+      "the-duke"
+    ],
+    "A44632-e9260": [
+      "ortellus"
+    ],
+    "A44632-e9300": [
+      "the-duke"
+    ],
+    "A44632-e9330": [
+      "ortellus"
+    ],
+    "A44632-e9360": [
+      "the-duke"
+    ],
+    "A44632-e9390": [
+      "ortellus"
+    ],
+    "A44632-e9450": [
+      "the-duke"
+    ],
+    "A44632-e9480": [
+      "ortellus"
+    ],
+    "A44632-e9520": [
+      "the-duke"
+    ],
+    "A44632-e9580": [
+      "ortellus"
+    ],
+    "A44632-e9640": [
+      "the-duke"
+    ],
+    "A44632-e9900": [
+      "arbatus"
+    ],
+    "A44632-e9930": [
+      "the-duke"
+    ],
+    "A44632-e9970": [
+      "arbatus"
+    ],
+    "A44632-e10000": [
+      "the-duke"
+    ],
+    "A44632-e10030": [
+      "arbatus"
+    ],
+    "A44632-e10160": [
+      "the-duke"
+    ],
+    "A44632-e10220": [
+      "arbatus"
+    ],
+    "A44632-e10300": [
+      "the-duke"
+    ],
+    "A44632-e10350": [
+      "arbatus"
+    ],
+    "A44632-e10390": [
+      "the-duke"
+    ],
+    "A44632-e10440": [
+      "arbatus"
+    ],
+    "A44632-e10520": [
+      "philidor"
+    ],
+    "A44632-e11040": [
+      "lady-1"
+    ],
+    "A44632-e11080": [
+      "lady-2"
+    ],
+    "A44632-e11120": [
+      "lady-3"
+    ],
+    "A44632-e11160": [
+      "lady-4"
+    ],
+    "A44632-e11210": [
+      "lady-5"
+    ],
+    "A44632-e11250": [
+      "lady-6"
+    ],
+    "A44632-e11300": [
+      "philidor"
+    ],
+    "A44632-e11380": [
+      "mirida"
+    ],
+    "A44632-e11440": [
+      "philidor"
+    ],
+    "A44632-e11480": [
+      "mirida"
+    ],
+    "A44632-e11530": [
+      "philidor"
+    ],
+    "A44632-e11560": [
+      "mirida"
+    ],
+    "A44632-e11830": [
+      "philidor"
+    ],
+    "A44632-e11890": [
+      "mirida"
+    ],
+    "A44632-e11920": [
+      "philidor"
+    ],
+    "A44632-e11960": [
+      "mirida"
+    ],
+    "A44632-e12000": [
+      "philidor"
+    ],
+    "A44632-e12040": [
+      "mirida"
+    ],
+    "A44632-e12070": [
+      "philidor"
+    ],
+    "A44632-e12140": [
+      "mirida"
+    ],
+    "A44632-e12180": [
+      "philidor"
+    ],
+    "A44632-e12210": [
+      "mirida"
+    ],
+    "A44632-e12240": [
+      "philidor"
+    ],
+    "A44632-e12270": [
+      "mirida"
+    ],
+    "A44632-e12300": [
+      "philidor"
+    ],
+    "A44632-e12360": [
+      "mirida"
+    ],
+    "A44632-e12410": [
+      "philidor"
+    ],
+    "A44632-e12440": [
+      "mirida"
+    ],
+    "A44632-e12470": [
+      "philidor"
+    ],
+    "A44632-e12500": [
+      "mirida"
+    ],
+    "A44632-e12530": [
+      "philidor"
+    ],
+    "A44632-e12560": [
+      "mirida"
+    ],
+    "A44632-e12610": [
+      "philidor"
+    ],
+    "A44632-e12670": [
+      "mirida"
+    ],
+    "A44632-e12720": [
+      "philidor"
+    ],
+    "A44632-e12750": [
+      "mirida"
+    ],
+    "A44632-e12780": [
+      "philidor"
+    ],
+    "A44632-e12810": [
+      "mirida"
+    ],
+    "A44632-e12850": [
+      "philidor"
+    ],
+    "A44632-e12890": [
+      "mirida"
+    ],
+    "A44632-e12930": [
+      "philidor"
+    ],
+    "A44632-e13020": [
+      "mirida"
+    ],
+    "A44632-e13110": [
+      "philidor"
+    ],
+    "A44632-e13200": [
+      "mirida"
+    ],
+    "A44632-e13240": [
+      "philidor"
+    ],
+    "A44632-e13270": [
+      "mirida"
+    ],
+    "A44632-e13310": [
+      "philidor"
+    ],
+    "A44632-e13350": [
+      "mirida"
+    ],
+    "A44632-e13390": [
+      "philidor"
+    ],
+    "A44632-e13430": [
+      "mirida"
+    ],
+    "A44632-e13470": [
+      "philidor"
+    ],
+    "A44632-e13510": [
+      "mirida"
+    ],
+    "A44632-e13550": [
+      "philidor"
+    ],
+    "A44632-e13590": [
+      "mirida"
+    ],
+    "A44632-e13630": [
+      "philidor"
+    ],
+    "A44632-e13670": [
+      "mirida"
+    ],
+    "A44632-e13710": [
+      "philidor"
+    ],
+    "A44632-e13740": [
+      "mirida"
+    ],
+    "A44632-e13770": [
+      "philidor"
+    ],
+    "A44632-e13810": [
+      "mirida"
+    ],
+    "A44632-e13840": [
+      "philidor"
+    ],
+    "A44632-e13870": [
+      "mirida"
+    ],
+    "A44632-e13900": [
+      "philidor"
+    ],
+    "A44632-e13940": [
+      "mirida"
+    ],
+    "A44632-e13970": [
+      "philidor"
+    ],
+    "A44632-e14010": [
+      "mirida"
+    ],
+    "A44632-e14040": [
+      "philidor"
+    ],
+    "A44632-e14080": [
+      "mirida"
+    ],
+    "A44632-e14120": [
+      "philidor"
+    ],
+    "A44632-e14160": [
+      "mirida"
+    ],
+    "A44632-e14190": [
+      "philidor"
+    ],
+    "A44632-e14260": [
+      "mirida"
+    ],
+    "A44632-e14320": [
+      "pinguister"
+    ],
+    "A44632-e14370": [
+      "mirida"
+    ],
+    "A44632-e14430": [
+      "pinguister"
+    ],
+    "A44632-e14520": [
+      "mirida"
+    ],
+    "A44632-e14570": [
+      "pinguister"
+    ],
+    "A44632-e14640": [
+      "doctor"
+    ],
+    "A44632-e14700": [
+      "pinguister"
+    ],
+    "A44632-e14840": [
+      "amphelia"
+    ],
+    "A44632-e15130": [
+      "iaylor"
+    ],
+    "A44632-e15200": [
+      "amphelia"
+    ],
+    "A44632-e15240": [
+      "iaylor"
+    ],
+    "A44632-e15320": [
+      "ortellus"
+    ],
+    "A44632-e15360": [
+      "iaylor"
+    ],
+    "A44632-e15460": [
+      "amphelia"
+    ],
+    "A44632-e15510": [
+      "the-duke"
+    ],
+    "A44632-e15550": [
+      "amphelia"
+    ],
+    "A44632-e15620": [
+      "ortellus"
+    ],
+    "A44632-e15670": [
+      "amphelia"
+    ],
+    "A44632-e15720": [
+      "the-duke"
+    ],
+    "A44632-e15800": [
+      "amphelia"
+    ],
+    "A44632-e15870": [
+      "the-duke"
+    ],
+    "A44632-e15930": [
+      "zoranzo"
+    ],
+    "A44632-e16090": [
+      "the-duke"
+    ],
+    "A44632-e16150": [
+      "amphelia"
+    ],
+    "A44632-e16180": [
+      "the-duke"
+    ],
+    "A44632-e16230": [
+      "amphelia"
+    ],
+    "A44632-e16310": [
+      "the-duke"
+    ],
+    "A44632-e16450": [
+      "ortellus"
+    ],
+    "A44632-e16720": [
+      "arbatus"
+    ],
+    "A44632-e16770": [
+      "artabella"
+    ],
+    "A44632-e16800": [
+      "arbatus"
+    ],
+    "A44632-e16830": [
+      "artabella"
+    ],
+    "A44632-e16860": [
+      "arbatus"
+    ],
+    "A44632-e16900": [
+      "ortellus"
+    ],
+    "A44632-e16930": [
+      "arbatus"
+    ],
+    "A44632-e16970": [
+      "ortellus"
+    ],
+    "A44632-e17040": [
+      "arbatus"
+    ],
+    "A44632-e17100": [
+      "ortellus"
+    ],
+    "A44632-e17170": [
+      "arbatus"
+    ],
+    "A44632-e17220": [
+      "ortellus"
+    ],
+    "A44632-e17260": [
+      "arbatus"
+    ],
+    "A44632-e17290": [
+      "ortellus"
+    ],
+    "A44632-e17320": [
+      "arbatus"
+    ],
+    "A44632-e17350": [
+      "ortellus"
+    ],
+    "A44632-e17380": [
+      "arbatus"
+    ],
+    "A44632-e17430": [
+      "ortellus"
+    ],
+    "A44632-e17500": [
+      "arbatus"
+    ],
+    "A44632-e17550": [
+      "ortellus"
+    ],
+    "A44632-e17580": [
+      "arbatus"
+    ],
+    "A44632-e17610": [
+      "ortellus"
+    ],
+    "A44632-e17680": [
+      "arbatus"
+    ],
+    "A44632-e17720": [
+      "artabella"
+    ],
+    "A44632-e17750": [
+      "arbatus"
+    ],
+    "A44632-e17860": [
+      "artabella"
+    ],
+    "A44632-e17990": [
+      "philidor"
+    ],
+    "A44632-e18240": [
+      "mirida"
+    ],
+    "A44632-e18280": [
+      "philidor"
+    ],
+    "A44632-e18310": [
+      "mirida"
+    ],
+    "A44632-e18350": [
+      "philidor"
+    ],
+    "A44632-e18460": [
+      "mirida"
+    ],
+    "A44632-e18530": [
+      "philidor"
+    ],
+    "A44632-e18630": [
+      "lady-1"
+    ],
+    "A44632-e18670": [
+      "lady-2"
+    ],
+    "A44632-e18710": [
+      "lady-3"
+    ],
+    "A44632-e18750": [
+      "lady-4"
+    ],
+    "A44632-e18790": [
+      "lady-5"
+    ],
+    "A44632-e18830": [
+      "lady-6"
+    ],
+    "A44632-e18870": [
+      "philidor"
+    ],
+    "A44632-e18930": [
+      "lady-1"
+    ],
+    "A44632-e18980": [
+      "mirida"
+    ],
+    "A44632-e19040": [
+      "lady-2"
+    ],
+    "A44632-e19080": [
+      "mirida"
+    ],
+    "A44632-e19120": [
+      "lady-3"
+    ],
+    "A44632-e19190": [
+      "mirida"
+    ],
+    "A44632-e19240": [
+      "philidor"
+    ],
+    "A44632-e19290": [
+      "lady-4"
+    ],
+    "A44632-e19400": [
+      "mirida"
+    ],
+    "A44632-e19470": [
+      "pinguister"
+    ],
+    "A44632-e19520": [
+      "doctor"
+    ],
+    "A44632-e19550": [
+      "pinguister"
+    ],
+    "A44632-e19590": [
+      "doctor"
+    ],
+    "A44632-e19620": [
+      "pinguister"
+    ],
+    "A44632-e19680": [
+      "doctor"
+    ],
+    "A44632-e19710": [
+      "pinguister"
+    ],
+    "A44632-e19770": [
+      "doctor"
+    ],
+    "A44632-e19820": [
+      "pinguister"
+    ],
+    "A44632-e19900": [
+      "doctor"
+    ],
+    "A44632-e19940": [
+      "pinguister"
+    ],
+    "A44632-e19990": [
+      "philidor"
+    ],
+    "A44632-e20030": [
+      "pinguister"
+    ],
+    "A44632-e20130": [
+      "philidor"
+    ],
+    "A44632-e20180": [
+      "mirida"
+    ],
+    "A44632-e20220": [
+      "pinguister"
+    ],
+    "A44632-e20270": [
+      "doctor"
+    ],
+    "A44632-e20300": [
+      "pinguister"
+    ],
+    "A44632-e20400": [
+      "mirida"
+    ],
+    "A44632-e20430": [
+      "lean-man"
+    ],
+    "A44632-e20470": [
+      "taylor"
+    ],
+    "A44632-e20500": [
+      "lean-man"
+    ],
+    "A44632-e20580": [
+      "pinguister"
+    ],
+    "A44632-e20660": [
+      "lean-man"
+    ],
+    "A44632-e20710": [
+      "pinguister"
+    ],
+    "A44632-e20750": [
+      "lean-man"
+    ],
+    "A44632-e20800": [
+      "pinguister"
+    ],
+    "A44632-e20830": [
+      "lean-man"
+    ],
+    "A44632-e20890": [
+      "pinguister"
+    ],
+    "A44632-e20960": [
+      "clown"
+    ],
+    "A44632-e21010": [
+      "pinguister"
+    ],
+    "A44632-e21060": [
+      "philidor"
+    ],
+    "A44632-e21100": [
+      "clown"
+    ],
+    "A44632-e21140": [
+      "pinguister"
+    ],
+    "A44632-e21200": [
+      "mirida"
+    ],
+    "A44632-e21300": [
+      "pinguister"
+    ],
+    "A44632-e21330": [
+      "mirida"
+    ],
+    "A44632-e21380": [
+      "pinguister"
+    ],
+    "A44632-e21460": [
+      "doctor"
+    ],
+    "A44632-e21500": [
+      "pinguister"
+    ],
+    "A44632-e21600": [
+      "doctor"
+    ],
+    "A44632-e21630": [
+      "pinguister"
+    ],
+    "A44632-e21670": [
+      "mirida"
+    ],
+    "A44632-e21710": [
+      "pinguister"
+    ],
+    "A44632-e21760": [
+      "mirida"
+    ],
+    "A44632-e21790": [
+      "pinguister"
+    ],
+    "A44632-e21850": [
+      "philidor"
+    ],
+    "A44632-e21890": [
+      "mirida"
+    ],
+    "A44632-e21930": [
+      "philidor"
+    ],
+    "A44632-e22050": [
+      "lady-1"
+    ],
+    "A44632-e22130": [
+      "philidor"
+    ],
+    "A44632-e22180": [
+      "mirida"
+    ],
+    "A44632-e22220": [
+      "philidor"
+    ],
+    "A44632-e22310": [
+      "mirida"
+    ],
+    "A44632-e22360": [
+      "philidor"
+    ],
+    "A44632-e22430": [
+      "philidor"
+    ],
+    "A44632-e22470": [
+      "boy"
+    ],
+    "A44632-e22500": [
+      "philidor"
+    ],
+    "A44632-e22540": [
+      "boy"
+    ],
+    "A44632-e22570": [
+      "philidor"
+    ],
+    "A44632-e22600": [
+      "boy"
+    ],
+    "A44632-e22630": [
+      "philidor"
+    ],
+    "A44632-e22670": [
+      "boy"
+    ],
+    "A44632-e22720": [
+      "philidor"
+    ],
+    "A44632-e22750": [
+      "boy"
+    ],
+    "A44632-e22800": [
+      "philidor"
+    ],
+    "A44632-e22830": [
+      "mirida"
+    ],
+    "A44632-e22880": [
+      "philidor"
+    ],
+    "A44632-e22960": [
+      "mirida"
+    ],
+    "A44632-e23030": [
+      "fidler"
+    ],
+    "A44632-e23070": [
+      "mirida"
+    ],
+    "A44632-e23100": [
+      "fidler"
+    ],
+    "A44632-e23130": [
+      "mirida"
+    ],
+    "A44632-e23260": [
+      "ortellus"
+    ],
+    "A44632-e23290": [
+      "arbatus"
+    ],
+    "A44632-e23430": [
+      "the-duke"
+    ],
+    "A44632-e23460": [
+      "arbatus"
+    ],
+    "A44632-e23490": [
+      "the-duke"
+    ],
+    "A44632-e23530": [
+      "arbatus"
+    ],
+    "A44632-e23580": [
+      "the-duke"
+    ],
+    "A44632-e23610": [
+      "arbatus"
+    ],
+    "A44632-e23650": [
+      "the-duke"
+    ],
+    "A44632-e23680": [
+      "arbatus"
+    ],
+    "A44632-e23740": [
+      "the-duke"
+    ],
+    "A44632-e23780": [
+      "arbatus"
+    ],
+    "A44632-e23870": [
+      "ortellus"
+    ],
+    "A44632-e23900": [
+      "artabella"
+    ],
+    "A44632-e23970": [
+      "ortellus"
+    ],
+    "A44632-e24000": [
+      "arbatus"
+    ],
+    "A44632-e24050": [
+      "artabella"
+    ],
+    "A44632-e24080": [
+      "arbatus"
+    ],
+    "A44632-e24110": [
+      "artabella"
+    ],
+    "A44632-e24170": [
+      "arbatus"
+    ],
+    "A44632-e24200": [
+      "artabella"
+    ],
+    "A44632-e24240": [
+      "arbatus"
+    ],
+    "A44632-e24290": [
+      "artabella"
+    ],
+    "A44632-e24330": [
+      "arbatus"
+    ],
+    "A44632-e24360": [
+      "artabella"
+    ],
+    "A44632-e24390": [
+      "arbatus"
+    ],
+    "A44632-e24440": [
+      "artabella"
+    ],
+    "A44632-e24530": [
+      "arbatus"
+    ],
+    "A44632-e24570": [
+      "the-duke"
+    ],
+    "A44632-e24630": [
+      "arbatus"
+    ],
+    "A44632-e24660": [
+      "artabella"
+    ],
+    "A44632-e24710": [
+      "arbatus"
+    ],
+    "A44632-e24740": [
+      "the-duke"
+    ],
+    "A44632-e24790": [
+      "arbatus"
+    ],
+    "A44632-e24850": [
+      "the-duke"
+    ],
+    "A44632-e24880": [
+      "artabella"
+    ],
+    "A44632-e24910": [
+      "arbatus"
+    ],
+    "A44632-e24960": [
+      "ortellus"
+    ],
+    "A44632-e24990": [
+      "arbatus"
+    ],
+    "A44632-e25020": [
+      "ortellus"
+    ],
+    "A44632-e25050": [
+      "arbatus"
+    ],
+    "A44632-e25100": [
+      "the-duke"
+    ],
+    "A44632-e25230": [
+      "artabella"
+    ],
+    "A44632-e25270": [
+      "the-duke"
+    ],
+    "A44632-e25300": [
+      "artabella"
+    ],
+    "A44632-e25330": [
+      "the-duke"
+    ],
+    "A44632-e25360": [
+      "artabella"
+    ],
+    "A44632-e25400": [
+      "the-duke"
+    ],
+    "A44632-e25490": [
+      "artabella"
+    ],
+    "A44632-e25530": [
+      "the-duke"
+    ],
+    "A44632-e25570": [
+      "artabella"
+    ],
+    "A44632-e25600": [
+      "the-duke"
+    ],
+    "A44632-e25670": [
+      "artabella"
+    ],
+    "A44632-e25710": [
+      "the-duke"
+    ],
+    "A44632-e25790": [
+      "artabella"
+    ],
+    "A44632-e25820": [
+      "the-duke"
+    ],
+    "A44632-e25860": [
+      "artabella"
+    ],
+    "A44632-e25920": [
+      "the-duke"
+    ],
+    "A44632-e25950": [
+      "artabella"
+    ],
+    "A44632-e26010": [
+      "the-duke"
+    ],
+    "A44632-e26040": [
+      "artabella"
+    ],
+    "A44632-e26070": [
+      "the-duke"
+    ],
+    "A44632-e26100": [
+      "artabella"
+    ],
+    "A44632-e26200": [
+      "the-duke"
+    ],
+    "A44632-e26290": [
+      "philidor"
+    ],
+    "A44632-e26370": [
+      "mirida"
+    ],
+    "A44632-e26400": [
+      "philidor"
+    ],
+    "A44632-e26600": [
+      "boy"
+    ],
+    "A44632-e26630": [
+      "philidor"
+    ],
+    "A44632-e26680": [
+      "mirida"
+    ],
+    "A44632-e26740": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6"
+    ],
+    "A44632-e26770": [
+      "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e26820": [
+      "philidor"
+    ],
+    "A44632-e26870": [
+      "mirida"
+    ],
+    "A44632-e26910": [
+      "philidor"
+    ],
+    "A44632-e26960": [
+      "mirida"
+    ],
+    "A44632-e27080": [
+      "pinguister"
+    ],
+    "A44632-e27150": [
+      "mirida"
+    ],
+    "A44632-e27200": [
+      "pinguister"
+    ],
+    "A44632-e27320": [
+      "mirida"
+    ],
+    "A44632-e27420": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6",
+	  "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e27450": [
+      "mirida"
+    ],
+    "A44632-e27820": [
+      "pinguister"
+    ],
+    "A44632-e27850": [
+      "mirida"
+    ],
+    "A44632-e27880": [
+      "pinguister"
+    ],
+    "A44632-e27920": [
+      "mirida"
+    ],
+    "A44632-e27990": [
+      "lean-man"
+    ],
+    "A44632-e28020": [
+      "mirida"
+    ],
+    "A44632-e28100": [
+      "pinguister"
+    ],
+    "A44632-e28130": [
+      "lean-man"
+    ],
+    "A44632-e28160": [
+      "pinguister"
+    ],
+    "A44632-e28190": [
+      "mirida"
+    ],
+    "A44632-e28240": [
+      "pinguister"
+    ],
+    "A44632-e28390": [
+      "philidor"
+    ],
+    "A44632-e28460": [
+      "mirida"
+    ],
+    "A44632-e28520": [
+      "philidor"
+    ],
+    "A44632-e28550": [
+      "mirida"
+    ],
+    "A44632-e28620": [
+      "amarissa"
+    ],
+    "A44632-e28860": [
+      "iaylor"
+    ],
+    "A44632-e28890": [
+      "amarissa"
+    ],
+    "A44632-e28930": [
+      "iaylor"
+    ],
+    "A44632-e28970": [
+      "amarissa"
+    ],
+    "A44632-e29050": [
+      "iaylor"
+    ],
+    "A44632-e29090": [
+      "amarissa"
+    ],
+    "A44632-e29120": [
+      "iaylor"
+    ],
+    "A44632-e29170": [
+      "amarissa"
+    ],
+    "A44632-e29200": [
+      "iaylor"
+    ],
+    "A44632-e29240": [
+      "amarissa"
+    ],
+    "A44632-e29280": [
+      "iaylor"
+    ],
+    "A44632-e29320": [
+      "amarissa"
+    ],
+    "A44632-e29370": [
+      "iaylor"
+    ],
+    "A44632-e29440": [
+      "zoranzo"
+    ],
+    "A44632-e29490": [
+      "amarissa"
+    ],
+    "A44632-e29530": [
+      "zoranzo"
+    ],
+    "A44632-e29560": [
+      "amarissa"
+    ],
+    "A44632-e29830": [
+      "zoranzo"
+    ],
+    "A44632-e29940": [
+      "amarissa"
+    ],
+    "A44632-e29980": [
+      "the-duke"
+    ],
+    "A44632-e30010": [
+      "amarissa"
+    ],
+    "A44632-e30050": [
+      "the-duke"
+    ],
+    "A44632-e30090": [
+      "amarissa"
+    ],
+    "A44632-e30140": [
+      "the-duke"
+    ],
+    "A44632-e30170": [
+      "amarissa"
+    ],
+    "A44632-e30370": [
+      "the-duke"
+    ],
+    "A44632-e30430": [
+      "amarissa"
+    ],
+    "A44632-e30490": [
+      "the-duke"
+    ],
+    "A44632-e30520": [
+      "amarissa"
+    ],
+    "A44632-e30570": [
+      "the-duke"
+    ],
+    "A44632-e30600": [
+      "amarissa"
+    ],
+    "A44632-e30660": [
+      "the-duke"
+    ],
+    "A44632-e30700": [
+      "amarissa"
+    ],
+    "A44632-e30730": [
+      "the-duke"
+    ],
+    "A44632-e30830": [
+      "philidor"
+    ],
+    "A44632-e30900": [
+      "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e30930": [
+      "philidor"
+    ],
+    "A44632-e30980": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6"
+    ],
+    "A44632-e31010": [
+      "philidor"
+    ],
+    "A44632-e31050": [
+      "lean-man"
+    ],
+    "A44632-e31080": [
+      "philidor"
+    ],
+    "A44632-e31220": [
+      "pinguister"
+    ],
+    "A44632-e31250": [
+      "philidor"
+    ],
+    "A44632-e31330": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6",
+	  "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e31360": [
+      "philidor"
+    ],
+    "A44632-e31460": [
+      "pinguister"
+    ],
+    "A44632-e31540": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6",
+	  "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e31610": [
+      "mirida"
+    ],
+    "A44632-e31710": [
+      "pinguister"
+    ],
+    "A44632-e31740": [
+      "mirida"
+    ],
+    "A44632-e31770": [
+      "pinguister"
+    ],
+    "A44632-e31800": [
+      "philidor"
+    ],
+    "A44632-e31840": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6",
+	  "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e31870": [
+      "philidor"
+    ],
+    "A44632-e31900": [
+      "lady-2"
+    ],
+    "A44632-e31980": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6",
+	  "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e32010": [
+      "philidor"
+    ],
+    "A44632-e32090": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6",
+	  "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e32130": [
+      "philidor"
+    ],
+    "A44632-e32170": [
+      "lady-1",
+      "lady-2",
+      "lady-3",
+      "lady-4",
+      "lady-5",
+      "lady-6",
+	  "nurse-1",
+      "nurse-2",
+      "nurse-3"
+    ],
+    "A44632-e32200": [
+      "philidor"
+    ],
+    "A44632-e32280": [
+      "nurse-1"
+    ],
+    "A44632-e32340": [
+      "pinguister"
+    ],
+    "A44632-e32520": [
+      "mirida"
+    ],
+    "A44632-e32590": [
+      "pinguister"
+    ],
+    "A44632-e32690": [
+      "mirida"
+    ],
+    "A44632-e32760": [
+      "pinguister"
+    ],
+    "A44632-e32810": [
+      "mirida"
+    ],
+    "A44632-e32880": [
+      "pinguister"
+    ],
+    "A44632-e33020": [
+      "mirida"
+    ],
+    "A44632-e33060": [
+      "pinguister"
+    ],
+    "A44632-e33100": [
+      "mirida"
+    ],
+    "A44632-e33130": [
+      "pinguister"
+    ],
+    "A44632-e33180": [
+      "mirida"
+    ],
+    "A44632-e33330": [
+      "pinguister"
+    ],
+    "A44632-e33480": [
+      "mirida"
+    ],
+    "A44632-e33540": [
+      "mirida"
+    ],
+    "A44632-e33580": [
+      "mirida"
+    ],
+    "A44632-e33610": [
+      "pinguister"
+    ],
+    "A44632-e33730": [
+      "mirida"
+    ],
+    "A44632-e33760": [
+      "pinguister"
+    ],
+    "A44632-e33800": [
+      "mirida"
+    ],
+    "A44632-e33830": [
+      "pinguister"
+    ],
+    "A44632-e33900": [
+      "mirida"
+    ],
+    "A44632-e33960": [
+      "pinguister"
+    ],
+    "A44632-e33990": [
+      "mirida"
+    ],
+    "A44632-e34020": [
+      "pinguister"
+    ],
+    "A44632-e34090": [
+      "mirida"
+    ],
+    "A44632-e34120": [
+      "pinguister"
+    ],
+    "A44632-e34160": [
+      "mirida"
+    ],
+    "A44632-e34190": [
+      "pinguister"
+    ],
+    "A44632-e34220": [
+      "mirida"
+    ],
+    "A44632-e34320": [
+      "cutler"
+    ],
+    "A44632-e34350": [
+      "mirida"
+    ],
+    "A44632-e34420": [
+      "pinguister"
+    ],
+    "A44632-e34530": [
+      "mirida"
+    ],
+    "A44632-e34590": [
+      "pinguister"
+    ],
+    "A44632-e34620": [
+      "mirida"
+    ],
+    "A44632-e34700": [
+      "pinguister"
+    ],
+    "A44632-e34850": [
+      "zoranzo"
+    ],
+    "A44632-e34890": [
+      "amphelia"
+    ],
+    "A44632-e34950": [
+      "zoranzo"
+    ],
+    "A44632-e34980": [
+      "amphelia"
+    ],
+    "A44632-e35010": [
+      "zoranzo"
+    ],
+    "A44632-e35040": [
+      "amphelia"
+    ],
+    "A44632-e35110": [
+      "zoranzo"
+    ],
+    "A44632-e35160": [
+      "amphelia"
+    ],
+    "A44632-e35190": [
+      "zoranzo"
+    ],
+    "A44632-e35230": [
+      "amphelia"
+    ],
+    "A44632-e35260": [
+      "zoranzo"
+    ],
+    "A44632-e35300": [
+      "amphelia"
+    ],
+    "A44632-e35330": [
+      "zoranzo"
+    ],
+    "A44632-e35370": [
+      "amphelia"
+    ],
+    "A44632-e35440": [
+      "zoranzo"
+    ],
+    "A44632-e35520": [
+      "iaylor"
+    ],
+    "A44632-e35560": [
+      "zoranzo"
+    ],
+    "A44632-e35610": [
+      "amphelia"
+    ],
+    "A44632-e35640": [
+      "zoranzo"
+    ],
+    "A44632-e35670": [
+      "amphelia"
+    ],
+    "A44632-e35710": [
+      "zoranzo"
+    ],
+    "A44632-e35740": [
+      "amphelia"
+    ],
+    "A44632-e35780": [
+      "zoranzo"
+    ],
+    "A44632-e35810": [
+      "iaylor"
+    ],
+    "A44632-e35840": [
+      "amphelia"
+    ],
+    "A44632-e35870": [
+      "zoranzo"
+    ],
+    "A44632-e35920": [
+      "amphelia"
+    ],
+    "A44632-e35970": [
+      "zoranzo"
+    ],
+    "A44632-e36010": [
+      "amphelia"
+    ],
+    "A44632-e36060": [
+      "iaylor"
+    ],
+    "A44632-e36090": [
+      "amphelia"
+    ],
+    "A44632-e36170": [
+      "amarissa"
+    ],
+    "A44632-e36200": [
+      "iaylor"
+    ],
+    "A44632-e36250": [
+      "amarissa"
+    ],
+    "A44632-e36300": [
+      "amphelia"
+    ],
+    "A44632-e36360": [
+      "amarissa"
+    ],
+    "A44632-e36430": [
+      "the-duke"
+    ],
+    "A44632-e36460": [
+      "zoranzo"
+    ],
+    "A44632-e36530": [
+      "amphelia"
+    ],
+    "A44632-e36590": [
+      "executioner"
+    ],
+    "A44632-e36620": [
+      "zoranzo"
+    ],
+    "A44632-e36660": [
+      "amarissa"
+    ],
+    "A44632-e36740": [
+      "the-duke"
+    ],
+    "A44632-e36770": [
+      "amarissa"
+    ],
+    "A44632-e36820": [
+      "executioner"
+    ],
+    "A44632-e36870": [
+      "amphelia"
+    ],
+    "A44632-e36910": [
+      "executioner"
+    ],
+    "A44632-e36950": [
+      "amphelia"
+    ],
+    "A44632-e36990": [
+      "zoranzo"
+    ],
+    "A44632-e37020": [
+      "amarissa"
+    ],
+    "A44632-e37060": [
+      "amphelia"
+    ],
+    "A44632-e37090": [
+      "the-duke"
+    ],
+    "A44632-e37120": [
+      "zoranzo"
+    ],
+    "A44632-e37150": [
+      "the-duke"
+    ],
+    "A44632-e37240": [
+      "amphelia"
+    ],
+    "A44632-e37280": [
+      "the-duke"
+    ],
+    "A44632-e37370": [
+      "amphelia"
+    ],
+    "A44632-e37420": [
+      "the-duke"
+    ],
+    "A44632-e37460": [
+      "amphelia"
+    ],
+    "A44632-e37500": [
+      "the-duke"
+    ],
+    "A44632-e37540": [
+      "amphelia"
+    ],
+    "A44632-e37600": [
+      "the-duke"
+    ],
+    "A44632-e37650": [
+      "amphelia"
+    ],
+    "A44632-e37760": [
+      "the-duke"
+    ],
+    "A44632-e37810": [
+      "ortellus"
+    ],
+    "A44632-e37880": [
+      "amphelia"
+    ],
+    "A44632-e37920": [
+      "the-duke"
+    ],
+    "A44632-e37950": [
+      "amphelia"
+    ],
+    "A44632-e37990": [
+      "the-duke"
+    ],
+    "A44632-e38060": [
+      "amphelia"
+    ],
+    "A44632-e38090": [
+      "the-duke"
+    ],
+    "A44632-e38130": [
+      "amphelia"
+    ],
+    "A44632-e38160": [
+      "the-duke"
+    ],
+    "A44632-e38190": [
+      "amphelia"
+    ],
+    "A44632-e38220": [
+      "amarissa"
+    ],
+    "A44632-e38310": [
+      "amphelia"
+    ],
+    "A44632-e38380": [
+      "amarissa"
+    ],
+    "A44632-e38410": [
+      "amphelia"
+    ],
+    "A44632-e38500": [
+      "amarissa"
+    ],
+    "A44632-e38540": [
+      "zoranzo"
+    ],
+    "A44632-e38580": [
+      "the-duke"
+    ],
+    "A44632-e38630": [
+      "amphelia"
+    ],
+    "A44632-e38740": [
+      "the-duke"
+    ],
+    "A44632-e38830": [
+      "guard"
+    ],
+    "A44632-e38880": [
+      "ortellus"
+    ],
+    "A44632-e39270": [
+      "the-duke"
+    ],
+    "A44632-e39330": [
+      "amphelia"
+    ],
+    "A44632-e39380": [
+      "artabella"
+    ],
+    "A44632-e39420": [
+      "amphelia"
+    ],
+    "A44632-e39450": [
+      "artabella"
+    ],
+    "A44632-e39520": [
+      "amphelia"
+    ],
+    "A44632-e39580": [
+      "artabella"
+    ],
+    "A44632-e39620": [
+      "the-duke"
+    ],
+    "A44632-e39670": [
+      "amphelia"
+    ],
+    "A44632-e39730": [
+      "the-duke"
+    ],
+    "A44632-e39770": [
+      "amphelia"
+    ],
+    "A44632-e39800": [
+      "the-duke"
+    ],
+    "A44632-e39840": [
+      "amphelia"
+    ],
+    "A44632-e39870": [
+      "the-duke"
+    ],
+    "A44632-e39910": [
+      "artabella"
+    ],
+    "A44632-e39970": [
+      "amphelia"
+    ],
+    "A44632-e40020": [
+      "the-duke"
+    ],
+    "A44632-e40050": [
+      "amphelia"
+    ],
+    "A44632-e40100": [
+      "the-duke"
+    ],
+    "A44632-e40140": [
+      "amphelia"
+    ],
+    "A44632-e40170": [
+      "the-duke"
+    ],
+    "A44632-e40210": [
+      "amphelia"
+    ],
+    "A44632-e40240": [
+      "the-duke"
+    ],
+    "A44632-e40330": [
+      "amphelia"
+    ],
+    "A44632-e40370": [
+      "the-duke"
+    ],
+    "A44632-e40420": [
+      "ortellus"
+    ],
+    "A44632-e40450": [
+      "the-duke"
+    ],
+    "A44632-e40480": [
+      "ortellus"
+    ],
+    "A44632-e40540": [
+      "the-duke"
+    ],
+    "A44632-e40570": [
+      "ortellus"
+    ],
+    "A44632-e40600": [
+      "the-duke"
+    ],
+    "A44632-e40630": [
+      "ortellus"
+    ],
+    "A44632-e40680": [
+      "the-duke"
+    ],
+    "A44632-e40710": [
+      "ortellus"
+    ],
+    "A44632-e40750": [
+      "the-duke"
+    ],
+    "A44632-e40790": [
+      "ortellus"
+    ],
+    "A44632-e41030": [
+      "the-duke"
+    ],
+    "A44632-e41100": [
+      "arbatus"
+    ],
+    "A44632-e41130": [
+      "the-duke"
+    ],
+    "A44632-e41290": [
+      "arbatus"
+    ],
+    "A44632-e41350": [
+      "the-duke"
+    ],
+    "A44632-e41390": [
+      "philidor"
+    ],
+    "A44632-e41440": [
+      "the-duke"
+    ],
+    "A44632-e41550": [
+      "mirida"
+    ],
+    "A44632-e41580": [
+      "philidor"
+    ],
+    "A44632-e41630": [
+      "mirida"
+    ],
+    "A44632-e41720": [
+      "philidor"
+    ],
+    "A44632-e41760": [
+      "mirida"
+    ],
+    "A44632-e41860": [
+      "philidor"
+    ],
+    "A44632-e41970": [
+      "mirida"
+    ],
+    "A44632-e42030": [
+      "the-duke"
+    ],
+    "A44632-e42080": [
+      "mirida"
+    ],
+    "A44632-e42110": [
+      "philidor"
+    ],
+    "A44632-e42180": [
+      "mirida"
+    ],
+    "A44632-e42240": [
+      "the-duke"
+    ],
+    "A44632-e42340": [
+      "arbatus"
+    ],
+    "A44632-e42370": [
+      "the-duke"
+    ],
+    "A44632-e42440": [
+      "philidor"
+    ],
+    "A44632-e42480": [
+      "mirida"
+    ],
+    "A44632-e42510": [
+      "artabella"
+    ],
+    "A44632-e42600": [
+      "arbatus"
+    ],
+    "A44632-e42650": [
+      "the-duke"
+    ]
+  }
+}

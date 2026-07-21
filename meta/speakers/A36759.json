@@ -1,15 +1,21 @@
 {
   "particDesc": [
     {
+      "name": "Head-keeper",
+      "id": "head-keeper",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Rabble",
       "id": "rabble",
       "isGroup": true,
       "sex": "UNKNOWN"
     },
-    {
-      "name": "Baud",
-      "id": "baud",
-      "isGroup": false,
+	{
+      "name": "Wenches",
+      "id": "wenches",
+      "isGroup": true,
       "sex": "FEMALE"
     },
     {
@@ -17,6 +23,12 @@
       "id": "pimp",
       "isGroup": false,
       "sex": "MALE"
+    },
+    {
+      "name": "Baud",
+      "id": "baud",
+      "isGroup": false,
+      "sex": "FEMALE"
     },
     {
       "name": "Caliban",
@@ -31,8 +43,8 @@
       "sex": "FEMALE"
     },
     {
-      "name": "Murder",
-      "id": "murder",
+      "name": "Murther",
+      "id": "murther",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -55,52 +67,40 @@
       "sex": "FEMALE"
     },
     {
-      "name": "Chorus of devils",
-      "id": "chorus-devils",
-      "isGroup": true,
+      "name": "Devil 4",
+      "id": "devil-4",
+      "isGroup": false,
 	  "sex": "UNKNOWN"
     },
-	{
-      "name": "Chorus",
+    {
+      "name": "Devil 3",
+      "id": "devil-3",
+      "isGroup": false,
+	  "sex": "UNKNOWN"
+    },
+    {
+      "name": "Devil 2",
+      "id": "devil-2",
+      "isGroup": false,
+	  "sex": "UNKNOWN"
+    },
+    {
+      "name": "Devil 1",
+      "id": "devil-1",
+      "isGroup": false,
+	  "sex": "UNKNOWN"
+    },
+    {
+      "name": "Chorus of Devils",
       "id": "chorus",
       "isGroup": true,
-	  "sex": "UNKNOWN"
-    },
-    {
-      "name": "Devil IV",
-      "id": "devil-iv",
-      "isGroup": false,
       "sex": "UNKNOWN"
     },
     {
-      "name": "Devil III",
-      "id": "devil-iii",
-      "isGroup": false,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "Devil II",
-      "id": "devil-ii",
-      "isGroup": false,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "Devil I",
-      "id": "devil-i",
-      "isGroup": false,
-      "sex": "UNKNOWN"
-    },
-    {
-      "name": "Mr. Hains",
-      "id": "mr-hains",
+      "name": "Plenepotentiary",
+      "id": "plenepotentiary",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "name": "Betty Mackarel",
-      "id": "betty-mackarel",
-      "isGroup": false,
-      "sex": "FEMALE"
     },
     {
       "id": "prospero",
@@ -184,45 +184,33 @@
       "id": "ariel",
       "name": "Ariel",
       "isGroup": false,
-      "sex": "UNKNOWN"
-    },
-    {
-      "id": "plenipotentiary",
-      "name": "Plenipotentiary",
-      "isGroup": false,
-      "sex": "MALE"
-    },
-	{
-      "id": "Wenches",
-      "name": "wenches",
-      "isGroup": true,
       "sex": "FEMALE"
     }
   ],
   "speeches": {
     "A36759-e370": [
-      "betty-mackarel"
+      "beantosser"
     ],
     "A36759-e410": [
-      "mr-hains"
+      "hectorio"
     ],
     "A36759-e490": [
-      "betty-mackarel"
+      "beantosser"
     ],
     "A36759-e530": [
-      "mr-hains"
+      "hectorio"
     ],
     "A36759-e690": [
-      "betty-mackarel"
+      "beantosser"
     ],
     "A36759-e730": [
-      "mr-hains"
+      "hectorio"
     ],
     "A36759-e760": [
-      "betty-mackarel"
+      "beantosser"
     ],
     "A36759-e810": [
-      "mr-hains"
+      "hectorio"
     ],
     "A36759-e2020": [
       "beantosser"
@@ -443,19 +431,19 @@
       "stephania"
     ],
     "A36759-e5400": [
-      "plenipotentiary"
+      "plenepotentiary"
     ],
     "A36759-e5430": [
       "stephania"
     ],
     "A36759-e5460": [
-      "plenipotentiary"
+      "plenepotentiary"
     ],
     "A36759-e5490": [
       "stephania"
     ],
     "A36759-e5520": [
-      "plenipotentiary"
+      "plenepotentiary"
     ],
     "A36759-e5550": [
       "stephania"
@@ -467,7 +455,7 @@
       "moustrappa"
     ],
     "A36759-e5640": [
-      "plenipotentiary"
+      "plenepotentiary"
     ],
     "A36759-e5670": [
       "stephania"
@@ -479,13 +467,13 @@
       "stephania"
     ],
     "A36759-e5760": [
-      "plenipotentiary"
+      "plenepotentiary"
     ],
     "A36759-e5800": [
       "drinkallup"
     ],
     "A36759-e5830": [
-      "plenipotentiary"
+      "plenepotentiary"
     ],
     "A36759-e5880": [
       "stephania"
@@ -494,7 +482,7 @@
       "wenches"
     ],
     "A36759-e5940": [
-      "wenches"
+      "hectorio"
     ],
     "A36759-e6020": [
       "stephania"
@@ -848,25 +836,25 @@
       "gonzalo"
     ],
     "A36759-e10940": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e10990": [
-      "devil-ii"
+      "devil-2"
     ],
     "A36759-e11040": [
-      "devil-iii"
+      "devil-3"
     ],
     "A36759-e11070": [
-      "devil-iv"
+      "devil-4"
     ],
     "A36759-e11110": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e11150": [
-      "devil-ii"
+      "devil-2"
     ],
     "A36759-e11180": [
-      "chorus-devils"
+      "chorus"
     ],
     "A36759-e11260": [
       "alonzo"
@@ -878,22 +866,22 @@
       "alonzo"
     ],
     "A36759-e11370": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e11410": [
-      "devil-ii"
+      "devil-2"
     ],
     "A36759-e11440": [
-      "devil-iii"
+      "devil-3"
     ],
     "A36759-e11470": [
-      "devil-iv"
+      "devil-4"
     ],
     "A36759-e11510": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e11560": [
-      "chorus-devils"
+      "chorus"
     ],
     "A36759-e11620": [
       "gonzalo"
@@ -902,31 +890,31 @@
       "alonzo"
     ],
     "A36759-e11710": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e11740": [
-      "devil-ii"
+      "devil-2"
     ],
     "A36759-e11770": [
-      "devil-iii"
+      "devil-3"
     ],
     "A36759-e11810": [
-      "devil-iv"
+      "devil-4"
     ],
     "A36759-e11850": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e11900": [
-      "devil-ii"
+      "devil-2"
     ],
     "A36759-e11930": [
-      "devil-iii"
+      "devil-3"
     ],
     "A36759-e11960": [
-      "devil-iv"
+      "devil-4"
     ],
     "A36759-e12000": [
-      "chorus-devils"
+      "chorus"
     ],
     "A36759-e12060": [
       "alonzo"
@@ -944,46 +932,46 @@
       "alonzo"
     ],
     "A36759-e12230": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e12280": [
-      "devil-ii"
+      "devil-2"
     ],
     "A36759-e12310": [
-      "devil-iii"
+      "devil-3"
     ],
     "A36759-e12340": [
-      "devil-iv"
+      "devil-4"
     ],
     "A36759-e12370": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e12400": [
-      "chorus-devils"
+      "chorus"
     ],
     "A36759-e12430": [
-      "devil-ii"
+      "devil-2"
     ],
     "A36759-e12480": [
-      "devil-iii"
+      "devil-3"
     ],
     "A36759-e12510": [
-      "devil-iv"
+      "devil-4"
     ],
     "A36759-e12540": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e12570": [
-      "devil-ii"
+      "devil-2"
     ],
     "A36759-e12600": [
-      "chorus-devils"
+      "chorus"
     ],
     "A36759-e12630": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e12690": [
-      "chorus-devils"
+      "chorus"
     ],
     "A36759-e12790": [
       "pride"
@@ -995,22 +983,22 @@
       "rapine"
     ],
     "A36759-e13160": [
-      "murder"
+      "murther"
     ],
     "A36759-e13300": [
-      "devil-iv",
-      "devil-iii",
-      "devil-ii",
-      "devil-i"
+      "devil-1",
+      "devil-2",
+      "devil-3",
+      "devil-4"
     ],
     "A36759-e13330": [
-      "devil-i"
+      "devil-1"
     ],
     "A36759-e13430": [
-      "chorus-devils"
+      "chorus"
     ],
     "A36759-e13500": [
-      "chorus-devils"
+      "chorus"
     ],
     "A36759-e13580": [
       "gonzalo"
@@ -2284,9 +2272,6 @@
     "A36759-e31070": [
       "dorinda"
     ],
-    "A36759-e31100": [
-      "alonzo"
-    ],
     "A36759-e31150": [
       "alonzo"
     ],
@@ -2372,25 +2357,13 @@
       "chorus"
     ],
     "A36759-e32350": [
-      "prospero",
-	  "alonzo",
-	  "miranda",
-	  "dorinda",
-	  "gonzalo",
-	  "antonio",
-	  "quakero"
+      "chorus"
     ],
     "A36759-e32380": [
       "ariel"
     ],
     "A36759-e32420": [
-      "prospero",
-	  "alonzo",
-	  "miranda",
-	  "dorinda",
-	  "gonzalo",
-	  "antonio",
-	  "quakero"
+      "chorus"
     ],
     "A36759-e32450": [
       "ariel"
@@ -2507,7 +2480,7 @@
       "chorus"
     ],
     "A36759-e34400": [
-      "prospero"
+      "head-keeper"
     ],
     "A36759-e34580": [
       "chorus"

@@ -1,0 +1,916 @@
+{
+  "particDesc": [
+    {
+      "name": "Trumpeter",
+      "id": "trumpeter",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Priests",
+      "id": "priests",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "Woman 3",
+      "id": "woman-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 2",
+      "id": "woman-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Woman 1",
+      "id": "woman-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Pioneer",
+      "id": "pioneer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Switzer ",
+      "id": "switzer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 2",
+      "id": "soldier-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Soldier 1",
+      "id": "soldier-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Messenger",
+      "id": "messenger",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Officer",
+      "id": "officer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Rabble ",
+      "id": "rabble",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 2",
+      "id": "citizen-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 1",
+      "id": "citizen-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Burger 6",
+      "id": "burger-6",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Burger 5",
+      "id": "burger-5",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Burger 4",
+      "id": "burger-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Burger 3",
+      "id": "burger-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Burger 2",
+      "id": "burger-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Burger 1",
+      "id": "burger-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Scout",
+      "id": "scout",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Foquet",
+      "id": "foquet",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Ternon",
+      "id": "ternon",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "prince-de-bergue",
+      "name": "Prince de Bergue",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "count-fontagne",
+      "name": "Count Fontagne",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "count-ravellido",
+      "name": "Count Ravellido ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "brigadier-fagel",
+      "name": "Brigadier Fagel",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "marshal-spinosa",
+      "name": "Marshal Spinosa",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "collonel-brannacio",
+      "name": "Collonel Brannacio",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "collonel-harcourt",
+      "name": "Collonel Harcourt",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "major-pedro",
+      "name": "Major Pedro ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "abbot-grimchi",
+      "name": "Abbot Grimchi",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "abbot-vaneuf",
+      "name": "Abbot Vaneuf ",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "durand",
+      "name": "Durand",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "king-of-france",
+      "name": "King of France",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "dauphin",
+      "name": "Dauphin",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "monsieur-lovis",
+      "name": "Monsieur Lovis",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "duke-of-luxemburgh",
+      "name": "Duke of Luxemburgh",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "marquess-de-bouffleers",
+      "name": "Marquess de Bouffleers",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "monsieur-vauban",
+      "name": "Monsieur Vauban",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A25278-e970": [
+      "prince-de-bergue"
+    ],
+    "A25278-e1000": [
+      "scout"
+    ],
+    "A25278-e1090": [
+      "prince-de-bergue"
+    ],
+    "A25278-e1140": [
+      "scout"
+    ],
+    "A25278-e1180": [
+      "prince-de-bergue"
+    ],
+    "A25278-e1280": [
+      "count-ravellido"
+    ],
+    "A25278-e1400": [
+      "brigadier-fagel"
+    ],
+    "A25278-e1550": [
+      "prince-de-bergue"
+    ],
+    "A25278-e1640": [
+      "brigadier-fagel"
+    ],
+    "A25278-e1750": [
+      "prince-de-bergue"
+    ],
+    "A25278-e1900": [
+      "brigadier-fagel"
+    ],
+    "A25278-e2090": [
+      "brigadier-fagel"
+    ],
+    "A25278-e2190": [
+      "count-ravellido"
+    ],
+    "A25278-e2270": [
+      "prince-de-bergue"
+    ],
+    "A25278-e2410": [
+      "brigadier-fagel"
+    ],
+    "A25278-e2590": [
+      "burger-1"
+    ],
+    "A25278-e2630": [
+      "burger-2"
+    ],
+    "A25278-e2660": [
+      "burger-1"
+    ],
+    "A25278-e2690": [
+      "burger-2"
+    ],
+    "A25278-e2720": [
+      "burger-1"
+    ],
+    "A25278-e2750": [
+      "burger-3"
+    ],
+    "A25278-e2780": [
+      "burger-1"
+    ],
+    "A25278-e2830": [
+      "burger-4"
+    ],
+    "A25278-e2860": [
+      "burger-5"
+    ],
+    "A25278-e2890": [
+      "burger-6"
+    ],
+    "A25278-e2930": [
+      "burger-1"
+    ],
+    "A25278-e2960": [
+      "burger-5"
+    ],
+    "A25278-e2990": [
+      "burger-2"
+    ],
+    "A25278-e3020": [
+      "burger-6"
+    ],
+    "A25278-e3050": [
+      "burger-1"
+    ],
+    "A25278-e3090": [
+      "burger-6"
+    ],
+    "A25278-e3150": [
+      "citizen-1"
+    ],
+    "A25278-e3180": [
+      "citizen-2"
+    ],
+    "A25278-e3210": [
+      "burger-2"
+    ],
+    "A25278-e3240": [
+      "citizen-1"
+    ],
+    "A25278-e3270": [
+      "burger-1"
+    ],
+    "A25278-e3300": [
+      "citizen-2"
+    ],
+    "A25278-e3330": [
+      "burger-3"
+    ],
+    "A25278-e3360": [
+      "citizen-1"
+    ],
+    "A25278-e3410": [
+      "burger-1"
+    ],
+    "A25278-e3500": [
+      "citizen-1"
+    ],
+    "A25278-e3540": [
+      "burger-5"
+    ],
+    "A25278-e3580": [
+      "burger-1"
+    ],
+    "A25278-e3620": [
+      "burger-5"
+    ],
+    "A25278-e3670": [
+      "burger-1"
+    ],
+    "A25278-e3700": [
+      "burger-2"
+    ],
+    "A25278-e3950": [
+      "foquet"
+    ],
+    "A25278-e3980": [
+      "durand"
+    ],
+    "A25278-e4020": [
+      "foquet"
+    ],
+    "A25278-e4050": [
+      "durand"
+    ],
+    "A25278-e4080": [
+      "foquet"
+    ],
+    "A25278-e4140": [
+      "ternon"
+    ],
+    "A25278-e4170": [
+      "foquet"
+    ],
+    "A25278-e4240": [
+      "durand"
+    ],
+    "A25278-e4280": [
+      "ternon"
+    ],
+    "A25278-e4310": [
+      "foquet"
+    ],
+    "A25278-e4360": [
+      "ternon"
+    ],
+    "A25278-e4450": [
+      "rabble"
+    ],
+    "A25278-e4480": [
+      "ternon"
+    ],
+    "A25278-e4520": [
+      "rabble"
+    ],
+    "A25278-e4560": [
+      "foquet"
+    ],
+    "A25278-e4610": [
+      "rabble"
+    ],
+    "A25278-e4710": [
+      "prince-de-bergue"
+    ],
+    "A25278-e4760": [
+      "brigadier-fagel"
+    ],
+    "A25278-e4820": [
+      "prince-de-bergue"
+    ],
+    "A25278-e4860": [
+      "brigadier-fagel"
+    ],
+    "A25278-e4960": [
+      "prince-de-bergue"
+    ],
+    "A25278-e5070": [
+      "marshal-spinosa"
+    ],
+    "A25278-e5160": [
+      "prince-de-bergue"
+    ],
+    "A25278-e5200": [
+      "marshal-spinosa"
+    ],
+    "A25278-e5240": [
+      "prince-de-bergue"
+    ],
+    "A25278-e5290": [
+      "officer"
+    ],
+    "A25278-e5320": [
+      "prince-de-bergue"
+    ],
+    "A25278-e5350": [
+      "messenger"
+    ],
+    "A25278-e5400": [
+      "prince-de-bergue"
+    ],
+    "A25278-e5440": [
+      "officer"
+    ],
+    "A25278-e5580": [
+      "prince-de-bergue"
+    ],
+    "A25278-e5940": [
+      "marquess-de-bouffleers"
+    ],
+    "A25278-e6000": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e6100": [
+      "messenger"
+    ],
+    "A25278-e6160": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e6240": [
+      "marquess-de-bouffleers"
+    ],
+    "A25278-e6380": [
+      "messenger"
+    ],
+    "A25278-e6470": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e6610": [
+      "brigadier-fagel"
+    ],
+    "A25278-e6690": [
+      "officer"
+    ],
+    "A25278-e6740": [
+      "brigadier-fagel"
+    ],
+    "A25278-e6950": [
+      "collonel-brannacio"
+    ],
+    "A25278-e7040": [
+      "brigadier-fagel"
+    ],
+    "A25278-e7070": [
+      "collonel-brannacio"
+    ],
+    "A25278-e7180": [
+      "brigadier-fagel"
+    ],
+    "A25278-e7290": [
+      "collonel-brannacio"
+    ],
+    "A25278-e7520": [
+      "king-of-france"
+    ],
+    "A25278-e7610": [
+      "monsieur-lovis"
+    ],
+    "A25278-e7640": [
+      "king-of-france"
+    ],
+    "A25278-e7750": [
+      "dauphin"
+    ],
+    "A25278-e7790": [
+      "king-of-france"
+    ],
+    "A25278-e7840": [
+      "monsieur-vauban"
+    ],
+    "A25278-e7970": [
+      "king-of-france"
+    ],
+    "A25278-e8230": [
+      "monsieur-lovis"
+    ],
+    "A25278-e8300": [
+      "king-of-france"
+    ],
+    "A25278-e8340": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e8430": [
+      "king-of-france"
+    ],
+    "A25278-e8540": [
+      "marquess-de-bouffleers"
+    ],
+    "A25278-e8590": [
+      "king-of-france"
+    ],
+    "A25278-e8960": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e9020": [
+      "marquess-de-bouffleers"
+    ],
+    "A25278-e9100": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e9200": [
+      "major-pedro"
+    ],
+    "A25278-e9270": [
+      "marshal-spinosa"
+    ],
+    "A25278-e9350": [
+      "major-pedro"
+    ],
+    "A25278-e9450": [
+      "marshal-spinosa"
+    ],
+    "A25278-e9520": [
+      "soldier-1"
+    ],
+    "A25278-e9550": [
+      "major-pedro"
+    ],
+    "A25278-e9580": [
+      "soldier-2"
+    ],
+    "A25278-e9610": [
+      "marshal-spinosa"
+    ],
+    "A25278-e9710": [
+      "soldier-1"
+    ],
+    "A25278-e9750": [
+      "marshal-spinosa"
+    ],
+    "A25278-e9790": [
+      "major-pedro"
+    ],
+    "A25278-e9910": [
+      "burger-1"
+    ],
+    "A25278-e9960": [
+      "pioneer"
+    ],
+    "A25278-e10000": [
+      "burger-2"
+    ],
+    "A25278-e10040": [
+      "burger-3"
+    ],
+    "A25278-e10090": [
+      "burger-2"
+    ],
+    "A25278-e10130": [
+      "soldier-1"
+    ],
+    "A25278-e10170": [
+      "burger-1"
+    ],
+    "A25278-e10200": [
+      "soldier-1"
+    ],
+    "A25278-e10260": [
+      "soldier-1"
+    ],
+    "A25278-e10290": [
+      "soldier-2"
+    ],
+    "A25278-e10340": [
+      "burger-2"
+    ],
+    "A25278-e10380": [
+      "switzer"
+    ],
+    "A25278-e10410": [
+      "burger-1"
+    ],
+    "A25278-e10440": [
+      "switzer"
+    ],
+    "A25278-e10480": [
+      "soldier-1"
+    ],
+    "A25278-e10510": [
+      "switzer"
+    ],
+    "A25278-e10590": [
+      "burger-1"
+    ],
+    "A25278-e10630": [
+      "switzer"
+    ],
+    "A25278-e10700": [
+      "burger-2"
+    ],
+    "A25278-e10730": [
+      "burger-1"
+    ],
+    "A25278-e10760": [
+      "switzer"
+    ],
+    "A25278-e10820": [
+      "burger-1"
+    ],
+    "A25278-e10850": [
+      "switzer"
+    ],
+    "A25278-e10920": [
+      "soldier-1"
+    ],
+    "A25278-e10950": [
+      "rabble"
+    ],
+    "A25278-e11040": [
+      "prince-de-bergue"
+    ],
+    "A25278-e11140": [
+      "brigadier-fagel"
+    ],
+    "A25278-e11300": [
+      "prince-de-bergue"
+    ],
+    "A25278-e11380": [
+      "brigadier-fagel"
+    ],
+    "A25278-e11450": [
+      "collonel-harcourt"
+    ],
+    "A25278-e11540": [
+      "prince-de-bergue"
+    ],
+    "A25278-e11570": [
+      "messenger"
+    ],
+    "A25278-e11710": [
+      "prince-de-bergue"
+    ],
+    "A25278-e11740": [
+      "brigadier-fagel"
+    ],
+    "A25278-e11770": [
+      "collonel-harcourt"
+    ],
+    "A25278-e11800": [
+      "major-pedro"
+    ],
+    "A25278-e11840": [
+      "prince-de-bergue"
+    ],
+    "A25278-e11980": [
+      "brigadier-fagel"
+    ],
+    "A25278-e12180": [
+      "abbot-vaneuf"
+    ],
+    "A25278-e12210": [
+      "abbot-grimchi"
+    ],
+    "A25278-e12240": [
+      "abbot-vaneuf"
+    ],
+    "A25278-e12270": [
+      "abbot-grimchi"
+    ],
+    "A25278-e12320": [
+      "abbot-vaneuf"
+    ],
+    "A25278-e12360": [
+      "abbot-grimchi"
+    ],
+    "A25278-e12400": [
+      "woman-1"
+    ],
+    "A25278-e12430": [
+      "woman-2"
+    ],
+    "A25278-e12460": [
+      "woman-3"
+    ],
+    "A25278-e12490": [
+      "abbot-grimchi"
+    ],
+    "A25278-e12550": [
+      "woman-1"
+    ],
+    "A25278-e12580": [
+      "woman-2"
+    ],
+    "A25278-e12610": [
+      "abbot-vaneuf"
+    ],
+    "A25278-e12640": [
+      "woman-3"
+    ],
+    "A25278-e12680": [
+      "abbot-grimchi"
+    ],
+    "A25278-e12710": [
+      "woman-1"
+    ],
+    "A25278-e12740": [
+      "woman-2"
+    ],
+    "A25278-e12780": [
+      "woman-1",
+      "woman-2",
+      "woman-3",
+      "priests"
+    ],
+    "A25278-e12850": [
+      "burger-1"
+    ],
+    "A25278-e12880": [
+      "woman-1"
+    ],
+    "A25278-e12920": [
+      "burger-1"
+    ],
+    "A25278-e12960": [
+      "burger-2"
+    ],
+    "A25278-e13000": [
+      "burger-3"
+    ],
+    "A25278-e13030": [
+      "woman-2"
+    ],
+    "A25278-e13060": [
+      "woman-1"
+    ],
+    "A25278-e13100": [
+      "burger-2"
+    ],
+    "A25278-e13140": [
+      "burger-1"
+    ],
+    "A25278-e13170": [
+      "burger-2"
+    ],
+    "A25278-e13200": [
+      "abbot-grimchi"
+    ],
+    "A25278-e13230": [
+      "burger-3"
+    ],
+    "A25278-e13270": [
+      "abbot-grimchi"
+    ],
+    "A25278-e13520": [
+      "burger-1"
+    ],
+    "A25278-e13560": [
+      "burger-2"
+    ],
+    "A25278-e13600": [
+      "abbot-grimchi"
+    ],
+    "A25278-e13650": [
+      "abbot-grimchi"
+    ],
+    "A25278-e13760": [
+      "woman-1",
+      "woman-2",
+      "woman-3",
+      "rabble",
+      "burger-1",
+      "burger-2",
+      "burger-3",
+      "abbot-grimchi"
+    ],
+    "A25278-e13790": [
+      "abbot-vaneuf"
+    ],
+    "A25278-e13900": [
+      "prince-de-bergue"
+    ],
+    "A25278-e13930": [
+      "brigadier-fagel"
+    ],
+    "A25278-e14160": [
+      "messenger"
+    ],
+    "A25278-e14240": [
+      "prince-de-bergue"
+    ],
+    "A25278-e14350": [
+      "messenger"
+    ],
+    "A25278-e14420": [
+      "prince-de-bergue"
+    ],
+    "A25278-e14720": [
+      "king-of-france"
+    ],
+    "A25278-e14820": [
+      "trumpeter"
+    ],
+    "A25278-e14870": [
+      "king-of-france"
+    ],
+    "A25278-e14930": [
+      "dauphin"
+    ],
+    "A25278-e14980": [
+      "king-of-france"
+    ],
+    "A25278-e15210": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e15260": [
+      "burger-1"
+    ],
+    "A25278-e15290": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e15320": [
+      "burger-3"
+    ],
+    "A25278-e15360": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e15390": [
+      "burger-2"
+    ],
+    "A25278-e15430": [
+      "burger-1"
+    ],
+    "A25278-e15460": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e15500": [
+      "burger-1"
+    ],
+    "A25278-e15540": [
+      "burger-2"
+    ],
+    "A25278-e15580": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e15620": [
+      "king-of-france"
+    ],
+    "A25278-e15700": [
+      "duke-of-luxemburgh"
+    ],
+    "A25278-e15790": [
+      "prince-de-bergue"
+    ],
+    "A25278-e15850": [
+      "dauphin"
+    ]
+  }
+}
