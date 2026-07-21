@@ -113,15 +113,12 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000107-bedchamber-2" sex="MALE">
-            <persName>Bedchamber 2</persName>
+          <person xml:id="eng000107-attendant-2" sex="MALE">
+            <persName>Attendant 2</persName>
           </person>
-          <person xml:id="eng000107-bedchamber-1" sex="MALE">
-            <persName>Bedchamber 1</persName>
+          <person xml:id="eng000107-attendant-1" sex="MALE">
+            <persName>Attendant 1</persName>
           </person>
-          <personGrp xml:id="eng000107-ladies" sex="FEMALE">
-            <name>Ladies</name>
-          </personGrp>
           <person xml:id="eng000107-cleon" sex="MALE">
             <persName>Cleon</persName>
           </person>
@@ -170,8 +167,8 @@
           <person xml:id="eng000107-dula" sex="FEMALE">
             <persName>Dula</persName>
           </person>
-          <person xml:id="eng000107-1-lady" sex="FEMALE">
-            <persName>1 Lady</persName>
+          <person xml:id="eng000107-lady-1" sex="FEMALE">
+            <persName>Lady 1</persName>
           </person>
           <person xml:id="eng000107-antiphila" sex="FEMALE">
             <persName>Antiphila</persName>
@@ -1157,7 +1154,7 @@
             <speaker>EVAD. </speaker>
             <p>You prick me Madame. </p>
           </sp>
-          <sp who="#eng000107-1-lady" xml:id="eng000107-e106490">
+          <sp who="#eng000107-lady-1" xml:id="eng000107-e106490">
             <speaker>1. LAD. </speaker>
             <p>Tis against my will. </p>
           </sp>
@@ -1331,12 +1328,12 @@
             <p>Alas I pittie thee. <stage xml:id="eng000107-e107570">Exit Euadne. </stage>
             </p>
           </sp>
-          <sp who="#eng000107-ladies #eng000107-dula #eng000107-aspatia"
+          <sp who="#eng000107-aspatia #eng000107-dula #eng000107-lady-1"
                    xml:id="eng000107-e107580">
             <speaker>OMNES. </speaker>
             <p>Madame good night. </p>
           </sp>
-          <sp who="#eng000107-1-lady" xml:id="eng000107-e107600">
+          <sp who="#eng000107-lady-1" xml:id="eng000107-e107600">
             <speaker>1. LAD. </speaker>
             <p>Come weele let in the Bridegroome. </p>
           </sp>
@@ -1344,7 +1341,7 @@
             <speaker>DVL. </speaker>
             <p>Where's my Lord? </p>
           </sp>
-          <sp who="#eng000107-1-lady" xml:id="eng000107-e107640">
+          <sp who="#eng000107-lady-1" xml:id="eng000107-e107640">
             <speaker>1. LAD. </speaker>
             <l>Here take this light, <stage xml:id="eng000107-e107660">Enter Amintor. </stage>
             </l>
@@ -1353,7 +1350,7 @@
             <speaker>DVL. </speaker>
             <p>Heele finde her in the darke. </p>
           </sp>
-          <sp who="#eng000107-1-lady" xml:id="eng000107-e107690">
+          <sp who="#eng000107-lady-1" xml:id="eng000107-e107690">
             <speaker>1. LAD. </speaker>
             <p>Your Ladye's scarse a bed, you must helpe her. </p>
           </sp>
@@ -1378,7 +1375,7 @@
             <p>Come Ladies will you goe. <stage xml:id="eng000107-e107870">Exit Aspatia. </stage>
             </p>
           </sp>
-          <sp who="#eng000107-1-lady" xml:id="eng000107-e107880">
+          <sp who="#eng000107-lady-1" xml:id="eng000107-e107880">
             <speaker>1. LAD. </speaker>
             <p>Good night my Lord. </p>
           </sp>
@@ -4628,8 +4625,7 @@
             <l>When he has vsd me thus a month, I am mad </l>
             <l>Am I not still? </l>
           </sp>
-          <sp who="#eng000107-melantius #eng000107-king #eng000107-amintor #eng000107-evadne #eng000107-diphilus #eng000107-lysippus #eng000107-cleon #eng000107-strato"
-                   xml:id="eng000107-e129070">
+          <sp who="#eng000107-king #eng000107-melantius" xml:id="eng000107-e129070">
             <speaker>Omnes. </speaker>
             <p>Ha ha ha. </p>
           </sp>
@@ -4642,8 +4638,7 @@
             <l>And hees an Asse, and I am a very foole </l>
             <l>Both with him, and without him, as you vse me. </l>
           </sp>
-          <sp who="#eng000107-melantius #eng000107-king #eng000107-amintor #eng000107-evadne #eng000107-diphilus #eng000107-lysippus #eng000107-cleon #eng000107-strato"
-                   xml:id="eng000107-e129160">
+          <sp who="#eng000107-king #eng000107-melantius" xml:id="eng000107-e129160">
             <speaker>Omnes. </speaker>
             <p>Ha ha ha. </p>
           </sp>
@@ -5175,42 +5170,42 @@
             </p>
           </sp>
           <stage xml:id="eng000107-e132660">Enter two of the Bed-chamber. </stage>
-          <sp who="#eng000107-bedchamber-1" xml:id="eng000107-e132670">
+          <sp who="#eng000107-attendant-1" xml:id="eng000107-e132670">
             <speaker>1. </speaker>
             <p>Come now shees gone, lets enter, the King expects it, and will be angry. </p>
           </sp>
           <pb xml:id="eng000107-036-a"/>
-          <sp who="#eng000107-bedchamber-2" xml:id="eng000107-e132690">
+          <sp who="#eng000107-attendant-2" xml:id="eng000107-e132690">
             <speaker>2. </speaker>
             <p>Tis a fine wench, weele haue a snap at her one of these nights as she goes from him. </p>
           </sp>
-          <sp who="#eng000107-bedchamber-1" xml:id="eng000107-e132710">
+          <sp who="#eng000107-attendant-1" xml:id="eng000107-e132710">
             <speaker>1. </speaker>
             <p>Content: how quickly he had done with her, I see Kings can doe no more that way then other mortall people. </p>
           </sp>
-          <sp who="#eng000107-bedchamber-2" xml:id="eng000107-e132730">
+          <sp who="#eng000107-attendant-2" xml:id="eng000107-e132730">
             <speaker>2. </speaker>
             <p>How fast he is! I cannot heare him breathe. </p>
           </sp>
-          <sp who="#eng000107-bedchamber-1" xml:id="eng000107-e132750">
+          <sp who="#eng000107-attendant-1" xml:id="eng000107-e132750">
             <speaker>1. </speaker>
             <p>Either the tapers giue a feeble light, or he lookes very pale. </p>
           </sp>
-          <sp who="#eng000107-bedchamber-2" xml:id="eng000107-e132770">
+          <sp who="#eng000107-attendant-2" xml:id="eng000107-e132770">
             <speaker>2. </speaker>
             <l>Lets looke: Alas, hees stiffe, wounded and dead. </l>
             <l>Treason. </l>
           </sp>
-          <sp who="#eng000107-bedchamber-1" xml:id="eng000107-e132800">
+          <sp who="#eng000107-attendant-1" xml:id="eng000107-e132800">
             <speaker>1. </speaker>
             <p>Run forth and call. <stage xml:id="eng000107-e132820">Exit Gent. </stage>
             </p>
           </sp>
-          <sp who="#eng000107-bedchamber-2" xml:id="eng000107-e132830">
+          <sp who="#eng000107-attendant-2" xml:id="eng000107-e132830">
             <speaker>2. </speaker>
             <p>Treason, treason. </p>
           </sp>
-          <sp who="#eng000107-bedchamber-1" xml:id="eng000107-e132850">
+          <sp who="#eng000107-attendant-1" xml:id="eng000107-e132850">
             <speaker>1. </speaker>
             <l>This will be laid on vs: who can beleeue </l>
             <l>A woman could doe this? </l>
@@ -5220,7 +5215,7 @@
             <speaker>Cle. </speaker>
             <p>How now? wheres the traitor? </p>
           </sp>
-          <sp who="#eng000107-bedchamber-1" xml:id="eng000107-e132910">
+          <sp who="#eng000107-attendant-1" xml:id="eng000107-e132910">
             <speaker>1. </speaker>
             <l>Fled, fled away, but there her wofull act </l>
             <l>Lies still. </l>
@@ -5233,7 +5228,7 @@
             <speaker>Lys. </speaker>
             <p>Wheres the body? </p>
           </sp>
-          <sp who="#eng000107-bedchamber-1" xml:id="eng000107-e132980">
+          <sp who="#eng000107-attendant-1" xml:id="eng000107-e132980">
             <speaker>1. </speaker>
             <p>There. </p>
           </sp>

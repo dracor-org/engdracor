@@ -97,53 +97,50 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000626-jesus">
+          <person xml:id="eng000626-jesus" sex="MALE">
             <persName>Jesus</persName>
           </person>
-          <person xml:id="eng000626-chorus_jewish_women">
-            <persName>Chorus Jewish Women</persName>
-          </person>
-          <person xml:id="eng000626-peter">
+          <personGrp xml:id="eng000626-chorus-jewish-women" sex="FEMALE">
+            <name>Chorus Jewish Women</name>
+          </personGrp>
+          <person xml:id="eng000626-peter" sex="MALE">
             <persName>Peter</persName>
           </person>
-          <person xml:id="eng000626-pilate">
-            <persName>Pilate</persName>
-          </person>
-          <person xml:id="eng000626-caiaphas">
+          <person xml:id="eng000626-caiaphas" sex="MALE">
             <persName>Caiaphas</persName>
           </person>
-          <person xml:id="eng000626-judas">
+          <person xml:id="eng000626-pilate" sex="MALE">
+            <persName>Pilate</persName>
+          </person>
+          <person xml:id="eng000626-judas" sex="MALE">
             <persName>Judas</persName>
           </person>
-          <person xml:id="eng000626-jews">
-            <persName>Jews</persName>
-          </person>
-          <person xml:id="eng000626-chorus">
-            <persName>Chorus</persName>
-          </person>
-          <person xml:id="eng000626-nuntius_1">
+          <personGrp xml:id="eng000626-jews" sex="UNKNOWN">
+            <name>Jews</name>
+          </personGrp>
+          <personGrp xml:id="eng000626-chorus" sex="UNKNOWN">
+            <name>Chorus</name>
+          </personGrp>
+          <person xml:id="eng000626-nuntius-1" sex="MALE">
             <persName>Nuntius 1</persName>
           </person>
-          <person xml:id="eng000626-1_nuntius">
-            <persName>1 Nuntius</persName>
+          <person xml:id="eng000626-nuntius-2" sex="MALE">
+            <persName>Nuntius 2</persName>
           </person>
-          <person xml:id="eng000626-2_nuntius">
-            <persName>2 Nuntius</persName>
-          </person>
-          <person xml:id="eng000626-chorus_romans">
-            <persName>Chorus Romans</persName>
-          </person>
-          <person xml:id="eng000626-joseph">
-            <persName>Joseph</persName>
-          </person>
-          <person xml:id="eng000626-nicodemus">
+          <personGrp xml:id="eng000626-chorus-romans" sex="UNKNOWN">
+            <name>Chorus Romans</name>
+          </personGrp>
+          <person xml:id="eng000626-nicodemus" sex="MALE">
             <persName>Nicodemus</persName>
           </person>
-          <person xml:id="eng000626-john">
-            <persName>John</persName>
+          <person xml:id="eng000626-joseph" sex="MALE">
+            <persName>Joseph</persName>
           </person>
-          <person xml:id="eng000626-mary">
+          <person xml:id="eng000626-mary" sex="FEMALE">
             <persName>Mary</persName>
+          </person>
+          <person xml:id="eng000626-john" sex="FEMALE">
+            <persName>John</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -386,7 +383,7 @@
             <l>While my last prayers solicit Heaven, to Sleep </l>
             <l n="170">Give no accesse: this Night my Vigil keep. </l>
           </sp>
-          <sp who="#eng000626-chorus_jewish_women" xml:id="eng000626-e102080">
+          <sp who="#eng000626-chorus-jewish-women" xml:id="eng000626-e102080">
             <speaker>CHORVS OF JEWISH WOMEN. </speaker>
             <l>THe rapid Motion of the Spheres </l>
             <l>Old Night from our Horizon bears; </l>
@@ -669,7 +666,7 @@
             <l>In chearisht Sorrow, and unwitnest Tears. </l>
           </sp>
           <stage xml:id="eng000626-e104730">PONTIVS PILAT. CAIAPHAS. </stage>
-          <sp who="#eng000626-pilate" xml:id="eng000626-e104740">
+          <sp xml:id="eng000626-e104740">
             <l>TArpaean Jove; Mars, great Quirinus Sire; </l>
             <l n="140">You Houshold gods, snatcht from Troys funerall Fire, </l>
             <l>With greater Zeal ador'd; when shall I pay </l>
@@ -810,7 +807,7 @@
             <l>The Pris'ner to the Souldiers care commit: </l>
             <l n="260">On whom this day we will in judgement fit. </l>
           </sp>
-          <sp who="#eng000626-chorus_jewish_women" xml:id="eng000626-e106010">
+          <sp who="#eng000626-chorus-jewish-women" xml:id="eng000626-e106010">
             <speaker>CHORVS OF JEWISH WOMEN. </speaker>
             <l>YOu lofty towers of Solyma, </l>
             <l>Thou ancient Throne of Soveraign sway: </l>
@@ -895,7 +892,7 @@
           <pb n="27" xml:id="eng000626-017-b"/>
           <head>THE THIRD ACT. </head>
           <stage xml:id="eng000626-e106770">JVDAS. CAIAPHAS. </stage>
-          <sp who="#eng000626-judas" xml:id="eng000626-e106780">
+          <sp xml:id="eng000626-e106780">
             <l>YOu who preserve your pure integrity; </l>
             <l>O you whose crimes transcend not credit, fly </l>
             <l>Farre from my presence! whose invenom'd sight </l>
@@ -993,7 +990,7 @@
             <l>Of my foule crime with equall punishment. </l>
           </sp>
           <stage xml:id="eng000626-e107670">PONTIVS PILAT. THE JEWS. </stage>
-          <sp who="#eng000626-pilate" xml:id="eng000626-e107680">
+          <sp xml:id="eng000626-e107680">
             <l>HOrror distracts my sense: irresolute </l>
             <l>Whether I should break silence, or sit mute. </l>
             <l>Envy th'accus'd condemnes, whom Justice cleares. </l>
@@ -1159,7 +1156,7 @@
             <l>A servil death let Judahs King there dye. </l>
           </sp>
           <stage xml:id="eng000626-e109140">CHORVS OF JEWISH WOMEN JESVS. </stage>
-          <sp who="#eng000626-chorus" xml:id="eng000626-e109150">
+          <sp xml:id="eng000626-e109150">
             <l n="225">WE all deplore thy miseries; </l>
             <l>For Thee we beat our brests; our eyes </l>
             <l>In bitter teares their moysture shed: </l>
@@ -1278,7 +1275,7 @@
           <pb n="41" xml:id="eng000626-024-b"/>
           <head>THE FOVRTH ACT. </head>
           <stage xml:id="eng000626-e110210">FIRST NVNCIVS. CHORVS OF JEWISH WOMEN. SECOND NVNCIVS. </stage>
-          <sp who="#eng000626-nuntius_1" xml:id="eng000626-e110220">
+          <sp xml:id="eng000626-e110220">
             <l>I From the horrid'st Act that ever fed </l>
             <l>The fire of barbarous Rage, at length am fled: </l>
             <l>Yet O too neare! The Object still pursues; </l>
@@ -1289,7 +1286,7 @@
             <l n="5">Art thou a witnesse of his miserie? </l>
             <l>Saw'st thou the Galilean Prophet die? </l>
           </sp>
-          <sp who="#eng000626-nuntius_1" xml:id="eng000626-e110300">
+          <sp who="#eng000626-nuntius-1" xml:id="eng000626-e110300">
             <speaker>1. NVNCIVS. </speaker>
             <l>Those Savages, to Scythian Rocks confin'd, </l>
             <l>Who know no God, nor vertue of the Minde, </l>
@@ -1303,7 +1300,7 @@
             <l>Lend him a teare! were all transform'd to stone! </l>
           </sp>
           <pb n="42" xml:id="eng000626-025-a"/>
-          <sp who="#eng000626-nuntius_1" xml:id="eng000626-e110390">
+          <sp who="#eng000626-nuntius-1" xml:id="eng000626-e110390">
             <speaker>1. NVNCIVS. </speaker>
             <l>No certainly: yet so commiserate, </l>
             <l>As Pittie prov'd more tyrannous then Hate. </l>
@@ -1330,7 +1327,7 @@
             <l>What can be heard, is fancied by our feares. </l>
           </sp>
           <pb n="43" xml:id="eng000626-025-b"/>
-          <sp who="#eng000626-nuntius_1" xml:id="eng000626-e110610">
+          <sp who="#eng000626-nuntius-1" xml:id="eng000626-e110610">
             <speaker>1. NVNCIVS. </speaker>
             <l>With-out the Citie, on that side which lies </l>
             <l>Exposed to the boysterous injuries </l>
@@ -1423,7 +1420,7 @@
             <l n="115">While lingring Death his sad release deferr'd, </l>
             <l>How lookt the standers by? what words were heard? </l>
           </sp>
-          <sp who="#eng000626-1_nuntius" xml:id="eng000626-e111470">
+          <sp who="#eng000626-nuntius-1" xml:id="eng000626-e111470">
             <speaker>I. NVNCIVS. </speaker>
             <l>Not all alike: discording murmurs rise. </l>
             <l>Some, with transfixed hearts, and wounded eyes, </l>
@@ -1533,7 +1530,7 @@
             <l n="215">All that thou know'st to our prepared eares: </l>
             <l>Accomplish, or dissolve our pressing feares. </l>
           </sp>
-          <sp who="#eng000626-2_nuntius" xml:id="eng000626-e112490">
+          <sp who="#eng000626-nuntius-2" xml:id="eng000626-e112490">
             <speaker>II NVNCIVS. </speaker>
             <l>Fury (from which, if loose, the Earth had fled) </l>
             <l>And fatall Starres have their event: He's dead. </l>
@@ -1545,7 +1542,7 @@
             <l>Yet tell how he dispos'd of his last breath; </l>
             <l>The passages, and order of his death. </l>
           </sp>
-          <sp who="#eng000626-2_nuntius" xml:id="eng000626-e112570">
+          <sp who="#eng000626-nuntius-2" xml:id="eng000626-e112570">
             <speaker>II NVNCIVS. </speaker>
             <l>As the declining Sun the shades increast, </l>
             <l>Reflecting on the more removed East, </l>
@@ -1599,7 +1596,7 @@
             <l>How did the many-minded People look </l>
             <l>At these Portents? with what affection strook? </l>
           </sp>
-          <sp who="#eng000626-2_nuntius" xml:id="eng000626-e113050">
+          <sp who="#eng000626-nuntius-2" xml:id="eng000626-e113050">
             <speaker>II. NVNCIVS. </speaker>
             <l>The Lamentations, mixed with the cries </l>
             <l n="270">Of weeping Women, in low'd Vollies rise. </l>
@@ -1632,7 +1629,7 @@
             <l>Can want belief. Hope they to satisfie </l>
             <l>With Sacrifice the Wrath of the most High? </l>
           </sp>
-          <sp who="#eng000626-2_nuntius" xml:id="eng000626-e113330">
+          <sp who="#eng000626-nuntius-2" xml:id="eng000626-e113330">
             <speaker>II. NVNCIVS. </speaker>
             <l n="295">New prodigies, as horrid, thither hale </l>
             <l>Th'astonisht Multitude. The Temples Vale </l>
@@ -1670,7 +1667,7 @@
             <l>Or naked hang, and with so dire a sight </l>
             <l>Profane the Vefper of the sacred Night? </l>
           </sp>
-          <sp who="#eng000626-2_nuntius" xml:id="eng000626-e113650">
+          <sp who="#eng000626-nuntius-2" xml:id="eng000626-e113650">
             <speaker>II. NVNCIVS. </speaker>
             <l n="325">Too late Religion warmes their savage brests, </l>
             <l>Lest that neare Houre, which harbengers their Feast; </l>
@@ -1707,7 +1704,7 @@
             <l>The Souldiers slowly march, with knees that bend </l>
             <l>Beneath their feares, and Pilats staires ascend. </l>
           </sp>
-          <sp who="#eng000626-chorus_romans" xml:id="eng000626-e113970">
+          <sp who="#eng000626-chorus-romans" xml:id="eng000626-e113970">
             <speaker>CHORVS OF ROMANE SOVLDIERS. </speaker>
             <l n="355">O Thou who on thy flaming Charriot rid'st, </l>
             <l>And with perpetuall Motion Time divid'st; </l>
@@ -1792,7 +1789,7 @@
           <pb n="60" xml:id="eng000626-034-a"/>
           <head>THE FIFTH ACT. </head>
           <stage xml:id="eng000626-e114730">JOSEPH OF ARIMATHEA. NICODEMVS. </stage>
-          <sp who="#eng000626-joseph" xml:id="eng000626-e114740">
+          <sp xml:id="eng000626-e114740">
             <l>SEe, Citizens, we Pilats bounty beare: </l>
             <l>With-out a suite men cannot man interre. </l>
             <l>The Romane Progeny nor freely will </l>
@@ -1925,7 +1922,7 @@
           </sp>
           <stage xml:id="eng000626-e115900">
             <pb n="65" xml:id="eng000626-036-b"/>JOHN. MARY THE MOTHER OF JESVS. </stage>
-          <sp who="#eng000626-john" xml:id="eng000626-e115910">
+          <sp xml:id="eng000626-e115910">
             <l>THou reverent Virgin, of his royall Bloud, </l>
             <l>Who all between the Erythrean Floud </l>
             <l n="110">And great Euphrates won by strenuous Armes: </l>

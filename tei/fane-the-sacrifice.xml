@@ -79,32 +79,38 @@
           <person xml:id="eng000670-guard" sex="MALE">
             <persName>Guard</persName>
           </person>
-          <person xml:id="eng000670-angel" sex="UNKNOWN">
+          <personGrp xml:id="eng000670-priests" sex="MALE">
+            <name>Priests</name>
+          </personGrp>
+          <personGrp xml:id="eng000670-captains" sex="MALE">
+            <name>Captains</name>
+          </personGrp>
+          <person xml:id="eng000670-angel" sex="FEMALE">
             <persName>Angel</persName>
           </person>
-          <person xml:id="eng000670-soldier-iv" sex="MALE">
-            <persName>Soldier IV</persName>
+          <person xml:id="eng000670-jailer" sex="MALE">
+            <persName>Jailer</persName>
           </person>
-          <person xml:id="eng000670-soldier-iii" sex="MALE">
-            <persName>Soldier III</persName>
+          <person xml:id="eng000670-soldier-4" sex="MALE">
+            <persName>Soldier 4</persName>
           </person>
-          <person xml:id="eng000670-soldier-ii" sex="MALE">
-            <persName>Soldier II</persName>
+          <person xml:id="eng000670-soldier-3" sex="MALE">
+            <persName>Soldier 3</persName>
           </person>
-          <person xml:id="eng000670-soldier-i" sex="MALE">
-            <persName>Soldier I</persName>
+          <person xml:id="eng000670-soldier-2" sex="MALE">
+            <persName>Soldier 2</persName>
           </person>
-          <person xml:id="eng000670-priest" sex="MALE">
-            <persName>Priest</persName>
+          <person xml:id="eng000670-soldier-1" sex="MALE">
+            <persName>Soldier 1</persName>
+          </person>
+          <person xml:id="eng000670-master-of-ceremonies" sex="MALE">
+            <persName>Master of Ceremonies</persName>
           </person>
           <person xml:id="eng000670-messenger" sex="MALE">
             <persName>Messenger</persName>
           </person>
           <person xml:id="eng000670-chancellor" sex="MALE">
-            <persName>Chancellor</persName>
-          </person>
-          <person xml:id="eng000670-master-of-ceremonies" sex="MALE">
-            <persName>Master of Ceremonies</persName>
+            <persName>Chancellor </persName>
           </person>
           <person xml:id="eng000670-tamerlane" sex="MALE">
             <persName>Tamerlane</persName>
@@ -130,12 +136,12 @@
           <person xml:id="eng000670-philarmia" sex="FEMALE">
             <persName>Philarmia</persName>
           </person>
+          <person xml:id="eng000670-priest" sex="MALE">
+            <persName>Priest</persName>
+          </person>
           <person xml:id="eng000670-astrologer" sex="MALE">
             <persName>Astrologer</persName>
           </person>
-          <personGrp xml:id="eng000670-captains" sex="MALE">
-            <name>Captains</name>
-          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>
@@ -951,7 +957,7 @@
             <speaker>Rag. </speaker>
             <l>What, am I well disguis'd? </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e8370">
+          <sp who="#eng000670-priests" xml:id="eng000670-e8370">
             <speaker>Priest. </speaker>
             <l>Mummy it self, Sir. </l>
             <pb n="11" xml:id="eng000670-014-b"/>
@@ -1001,7 +1007,7 @@
             <l>By dead men unperceiv'd, by th' living undistinguish'd. </l>
           </sp>
           <stage xml:id="eng000670-e8800">Enter Mummy Priest, habited like a Conjurer, &amp;c. </stage>
-          <sp who="#eng000670-priest" xml:id="eng000670-e8820">
+          <sp who="#eng000670-priests" xml:id="eng000670-e8820">
             <speaker>Priest. </speaker>
             <l>Greatest of Emperors, draw near, and see </l>
             <l>The richest Wardrobe of Mortality </l>
@@ -1029,7 +1035,7 @@
             <l>of years, no wonder they have so many Lyes. </l>
             <l>Whose Mummy's this? </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9060">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9060">
             <speaker>Priest. </speaker>
             <l>This is Viteio, </l>
             <l>The builder of an University, </l>
@@ -1039,7 +1045,7 @@
             <speaker>Iren. </speaker>
             <l>And whose is this? </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9150">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9150">
             <speaker>Priest. </speaker>
             <l>Ochanti; the Inventer of Printing. </l>
           </sp>
@@ -1047,7 +1053,7 @@
             <speaker>Iren. </speaker>
             <l>And this? </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9220">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9220">
             <speaker>Priest. </speaker>
             <l>Tzinzummey. The Inventer of </l>
             <l>Gun-powder: that frighted hence a certain rambling Prince, </l>
@@ -1060,7 +1066,7 @@
             <l>A small excuse wou'd serve a Western Conqueror. </l>
             <l>This crook-back'd Prince here? </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9360">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9360">
             <speaker>Priest. </speaker>
             <l>
               <hi>Huy Hannon</hi>. </l>
@@ -1070,7 +1076,7 @@
             <speaker>Tam. </speaker>
             <l>And this? </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9440">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9440">
             <speaker>Priest. </speaker>
             <l>Pintatei: his unfortunate Successor, that lost it. </l>
           </sp>
@@ -1086,7 +1092,7 @@
             <speaker>Iren. </speaker>
             <l>Who is this here? </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9570">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9570">
             <speaker>Priest. </speaker>
             <l>Auchosan. He that invented </l>
             <l>Wagons, to Sail with the Wind. </l>
@@ -1096,7 +1102,7 @@
             <speaker>Tam. </speaker>
             <l>Are all your Princes then Philosophers? </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9670">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9670">
             <speaker>Priest. </speaker>
             <l>No. But whosoever finds an admirable Art, </l>
             <l>Is strait made Governour of some wealthy Province, </l>
@@ -1107,7 +1113,7 @@
             <speaker>Tam. </speaker>
             <l>Hansome exchange, and nourishment for Virtue! </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9760">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9760">
             <pb n="13" xml:id="eng000670-015-b"/>
             <speaker>Priest. </speaker>
             <l>Here stands the great Tzionzon, builder of the Wall. </l>
@@ -1120,7 +1126,7 @@
             <speaker>Tam. </speaker>
             <l>'Tis strange! </l>
           </sp>
-          <sp who="#eng000670-priest" xml:id="eng000670-e9860">
+          <sp who="#eng000670-priests" xml:id="eng000670-e9860">
             <speaker>Priest. </speaker>
             <l>Marvel not, Sir; 'tis usual with him: </l>
             <l>He seems offended at your Conquests here. </l>
@@ -1204,25 +1210,25 @@
             <l>But feeds ill Humors, and like Venom urks. </l>
           </sp>
           <stage xml:id="eng000670-e10610">Enter Soldiers. </stage>
-          <sp who="#eng000670-soldier-i" xml:id="eng000670-e10620">
+          <sp who="#eng000670-soldier-1" xml:id="eng000670-e10620">
             <speaker>1 Sol. </speaker>
             <l>We shall have brave Plund'ring and Firing here! </l>
             <l>Heigh Boyes! </l>
           </sp>
-          <sp who="#eng000670-soldier-ii" xml:id="eng000670-e10660">
+          <sp who="#eng000670-soldier-2" xml:id="eng000670-e10660">
             <speaker>2 Sol. </speaker>
             <l>I; and hanging up these Conjuring Priests. </l>
           </sp>
-          <sp who="#eng000670-soldier-iii" xml:id="eng000670-e10690">
+          <sp who="#eng000670-soldier-3" xml:id="eng000670-e10690">
             <speaker>3 Sol. </speaker>
             <l>For my part, I do not like this Sacrilege. </l>
           </sp>
-          <sp who="#eng000670-soldier-iv" xml:id="eng000670-e10720">
+          <sp who="#eng000670-soldier-4" xml:id="eng000670-e10720">
             <speaker>4 Sol. </speaker>
             <l>Why, is it Sacrilege, to take away </l>
             <l>That which was given in God's name, to the Devil's use? </l>
           </sp>
-          <sp who="#eng000670-soldier-iii" xml:id="eng000670-e10760">
+          <sp who="#eng000670-soldier-3" xml:id="eng000670-e10760">
             <speaker>3 Sol. </speaker>
             <l>Ha! God-Almighty made a Trustee for the Devil! </l>
             <l>Nay, then have at 'em. <hi>Searches, and is frighted</hi>. </l>
@@ -1575,7 +1581,7 @@
             <speaker>Rag. </speaker>
             <l>Majestic Blasphemy! It works most bravely. </l>
           </sp>
-          <sp who="#eng000670-zeylan" xml:id="eng000670-e14270">
+          <sp who="#eng000670-jailer" xml:id="eng000670-e14270">
             <speaker>Iayl. </speaker>
             <l>What says the Prince? </l>
           </sp>
@@ -1600,7 +1606,7 @@
             <l>'Tis time his mouth were stopt; the vile Blasphemer! </l>
             <l>It is the Emperor wills it. </l>
           </sp>
-          <sp who="#eng000670-zeylan" xml:id="eng000670-e14500">
+          <sp who="#eng000670-jailer" xml:id="eng000670-e14500">
             <speaker>Iayl. </speaker>
             <l>Then 'tis done, Sir. </l>
           </sp>
@@ -2350,11 +2356,11 @@
             <stage xml:id="eng000670-e21360">Enter Six or Seven Soldiers. </stage>
             <l>Ha! what, surpriz'd! </l>
           </sp>
-          <sp who="#eng000670-soldier-i" xml:id="eng000670-e21380">
+          <sp who="#eng000670-soldier-1" xml:id="eng000670-e21380">
             <speaker>1 Sold. </speaker>
             <l>Stand, Traytor; yield. </l>
           </sp>
-          <sp who="#eng000670-soldier-ii" xml:id="eng000670-e21410">
+          <sp who="#eng000670-soldier-2" xml:id="eng000670-e21410">
             <speaker>2 Sold. </speaker>
             <l>Deliver. </l>
           </sp>
@@ -3035,15 +3041,15 @@
             <l>To the Coward Tamerlane: Now I cou'd wish </l>
             <l>For raging Bajazet, to be my Orator. </l>
           </sp>
-          <sp who="#eng000670-soldier-i" xml:id="eng000670-e27720">
+          <sp who="#eng000670-soldier-1" xml:id="eng000670-e27720">
             <speaker>1 Sold. </speaker>
             <l>'Tis the Emperor, as the General told us. </l>
           </sp>
-          <sp who="#eng000670-soldier-ii" xml:id="eng000670-e27750">
+          <sp who="#eng000670-soldier-2" xml:id="eng000670-e27750">
             <speaker>2 Sold. </speaker>
             <l>My Life, 'tis he by's Voice; Camrade, my Powder's wet. </l>
           </sp>
-          <sp who="#eng000670-soldier-iii" xml:id="eng000670-e27780">
+          <sp who="#eng000670-soldier-3" xml:id="eng000670-e27780">
             <speaker>3 Sold. </speaker>
             <l>And my hand shakes, I cannot hold my Arms. </l>
           </sp>

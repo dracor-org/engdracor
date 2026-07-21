@@ -71,23 +71,38 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000531-third-thief" sex="MALE">
-            <persName>Third Thief</persName>
+          <personGrp xml:id="eng000531-gentlemen" sex="MALE">
+            <name>Gentlemen</name>
+          </personGrp>
+          <person xml:id="eng000531-thief-2" sex="MALE">
+            <persName>Thief 2</persName>
+          </person>
+          <person xml:id="eng000531-thief-1" sex="MALE">
+            <persName>Thief 1</persName>
+          </person>
+          <person xml:id="eng000531-boy-2" sex="MALE">
+            <persName>Boy 2</persName>
+          </person>
+          <person xml:id="eng000531-boy-1" sex="MALE">
+            <persName>Boy 1</persName>
+          </person>
+          <person xml:id="eng000531-rogue-3" sex="MALE">
+            <persName>Rogue 3</persName>
+          </person>
+          <person xml:id="eng000531-rogue-2" sex="MALE">
+            <persName>Rogue 2</persName>
+          </person>
+          <person xml:id="eng000531-rogue-1" sex="MALE">
+            <persName>Rogue 1</persName>
+          </person>
+          <person xml:id="eng000531-boy" sex="MALE">
+            <persName>Boy</persName>
           </person>
           <person xml:id="eng000531-servant" sex="MALE">
             <persName>Servant</persName>
           </person>
-          <personGrp xml:id="eng000531-fiddlers" sex="MALE">
-            <name>Fiddlers</name>
-          </personGrp>
-          <person xml:id="eng000531-second-boy" sex="MALE">
-            <persName>Second Boy</persName>
-          </person>
-          <person xml:id="eng000531-first-boy" sex="MALE">
-            <persName>First Boy</persName>
-          </person>
-          <person xml:id="eng000531-second-thief" sex="MALE">
-            <persName>Second Thief</persName>
+          <person xml:id="eng000531-page" sex="MALE">
+            <persName>Page</persName>
           </person>
           <person xml:id="eng000531-don-ferdinando" sex="MALE">
             <persName>Don Ferdinando</persName>
@@ -116,14 +131,14 @@
           <person xml:id="eng000531-sancho" sex="MALE">
             <persName>Sancho</persName>
           </person>
-          <person xml:id="eng000531-first-thief" sex="MALE">
-            <persName>First Thief</persName>
-          </person>
+          <personGrp xml:id="eng000531-three-thieves" sex="MALE">
+            <name>Three Thieves</name>
+          </personGrp>
           <person xml:id="eng000531-bianca" sex="FEMALE">
             <persName>Bianca</persName>
           </person>
-          <person xml:id="eng000531-coach-man" sex="MALE">
-            <persName>Coach-man</persName>
+          <person xml:id="eng000531-coachman" sex="MALE">
+            <persName>Coachman</persName>
           </person>
           <person xml:id="eng000531-donna-beatrice" sex="FEMALE">
             <persName>Donna Beatrice</persName>
@@ -488,8 +503,7 @@
           <speaker>Feli. </speaker>
           <p>O Donna Quintagona! </p>
         </sp>
-        <sp who="#eng000531-donna-miranda #eng000531-don-felices"
-                xml:id="eng000531-e3320">
+        <sp who="#eng000531-don-felices" xml:id="eng000531-e3320">
           <speaker>Mir. Feli. </speaker>
           <p>Cheri chink, cheri chink, cheri chink, tery chink chink. </p>
         </sp>
@@ -802,8 +816,7 @@
           <p>This way Gentlemen I'm. </p>
         </sp>
         <stage xml:id="eng000531-e6030">Exit. </stage>
-        <sp who="#eng000531-don-felices #eng000531-don-alvaredo #eng000531-don-ferdinando #eng000531-ossorio #eng000531-pedro"
-                xml:id="eng000531-e6040">
+        <sp who="#eng000531-don-felices" xml:id="eng000531-e6040">
           <speaker>Enter <hi>Feli. &amp;c.</hi>
           </speaker>
           <p>Where art thou? sure 'tis some Ghost. </p>
@@ -1527,7 +1540,7 @@
           <stage xml:id="eng000531-e12370">Brings in Water. </stage>
           <l>But from the River, I suspect. </l>
         </sp>
-        <sp who="#eng000531-bartolo" xml:id="eng000531-e12390">
+        <sp who="#eng000531-page" xml:id="eng000531-e12390">
           <speaker>Page. </speaker>
           <p>Indeed, my Lord, it comes from both. </p>
         </sp>
@@ -2451,7 +2464,7 @@
           <l>The little begging Boys that stand on their heads </l>
           <l>In Normandy, as I have read. </l>
         </sp>
-        <sp who="#eng000531-don-lorenzo #eng000531-donna-elvira #eng000531-don-alvaredo #eng000531-don-antonio #eng000531-don-ferdinando #eng000531-donna-beatrice #eng000531-quintagona #eng000531-donna-miranda #eng000531-servant"
+        <sp who="#eng000531-don-antonio #eng000531-don-ferdinando #eng000531-don-alvaredo #eng000531-donna-beatrice #eng000531-donna-miranda #eng000531-donna-elvira #eng000531-quintagona"
                 xml:id="eng000531-e20710">
           <speaker>Omnes. </speaker>
           <p>Ha, ha, ha, ha! </p>
@@ -2582,7 +2595,7 @@
           <l>How Jonas swallowed the Whale, and spew'd him up </l>
           <l>Upon the Coast of Gibraltar. </l>
         </sp>
-        <sp who="#eng000531-don-lorenzo #eng000531-donna-elvira #eng000531-don-alvaredo #eng000531-don-antonio #eng000531-don-ferdinando #eng000531-donna-beatrice #eng000531-quintagona #eng000531-donna-miranda #eng000531-servant"
+        <sp who="#eng000531-don-antonio #eng000531-don-ferdinando #eng000531-don-alvaredo #eng000531-donna-beatrice #eng000531-donna-miranda #eng000531-donna-elvira #eng000531-quintagona"
                 xml:id="eng000531-e21960">
           <speaker>Omnes. </speaker>
           <p>Ha, ha, ha. </p>
@@ -2601,7 +2614,7 @@
           <l>Come, gallants, now to the fair Elvira, in particular, </l>
           <l>Boy, some wine; wine there to those Gentlemen. </l>
         </sp>
-        <sp who="#eng000531-first-boy" xml:id="eng000531-e22120">
+        <sp who="#eng000531-boy" xml:id="eng000531-e22120">
           <speaker>Boy. </speaker>
           <p>Pish, Bartolo, the Devil, here's none in; </p>
         </sp>
@@ -2613,7 +2626,7 @@
           <speaker>Lor. </speaker>
           <p>Why, Sirrah, where's this wine. </p>
         </sp>
-        <sp who="#eng000531-first-boy" xml:id="eng000531-e22220">
+        <sp who="#eng000531-boy" xml:id="eng000531-e22220">
           <speaker>Boy. </speaker>
           <p>My Lord, the Cock is stop'd. </p>
         </sp>
@@ -2657,7 +2670,7 @@
           <speaker>Lor. </speaker>
           <p>Why, very well, very well, no harm, </p>
         </sp>
-        <sp who="#eng000531-don-lorenzo #eng000531-donna-elvira #eng000531-don-alvaredo #eng000531-don-antonio #eng000531-don-ferdinando #eng000531-donna-beatrice #eng000531-quintagona #eng000531-donna-miranda #eng000531-servant"
+        <sp who="#eng000531-don-antonio #eng000531-don-ferdinando #eng000531-don-alvaredo #eng000531-donna-beatrice #eng000531-donna-miranda #eng000531-donna-elvira #eng000531-quintagona"
                 xml:id="eng000531-e22580">
           <speaker>Omnes. </speaker>
           <p>Ha, ha, ha, ha, ha. </p>
@@ -2678,7 +2691,7 @@
           <speaker>Bar. </speaker>
           <p>Ails me, quoth'u? </p>
         </sp>
-        <sp who="#eng000531-don-lorenzo #eng000531-donna-elvira #eng000531-don-alvaredo #eng000531-don-antonio #eng000531-don-ferdinando #eng000531-donna-beatrice #eng000531-quintagona #eng000531-donna-miranda #eng000531-servant"
+        <sp who="#eng000531-don-antonio #eng000531-don-ferdinando #eng000531-don-alvaredo #eng000531-donna-beatrice #eng000531-donna-miranda #eng000531-donna-elvira #eng000531-quintagona"
                 xml:id="eng000531-e22750">
           <speaker>Omnes. </speaker>
           <p>Ha, ha, ha, ha. </p>
@@ -2984,7 +2997,7 @@
         </sp>
         <stage xml:id="eng000531-e25480">Enter 2 <hi>more, and sieze him behind. </hi>
         </stage>
-        <sp who="#eng000531-first-thief" xml:id="eng000531-e25510">
+        <sp who="#eng000531-rogue-1" xml:id="eng000531-e25510">
           <speaker>1. </speaker>
           <p>Are you so stout, Sir? Come, we can tame yee. </p>
         </sp>
@@ -2994,7 +3007,7 @@
           <l>Is it my Purse ye want? take it, </l>
           <l>And be gone. </l>
         </sp>
-        <sp who="#eng000531-second-thief" xml:id="eng000531-e25590">
+        <sp who="#eng000531-rogue-2" xml:id="eng000531-e25590">
           <speaker>2 Rogue. </speaker>
           <l>We thank yee for nothing; </l>
           <l>You give us what yee cannot keep. </l>
@@ -3004,7 +3017,7 @@
           <l>What then? is it my Life? </l>
           <l>Who set ye on to do this mischief? </l>
         </sp>
-        <sp who="#eng000531-third-thief" xml:id="eng000531-e25680">
+        <sp who="#eng000531-rogue-3" xml:id="eng000531-e25680">
           <speaker>3 Rogue. </speaker>
           <l>No, that wee'l spare, if you'l be quiet: </l>
           <l>Come, bind him, Fellows. </l>
@@ -3014,7 +3027,7 @@
           <p>I must submit to what I cannot help. </p>
         </sp>
         <stage xml:id="eng000531-e25760">they bind him. </stage>
-        <sp who="#eng000531-second-thief" xml:id="eng000531-e25770">
+        <sp who="#eng000531-rogue-2" xml:id="eng000531-e25770">
           <speaker>2 Rogue. </speaker>
           <l>To tell you true, we're men condemn'd </l>
           <l>Unto the Gallies, Sir; </l>
@@ -3025,13 +3038,13 @@
           <l>We have pitch'd upon this Course </l>
           <l>Till we can better provide for our safeties. </l>
         </sp>
-        <sp who="#eng000531-third-thief" xml:id="eng000531-e25890">
+        <sp who="#eng000531-rogue-3" xml:id="eng000531-e25890">
           <speaker>3 Rogue. </speaker>
           <l>Come, Sir, you must with us to our private </l>
           <l>Retreat; and if Fortune favour us, we hope </l>
           <l>This night to bring yee Company. </l>
         </sp>
-        <sp who="#eng000531-first-thief" xml:id="eng000531-e25950">
+        <sp who="#eng000531-rogue-1" xml:id="eng000531-e25950">
           <speaker>1 Rogue. </speaker>
           <l>Yes truly, Signior; for we are resolv'd </l>
           <l>To stop all Comers and Goers till morning. </l>
@@ -3045,7 +3058,7 @@
           <l>I'le pay a better Ransome then what I bear </l>
           <l>About me. </l>
         </sp>
-        <sp who="#eng000531-second-thief" xml:id="eng000531-e26080">
+        <sp who="#eng000531-rogue-2" xml:id="eng000531-e26080">
           <speaker>2 Rogue. </speaker>
           <p>Yes, who shall be so bold to fetch it? </p>
         </sp>
@@ -3055,7 +3068,7 @@
           <l>Why, you or any man; I will engage my </l>
           <l>Honour for your safety. </l>
         </sp>
-        <sp who="#eng000531-first-thief" xml:id="eng000531-e26160">
+        <sp who="#eng000531-rogue-1" xml:id="eng000531-e26160">
           <speaker>1 Rogue. </speaker>
           <p>Come, Sir, wee'l talk of that within. </p>
         </sp>
@@ -3563,7 +3576,7 @@
           <speaker>Elv. </speaker>
           <p>Diego, what was it he question'd you about? </p>
         </sp>
-        <sp who="#eng000531-coach-man" xml:id="eng000531-e30460">
+        <sp who="#eng000531-coachman" xml:id="eng000531-e30460">
           <speaker>Coach. </speaker>
           <l>If I had not carried a Lady home last night; </l>
           <l>I answered him truth, I saw none but your Ladiship. </l>
@@ -3572,7 +3585,7 @@
           <speaker>Elv. </speaker>
           <p>A Lady, what Lady? </p>
         </sp>
-        <sp who="#eng000531-coach-man" xml:id="eng000531-e30530">
+        <sp who="#eng000531-coachman" xml:id="eng000531-e30530">
           <speaker>Coach. </speaker>
           <p>He ask'd me too about one Signior Ferdinando. </p>
         </sp>
@@ -3593,8 +3606,7 @@
         <stage xml:id="eng000531-e30750">Enter Sancho, <hi>in a ridiculous French Dress; The People and Boys after him. </hi>
         </stage>
         <stage xml:id="eng000531-e30780">Sings and Dance's a ridiculous Corant. </stage>
-        <sp who="#eng000531-first-boy #eng000531-second-boy"
-                xml:id="eng000531-e30790">
+        <sp who="#eng000531-boy-1 #eng000531-boy-2" xml:id="eng000531-e30790">
           <speaker>Boys. </speaker>
           <p>O Brave Monsieur Kick-hose. </p>
         </sp>
@@ -3622,15 +3634,15 @@
           <p>I come, I come. </p>
         </sp>
         <stage xml:id="eng000531-e30990">Enter Sancho <hi>in the house</hi>. </stage>
-        <sp who="#eng000531-first-boy" xml:id="eng000531-e31020">
+        <sp who="#eng000531-boy-1" xml:id="eng000531-e31020">
           <speaker>1. Boy. </speaker>
           <p>Pox, we have lost the Frenchman. </p>
         </sp>
-        <sp who="#eng000531-second-boy" xml:id="eng000531-e31060">
+        <sp who="#eng000531-boy-2" xml:id="eng000531-e31060">
           <speaker>2. Boy. </speaker>
           <p>Let's stay a little, hee'll come again strait. </p>
         </sp>
-        <sp who="#eng000531-first-boy" xml:id="eng000531-e31100">
+        <sp who="#eng000531-boy-1" xml:id="eng000531-e31100">
           <speaker>1. Boy. </speaker>
           <p>We must hide our selves then. </p>
         </sp>
@@ -3687,23 +3699,23 @@
         <stage xml:id="eng000531-e31590">
           <hi>Enter the Thieves with </hi>Ferdinando and Beatrice <hi>bound; She in Mans Clothes. </hi>
         </stage>
-        <sp who="#eng000531-first-thief" xml:id="eng000531-e31630">
+        <sp who="#eng000531-thief-1" xml:id="eng000531-e31630">
           <speaker>1 Thief. </speaker>
           <p>Are the rest all gone? </p>
         </sp>
-        <sp who="#eng000531-second-thief" xml:id="eng000531-e31670">
+        <sp who="#eng000531-thief-2" xml:id="eng000531-e31670">
           <speaker>2 Thief. </speaker>
           <p>All vanish'd. </p>
         </sp>
-        <sp who="#eng000531-first-thief" xml:id="eng000531-e31710">
+        <sp who="#eng000531-thief-1" xml:id="eng000531-e31710">
           <speaker>1 Thief. </speaker>
           <p>Are the two Horses ready? </p>
         </sp>
-        <sp who="#eng000531-second-thief" xml:id="eng000531-e31750">
+        <sp who="#eng000531-thief-2" xml:id="eng000531-e31750">
           <speaker>2 Thief. </speaker>
           <p>I, I, ready, ready. </p>
         </sp>
-        <sp who="#eng000531-first-thief" xml:id="eng000531-e31790">
+        <sp who="#eng000531-thief-1" xml:id="eng000531-e31790">
           <speaker>1 Thief. </speaker>
           <l>Well, Gentlemen, I hope you can't complain, </l>
           <l>But we have us'd ye civilly. </l>
@@ -3714,7 +3726,7 @@
           <l>Punish'd, since ye but took to furnish your </l>
           <l>Necessities. </l>
         </sp>
-        <sp who="#eng000531-first-thief" xml:id="eng000531-e31890">
+        <sp who="#eng000531-thief-1" xml:id="eng000531-e31890">
           <speaker>1 Thief. </speaker>
           <l>True, Sir; for we are young men, </l>
           <l>Not condemn'd Slaves, as we first told yee; </l>
@@ -3727,7 +3739,7 @@
           <l>And on our Honours wee'l not stir till you </l>
           <l>Be out of sight. </l>
         </sp>
-        <sp who="#eng000531-second-thief" xml:id="eng000531-e32010">
+        <sp who="#eng000531-thief-2" xml:id="eng000531-e32010">
           <speaker>2 Thief. </speaker>
           <p>Come, Sirs, wee'l trust ye. </p>
         </sp>
@@ -3738,7 +3750,7 @@
           <l>'Twere noble in you; for I would not </l>
           <l>Willingly go back to Sevil. </l>
         </sp>
-        <sp who="#eng000531-first-thief" xml:id="eng000531-e32120">
+        <sp who="#eng000531-thief-1" xml:id="eng000531-e32120">
           <speaker>1 Thief. </speaker>
           <l>That you may say ye met with Gentlemen, </l>
           <pb n="48" xml:id="eng000531-025-a"/>
@@ -3750,7 +3762,7 @@
           <speaker>Fer. </speaker>
           <p>I thank ye, Gentlemen. </p>
         </sp>
-        <sp who="#eng000531-second-thief" xml:id="eng000531-e32220">
+        <sp who="#eng000531-thief-2" xml:id="eng000531-e32220">
           <speaker>2 Thief. </speaker>
           <l>So much caution you'l give us leave to use: </l>
           <l>Farewel, Gentlemen. </l>
@@ -3867,7 +3879,7 @@
           <speaker>Elv. </speaker>
           <p>Why didst thou not bring him with thee, Diego? </p>
         </sp>
-        <sp who="#eng000531-coach-man" xml:id="eng000531-e33290">
+        <sp who="#eng000531-coachman" xml:id="eng000531-e33290">
           <speaker>Coa. </speaker>
           <p>He promis'd to be here as soon as I. </p>
         </sp>
@@ -4885,7 +4897,7 @@
             <l>The Accident hapned last night, </l>
             <l>You know the tune I made the Song to </l>
           </sp>
-          <sp who="#eng000531-fiddlers" xml:id="eng000531-e42460">
+          <sp who="#eng000531-gentlemen" xml:id="eng000531-e42460">
             <speaker>Gen. </speaker>
             <p>I, I, Come, shall we begin. </p>
           </sp>

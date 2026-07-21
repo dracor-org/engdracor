@@ -108,43 +108,40 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000734-infanta">
+          <person xml:id="eng000734-infanta" sex="FEMALE">
             <persName>Infanta</persName>
           </person>
-          <person xml:id="eng000734-cimena">
+          <person xml:id="eng000734-cimena" sex="FEMALE">
             <persName>Cimena</persName>
           </person>
-          <person xml:id="eng000734-sancho">
+          <person xml:id="eng000734-sancho" sex="MALE">
             <persName>Sancho</persName>
           </person>
-          <person xml:id="eng000734-unassigned">
-            <persName>Unassigned</persName>
-          </person>
-          <person xml:id="eng000734-king">
+          <person xml:id="eng000734-king" sex="MALE">
             <persName>King</persName>
           </person>
-          <person xml:id="eng000734-diego">
+          <person xml:id="eng000734-diego" sex="MALE">
             <persName>Diego</persName>
           </person>
-          <person xml:id="eng000734-arias">
+          <person xml:id="eng000734-arias" sex="MALE">
             <persName>Arias</persName>
           </person>
-          <person xml:id="eng000734-roderigo">
+          <person xml:id="eng000734-roderigo" sex="MALE">
             <persName>Roderigo</persName>
           </person>
-          <person xml:id="eng000734-spheranti">
+          <person xml:id="eng000734-spheranti" sex="MALE">
             <persName>Spheranti</persName>
           </person>
-          <person xml:id="eng000734-celimant">
+          <person xml:id="eng000734-celimant" sex="MALE">
             <persName>Celimant</persName>
           </person>
-          <person xml:id="eng000734-serifa">
+          <person xml:id="eng000734-serifa" sex="FEMALE">
             <persName>Serifa</persName>
           </person>
-          <person xml:id="eng000734-page">
+          <person xml:id="eng000734-page" sex="MALE">
             <persName>Page</persName>
           </person>
-          <person xml:id="eng000734-boy">
+          <person xml:id="eng000734-boy" sex="MALE">
             <persName>Boy</persName>
           </person>
         </listPerson>
@@ -380,7 +377,7 @@
               <speaker>SAN. </speaker>
               <l>The best of news unto the best of women. </l>
             </sp>
-            <sp who="#eng000734-unassigned" xml:id="eng000734-e101740">
+            <sp xml:id="eng000734-e101740">
               <speaker>CIM. </speaker>
               <l>What news? Is Cid return'd? </l>
             </sp>
@@ -1665,7 +1662,7 @@
                 <l>Why should you then despaire? </l>
               </lg>
             </sp>
-            <sp who="#eng000734-unassigned" xml:id="eng000734-e110840">
+            <sp who="#eng000734-spheranti" xml:id="eng000734-e110840">
               <speaker>S. P. </speaker>
               <lg>
                 <l>I but the horrour </l>
@@ -2783,7 +2780,7 @@
                 <l>Who did transact the businesse. </l>
               </lg>
             </sp>
-            <sp who="#eng000734-unassigned" xml:id="eng000734-e118510">
+            <sp who="#eng000734-king" xml:id="eng000734-e118510">
               <speaker>L. </speaker>
               <lg>
                 <l>Some such thing </l>

@@ -108,50 +108,47 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="eng000624-antoniud">
-            <persName>Antoniud</persName>
-          </person>
-          <person xml:id="eng000624-chorus">
-            <persName>Chorus</persName>
-          </person>
-          <person xml:id="eng000624-philostratus">
+          <personGrp xml:id="eng000624-chorus" sex="UNKNOWN">
+            <name>Chorus</name>
+          </personGrp>
+          <personGrp xml:id="eng000624-children" sex="UNKNOWN">
+            <name>Children</name>
+          </personGrp>
+          <person xml:id="eng000624-philostratus" sex="MALE">
             <persName>Philostratus</persName>
           </person>
-          <person xml:id="eng000624-cleopatra">
+          <person xml:id="eng000624-cleopatra" sex="FEMALE">
             <persName>Cleopatra</persName>
           </person>
-          <person xml:id="eng000624-eras">
+          <person xml:id="eng000624-eras" sex="FEMALE">
             <persName>Eras</persName>
           </person>
-          <person xml:id="eng000624-charmion">
+          <person xml:id="eng000624-charmion" sex="FEMALE">
             <persName>Charmion</persName>
           </person>
-          <person xml:id="eng000624-diomede">
+          <person xml:id="eng000624-diomede" sex="FEMALE">
             <persName>Diomede</persName>
           </person>
-          <person xml:id="eng000624-antony">
+          <person xml:id="eng000624-antony" sex="MALE">
             <persName>Antony</persName>
           </person>
-          <person xml:id="eng000624-lucilius">
+          <person xml:id="eng000624-lucilius" sex="MALE">
             <persName>Lucilius</persName>
           </person>
-          <person xml:id="eng000624-antonius">
+          <person xml:id="eng000624-antonius" sex="MALE">
             <persName>Antonius</persName>
           </person>
-          <person xml:id="eng000624-caesar">
+          <person xml:id="eng000624-caesar" sex="MALE">
             <persName>Caesar</persName>
           </person>
-          <person xml:id="eng000624-agrippa">
+          <person xml:id="eng000624-agrippa" sex="MALE">
             <persName>Agrippa</persName>
           </person>
-          <person xml:id="eng000624-dircetus">
+          <person xml:id="eng000624-dircetus" sex="MALE">
             <persName>Dircetus</persName>
           </person>
-          <person xml:id="eng000624-euphron">
+          <person xml:id="eng000624-euphron" sex="MALE">
             <persName>Euphron</persName>
-          </person>
-          <person xml:id="eng000624-children">
-            <persName>Children</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -197,7 +194,7 @@
       <div n="1" type="act" xml:id="eng000624-e100230">
         <pb xml:id="eng000624-004-b"/>
         <head>ANTONIVS </head>
-        <sp who="#eng000624-antoniud" xml:id="eng000624-e100240">
+        <sp xml:id="eng000624-e100240">
           <l>SInce cruell Heau'ns against me obstinate, </l>
           <l>Since all mishappes of the round engin doo </l>
           <l>Conspire my harme: since men, since powers diuine </l>
